@@ -1,0 +1,29 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/isomer-logo.svg
+
+links:
+  - title: Contact Us
+    url: /contact-us/
+  - title: Facilities Booking
+    url: /facilities-booking/
+  - title: Discover Ssi
+    collection: discover-ssi
+  - title: Facilities Booking
+    url: /facilities-booking/
+  - title: Discover Ssi
+    collection: discover-ssi
+  - title: Initiatives
+    collection: initiatives
+  - title: Training
+    collection: training
+  - title: Resources
+    collection: resources
+  - title: Faq
+    collection: faq
+  - title: Stories
+    collection: stories
