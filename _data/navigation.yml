@@ -11,11 +11,7 @@ links:
     url: /contact-us/
   - title: Facilities Booking
     url: /facilities-booking/
-  - title: Discover Ssi
-    collection: discover-ssi
-  - title: Facilities Booking
-    url: /facilities-booking/
-  - title: Discover Ssi
+  - title: Discover SSI
     collection: discover-ssi
   - title: Initiatives
     collection: initiatives
