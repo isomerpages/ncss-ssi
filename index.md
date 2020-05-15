@@ -13,7 +13,7 @@ sections:
         button: Contact Us
         url: /contact-us/
         key_highlights:
-            - title: Highlight A
+            - title: New titles
               description: Important highlight A is important
               url: https://google.com
             - title: Highlight B
