@@ -21,7 +21,7 @@ The management team is guided by a panel of experts who continuously provide inp
 <br/>
 
 #### Human Capital Development (HCD) panel
-<table>
+<table border="1">
 <tr><td><b>Name</b></td><td><b>Designation</b></td></tr>
 <tr><td>Dr Cheong Choong Kong</td><td>Chairman</td></tr>
 <tr><td>Prof Tsui Kai Chong</td><td>Member</td></tr>
