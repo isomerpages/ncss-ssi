@@ -19,4 +19,17 @@ permalink: /discover-ssi/our-management/
 
 The management team is guided by a panel of experts who continuously provide input to the strategic plans of the organisation.
 <br/>
-**Human Capital Development (HCD) panel**
+
+#### Human Capital Development (HCD) panel
+<table>
+<tr><td><b>Name</b></td><td><b>Designation</b></td></tr>
+<tr><td>Dr Cheong Choong Kong</td><td>Chairman</td></tr>
+<tr><td>Prof Tsui Kai Chong</td><td>Member</td></tr>
+<tr><td>Ms Chan Chia Lin</td><td>Member</td></tr>
+<tr><td>Ms Maureen Fung</td><td>Member</td></tr>
+<tr><td>Ms Ong Toon Hui</td><td>Member</td></tr>
+<tr><td>Ms Ku Geok Boon</td><td>Member</td></tr>
+<tr><td>Ms Lee Mui Ling</td><td>Member</td></tr>
+<tr><td>Mr Gerard Koh Keng Swee</td><td>Member</td></tr>
+<tr><td>Mr Sallim Abdul Kadir</td><td>Member</td></tr>
+</table>
