@@ -22,14 +22,14 @@ The management team is guided by a panel of experts who continuously provide inp
 
 #### Human Capital Development (HCD) panel
 <table border="1">
-<tr><td><b>Name</b></td><td><b>Designation</b></td></tr>
-<tr><td>Dr Cheong Choong Kong</td><td>Chairman</td></tr>
-<tr><td>Prof Tsui Kai Chong</td><td>Member</td></tr>
-<tr><td>Ms Chan Chia Lin</td><td>Member</td></tr>
-<tr><td>Ms Maureen Fung</td><td>Member</td></tr>
-<tr><td>Ms Ong Toon Hui</td><td>Member</td></tr>
-<tr><td>Ms Ku Geok Boon</td><td>Member</td></tr>
-<tr><td>Ms Lee Mui Ling</td><td>Member</td></tr>
-<tr><td>Mr Gerard Koh Keng Swee</td><td>Member</td></tr>
-<tr><td>Mr Sallim Abdul Kadir</td><td>Member</td></tr>
+<tr><td border="1"><b>Name</b></td><td><b>Designation</b></td></tr>
+<tr><td border="1">Dr Cheong Choong Kong</td><td>Chairman</td></tr>
+<tr><td border="1">Prof Tsui Kai Chong</td><td>Member</td></tr>
+<tr><td border="1">Ms Chan Chia Lin</td><td>Member</td></tr>
+<tr><td border="1">Ms Maureen Fung</td><td>Member</td></tr>
+<tr><td border="1">Ms Ong Toon Hui</td><td>Member</td></tr>
+<tr><td border="1">Ms Ku Geok Boon</td><td>Member</td></tr>
+<tr><td border="1">Ms Lee Mui Ling</td><td>Member</td></tr>
+<tr><td border="1">Mr Gerard Koh Keng Swee</td><td>Member</td></tr>
+<tr><td border="1">Mr Sallim Abdul Kadir</td><td>Member</td></tr>
 </table>
