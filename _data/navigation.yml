@@ -7,10 +7,6 @@
 logo: /images/SSILogoFullColour_large_fullwidth.png
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Facilities Booking
-    url: /facilities-booking/
   - title: Discover SSI
     collection: discover-ssi
   - title: Initiatives
@@ -19,7 +15,11 @@ links:
     collection: training
   - title: Resources
     collection: resources
-  - title: Faq
-    collection: faq
   - title: Stories
     collection: stories
+  - title: Facilities Booking
+    url: /facilities-booking/
+  - title: Faq
+    collection: faq
+  - title: Contact Us
+    url: /contact-us/    
