@@ -20,12 +20,17 @@ sections:
               description: Register for WSQ Advanced Certificate & Diploma in Social Service Preview
               url: https://gmail.com
             - title: National Social Work Competency Framework
-              description: Click here to find out more
+              description: Find out the latest standards and guidelines
               url: /privacy/
-    - infobar:
+              
+    - infopic:
         title: Start planning for your training needs today!
         subtitle: Training directory now available
         description: cross sector - children, youth and family - disability - mental health - eldercare - board development - management and organisational development - volunteer development and management - caregiving
         button: Learn More
+        url: /training-cert-programmes
+        image: /images/training-directory.png
+        alt: Training Directory
+        
         url: /faq/
 ---
