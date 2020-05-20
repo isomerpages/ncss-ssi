@@ -9,7 +9,7 @@ sections:
     - hero:
         title: Social Service Institute
         subtitle: Nurturing Careers, Inspiring Lives
-        background: /images/ssi-hero-banner-3.png
+        background: /images/ssi-hero-banner-4.png
         button: Contact Us
         url: /contact-us/
         key_highlights:
