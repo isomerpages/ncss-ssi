@@ -29,7 +29,7 @@ sections:
         description: cross sector - children, youth and family - disability - mental health - eldercare - board development - management and organisational development - volunteer development and management - caregiving
         button: Learn More
         url: /training-cert-programmes
-        image: /images/training-directory.png
+        image: /images/training-directory-pic.png
         alt: Training Directory
         
         url: /faq/
