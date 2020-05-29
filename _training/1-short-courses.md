@@ -28,3 +28,10 @@ Please browse our [course listing for FY20/21](/images/short-courses/course-list
 </table>
 
 [![Leadership Programmes](/images/short-courses/leadership-prog.png "Our leadership milestone programme develops your leadership skills by preparing you for different stages in your...")](training/short-courses/leadership-programmes)
+
+## v3
+
+
+|  |  |
+|--|--|
+|[![Leadership Programmes](/images/short-courses/leadership-prog.png "Our leadership milestone programme develops your leadership skills by preparing you for different stages in your...")](training/short-courses/leadership-programmes)  | [![Children Youth and Family Programmes](/images/short-courses/children-youth-and-family-courses.png "Develop your competencies in your area of specialisation...")](https://e-services.ncss.gov.sg/Training/course/templatesearch?Filter.CourseSubCategory.Id=f6f837bd-290c-e611-810d-000c29e3b091)  |
