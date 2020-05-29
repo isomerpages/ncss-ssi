@@ -1,5 +1,5 @@
 ---
-title: SSI - Home
+title: Updates on SSI's Training Programmes
 permalink: /training/updates-on-ssi-training-programmes
 ---
 
@@ -10,7 +10,7 @@ In line with heightened safe-distancing measures announced by the government, th
 During this period, you can reach us through the following means:
 
 1. Phone: 6589 5555 from 9am to 6pm  (Mondays to Fridays)
-2. Email: socialserviceinstitute@ncss.gov.sg
+2. Email: socialserviceinstitute@ncss.gov.sg 
 
 More information on online courses that you can participate during this period and other relevant updates will be made available on this page progressively.
  
