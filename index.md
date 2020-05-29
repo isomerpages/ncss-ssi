@@ -38,7 +38,16 @@ sections:
         description: text description
         button: Learn More
         url: /faq
-        image: /images/whatsnew-stories.png
+        image: /images/homepage/whatsnew-stories.png
+        alt: whatsnew-stories
+        
+    - infopic:
+        title: The images alternate sides
+        subtitle: a smaller subtitle
+        description: text description
+        button: Learn More
+        url: /faq
+        image: /images/homepage/whatsnew-stories.png
         alt: whatsnew-stories
         
     - infobar:
