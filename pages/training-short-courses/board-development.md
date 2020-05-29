@@ -5,9 +5,8 @@ permalink: training/short-courses/board-members-programmes/
 ### Board Development 
 The Develop Board Volunteers Initiative (DBVI) is the first-of-its kind in the non-profit sector for developing board members in the Non-Profit Organisations (NPOs). <br>It is conceived by SSI to enable ongoing learning for non-profit board members to manage in the best interests of their stakeholders while using resources effectively.  The initiative provides a holistic learning roadmap for non-profit board members which integrates different learning methodologies from classroom to blended learning to suit varied learning preference at their own pace 
 
-| Board Development Pathway | 
-|--|
-|  | 
+#### Board Development Pathway
+-------------------------------------------------------------------------------------------
 
 | <br> Profile | ![Aspiring, New and Semi-Experienced Board Members](/images/short-courses/board-page/aspiring-new-semi-board-members.png) Aspiring, New and Semi-Experienced Board Members  |![Experienced Board Members](/images/short-courses/board-page/experienced-board-members.png) Experienced Board Members  |![Non-Profit Organisation](/images/short-courses/board-page/non-profit-org.png) Non-Profit Organisations  |  
 |--|--|--|--|
