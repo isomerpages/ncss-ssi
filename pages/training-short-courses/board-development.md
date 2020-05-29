@@ -1,6 +1,9 @@
 ---
-title: Short Courses
+title: Board Members Programmes
 permalink: training/short-courses/board-members-programmes/
 ---
 
-Some text on page
+
+| ![Aspiring, New and Semi-Experienced Board Members](/images/aspiring-new-semi-board-members.png) <br> Aspiring, New and Semi-Experienced Board Members |  |  |  |  
+|--|--|--|--|
+|  |  |  |  |
