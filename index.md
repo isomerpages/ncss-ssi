@@ -27,10 +27,24 @@ sections:
         title: Start planning for your training needs today!
         subtitle: Training directory now available
         description: cross sector - children, youth and family - disability - mental health - eldercare - board development - management and organisational development - volunteer development and management - caregiving
-        button: Learn More
-        url: /training-cert-programmes
+        button: Download the training directory here
         image: /images/training-directory-pic.png
-        alt: Training Directory
+        alt: Training Directory        
+        url: /images/homepage/SSI-Training-Directory-FY20-21.pdf
         
-        url: /faq/
+    - infopic:
+        title: Another info section can go here
+        subtitle: a smaller subtitle
+        description: text description
+        button: Learn More
+        url: /faq
+        image: /images/whatsnew-stories.png
+        alt: whatsnew-stories
+        
+    - infobar:
+        title: Join us
+        subtitle: another section
+        description: This section has no picture
+        button: Join Us
+        url: /discover-ssi/join-us
 ---
