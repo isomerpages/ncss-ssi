@@ -10,7 +10,7 @@ The training programmes offered by the Social Service Institute are broadly cove
 
 Please browse our [course listing for FY20/21](/images/short-courses/course-listing.pdf).
 
-<table width="100%" cellspacing=0 cellpadding=5>
+<table width="100%">
   <tr>
   <td width="50%"><img src="/images/short-courses/cross-sector-programmes.png" alt="Cross Sector Programmes" width="150" height="200" ></td>
   <td><img src="/images/short-courses/board-development.png" alt="Board Development" width="150" height="200" ></td>
