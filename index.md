@@ -22,6 +22,9 @@ sections:
             - title: National Social Work Competency Framework
               description: Find out the latest standards and guidelines
               url: /privacy/
+            - title: Maximum 4 links are allowed
+              description: optional description, links are optional too
+              
               
     - infopic:
         title: Start planning for your training needs today!
