@@ -16,7 +16,9 @@ Please browse our [course listing for FY20/21](/images/short-courses/course-list
   <td><img src="/images/short-courses/board-development.png" alt="Board Development" width="150" height="200" ></td>
   </tr> 
   <tr>
-  <td width="50%">[![Children, Youth and Family Programmes](/images/short-courses/children-youth-and-family-courses.png "Develop your competencies in your area of specialisation...")](https://e-services.ncss.gov.sg/Training/course/templatesearch?Filter.CourseSubCategory.Id=f6f837bd-290c-e611-810d-000c29e3b091)</td>
+  <td width="50%">
+    [<img src="/images/short-courses/children-youth-and-family-courses.png" alt="children youth and family courses" width="150" height="200" >](https://e-services.ncss.gov.sg/Training/course/templatesearch?Filter.CourseSubCategory.Id=f6f837bd-290c-e611-810d-000c29e3b091)
+  </td>
   <td><[![Leadership Programmes](/images/short-courses/leadership-prog.png "Our leadership milestone programme develops your leadership skills by preparing you for different stages in your...")](training/short-courses/leadership-programmes)</td>
   </tr> 
 
