@@ -4,7 +4,7 @@ title: SSI - Home
 description: Brief site description here
 image: /images/SSILogoFullColour_large_fullwidth.png
 permalink: /
-notification: Temporary Closure of SSI Office from 7 April to 1 June 2020. 
+notification: Temporary Closure of SSI Office from 7 April to 1 June 2020. <a href="/training/updates-on-ssi-training-programmes">Click here for more details</a>
 sections:
     - hero:
         title: Social Service Institute
