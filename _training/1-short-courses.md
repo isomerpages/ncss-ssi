@@ -15,6 +15,7 @@ Please browse our [course listing for FY20/21](/images/short-courses/course-list
   <td width="50%"><img src="/images/short-courses/cross-sector-programmes.png" alt="Cross Sector Programmes" width="150" height="200" ></td>
   <td><img src="/images/short-courses/board-development.png" alt="Board Development" width="150" height="200" ></td>
   </tr> 
+  
   <tr>
   <td width="50%">
     <a href="https://e-services.ncss.gov.sg/Training/course/templatesearch?Filter.CourseSubCategory.Id=f6f837bd-290c-e611-810d-000c29e3b091">
@@ -25,3 +26,5 @@ Please browse our [course listing for FY20/21](/images/short-courses/course-list
   </tr> 
 
 </table>
+
+[![Leadership Programmes](/images/short-courses/leadership-prog.png "Our leadership milestone programme develops your leadership skills by preparing you for different stages in your...")](training/short-courses/leadership-programmes)
