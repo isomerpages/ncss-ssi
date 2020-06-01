@@ -1,4 +1,4 @@
 ---
 title: Research Hub
-permalink: /resources/research-hub/
+permalink: /resources-and-links/research-hub/
 ---
