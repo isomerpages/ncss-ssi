@@ -13,15 +13,12 @@ links:
     collection: initiatives
   - title: Training
     collection: training
-  - title: Resources & Links
-    collection: resources-and-links
   - title: Stories
     url: /stories/
-  - title: Facilities Booking
-    url: /facilities-booking/
-  - title: Course Search
-    url: https://e-services.ncss.gov.sg/Training/Course/TemplateSearch
+  - title: Resources & Links
+    collection: resources-and-links
   - title: Faq
     collection: faq
   - title: Contact Us
     url: /contact-us/    
+   
