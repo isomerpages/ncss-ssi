@@ -27,7 +27,7 @@ disability landscape in the local context.
 
 |  |  |  |
 |--|--|--|
-|![buffer](/images/stories/within_stories/left-quote-w-buffer-2.png) |![nur-khaiyisha-bte-abd-kadir](/images/stories/within_stories/nur-khaiyisha-bte-abd-kadir.jpg) <br> Just keep going. Always believe that things will be better. One day, everything will fall in place. This is what is keeping me going.| ![buffer](/images/stories/within_stories/right-quote-w-buffer-4.png)   |
+|![buffer](/images/stories/within_stories/left-quote-w-buffer-2.png) |![nur-khaiyisha-bte-abd-kadir](/images/stories/within_stories/nur-khaiyisha-bte-abd-kadir.jpg) <br> Just keep going. Always believe that things will be better. One day, everything will fall in place. This is what is keeping me going.| ![buffer](/images/stories/within_stories/right-quote-w-buffer-4-short.png)   |
 |  |  |  |
 
 During the course, an incredible opportunity presented itself. Initially her decision to enrol in the ACSE intake was purely to 
