@@ -26,8 +26,7 @@ also assessed our People practice, work flow and other components.”
 |--|
 |![left-quote](/images/stories/within_stories/left-quote.png)
 ![pei-haiying](/images/stories/within_stories/pei-haiying.png)
-My daily routine is packed with meetings after meetings, and neverending admin work. My joy is being able to step into the 
-classroom whenever I can. Looking at my clients, seeing them smile, this makes my hard work meaningful and worthwhile.
+My daily routine is packed with meetings after meetings, and neverending admin work. My joy is being able to step into the classroom whenever I can. Looking at my clients, seeing them smile, this makes my hard work meaningful and worthwhile.
 ![right-quote](/images/stories/within_stories/right-quote.png)|
 
 Haiying believes in two crucial factors for SUN-DAC to be presented the prestigious Award. The first factor is the way they treat each 
