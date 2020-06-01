@@ -22,7 +22,7 @@ and their caregivers. So much so that SUN-DAC was awarded the 2017 Best Employer
 also assessed our People practice, work flow and other components.”
 
 <img src="/images/stories/within_stories/left-quote.png" style="width:200px;height:75px;">
-<img src="/images/stories/within_stories/pei-haiying.png" style="width:50px;height:50px;">
+<img src="/images/stories/within_stories/pei-haiying.png" style="width:50px;height:100px;">
 My daily routine is packed with meetings after meetings, and neverending admin work. My joy is being able to step into the 
 classroom whenever I can. Looking at my clients, seeing them smile, this makes my hard work meaningful and worthwhile.
 <img src="/images/stories/within_stories/right-quote.png" style="width:200px;height:75px;">
