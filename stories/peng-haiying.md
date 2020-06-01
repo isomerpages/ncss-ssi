@@ -1,6 +1,6 @@
 ---
 title: Ms Peng Haiying, Executive Director, SUN-DAC
-permalink: /discover-ssi/peng-haiying/
+permalink: /stories/peng-haiying/
 ---
 
 At a crossroad juncture in her life, Haiying’s discussion with her parents led to their support, and the opening quote, in reinforcing 
