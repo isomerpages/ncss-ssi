@@ -2,8 +2,7 @@
 title: Stories
 permalink: /stories/
 ---
-
-
+## Stories
 
 |  |  |  |  
 |--|--|--|
@@ -16,4 +15,4 @@ permalink: /stories/
 |[![Evelyn Ng](/images/stories/evelyn-ng.png "View Story")](evelyn-ng)| [![Lau Yun Yi](/images/stories/lau-yun-yi.png "View Story")](lau-yun-yi) | [![Prathibah Pillai D/O Pillai Parappa Karan](/images/stories/prathibah-pillai-do-pillai-parappa-karan.png "View Story")](prathibah-pillai-do-pillai-parappa-karan) |
 |[![Suzanne Low](/images/stories/suzanne-low.png "View Story")](suzanne-low)| [![Schutz Lee](/images/stories/schutz-lee.png "View Story")](schutz-lee) | [![Nurturing Careers Inspiring Lives](/images/stories/nurturing-careers-inspiring-lives.png "View Story")](nurturing-careers-inspiring-lives) |
 
-
+[back to Top](/stories)
