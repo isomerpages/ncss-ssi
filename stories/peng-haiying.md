@@ -21,11 +21,11 @@ and their caregivers. So much so that SUN-DAC was awarded the 2017 Best Employer
 “We’re very humbled to receive this Award. The Aon team came down to conduct a comprehensive interview for each and everyone of us. They 
 also assessed our People practice, work flow and other components.”
 
-<img src="/images/stories/within_stories/left-quote.png" style="width:128px;height:128px;">
-<img src="/images/stories/within_stories/pei-haiying.png" style="width:100px;height:100px;">
+<img src="/images/stories/within_stories/left-quote.png" style="width:50px;height:50px;">
+<img src="/images/stories/within_stories/pei-haiying.png" style="width:70px;height:70px;">
 My daily routine is packed with meetings after meetings, and neverending admin work. My joy is being able to step into the 
 classroom whenever I can. Looking at my clients, seeing them smile, this makes my hard work meaningful and worthwhile.
-<img src="/images/stories/within_stories/right-quote.png" style="width:128px;height:128px;">
+<img src="/images/stories/within_stories/right-quote.png" style="width:30px;height:30px;">
 
 Haiying believes in two crucial factors for SUN-DAC to be presented the prestigious Award. The first factor is the way they treat each 
 other at SUN-DAC. She values building positive relationships with her staff, to know why each of them wakes up everyday to do what they 
