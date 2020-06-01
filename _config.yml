@@ -29,7 +29,7 @@ collections:
     output: true
   training:
     output: true
-  resources:
+  resources-and-links:
     output: true
   faq:
     output: true
