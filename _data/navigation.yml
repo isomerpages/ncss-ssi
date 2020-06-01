@@ -16,7 +16,7 @@ links:
   - title: Resources
     collection: resources
   - title: Stories
-    collection: stories
+    url: /stories/
   - title: Facilities Booking
     url: /facilities-booking/
   - title: Course Search
