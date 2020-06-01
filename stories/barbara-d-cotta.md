@@ -27,7 +27,7 @@ should possess.
 
 |  |  |  |
 |--|--|--|
-|![buffer](/images/stories/within_stories/left-quote-w-buffer-2.png) |![Barbara D' Cotta](/images/stories/within_stories/barbara-d-cotta.jpg) <br> My best strength is my belief. I believe that every child has something to give. If a child is weak academically, we find out what the child is good at. We don’t give up on the child, we find other ways to help the child achieve and accomplish great things. | ![buffer](/images/stories/within_stories/right-quote-w-buffer-4.png)   |
+|![buffer](/images/stories/within_stories/left-quote-w-buffer-2.png) |![Barbara D' Cotta](/images/stories/within_stories/barbara-d-cotta.jpg) <br> My best strength is my belief. I believe that every child has something to give. If a child is weak academically, we find out what the child is good at. We don’t give up on the child, we find other ways to help the child achieve and accomplish great things. | ![buffer](/images/stories/within_stories/right-quote-w-buffer-4-short.png)   |
 |  |  |  |
 
 Aside from reading and researching on the changes in the field of Deaf Education, the sharing by her classmates gave her an 
@@ -48,3 +48,5 @@ To sum up her experience, serving in the social service sector thoroughly enhanc
 individual then becomes more compassionate because of their purposeful work in the sector. Barbara’s greatest strength is her belief 
 in a child, and this belief will hold her in good stead for the best to come yet as she continues walking the ground with them and 
 for them.
+
+[View More Stories](/stories)
