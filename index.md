@@ -22,8 +22,8 @@ sections:
             - title: National Social Work Competency Framework
               description: Find out the latest standards and guidelines
               url: /privacy/
-            - title: Maximum 4 links are allowed
-              description: optional description, links are optional too
+            - title: Find out more about the opportunities we provide here at SSI
+              
               
               
     - infopic:
@@ -36,27 +36,27 @@ sections:
         url: /images/homepage/SSI-Training-Directory-FY20-21.pdf
         
     - infopic:
-        title: Another info section can go here
-        subtitle: a smaller subtitle
-        description: text description
+        title: Stories
+        subtitle:
+        description: Read what social service professionals have to say about their work and how SSI training courses has helped them to further sharpen and upgrade their skills.
         button: Learn More
         url: /faq
         image: /images/homepage/whatsnew-stories.png
         alt: whatsnew-stories
         
     - infopic:
-        title: The images alternate sides
-        subtitle: a smaller subtitle
-        description: text description
-        button: Learn More
-        url: /faq
-        image: /images/homepage/whatsnew-stories.png
-        alt: whatsnew-stories
+        title: GatherHere
+        subtitle: Resources
+        description: Browse the extensive collection of resources, materials and content or get connected with an online community of like-minded individuals. 
+        button: Find out more
+        url: /resources-and-links
+        image: /images/homepage/gather-here.png
+        alt: gatherhere
         
     - infobar:
-        title: Join us
-        subtitle: another section
-        description: This section has no picture
+        title: Careers with SSI
+        subtitle: We want you
+        description: Join us to make a difference today!
         button: Join Us
         url: /discover-ssi/join-us
 ---
