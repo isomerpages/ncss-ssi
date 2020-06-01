@@ -1,7 +1,8 @@
 ---
-title: Ms Peng Haiying, Executive Director, SUN-DAC
+title: Ms Peng Haiying
 permalink: /stories/peng-haiying/
 ---
+## Ms Peng Haiying, Executive Director, SUN-DAC
 
 At a crossroad juncture in her life, Haiying’s discussion with her parents led to their support, and the opening quote, in reinforcing 
 her decision to step into the social service sector. 
@@ -20,11 +21,11 @@ and their caregivers. So much so that SUN-DAC was awarded the 2017 Best Employer
 “We’re very humbled to receive this Award. The Aon team came down to conduct a comprehensive interview for each and everyone of us. They 
 also assessed our People practice, work flow and other components.”
 
-** " **
-![Pei Haiying Work](/images/stories/within_stories/pei-haiying.png)
+<img src="/images/stories/within_stories/left-quote.png" width="100" height="100">
+<img src="/images/stories/within_stories/pei-haiying.png" width="100" height="100">
 My daily routine is packed with meetings after meetings, and neverending admin work. My joy is being able to step into the 
 classroom whenever I can. Looking at my clients, seeing them smile, this makes my hard work meaningful and worthwhile.
-** " **
+<img src="/images/stories/within_stories/right-quote.png" width="100" height="100">
 
 Haiying believes in two crucial factors for SUN-DAC to be presented the prestigious Award. The first factor is the way they treat each 
 other at SUN-DAC. She values building positive relationships with her staff, to know why each of them wakes up everyday to do what they 
