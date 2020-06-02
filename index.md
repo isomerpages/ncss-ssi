@@ -31,7 +31,7 @@ sections:
         subtitle: Training directory now available
         description: cross sector - children, youth and family - disability - mental health - eldercare - board development - management and organisational development - volunteer development and management - caregiving
         button: Download the training directory here
-        image: /images/training-directory-pic.png
+        image: /images/homepage/training-directory.png
         alt: Training Directory        
         url: /images/homepage/SSI-Training-Directory-FY20-21.pdf
         
@@ -41,17 +41,8 @@ sections:
         description: Read what social service professionals have to say about their work and how SSI training courses has helped them to further sharpen and upgrade their skills.
         button: Learn More
         url: /faq
-        image: /images/homepage/whatsnew-stories.png
+        image: /images/homepage/whatsnew-stories-size.png
         alt: whatsnew-stories
-        
-    - infopic:
-        title: GatherHere
-        subtitle: Resources
-        description: Browse the extensive collection of resources, materials and content or get connected with an online community of like-minded individuals. 
-        button: Find out more
-        url: /resources-and-links
-        image: /images/homepage/gather-here.png
-        alt: gatherhere
         
     - infobar:
         title: Careers with SSI
