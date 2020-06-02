@@ -4,7 +4,7 @@ permalink: /initiatives/education-innovation-2020/
 ---
 
 ## Education Innovation
-<iframe id="ytplayer" type="text/html" width="760" height="515"
+<iframe id="ytplayer" type="text/html" width="860" height="575"
   src="https://www.youtube.com/embed/NNdSNJudHh8"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
