@@ -1,7 +1,7 @@
 ---
-title: Education Innovation 2020 Overview
+title: Overview
 permalink: /initiatives/education-innovation-2020/overview
-third-nav-title: Education Innovation 2020
+third_nav_title: Education Innovation 2020
 ---
 
 ## Education Innovation
