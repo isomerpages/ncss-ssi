@@ -3,6 +3,7 @@ title: Blended Learning
 permalink: /initiatives/education-innovation-2020/blended-learning
 third-nav-title: Education Innovation 2020
 ---
+
 ##Blended Learning
 What is blended learning? As its name suggests, it involves a blend of more than one type of learning - the traditional model and an online model. Blended learning refers to a combination of online learning with traditional face-to-face learning in the classroom.
 
