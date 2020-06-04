@@ -20,6 +20,6 @@ contacts:
   - title: General Enquiries
     content:
     - phone: +65 6589 5555
-    - other: +65 6589 5540
+    - other: fax: +65 6589 5540
     - email: socialserviceinstitute@ncss.gov.sg
 ---
