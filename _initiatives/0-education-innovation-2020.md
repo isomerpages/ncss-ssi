@@ -21,7 +21,4 @@ SSI will be progressively converting our courses to incorporate an online compon
 The white wavy line represents the flow of creative ideas, parallel to the movement of resilient waves. Uninhibited and bold, the energetic white wavy line stands out in stark contrast against the red circle, depicting its propensity to innovate and invigorate.<br>The glowing yellow dot conveys the idea of spreading innovation and sharing it with the community. The deep red of the circle represents the intense energy and passion behind the drive for pushing boundaries and challenging limits. Its contour signifies an infinite path towards innovation.
 
 ---------------------------------------------------------------------------------------------------------------------------------
-|  |  |
-|--|--|
-| table |contents  |
-| go |here  |
+
