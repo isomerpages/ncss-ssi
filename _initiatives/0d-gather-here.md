@@ -15,3 +15,7 @@ GatherHere was officially launched on 21 March 2019 by Ms Anita Fam, President o
 |  |  |
 |--|--|
 |**Speech by President of NCSS, Ms Anita Fam**<br><br>In her speech, she called on the sector’s commitment and interest to join GatherHere.<br><br>To quote Ms. Fam, “GatherHere is a space for our Social Service Tribe, and it will be as vibrant as we want it to be. We therefore invite you to build this space with us, by contributing content that matters to you, and getting more of the Tribe on board and plugged into our sector."  | ![anita-fam](/images/initiatives/education-innovation/anita-fam.jpg) |
+
+|Case Sharing by 3 Group Owners  |
+|--|
+|![combined case sharing](/images/initiatives/education-innovation/combined-case-sharing.jpg)<br>Group owners from Care Corner Youth Services, Lutheran Community Case Services Ltd (LCSS) and the Volunteer Resource Optimisation (VRO) team from NCSS were also invited to share their use of GatherHere at the launch.<br><br>The groups shared how GatherHere enabled them to connect, engage members and share resources and expertise within their respective organisations.  | 
