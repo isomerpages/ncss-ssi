@@ -32,7 +32,7 @@ Fiona_Tan@ncss.gov.sg
 |  |  |  |
 |--|--|--|
 |Introduction to Workplace<br>![qr-1](/images/initiatives/education-innovation/qr-1.png)<br>[Click Here](https://www.youtube.com/watch?v=gzzjzBTjafM))   | Introduction to Workchat<br>![qr-2](/images/initiatives/education-innovation/qr-2.png)|Case Study<br>![qr-3](/images/initiatives/education-innovation/qr-3.png)<br>[Click Here](https://www.youtube.com/watch?v=osEh6RfEDNY)   |
-|How to Claim your Account(iOS)<br>![qr-4](/images/initiatives/education-innovation/qr-4.png)<br>[Click Here](https://www.youtube.com/watch?v=dwTr-1N2TK4)   | How to Claim your Account (Android)<br>![qr-5](/images/initiatives/education-innovation/qr-5.png)<br>[Click Here](https://www.youtube.com/watch?v=h_KfsXXsBKI)|Introduction to GatherHere<br>![qr-6](/images/initiatives/education-innovation/qr-6.png)<br>[Click Here](https://www.youtube.com/watch?v=DHSM2ZHWGnI)  |
+|How to Claim your Account(iOS)<br>![qr-4](/images/initiatives/education-innovation/qr-4.png)<br>[Click Here](https://www.youtube.com/watch?v=dwTr-1N2TK4)   | How to Claim your Account (Android)<br>![qr-5](/images/initiatives/education-innovation/qr-5.png)<br>[Click Here](https://www.youtube.com/watch?v=h_KfsXXsBKI)|Introduction to GatherHere<br>![qr-6](/images/initiatives/education-innovation/qr-6.jpg)<br>[Click Here](https://www.youtube.com/watch?v=DHSM2ZHWGnI)  |
 
 To register your interest to be a part of GatherHere, please email: 
 techservices1@gatherhere.sg
