@@ -24,3 +24,12 @@ GatherHere was officially launched on 21 March 2019 by Ms Anita Fam, President o
 |Learning Segment Takeaway |
 |--|
 |The learning segment was moderated by Mr. Sabarudin Hashim, Master Facilitator for the launch.<br><br>The two-part learning segment consisted of a forum discussion and break-out groups session, aimed at facilitating a conversation on how to effectively leverage digital technology, such as GatherHere, in the social service sector.<br><br>![learning segment takeaway](/images/initiatives/education-innovation/combined-learning-segment-takeaway.png)<br><br>**- Forum discussion: ‘In Conversation with...’**<br><br>Esteemed panellists, Mr. Rahul Mudgal and Ms. Rasika Thapa, shared their thoughts on employing digital thinking as a means to solve problems and leverage technology in the non-profit sector.<br><br>**- Break-out groups sessions**<br><br>The question “How can you use GatherHere to do good through your organisation?” was posed to the groups for discussion. Participants were encouraged to brainstorm on how Social Service Agencies can leverage on GatherHere to support their vision and/or mission. | 
+
+For any enquiries related to the GatherHere Launch, please email: Fiona_Tan@ncss.gov.sg
+
+|  |  |  |
+|--|--|--|
+|Introduction to Workplace<br>![qr-1](/images/initiatives/education-innovation/qr-1.jpg)<br>[Click Here](https://www.youtube.com/watch?v=gzzjzBTjafM))   | Introduction to Workchat<br>![qr-2](/images/initiatives/education-innovation/qr-2.jpg)|Case Study<br>![qr-3](/images/initiatives/education-innovation/qr-3.jpg)<br>[Click Here](https://www.youtube.com/watch?v=osEh6RfEDNY)   |
+|How to Claim your Account(iOS)<br>![qr-4](/images/initiatives/education-innovation/qr-4.jpg)<br>[Click Here](https://www.youtube.com/watch?v=dwTr-1N2TK4)   | How to Claim your Account (Android)<br>![qr-5](/images/initiatives/education-innovation/qr-5.jpg)<br>[Click Here](https://www.youtube.com/watch?v=h_KfsXXsBKI)|Introduction to GatherHere<br>![qr-6](/images/initiatives/education-innovation/qr-6.jpg)<br>[Click Here](https://www.youtube.com/watch?v=DHSM2ZHWGnI)  |
+
+To register your interest to be a part of GatherHere, please email us at: techservices1@gatherhere.sg.
