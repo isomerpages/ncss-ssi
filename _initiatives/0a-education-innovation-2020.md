@@ -1,6 +1,6 @@
 ---
 title: Education Innovation 2020 Overview
-permalink: /initiatives/education-innovation-2020/
+permalink: /initiatives/education-innovation-2020/overview
 third-nav-title: Education Innovation 2020
 ---
 
