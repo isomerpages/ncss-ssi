@@ -18,8 +18,8 @@ SSI will be progressively converting our courses to incorporate an online compon
 #### About the EI Logo
 |  |  |
 |--|--|
-|![EI-logo](images/initiatives/education-innovation/EI-logo.png) |![buffer](images/initiatives/education-innovation/ei-logo-buffer.png) |
-|![buffer](images/initiatives/education-innovation/ei-logo-buffer.png)|![buffer](images/initiatives/education-innovation/ei-logo-buffer.png) |
+|![EI-logo](/images/initiatives/education-innovation/EI-logo.png) |![buffer](/images/initiatives/education-innovation/ei-logo-buffer.png) |
+|![buffer](/images/initiatives/education-innovation/ei-logo-buffer.png)|![buffer](/images/initiatives/education-innovation/ei-logo-buffer.png) |
 
 The white wavy line represents the flow of creative ideas, parallel to the movement of resilient waves. Uninhibited and bold, the energetic white wavy line stands out in stark contrast against the red circle, depicting its propensity to innovate and invigorate.
  
