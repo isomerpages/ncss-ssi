@@ -14,6 +14,6 @@ Now that you’ve got a sense of what a SMART classroom is all about, we at SSI 
 
 SSI Education Innovation initiative leverages technology to facilitate and enhance workplace learning for both trainers and trainees. Find out more in the article on ['Learning the Interactive Way'](https://www.straitstimes.com/singapore/learning-the-interactive-way).
 
-![st-pic](/images/initiatives/st-article-learning-the-interactive-way-long.png)
+![st-pic](/images/initiatives/education-innovation/st-article-learning-the-interactive-way-long.png)
 
-![combined-pic](/images/initiatives/combined.png)
+![combined-pic](/images/initiatives/education-innovation/combined.png)
