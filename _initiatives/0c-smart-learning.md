@@ -11,7 +11,7 @@ Gadgets like an auto-tracking camera that senses and follows the trainer’s mot
 
 **Some of this new technology will be presented in the video below.**
 <iframe id="ytplayer" type="text/html" width="660" height="375"
-  src="https://www.youtube.com/embed/hpR89M5GIBw&start=12"
+  src="https://www.youtube.com/embed/hpR89M5GIBw"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Now that you’ve got a sense of what a SMART classroom is all about, we at SSI hope that we can leverage the best of this technological know-how and gadgetry to transform talent-building in the social service sector. The social service sector is still such unchartered territory, young and with so much promise. Learning and development are key in harnessing this latent potential. In order to deliver an enriching educational experience for both the adult educators and learners, we need to tap on technology to go beyond space-time and other human limitations. So join us, as we embrace a future with exciting developments in store!
