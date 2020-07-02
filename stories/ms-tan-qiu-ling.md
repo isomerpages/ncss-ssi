@@ -17,7 +17,7 @@ Her perspective of her leadership ability was well enhanced by the SSI Leadershi
 <table>
 	<tbody>
 		<tr>
-			<td><img alt="Ms Tan Qiu Ling" src="/images/stories/within_stories/ms-tan-qiu-ling.jpg" style="width: 431px; height: 288px;" /></td>
+			<td><img alt="Ms Tan Qiu Ling" src="/images/stories/pages/ms-tan-qiu-ling.jpg" style="width: 431px; height: 288px;" /></td>
 		</tr>
 		<tr>
 			<td><strong>"Service delivery in this sector is not just about giving financial assistance, but enhancing the community life and spirit. To me, the best scenario is seeing neighbours helping neighbours, be it with caregiving duties or lending a hand. That is my aspiration for the social service sector &ndash; to see the power of community spirit rising up to the challenge."</strong></td>
