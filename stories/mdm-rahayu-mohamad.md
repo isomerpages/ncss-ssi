@@ -17,8 +17,8 @@ Indeed, Mdm Rahayu’s firm belief in a worthwhile existence emerged way back fr
 
 Yet it is not just about knowing how to govern, but also of a people factor. For instance, the training in the NonProfit Directors Programme allows Mdm Rahayu to be able to get the board members to understand what they need to do to continue to be sustainable and relevant in the work they are doing for both PPIS and the community.
 
-This is what she says:
-#### “In playing the leadership role vis-à-vis my board members and management, there is a need for close interaction in terms of sharing the alignment of goals and direction of where we’re going.” 
+This is what she says: 
+<bold> “In playing the leadership role vis-à-vis my board members and management, there is a need for close interaction in terms of sharing the alignment of goals and direction of where we’re going.” </bold>
 
 Thus, she has been talking to her friends and peers in the community, especially those sitting on a board, that the NonProfit Directors Programme is very useful and infomative course that they should participate in. “It’s not about the knowledge but the sharing that the other participants bring in, hearing the stories in terms of the experiences of other organisations and how they overcome the challenges.”
 
