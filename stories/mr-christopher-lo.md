@@ -5,7 +5,7 @@ permalink: /stories/mr-christopher-lo
 
 ## Mr Christopher Lo, Board Member, Cerebral Palsy Alliance Singapore
 And, when you want something, all the universe conspires in helping you to achieve it.
-- The Alchemist, Paulo Coelho
+-The Alchemist, Paulo Coelho
 
 Like Ms Cecilia Sim and Mr Paul Long featured in the book, Mr Christopher Lo similarly stepped into the social service sector through a mid career switch, after dedicating 24 years to the Singapore Armed Forces (SAF). But it started most unusually back in 2005 when (then) Major Lo received a call from out of the blue – asking him whether he would attend a board meeting at the Spastic Children’s Association of Singapore (now rebranded as Cerebral Palsy Alliance Singapore, or simply CPAS). He was the Ministry of Defence representative co-opted to the CPAS board. That touchpoint sparked a decade-long relationship with CPAS until the present, with Mr Lo serving as a coopted member until about 3 years ago, when he became a full board member after he retired from the SAF.
 
@@ -25,5 +25,5 @@ to build courage when courage seems to fail;\
 to regain faith when there seems to be little\
 cause for faith; to create hope when hope\
 becomes forlorn.”\
-Sylvanus Thayer Award Speech Address\
+-Sylvanus Thayer Award Speech Address\
 (1962), General Douglas MacArthur
