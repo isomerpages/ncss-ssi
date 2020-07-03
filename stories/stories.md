@@ -4,14 +4,36 @@ permalink: /stories/
 ---
 ## Stories
 
-|  |  |  |  
-|--|--|--|
-|[![Ms Tan Qiu Ling](/images/stories/mainpage/ms-tan-qiu-ling-1.jpg "View Story")](ms-tan-qiu-ling)<br>**Ms Tan Qiu Ling, Social Worker, South Central Community Family <br> Service Centre**<br>*“As long as I’m able to make a family or an individual empowered to <br> believe in themselves, and use that empowerment to<br> make themselves happy, I believe I’ve made<br> an impact in this society.”*| [![Mr Abdul Halim](/images/stories/mainpage/mr-abdul-halim.jpg "View Story")](mr-abdul-halim)<br>**Abdul Halim, Welfare Officer, Pertapis Children’s Home**<br>*“Though we are not blood-related, at that moment, I felt the special<br> bond that I share with the children and it’s a feeling no<br> words can describe.”*   |[![Mdm Rahayu Mohamad](/images/stories/mainpage/mdm-rahayu-mohamad.jpg "View Story")](mdm-rahayu-mohamad)<br>**Mdm Rahayu Mohamad, President, <br>Singapore Muslim Women's Association (PPIS)**<br>*Reflection and Meaning*| 
-|[![Ms Eleanor Wong](/images/stories/mainpage/ms-eleanor-wong.jpg "View Story")](ms-eleanor-wong)<br>**Eleanor Wong, Community Executive, St Hilda’s Community<br> Services Centre**<br>*“You could see his face light up with joy. It’sthese moments that I <br> treasure the most.”* | [![Mr Christopher Lo](/images/stories/mainpage/mr-christopher-lo.jpg "View Story")](mr-christopher-lo)<br>**Mr Christopher Lo, Board Member, <br>Cerebral Palsy Alliance Singapore**<br>*A Call to Service* | [![Mr Jerome Yuen](/images/stories/mainpage/mr-jerome-yuen.jpg "View Story")](mr-jerome-yuen)<br>**Mr Jerome Yuen, Executive Director, <br>Club Rainbow (Singapore)**<br>*A Brilliant Rainbow for the Kids* | 
-|[![Mr Paul-Long](/images/stories/mainpage/mr-paul-long.jpg "View Story")](mr-paul-long)<br>**Mr Paul Long, Executive Director, Family Life Society**<br>*The Ace-Pilot Leader* |[![Mr Lam Wai Mun](/images/stories/mainpage/mr-lam-wai-mun.jpg "View Story")](mr-lam-wai-mun)<br>**Mr Lam Wai Mun, Counsellor, Fei Yue Family Service Centre <br> (Champions Way)**<br>*Super Focused, Super Wisdom*  |[![Mr Quek Hong Choon](/images/stories/mainpage/mr-quek-hong-choon.jpg "View Story")](mr-quek-hong-choon)<br>**Mr Quek Hong Choon, Director, SPD**<br>*Leading with Clarity*  |
-|[![Mr Willy Ho](/images/stories/mainpage/mr-willy-ho.jpg "View Story")](mr-willy-ho)<br>**Mr Willy Ho, Senior Programme<br> Executive, Methodist Welfare Services (Wesley Seniors <br> Activity Centre)**<br>*Listening Ear, Happy Smiles*|[![Ms Gina Chan](/images/stories/mainpage/ms-gina-chan.jpg "View Story")](ms-gina-chan)<br>**Ms Gina Chan, Social Worker,<br> CROSSROAD Youth Centre (Care Corner Singapore Ltd)**<br>*Heart Work, not Hard Work* |  [![Ms Evelyn Ng](/images/stories/mainpage/ms-evelyn-ng.jpg "View Story")](ms-evelyn-ng)<br>**Ms Evelyn Ng, Senior Care Associate,<br> TOUCH Community Services (TOUCH<br> Home Care)**<br>*Love for the Elderly*|
-|[![Ms Lau Yun Yi](/images/stories/mainpage/ms-lau-yun-yi.jpg "View Story")](ms-lau-yun-yi)<br>**Ms Lau Yun Yi, Teacher Assistant, AWWA School**<br>*Dedication and Love*| [![Ms Prathibah Pillai D/O Pillai Parappa Karan](/images/stories/mainpage/ms-prathibah-pillai-d-o-pillai-parappa-karan.jpg "View Story")](ms-prathibah-pillai-d-o-pillai-parappa-karan)<br>**Ms Prathibah Pillai D/O Pillai Parappa Karan, Teacher, <br>Grace Orchard School**<br>*Championing for the Voice* |[![Ms Suzanne Low](/images/stories/mainpage/ms-suzanne-low.jpg "View Story")](ms-suzanne-low)<br>**Ms Suzanne Low, Social Worker, AWWA School**<br>*The Best Decision Made*  |
-|[![Ms Schutz Lee](/images/stories/mainpage/ms-schutz-lee.jpg "View Story")](ms-schutz-lee)<br>**Ms Schutz Lee, Treasurer, Society for WINGS (Women's Initiative<br> for Ageing Successfully)**<br>*Just Do It*|  |  |
-
-
-[back to Top](#stories)
+<tbody>
+    <tr>
+      <td><a href="ms-tan-qiu-ling"><img src="/images/stories/mainpage/ms-tan-qiu-ling-1.jpg" alt="Ms Tan Qiu Ling" title="View Story" /></a><br /><strong>Ms Tan Qiu Ling, Social Worker, South Central Community Family Service Centre</strong><br /><em>“As long as I’m able to make a family or an individual empowered to believe in themselves, and use that empowerment to make themselves happy, I believe I’ve made an impact in this society.”</em></td>
+      <td><a href="mr-abdul-halim"><img src="/images/stories/mainpage/mr-abdul-halim.jpg" alt="Mr Abdul Halim" title="View Story" /></a><br /><strong>Abdul Halim, Welfare Officer, Pertapis Children’s Home</strong><br /><em>“Though we are not blood-related, at that moment, I felt the special bond that I share with the children and it’s a feeling no words can describe.”</em></td>
+      <td><a href="mdm-rahayu-mohamad"><img src="/images/stories/mainpage/mdm-rahayu-mohamad.jpg" alt="Mdm Rahayu Mohamad" title="View Story" /></a><br /><strong>Mdm Rahayu Mohamad, President, Singapore Muslim Women’s Association (PPIS)</strong><br /><em>Reflection and Meaning</em></td>
+    </tr>
+    <tr>
+      <td><a href="ms-eleanor-wong"><img src="/images/stories/mainpage/ms-eleanor-wong.jpg" alt="Ms Eleanor Wong" title="View Story" /></a><br /><strong>Eleanor Wong, Community Executive, St Hilda’s Community Services Centre</strong><br /><em>“You could see his face light up with joy. It’s these moments that I treasure the most.”</em></td>
+      <td><a href="mr-christopher-lo"><img src="/images/stories/mainpage/mr-christopher-lo.jpg" alt="Mr Christopher Lo" title="View Story" /></a><br /><strong>Mr Christopher Lo, Board Member, Cerebral Palsy Alliance Singapore</strong><br /><em>A Call to Service</em></td>
+      <td><a href="mr-jerome-yuen"><img src="/images/stories/mainpage/mr-jerome-yuen.jpg" alt="Mr Jerome Yuen" title="View Story" /></a><br /><strong>Mr Jerome Yuen, Executive Director, Club Rainbow (Singapore)</strong><br /><em>A Brilliant Rainbow for the Kids</em></td>
+    </tr>
+    <tr>
+      <td><a href="mr-paul-long"><img src="/images/stories/mainpage/mr-paul-long.jpg" alt="Mr Paul-Long" title="View Story" /></a><br /><strong>Mr Paul Long, Executive Director, Family Life Society</strong><br /><em>The Ace-Pilot Leader</em></td>
+      <td><a href="mr-lam-wai-mun"><img src="/images/stories/mainpage/mr-lam-wai-mun.jpg" alt="Mr Lam Wai Mun" title="View Story" /></a><br /><strong>Mr Lam Wai Mun, Counsellor, Fei Yue Family Service Centre (Champions Way)</strong><br /><em>Super Focused, Super Wisdom</em></td>
+      <td><a href="mr-quek-hong-choon"><img src="/images/stories/mainpage/mr-quek-hong-choon.jpg" alt="Mr Quek Hong Choon" title="View Story" /></a><br /><strong>Mr Quek Hong Choon, Director, SPD</strong><br /><em>Leading with Clarity</em></td>
+    </tr>
+    <tr>
+      <td><a href="mr-willy-ho"><img src="/images/stories/mainpage/mr-willy-ho.jpg" alt="Mr Willy Ho" title="View Story" /></a><br /><strong>Mr Willy Ho, Senior Programme Executive, Methodist Welfare Services (Wesley Seniors Activity Centre)</strong><br /><em>Listening Ear, Happy Smiles</em></td>
+      <td><a href="ms-gina-chan"><img src="/images/stories/mainpage/ms-gina-chan.jpg" alt="Ms Gina Chan" title="View Story" /></a><br /><strong>Ms Gina Chan, Social Worker, CROSSROAD Youth Centre (Care Corner Singapore Ltd)</strong><br /><em>Heart Work, not Hard Work</em></td>
+      <td><a href="ms-evelyn-ng"><img src="/images/stories/mainpage/ms-evelyn-ng.jpg" alt="Ms Evelyn Ng" title="View Story" /></a><br /><strong>Ms Evelyn Ng, Senior Care Associate, TOUCH Community Services (TOUCH Home Care)</strong><br /><em>Love for the Elderly</em></td>
+    </tr>
+    <tr>
+      <td><a href="ms-lau-yun-yi"><img src="/images/stories/mainpage/ms-lau-yun-yi.jpg" alt="Ms Lau Yun Yi" title="View Story" /></a><br /><strong>Ms Lau Yun Yi, Teacher Assistant, AWWA School</strong><br /><em>Dedication and Love</em></td>
+      <td><a href="ms-prathibah-pillai-d-o-pillai-parappa-karan"><img src="/images/stories/mainpage/ms-prathibah-pillai-d-o-pillai-parappa-karan.jpg" alt="Ms Prathibah Pillai D/O Pillai Parappa Karan" title="View Story" /></a><br /><strong>Ms Prathibah Pillai D/O Pillai Parappa Karan, Teacher, Grace Orchard School</strong><br /><em>Championing for the Voice</em></td>
+      <td><a href="ms-suzanne-low"><img src="/images/stories/mainpage/ms-suzanne-low.jpg" alt="Ms Suzanne Low" title="View Story" /></a><br /><strong>Ms Suzanne Low, Social Worker, AWWA School</strong><br /><em>The Best Decision Made</em></td>
+    </tr>
+    <tr>
+      <td><a href="ms-schutz-lee"><img src="/images/stories/mainpage/ms-schutz-lee.jpg" alt="Ms Schutz Lee" title="View Story" /></a><br /><strong>Ms Schutz Lee, Treasurer, Society for WINGS (Women’s Initiative for Ageing Successfully)</strong><br /><em>Just Do It</em></td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
