@@ -3,7 +3,7 @@ title: Ms Schutz Lee
 permalink: /stories/ms-schutz-lee
 ---
 
-##Ms Schutz Lee, Treasurer, Society for WINGS (Women's Initiative for Ageing Successfully)
+## Ms Schutz Lee, Treasurer, Society for WINGS (Women's Initiative for Ageing Successfully)
 
 To Ms Schutz Lee, treasurer for the Society for WINGS (Women’s Initiative for Ageing Successfully), “Just Do It” fully symbolises her motto in life.
 
