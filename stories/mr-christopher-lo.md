@@ -17,12 +17,13 @@ Mr Lo defines success as giving one’s time and oneself in doing the little thi
 Afghanistan and the post-traumatic stress disorder he endured after, taught him that life remains unpredictable, and most importantly, that our time on earth is limited. He therefore chooses to pursue a life of significance anchored on meaningful causes over material wealth, that is best carried out by giving his time and energy to people and causes that matter most. Mr Lo says, “It is what you want to be remembered for at the end of life that should set the pace of your life.” In answering that call 11 years ago, we have to thank Mr Lo for not hanging up through sheer serendipity. By responding to the call, he set into motion the most purposeful, and relentless, “national service” duty of his life.
 
 > “Duty, Honor, Country: \ 
-Those three hallowed words reverently dictate\what you ought to be, what you can be,
+Those three hallowed words reverently dictate\
+what you ought to be, what you can be,
 what you will be.\
 They are your rallying points:\
 to build courage when courage seems to fail;\
 to regain faith when there seems to be little\
 cause for faith; to create hope when hope\
 becomes forlorn.”\
-- Sylvanus Thayer Award Speech Address\
+Sylvanus Thayer Award Speech Address\
 (1962), General Douglas MacArthur
