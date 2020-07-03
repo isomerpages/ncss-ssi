@@ -3,7 +3,7 @@ title: Ms Suzanne Low
 permalink: /stories/ms-suzanne-low
 ---
 
-##Ms Suzanne Low, Social Worker, AWWA School
+## Ms Suzanne Low, Social Worker, AWWA School
 
 Once upon a time to many Singaporeans (and perhaps now still applicable to some others), the definition of success means the 5Cs: Car, Cash, Condominium, Country Club membership and Credit Card.
 
