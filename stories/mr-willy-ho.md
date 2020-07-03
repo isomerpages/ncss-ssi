@@ -3,7 +3,7 @@ title: Mr Willy Ho
 permalink: /stories/mr-willy-ho
 ---
 
-##Mr Willy Ho, Senior Programme Executive, Methodist Welfare Services (Wesley Seniors Activity Centre)
+## Mr Willy Ho, Senior Programme Executive, Methodist Welfare Services (Wesley Seniors Activity Centre)
 
 When the Wesley Seniors Activity Centre – a community outreach partnership between Methodist Welfare Services and Wesley Methodist Church – was established in 2010, the elderly living around the area were mostly not acquainted among themselves.
 
