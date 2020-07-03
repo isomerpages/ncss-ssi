@@ -1,3 +1,8 @@
+---
+title: Ms Prathibah Pillai D/O Pillai Parappa Karan, Teacher, Grace Orchard School
+permalink: /stories/ms-prathibah-pillai-d-o-pillai-parappa-karan
+---
+
 ## Ms Prathibah Pillai D/O Pillai Parappa Karan, Teacher, Grace Orchard School
 
 For this composed teacher from Grace Orchard School, you would be surprised to hear that her favourite movie is the action-packed Face/Off, directed by John Woo, and starring Nicolas Cage and John Travolta.
