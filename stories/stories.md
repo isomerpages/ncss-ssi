@@ -1,6 +1,6 @@
 ---
 title: Stories
-permalink: /stories-v2/
+permalink: /stories/
 ---
 ## Stories
 
