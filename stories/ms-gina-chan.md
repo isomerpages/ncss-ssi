@@ -3,7 +3,7 @@ title: Ms Gina Chan
 permalink: /stories/ms-gina-chan
 ---
 
-##Ms Gina Chan, Social Worker, CROSSROAD Youth Centre (Care Corner Singapore Ltd)
+## Ms Gina Chan, Social Worker, CROSSROAD Youth Centre (Care Corner Singapore Ltd)
 “At the end of the day, always keep in sight the purpose why you join the social service sector in the first place. This sector requires a lot of ‘heart’ work. Once you lose heart, it becomes hard work, and no longer heart work. See more of it as a vocation and calling, rather than just work.”
 
 Indeed, Ms Gina Chan, a social worker at CROSSROAD Youth Centre (under Care Corner Singapore Ltd), continuously keeps her own advice in mind, the same advice she would also impart to new colleagues who just entered the social service industry. An adrenalin junkie who looks forward to skydiving as her next goal, Ms Chan’s day is spent doing more down-to-earth stuff. In the mornings, she catches up on her administrative work, case recordings or researching on resources on how to work more effectively with youths. In the afternoon, the youths then stream in for counselling, or she may head out to conduct home visits or attend school conferences. While teachers in the mainstream school may heave a sigh of relief during the school holidays, that period is the busiest for her. CROSSROAD Youth Centre organises a wide variety of programmes to keep their youths engaged, like outdoor based activities to bring in experiential learning so that they learn more about themselves and their values.
@@ -14,7 +14,7 @@ Indeed, Ms Gina Chan, a social worker at CROSSROAD Youth Centre (under Care Corn
       <td style="text-align: center;"><strong style="text-align: center;">“Everyone has a story. Our work is about discovering that story. To understand that story more, understand them as a person and love them as a person. And not see them as clients but as individuals, precious and valuable individuals whom other people love.”</strong></td>
 		</tr>
 		<tr>
-	    <td><img alt="Ms Gina Chan" src="/images/stories/pages/ms-gina-chan.jpg" /></td>
+	    <td><img alt="Ms Gina Chan" src="/images/stories/pages/ms-gina-chan.jpg" style="width: 200px; height: 279px;" /></td>
 		</tr>
 	</tbody>
 </table>
