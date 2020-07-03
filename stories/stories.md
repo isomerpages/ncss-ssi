@@ -4,6 +4,7 @@ permalink: /stories/
 ---
 ## Stories
 
+<table>
 <tbody>
     <tr>
       <td><a href="ms-tan-qiu-ling"><img src="/images/stories/mainpage/ms-tan-qiu-ling-1.jpg" alt="Ms Tan Qiu Ling" title="View Story" /></a><br /><strong>Ms Tan Qiu Ling, Social Worker, South Central Community Family Service Centre</strong><br /><em>“As long as I’m able to make a family or an individual empowered to believe in themselves, and use that empowerment to make themselves happy, I believe I’ve made an impact in this society.”</em></td>
