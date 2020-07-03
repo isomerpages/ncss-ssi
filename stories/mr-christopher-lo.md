@@ -16,14 +16,17 @@ Mr Lo summarises his takeaways from the inaugural NonProfit Directors programme 
 Mr Lo defines success as giving one’s time and oneself in doing the little things well to make the positive difference in service to others. He views making the positive difference as inspiring others by building courage, regaining faith, and creating hope, so that they themselves believe in their own possibilities. Mr Lo attributes his firm belief from four essential reads: Robin Sharma’s The Monk Who Sold His Ferrari, Paulo Coelho’s The Alchemist, Mitch Albom’s Tuesdays with Morrie and Eugene O’Kelly’s Chasing Daylight. These books, reinforced by his near-death experiences serving in
 Afghanistan and the post-traumatic stress disorder he endured after, taught him that life remains unpredictable, and most importantly, that our time on earth is limited. He therefore chooses to pursue a life of significance anchored on meaningful causes over material wealth, that is best carried out by giving his time and energy to people and causes that matter most. Mr Lo says, “It is what you want to be remembered for at the end of life that should set the pace of your life.” In answering that call 11 years ago, we have to thank Mr Lo for not hanging up through sheer serendipity. By responding to the call, he set into motion the most purposeful, and relentless, “national service” duty of his life.
 
-> “Duty, Honor, Country:\
-Those three hallowed words reverently dictate\
+
+<blockquote>
+<p>“Duty, Honor, Country:<br>
+Those three hallowed words reverently dictate<br>
 what you ought to be, what you can be,
-what you will be.\
-They are your rallying points:\
-to build courage when courage seems to fail;\
-to regain faith when there seems to be little\
-cause for faith; to create hope when hope\
-becomes forlorn.”\
--*Sylvanus Thayer Award Speech Address\
-(1962), General Douglas MacArthur*
+what you will be.<br>
+They are your rallying points:<br>
+to build courage when courage seems to fail;<br>
+to regain faith when there seems to be little<br>
+cause for faith; to create hope when hope<br>
+becomes forlorn.”<br>
+-<em>Sylvanus Thayer Award Speech Address<br>
+(1962), General Douglas MacArthur</em></p>
+</blockquote>
