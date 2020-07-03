@@ -6,13 +6,12 @@ permalink: /stories/
 
 |  |  |  |  
 |--|--|--|
-|[![Peng Haiying](/images/stories/peng-haiying.png "View Story")](peng-haiying) | [![Nur Khaiyisha Bte Abd Kadir](/images/stories/nur-khaiyisha-bte-abd-kadir.png "View Story")](nur-khaiyisha-bte-abd-kadir)  | [![Barbara D' Cotta](/images/stories/barbara-d-cotta.png "View Story")](barbara-d-cotta)| 
-|[![Fang Xinwei](/images/stories/fang-xinwei.png "View Story")](fang-xinwei) | [![Michael Kee and Irene Neo](/images/stories/michael-kee-irene-neo.png "View Story")](michael-kee-irene-neo) | [![Pathnapuram Manoj](/images/stories/pathnapuram-manoj.png "View Story")](pathnapuram-manoj) | 
-|[![Timothy Chua Kim Seng](/images/stories/timothy-chua-kim-seng.png "View Story")](timothy-chua-kim-seng)| [![Tan Qiu Ling](/images/stories/tan-qiu-ling.png "View Story")](tan-qiu-ling) | [![Abdul Halim](/images/stories/abdul-halim.png "View Story")](abdul-halim) |
-|[![Rahayu Mohamad](/images/stories/rahayu-mohamad.png "View Story")](rahayu-mohamad)| [![Eleanor Wong](/images/stories/eleanor-wong.png "View Story")](eleanor-wong) | [![Christopher Lo](/images/stories/christopher-lo.png "View Story")](christopher-lo) |
-|[![Jerome Yuen](/images/stories/jerome-yuen.png "View Story")](jerome-yuen)| [![Paul-Long](/images/stories/paul-long.png "View Story")](paul-long) | [![Lam Wai Mun](/images/stories/lam-wai-mun.png "View Story")](lam-wai-mun) |
-|[![Quek Hong Choon](/images/stories/quek-hong-choon.png "View Story")](quek-hong-choon)| [![Willy Ho](/images/stories/willy-ho.png "View Story")](willy-ho) | [![Gina Chan](/images/stories/gina-chan.png "View Story")](gina-chan) |
-|[![Evelyn Ng](/images/stories/evelyn-ng.png "View Story")](evelyn-ng)| [![Lau Yun Yi](/images/stories/lau-yun-yi.png "View Story")](lau-yun-yi) | [![Prathibah Pillai D/O Pillai Parappa Karan](/images/stories/prathibah-pillai-do-pillai-parappa-karan.png "View Story")](prathibah-pillai-do-pillai-parappa-karan) |
-|[![Suzanne Low](/images/stories/suzanne-low.png "View Story")](suzanne-low)| [![Schutz Lee](/images/stories/schutz-lee.png "View Story")](schutz-lee) | [![Nurturing Careers Inspiring Lives](/images/stories/nurturing-careers-inspiring-lives.png "View Story")](nurturing-careers-inspiring-lives) |
+|[![Ms Tan Qiu Ling](/images/stories/mainpage/ms-tan-qiu-ling.jpg "View Story")](ms-tan-qiu-ling)| [![Mr Abdul Halim](/images/stories/mainpage/mr-abdul-halim.jpg "View Story")](mr-abdul-halim)  |[![Mdm Rahayu Mohamad](/images/stories/mainpage/mdm-rahayu-mohamad.jpg "View Story")](mdm-rahayu-mohamad) | 
+|[![Ms Eleanor Wong](/images/stories/mainpage/ms-eleanor-wong.jpg "View Story")](ms-eleanor-wong) | [![Mr Christopher Lo](/images/stories/mainpage/mr-christopher-lo.jpg "View Story")](mr-christopher-lo) | [![Mr Jerome Yuen](/images/stories/mr-jerome-yuen.jpg "View Story")](mr-jerome-yuen) | 
+|[![Mr Paul-Long](/images/stories/mainpage/mr-paul-long.jpg "View Story")](mr-paul-long) |[![Mr Lam Wai Mun](/images/stories/mainpage/mr-lam-wai-mun.jpg "View Story")](mr-lam-wai-mun)  |[![Mr Quek Hong Choon](/images/stories/mainpage/mr-quek-hong-choon.jpg "View Story")](mr-quek-hong-choon)  |
+|[![Mr Willy Ho](/images/stories/mainpage/mr-willy-ho.jpg "View Story")](mr-willy-ho)|[![Ms Gina Chan](/images/stories/mainpage/ms-gina-chan.jpg "View Story")](ms-gina-chan) |  [![Ms Evelyn Ng](/images/stories/mainpage/ms-evelyn-ng.jpg "View Story")](ms-evelyn-ng)|
+|[![Ms Lau Yun Yi](/images/stories/mainpage/ms-lau-yun-yi.jpg "View Story")](ms-lau-yun-yi)| [![Ms Prathibah Pillai D/O Pillai Parappa Karan](/images/stories/mainpage/ms-prathibah-pillai-do-pillai-parappa-karan.jpg "View Story")](ms-prathibah-pillai-d-o-pillai-parappa-karan) |[![Ms Suzanne Low](/images/stories/mainpage/ms-suzanne-low.jpg "View Story")](ms-suzanne-low)  |
+|[![Ms Schutz Lee](/images/stories/mainpage/ms-schutz-lee.jpg "View Story")](ms-schutz-lee)|  |  |
+
 
 [back to Top](#stories)
