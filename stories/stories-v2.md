@@ -16,8 +16,6 @@ permalink: /stories-v2/
           <a href="mr-willy-ho"><img src="/images/stories/mainpage/mr-willy-ho.jpg" alt="Mr Willy Ho" title="View Story" /></a><br /><strong>Mr Willy Ho, Senior Programme Executive, Methodist Welfare Services (Wesley Seniors Activity Centre)</strong><br /><em>Listening Ear, Happy Smiles</em>
           <br /><br />
           <a href="ms-lau-yun-yi"><img src="/images/stories/mainpage/ms-lau-yun-yi.jpg" alt="Ms Lau Yun Yi" title="View Story" /></a><br /><strong>Ms Lau Yun Yi, Teacher Assistant, AWWA School</strong><br /><em>Dedication and Love</em>
-          <br /><br />
-          <a href="ms-schutz-lee"><img src="/images/stories/mainpage/ms-schutz-lee.jpg" alt="Ms Schutz Lee" title="View Story" /></a><br /><strong>Ms Schutz Lee, Treasurer, Society for WINGS (Women’s Initiative for Ageing Successfully)</strong><br /><em>Just Do It</em>
       </td>
       <td width="100px"><a href="mr-abdul-halim"><img src="/images/stories/mainpage/mr-abdul-halim.jpg" alt="Mr Abdul Halim" title="View Story" /></a><br /><strong>Abdul Halim, Welfare Officer, Pertapis Children’s Home</strong><br /><em>“Though we are not blood-related, at that moment, I felt the special bond that I share with the children and it’s a feeling no words can describe.”</em>
       <br /><br />
@@ -38,6 +36,8 @@ permalink: /stories-v2/
       <a href="ms-evelyn-ng"><img src="/images/stories/mainpage/ms-evelyn-ng.jpg" alt="Ms Evelyn Ng" title="View Story" /></a><br /><strong>Ms Evelyn Ng, Senior Care Associate, TOUCH Community Services (TOUCH Home Care)</strong><br /><em>Love for the Elderly</em>
       <br /><br />
       <a href="ms-suzanne-low"><img src="/images/stories/mainpage/ms-suzanne-low.jpg" alt="Ms Suzanne Low" title="View Story" /></a><br /><strong>Ms Suzanne Low, Social Worker, AWWA School</strong><br /><em>The Best Decision Made</em>
+      <br /><br />
+      <a href="ms-schutz-lee"><img src="/images/stories/mainpage/ms-schutz-lee.jpg" alt="Ms Schutz Lee" title="View Story" /></a><br /><strong>Ms Schutz Lee, Treasurer, Society for WINGS (Women’s Initiative for Ageing Successfully)</strong><br /><em>Just Do It</em>
       </td>
   </tbody>
 </table>
