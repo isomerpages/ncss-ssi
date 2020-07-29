@@ -17,7 +17,7 @@ Xinwei has completed the “Leadership Milestone Programme – Lead Self” cour
 	<tbody>
 		<tr>
 			<td style="width:40%;"><img alt="Mr Fang Xinwei" src="/images/stories/pages/mr-fang-xin-wei.jpg" style="width: 178px; height: 267px;" /></td>
-			<td style="text-align: center;"><strong style="text-align: center;">"Service delivery in this sector is not just about giving financial assistance, but enhancing the community life and spirit. To me, the best scenario is seeing neighbours helping neighbours, be it with caregiving duties or lending a hand. That is my aspiration for the social service sector &ndash; to see the power of community spirit rising up to the challenge."</strong></td>
+			<td style="text-align: center;"><strong style="text-align: center;">"To be a social worker, you need to have empathy and be non-judgemental. Many a time, clients approach us as their last resort. We have to be understanding. While we may not be able to solve all their problems, we provide a listening ear and provide them support through a tough phase of their life."</strong></td>
   </tr>
 	</tbody>
 </table>
