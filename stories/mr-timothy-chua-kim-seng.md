@@ -3,7 +3,7 @@ title: Mr Timothy Chua Kim Seng
 permalink: /stories/mr-timothy-chua-kim-seng
 ---
 
-## Mr Timothy Chua Kim Seng, Youth Worker ,Gracehaven, Salvation Army
+## Mr Timothy Chua Kim Seng, Youth Worker, Gracehaven, Salvation Army
 
 At a loss for what to do after his ‘O’ Levels, Timothy found inspiration in a tough period he went through during his teens. “Looking back on that time, I realised that I had the innate desire to help others”, he shared. This made him decide to pursue an education in the social services, an area in which he felt he could fulfil his aspirations, and give back to the community.  In spite of being questioned by a friend who felt that he would be able to donate much more earnings to charity and worthy causes as a successful businessman, Timothy felt that a greater joy lay in being able to help others succeed. “I feel a great sense of satisfaction in helping others to accomplish great things and succeed in life. This is my personal motivation,” he affirmed.
 
