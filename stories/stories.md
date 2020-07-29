@@ -16,6 +16,8 @@ permalink: /stories/
           <a href="mr-willy-ho"><img src="/images/stories/mainpage/mr-willy-ho.jpg" alt="Mr Willy Ho" title="View Story" /></a><br /><strong>Mr Willy Ho, Senior Programme Executive, Methodist Welfare Services (Wesley Seniors Activity Centre)</strong><br /><em>Listening Ear, Happy Smiles</em>
           <br /><br />
           <a href="ms-lau-yun-yi"><img src="/images/stories/mainpage/ms-lau-yun-yi.jpg" alt="Ms Lau Yun Yi" title="View Story" /></a><br /><strong>Ms Lau Yun Yi, Teacher Assistant, AWWA School</strong><br /><em>Dedication and Love</em>
+          <br /><br />
+          <a href="ms-nur-khaiyisha-bte-abd-kadir"><img src="/images/stories/mainpage/ms-nur-khaiyisha-bte-abd-kadir.jpg" alt="Ms Nur Khaiyisha Bte Abd Kadir" title="View Story" /></a><br /><strong>Ms Nur Khaiyisha Bte Abd Kadir, Special Needs Teacher, APSN</strong><br /><em>“Go for it if you have that voice or feeling in your heart. Start from that small fire…”</em> 
       </td>
       <td width="100px"><a href="mr-abdul-halim"><img src="/images/stories/mainpage/mr-abdul-halim.jpg" alt="Mr Abdul Halim" title="View Story" /></a><br /><strong>Abdul Halim, Welfare Officer, Pertapis Children’s Home</strong><br /><em>“Though we are not blood-related, at that moment, I felt the special bond that I share with the children and it’s a feeling no words can describe.”</em>
       <br /><br />
@@ -26,7 +28,10 @@ permalink: /stories/
       <a href="ms-gina-chan"><img src="/images/stories/mainpage/ms-gina-chan.jpg" alt="Ms Gina Chan" title="View Story" /></a><br /><strong>Ms Gina Chan, Social Worker, CROSSROAD Youth Centre (Care Corner Singapore Ltd)</strong><br /><em>Heart Work, not Hard Work</em>
       <br /><br />
       <a href="ms-prathibah-pillai-d-o-pillai-parappa-karan"><img src="/images/stories/mainpage/ms-prathibah-pillai-d-o-pillai-parappa-karan.jpg" alt="Ms Prathibah Pillai D/O Pillai Parappa Karan" title="View Story" /></a><br /><strong>Ms Prathibah Pillai D/O Pillai Parappa Karan, Teacher, Grace Orchard School</strong><br /><em>Championing for the Voice</em>
+      <br /><br />
       <a href="ms-peng-haiying"><img src="/images/stories/mainpage/ms-peng-haiying.jpg" alt="Ms Peng Haiying" title="View Story" /></a><br /><strong>Ms Peng Haiying, Executive Director, SUN-DAC</strong><br /><em>“If you can’t heal lives, you can heal hearts.”</em>
+      <br /><br />
+      <a href="ms-barbara-d-cotta"><img src="/images/stories/mainpage/ms-barbara-d-cotta.jpg" alt="Ms Barbara D' Cotta" title="View Story" /></a><br /><strong>Ms Barbara D’ Cotta ,Vice Principal, Singapore School for the Deaf</strong><br /><em>“As a leader, you always have to be updated on new practices and knowledge. Only then you can lead with the expertise and assurance that you’re doing the right thing.”</em>      
       </td>
       <td width="100px"><a href="mdm-rahayu-mohamad"><img src="/images/stories/mainpage/mdm-rahayu-mohamad.jpg" alt="Mdm Rahayu Mohamad" title="View Story" /></a><br /><strong>Mdm Rahayu Mohamad, President, Singapore Muslim Women’s Association (PPIS)</strong><br /><em>Reflection and Meaning</em>
       <br /><br />
@@ -39,6 +44,8 @@ permalink: /stories/
       <a href="ms-suzanne-low"><img src="/images/stories/mainpage/ms-suzanne-low.jpg" alt="Ms Suzanne Low" title="View Story" /></a><br /><strong>Ms Suzanne Low, Social Worker, AWWA School</strong><br /><em>The Best Decision Made</em>
       <br /><br />
       <a href="ms-schutz-lee"><img src="/images/stories/mainpage/ms-schutz-lee.jpg" alt="Ms Schutz Lee" title="View Story" /></a><br /><strong>Ms Schutz Lee, Treasurer, Society for WINGS (Women’s Initiative for Ageing Successfully)</strong><br /><em>Just Do It</em>
+      <br /><br />
+      <a href="mr-fang-xin-wei"><img src="/images/stories/mainpage/mr-fang-xin-wei.jpg" alt="Mr Fang Xinwei" title="View Story" /></a><br /><strong>Mr Fang Xinwei, Senior Social Worker, Singapore Children’s Society</strong><br /><em>"What compels me to learn is my inquisitive mind.My inquisitive mind compels me to learn. I’m very curious and like to ask questions. And iIf there’s anything that I don’t understand during in a lecture or conference, I’ll not hesitate to ask.”</em>      
       </td>
   </tbody>
 </table>
