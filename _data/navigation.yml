@@ -15,6 +15,8 @@ links:
     collection: training
   - title: Our Stories
     url: /stories/
+  - title: Resources
+    collection: resources
   - title: Media Centre
     resource_room: true
  # Not in use currently
