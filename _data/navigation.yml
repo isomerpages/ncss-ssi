@@ -22,8 +22,8 @@ links:
  #   collection: resources-and-links
   - title: Course Search
     url: https://e-services.ncss.gov.sg/Training/Course/TemplateSearch
-  - title: Faq
-    collection: faq
+ # - title: Faq
+ #   collection: faq
   - title: Contact Us
     url: /contact-us/    
    
