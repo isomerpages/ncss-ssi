@@ -13,6 +13,6 @@ Through CreateHere, complex information can be presented as a short video, which
 Coupled with the relevant support systems to create quality video content, CreateHere users do not need to go through tedious technical processes, or engage the help of experts to create a video!
 
 Guides for Using CreateHere:
-For users, view this [video](https://www.youtube.com/watch?v=outxnHraQdI&feature=youtu.be) to get an overview of CreateHere.
-For technical support queries you may email Kin Joo at [SOH_Kin_Joo@ncss.gov.sg](mailto:SOH_Kin_Joo@ncss.gov.sg)
-For general queries on CreateHere or to make a booking, email [socialserviceinstitute@ncss.gov.sg](mailto:socialserviceinstitute@ncss.gov.sg)
+- For users, view this [video](https://www.youtube.com/watch?v=outxnHraQdI&feature=youtu.be) to get an overview of CreateHere.
+- For technical support queries you may email Kin Joo at [SOH_Kin_Joo@ncss.gov.sg](mailto:SOH_Kin_Joo@ncss.gov.sg)
+- For general queries on CreateHere or to make a booking, email [socialserviceinstitute@ncss.gov.sg](mailto:socialserviceinstitute@ncss.gov.sg)
