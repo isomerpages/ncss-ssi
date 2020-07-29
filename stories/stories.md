@@ -7,6 +7,8 @@ permalink: /stories/
 <table width="300px">
 <tbody>
       <td width="100px">
+          <a href="ms-peng-haiying"><img src="/images/stories/mainpage/ms-peng-haiying.jpg" alt="Ms Peng Haiying" title="View Story" /></a><br /><strong>Ms Peng Haiying, Executive Director, SUN-DAC</strong><br /><em>“If you can’t heal lives, you can heal hearts.”</em>
+          <br /><br />
           <a href="ms-nur-khaiyisha-bte-abd-kadir"><img src="/images/stories/mainpage/ms-nur-khaiyisha-bte-abd-kadir.jpg" alt="Ms Nur Khaiyisha Bte Abd Kadir" title="View Story" /></a><br /><strong>Ms Nur Khaiyisha Bte Abd Kadir, Special Needs Teacher, APSN</strong><br /><em>“Go for it if you have that voice or feeling in your heart. Start from that small fire…”</em> 
           <br /><br />
           <a href="mr-michael-kee-and-ms-irene-neo"><img src="/images/stories/mainpage/mr-michael-kee-and-ms-irene-neo.jpg" alt="Mr Michael Kee And Ms Irene Neo" title="View Story" /></a><br /><strong>Mr Michael Kee and Ms Irene Neo, Foster Parents</strong><br /><em>"I was tutoring underprivileged children every Saturday for about two hours, but it seemed inadequate. I wanted to do more. I was contemplating what else to do, to have to create a bigger impact on society…”</em>
@@ -37,12 +39,13 @@ permalink: /stories/
       <br /><br />
       <a href="ms-prathibah-pillai-d-o-pillai-parappa-karan"><img src="/images/stories/mainpage/ms-prathibah-pillai-d-o-pillai-parappa-karan.jpg" alt="Ms Prathibah Pillai D/O Pillai Parappa Karan" title="View Story" /></a><br /><strong>Ms Prathibah Pillai D/O Pillai Parappa Karan, Teacher, Grace Orchard School</strong><br /><em>Championing for the Voice</em>
       <br /><br />
-      <a href="ms-peng-haiying"><img src="/images/stories/mainpage/ms-peng-haiying.jpg" alt="Ms Peng Haiying" title="View Story" /></a><br /><strong>Ms Peng Haiying, Executive Director, SUN-DAC</strong><br /><em>“If you can’t heal lives, you can heal hearts.”</em>
-      <br /><br />
       </td>
+      <td width="100px">
+      <a href="mr-timothy-chua-kim-seng"><img src="/images/stories/mainpage/mr-timothy-chua-kim-seng.jpg" alt="Mr Timothy Chua Kim Seng" title="View Story" /></a><br /><strong>Mr Timothy Chua Kim Seng, Youth Worker ,Gracehaven, Salvation Army</strong><br /><em>“Things have changed so quickly in a generation that if you don’t upgrade yourself, you will be unable to connect with the younger generation.”</em>     
+      <br /><br />    
       <a href="mr-fang-xin-wei"><img src="/images/stories/mainpage/mr-fang-xin-wei.jpg" alt="Mr Fang Xinwei" title="View Story" /></a><br /><strong>Mr Fang Xinwei, Senior Social Worker, Singapore Children’s Society</strong><br /><em>"What compels me to learn is my inquisitive mind.My inquisitive mind compels me to learn. I’m very curious and like to ask questions. And iIf there’s anything that I don’t understand during in a lecture or conference, I’ll not hesitate to ask.”</em>     
       <br /><br />
-      <td width="100px"><a href="mdm-rahayu-mohamad"><img src="/images/stories/mainpage/mdm-rahayu-mohamad.jpg" alt="Mdm Rahayu Mohamad" title="View Story" /></a><br /><strong>Mdm Rahayu Mohamad, President, Singapore Muslim Women’s Association (PPIS)</strong><br /><em>Reflection and Meaning</em>
+      <a href="mdm-rahayu-mohamad"><img src="/images/stories/mainpage/mdm-rahayu-mohamad.jpg" alt="Mdm Rahayu Mohamad" title="View Story" /></a><br /><strong>Mdm Rahayu Mohamad, President, Singapore Muslim Women’s Association (PPIS)</strong><br /><em>Reflection and Meaning</em>
       <br /><br />
       <a href="mr-jerome-yuen"><img src="/images/stories/mainpage/mr-jerome-yuen.jpg" alt="Mr Jerome Yuen" title="View Story" /></a><br /><strong>Mr Jerome Yuen, Executive Director, Club Rainbow (Singapore)</strong><br /><em>A Brilliant Rainbow for the Kids</em>
       <br /><br />
