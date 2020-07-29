@@ -26,6 +26,7 @@ permalink: /stories/
       <a href="ms-gina-chan"><img src="/images/stories/mainpage/ms-gina-chan.jpg" alt="Ms Gina Chan" title="View Story" /></a><br /><strong>Ms Gina Chan, Social Worker, CROSSROAD Youth Centre (Care Corner Singapore Ltd)</strong><br /><em>Heart Work, not Hard Work</em>
       <br /><br />
       <a href="ms-prathibah-pillai-d-o-pillai-parappa-karan"><img src="/images/stories/mainpage/ms-prathibah-pillai-d-o-pillai-parappa-karan.jpg" alt="Ms Prathibah Pillai D/O Pillai Parappa Karan" title="View Story" /></a><br /><strong>Ms Prathibah Pillai D/O Pillai Parappa Karan, Teacher, Grace Orchard School</strong><br /><em>Championing for the Voice</em>
+      <a href="ms-peng-haiying"><img src="/images/stories/mainpage/ms-peng-haiying.jpg" alt="Ms Peng Haiying" title="View Story" /></a><br /><strong>Ms Peng Haiying, Executive Director, SUN-DAC</strong><br /><em>“If you can’t heal lives, you can heal hearts.”</em>
       </td>
       <td width="100px"><a href="mdm-rahayu-mohamad"><img src="/images/stories/mainpage/mdm-rahayu-mohamad.jpg" alt="Mdm Rahayu Mohamad" title="View Story" /></a><br /><strong>Mdm Rahayu Mohamad, President, Singapore Muslim Women’s Association (PPIS)</strong><br /><em>Reflection and Meaning</em>
       <br /><br />
