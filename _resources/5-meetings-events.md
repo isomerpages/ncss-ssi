@@ -15,7 +15,7 @@ Refer to the table below to obtain the latest booking rates for SSI’s rooms.
 			<th>Capacity</th>
 			<th>Mon-Fri (1/2 day)</th>
 			<th>Mon to Fri (Full day)</th>
-			<th>>Mon-Fri (Evening)</th>
+			<th>Mon-Fri (Evening)</th>
 			<th>Sat (1/2 day)</th>
 			<th>Sat (Full day)</th>
 		</tr>
