@@ -1,5 +1,5 @@
 ---
-title: Ms Nur Khaiyisha Bte Abd Kadir
+title: Mr Michael Kee and Ms Irene Neo
 permalink: /stories/mr-michael-kee-and-ms-irene-neo
 ---
 
@@ -16,7 +16,7 @@ Presently, both Irene and Michael  are also part of foster parent chatgroups, wh
 <table align="center" border="0" cellpadding="1" cellspacing="1" style="width: 600px;">
 	<tbody>
 		<tr>
-			<td style="width:40%;"><img alt="Mr Michael Kee and Ms Irene Neo" src="/images/stories/pages/mr-michael-kee-and-ms-irene-neo.jpg" style="width: 287px; height: 191px;" />       </td>
+			<td style="width:40%;"><img alt="Mr Michael Kee and Ms Irene Neo" src="/images/stories/pages/mr-michael-kee-and-ms-irene-neo.jpg" style="width: 430px; height: 286px;" /></td>
 			<td style="text-align: center;"><strong style="text-align: center;">"Seeing her smile, being so happy and healthy – that is one of the greatest joys I’ve experienced. She keeps running over wanting to talk to me, so I know I’ve won her heart."</strong></td>
   </tr>
 	</tbody>
