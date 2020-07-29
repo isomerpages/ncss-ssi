@@ -29,11 +29,13 @@ collections:
     output: true
   training:
     output: true
-  resources-and-links:
-    output: true
+  # Unused currently
+  #resources-and-links:
+  #  output: true
   faq:
     output: true
 
+resources_name: "resource-room"
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
