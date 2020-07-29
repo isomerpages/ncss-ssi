@@ -32,8 +32,8 @@ collections:
   # Unused currently
   #resources-and-links:
   #  output: true
-  faq:
-    output: true
+  #faq:
+  #  output: true
 
 resources_name: "resource-room"
 
