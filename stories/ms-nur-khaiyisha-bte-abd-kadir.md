@@ -19,7 +19,7 @@ In her last two years teaching at a mainstream school, Khaiyisha was also studyi
 	<tbody>
 		<tr>
 			<td style="width:40%;"><img alt="Ms Nur Khaiyisha Bte Abd Kadir" src="/images/stories/pages/ms-nur-khaiyisha-bte-abd-kadir.jpg" style="width: 192px; height: 288px;" /></td>
-			<td style="text-align: center;"><strong style="text-align: center;">"Service delivery in this sector is not just about giving financial assistance, but enhancing the community life and spirit. To me, the best scenario is seeing neighbours helping neighbours, be it with caregiving duties or lending a hand. That is my aspiration for the social service sector &ndash; to see the power of community spirit rising up to the challenge."</strong></td>
+			<td style="text-align: center;"><strong style="text-align: center;">"Just keep going. Always believe that things will be better. One day, everything will fall in place. This is what is keeping me going."</strong></td>
   </tr>
 	</tbody>
 </table>
