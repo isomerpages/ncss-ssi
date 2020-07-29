@@ -22,12 +22,11 @@ colors:
 collections:
   discover-ssi:
     output: true
-collections:
-  discover-ssi:
-    output: true
   initiatives:
     output: true
   training:
+    output: true
+  resources:
     output: true
   # Unused currently
   #resources-and-links:
