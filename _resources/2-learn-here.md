@@ -17,8 +17,8 @@ Through LearnHere, Learners can:
 - Ask questions and engage in meaningful discussions before and after classroom sessions.
 
 ### Guides for Using LearnHere
-- [For courses with a Pre-Course Quiz component](/resources/Learner-login-Course-with-pre-course-equiz.pdf)
-- [For courses without Pre-Course Quiz component](/resources/Learner-login-Course-without-pre-course-equiz.pdf)
+- [For courses with a Pre-Course Quiz component](/images/resources/Learner-login-Course-with-pre-course-equiz.pdf)
+- [For courses without Pre-Course Quiz component](/images/resources/Learner-login-Course-without-pre-course-equiz.pdf)
 
 To learn more about LearnHere, email [socialserviceinstitute@ncss.gov.sg](mailto:socialserviceinstitute@ncss.gov.sg)
 
