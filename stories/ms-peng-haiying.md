@@ -15,13 +15,6 @@ While she only joined SUN-DAC in 2015, the organisation has undergone a huge tra
 
 “We humbled to receive the Award. The Aon team came down to conduct a comprehensive interview for each and every one of us assessing our people practices, work flow and other components,” Haiying shares.
 
-
-|  |  |  |
-|--|--|--|
-|![buffer](/images/stories/within_stories/left-quote-w-buffer-2.png) |![buffer-h](/images/stories/within_stories/buffer-h.png)<br>![pei-haiying](/images/stories/within_stories/pei-haiying.png) <br> My daily routine is packed with meetings after meetings, and neverending admin work. My joy is being able to step into the classroom whenever I can. Looking at my clients, seeing them smile, this makes my hard work meaningful and worthwhile. | ![buffer](/images/stories/within_stories/right-quote-w-buffer-4.png)   |
-|  |  |  |
-
-
 <table>
 	<tbody>
 		<tr>
