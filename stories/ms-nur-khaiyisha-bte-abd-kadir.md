@@ -15,7 +15,7 @@ Throughout her time there, she came across students facing challenges at school,
 
 In her last two years teaching at a mainstream school, Khaiyisha was also studying for her Degree in Counselling. Inspired by a lecturer’s advice, and through exploring options to upgrade her professional skills, Khaiyisha eventually enrolled for an Advanced Certificate in Supported Employment (ACSE), offered by SSI. She was the only applicant not nominated by a employer, yet the ACSE was exactly what she was looking for. Khaiyisha gained industry know-how on how to support students with disabilities and build up their employment capability. Sharing by other professionals with diverse backgrounds in the course, also allowed her a better view of the disability sub sector in Singapore.
 
-<table>
+<table align="center" border="0" cellpadding="1" cellspacing="1" style="width: 500px;">
 	<tbody>
 		<tr>
 			<td><img alt="Ms Nur Khaiyisha Bte Abd Kadir" src="/images/stories/pages/ms-nur-khaiyisha-bte-abd-kadir.jpg" style="width: 192px; height: 288px;" /></td>
