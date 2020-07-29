@@ -7,6 +7,8 @@ permalink: /stories/
 <table width="300px">
 <tbody>
       <td width="100px">
+          <a href="mr-michael-kee-and-ms-irene-neo"><img src="/images/stories/mainpage/mr-michael-kee-and-ms-irene-neo.jpg" alt="Mr Michael Kee And Ms Irene Neo" title="View Story" /></a><br /><strong>Mr Michael Kee and Ms Irene Neo, Foster Parents</strong><br /><em>"I was tutoring underprivileged children every Saturday for about two hours, but it seemed inadequate. I wanted to do more. I was contemplating what else to do, to have to create a bigger impact on society…”</em>
+          <br /><br />  
           <a href="ms-tan-qiu-ling"><img src="/images/stories/mainpage/ms-tan-qiu-ling-1.jpg" alt="Ms Tan Qiu Ling" title="View Story" /></a><br /><strong>Ms Tan Qiu Ling, Social Worker, South Central Community Family Service Centre</strong><br /><em>“As long as I’m able to make a family or an individual empowered to believe in themselves, and use that empowerment to make themselves happy, I believe I’ve made an impact in this society.”</em>
           <br /><br />
           <a href="ms-eleanor-wong"><img src="/images/stories/mainpage/ms-eleanor-wong.jpg" alt="Ms Eleanor Wong" title="View Story" /></a><br /><strong>Eleanor Wong, Community Executive, St Hilda’s Community Services Centre</strong><br /><em>“You could see his face light up with joy. It’s these moments that I treasure the most.”</em>
@@ -19,7 +21,10 @@ permalink: /stories/
           <br /><br />
           <a href="ms-nur-khaiyisha-bte-abd-kadir"><img src="/images/stories/mainpage/ms-nur-khaiyisha-bte-abd-kadir.jpg" alt="Ms Nur Khaiyisha Bte Abd Kadir" title="View Story" /></a><br /><strong>Ms Nur Khaiyisha Bte Abd Kadir, Special Needs Teacher, APSN</strong><br /><em>“Go for it if you have that voice or feeling in your heart. Start from that small fire…”</em> 
       </td>
-      <td width="100px"><a href="mr-abdul-halim"><img src="/images/stories/mainpage/mr-abdul-halim.jpg" alt="Mr Abdul Halim" title="View Story" /></a><br /><strong>Abdul Halim, Welfare Officer, Pertapis Children’s Home</strong><br /><em>“Though we are not blood-related, at that moment, I felt the special bond that I share with the children and it’s a feeling no words can describe.”</em>
+      <td width="100px">
+      <a href="mr-pathnapuram-manoj"><img src="/images/stories/mainpage/mr-pathnapuram-manoj.jpg" alt="Mr Pathnapuram Manoj" title="View Story" /></a><br /><strong>Mr Pathnapuram Manoj, Assistant Director (Resource & Training Centre), AWWA Ltd</strong><br /><em>“I was attracted to Sun Ray because it offers significant opportunities to explore the sector. Having been in an organisation for too long a time, I reflected that I ought to know how other social service agencies work. Sun Ray provides such openings for both leaders and practitioners to fully develop our strengths and leadership ability.”</em>
+      <br /><br />
+      <a href="mr-abdul-halim"><img src="/images/stories/mainpage/mr-abdul-halim.jpg" alt="Mr Abdul Halim" title="View Story" /></a><br /><strong>Abdul Halim, Welfare Officer, Pertapis Children’s Home</strong><br /><em>“Though we are not blood-related, at that moment, I felt the special bond that I share with the children and it’s a feeling no words can describe.”</em>
       <br /><br />
       <a href="mr-christopher-lo"><img src="/images/stories/mainpage/mr-christopher-lo.jpg" alt="Mr Christopher Lo" title="View Story" /></a><br /><strong>Mr Christopher Lo, Board Member, Cerebral Palsy Alliance Singapore</strong><br /><em>A Call to Service</em>
       <br /><br />
