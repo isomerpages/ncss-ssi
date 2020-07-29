@@ -15,7 +15,7 @@ In spite of her busy schedule, Barbara still takes time out to volunteer, interp
 
 To the mother of two, volunteering is about giving yourself the opportunity to be of help to others, and to be there when they need you. Sharing one’s talents, skills and time with those less privileged creates meaning and value for Barbara.
 
-<table>
+<table align="center" border="0" cellpadding="1" cellspacing="1" style="width: 520px;">
 	<tbody>
 		<tr>
 			<td><img alt="Ms Barbara D’ Cotta" src="/images/stories/pages/ms-barbara-d-cotta.jpg" style="width: 178px; height: 255px;" /></td>
