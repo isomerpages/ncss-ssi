@@ -15,8 +15,11 @@ links:
     collection: training
   - title: Our Stories
     url: /stories/
-  - title: Resources & Links
-    collection: resources-and-links
+  - title: Media Centre
+    resource_room: true
+ # Not in use currently
+ # - title: Resources & Links
+ #   collection: resources-and-links
   - title: Course Search
     url: https://e-services.ncss.gov.sg/Training/Course/TemplateSearch
   - title: Faq
