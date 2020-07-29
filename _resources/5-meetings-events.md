@@ -44,7 +44,7 @@ Refer to the table below to obtain the latest booking rates for SSI’s rooms.
 			<td>Auditorium</td>
 			<td>Up to 60 pax</td>
 			<td>$1,040</td>
-			<td">$2,080</td>
+			<td>$2,080</td>
 			<td>$1,320</td>
 			<td>$1,320</td>
 			<td>$2,360</td>
