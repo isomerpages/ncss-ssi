@@ -13,7 +13,7 @@ The training equipped them with essential knowledge, such as a better understand
  
 Presently, both Irene and Michael  are also part of foster parent chatgroups, where valuable fostering tips are exchanged. They’ve picked up tips on managing a child’s tantrum with a simple change of words to convey a more effective message. And instead of using the negative-sounding command, “go to the naughty corner”, a more positive outcome can be achieved by simply replacing the key words with “thinking chair”.
 
-<table align="center" border="0" cellpadding="1" cellspacing="1" style="width: 600px;">
+<table align="center" border="0" cellpadding="1" cellspacing="1" style="width: 700px;">
 	<tbody>
 		<tr>
 			<td style="width:50%;"><img alt="Mr Michael Kee and Ms Irene Neo" src="/images/stories/pages/mr-michael-kee-and-ms-irene-neo.jpg" style="width: 215px; height: 143px;" /></td>
