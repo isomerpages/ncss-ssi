@@ -10,5 +10,5 @@ SSI provides a wide array of resources for Social Service Agencies (SSAs) and so
 |  |  |  |
 |--|--|--|
 |**[SMART Environment](/resources/SMART-environment)** <br> [![SMART Environment](/images/resources/mainpage/BlockBooks.jpg)](/resources/SMART-environment)   |[![LearnHere](/images/resources/mainpage/Learnhere.jpg)](/resources/learn-here)   |[![CreateHere](/images/resources/mainpage/Createhere.jpg)](/resources/create-here)   |
-|[![Gathere Here](/images/resources/mainpage/Gatherehere.jpg)](/resources/Gatherhere.jpg)   |[![Meetings & Events](/images/resources/mainpage/Venue.jpg)](/resources/meetings-events)   |[![Toolkits & Frameworks](/images/resources/mainpage/Toolkit.jpg)](/resources/toolkits-frameworks)   |
+|[![Gather Here](/images/resources/mainpage/Gatherhere.jpg)](/resources/Gatherhere.jpg)   |[![Meetings & Events](/images/resources/mainpage/Venue.jpg)](/resources/meetings-events)   |[![Toolkits & Frameworks](/images/resources/mainpage/Toolkit.jpg)](/resources/toolkits-frameworks)   |
 
