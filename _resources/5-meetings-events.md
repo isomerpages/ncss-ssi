@@ -63,9 +63,7 @@ Refer to the table below to obtain the latest booking rates for SSI’s rooms.
 <em>(Effective from 1 April 2019)</em>
 
 ### Photo Gallery 
-<table>
-  <tr style="width:100%;"><img alt="" src="images/resources/facilities_1.jpg" style="width:33%;" /><img alt="" src="images/resources/Large-Training-Room.jfif" style="width:33%;"  /><img alt="" src="images/resources/Auditorium.jfif" style="width:33%;" /></tr>
-</table>
+![meetings and events photo gallery](/images/resources/meetings-events.png)
 
 ### Terms and Conditions
 - Venues are available for booking by NCSS Member Organisations and Government Agencies only.
