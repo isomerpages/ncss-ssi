@@ -64,7 +64,7 @@ Refer to the table below to obtain the latest booking rates for SSI’s rooms.
 
 ### Photo Gallery 
 <table>
-  <tr style:"width=100%;"><img alt="" src="images/resources/facilities_1.jpg" width="33%" /><img alt="" src="images/resources/Large-Training-Room.jfif" width="33%" /><img alt="" src="images/resources/Auditorium.jfif" width="33%" /></tr>
+  <tr style="width:100%;"><img alt="" src="images/resources/facilities_1.jpg" style="width:33%;" /><img alt="" src="images/resources/Large-Training-Room.jfif" style="width:33%;"  /><img alt="" src="images/resources/Auditorium.jfif" style="width:33%;" /></tr>
 </table>
 
 ### Terms and Conditions
