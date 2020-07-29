@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<!-- saved from url=(0107)https://www.ssi.sg/SSI/media/SSI-Media-Library/learning-n-development/InspiringeBook/html5forpc.html?page=0 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Nurturing Careers Inspiring Lives</title>
+	
+	<meta name="language" content="en">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	
+	<style type="text/css" media="screen"> 
+		html, body	{ height:100%; }
+		body {margin:0; padding:0; overflow:auto;  }
+		ul{list-style-type: none;margin:0px;padding-left:20px; }
+		ul li{height:20px;}
+		ul li span {color:blue;overflow: hidden;text-overflow: ellipsis;white-space:nowrap;display:block;width: 100%}
+		img {border:0;-webkit-tap-highlight-color: rgba(255, 255, 255, 0);-webkit-user-select: none;}
+		.static {position:static;}
+		.relative {position:relative; left:auto;top:auto;bottom:auto;right:auto;}
+		#loading {position:absolute;left:0px;top:0px;width:100px;height:100px;}
+		#cvsBook{ position:absolute;left:0px;top:0px;width:100%;height:100%;overflow: hide; -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		-webkit-user-select: none;}
+		#cvsButton{ position:absolute;left:0px;top:0px;width:100%;height:100%;overflow: hide; }
+		#zoom{-ms-touch-action: pinch-zoom;position:absolute;left:0px;top:0px;width:100%;height:100%;overflow: hide; -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		-webkit-user-select: none;}
+		
+		#mainAdhtml{ position:absolute;display:none;  overflow: hide; -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		-webkit-user-select: none;z-index:100; text-align:left;vertical-align:middle}
+
+		.bookleftpage{ position:absolute;left:0px;top:0px; display:none;  overflow: hide; -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		-webkit-user-select: none;}
+		.bookrightpage{ position:absolute;left:0px;top:0px;display:none; overflow: hide; -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		-webkit-user-select: none;}
+
+		.leftPageLock{ position:absolute;left:0px;top:0px;display:none; overflow: hide;-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		-webkit-user-select: none;}
+		.rightPageLock{ position:absolute;left:0px;top:0px; display:none;overflow: hide;-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		-webkit-user-select: none;vertical-align:middle;}
+		
+		.buttonsLayer{ position:absolute;left:0px;top:0px;width:100%;height:100%;  overflow: hide;-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		-webkit-user-select: none;}
+
+		#mask{ position:absolute;left:0px;top:0px;width:100%;height:100%;overflow: hide;-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		-webkit-user-select: none;}
+
+		#maskPopup { position:absolute;left:0px;top:0px;width:100%;height:100%; background-color:#CCCCCC; opacity:0.5; display:none;}
+		#cvsOthers,#cvsYoutube { position:absolute;left:0px;top:0px;}
+		#cvsVideo {position:absolute;left:0px;top:0px;overflow: hide;-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		-webkit-user-select: none;}
+
+		#cvsSlideshow {position:absolute;left:0px;top:0px;overflow: hide;-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		-webkit-user-select: none;}
+
+
+		#cvsTest {position:absolute;width:100%;z-index: 9999999999;height:100%;background: #0000ff; opacity: 0; left:0px;top:0px;overflow: hide;-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		-webkit-user-select: none;}
+
+
+		#tz { position:absolute;bottom:0px;width:100%;height:40px;
+				align:center;background: blue;opacity: 0}
+
+
+		#topMenuBar { top:0px;width:100%;height:40px;
+				align:center;}
+		#topMenuBarBg { width:100%;height:40px;
+				align:center;background-color:#5c5c5c;}
+
+		#topTable{height:100%;}
+		#topTable img {margin-left:25px;}
+
+
+		#bottomBar { left:0px;position:absolute;bottom:0px;width:100%;height:49px;z-index: 999999;
+				align:center;}
+		#bottomBarBg {left:0px;position:absolute; width:100%;height:49px;align:center;background:#5c5c5c;}
+
+
+		#bottomTable{height:100%}
+		#tbPage{width:35px;}
+		#bottomTable img {margin-left:25px;}
+		#tbPageCount {color:#ffffff;}
+		#topBar,.topBarDefault {position:absolute; top:0px;display:none;background:#cccccc;
+			margin-right: auto; margin-left: auto; width:500px;
+			border:1px solid #666666;-webkit-border-radius: 5px; padding-bottom:45px;z-index: 100000;
+		}
+		#topBar #close{	position:absolute; top:2px; right:5px;}
+		#topBarTitle {position:absolute;top:0px;width:100%;height:30px;background-color:888888;text-align:left;}
+		#topBarContent {position:absolute; padding-left:10px;padding-right:10px; top:35px;
+						text-align:left;overflow:auto; height:280px;width:96%;display: block;}
+		#topFullTextContent {text-align:left;overflow:auto;top:35px;position:absolute; padding-left:10px;padding-right:10px;background: #ffffff}
+		#topTitle {position:absolute;top:5px;left:5px;}
+		.thumb {max-width:80px;max-height:78px;margin:8px;}
+		.bookmark {}
+		#searchBox { padding-left:5px;};
+		.colPage {width:50px;}
+		.colContent {}
+		.searchResults { padding:20px; font-size:12; color:#333333; }
+		.searchResults td {font-size:12;color:#333333;vertical-align:top;};
+
+		p{margin:0 0; display: inline-block;vertical-align: middle;line-height: 32px;width: 500px; float: left;}
+		p.p1{padding:  0 0 0 0;margin:0 0; width: 50px;float: left;color: red; height: 35px; line-height: 35px}
+		p.p2{padding:  0 0 0 15px;margin:0 0; width: 300px;float:left;text-decoration: underline;height: 35px; line-height: 35px}
+		#op textarea{ width:100%; height: 50px;}
+		.bookmarkrow{border-bottom:  1px dashed #ffffff; margin: 15px 0px; height: 35px}
+
+		button{height: 35px;}
+
+		#inputBox p{
+			margin: 20px 30px;
+		}
+
+		#tbKeyword{
+			margin: 10px 30px;
+		}
+
+		.slides {
+
+			margin: 45px 0 0;
+			-webkit-border-radius: 5px;
+			-moz-border-radius: 5px;
+			border-radius: 5px;
+			padding: 1%;
+
+		}
+
+
+		/* Animation */
+
+		.slides .inner {
+			-webkit-transform: translateZ(0);
+			-webkit-transition: all 800ms cubic-bezier(0.770, 0.000, 0.175, 1.000); 
+			-moz-transition: all 800ms cubic-bezier(0.770, 0.000, 0.175, 1.000); 
+		    -ms-transition: all 800ms cubic-bezier(0.770, 0.000, 0.175, 1.000); 
+		     -o-transition: all 800ms cubic-bezier(0.770, 0.000, 0.175, 1.000); 
+		        transition: all 800ms cubic-bezier(0.770, 0.000, 0.175, 1.000); /* easeInOutQuart */
+
+			-webkit-transition-timing-function: cubic-bezier(0.770, 0.000, 0.175, 1.000); 
+			-moz-transition-timing-function: cubic-bezier(0.770, 0.000, 0.175, 1.000); 
+		    -ms-transition-timing-function: cubic-bezier(0.770, 0.000, 0.175, 1.000); 
+		     -o-transition-timing-function: cubic-bezier(0.770, 0.000, 0.175, 1.000); 
+		        transition-timing-function: cubic-bezier(0.770, 0.000, 0.175, 1.000); /* easeInOutQuart */
+		}
+
+
+		article img {
+			width: 100%;
+			
+		}
+
+
+		.slides .inner {
+			
+			line-height: 0;
+
+		}
+
+		.slides article {
+			
+			float: left;
+		}
+
+		.email td {
+				width:145px;
+			}
+			
+		td input, textarea{
+			
+			width: 310px;
+		}
+
+		#snsbox p{
+			padding:  0px 5px;
+		}
+		#mainAdInner{ position:absolute;
+			vertical-align:middle;margin:auto;
+		}
+
+		/* ColorPicker */
+		#colorPicker { margin:0; padding:0px; }
+		#colorPicker div,ul,ol,li,dl,dt,dd,form,img,p{ margin:0; padding:0; border:0;}
+		#colorPicker li { list-style-type:none;}
+		#colorPicker h1,h2,h3,h4,h5,input{ margin:0; padding:0; letter-spacing:1px;}
+		#colorPicker textarea{ overflow:auto;}
+		#color{ width:235px; padding:0 0 1px 0; background:#fff; overflow:hidden; margin-bottom:30px;}
+		#color ul{ width:78px; float:left; display:inline; background:#fff; overflow:hidden;}
+		#color li{ float:left; display:inline; width:12px; height:12px; margin:1px 0 0 1px; background:#808080;}
+		#color li a{ display:block; margin:1px 0 0 1px; width:11px; height:11px; overflow:hidden;}
+	</style>
+    
+    
+
+	<script src="./inspiringbook-webpage_files/spin.min.js.download"></script>
+
+	<script type="text/javascript">
+		
+
+		function showSpinner(){
+			var opts = {
+			      lines: 16, 
+			      length: 15, 
+			      width: 5, 
+			      radius: 18, 
+			      color: '#ffffff', 
+			      speed: 1, 
+			      trail: 100, 
+			      shadow: true
+	    	};
+			var target = document.getElementById('loading');
+			var spinner = new Spinner(opts).spin(target);
+		}
+
+
+
+	</script>
+
+	<script>
+	//颜色选择器代码
+	// 辅助函数
+	function F$(element){
+	 return typeof(element)=="object" ? element : document.getElementById(element);
+	};
+	
+	// 事件加载器
+	function addEvent(elem,type,fn){if(elem.nodeName==="A"&&type==="click"){F7(elem).attr("href","javascript:void(0)")};if(elem.addEventListener){elem.addEventListener(type,fn,false);return true;}else if(elem.attachEvent){elem['e'+type+fn]=fn;elem[type+fn]=function(){elem['e'+type+fn](window.event);}
+	elem.attachEvent("on"+type,elem[type+fn]);return true;}
+	return false;};
+	
+	// 主体函数
+	var getColor = function(hand, input, elem, mouse){
+	// 缺点：目前不支持点击空白地方关闭
+	  this.hand = hand;// 触发按钮
+	  this.input = input;// 接受选中颜色的表单
+	  this.elem = elem;// 色块放置的容器，最佳标签为DIV
+	  this.mouse = mouse;// 鼠标触发动作
+	  this.flag = 0;// 记录是否已经打开颜色模块
+	  this.h = [];
+	  this.h[0] = "FF";
+	  this.h[1] = "CC";
+	  this.h[2] = "99";
+	  this.h[3] = "66";
+	  this.h[4] = "33";
+	  this.h[5] = "00";
+	};
+	getColor.prototype = {
+	  init: function(){// 执行
+		var that = this;
+		addEvent(this.hand, this.mouse, function(){
+		  if(that.flag == 0){
+			that.show();
+			that.getRank();
+			//that.hand.onblur = function(){ that.hide() };// 手柄失去焦点后关闭  --  此功能失败
+			//that.hand.onblur = function(){ setTimeout(function(){that.hide()}, 100) };// 手柄失去焦点后关闭
+		  }else{
+			that.hide();
+		  };
+		});
+	  },
+	  
+	  show: function(){
+		this.elem.style.display = "block";
+		this.elem.innerHTML = "";// 先清空内容；
+		this.flag = 1;
+	  },
+	  
+	  hide: function(){
+		this.elem.style.display = "none";
+		this.flag = 0;
+	  },
+	  
+	  getRank: function(){// 组合出216种不同的颜色参数
+		for(var r=0; r<6; r++){
+		  var _ul = document.createElement("ul");
+		  for(var g=0; g<6; g++){
+			for(var b=0; b<6; b++){
+			  this.getCube(this.h[r], this.h[g], this.h[b], _ul);
+			};
+		  };
+		  this.elem.appendChild(_ul);
+		};
+	  },
+	  
+	  getCube: function(R, G, B, _ul){// 创建颜色小方块
+		var _li = document.createElement("li");
+		var _a = document.createElement("a");
+		_a.style.background = "#"+ R + G + B;
+		_li.title = "#"+ R + G + B;
+		_li.appendChild(_a);
+		_ul.appendChild(_li);
+		var that = this;
+		addEvent(_li, "click", function(){ that.action(R,G,B) });
+	  },
+	  
+	  action:function(R,G,B){//点击颜色后的执行
+		this.hide();
+		this.input.value = parseInt(R,16)+","+parseInt(G,16)+","+parseInt(B,16);
+		//this.input.value = "";
+		this.hand.style.background = "#"+R+G+B;
+		
+		//alert('您选择的颜色是:'+RGB);
+	  }
+	};
+	</script>
+
+
+	
+	<script>
+        function isNUM(e)
+        {
+            var iKeyCode = e.keyCode;
+            if(!(((iKeyCode >= 48) && (iKeyCode <= 57)) || (iKeyCode == 13) || (iKeyCode == 46) || (iKeyCode == 45) || (iKeyCode == 37) || (iKeyCode == 39) || (iKeyCode == 8)))
+            {   
+				return false;
+            }
+			else
+			{
+				if(iKeyCode == 13)
+				{
+					RunTime.getInputAndJumpToPage();
+				}
+				return true;
+			}
+        } 
+		
+		function onSearchInputKeyPress(e)
+		{
+            var iKeyCode = e.keyCode;
+			if(iKeyCode == 13)
+			{
+				search();
+			}
+		}
+		
+		function onInputKeyPress(e)
+		{
+            var iKeyCode = e.keyCode;
+			if(iKeyCode == 13)
+			{
+				inputPwd();
+			}
+		}
+		
+		function updateOrientation()
+		{
+			RunTime.saveCurrentPageNum();
+			RunTime.reload();
+		}
+		
+		function gotoPage(val)
+		{
+			RunTime.flipBook.turnToPage(val);
+			hideTopBar();
+		}
+		
+		function hideTopBar()
+		{
+			RunTime.flipBook.hideTopBar();
+		}
+		
+		function search()
+		{
+			RunTime.flipBook.search();
+		}
+		
+		function inputPwd()
+		{
+			RunTime.flipBook.inputPwd();
+		}
+		
+		function clickInvoke(e)
+		{
+			alert("click");
+		}
+		
+		function onDoubleClick(e)
+		{
+			alert("dblclick");
+		}
+		
+		function clearPopupContents()
+		{
+			//alert("clearPopupContents");
+			RunTime.clearPopupContents();
+		}
+		
+		function clearLeftBgAudio()
+		{
+			RunTime.clearLeftBgAudio();
+		}
+		
+		function clearRightBgAudio()
+		{
+			RunTime.clearRightBgAudio();
+		}
+
+		function closeNotePopup(){
+
+		}
+
+		function saveHighlightNote(){
+			RunTime.updateHighLightNote(document.getElementById("textNote").value, document.getElementById("showVal").value );
+			clearPopupContents();
+		}
+		
+		function showHighlightColor(){
+			var Fcolor = new getColor(F$("showColor"), F$("showVal"), F$("color"), "click");
+	  		Fcolor.init();
+		}
+		
+
+		function deleteHighlightNote(){
+			RunTime.deleteHighLight();
+			clearPopupContents();
+		}
+
+
+		function saveNote(){
+			RunTime.updateNote(document.getElementById("textNote").value);
+			clearPopupContents();
+		}
+
+		function deleteNote(){
+			RunTime.deleteNote();
+			clearPopupContents();
+		}
+
+		function addBookmark(val){
+
+			RunTime.flipBook.addBookmark(val,document.getElementById("bookmarknote").value);
+
+		}
+
+		function removeBookmark(val){
+			RunTime.flipBook.removeBookmark(val);
+		}
+
+		function InputUnlock(){
+			RunTime.InputUnlock();
+		}
+
+		function unlockPage(){
+			RunTime.flipBook.unlockPage();
+		}
+
+		function onUnlockKeyPress(e)
+		{
+            var iKeyCode = e.keyCode;
+			if(iKeyCode == 13)
+			{
+				unlockPage();
+			}
+		}
+
+		
+	</script>
+</head>
+<body onload="showSpinner();" scroll="no" style="overflow: hidden; background-color: rgb(162, 163, 163); background-image: url(&quot;content/images/theme/bg.jpg&quot;); background-repeat: no-repeat; background-position: center center; background-size: cover; background-clip: border-box;" onorientationchange="updateOrientation()" onselectstart="return false">
+
+
+	
+	<div id="zoom">
+		
+		<canvas id="cvsBook" class="canvasBook" width="1707" height="706" onselectstart="return false">this browser does not support canvas…</canvas>
+		<div id="mainAdhtml" style="display: block;">
+			<a id="mainAdInner">
+				<img id="mainAdimg">
+			</a>
+		</div>
+		<img id="leftpage" class="bookleftpage" src="https://www.ssi.sg/SSI/media/SSI-Media-Library/learning-n-development/InspiringeBook/html5forpc.html?page=0" style="display: none;">
+		<img id="rightpage" class="bookrightpage" src="https://www.ssi.sg/SSI/media/SSI-Media-Library/learning-n-development/InspiringeBook/html5forpc.html?page=0" width="499" height="706" style="left: 853.5px; top: 0px; display: none;">
+		<canvas id="cvsButton" class="canvasBook" width="1707" height="706" onselectstart="return false">this browser does not support canvas…</canvas>
+
+		<canvas style=" position:absolute; " id="cvsHighLight" width="1707" height="706" onselectstart="return false">this browser does not support canvas…</canvas>
+
+		<canvas style=" position:absolute; " id="cvsNote" width="1707" height="706" onselectstart="return false">this browser does not support canvas…</canvas>
+
+		<canvas style=" position:absolute; " id="cvsBookmark" width="1707" height="706" onselectstart="return false">this browser does not support canvas…</canvas>
+
+
+		<div id="mask" style="cursor: default;">
+			<div id="leftPageLock" class="leftPageLock">
+				<img id="leftLockIcon" src="./inspiringbook-webpage_files/iconLock.png" style="position:absolute;" onclick="InputUnlock()">
+			</div>
+			<div id="rightPageLock" class="rightPageLock" style="width: 499px; height: 706px; left: 853.5px; top: 0px;">
+				<img id="rightLockIcon" src="./inspiringbook-webpage_files/iconLock.png" style="position: absolute; left: 185px; top: 289px;" onclick="InputUnlock()">
+			</div>
+		</div>
+
+		
+		<div id="cvsLeftPageBgAudio"></div>
+		<div id="cvsRightPageBgAudio"></div>
+		<div id="cvsSlideshow"></div>
+
+
+		<div id="cvsVideo"></div>
+
+	</div>
+
+		<div id="maskPopup" style="display: none;"></div>
+		<div id="cvsOthers"></div>
+		<div id="cvsAudio"></div>
+
+	
+
+	<div id="hiddenSearch" style="display:none"></div>
+	<div id="hiddenInput" style="display:none;"></div>
+
+	<div id="loading" style="vertical-align: middle; top: 303px; left: 803.5px; display: none;">
+	</div>
+
+	<div id="loadingLogo" style="vertical-align: middle; position: absolute; top: 343.5px; left: 853.5px; display: none;"></div>
+
+	<!--
+	<div id="cvsYoutube">
+	<iframe frameborder="0" type="text/html" height="390" width="640" src="http://www.youtube.com/embed/JW5meKfy3fY?controls=0&enablejsapi=1&origin=http://mysite.com"></iframe>
+	</div>
+	-->
+	<div id="topMenuBar" style="display: inline-block;">
+		<div id="topMenuBarBg" style="opacity: 0.6; transition: all 0.3s ease-out 0s;">
+		<table id="topTable" align="center" width="100%">
+			<tbody><tr valign="middle">
+				<td width="100%" align="center" id="menuParent">
+					<img id="btnContents" src="./inspiringbook-webpage_files/btnContents.png" style="display: inline; cursor: pointer;" width="32" height="32">
+					<img id="btnThumbs" src="./inspiringbook-webpage_files/btnThumbs.png" style="display: inline; cursor: pointer;" width="32" height="32">
+					<img id="btnSearch" src="./inspiringbook-webpage_files/btnSearch.png" style="display: inline; cursor: pointer;" width="32" height="32">
+					
+					<img id="btnMask" src="./inspiringbook-webpage_files/btnMask.png" style="display: inline; cursor: pointer;" width="32" height="32">
+					<img id="btnBookMark" src="./inspiringbook-webpage_files/btnBookMark.png" style="display: inline; cursor: pointer;" width="32" height="32">
+					<img id="btnNote" src="./inspiringbook-webpage_files/btnNote.png" style="display: inline; cursor: pointer;" width="32" height="32"> 
+					<img id="btnAutoFlip" src="./inspiringbook-webpage_files/btnAutoFlip.png" style="display: inline; cursor: pointer; opacity: 1;" width="32" height="32">
+					
+					
+					<img id="btnEmail" src="./inspiringbook-webpage_files/btnEmail.png" style="display: inline; cursor: pointer;" width="32" height="32">
+					<img id="btnSns" src="./inspiringbook-webpage_files/btnSns.png" style="display: inline; cursor: pointer;" width="32" height="32">
+                    <img id="btnAboutUs" src="./inspiringbook-webpage_files/btnAboutUs.png" style="display: inline; cursor: pointer;" width="32" height="32">
+				</td>
+
+			</tr>
+		</tbody></table>
+		</div>
+	</div>
+
+	<div id="topBar" style="left: 603px; height: 300px; width: 500px; display: none;">
+		<div id="topBarTitle">
+			<span id="topTitle">Thumbnail View</span>
+			<img id="close" width="24" height="24" src="./inspiringbook-webpage_files/close.png" onclick="hideTopBar();">			
+		</div>
+		<div id="topBarContent" style="z-index: 10000; display: block;"><img class="thumb" src="./inspiringbook-webpage_files/page1.jpg" onclick="gotoPage(0); "><img class="thumb" src="./inspiringbook-webpage_files/page2.jpg" onclick="gotoPage(1); "><img class="thumb" src="./inspiringbook-webpage_files/page3.jpg" onclick="gotoPage(2); "><img class="thumb" src="./inspiringbook-webpage_files/page4.jpg" onclick="gotoPage(3); "><img class="thumb" src="./inspiringbook-webpage_files/page5.jpg" onclick="gotoPage(4); "><img class="thumb" src="./inspiringbook-webpage_files/page6.jpg" onclick="gotoPage(5); "><img class="thumb" src="./inspiringbook-webpage_files/page7.jpg" onclick="gotoPage(6); "><img class="thumb" src="./inspiringbook-webpage_files/page8.jpg" onclick="gotoPage(7); "><img class="thumb" src="./inspiringbook-webpage_files/page9.jpg" onclick="gotoPage(8); "><img class="thumb" src="./inspiringbook-webpage_files/page10.jpg" onclick="gotoPage(9); "><img class="thumb" src="./inspiringbook-webpage_files/page11.jpg" onclick="gotoPage(10); "><img class="thumb" src="./inspiringbook-webpage_files/page12.jpg" onclick="gotoPage(11); "><img class="thumb" src="./inspiringbook-webpage_files/page13.jpg" onclick="gotoPage(12); "><img class="thumb" src="./inspiringbook-webpage_files/page14.jpg" onclick="gotoPage(13); "><img class="thumb" src="./inspiringbook-webpage_files/page15.jpg" onclick="gotoPage(14); "><img class="thumb" src="./inspiringbook-webpage_files/page16.jpg" onclick="gotoPage(15); "><img class="thumb" src="./inspiringbook-webpage_files/page17.jpg" onclick="gotoPage(16); "><img class="thumb" src="./inspiringbook-webpage_files/page18.jpg" onclick="gotoPage(17); "><img class="thumb" src="./inspiringbook-webpage_files/page19.jpg" onclick="gotoPage(18); "><img class="thumb" src="./inspiringbook-webpage_files/page20.jpg" onclick="gotoPage(19); "><img class="thumb" src="./inspiringbook-webpage_files/page21.jpg" onclick="gotoPage(20); "><img class="thumb" src="./inspiringbook-webpage_files/page22.jpg" onclick="gotoPage(21); "><img class="thumb" src="./inspiringbook-webpage_files/page23.jpg" onclick="gotoPage(22); "><img class="thumb" src="./inspiringbook-webpage_files/page24.jpg" onclick="gotoPage(23); "><img class="thumb" src="./inspiringbook-webpage_files/page25.jpg" onclick="gotoPage(24); "><img class="thumb" src="./inspiringbook-webpage_files/page26.jpg" onclick="gotoPage(25); "><img class="thumb" src="./inspiringbook-webpage_files/page27.jpg" onclick="gotoPage(26); "><img class="thumb" src="./inspiringbook-webpage_files/page28.jpg" onclick="gotoPage(27); "><img class="thumb" src="./inspiringbook-webpage_files/page29.jpg" onclick="gotoPage(28); "><img class="thumb" src="./inspiringbook-webpage_files/page30.jpg" onclick="gotoPage(29); "><img class="thumb" src="./inspiringbook-webpage_files/page31.jpg" onclick="gotoPage(30); "><img class="thumb" src="./inspiringbook-webpage_files/page32.jpg" onclick="gotoPage(31); "><img class="thumb" src="./inspiringbook-webpage_files/page33.jpg" onclick="gotoPage(32); "><img class="thumb" src="./inspiringbook-webpage_files/page34.jpg" onclick="gotoPage(33); "><img class="thumb" src="./inspiringbook-webpage_files/page35.jpg" onclick="gotoPage(34); "><img class="thumb" src="./inspiringbook-webpage_files/page36.jpg" onclick="gotoPage(35); "><img class="thumb" src="./inspiringbook-webpage_files/page37.jpg" onclick="gotoPage(36); "><img class="thumb" src="./inspiringbook-webpage_files/page38.jpg" onclick="gotoPage(37); "><img class="thumb" src="./inspiringbook-webpage_files/page39.jpg" onclick="gotoPage(38); "><img class="thumb" src="./inspiringbook-webpage_files/page40.jpg" onclick="gotoPage(39); "><img class="thumb" src="./inspiringbook-webpage_files/page41.jpg" onclick="gotoPage(40); "><img class="thumb" src="./inspiringbook-webpage_files/page42.jpg" onclick="gotoPage(41); "><img class="thumb" src="./inspiringbook-webpage_files/page43.jpg" onclick="gotoPage(42); "><img class="thumb" src="./inspiringbook-webpage_files/page44.jpg" onclick="gotoPage(43); "><img class="thumb" src="./inspiringbook-webpage_files/page45.jpg" onclick="gotoPage(44); "><img class="thumb" src="./inspiringbook-webpage_files/page46.jpg" onclick="gotoPage(45); "><img class="thumb" src="./inspiringbook-webpage_files/page47.jpg" onclick="gotoPage(46); "><img class="thumb" src="./inspiringbook-webpage_files/page48.jpg" onclick="gotoPage(47); "><img class="thumb" src="./inspiringbook-webpage_files/page49.jpg" onclick="gotoPage(48); "><img class="thumb" src="./inspiringbook-webpage_files/page50.jpg" onclick="gotoPage(49); "><img class="thumb" src="./inspiringbook-webpage_files/page51.jpg" onclick="gotoPage(50); "><img class="thumb" src="./inspiringbook-webpage_files/page52.jpg" onclick="gotoPage(51); "><img class="thumb" src="./inspiringbook-webpage_files/page53.jpg" onclick="gotoPage(52); "><img class="thumb" src="./inspiringbook-webpage_files/page54.jpg" onclick="gotoPage(53); "><img class="thumb" src="./inspiringbook-webpage_files/page55.jpg" onclick="gotoPage(54); "><img class="thumb" src="./inspiringbook-webpage_files/page56.jpg" onclick="gotoPage(55); "><img class="thumb" src="./inspiringbook-webpage_files/page57.jpg" onclick="gotoPage(56); "><img class="thumb" src="./inspiringbook-webpage_files/page58.jpg" onclick="gotoPage(57); "><img class="thumb" src="./inspiringbook-webpage_files/page59.jpg" onclick="gotoPage(58); "><img class="thumb" src="./inspiringbook-webpage_files/page60.jpg" onclick="gotoPage(59); "><img class="thumb" src="./inspiringbook-webpage_files/page61.jpg" onclick="gotoPage(60); "><img class="thumb" src="./inspiringbook-webpage_files/page62.jpg" onclick="gotoPage(61); "><img class="thumb" src="./inspiringbook-webpage_files/page63.jpg" onclick="gotoPage(62); "><img class="thumb" src="./inspiringbook-webpage_files/page64.jpg" onclick="gotoPage(63); "><img class="thumb" src="./inspiringbook-webpage_files/page65.jpg" onclick="gotoPage(64); "><img class="thumb" src="./inspiringbook-webpage_files/page66.jpg" onclick="gotoPage(65); "><img class="thumb" src="./inspiringbook-webpage_files/page67.jpg" onclick="gotoPage(66); "><img class="thumb" src="./inspiringbook-webpage_files/page68.jpg" onclick="gotoPage(67); "><img class="thumb" src="./inspiringbook-webpage_files/page69.jpg" onclick="gotoPage(68); "><img class="thumb" src="./inspiringbook-webpage_files/page70.jpg" onclick="gotoPage(69); "><img class="thumb" src="./inspiringbook-webpage_files/page71.jpg" onclick="gotoPage(70); "><img class="thumb" src="./inspiringbook-webpage_files/page72.jpg" onclick="gotoPage(71); "><img class="thumb" src="./inspiringbook-webpage_files/page73.jpg" onclick="gotoPage(72); "><img class="thumb" src="./inspiringbook-webpage_files/page74.jpg" onclick="gotoPage(73); "><img class="thumb" src="./inspiringbook-webpage_files/page75.jpg" onclick="gotoPage(74); "><img class="thumb" src="./inspiringbook-webpage_files/page76.jpg" onclick="gotoPage(75); "></div>
+		<div id="topFullTextContent" style="display: none;"><br><br>==== Page 1 ====<br><br>BE INSPIRED BY THE TRUE STORIES OF 15 SOCIAL SERVICE PROFESSIONALS
+<br><br></div>
+	</div>
+
+	<div id="bottomBar" style="opacity: 1; transition: all 0.3s ease-out 0s; display: inline-block;">
+		<div id="bottomBarBg" style="opacity: 0.6;">
+		<table id="bottomTable" align="center" width="100%">
+			<tbody><tr valign="middle">
+
+				<td width="100%" align="center" valign="bottom">
+					<img id="btnFirstPage" src="./inspiringbook-webpage_files/btnFirstPage.png" width="32" height="32" style="cursor: pointer;">
+					<img id="btnPrevPage" src="./inspiringbook-webpage_files/btnPrevPage.png" width="32" height="32" style="cursor: pointer;">
+					&nbsp;&nbsp;
+					<input id="tbPage" onkeypress="return isNUM(event)" style="bottom: 11px; text-align: center; left: 10px; width: 60px;" class="relative">&nbsp;&nbsp;<span id="tbPageCount" style="bottom:8px;left:10px" class="relative">/&nbsp;76</span>&nbsp;
+					<img id="btnNextPage" src="./inspiringbook-webpage_files/btnNextPage.png" width="32" height="32" style="cursor: pointer;">
+					<img id="btnLastPage" src="./inspiringbook-webpage_files/btnLastPage.png" width="32" height="32" style="cursor: pointer;">
+				</td>
+				<td width="30%" style="padding-right:10px;" align="right">
+					<img id="imgLogo" height="24" style="display: inline;" src="./inspiringbook-webpage_files/NCSS logo (Transparent bg).png">
+				</td>
+			</tr>
+		</tbody></table>
+
+	</div>
+
+
+	<script src="./inspiringbook-webpage_files/html5pc.js.download"></script>
+	
+    
+    
+    
+    
+    
+
+
+</div></body></html>
