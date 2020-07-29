@@ -18,7 +18,7 @@ To the mother of two, volunteering is about giving yourself the opportunity to b
 <table align="center" border="0" cellpadding="1" cellspacing="1" style="width: 520px;">
 	<tbody>
 		<tr>
-			<td><img alt="Ms Barbara D’ Cotta" src="/images/stories/pages/ms-barbara-d-cotta.jpg" style="width: 356px; height: 510px;" /></td>
+			<td style="width: 30%;"><img alt="Ms Barbara D’ Cotta" src="/images/stories/pages/ms-barbara-d-cotta.jpg" style="width: 356px; height: 510px;" /></td>
 			<td style="text-align: center;"><strong style="text-align: center;">"My best strength is my belief. 
 I believe that every child has something to give. If a child is weak academically, we identify what else the child is good at. We don’t give up on the child and find other ways to help the child achieve and accomplish great things."</strong></td>
   </tr>
