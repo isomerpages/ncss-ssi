@@ -5,7 +5,7 @@ permalink: /stories/ssi-inspiring-e-book
 
 ## Nurturing Careers, Inspiring Lives
 
-[![Nurturing Careers, Inspiring Lives](/images/stories/pages/inspiringbook.jpg)](/images/stories/pages/Nurturing-Careers-Inspiring-Lives-Vol-2.pdf)
+[![Nurturing Careers, Inspiring Lives](/images/stories/pages/inspiringbook.png)](/images/stories/pages/Nurturing-Careers-Inspiring-Lives-Vol-2.pdf)
 
 ‘Nurturing Careers, Inspiring Lives’ showcases the stories of individuals from different walks of life whose lives have been transformed by their desire to learn and grow. Through the different chapters, you will be able to see how SSI has empowered each individual to pursue their dreams in the social service sector through our various courses and by serving as a learning partner.  
 
