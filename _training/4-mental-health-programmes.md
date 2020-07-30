@@ -10,4 +10,4 @@ The [Peer Support Specialist Programme](peer-support-specialist-programme) aims 
 
 |  |  |
 |--|--|
-|[![View Mental Health Programmes](/images/training/view-mental-health-prog.png)](https://e-services.ncss.gov.sg/Training/course/templatesearch?Filter.CourseSubCategory.Id=14a99fd7-e127-e611-8112-000c296ee03a)|![Whitespace](/images/training/mental-health-buffer.png))
+|[![View Mental Health Programmes](/images/training/view-mental-health-prog.png)](https://e-services.ncss.gov.sg/Training/course/templatesearch?Filter.CourseSubCategory.Id=14a99fd7-e127-e611-8112-000c296ee03a)|![Whitespace](/images/training/mental-health-buffer.png) |
