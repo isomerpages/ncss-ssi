@@ -1,7 +1,8 @@
----
-title: Short Courses
-permalink: /training/short-courses/
----
+#This page is no longer in use. Uncomment to set links again.
+#---
+#title: Short Courses
+#permalink: /training/short-courses/
+#---
 
 ## Short Courses
 We are committed to raising the standard of service in the social service sector. We achieve this by equipping our professionals with the knowledge and skills they need. By providing training and programmes in a wide range of areas such as social work, special education, counselling and therapy, we boost the capabilities of those who serve in the social service and community sector to enhance their delivery of service. In constantly reviewing our programmes, we ensure that they remain current and relevant to the needs of children, youth, families, the elderly and those with disabilities.
