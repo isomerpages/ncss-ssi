@@ -1,7 +1,8 @@
----
-title: Updates on SSI's Training Programmes
-permalink: /training/updates-on-ssi-training-programmes
----
+#This page is no longer in use. Uncomment to set links again.
+#---
+#title: Updates on SSI's Training Programmes
+#permalink: /training/updates-on-ssi-training-programmes
+#---
 
 ### Updates on SSI's Training Programmes
  
