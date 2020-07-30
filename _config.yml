@@ -29,8 +29,6 @@ collections:
   resources:
     output: true
   # Unused currently
-  #resources-and-links:
-  #  output: true
   #faq:
   #  output: true
 
