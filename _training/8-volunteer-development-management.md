@@ -10,7 +10,7 @@ To equip time-starved volunteers who find it a challenge to commit their time fo
 
 Click here for [userguide](/images/training/volunteer/LearnerInstruction_Volunteer_1.pdf) on how to access the courses through LearningCloud.
 
-|  |  |
+|&nbsp; &nbsp;|  |
 |--|--|
 | ![Working effectively with youths](/images/training/volunteer/Working_Effectively_with_Youths.jpg)  | [Working Effectively with Youths (E-Learning)](https://learningcloud.sg/pages/login.jsf?faces-redirect=true) <br><br>View our e-Learning promotional video > [Click here](https://www.youtube.com/watch?v=IsqbCSXiFdY)  |
 | ![Befriending Seniors](/images/training/volunteer/Befriending_Seniors.jpg)  | [Befriending Seniors (E-Learning)](https://learningcloud.sg/pages/login.jsf?faces-redirect=true) <br><br>View our e-Learning promotional video > [Click here](https://www.youtube.com/watch?v=ZZZ9VZSQmnA)  |
@@ -21,14 +21,14 @@ Click here for [userguide](/images/training/volunteer/LearnerInstruction_Volunte
 | ![Understanding Persons with Intellectual Disabilities](/images/training/volunteer/working-with-intellectual-disabilities.jpg)  | [Understanding Persons with Intellectual Disabilities (E-Learning)](https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=751912&catalogId=1700)   |
 | ![Aging Process](/images/training/volunteer/Ageing-Process.jpg)  | [Aging Process](https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=900993&catalogId=1700&templateId=-1)   |
 | ![Preparatory Caregiver Training Programme: Understanding Caregiving](/images/training/volunteer/Ageing-Process.jpg)  | [Preparatory Caregiver Training Programme: Understanding Caregiving](https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=752497&catalogId=1700)   |
-| ![Preparatory Caregiver Training Programme: Know the Care Recipient](/images/training/volunteer/Caregiving-Know-your-Care-Recipient.jpg)  | [Preparatory Caregiver Training Programme: Know the Care Recipient (https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=926363&catalogId=1700)   |
-| ![Preparatory Caregiver Training Programme: Communication in Caregiving](/images/training/volunteer/Caregiving-Communication.jpg)  | [Preparatory Caregiver Training Programme: Communication in Caregiving (https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=926394&catalogId=1700)   |
-| ![Preparatory Caregiver Training Programme: Caregiver Stress and Management](/images/training/volunteer/Caregiver-Stress-Management.jpg)  | [Preparatory Caregiver Training Programme: Caregiver Stress and Management (https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=926403&catalogId=1700)   |
+| ![Preparatory Caregiver Training Programme: Know the Care Recipient](/images/training/volunteer/Caregiving-Know-your-Care-Recipient.jpg)  | [Preparatory Caregiver Training Programme: Know the Care Recipient(https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=926363&catalogId=1700)   |
+| ![Preparatory Caregiver Training Programme: Communication in Caregiving](/images/training/volunteer/Caregiving-Communication.jpg)  | [Preparatory Caregiver Training Programme: Communication in Caregiving(https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=926394&catalogId=1700)   |
+| ![Preparatory Caregiver Training Programme: Caregiver Stress and Management](/images/training/volunteer/Caregiver-Stress-Management.jpg)  | [Preparatory Caregiver Training Programme: Caregiver Stress and Management(https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=926403&catalogId=1700)   |
 
 With effective volunteer management practices and adequate training, regular volunteers can make substantial contributions to the social service sector. NCSS developed the Volunteer Management Playbook (Service-Based Volunteerism), to support member Social Service Agencies in the systematic absorption and retention of volunteers to complement paid positions in service delivery. It is meant to be step-by-step guide for you to implement service-based volunteerism in your organisation, from identification of volunteer roles, to volunteer recruitment, and volunteer training and management.
 
 ![Volunteer Management Playbook](/images/training/volunteer/volunteermgt_playbook_2.png)
->> [Download Volunteer Management Playbook](/images/training/volunteer/Volunteer-Management-Playbook.zip)
+- [Download Volunteer Management Playbook](/images/training/volunteer/Volunteer-Management-Playbook.zip)
 
 **Volunteer Courses (Classroom-based)**
 For those who wish to be equipped with more skills-based training, and to engage with other volunteers in discussions and application of ideas, SSI offers courses onsite as well. Please click on the blue button below to view the upcoming courses. Organisations can also arrange for an exclusive session with a minimum of 15 pax.
