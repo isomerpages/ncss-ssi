@@ -10,7 +10,7 @@ To equip time-starved volunteers who find it a challenge to commit their time fo
 
 Click here for [userguide](/images/training/volunteer/LearnerInstruction_Volunteer_1.pdf) on how to access the courses through LearningCloud.
 
-|&nbsp; &nbsp;|  |
+|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|  |
 |--|--|
 | ![Working effectively with youths](/images/training/volunteer/Working_Effectively_with_Youths.jpg)  | [Working Effectively with Youths (E-Learning)](https://learningcloud.sg/pages/login.jsf?faces-redirect=true) <br><br>View our e-Learning promotional video > [Click here](https://www.youtube.com/watch?v=IsqbCSXiFdY)  |
 | ![Befriending Seniors](/images/training/volunteer/Befriending_Seniors.jpg)  | [Befriending Seniors (E-Learning)](https://learningcloud.sg/pages/login.jsf?faces-redirect=true) <br><br>View our e-Learning promotional video > [Click here](https://www.youtube.com/watch?v=ZZZ9VZSQmnA)  |
