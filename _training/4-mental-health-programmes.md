@@ -8,4 +8,6 @@ All persons with mental health issues are supported to be re-integrated into the
 
 The [Peer Support Specialist Programme](peer-support-specialist-programme) aims to provide opportunities for persons with mental health issues to leverage on their lived experience of recovery to support others in their recovery journey in a formal and structured training as well as equipping them with competencies as a Peer Support Specialist. 
 
-[![View Mental Health Programmes](/images/training/view-mental-health-prog.png)](https://e-services.ncss.gov.sg/Training/course/templatesearch?Filter.CourseSubCategory.Id=14a99fd7-e127-e611-8112-000c296ee03a)
+|  |  |
+|--|--|
+|[![View Mental Health Programmes](/images/training/view-mental-health-prog.png)](https://e-services.ncss.gov.sg/Training/course/templatesearch?Filter.CourseSubCategory.Id=14a99fd7-e127-e611-8112-000c296ee03a)|![Whitespace](/images/training/mental-health-buffer.png))
