@@ -1,6 +1,6 @@
 ---
 title: Our Stories
-permalink: /our-stories/
+permalink: /stories/
 ---
 ## Our Stories
 
