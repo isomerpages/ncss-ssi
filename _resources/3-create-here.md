@@ -1,6 +1,6 @@
 ---
-title: Create Here
-permalink: /resources/create-here/
+title: CreateHere
+permalink: /resources/createhere/
 ---
 
 ## CreateHere
