@@ -1,6 +1,6 @@
 ---
-title: Learn Here
-permalink: /resources/learn-here/
+title: LearnHere
+permalink: /resources/learnhere/
 ---
 
 ## LearnHere
