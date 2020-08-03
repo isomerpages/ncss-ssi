@@ -2,22 +2,22 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Social Service Institute
+agency_name: SEA RADO
 locations:
-  - title: Main Office 
+  - title: Main Office
     address:
-        - 298 Tiong Bahru Road 
-        - #18-01 Central Plaza
-        - Singapore 168730
+        - Southeast Asia Regional Anti-Doping Organization c/o Singapore Sports Council
+        - 3 Stadium Drive
+        - Singapore 397630
+    maps_link: https://goo.gl/maps/HrWbMWc4PdrXuTEX8
     operating_hours:
       - days: Mon - Fri
-        time: 9.00am - 6.00pm
+        time: 8.30am - 6.00pm
         description: Closed on Public Holidays
-    maps_link: https://www.streetdirectory.com/sg/central-plaza/298-tiong-bahru-road-168730/1320_12088.html
 contacts:
-  - title: General Enquiries
+  - title: General Enquiries & Feedback
     content:
-    - phone: +65 6589 5555
-    - other: fax: +65 6589 5540
-    - email: socialserviceinstitute@ncss.gov.sg
+    - phone: (65) 6500 5383
+    - phone: (65) 6440 9205
+    - email: Gobinathan_Nair@sport.gov.sg
 ---
