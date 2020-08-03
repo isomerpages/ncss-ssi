@@ -73,7 +73,7 @@ Refer to the table below to obtain the latest booking rates for SSI’s rooms.
 
 [Click here](/images/resources/Terms-and-Conditions-(Revised-2019).pdf) to view the full set of Terms and Conditions.
 
-## Complementary Equipment and Resources
+### Complementary Equipment and Resources
 Booking of each room comes with the following complementary equipment and resources:
 - Interactive projector(s).
 - Computer (Windows 10 and MS Office 2013) with Internet connectivity.
