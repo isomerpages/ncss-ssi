@@ -1,6 +1,6 @@
 ---
-title: Gather Here
-permalink: /resources/gather-here
+title: GatherHere
+permalink: /resources/gatherhere
 ---
 
 ## Gather Here
