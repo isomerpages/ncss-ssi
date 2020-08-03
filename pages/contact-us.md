@@ -14,8 +14,6 @@ locations:
         time: 9.00am - 6.00pm
         description: Closed on Public Holidays
     maps_link: https://www.streetdirectory.com/sg/central-plaza/298-tiong-bahru-road-168730/1320_12088.html
-
-
 contacts:
   - title: General Enquiries
     content:
