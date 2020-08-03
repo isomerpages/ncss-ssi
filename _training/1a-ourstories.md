@@ -39,7 +39,7 @@ permalink: /stories/
       <br /><br />
       <a href="ms-prathibah-pillai-d-o-pillai-parappa-karan"><img src="/images/stories/mainpage/ms-prathibah-pillai-d-o-pillai-parappa-karan.jpg" alt="Ms Prathibah Pillai D/O Pillai Parappa Karan" title="View Story" /></a><br /><strong>Ms Prathibah Pillai D/O Pillai Parappa Karan, Teacher, Grace Orchard School</strong><br /><em>Championing for the Voice</em>
       <br /><br />
-      <a href="ssi-inspiring-e-book"><img src="/images/stories/mainpage/inspiringbook.jpg" alt="Nurturing Careers, Inspiring Lives" title="View Story" /></a><br /><strong>Nurturing Careers, Inspiring Lives</strong><br /><em>‘Nurturing Careers, Inspiring Lives’ showcases the stories of individuals from different walks of life whose lives have been transformed by their desire to learn and grow.</em>    
+      <a href="ssi-inspiring-e-book"><img src="/images/stories/mainpage/inspiringbook.jpg" target="_blank" alt="Nurturing Careers, Inspiring Lives" title="View Story" /></a><br /><strong>Nurturing Careers, Inspiring Lives</strong><br /><em>‘Nurturing Careers, Inspiring Lives’ showcases the stories of individuals from different walks of life whose lives have been transformed by their desire to learn and grow.</em>    
       </td>
       <td width="100px">
       <a href="mr-timothy-chua-kim-seng"><img src="/images/stories/mainpage/mr-timothy-chua-kim-seng.jpg" alt="Mr Timothy Chua Kim Seng" title="View Story" /></a><br /><strong>Mr Timothy Chua Kim Seng, Youth Worker ,Gracehaven, Salvation Army</strong><br /><em>“Things have changed so quickly in a generation that if you don’t upgrade yourself, you will be unable to connect with the younger generation.”</em>     
