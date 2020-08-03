@@ -4,7 +4,7 @@ title: Contact Us
 permalink: /contact-us/
 agency_name: Social Service Institute
 locations:
-  - title: Main Office
+  - title: Main Office 
     address:
         - 298 Tiong Bahru Road 
         - #18-01 Central Plaza
