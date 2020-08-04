@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Social Service Institute
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
