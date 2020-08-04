@@ -9,7 +9,7 @@ locations:
         - Social Service Institute
         - 298 Tiong Bahru Road, #18-01 Central Plaza
         - Singapore 168730
-    maps_link: https://goo.gl/maps/HrWbMWc4PdrXuTEX8
+    maps_link: https://goo.gl/maps/CjZbdfdefPKTszgN8
     operating_hours:
       - days: Mon - Fri
         time: 9:00am - 6.00pm
