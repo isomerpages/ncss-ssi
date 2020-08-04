@@ -11,6 +11,6 @@ Components of SSI’s smart learning environment include include gadgets like a 
 In SSI, both our learners and AEs are empowered to leverage on our smart environment to design their own learning experiences.
 
 ### Photo Gallery
-![smart environment photo gallery](/images/resources/smart-environment.png)https://ncss-ssi-staging.netlify.app/resources/learnhere/
+![smart environment photo gallery](/images/resources/smart-environment.png)
 
 If you would like to know more about SSI’s smart environment, email us at [socialserviceinstitute@ncss.gov.sg](mailto:socialserviceinstitute@ncss.gov.sg.)
