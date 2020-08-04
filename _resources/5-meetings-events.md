@@ -71,7 +71,7 @@ Refer to the table below to obtain the latest booking rates for SSI’s rooms.
 - Special discounts are available for MSF, NCSS and NCSS Member Agencies.
 - The fees shown above exclude GST costs.
 
-[Click here](/images/resources/Terms-and-Conditions-(Revised-2019).pdf) to view the full set of Terms and Conditions.
+[Click here](/images/resources/Terms-and-Conditions-(Revised-2019).pdf){:target="_blank"} to view the full set of Terms and Conditions.
 
 ### Complementary Equipment and Resources
 Booking of each room comes with the following complementary equipment and resources:
@@ -85,5 +85,5 @@ Booking of each room comes with the following complementary equipment and resour
 - Speaker systems (only for the auditorium).
 
 ### Steps to Booking a Room
-- Email us at [socialserviceinstitute@ncss.gov.sg](mailto:socialserviceinstitute@ncss.gov.sg) and attach the completed [Room Booking Form](/images/resources/Room-Booking-Form-(External-Bookings)-2019-(Final).pdf) to your email.
+- Email us at [socialserviceinstitute@ncss.gov.sg](mailto:socialserviceinstitute@ncss.gov.sg) and attach the completed [Room Booking Form](/images/resources/Room-Booking-Form-(External-Bookings)-2019-(Final).pdf){:target="_blank"} to your email.
 - An official notification will be sent to you to confirm or decline the room booking request, based on the availability of the training rooms.
