@@ -22,19 +22,17 @@ colors:
 collections:
   discover-ssi:
     output: true
-collections:
-  discover-ssi:
-    output: true
   initiatives:
     output: true
   training:
     output: true
   resources:
     output: true
-  faq:
-    output: true
-  stories:
-    output: true
+  # Unused currently
+  #faq:
+  #  output: true
+
+resources_name: "resource-room"
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #

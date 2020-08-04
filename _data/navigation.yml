@@ -4,18 +4,10 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/SSILogoFullColour_large_fullwidth.png
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Facilities Booking
-    url: /facilities-booking/
-  - title: Discover Ssi
-    collection: discover-ssi
-  - title: Facilities Booking
-    url: /facilities-booking/
-  - title: Discover Ssi
+  - title: Who We Are
     collection: discover-ssi
   - title: Initiatives
     collection: initiatives
@@ -23,7 +15,13 @@ links:
     collection: training
   - title: Resources
     collection: resources
-  - title: Faq
-    collection: faq
-  - title: Stories
-    collection: stories
+  - title: Media Centre
+    resource_room: true
+ # Not in use currently
+ # - title: Resources & Links
+ #   collection: resources-and-links
+ # - title: Faq
+ #   collection: faq
+  - title: Contact Us
+    url: /contact-us/    
+   

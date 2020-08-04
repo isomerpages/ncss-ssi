@@ -2,7 +2,21 @@
 title: Our Milestones
 permalink: /discover-ssi/our-milestones/
 ---
----
-title: Our Milestones
-permalink: /discover-ssi/our-milestones/
----
+
+## Our Milestones
+
+|  |  |
+|--|--|
+|![2017](/images/discover-ssi/milestones/2017-w.png)|- Commemorated the Opening of SSI@ Central Plaza, to reflect its expanded impact of SSI beyond social services to include the networks established, transformation of sector learning, connecting individuals to career opportunities in the sector, working with employers to enhance their HR practices and bolstering the infrastructure for the HR, ED and Board community to recruit, develop and retain their people.<br><br>- Relocated to Tiong Bahru Central Plaza, to enable us to remain well connected with our NCSS member organisations at the heart of the Social Service Hub and to provide more opportunities for collaboration in learning innovation.<br><br>- Embarked on the Education Innovation 2020 Initiative to harness the benefits of technology and innovative pedagogies and enhance learning experience and make teaching more scalable to the sector.<br><br>- Organised the ‘Tote Board-SSI: Global Leader Series for Non-Profits’, the signature conference series for non-profit sector in Singapore.<br><br>- Launched the Professional Certificates in Casework & Group Work (NSWCF Foundational)| 
+|![2016](/images/discover-ssi/milestones/2016-w.png)|- Developed the ‘ACE Capstone Leadership Programme for Non-Profits’ to build talents by grooming strategic leaders for the non-profit sector.<br><br>- Started the Education Innovation 2020 (GatherHere initiative to build a strong online community, harnessing the power of collaboration among social service professionals.<br><br>- Launched the Advanced Certificate in Supported Employment (ACSE) and Certificate in Peer Support.<br><br>- Participated in the Mindfulness-Based Stress Reduction Research Project in collaboration with SMU|
+|![2015](/images/discover-ssi/milestones/2015.png) |- Signed the Memorandum of Understanding (MOU) with the Singapore Institute of Directors (SID) to strengthen the capability of SSOrgs. In partnership with SID, the Institute launched the NonProfit Directors Programme’ for board members. Developed quarterly ‘Board Members Network’ event and Governance 101.<br><br>- Developed the Leadership Milestone programme (Lead Self, Lead People, Lead Managers) to groom a future-ready social service workforce.<br><br>- Jointly developed ‘The Starting Point: An Onboarding Programme for Social Workers’ with MSF and MOH. It is based on the National Social Workers Competency Framework.<br><br>- Launched the Singapore Workforce Skills Qualifications Advanced Certificate and Diploma in Social Service.<br><br>- Published ‘Nurturing Careers, Inspiring Lives’ book, a collection of personal stories of 10 graduates from our Diploma and Higher Diploma in Social Service, aimed to illustrate the motivation of the graduates to join the social service sector. |
+|![2014](/images/discover-ssi/milestones/2014.png) |- Communities of Practice launched the Person-centred Approval Toolkit and Mental Health Resource kit. |
+|![2013](/images/discover-ssi/milestones/2013.png) |- Celebrated 10 years of achievements in manpower capability building.<br><br>- Repositioned the Social Service Institute as an integrated social service hub for training, practice, resource and career.<br><br>- Relocated to TripleOne Somerset for better accessibility and greater presence.<br><br>- Launched the SSI Expert Series to Stimulate, Sustain and Inspire the sector.<br><br>- Appointed by the then Singapore Workforce Development Agency as the Continuing Education and Training (CET) centre for Social Services. |
+|![2012](/images/discover-ssi/milestones/2012.png) |- Invested in an e-journal database (EBSCOhost) to build research capability of Social Service Agencies.<br><br>- Initiation of Communities of Practice to strengthen transfer of learning into practice. |
+|![2011](/images/discover-ssi/milestones/2011.png) |- Successful articulation of SSTI Higher Diploma in Social Service to the Bachelor of Social Work with the then SIM University (UniSIM). |
+|![2010](/images/discover-ssi/milestones/2010.png) |- SSTI Higher Diploma in Social Service is launched. |
+|![2008](/images/discover-ssi/milestones/2008.png) |- SSTI Diploma in Social Service is launched. |
+|![2007](/images/discover-ssi/milestones/2007.png) |- Mandarin Board Governance programmes are started. |
+|![2006](/images/discover-ssi/milestones/2006.png) |- Achieved accreditation as an Approved Training Organisation (ATO) by the Singapore Workforce Development Agency.<br><br>- Launched of the Bachelor of Education (Special Education) with Flinders University |
+|![2005](/images/discover-ssi/milestones/2005.png) |- School of Non-Profits is established. |
+|![2003](/images/discover-ssi/milestones/2003.png) |- Official launch of Social Service Training Institute. |
