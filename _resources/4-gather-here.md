@@ -14,7 +14,7 @@ Through GatherHere, you can create organisation specific communication networks.
    
 This makes GatherHere ideal for the creation of interconnected community groups that are able to work together in a communication and collaboration focused environment.
 
-Click [here](https://www.youtube.com/watch?v=osEh6RfEDNY) to see how other organisations are using GatherHere to develop a sustainable culture.
+Click [here](https://www.youtube.com/watch?v=osEh6RfEDNY){:target="_blank"} to see how other organisations are using GatherHere to develop a sustainable culture.
 
 ### Professional Interest Groups
 For professional interest groups that are seeking digital management platforms, GatherHere can complement your activities by helping you to record meeting minutes, organise both offline and online events, share materials and manage event registrations digitally. 
@@ -36,5 +36,5 @@ SSI also provides a suite of services to facilitate the onboarding process and m
 - Content Services
 
 ### Guides for Claiming your GatherHere Account
-- [For Apple users](https://www.youtube.com/watch?v=dwTr-1N2TK4)
-- [For android users](https://www.youtube.com/watch?v=h_KfsXXsBKI)
+- [For Apple users](https://www.youtube.com/watch?v=dwTr-1N2TK4){:target="_blank"}
+- [For android users](https://www.youtube.com/watch?v=h_KfsXXsBKI){:target="_blank"}
