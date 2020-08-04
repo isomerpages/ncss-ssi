@@ -3,7 +3,7 @@ title: GatherHere
 permalink: /resources/gatherhere
 ---
 
-## Gather Here
+## GatherHere
 
 GatherHere is an online community for the Social Service Tribe, a group of like-minded individuals, who share a vision of empowering everyone to live with dignity. It is where members of the Social Service Tribe can come together to work, communicate, network and reach out differently.
 
