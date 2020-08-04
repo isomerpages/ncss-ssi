@@ -22,4 +22,4 @@ It aims to help existing and aspiring social service professionals, social servi
 
 **Training Providers** can gain insights on sector trends, existing and emerging skills that are in demand and design programmes to address the industry needs accordingly.
 
-Click [here](https://www.skillsfuture.sg/skills-framework/social-service) for more information on the framework.
+Click [here](https://www.skillsfuture.sg/skills-framework/social-service){:target="_blank"} for more information on the framework.
