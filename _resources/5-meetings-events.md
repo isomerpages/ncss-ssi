@@ -30,7 +30,7 @@ Refer to the table below to obtain the latest booking rates for SSI’s rooms.
 			<td>$960</td>
 		</tr>
 		<tr>
-			<td>Cluster</strong></td>
+			<td><strong>Cluster</strong></td>
 			<td>2 Rooms Combined</td>
 			<td>26-50 pax</td>
 			<td>$680</td>
