@@ -1,6 +1,7 @@
 ---
 title: Cross Sector
 permalink: /training/cross-sector
+third_nav_title: Cross Sector
 ---
 
 ## Cross Sector
