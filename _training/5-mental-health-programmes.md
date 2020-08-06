@@ -19,7 +19,7 @@ Some of the key courses under this category include:
 
 1This is the first module in the Peer Support Specialist Programme.
 
-Certificate/ Diploma/ Degree Programmes:
+### Certificate/ Diploma/ Degree Programmes:
 Certificate in Peer Support2
 2This is the second module in the Peer Support Specialist Programme.
 
