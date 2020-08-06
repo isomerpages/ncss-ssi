@@ -2,7 +2,7 @@
 title: Board Members Programmes
 permalink: training/board-members-programmes/
 ---
-###Board Development
+### Board Development
 Developed in partnership with the Singapore Institute of Directors (SID), the Singapore Governance for Outstanding Organisation Directors Programme (S-GOOD), provides competencies to efficiently and effectively conduct Board functions.
 
 The programme includes eight modules which are as shown below:
@@ -21,10 +21,10 @@ In addition, to the S-GOOD programme, SSI also offers courses that tackles issue
 
 Otherwise, for Management and Organisational Development courses, you may refer to our Management and Organisation Development course page.
 
-###News and Articles on Board Development
+### News and Articles on Board Development
 Continue receiving news and articles about developments in Non-Profit Board Development through GatherHere. Subscribe to GatherHere by writing to: techservices1@gatherhere.sg.
 
-###Subscribe to Our Board Development Mailing List
+### Subscribe to Our Board Development Mailing List
 Subscribe to SSI’s Board Development Mailing List through this [link](http://form.gov.sg/5f19b07efd23f90011ba727c).
 
 
