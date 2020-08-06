@@ -1,4 +1,5 @@
 ---
+Title: Training
 permalink: /training
 ---
 
