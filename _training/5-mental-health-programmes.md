@@ -8,8 +8,8 @@ permalink: /training/mental-health
 Some of the key courses under this category include:
 
 ### Short Courses
-- [Applied Suicide Interventional Skills (ASIST)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=applied+suicide+)
-- [Tools and Skills for Supporting Youths with Mental Health Distress](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=tools+and+skills+for+supporting+youths+with+mental+health&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=)
+- [Applied Suicide Interventional Skills (ASIST)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=applied+suicide+){:target="_blank"}
+- [Tools and Skills for Supporting Youths with Mental Health Distress](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=tools+and+skills+for+supporting+youths+with+mental+health&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}
 - E.M.B.R.A.C.E Mental Health - Coming Soon!
 - Management of Depression in Seniors
 - Mental Illness and Recovery
@@ -48,4 +48,4 @@ He holds a Master of Arts degree in Applied Psychology from the Nanyang Technolo
 Continue receiving news and articles about developments in the Mental Health sub sector through GatherHere. Subscribe to GatherHere by writing to: <techservices1@gatherhere.sg>
 
 ### Subscribe to SSI’s Mental Health Mailing List
-Subscribe to SSI’s Mental Health Mailing List through this [link](https://form.gov.sg/5d89ece98749e40012e55dba).
+Subscribe to SSI’s Mental Health Mailing List through this [link](https://form.gov.sg/5d89ece98749e40012e55dba){:target="_blank"}.
