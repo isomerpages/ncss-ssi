@@ -1,5 +1,5 @@
 ---
 title: Disability
-permalink: /training/Disability
+permalink: /training/disability
 ---
 
