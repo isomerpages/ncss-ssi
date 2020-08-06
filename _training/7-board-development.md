@@ -2,6 +2,38 @@
 title: Board Members Programmes
 permalink: training/board-members-programmes/
 ---
+###Board Development
+Developed in partnership with the Singapore Institute of Directors (SID), the Singapore Governance for Outstanding Organisation Directors Programme (S-GOOD), provides competencies to efficiently and effectively conduct Board functions.
+
+The programme includes eight modules which are as shown below:
+Essentials of Non-profit Board Leadership.
+Board Dynamics.
+Board and Management Dynamics.
+Talent and Volunteer Management.
+Strategy and Board Performance.
+Financial Management and Accountability. 
+Fundraising, Outreach and Advocacy.
+Social Trends.
+
+For more information on the modules, click [here](https://www.sid.org.sg/Web/Professional_Development/Web/Professional_Development/PD_Map.aspx?hkey=abe367a0-0ee8-4dcf-8ef9-1faba7dc5ecd). Although there are no upcoming runs of S-GOOD as of now, SSI is currently working with SID to determine the development of the next run of S-GOOD and we will keep our learners updated on this.
+
+In addition, to the S-GOOD programme, SSI also offers courses that tackles issues and challenges faced by Non-Profit Organisations serving Children, Youth & Families, Persons with Disabilities, Persons with Mental Health Conditions and seniors.
+
+Otherwise, for Management and Organisational Development courses, you may refer to our Management and Organisation Development course page.
+
+###News and Articles on Board Development
+Continue receiving news and articles about developments in Non-Profit Board Development through GatherHere. Subscribe to GatherHere by writing to: techservices1@gatherhere.sg.
+
+###Subscribe to Our Board Development Mailing List
+Subscribe to SSI’s Board Development Mailing List through this [link](http://form.gov.sg/5f19b07efd23f90011ba727c).
+
+
+
+
+
+
+
+Old page................
 ### Board Development 
 The Develop Board Volunteers Initiative (DBVI) is the first-of-its kind in the non-profit sector for developing board members in the Non-Profit Organisations (NPOs). <br>It is conceived by SSI to enable ongoing learning for non-profit board members to manage in the best interests of their stakeholders while using resources effectively.  The initiative provides a holistic learning roadmap for non-profit board members which integrates different learning methodologies from classroom to blended learning to suit varied learning preference at their own pace 
 
