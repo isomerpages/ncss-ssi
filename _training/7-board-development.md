@@ -1,6 +1,6 @@
 ---
-title: Board Members Programmes
-permalink: training/board-members-programmes/
+title: Board Development
+permalink: training/board-development/
 ---
 ### Board Development
 Developed in partnership with the Singapore Institute of Directors (SID), the Singapore Governance for Outstanding Organisation Directors Programme (S-GOOD), provides competencies to efficiently and effectively conduct Board functions.
