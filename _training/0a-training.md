@@ -1,6 +1,5 @@
 ---
-title: Training
-permalink: /
+permalink: /training
 ---
 
 ## Training
