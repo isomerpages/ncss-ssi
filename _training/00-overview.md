@@ -1,6 +1,6 @@
 ---
 Title: Overview
-permalink: /overview/
+permalink: /training/overview/
 ---
 
 ## Training
