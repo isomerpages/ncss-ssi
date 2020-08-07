@@ -11,7 +11,6 @@ links:
     collection: discover-ssi
   - title: Initiatives
     collection: initiatives
-    - title: Custom Sublinks
   - title: Training
     url: /training/
     collection: training
