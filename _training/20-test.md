@@ -20,7 +20,7 @@ table {
 
 <table style="width:100%";"border-spacing: 5px">
   <tr style="background-color:rgb(205, 16, 65)">
-    <th>Firstname123</th>
+    <th>Firstname</th>
     <th>Lastname</th> 
     <th>Age</th>
   </tr>
