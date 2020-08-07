@@ -9,7 +9,7 @@ table, th, td {
   padding: 10px;
 }
 table {
-  border-spacing: 5px;
+  
 }
 </style>
 </head>
@@ -18,7 +18,7 @@ table {
 <h2>Border Spacing</h2>
 <p>Border spacing specifies the space between the cells.</p>
 
-<table style="width:100%">
+<table style="width:100%";"border-spacing: 5px">
   <tr style="background-color:rgb(205, 16, 65)">
     <th>Firstname123</th>
     <th>Lastname</th> 
