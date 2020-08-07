@@ -1,5 +1,5 @@
 ---
-title: Resources qwe
+title: Resources
 permalink: /resources/resources
 ---
 
