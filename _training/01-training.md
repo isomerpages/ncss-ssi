@@ -1,5 +1,5 @@
 ---
-Title: Overview
+title: Overview
 permalink: /training/overview/
 ---
 
