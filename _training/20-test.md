@@ -19,7 +19,7 @@ table {
 <p>Border spacing specifies the space between the cells.</p>
 
 <table style="width:100%">
-  <tr>
+  <tr style="background-color:rgb(205, 16, 65)>
     <th>Firstname</th>
     <th>Lastname</th> 
     <th>Age</th>
