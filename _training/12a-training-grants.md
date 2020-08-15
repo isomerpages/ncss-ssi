@@ -13,7 +13,7 @@ Social Service Agencies can nominate their employees for the Leadership Developm
 ****Terms and conditions apply.***
 
 |[VWOs-Charities Capability Fund (VCF)](/training/funding-information/VWOs-Charities-Capability-Fund-(VCF)/)| [![Item Image](/images/training/grants/VCF-funding.jpg)](/training/funding-information/VWOs-Charities-Capability-Fund-(VCF)/)|[SkillsFuture Singapore Funding](/training/funding-information/SkillsFuture-Singapore-Funding/)|[![SkillsFuture Singapore Funding](/images/training/grants/skillsfuture-funding.jpg)](/training/funding-information/SkillsFuture-Singapore-Funding/)|
-|:-:|:-:|:-:|:-:|
+|-|-|-|-|
 |test|test|test|test|
 
 
