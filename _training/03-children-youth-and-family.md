@@ -21,7 +21,8 @@ The featured courses are:
  - [Youth Work: Identify and Apply Effective Intervention Programme](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=identify+and+apply+effective+intervention+programme&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
  - [Youth Work: Introduction to an Evidence-Based Approach](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Youth+Work%3A+Introduction+to+an+Evidence-Based+Approach){:target="_blank"}  
  
-###Featured Adult Educators  
+###Featured Adult Educators
+
 **Ms Alice Lee-Tok**     
 Alice is a family education consultant and trainer with more than 15 years of experience in education and counselling, specialising in children and families. She has an Advanced Diploma in Early Childhood Studies, Bachelor of Arts in Children & Family Education from Edith Cowan University (ECU) and Master in Counselling from the University of South Australia (UniSA). Over the years, Alice has acquired a vast experience in conducting interactive talks/workshops for singles, couples, parents and teachers as a family life resource speaker in various settings. She is also an experienced counsellor in personal developmental and family-related issues such as parenting and marital issues, both in Singapore and China.
 
@@ -51,4 +52,4 @@ Saw Han previously worked with MSF as a clinical psychologist before heading a r
 ### News and Articles   
 Continue receiving news and articles about the Children, Youth & Family sub-sector through GatherHere. Subscribe to GatherHere by writing to: <techservices1@gatherhere.sg>.
 ### Subscribe to SSI’s Children, Youth & Family Mailing List   
-Subscribe to SSI’s Children, Youth and Family Courses Mailing List through this link.
+Subscribe to SSI’s Children, Youth and Family Courses Mailing List through this [link](https://form.gov.sg/5d89dab70c67f000120d00bb){:target="_blank"}.   
