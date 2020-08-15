@@ -12,29 +12,11 @@ Social Service Agencies can nominate their employees for the Leadership Developm
   
 ****Terms and conditions apply.***
 
-|[VWOs-Charities Capability Fund (VCF)](/training/funding-information/VWOs-Charities-Capability-Fund-(VCF)/)| [![Item Image](/images/training/grants/VCF-funding.jpg)](/training/funding-information/VWOs-Charities-Capability-Fund-(VCF)/)|[SkillsFuture Singapore Funding](/training/funding-information/SkillsFuture-Singapore-Funding/)|[![SkillsFuture Singapore Funding](/images/training/grants/skillsfuture-funding.jpg)](/training/funding-information/SkillsFuture-Singapore-Funding/)|
+|[VWOs-Charities Capability Fund (VCF)](/training/funding-information/VWOs-Charities-Capability-Fund-(VCF)/) | [![VWOs-Charities Capability Fund (VCF)](/images/training/grants/VCF-funding.jpg)](/training/funding-information/VWOs-Charities-Capability-Fund-(VCF)/) | [SkillsFuture Singapore Funding](/training/funding-information/SkillsFuture-Singapore-Funding/) | [![SkillsFuture Singapore Funding](/images/training/grants/skillsfuture-funding.jpg)](/training/funding-information/SkillsFuture-Singapore-Funding/) |
 |-|-|-|-|
-|test|test|test|test|
+|[SkillsFuture Credit](/training/funding-information/SkillsFuture-Credit/) | [![SkillsFuture Credit](/images/training/grants/skillsfuture-credit.jpg)](/training/funding-information/SkillsFuture-Credit/)|[SkillsFuture Study Awards for the Social Service Sector](/training/funding-information/SkillsFuture-Study-Awards-for-the-Social-Service-S/) | [![SkillsFuture Study Awards for the Social Service Sector](/images/training/grants/skillsfuture-studyawards.jpg)](/training/funding-information/SkillsFuture-Study-Awards-for-the-Social-Service-S/) |
 
 
 
 
 
-
-
-  
-later
-
-![Item Image](https://www.ssi.sg/SSI/media/SSI-Media-Library/Training%20Grants/skillsfuture-funding.jpg?ext=.jpg)
-
-[](https://www.ssi.sg/Training-(1)/Training-Grants/SkillsFuture-Credit)
-
-SkillsFuture Credit
-
-![Item Image](https://www.ssi.sg/SSI/media/SSI-Media-Library/Training%20Grants/skillsfuture-credit.jpg?ext=.jpg)
-
-[](https://www.ssi.sg/Training-(1)/Training-Grants/SkillsFuture-Study-Awards-for-the-Social-Service-S)
-
-SkillsFuture Study Awards for the Social Service Sector
-
-![Item Image](https://www.ssi.sg/SSI/media/SSI-Media-Library/Training%20Grants/skillsfuture-studyawards.jpg?ext=.jpg)
