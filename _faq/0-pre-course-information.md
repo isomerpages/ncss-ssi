@@ -11,7 +11,7 @@ permalink: /faq/pre-course-information/
 These are courses designed to address different levels of competency in your area of specialisation e.g. social work, therapy, counselling, psychology, research and evaluation, operations, human resource, fundraising, etc. That way, you can select the level of programmes that is most suited to your needs and create your own learning plan to enhance your knowledge and skills.
 
 
-**How do I register for courses offered by the Social Service Institute?**   
+**<u>How do I register for courses offered by the Social Service Institute?</u>**   
 
 Registration for our courses must be made online at [SSI e-services](https://www.ssi.sg/e-Services){:target="_blank"}   . You can access the simplified userguides for [Individual Course Application](http://www.ssi.sg/SSI/media/SSI-Media-Library/eServices/TraineeLoginSimplified.pdf){:target="_blank"}    (using SingPass) and [Organisation Course Application](http://www.ssi.sg/SSI/media/SSI-Media-Library/eServices/VWORegistrationSimplified.pdf){:target="_blank"}    (using CorpPass) to guide you in the course registration.  
   
@@ -25,12 +25,12 @@ Quick Introduction to CorpPass
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ifwp4kfYXCk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-**What are the funding schemes available for SSI courses?**
+**<u>What are the funding schemes available for SSI courses?</u>**
 
 As a Continuous Education Training (CET) centre for the Social Service Sector appointed by SSG, there are different types of funding available for courses offered at SSI. For information on available funding schemes, please refer to the section on [Training Grants.](https://www.ssi.sg/Training/Training-Grants){:target="_blank"}   .
  
  
-**Who is eligible for the SkillsFuture Singapore (SSG) training grants?**   
+**<u>Who is eligible for the SkillsFuture Singapore (SSG) training grants?</u>**   
 
 - SSG funding is available for Singapore Citizens and Permanent Residents only.
 - Learners eligible for SSG funding must achieve at least 75% attendance and pass all assessment components. 
@@ -38,12 +38,11 @@ As a Continuous Education Training (CET) centre for the Social Service Sector ap
 - Learners and their supervisors (for Organisation sponsored learners) are to give consent to the Social Service Institute or its appointed agent and to SkillsFuture Singapore (SSG) or its appointed agents to call or send emails/sms for the purpose of sending information and getting feedback on the quality of training, effectiveness of training aits  application to the workplace, as well as to track employment outcome.
 - For more information on the funding eligibility criteria, please refer to the section on [Training Grants.](https://www.ssi.sg/Training/Training-Grants){:target="_blank"}   .
 - Additional grants are also available:
-  - -   Additional grants are also available:
     -   [SkillsFuture Mid-career Enhanced Subsidy](http://www.skillsfuture.sg/enhancedsubsidy){:target="_blank"}  
     -   [Enhanced Training Support for SMEs (ETS)](http://www.ssg.gov.sg/programmes-and-initiatives/funding/enhanced-training-support-for-smes1.html){:target="_blank"}  
 
 
-**Who is eligible for the SkillsFuture Credit?**   
+**<u>Who is eligible for the SkillsFuture Credit?</u>**   
 
 SkillsFuture Credit aims to encourage individuals to take ownership of their skills development and lifelong learning.  All Singaporeans aged 25 and above can use their S$500 SkillsFuture Credit from the Government to pay for a wide range of approved skills-related courses.  Visit the SkillsFuture Credit website to choose from the list of courses available on the SkillsFuture Credit course directory.
 
@@ -54,26 +53,26 @@ SkillsFuture Credit aims to encourage individuals to take ownership of their ski
 For more information on the eligibility criteria, please refer to the section on [Training Grants.](https://www.ssi.sg/Training/Training-Grants){:target="_blank"}   .
 
 
-**Who is eligible for the VWOs - Charities Capability Fund (VCF)?**  
+**<u>Who is eligible for the VWOs - Charities Capability Fund (VCF)?</u>**  
 - All staff of NCSS member social service organisations and MSF – funded social service organisations can apply for the VCF Local Training Grant. 
 - Learners funded under the VCF must achieve at least 75% attendance in order to be eligible for the funding.
 - For VCF courses that have an assessment component, learners will also need to complete and pass the assessment in order to be eligible for the funding Organisations will be liable to pay the full course fees in the event that the participants fail to meet the attendance/ assessment requirements. 
 - For more information on the eligibility criteria, please refer to the section on [Training Grants.](https://www.ssi.sg/Training/Training-Grants){:target="_blank"}   .
 
-**Is replacement of learners allowed?**  
+**<u>Is replacement of learners allowed?</u>**  
 
 Yes, replacement of organisation-sponsored learners is allowed prior to the receipt of email confirmation for the course and subjected to the learner replacing the originally registered learner meeting the eligibility criteria for the course.
 
-Any replacement request should be made in writing to SSI before email confirmation has been sent out*. Request for replacement received thereafter will not be considered. Organisation will be charged full course fee and any request for waiver of full course fees will be at SSI's discretion
+Any replacement request should be made in writing to SSI before email confirmation has been sent out*. Request for replacement received thereafter will not be considered. Organisation will be charged full course fee and any request for waiver of full course fees will be at SSI's discretion.   
 ***SSI confirms a course about 1-2 weeks before the course commencement date via email notification.**
 
-**Can I withdraw from the course if I'm unable to attend?**   
+**<u>Can I withdraw from the course if I'm unable to attend?</u>**   
 
 For withdrawals, the following conditions apply (except if learner’s withdrawal is due to medical reasons and/or other valid reason supported by medical certificate or other relevant documents):
 
 Before confirmation email* is sent out by Social Service Institute – Full refund of amount paid
 
-After confirmation email is sent out by Social Service Institute – No refund, endorsing organisation or the individual have to pay full 100% course fees to Social Service Institute.
+After confirmation email is sent out by Social Service Institute – No refund, endorsing organisation or the individual have to pay full 100% course fees to Social Service Institute.   
 ***SSI confirms a course about 1-2 weeks before the course commencement date via email notification.**   
 
 
@@ -84,7 +83,7 @@ Request for full course fee waiver on grounds other than that stated above will 
 For refund or waiver of course fee for WSQ Advanced Certificate and Diploma in Social Service programmes, please refer to the programme handbook for policy details.
 
 
-**What happens if my course is cancelled?**   
+**<u>What happens if my course is cancelled?</u>**   
 
 The Social Service Institute reserves the right to change the date, time and venue, or cancel a course.  Every effort, however, will be made to inform you as soon as possible of the change.  For any cancellation of courses by the Social Service Institute, fees received will be refunded in full.
 
