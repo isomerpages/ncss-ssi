@@ -32,12 +32,11 @@ The courses are customised for three tiers in an organisation.
 For a start, learners must complete five core modules within the first two months (before 15 Dec 2020) before they can access the remaining 36 courses. The five core modules for each tier are as listed below.
 
 #### Supervisors and First Line Managers
-[![NEXLeaders](/images/training/engaging-the-disengaged_1.png)](/nexleaders.com/engaging-the-disengaged/){:target="_blank"} 
-[![NEXLeaders](/images/training/why-do-asians-avoid-conflict_3.jpg)](/nexleaders.com/why-do-asians-avoid-conflict/){:target="_blank"}
-[![NEXLeaders](/images/training/unleasingthe%20greatness_1.png)](/nexleaders.com/unleashing-greatness-in-you/){:target="_blank"}
-[![NEXLeaders](/images/training/understanding-self-leadership_1.png)](/nexleaders.com/self-leadership/){:target="_blank"}
-[![NEXLeaders](/images/training/7-up-to-personal-effectiveness_1.jpg)](/nexleaders.com/7ups-to-personal-effectiveness/){:target="_blank"}
-
+[![](/images/training/engaging-the-disengaged_1.png)](http://nexleaders.com/engaging-the-disengaged/)
+[![](/images/training/why-do-asians-avoid-conflict_3.jpg)](http://nexleaders.com/why-do-asians-avoid-conflict/)
+[![](/images/training/unleasingthe%20greatness_1.png)](http://nexleaders.com/unleashing-greatness-in-you/)
+[![](/images/training/understanding-self-leadership_1.png)](http://nexleaders.com/self-leadership/)
+[![](/images/training/7-up-to-personal-effectiveness_1.jpg)](http://nexleaders.com/7ups-to-personal-effectiveness/)
 
 #### Middle Management
 ( insert 5 images)   
