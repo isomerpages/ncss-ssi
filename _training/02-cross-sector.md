@@ -23,7 +23,7 @@ Some of the featured courses under this category are:
 - Solution Focused Brief Therapy: Introduction
 - Understanding the Social Service Sector
 
-##Certificate/ Diploma/ Degree Programmes:
+### Certificate/ Diploma/ Degree Programmes:
 - Bridging Certificate in Social Service (BCSS) - Coming Soon!
 - Certificate in Social Service (Care and Programme) (CSS) - Coming Soon!
 - Certificate in Para-Counselling
@@ -38,7 +38,7 @@ Counselling Skills and Practice: Introduction and Cognitive Behaviour Therapy: I
 Motivational Interviewing: An Introduction for Social Service Practitioners, equips learners with the skills to engage and facilitate intrinsic motivation in their clients, in order to change behaviour and progress towards an improved well-being.
 
 
-###Featured Adult Educators
+### Featured Adult Educators
 
 **Ms Alice Lee-Tok**
 Alice is the author of a parenting book titled ‘Building Bridges with your Teenagers’ and has more than 15 years of experience as a Family Education consultant and training specialist where she  specialises in children and families. She is also a family counsellor, family life resource speaker and a certified behaviour analyst. Alice has conducted numerous interactive talks/workshops/trainings/supervisions for various client groups in different social service settings across Thailand, Malaysia and China. She has an Advance Diploma in Early Childhood Studies, Bachelor of Arts in Children & Family Education from the Edith Cowan University (ECU) and Masters in Counselling with the University of South Australia (UniSA).
