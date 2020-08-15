@@ -10,13 +10,12 @@ At the Social Service Institute, we offer a host of training grants to support y
   
 Social Service Agencies can nominate their employees for the Leadership Development Programme (LDP), Professional Development and Management Programme (PDMP) and Sabbatical Leave Scheme (SLS). Click [here](https://www.ncss.gov.sg/Social-Service-Careers/Professional-Development/About-Professional-Development){:target="_blank"} for more information on course fee funding support.  
   
-****Terms and conditions apply.***
-
-|[VWOs-Charities Capability Fund (VCF)](/training/funding-information/VWOs-Charities-Capability-Fund-(VCF)/) | [![VWOs-Charities Capability Fund (VCF)](/images/training/grants/VCF-funding.jpg)](/training/funding-information/VWOs-Charities-Capability-Fund-(VCF)/) | [SkillsFuture Singapore Funding](/training/funding-information/SkillsFuture-Singapore-Funding/) | [![SkillsFuture Singapore Funding](/images/training/grants/skillsfuture-funding.jpg)](/training/funding-information/SkillsFuture-Singapore-Funding/) |
+___*Terms and conditions apply___.  
+  
+  
+|**[VWOs-Charities Capability Fund (VCF)](/training/funding-information/VWOs-Charities-Capability-Fund-(VCF)/)** | [![VWOs-Charities Capability Fund (VCF)](/images/training/grants/VCF-funding.jpg)](/training/funding-information/VWOs-Charities-Capability-Fund-(VCF)/) | **[SkillsFuture Singapore Funding](/training/funding-information/SkillsFuture-Singapore-Funding/)** | [![SkillsFuture Singapore Funding](/images/training/grants/skillsfuture-funding.jpg)](/training/funding-information/SkillsFuture-Singapore-Funding/) |
 |-|-|-|-|
-|[SkillsFuture Credit](/training/funding-information/SkillsFuture-Credit/) | [![SkillsFuture Credit](/images/training/grants/skillsfuture-credit.jpg)](/training/funding-information/SkillsFuture-Credit/)|[SkillsFuture Study Awards for the Social Service Sector](/training/funding-information/SkillsFuture-Study-Awards-for-the-Social-Service-S/) | [![SkillsFuture Study Awards for the Social Service Sector](/images/training/grants/skillsfuture-studyawards.jpg)](/training/funding-information/SkillsFuture-Study-Awards-for-the-Social-Service-S/) |
-
-
+|**[SkillsFuture Credit](/training/funding-information/SkillsFuture-Credit/)** | [![SkillsFuture Credit](/images/training/grants/skillsfuture-credit.jpg)](/training/funding-information/SkillsFuture-Credit/)| **[SkillsFuture Study Awards for the Social Service Sector](/training/funding-information/SkillsFuture-Study-Awards-for-the-Social-Service-S/)** | [![SkillsFuture Study Awards for the Social Service Sector](/images/training/grants/skillsfuture-studyawards.jpg)](/training/funding-information/SkillsFuture-Study-Awards-for-the-Social-Service-S/) |
 
 
 
