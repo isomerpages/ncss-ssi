@@ -4,22 +4,22 @@ permalink: /training/cyandf
 ---
 ## Children, Youth and Family  
 The featured courses are:  
- - An Introduction to Family Therapy 
- - Certified User for Child & Adolescent Needs & Strengths (CANS) 
- - Certified User for Youth Level of Service/ Case Management (YLS/CMI)
- - Coaching and Mentoring Youth Effectively
- - Delivering Impactful Training to Youths 
- - Engaging Reluctant Adolescents Using Motivational Approaches 
- - Family and Adult Support Tool (FAST) - User 
- - Game for Life for Youths-At-Risk 
- - Helping Youths Cope with Anger 
- - Management of Family Violence: Introduction
- - Youth Work: Identify and Apply Effective Intervention Programme
- - Management of Family Violence: Organisational Approaches to Child Safe Practices for Frontline Staff
- - Management of Family Violence: Organisational Approaches to Child Safe Practices for Centre & Team Leads 
- - Management of Family Violence: Understanding Mental Health and Vulnerable Adult Issues in Protection Work 
- - Youth Work: Identify and Apply Effective Intervention Programme 
- - Youth Work: Introduction to an Evidence-Based Approach  
+ - [An Introduction to Family Therapy](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=An+Introduction+to+Family+Therapy){:target="_blank"}  
+ - [Certified User for Child & Adolescent Needs & Strengths (CANS)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Certified+User+for+Child+%26+Adolescent+Needs+%26+Strengths+%28CANS%29){:target="_blank"}  
+ - [Certified User for Youth Level of Service/ Case Management (YLS/CMI)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Certified+User+for+Youth+Level+of+Service+%2F+Case+Management+Inventory+2.0+%28YLS%2FCMI+2.0%29){:target="_blank"}  
+ - [Coaching and Mentoring Youth Effectively](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Coaching+and+Mentoring+Youths){:target="_blank"}  
+ - [Delivering Impactful Training to Youths](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Delivering+Impactful+Training+to+Youths){:target="_blank"}   
+ - [Engaging Reluctant Adolescents Using Motivational Approaches](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Engaging+Reluctant+Adolescents+Using+Motivational+Approaches){:target="_blank"}  
+ - [Family and Adult Support Tool (FAST) - User](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Family+and+Adult+Support+Tool+%28FAST%29){:target="_blank"}  
+ - [Game for Life for Youths-At-Risk](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=game+for+life){:target="_blank"}   
+ - [Helping Youths Cope with Anger](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Helping+Youths+Cope+with+Anger){:target="_blank"}   
+ - [Management of Family Violence: Introduction](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Management+of+Family+Violence%3A+Introduction){:target="_blank"}  
+ - [Youth Work: Identify and Apply Effective Intervention Programme](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Identify+and+Apply+Effective+Intervention+Programme){:target="_blank"}  
+ - [Management of Family Violence: Organisational Approaches to Child Safe Practices for Frontline Staff](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Management+of+Family+Violence%3A+Organisational+Approaches+to+Child+Safe+Practices+for+frontline+staff&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
+ - [Management of Family Violence: Organisational Approaches to Child Safe Practices for Centre & Team Leads](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Management+of+Family+Violence%3A+Organisational+Approaches+to+Child+Safe+Practices+for+centre&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
+ - [Management of Family Violence: Understanding Mental Health and Vulnerable Adult Issues in Protection Work](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=understanding+mental+health+and+vulnerable+adult+issues+in+protection+work&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
+ - [Youth Work: Identify and Apply Effective Intervention Programme](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=identify+and+apply+effective+intervention+programme&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
+ - [Youth Work: Introduction to an Evidence-Based Approach](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Youth+Work%3A+Introduction+to+an+Evidence-Based+Approach){:target="_blank"}  
  
 ###Featured Adult Educators  
 **Ms Alice Lee-Tok**     
@@ -50,5 +50,5 @@ Saw Han previously worked with MSF as a clinical psychologist before heading a r
 
 ### News and Articles   
 Continue receiving news and articles about the Children, Youth & Family sub-sector through GatherHere. Subscribe to GatherHere by writing to: <techservices1@gatherhere.sg>.
-###Subscribe to SSI’s Children, Youth & Family Mailing List   
+### Subscribe to SSI’s Children, Youth & Family Mailing List   
 Subscribe to SSI’s Children, Youth and Family Courses Mailing List through this link.
