@@ -2,7 +2,6 @@
 title: Disability
 permalink: /training/disability
 ---
-(insert image)
 
 ## Disability
 The featured courses are:   
