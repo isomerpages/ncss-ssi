@@ -2,7 +2,8 @@
 title: Cross Sector
 permalink: /training/cross-sector
 ---
-(insert image)
+![cross sectory header](images/training/SSI_header-banner-757-x-239px1.jpg)
+
 ## Cross Sector
 These courses provide a deeper understanding about each sub-sector, their unique social needs and helps learners to critically discern and analyse their own assumptions.
 
