@@ -6,10 +6,10 @@ permalink: /training/Caregiving
 ## Caregiving   
 
 The featured courses under SSI are:   
--   [Preparatory Caregiver Training Programme:](http://learningcloud.sg/pages/coursedescription.jsf?courseId=752497&catalogId=1700) [Understanding Caregiving](https://learningcloud.sg/pages/coursedescription.jsf?courseId=752497&catalogId=1700) (e-Learning){:target="_blank"}   
--   [Preparatory Caregiver Training Programme:](http://learningcloud.sg/pages/coursedescription.jsf?courseId=926394&catalogId=1700) [Communication in Caregiving](https://learningcloud.sg/pages/coursedescription.jsf?courseId=926394&catalogId=1700) (e-Learning){:target="_blank"}   
--   [Preparatory Caregiver Training Programme:](http://learningcloud.sg/pages/coursedescription.jsf?courseId=926403&catalogId=1700) [Caregiver Stress and Management](https://learningcloud.sg/pages/coursedescription.jsf?courseId=926403&catalogId=1700) (e-Learning){:target="_blank"}   
--   [Preparatory Caregiver Training Programme:](http://learningcloud.sg/pages/coursedescription.jsf?courseId=926363&catalogId=1700) [Know the Care Recipient](https://learningcloud.sg/pages/coursedescription.jsf?courseId=926363&catalogId=1700) (e-Learning){:target="_blank"}   
+-   [Preparatory Caregiver Training Programme:](http://learningcloud.sg/pages/coursedescription.jsf?courseId=752497&catalogId=1700) [Understanding Caregiving](https://learningcloud.sg/pages/coursedescription.jsf?courseId=752497&catalogId=1700){:target="_blank"}   (e-Learning)
+-   [Preparatory Caregiver Training Programme:](http://learningcloud.sg/pages/coursedescription.jsf?courseId=926394&catalogId=1700) [Communication in Caregiving](https://learningcloud.sg/pages/coursedescription.jsf?courseId=926394&catalogId=1700){:target="_blank"}   (e-Learning) 
+-   [Preparatory Caregiver Training Programme:](http://learningcloud.sg/pages/coursedescription.jsf?courseId=926403&catalogId=1700) [Caregiver Stress and Management](https://learningcloud.sg/pages/coursedescription.jsf?courseId=926403&catalogId=1700){:target="_blank"}   (e-Learning)
+-   [Preparatory Caregiver Training Programme:](http://learningcloud.sg/pages/coursedescription.jsf?courseId=926363&catalogId=1700) [Know the Care Recipient](https://learningcloud.sg/pages/coursedescription.jsf?courseId=926363&catalogId=1700){:target="_blank"}   (e-Learning)
 
 The featured courses under the Agency for Integrated Care (AIC) can be found in the link below:
 
