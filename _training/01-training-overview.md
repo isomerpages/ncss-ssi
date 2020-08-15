@@ -17,29 +17,39 @@ The training programmes offered by SSI can be segregated into ten course categor
 <table cellspacing="5px" cellpadding="5px">
 <tbody>
 <tr>
-<td style="border: 0px currentColor; height: 50px; text-align: center; background-color: #cd1041;">tesdt&nbsp;</td>
+<td style="border: 0px currentColor; height: 50px; text-align: center; background-color: #cd1041;">**[Cross Sector](https://e-services.ncss.gov.sg/Training/course/templatesearch?Filter.CourseSubCategory.Id=faf837bd-290c-e611-810d-000c29e3b091)**&nbsp;</td>
 <td  style="width: 5px"></td>
 <td style="border: 0px currentColor; height: 50px; text-align: center; background-color: #cd1041;">tesdt&nbsp;</td>
-<td syle="width: 10px"></td>
+<td syle="width: 5px"></td>
 <td style="border: 0px currentColor; height: 50px; text-align: center; background-color: #cd1041;">ttt&nbsp;</td>
+<td syle="width: 5px"></td>
 <td style="border: 0px currentColor; height: 50px; text-align: center; background-color: #cd1041;">trtettete&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
+<td syle="width: 5px"></td>
 <td>&nbsp;</td>
+<td syle="width: 5px"></td>
 <td>&nbsp;</td>
+<td syle="width: 5px"></td>
 <td>&nbsp;</td>
 </tr>
 <tr>
 <td style="border: 0px currentColor; height: 50px; text-align: center; background-color: #cd1041;">&nbsp;</td>
+<td syle="width: 5px"></td>
 <td style="border: 0px currentColor; height: 50px; text-align: center; background-color: #cd1041;">&nbsp;</td>
+<td syle="width: 5px"></td>
 <td style="border: 0px currentColor; height: 50px; text-align: center; background-color: #cd1041;">&nbsp;</td>
+<td syle="width: 5px"></td>
 <td style="border: 0px currentColor; height: 50px; text-align: center; background-color: #cd1041;">&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
+<td syle="width: 5px"></td>
 <td>&nbsp;</td>
+<td syle="width: 5px"></td>
 <td>&nbsp;</td>
+<td syle="width: 5px"></td>
 <td>&nbsp;</td>
 </tr>
 </tbody>
