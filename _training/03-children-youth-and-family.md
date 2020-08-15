@@ -2,7 +2,7 @@
 title: Children, Youth and Family
 permalink: /training/cyandf
 ---
-![CYF Banner](/images/training/CYF_SSI_header-banner-757-x-239px2.jpg)(www.google.com)
+![CYF Banner](/images/training/CYF_SSI_header-banner-757-x-239px2.jpg)
 
 ## Children, Youth and Family  
 
