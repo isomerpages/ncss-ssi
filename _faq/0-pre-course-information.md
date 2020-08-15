@@ -3,7 +3,7 @@ title: Pre Course Information
 permalink: /faq/pre-course-information/
 ---
 
-### Pre-Course Information
+## Pre-Course Information
 
 
 **<u>What is a competency-based programme?</u>** 
