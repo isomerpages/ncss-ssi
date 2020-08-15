@@ -33,7 +33,7 @@ For a start, learners must complete five core modules within the first two month
 
 #### Supervisors and First Line Managers
 [![NEXLeaders](/images/training/engaging-the-disengaged_1.png)](/nexleaders.com/engaging-the-disengaged/){:target="_blank"} 
-[![NEXLeaders](/images/training/why-do-asians-avoid-conflict_3.jpg](/nexleaders.com/why-do-asians-avoid-conflict/){:target="_blank"}
+(/images/training/why-do-asians-avoid-conflict_3.jpg](/nexleaders.com/why-do-asians-avoid-conflict/){:target="_blank"}
 [![NEXLeaders](/images/training/unleasingthe%20greatness_1.png](/nexleaders.com/unleashing-greatness-in-you/){:target="_blank"}
 [![NEXLeaders](/images/training/understanding-self-leadership_1.png](/nexleaders.com/self-leadership/){:target="_blank"}
 
