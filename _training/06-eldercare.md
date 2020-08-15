@@ -2,6 +2,7 @@
 title: Eldercare
 permalink: /training/eldercare
 ---
+![Eldercare_header](/images/training/Eldercare_SSI_header-banner-757-x-239px5.jpg)
 
 ## Eldercare  
 The featured courses are:
