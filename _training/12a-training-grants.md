@@ -10,11 +10,15 @@ At the Social Service Institute, we offer a host of training grants to support y
   
 Social Service Agencies can nominate their employees for the Leadership Development Programme (LDP), Professional Development and Management Programme (PDMP) and Sabbatical Leave Scheme (SLS). Click [here](https://www.ncss.gov.sg/Social-Service-Careers/Professional-Development/About-Professional-Development){:target="_blank"} for more information on course fee funding support.  
   
-*** Terms and conditions apply.***
+****Terms and conditions apply.***
 
-[](https://www.ssi.sg/Training-(1)/Training-Grants/VWOs-Charities-Capability-Fund-(VCF))
+|[VWOs-Charities Capability Fund (VCF)](https://www.ssi.sg/Training-(1)/Training-Grants/VWOs-Charities-Capability-Fund-(VCF))||
+|:-:|:-:|
+|||
 
-VWOs-Charities Capability Fund (VCF)
+
+
+
 
 ![Item Image](https://www.ssi.sg/SSI/media/SSI-Media-Library/Training%20Grants/VCF-funding.jpg?ext=.jpg)
 
