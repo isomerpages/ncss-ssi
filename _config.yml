@@ -28,9 +28,10 @@ collections:
     output: true
   resources:
     output: true
-  # Unused currently
-  #faq:
-  #  output: true
+  about-us:
+    output: true
+  faq:
+    output: true
 
 resources_name: "resource-room"
 
