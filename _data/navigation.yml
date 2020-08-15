@@ -21,7 +21,7 @@ links:
  # - title: Resources & Links
  #   collection: resources-and-links
  # - title: Faq
- #   collection: faq
- # - title: Contact Us
+    collection: faq
+   - title: Contact Us
  #   url: /contact-us/    
    
