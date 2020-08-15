@@ -9,7 +9,6 @@ logo: /images/SSILogoFullColour_large_fullwidth.png
 links:
   - title: About Us
     collection: about-us
-    # collection: discover-ssi
   - title: Initiatives
     collection: initiatives
   - title: Training
@@ -21,6 +20,7 @@ links:
   - title: Faq
     collection: faq
  # Not in use currently
+ # collection: discover-ssi
  # - title: Resources & Links
  #   collection: resources-and-links
  # - title: Faq
