@@ -38,7 +38,7 @@ sections:
         image: /images/homepage/whatsnew-stories-size.png
         alt: whatsnew-stories
         
-     - infobar:
+    - infobar:
         title: Join Us!
         subtitle: Careers
         description: Join NCSS and make a difference today.
