@@ -1,6 +1,7 @@
+---
 title: Management and Organisation Development
-permalink: /training/Management-and-Organisation-Development
-
+permalink: /training/management-and-Organisation-Development
+---
 (insert image)
 
 ## Management and Organisation Development
