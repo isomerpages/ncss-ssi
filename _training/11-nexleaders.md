@@ -32,7 +32,7 @@ The courses are customised for three tiers in an organisation.
 For a start, learners must complete five core modules within the first two months (before 15 Dec 2020) before they can access the remaining 36 courses. The five core modules for each tier are as listed below.
 
 #### Supervisors and First Line Managers
-[[NEXLeaders](/images/training/engaging-the-disengaged_1.png)](https://nexleaders.com/engaging-the-disengaged/){:target="_blank"}
+![[NEXLeaders](/images/training/engaging-the-disengaged_1.png)](https://nexleaders.com/engaging-the-disengaged/){:target="_blank"}
 
 #### Middle Management
 ( insert 5 images)   
