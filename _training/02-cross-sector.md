@@ -2,7 +2,7 @@
 title: Cross Sector
 permalink: /training/cross-sector
 ---
-
+(insert image)
 ## Cross Sector
 These courses provide a deeper understanding about each sub-sector, their unique social needs and helps learners to critically discern and analyse their own assumptions.
 
@@ -12,7 +12,7 @@ Some of the featured courses under this category are:
 
 ### Short Courses:
 - Boleh Saya Anda? May I Help You? - Conversational Malay for Social Service Practitioners
-- Befriending Skills and Practice (For Volunteers)
+- [Befriending Skills and Practice (For Volunteers)](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Befriending%20Skills%20and%20Practice%20%28For%20Volunteers%29&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}
 - Case Management in Practice: Introduction
 - Cognitive Behaviour Therapy: Introduction
 - Counselling Skills and Practice: Introduction
