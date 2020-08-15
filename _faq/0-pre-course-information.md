@@ -6,7 +6,7 @@ permalink: /faq/pre-course-information/
 ### Pre-Course Information
 
 
-<u>**What is a competency-based programme?**</u> 
+**<u>What is a competency-based programme?</u>** 
 
 These are courses designed to address different levels of competency in your area of specialisation e.g. social work, therapy, counselling, psychology, research and evaluation, operations, human resource, fundraising, etc. That way, you can select the level of programmes that is most suited to your needs and create your own learning plan to enhance your knowledge and skills.
 
