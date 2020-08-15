@@ -18,9 +18,9 @@ The training programmes offered by SSI can be segregated into ten course categor
 <tbody>
 <tr>
 <td style="border: 0px currentColor; height: 50px; text-align: center; background-color: #cd1041;">tesdt&nbsp;</td>
-<td syle="width:5px"></td>
+<td  style="width: 5px"></td>
 <td style="border: 0px currentColor; height: 50px; text-align: center; background-color: #cd1041;">tesdt&nbsp;</td>
-<td syle="width:10px"></td>
+<td syle="width: 10px"></td>
 <td style="border: 0px currentColor; height: 50px; text-align: center; background-color: #cd1041;">ttt&nbsp;</td>
 <td style="border: 0px currentColor; height: 50px; text-align: center; background-color: #cd1041;">trtettete&nbsp;</td>
 </tr>
