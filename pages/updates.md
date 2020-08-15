@@ -1,7 +1,7 @@
 ---
 title: Updates
 permalink: /updates/
---
+---
 ## Updates on SSI's Training Programmes
 
 In line with heightened safe-distancing measures announced by the government, the SSI office will be temporarily closed from **2 Jun 2020**  for the safety of our learners.  
