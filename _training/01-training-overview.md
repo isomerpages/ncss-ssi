@@ -26,7 +26,7 @@ The training programmes offered by SSI can be segregated into ten course categor
 <td style="border: 1px currentColor; height: 50px; text-align: center; background-color: #cd1041;">trtettete&nbsp;</td>
 </tr>
 <tr>
-<td><a href="https://e-services.ncss.gov.sg/Training/course/templatesearch?Filter.CourseSubCategory.Id=faf837bd-290c-e611-810d-000c29e3b091" target="_blank"><img src="/images/training/mainpage/cross-sector.png" width="75" height="50" /></a></td>
+<td><a href="https://e-services.ncss.gov.sg/Training/course/templatesearch?Filter.CourseSubCategory.Id=faf837bd-290c-e611-810d-000c29e3b091" target="_blank"><img src="/images/training/mainpage/cross-sector.png" width="50" height="40" /></a></td>
 <td syle="width: 1px"></td>
 <td>&nbsp;</td>
 <td syle="width: 1px"></td>
@@ -57,8 +57,10 @@ The training programmes offered by SSI can be segregated into ten course categor
 
 
 
-
-
+| test | test |  |  |
+|--|--|--|--|
+| bodyyyy | image........ |  |  |
+|--|--|--|--|
 _____________
 |  |  |  |  |
 |--|--|--|--|
