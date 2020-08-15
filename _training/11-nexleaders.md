@@ -2,7 +2,8 @@
 title: NEXLeaders Programme
 permalink: /training/nexleaders
 ---
-(insert image)
+![Nexleaders_header](/images/training/nexleaders_Ssi_header.png)
+
 ## NEXLeaders Programme   
 
 ### Overview   
