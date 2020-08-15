@@ -14,11 +14,13 @@ As part of this initiative, SSI is transforming learning in the social service a
 ### Training Programmes
 The training programmes offered by SSI can be segregated into ten course categories as shown below. Although each course category is segregated into specific sub-sectors or fields within the social service sector, learners should adopt a horizontal learning approach and undertake relevant courses across different course categories to have a well balanced set of skills for their job role. 
 
-<table cellspacing="5" cellpadding="5">
+<table cellspacing="5px" cellpadding="5px">
 <tbody>
 <tr>
 <td style="border: 0px currentColor; height: 50px; text-align: center; background-color: #cd1041;">tesdt&nbsp;</td>
+<td syle="width:5px"></td>
 <td style="border: 0px currentColor; height: 50px; text-align: center; background-color: #cd1041;">tesdt&nbsp;</td>
+<td syle="width:10px"></td>
 <td style="border: 0px currentColor; height: 50px; text-align: center; background-color: #cd1041;">ttt&nbsp;</td>
 <td style="border: 0px currentColor; height: 50px; text-align: center; background-color: #cd1041;">trtettete&nbsp;</td>
 </tr>
