@@ -43,7 +43,7 @@ sections:
         subtitle: Careers
         description: Join NCSS and make a difference today.
         button: Join Us
-        url: https://www.ncss.gov.sg/About-Us/Career@NCSS
+        url: https://www.ncss.gov.sg/About-Us/Career@NCSS/
         
     - resources:
         title: What's New in SSI
