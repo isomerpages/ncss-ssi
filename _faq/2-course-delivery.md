@@ -5,7 +5,7 @@ permalink: /faq/course-delivery/
 
 ## Course Delivery
 
-**How are the courses conducted?**  
+**<u>How are the courses conducted?</u>**  
   
 Most of our courses are held at the Social Service Institute. As part of the curriculum design, there will also be an assessment component, which may be conducted through methods such as written assessments, presentations or oral interviews etc.  
   
@@ -21,7 +21,7 @@ You are also advised to bring along an electronic device (such as a laptop or ta
 _Important: You are not allowed to replicate and circulate course materials without permission from SSI._  
   
   
-**Do you offer group bookings for organisations?**  
+**<u>Do you offer group bookings for organisations?</u>**  
   
 We offer customised training courses for group bookings with a minimum of 15 learners. For more information, please click  [here](https://www.ssi.sg/Training/Group-Booking){:target="_blank"}  for more details.  
   
