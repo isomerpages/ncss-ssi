@@ -16,7 +16,7 @@ WSQ Support Seniors to Meet their Physical, Emotional, Psychological, Cognitive 
 For the full list of Eldercare courses offered by SSI, follow this link.
 
 ### Featured Adult Educators
-**Ms Lim Hwee Er**
+**Ms Lim Hwee Er**  
 Hwee Er holds a Master of Health Service Management from the University of Sydney (USYD) and a Bachelor of Health Sciences (Hons) (OT) from the University of Teesside. As an occupational therapist, she has 14 years of clinical experience working with seniors of various geriatric/psychogeriatric conditions across a variety of settings. Her experience also includes being a consultant for the planning and implementation of specialised services and programmes such as early dementia programmes and social service based hostels.
 
 As a WSQ Advanced Certificate in Training and Assessment (ACTA) certified trainer, Hwee Er is also involved in the development and implementation of WSQ certified and regular training programmes and workshops for professionals, family caregivers and the public. This is done in collaboration with various organisations such as the Tsao Foundation, Health Promotion Board (HPB), SSI and the Civil Service College (CSC) and covers a variety of issues related to eldercare and Well Elderly Programmes. Hwee Er is currently employed with Goshen Rehabilitation & Consultancy Services.
