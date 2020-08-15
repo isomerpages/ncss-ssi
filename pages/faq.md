@@ -1,6 +1,6 @@
 ---
-title: FAQ_Old
-permalink: /faq_old/
+title: FAQ
+permalink: /faq/
 ---
 
 ### **Pre-Course Information**
