@@ -19,10 +19,6 @@ sections:
             - title: Latest courses
               description: Find out about the latest courses here
               url: /training/overview/
-            - resources:
-              title: What's New in SSI
-              subtitle: Learn more
-              button: View More
               
            
     - infopic:
@@ -41,4 +37,9 @@ sections:
         url: /stories/
         image: /images/homepage/whatsnew-stories-size.png
         alt: whatsnew-stories
+        
+    - resources:
+        title: What's New in SSI
+        subtitle: Learn more
+        button: View More
 ---
