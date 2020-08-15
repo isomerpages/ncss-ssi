@@ -24,8 +24,8 @@ colors:
 collections:
   discover-ssi:
     output: true
-  initiatives:
-    output: true
+  # initiatives:
+  #  output: true
   training:
     output: true
   resources:
