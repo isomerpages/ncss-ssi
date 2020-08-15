@@ -17,7 +17,7 @@ The training programmes offered by SSI can be segregated into ten course categor
 <table cellspacing="5px" cellpadding="5px">
 <tbody>
 <tr>
-<td style="border: 0px currentColor; height: 50px; text-align: center; background-color: #cd1041;"><p><a href="https://e-services.ncss.gov.sg/Training/course/templatesearch?Filter.CourseSubCategory.Id=faf837bd-290c-e611-810d-000c29e3b091" target="_blank"><strong>Cross Sector</strong></a></p>&nbsp;</td>
+<td style="border: 0px currentColor; height: 50px; text-align: center; background-color: #cd1041;"><a href="https://e-services.ncss.gov.sg/Training/course/templatesearch?Filter.CourseSubCategory.Id=faf837bd-290c-e611-810d-000c29e3b091" target="_blank"><strong>Cross Sector</strong></a></td>
 <td  style="width: 1px"></td>
 <td style="border: 0px currentColor; height: 50px; text-align: center; background-color: #cd1041;">tesdt&nbsp;</td>
 <td syle="width: 1px"></td>
