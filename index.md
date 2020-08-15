@@ -25,7 +25,6 @@ sections:
     - infopic:
         title: Start planning for your training needs today!
         subtitle: Training directory now available
-        description: cross sector - children, youth and family - disability - mental health - eldercare - board development - management and organisational development - volunteer development and management - caregiving
         button: Download the training directory here
         image: /images/homepage/Training_Direc_Banner.jpg
         alt: Training Directory        
