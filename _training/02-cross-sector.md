@@ -60,6 +60,6 @@ Terence is the divisional director of AMKFSC Community Services Ltd. (AMKFSC) an
 healthcare and social service setting. He obtained his master’s and doctorate in Social Work from NUS and has also completed an advanced training in Family Therapy at the University of Calgary (UCalgary) in Canada. Terence has been lecturing in the Social Work undergraduate and post-graduate programmes at NUS and SUSS since 2008. He is an approved clinical supervisor with the University of Michigan, NUS, SUSS, Curtin and Swinburne University. His work had been published in professional journals and academic textbooks and he has presented in several local and international conferences.
 
 ### News and Articles
-Continue receiving Cross Sector news and articles through GatherHere. Subscribe to GatherHere by writing to: <techservices1@gatherhere.sg>.
-Subscribe to SSI’s Cross Sector Mailing List
+Continue receiving Cross Sector news and articles through GatherHere. Subscribe to GatherHere by writing to: <techservices1@gatherhere.sg>.   
+Subscribe to SSI’s Cross Sector Mailing List   
 Subscribe to SSI’s Cross Sector Mailing List through this [link](https://form.gov.sg/5d89dab70c67f000120d00bb){:target="_blank"}  .
