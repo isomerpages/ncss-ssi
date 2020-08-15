@@ -9,13 +9,14 @@ logo: /images/SSILogoFullColour_large_fullwidth.png
 links:
   - title: About Us
     collection: about-us
-
   - title: Training
     collection: training
   - title: Resources
     collection: resources
   - title: Media Centre
     resource_room: true
+  - title: Course Search
+    url: https://e-services.ncss.gov.sg/Training/Course/TemplateSearch
  # Not in use currently
  # collection: discover-ssi
  # - title: Resources & Links
