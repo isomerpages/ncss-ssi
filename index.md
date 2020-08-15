@@ -7,8 +7,8 @@ permalink: /
 notification: Temporary Closure of SSI Office from 2 June 2020. [Click here for more details](/updates/).
 sections:
     - hero:
-        title: Social Service Institute
-        subtitle: Nurturing Careers, Inspiring Lives
+        title:
+        subtitle:
         background: /images/homepage/SSI_Website_Banner_20Jul.jpg
         button: Contact Us
         url: /contact-us/
