@@ -17,11 +17,13 @@ links:
     collection: resources
   - title: Media Centre
     resource_room: true
+  - title: FAQ
+    collection: faq
  # Not in use currently
  # - title: Resources & Links
  #   collection: resources-and-links
  # - title: Faq
-    collection: faq
-   - title: Contact Us
+  #  collection: faq
+  # - title: Contact Us
  #   url: /contact-us/    
    
