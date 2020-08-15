@@ -9,8 +9,7 @@ logo: /images/SSILogoFullColour_large_fullwidth.png
 links:
   - title: About Us
     collection: about-us
-  - title: Initiatives
-    collection: initiatives
+
   - title: Training
     collection: training
   - title: Resources
@@ -24,5 +23,7 @@ links:
  # - title: Faq
  #  collection: faq
  # - title: Contact Us
- #   url: /contact-us/    
+ #   url: /contact-us/
+ #  - title: Initiatives
+  #  collection: initiatives
    
