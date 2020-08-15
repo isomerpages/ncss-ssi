@@ -26,10 +26,10 @@ Some of the featured courses under this category are:
 ### Certificate/ Diploma/ Degree Programmes:
 - Bridging Certificate in Social Service (BCSS) - Coming Soon!
 - Certificate in Social Service (Care and Programme) (CSS) - Coming Soon!
-- Certificate in Para-Counselling
+- [Certificate in Para-Counselling](https://www.ssi.sg/Training-(1)/Cross-Sector/Certificate-in-Para-Counselling){:target="_blank"}  
 - Higher Diploma in Social Service (HDSS) - Coming Soon!
-- Professional Certificate in Casework (NSWCF Foundational)
-- Professional Certificate in Group Work
+- [Professional Certificate in Casework (NSWCF Foundational)](https://www.ssi.sg/Training-(1)/Cross-Sector/Professional-Certificate-in-Casework){:target="_blank"}  
+- [Professional Certificate in Group Work](https://www.ssi.sg/Training-(1)/Cross-Sector/Professional-Certificate-in-Group-Work){:target="_blank"}  
 
 The course, Understanding the Social Service Sector, provides an appreciation and understanding of Singapore's social needs, key stakeholders in the sector and social service initiatives and schemes. Singapore’s Social Compact, is an e-Learning course that provides an overview of the development of Singapore’s social services over the years and introduces the principles behind its provision. It covers six areas of social service provision which include trends and challenges in the future.
 
