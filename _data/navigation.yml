@@ -8,7 +8,8 @@ logo: /images/SSILogoFullColour_large_fullwidth.png
 
 links:
   - title: About Us
-    collection: discover-ssi
+    collection: about-us
+    # collection: discover-ssi
   - title: Initiatives
     collection: initiatives
   - title: Training
