@@ -2,6 +2,8 @@
 title: Disability
 permalink: /training/disability
 ---
+(insert image)
+
 ## Disability
 The featured courses are:   
 ### Short Courses
@@ -17,13 +19,13 @@ The featured courses are:
 - [Understanding Children with Special Needs](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Understanding+children+with+special+needs){:target="_blank"}   
 
 ### Certificate/ Diploma/ Degree Programmes:
-- [Advanced Certificate in Supported Employment (ACSE)](https://www.ssi.sg/Training-(1)/Disability/1-Advanced-Certificate-in-Supported-Employment-(A))
-- [Bachelor of Education (Special Education)](https://www.ssi.sg/Training-(1)/Disability/Bachelor-of-Education-(Special-Education))
-- [Diploma of Community Services](https://www.ssi.sg/Training-(1)/Disability/Diploma-of-Community-Services)
+- [Advanced Certificate in Supported Employment (ACSE)](https://www.ssi.sg/Training-(1)/Disability/1-Advanced-Certificate-in-Supported-Employment-(A)){:target="_blank"}   
+- [Bachelor of Education (Special Education)](https://www.ssi.sg/Training-(1)/Disability/Bachelor-of-Education-(Special-Education)){:target="_blank"}   
+- [Diploma of Community Services](https://www.ssi.sg/Training-(1)/Disability/Diploma-of-Community-Services){:target="_blank"}   
 
 ### Featured Adult Educators
 
-Ms. June Tham-Toh Syn Yuen
+**Ms. June Tham-Toh Syn Yuen**   
 June was the Executive Director of Rainbow Centre before she retired in 2014. She holds a Master of Education, Diploma in Management Studies, Certification of Achievement in Outcome Management: Train-The-Trainer, Early Childhood Intervention, Treatment and Education of Autistic and Related Communication Handicapped Children (TEACCH) and Advanced Certification in Training and Assessment (ACTA). She was one of the two pioneer scholars from Singapore to have successfully completed the “Strategic Perspectives in Non-Profit Management” Programme in July 2008 at the Harvard Business School (HBS).
 
 **Ms. Linda Prebhash**   
@@ -31,3 +33,9 @@ Linda is a Principal Trainer & Consultant with Rainbow Centre Training and Consu
 
 **Prof. Emeritus Trevor R. Parmenter**   
 Trevor is the former Director of the Centre for Disability Studies (CDS). He held the position of Foundation Chair of Developmental Disabilities within the Faculty of Medicine and is an Honorary Professor in Education with the Faculty of Education and Social Work as well as an Honorary Professor in the Faculty of Health Science at the University of Sydney (UniSyd). He is an Adjunct Professor in the School of Rural Medicine at the University of New England (UNE). His international academic standing in the field of developmental disability is marked by his former appointment as President of the International Association for the Scientific Study of Intellectual and Developmental Disabilities (IASSIDD) as well as his role as a Board Member of the American Association on Intellectual and Developmental Disability (AAIDD).
+
+### News and Articles
+Continue receiving news and articles about developments in the Disability sub-sector through GatherHere. Subscribe to GatherHere by writing to: <techservices1@gatherhere.sg>.
+### Subscribe to SSI’s Disability Mailing List
+Subscribe to SSI’s Disability Courses Mailing List through this [link](https://form.gov.sg/5d89ec910c67f000120d05a5){:target="_blank"}   .
+
