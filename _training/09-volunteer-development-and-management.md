@@ -2,6 +2,7 @@
 title: Volunteer Development and Management
 permalink: /training/Volunteer-Development-and-Management
 ---
+![volunteer development and management](/images/training/Volunteer_SSI_header-banner-757-x-239px8.jpg)
 
 The featured courses are:   
 -   [Ageing Process](https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=900993&catalogId=1700&templateId=-1){:target="_blank"}   
