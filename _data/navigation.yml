@@ -17,8 +17,6 @@ links:
     collection: resources
   - title: Media Centre
     resource_room: true
-  - title: Faq
-    collection: faq
  # Not in use currently
  # collection: discover-ssi
  # - title: Resources & Links
