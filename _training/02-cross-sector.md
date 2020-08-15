@@ -13,15 +13,15 @@ Some of the featured courses under this category are:
 ### Short Courses:
 - [Befriending Skills and Practice (For Volunteers)](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Befriending%20Skills%20and%20Practice%20%28For%20Volunteers%29&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
 - [Boleh Saya Anda? May I Help You? - Conversational Malay for Social Service Practitioners](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Conversational%20malay&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
-- [Case Management in Practice: Introduction](%5B-%20%20%20Boleh%20Saya%20Anda?%20May%20I%20Help%20You?%20-%20Conversational%20Malay%20for%20Social%20Service%20Practitioners%5D%28http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Conversational%20malay&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=%29%7B:target=%22_blank%22%7D){:target="_blank"}  
-- [Cognitive Behaviour Therapy: Introduction](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Cognitive%20Behaviour%20Therapy:%20Introduction){:target="_blank"}  
-- Counselling Skills and Practice: Introduction
-- Fundamentals in Developing Community Work Programme (NSFWCF Foundational)
-- Motivational Interviewing: An Introduction for Social Service Practitioners
-- Overcoming Compassion Fatigue and Burnout
-- Singapore's Social Compact (e-Learning)
-- Solution Focused Brief Therapy: Introduction
-- Understanding the Social Service Sector
+- [Case Management in Practice: Introduction](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Case+Management+in+Practice%3A+Introduction&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
+- [Cognitive Behaviour Therapy: Introduction](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Cognitive+Behaviour+Therapy%3A+Introduction){:target="_blank"}  
+- [Counselling Skills and Practice: Introduction](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Counselling+Skills+and+Practice%3A+Introduction+){:target="_blank"}  
+- [Fundamentals in Developing Community Work Programme (NSFWCF Foundational](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Fundamentals+in+Developing+Community+Work+Programme){:target="_blank"}  
+- [Motivational Interviewing: An Introduction for Social Service Practitioners](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Motivational+Interviewing%3A+An+Introduction+for+Social+Service+Practitioners){:target="_blank"}  
+- [Overcoming Compassion Fatigue and Burnout](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Overcoming+Compassion+Fatigue+and+Burnout&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=14a99fd7-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Mental+Health&Filter.CourseSubCategory.ToRemove=False){:target="_blank"}  
+- [Singapore's Social Compact (e-Learning](https://learningcloud.sg/pages/coursedescription.jsf?courseId=956318&catalogId=1700){:target="_blank"}  
+- [Solution Focused Brief Therapy: Introduction](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=solution+Focused+brief+therapy%3A+introduction&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
+- [Understanding the Social Service Sector](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Understanding+the+Social+Service+Sector&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
 
 ### Certificate/ Diploma/ Degree Programmes:
 - Bridging Certificate in Social Service (BCSS) - Coming Soon!
