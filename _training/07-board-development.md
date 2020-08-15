@@ -15,11 +15,11 @@ The programme includes eight modules which are as shown below:
 7. Fundraising, Outreach and Advocacy.
 8. Social Trends.
 
-For more information on the modules, click [here](https://www.sid.org.sg/Web/Professional_Development/Web/Professional_Development/PD_Map.aspx?hkey=abe367a0-0ee8-4dcf-8ef9-1faba7dc5ecd){:target="_blank"}. Although there are no upcoming runs of S-GOOD as of now, SSI is currently working with SID to determine the development of the next run of S-GOOD and we will keep our learners updated on this.
+For more information on the modules, [click here](https://www.sid.org.sg/Web/Professional_Development/Web/Professional_Development/PD_Map.aspx?hkey=abe367a0-0ee8-4dcf-8ef9-1faba7dc5ecd){:target="_blank"}   . Although there are no upcoming runs of S-GOOD as of now, SSI is currently working with SID to determine the development of the next run of S-GOOD and we will keep our learners updated on this.
 
-In addition, to the S-GOOD programme, SSI also offers courses that tackles issues and challenges faced by Non-Profit Organisations serving Children, Youth & Families, Persons with Disabilities, Persons with Mental Health Conditions and seniors.
+In addition, to the S-GOOD programme, SSI also offers courses that tackles issues and challenges faced by Non-Profit Organisations serving [Children, Youth & Families](https://www.ssi.sg/Training-(1)/Children,-Youth-and-Family){:target="_blank"}   , [Persons with Disabilities](https://www.ssi.sg/Training-(1)/Disability){:target="_blank"}   , [Persons with Mental Health Conditions](https://www.ssi.sg/Training-(1)/Mental-Health){:target="_blank"}    and [seniors](https://www.ssi.sg/Training-(1)/Eldercare){:target="_blank"}   .
 
-Otherwise, for Management and Organisational Development courses, you may refer to our Management and Organisation Development course page.
+Otherwise, for Management and Organisational Development courses, you may refer to our [Management and Organisation Development](https://www.ssi.sg/default.aspx) course page.
 
 ### News and Articles on Board Development
 Continue receiving news and articles about developments in Non-Profit Board Development through GatherHere. Subscribe to GatherHere by writing to: <techservices1@gatherhere.sg>.
