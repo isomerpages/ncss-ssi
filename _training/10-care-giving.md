@@ -2,7 +2,7 @@
 title: Caregiving
 permalink: /training/Caregiving
 ---
-[![enter image description here](/images/training/caregiving_SSI_header-banner-757-x-239px9.jpg)]
+![enter image description here](/images/training/caregiving_SSI_header-banner-757-x-239px9.jpg)
 
 
 ## Caregiving   
