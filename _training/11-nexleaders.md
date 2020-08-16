@@ -38,7 +38,7 @@ For a start, learners must complete five core modules within the first two month
 
 #### Middle Management
 
-| [![Pic1](/images/training/leading-change-in-an-uncertain-world_2.jpg)](http://nexleaders.com/leading-change-in-an-uncertain-world/){:target="_blank"}  <br> [![pic4](/images/training/top-5-reasons-why-leaders-fail_1.jpg)](http://nexleaders.com/top-5-reasons-why-leaders-fail/){:target="_blank"} | [![pic2](/images/training/5-great-insights-in-conflict-management_.jpg))](https://nexleaders.com/5-great-insights-in-conflict-management/){:target="_blank"}  <br> [![pic5](/images/training/developing-resilience-for-life_2.jpg)](http://nexleaders.com/developing-resilience-for-life-sumo/){:target="_blank"} |[![pic3](/images/training/coaching-for-peak-performance_2.jpg)](http://nexleaders.com/coaching-for-peak-performance/){:target="_blank"}  |
+| [![Pic1](/images/training/leading-change-in-an-uncertain-world_2.jpg)](http://nexleaders.com/leading-change-in-an-uncertain-world/){:target="_blank"}  <br> [![pic4](/images/training/top-5-reasons-why-leaders-fail_1.jpg)](http://nexleaders.com/top-5-reasons-why-leaders-fail/){:target="_blank"} | [![pic2](/images/training/5-great-insights-in-conflict-management_.jpg)](https://nexleaders.com/5-great-insights-in-conflict-management/){:target="_blank"}  <br> [![pic5](/images/training/developing-resilience-for-life_2.jpg)](http://nexleaders.com/developing-resilience-for-life-sumo/){:target="_blank"} |[![pic3](/images/training/coaching-for-peak-performance_2.jpg)](http://nexleaders.com/coaching-for-peak-performance/){:target="_blank"}  |
   
 
 #### Senior Management and Directors
