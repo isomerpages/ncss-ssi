@@ -53,6 +53,7 @@ Applicants will be required to submit their application online via SkillsFuture 
   
 The application period is open every quarter. Please refer to the table provided below to details on the application period, processing period and disbursement period.  
   
+  
 | **Application period** | **Processing Period** | **Disbursement period** |	
 |--|--|--|
 | Apr 2020 - Jun 2020 | Jul 2020 - Aug 2020 | Aug 2019 - Sep 2020|
