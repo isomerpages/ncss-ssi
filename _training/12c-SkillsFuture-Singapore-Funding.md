@@ -23,6 +23,7 @@ If you’re a volunteer, you can qualify for SSG course fee funding as long as y
   
 **Volunteers and Organisations must fulfil all criteria**  below to be eligible for funding.  
   
+  
 |Party| Eligibity Criteria |
 |--|--|
 | Volunteers | Volunteers must: <br>1.  Be Singapore Citizens/OR <br> 2.  Satisfy the minimum legal age for working in Singapore governed by the Employment Act and the Employment Regulations enforced by MOM; <br> 3.  Be nominated by the Community and Social Services (CSS) Organisation he/she volunteers at <br> 4.  Have been volunteering with an eligible CSS organisation for  **at least 3 months on a regular***  basis or <br> 5.  Have been accepted as a board member of a CSS organisation with commitment to serve at least one full term.|
@@ -35,7 +36,6 @@ If you’re a volunteer, you can qualify for SSG course fee funding as long as y
 Employers sponsoring employees who are Singapore Citizens or Permanent Residents can apply for Absentee Payroll Funding.  
   
 For more information on Absentee Payroll, please click [here](https://www.skillsconnect.gov.sg/sop/portal/e-Services/For%20Employers/AbsenteePayroll.jsp){:target="_blank"}   .
-
 
 
 ### Workfare Training Support (WTS)
