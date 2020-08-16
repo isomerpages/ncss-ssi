@@ -14,7 +14,7 @@ SSI, SSG or its appointed agents will be obtaining feedback from you and your su
   
 SSI will be awarding a Certificate of Achievement or Certificate of Attendance in electronic form (e-Certs) to learners who have met the attendance and assessment requirements (if applicable) for the courses undertaken by them. The e-Certs will be available for download in your NCSS e-Services account (login via SingPass) and this will allow you to retrieve your e-Certs at your convenience. You will therefore o no longer need to be concerned about the safekeeping of the hardcopy certificates from SSI. You will receive an email notification once the e-cert is ready for download.  
   
-Click  [here](https://www.ssi.sg/SSI/media/SSI-Media-Library/Documents/Download-eCertificate-V2-Guide.pdf){:target="_blank"}     to find out steps to retrieve your e-Cert.  
+Click  [here](/images/faq/Download-eCertificate-V2-Guide.pdf){:target="_blank"}     to find out steps to retrieve your e-Cert.  
   
 If you would like to have a printed copy of your e-Cert, please contact SSI at  [socialserviceinstitute@ncss.gov.sg](mailto:socialserviceinstitute@ncss.gov.sg){:target="_blank"}     within six (6) months from the date of email notification sent on the download of e-certs. The first print will be provided free of charge. Any request received after six (6) months or subsequent requests for reprints of your e-Cert will be charged at prevailing rates by SSI.  
   
