@@ -19,7 +19,7 @@ As a social service professional, you must be able to:
 With the SkillsFuture Study Award, we empower you to do just that.  
   
   
-**Eligibility criteria**  
+### Eligibility criteria  
   
 To be eligible for the SkillsFuture Study Award, you must:
 
@@ -38,7 +38,7 @@ To be eligible for the SkillsFuture Study Award, you must:
 Alternatively, applicants who meet the above mentioned criteria can also be nominated for the award by their employers.  
   
   
-**Courses eligible under the SkillsFuture Study Award**  
+### Courses eligible under the SkillsFuture Study Award  
   
 SkillsFuture Study Award only supports courses or academic programmes that have a course fee of $2,500 and above and falls under one or more of the following categories:
 
@@ -47,12 +47,12 @@ SkillsFuture Study Award only supports courses or academic programmes that have 
 -   identified by the Social Service Agency (applicable to candidates who are nominated by their employers)
 -   leads to a recognised social service qualification (i.e. WSQ Diploma in Social Service, Bachelor of Social Work, Graduate Diploma in Social Work etc.)
 
-**How to apply**
+### How to apply
 
 Applicants will be required to submit their application online via SkillsFuture Singapore’s Application Management system (AMS).  
   
-The application period is open every quarter. Please refer to the table provided below to details on the application period, processing period and disbursement period.
-
+The application period is open every quarter. Please refer to the table provided below to details on the application period, processing period and disbursement period.  
+  
 | **Application period** | **Processing Period** | **Disbursement period** |	
 |--|--|--|
 | Apr 2020 - Jun 2020 | Jul 2020 - Aug 2020 | Aug 2019 - Sep 2020|
@@ -60,15 +60,15 @@ The application period is open every quarter. Please refer to the table provided
 |18 Jul 2020 - Sep 2020|Oct 2020 - Nov 2020|Nov 2019 - Dec 2020|
 |--|--|--|
 |Oct 2020 - Dec 2020|Jan 2021 - Feb 2021|Feb 2021 - Mar 2021 |
+  
 
-
-Evaluation & Outcome:
+### Evaluation & Outcome:
 
 Your application will be processed and evaluated after the application period for the quarter has ended. You will be informed about the application outcome approximately 4 to 6 weeks from the application closing date.
 
 Incomplete applications or applications without supporting documents will not be processed. Shortlisted applicants will be notified via email.
 
-**Contact us**  
+### Contact us  
   
 To find out more about the SkillsFuture Study Award, please visit the  [SkillsFuture website](https://programmes.myskillsfuture.sg/Portal/ProgramListing.aspx?Source=SFSA){:target="_blank"}   .  
   
