@@ -45,13 +45,11 @@ For more information on Workfare Training Support (WTS) for  **Individuals**, pl
   
 For more information on Workfare Training Support (WTS) for  **Employer-sponsored trainees**, please click  [here.](http://www.wsg.gov.sg/programmes-and-initiatives/workfare-training-support-employers.html?_ga=2.80360663.1377189313.1515744751-1016142310.1503562690){:target="_blank"}   
 
-###   
-Enhanced Training Support for SMEs (ETS)
+###   Enhanced Training Support for SMEs (ETS)
 
 For more information on Enhanced Training Support for SMEs (ETS), please click  [here.](http://www.ssg.gov.sg/programmes-and-initiatives/funding/enhanced-training-support-for-smes1.html){:target="_blank"}   
 
-###   
-SkillsFuture Mid-career Enhanced Subsidy
+###   SkillsFuture Mid-career Enhanced Subsidy
 
 For more information on SkillsFuture Mid-career Enhanced Subsidy, please click  [here.](http://www.skillsfuture.sg/enhancedsubsidy){:target="_blank"}   
 
