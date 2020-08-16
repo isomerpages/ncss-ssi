@@ -23,4 +23,4 @@ In the event that you fail to meet the attendance/assessment requirements and te
 
 ![Funding_example](/images/training/grants/Funding_example.jpg)   
 
-For more information on the VWOs-Charities Capability Fund (VCF) Training Grant, please  **[click here.](https://www.ncss.gov.sg/Grants-Search/VCF-Professional-Capability-Grant-Local-Training){:target="_blank"}   **   
+For more information on the VWOs-Charities Capability Fund (VCF) Training Grant, please  [click here.](https://www.ncss.gov.sg/Grants-Search/VCF-Professional-Capability-Grant-Local-Training){:target="_blank"}      
