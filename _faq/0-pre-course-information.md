@@ -13,12 +13,12 @@ These are courses designed to address different levels of competency in your are
 
 **<u>How do I register for courses offered by the Social Service Institute?</u>**   
 
-Registration for our courses must be made online at [SSI e-services](https://www.ssi.sg/e-Services){:target="_blank"}   . You can access the simplified userguides for [Individual Course Application](http://www.ssi.sg/SSI/media/SSI-Media-Library/eServices/TraineeLoginSimplified.pdf){:target="_blank"}    (using SingPass) and [Organisation Course Application](http://www.ssi.sg/SSI/media/SSI-Media-Library/eServices/VWORegistrationSimplified.pdf){:target="_blank"}    (using CorpPass) to guide you in the course registration.  
+Registration for our courses must be made online at [SSI e-services](https://www.ssi.sg/e-Services){:target="_blank"}   . You can access the simplified userguides for [Individual Course Application](/images/faq/Individual%20Course%20Application.pdf){:target="_blank"}    (using SingPass) and [Organisation Course Application](/images/faq/Individual%20Course%20Application.pdf){:target="_blank"}    (using CorpPass) to guide you in the course registration.  
   
 If you are an Organisation Course Application, you can now use CorpPass to log in to selected NCSS and SSI e-Services. Please register for your CorpPass by Quarter 3 2018 as it will eventually replace V-Login for organisations.
 
 
-For more information refer to the [Frequently Asked Questions on CorpPass](https://www.ssi.sg/SSI/media/SSI-Media-Library/learning-n-development/CorpPassFAQ.pdf){:target="_blank"}   .
+For more information refer to the [Frequently Asked Questions on CorpPass](/images/faq/Frequently%20Asked%20Questions%20on%20CorpPass.pdf){:target="_blank"}   .
 
 Quick Introduction to CorpPass
 
