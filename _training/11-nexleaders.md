@@ -38,8 +38,10 @@ For a start, learners must complete five core modules within the first two month
 
 #### Middle Management
 
-**[![](/images/training/leading-change-in-an-uncertain-world_2.jpg)](http://nexleaders.com/leading-change-in-an-uncertain-world/)[![](/images/training/5-great-insights-in-conflict-management_.jpg))](https://nexleaders.com/5-great-insights-in-conflict-management/)[![](/images/training/coaching-for-peak-performance_2.jpg)](http://nexleaders.com/coaching-for-peak-performance/)  
-[![](/images/training/top-5-reasons-why-leaders-fail_1.jpg)](http://nexleaders.com/top-5-reasons-why-leaders-fail/)[![](/images/training/developing-resilience-for-life_2.jpg)](http://nexleaders.com/developing-resilience-for-life-sumo/)  
+| [![Pic1](/images/training/leading-change-in-an-uncertain-world_2.jpg)](http://nexleaders.com/leading-change-in-an-uncertain-world/) <br> [![pic4](/images/training/top-5-reasons-why-leaders-fail_1.jpg)](http://nexleaders.com/top-5-reasons-why-leaders-fail/)| [![pic2](/images/training/5-great-insights-in-conflict-management_.jpg))](https://nexleaders.com/5-great-insights-in-conflict-management/) <br> [![pic5](/images/training/developing-resilience-for-life_2.jpg)](http://nexleaders.com/developing-resilience-for-life-sumo/)|[![pic3](/images/training/coaching-for-peak-performance_2.jpg)](http://nexleaders.com/coaching-for-peak-performance/) |
+  
+
+#### Senior Management and Directors
 
 
 | [![Pic1](/images/training/leadership-in-crisis-management(1)_1.jpg)](http://nexleaders.com/leadership-in-crisis-management/) <br> [![pic4](/images/training/am-i-a-toxic-leader_1.jpg)](http://nexleaders.com/am-i-a-toxic-leader/) | [![pic2](/images/training/how-to-lead-high-performing-teams_1.jpg)](http://nexleaders.com/how-to-lead-high-performing-teams/) <br> [![pic5](/images/training/emotion%2C-personality-self-esteem-appreciating-the-brain-in-leadership_1.jpg)](http://nexleaders.com/emotion-personality-self-esteem/) |[![pic3](/images/training/understanding-millennials(1)_1.png)](http://nexleaders.com/understanding-millennials/) <br> |   
