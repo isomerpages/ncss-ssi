@@ -4,10 +4,10 @@ favicon: /images/homepage/ssilogo.ico
 
 # Site colors
 colors:
-  primary-color: '#82112e'
+  primary-color: '#CA0538'
   # primary-color: '#4372d6'
   # primary-color: '#6031b6'
-  secondary-color: '#CA0538'
+  secondary-color: '#CA595D'
   media-colors:
     - title: media-color-one
       color: '#49759a'
