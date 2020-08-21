@@ -11,8 +11,7 @@ SSI’s rooms are offered at competitive booking rates and located at a convenie
          
 Refer to the table below to obtain the latest booking rates for SSI’s rooms.
   <br>   
-     <br>   
-   
+     
    
 <table>
 		<tr>
