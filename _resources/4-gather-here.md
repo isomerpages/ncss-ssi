@@ -25,7 +25,7 @@ Government agencies can use GatherHere to conduct research, surveys and analyse 
 ### Social Service Professionals   
 Social Service professionals can join the various community groups available in GatherHere to gain insights on the latest trends within the social service sector, join discussions on topics of interest and stay connected to other members of the Social Service Tribe, among other benefits.
 
-### Join GatherHere   
+### Join GatherHere    
 If you are interested to join GatherHere, you can drop us an email at [techservices1@gatherhere.sg](mailto:techservices1@gatherhere.sg)
 
 SSI also provides a suite of services to facilitate the onboarding process and manage your engagement digitally. The full list of services provided are as shown below.
@@ -35,6 +35,6 @@ SSI also provides a suite of services to facilitate the onboarding process and m
 - Training and Consultancy
 - Content Services
 
-### Guides for Claiming your GatherHere Account
+### Guides for Claiming your GatherHere Account   
 - [For Apple users](https://www.youtube.com/watch?v=dwTr-1N2TK4){:target="_blank"}
 - [For android users](https://www.youtube.com/watch?v=h_KfsXXsBKI){:target="_blank"}
