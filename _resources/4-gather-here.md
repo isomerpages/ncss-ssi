@@ -35,6 +35,6 @@ SSI also provides a suite of services to facilitate the onboarding process and m
 - Training and Consultancy
 - Content Services
 
-### Guides for Claiming your GatherHere Account   
+### Guides for Claiming your GatherHere Account    
 - [For Apple users](https://www.youtube.com/watch?v=dwTr-1N2TK4){:target="_blank"}
 - [For android users](https://www.youtube.com/watch?v=h_KfsXXsBKI){:target="_blank"}
