@@ -1,5 +1,5 @@
 ---
-title: Our Milestones
+title: Our Partners
 permalink: /About-Us/Who-We-Are-(2)
 ---
 
