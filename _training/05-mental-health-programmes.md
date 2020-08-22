@@ -26,6 +26,8 @@ This is the first module in the  [Peer Support Specialist Programme](https://www
 
 2. This is the second module in the  [Peer Support Specialist Programme](https://www.ssi.sg/Training-(1)/Mental-Health/Peer-Support-Specialist-Programme){:target="_blank"}   .
 
+For the full list of Mental Health courses offered by SSI, follow this  [link](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=14a99fd7-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Mental+Health&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   .
+
 ### Featured Adult Educators
 
 **Dr John K E Tan**  
