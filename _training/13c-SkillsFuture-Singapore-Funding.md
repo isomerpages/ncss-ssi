@@ -19,17 +19,13 @@ For more information on SSG Course Fee Funding, please click  [here](http://www.
   
 If you’re a volunteer, you can qualify for SSG course fee funding as long as you fulfil the eligibility criteria below. Volunteers who are not Singaporean/PR can apply directly to VCF for funding.  
   
-**SSG Funding Scheme for Training of Organisation-Sponsored Volunteers**  
-  
-**Volunteers and Organisations must fulfil all criteria**  below to be eligible for funding.  
-  
   
 |Party| Eligibity Criteria |
 |--|--|
 | Volunteers | Volunteers must: <br>1.  Be Singapore Citizens/OR <br> 2.  Satisfy the minimum legal age for working in Singapore governed by the Employment Act and the Employment Regulations enforced by MOM; <br> 3.  Be nominated by the Community and Social Services (CSS) Organisation he/she volunteers at <br> 4.  Have been volunteering with an eligible CSS organisation for  **at least 3 months on a regular***  basis or <br> 5.  Have been accepted as a board member of a CSS organisation with commitment to serve at least one full term.|
 |Community and Social Service Organisations|Organisations must: <br>1.  Be National Council of Social Service member organisations; Registered Charities or IPCs; or MSF-funded agencies providing any of the following services: <br>  -   Children, Youth and Family Services <br>  -   Rehabilitation Services <br>  -   Senior Services <br>   -   Disability Services <br>   -   Community Mental Health Services <br> 2.  Participate in SSG's tracking and outcomes surveys; and <br> 3.  Attain at least one CSS WSQ SOA.|
   
- _*The definition of “regular” is subjective and differs accordingly to the organisation, depending on type of service and set-up. Volunteering commitment would be considered as regular if the volunteer serves for at least 4 hours a month for a minimum 3-month period._   
+ _*The definition of “regular basis” is subjective and differs according to the organisation. It can depend on the type of service and set-up. Volunteering commitments would be considered as regular if the volunteer serves for at least 4 hours a month for a minimum 3 month period._   
 
 ### Absentee Payroll
 
