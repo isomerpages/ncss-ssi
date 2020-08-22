@@ -1,6 +1,6 @@
 ---
 title: Our Milestones
-permalink: /About-Us/Who-We-Are-(1)
+permalink: /About-Us/our-milestones/
 ---
 
 
