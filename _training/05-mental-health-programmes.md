@@ -2,6 +2,7 @@
 title: Mental Health
 permalink: /training/mental-health
 ---
+![Mental health banner](/images/training/mental%20health%20SSI_header-banner-757-x-239px3.jpg)
 
 ## Mental Health
 
