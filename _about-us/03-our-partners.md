@@ -1,6 +1,6 @@
 ---
 title: Our Partners
-permalink: /About-Us/Who-We-Are-(2)
+permalink: /About-Us/our-partners
 ---
 
 ## Our Partners
