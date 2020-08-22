@@ -22,6 +22,8 @@ The featured courses are:
 - [Bachelor of Education (Special Education)](https://www.ssi.sg/Training-(1)/Disability/Bachelor-of-Education-(Special-Education)){:target="_blank"}   
 - [Diploma of Community Services](https://www.ssi.sg/Training-(1)/Disability/Diploma-of-Community-Services){:target="_blank"}   
 
+For the full list of Disability courses offered by SSI, follow this  [link](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=f4f837bd-290c-e611-810d-000c29e3b091&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Disability&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   .
+
 ### Featured Adult Educators
 
 **Ms. June Tham-Toh Syn Yuen**   
