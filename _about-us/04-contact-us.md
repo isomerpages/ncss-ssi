@@ -20,7 +20,7 @@ contacts:
     - phone: (65) 6589 5555
     - phone: (65) 6589 5540
     - email: socialserviceinstitute@ncss.gov.sg
-  - title: General Enquiries & Feedback
+  - title: Mailing List
     content:
     - other: Click <a href="/About-Us/mailing-list/">here</a> to sign up for our mailing lists now.
 ---
