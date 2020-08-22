@@ -1,8 +1,7 @@
 ---
 layout: contact_us
-title: Contact SSI
-permalink: /contact-ssi/
-third_nav_title: Contact Us
+title: Contact Us
+permalink: /contact-us/
 agency_name: Social Service Institute
 locations:
   - title: Main Office
@@ -23,5 +22,5 @@ contacts:
     - email: socialserviceinstitute@ncss.gov.sg
   - title: General Enquiries & Feedback
     content:
-    - others: Click [here](/ to sign up for our mailing lists now
+    - other: Click [here](/About-Us/mailing-lists/) to sign up for our mailing lists now
 ---
