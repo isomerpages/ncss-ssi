@@ -2,6 +2,7 @@
 title: Disability
 permalink: /training/disability
 ---
+![Disability header](/images/training/disability_SSI_header-banner-757-x-239px4.jpg)
 
 ## Disability
 The featured courses are:   
