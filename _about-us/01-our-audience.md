@@ -1,6 +1,6 @@
 ---
 title: Our Audience
-permalink: /about-us/about-us/who-we-are/
+permalink: /about-us/about-us/our-audience/
 ---
 
 ## Our Audience  
