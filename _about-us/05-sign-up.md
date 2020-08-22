@@ -1,7 +1,6 @@
 ---
 title: Sign Up for Our Mailing List
-permalink: /About-Us/mailing-lists
-third_nav_title: Contact Us
+permalink: /About-Us/mailing-lists/
 ---
 
 ## **Sign Up for Our Mailing List Now**
