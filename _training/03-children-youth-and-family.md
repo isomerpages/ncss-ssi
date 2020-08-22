@@ -24,7 +24,9 @@ The featured courses are:
  - [Management of Family Violence: Understanding Mental Health and Vulnerable Adult Issues in Protection Work](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=understanding+mental+health+and+vulnerable+adult+issues+in+protection+work&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
  - [Youth Work: Identify and Apply Effective Intervention Programme](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=identify+and+apply+effective+intervention+programme&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
  - [Youth Work: Introduction to an Evidence-Based Approach](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Youth+Work%3A+Introduction+to+an+Evidence-Based+Approach){:target="_blank"}  
- 
+
+For the full list of Children, Youth and Family courses offered by SSI, follow this [link](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=f6f837bd-290c-e611-810d-000c29e3b091&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Children%2C+Youth+and+Family&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
+
 ### Featured Adult Educators
 
 **Ms Alice Lee-Tok**     
