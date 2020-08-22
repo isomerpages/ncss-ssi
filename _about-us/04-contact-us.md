@@ -22,5 +22,5 @@ contacts:
     - email: socialserviceinstitute@ncss.gov.sg
   - title: General Enquiries & Feedback
     content:
-    - other: Click [here](/About-Us/mailing-lists/) to sign up for our mailing lists now
+    - other: Click [here](/About-Us/mailing-list/) to sign up for our mailing lists now
 ---
