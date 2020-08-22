@@ -1,6 +1,6 @@
 ---
 title: Sign Up for Our Mailing List
-permalink: /About-Us/mailing-lists/
+permalink: /About-Us/mailing-list/
 ---
 
 ## **Sign Up for Our Mailing List Now**
