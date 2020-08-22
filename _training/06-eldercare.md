@@ -15,6 +15,8 @@ The featured courses are:
 -   [Organise and Implement Group Activities and Recreation Programmes](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=WSQ+Organise+and+Implement+Group+Activities+and+Recreation+Programmes+){:target="_blank"}   
 -   [WSQ Support Seniors to Meet their Physical, Emotional, Psychological, Cognitive and Spiritual Needs](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=WSQ+Support+Seniors+to+Meet+their+Physical%2C+Emotional%2C+Psychological%2C+Cognitive+and+Spiritual+Needs){:target="_blank"}   
 
+For the full list of Eldercare courses offered by SSI, follow this [link](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=8ec889b9-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Eldercare&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   .
+
 ### Featured Adult Educators
 **Ms Lim Hwee Er**   
 Hwee Er holds a Master of Health Service Management from the University of Sydney (USYD) and a Bachelor of Health Sciences (Hons) (OT) from the University of Teesside. As an occupational therapist, she has 14 years of clinical experience working with seniors of various geriatric/psychogeriatric conditions across a variety of settings. Her experience also includes being a consultant for the planning and implementation of specialised services and programmes such as early dementia programmes and social service based hostels.
