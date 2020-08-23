@@ -13,6 +13,8 @@ links:
     collection: training
   - title: Resources
     collection: resources
+  - title: Contact Us
+    url: /stories/
   - title: Media Centre
     resource_room: true
   - title: Course Search
