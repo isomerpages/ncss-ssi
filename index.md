@@ -27,8 +27,8 @@ sections:
               url: /resources/gatherhere/         
            
     - infopic:
-        title: SSI’s Training Directory is Now Available
-        subtitle:
+        title: Start planning for your training needs today!
+        subtitle: SSI’s Training Directory is Now Available
         description: Download our training directory to view courses from across 10 different course categories (CET Programmes, Cross Sector, Children, Youth & Family, Disability, Mental Health, Eldercare, Board Development, Management & Organisational Development,Volunteer Development & Management and Caregiving).
         button: Download our training directory!
         image: /images/homepage/Training_Direc_Banner.jpg
