@@ -50,7 +50,7 @@ sections:
         description: Hear from our learners whose lives have been transformed through their desire to learn and grow through SSI’s courses and initiatives.
         button: Learn More
         url: /stories/
-        image: /images/homepage/our-stories.jpg
+        image: /images/homepage/our-stories.png
         alt: Our Stories
 
     - infopic:
@@ -59,7 +59,7 @@ sections:
         description: Receive the latest learning and development updates from SSI by signing up for our various mailing lists.
         button: Sign Up Here
         url: /about-us/mailing-list/
-        image: /images/homepage/our-stories.jpg
+        image: /images/homepage/mailing-list.jpg
         alt: Join our mailing list
 
     - infobar:
