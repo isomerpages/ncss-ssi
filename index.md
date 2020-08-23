@@ -9,7 +9,7 @@ sections:
     - hero:
         title:
         subtitle:
-        background: /images/homepage/SSI_Website_Banner_20Jul.jpg
+        background: /images/homepage/Home_Banner.jpg
         button: Contact Us
         url: /contact-us/
         key_highlights:
@@ -37,7 +37,7 @@ sections:
     - infopic:
         title: Stories
         subtitle:
-        description: Read what social service professionals have to say about their work and how SSI training courses has helped them to further sharpen and upgrade their skills.
+        description: Hear from our learners whose lives have been transformed through their desire to learn and grow through SSI’s courses and initiatives.
         button: Learn More
         url: /stories/
         image: /images/homepage/whatsnew-stories-size.png
