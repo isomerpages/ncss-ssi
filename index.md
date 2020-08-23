@@ -16,10 +16,15 @@ sections:
             - title: Training directory
               description: Start planning for your training needs today
               url: /images/homepage/SSI-Training-Directory-FY20-21.pdf
-            - title: Latest courses
-              description: Find out about the latest courses here
-              url: /training/overview/
-              
+            - title: NexLeaders Programme
+              description: An online leadership development programme for the social service sector
+              url: /training/nexleaders/
+            - title: SGUS
+              description: SSI’s three programmes under SGUS links to job opportunities in the social service sector
+              url: /            
+            - title: GatherHere
+              description: GatherHere is the online community where Social Service Tribe Meets & Collaborates!
+              url: /resources/gatherhere/         
            
     - infopic:
         title: Start planning for your training needs today!
