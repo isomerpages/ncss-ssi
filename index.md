@@ -51,7 +51,7 @@ sections:
         description: Hear from our learners whose lives have been transformed through their desire to learn and grow through SSI’s courses and initiatives.
         button: Learn More
         url: /stories/
-        image: /images/homepage/our-stories.png
+        image: /images/homepage/our-stories.jpg
         alt: Our Stories
 
     - infopic:
