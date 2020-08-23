@@ -28,12 +28,22 @@ sections:
            
     - infopic:
         title: Start planning for your training needs today!
-        subtitle: Training directory now available
-        button: Download the training directory here
+        subtitle: Download our training directory to view courses from across 10 different course categories (CET Programmes, Cross Sector, Children, Youth & Family, Disability, Mental Health, Eldercare, Board Development, Management & Organisational Development,Volunteer Development & Management and Caregiving).
+        button: Download our training directory!
         image: /images/homepage/Training_Direc_Banner.jpg
         alt: Training Directory        
         url: /images/homepage/SSI-Training-Directory-FY20-21.pdf
-        
+
+    - infopic:
+        title: Our Partners
+        subtitle:
+        description: HSSI is constantly looking for partnerships with local or international SSAs, NPOs, IHLs and private training organisations to co-develop the capabilities of Singapore’s social service sector.
+        button: Learn More
+        url: /about-us/our-partners
+        image: /images/homepage/whatsnew-stories-size.png
+        alt: whatsnew-stories
+
+
     - infopic:
         title: Stories
         subtitle:
