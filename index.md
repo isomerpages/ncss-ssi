@@ -39,9 +39,9 @@ sections:
         subtitle:
         description: HSSI is constantly looking for partnerships with local or international SSAs, NPOs, IHLs and private training organisations to co-develop the capabilities of Singapore’s social service sector.
         button: Learn More
-        url: /about-us/our-partners
-        image: /images/homepage/whatsnew-stories-size.png
-        alt: whatsnew-stories
+        url: /about-us/our-partners/
+        image: /images/homepage/our-partners.jpg
+        alt: Our Partners
 
 
     - infopic:
@@ -50,9 +50,18 @@ sections:
         description: Hear from our learners whose lives have been transformed through their desire to learn and grow through SSI’s courses and initiatives.
         button: Learn More
         url: /stories/
-        image: /images/homepage/whatsnew-stories-size.png
-        alt: whatsnew-stories
-        
+        image: /images/homepage/our-stories.jpg
+        alt: Our Stories
+
+    - infopic:
+        title: Join Our Mailing List
+        subtitle:
+        description: Receive the latest learning and development updates from SSI by signing up for our various mailing lists.
+        button: Sign Up Here
+        url: /about-us/mailing-list/
+        image: /images/homepage/our-stories.jpg
+        alt: Join our mailing list
+
     - infobar:
         title: Join Us!
         subtitle: Careers
