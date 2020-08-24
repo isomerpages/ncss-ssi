@@ -4,7 +4,6 @@ permalink: /resources/gatherhere
 ---
 
 ## GatherHere
-
 GatherHere is an online community for the Social Service Tribe, a group of like-minded individuals, who share a vision of empowering everyone to live with dignity. It is where members of the Social Service Tribe can come together to work, communicate, network and reach out differently.
 
 ### Social Service Agencies & Non-Profit Organisations   
@@ -35,7 +34,7 @@ SSI also provides a suite of services to facilitate the onboarding process and m
 - Training and Consultancy
 - Content Services
 
-### Guides for Claiming your GatherHere Account    
-
+### Guides for Claiming your GatherHere Account
+<br><br>
 - [For Apple users](https://www.youtube.com/watch?v=dwTr-1N2TK4){:target="_blank"}
 - [For android users](https://www.youtube.com/watch?v=h_KfsXXsBKI){:target="_blank"}
