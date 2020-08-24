@@ -19,9 +19,9 @@ locations:
 contacts:
   - title: General Enquiries & Feedback
     content:
-    - other: Telephone: (65) 6589 5555
-    - other: Fax: (65) 6589 5540
-    - other: Email: <a href="mailto:socialserviceinstitute@ncss.gov.sg">socialserviceinstitute@ncss.gov.sg</a>
+    - other: Telephone- (65) 6589 5555
+    - other: Fax- (65) 6589 5540
+    - other: Email- <a href="mailto:socialserviceinstitute@ncss.gov.sg">socialserviceinstitute@ncss.gov.sg</a>
   - title: Join Our Mailing Lists
     content:
     - other: Receive the latest learning and development updates from SSI by signing up for our various mailing lists. <a href="/About-Us/mailing-list/">Sign up here!</a>
