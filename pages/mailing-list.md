@@ -3,7 +3,7 @@ title: Sign Up for Our Mailing List
 permalink: /About-Us/mailing-list/
 ---
 
-## **Sign Up for Our Mailing List Now**
+## **Sign Up for Our Mailing Lists Now**
 
 Receive the latest learning and development updates by signing up for our various mailing lists shown below.  
 
@@ -11,13 +11,13 @@ Receive the latest learning and development updates by signing up for our variou
     
 2.  [Caregiving courses mailing list](https://form.gov.sg/5f19b056d034a60011cd0c42){:target="_blank"}    
     
-3.  [Volunteer development and management courses mailing list](https://form.gov.sg/5f19b06fd034a60011cd0c4){:target="_blank"}    
+3.  [Volunteer development and management courses mailing list](https://form.gov.sg/5f19b06fd034a60011cd0c4e){:target="_blank"}    
     
 4.  [Board development courses mailing list](https://form.gov.sg/5f19b07efd23f90011ba727c){:target="_blank"}    
     
 5.  [Management and organisation development courses mailing list](https://form.gov.sg/5f19b08c39e00f0011b7ad5a){:target="_blank"}    
     
-6.  [Eldercare courses mailing list](https://form.gov.sg/5f19b09dd034a60011cd0c5a%29){:target="_blank"} 
+6.  [Eldercare courses mailing list](https://form.gov.sg/5f19b09dd034a60011cd0c5a){:target="_blank"} 
     
 7.  [Mental health courses mailing list](https://form.gov.sg/5f19b0a9adf7da001231b33b){:target="_blank"}    
     
