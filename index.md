@@ -55,23 +55,16 @@ sections:
         alt: Our Stories
 
     - infopic:
-        title: Join Our Mailing List
+        title: Join Our Mailing Lists
         subtitle:
         description: Receive the latest learning and development updates from SSI by signing up for our various mailing lists.
         button: Sign Up Here
         url: /about-us/mailing-list/
         image: /images/homepage/mailing-list.jpg
         alt: Join our mailing list
-
-    - infobar:
-        title: Join Us!
-        subtitle: Careers
-        description: Join NCSS and make a difference today.
-        button: Join Us
-        url: https://www.ncss.gov.sg/About-Us/Career@NCSS/
         
     - resources:
-        title: What's New in SSI
-        subtitle: Learn more
-        button: View More
+        title: Be in the know
+        subtitle: Media
+        button: More Media
 ---
