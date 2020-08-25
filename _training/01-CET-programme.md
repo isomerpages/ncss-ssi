@@ -12,7 +12,7 @@ SSI offers a suite of Continuing Education and Training (CET) programmes which p
 -  [Advanced Certificate in Supported Employment (ACSE)](https://www.ssi.sg/Training-%281%29/Disability/1-Advanced-Certificate-in-Supported-Employment-%28A){:target="_blank"}   
 -   [Bachelor of Education (Special Education)](https://www.ssi.sg/Training-(1)/Disability/Bachelor-of-Education-(Special-Education)){:target="_blank"}   
 -   [Bridging Certificate in Social Service](https://www.ssi.sg/Training-%281%29/CET-Programmes/WSQ-Certificate-in-Social-Service-%28Care-and-Progra){:target="_blank"}   
--   [Certificate in Para-Counselling](https://www.ssi.sg/Training-(1)/Cross-Sector/Certificate-in-Para-Counselling)
+-   [Certificate in Para-Counselling](https://www.ssi.sg/Training-(1)/Cross-Sector/Certificate-in-Para-Counselling){:target="_blank"} 
 -   [Certificate in Peer Support](https://www.ssi.sg/Training-(1)/Mental-Health/Certificate-in-Peer-Support){:target="_blank"}   
 -  [WSQ Certificate in Social Service (Care and Programme)](https://www.ssi.sg/Training-%281%29/CET-Programmes/WSQ-Certificate-in-Social-Service-%28Care-and-Progra){:target="_blank"}   
 -   [Diploma of Community Services](https://www.ssi.sg/Training-(1)/Disability/Diploma-of-Community-Services){:target="_blank"}   
