@@ -4,30 +4,27 @@ permalink: /training/mental-health
 ---
 ![Mental health banner](/images/training/mental%20health%20SSI_header-banner-757-x-239px3.jpg)
 
-## Mental Health
 
-Some of the key courses under this category include:
+-   [Applied Suicide Interventional Skills](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=applied+suicide+) [(ASIST)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=applied+suicide+){:target="_blank"}   
+-   E.M.B.R.A.C.E Mental Health - Coming Soon!
+-   [Management of Depression in Seniors](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Management+of+depression+in+seniors&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=14a99fd7-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Mental+Health&Filter.CourseSubCategory.ToRemove=False){:target="_blank"}   
+-   [Mental Illness and Recovery](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=mental+illness+and+recovery&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=14a99fd7-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Mental+Health&Filter.CourseSubCategory.ToRemove=False){:target="_blank"}   
+-   [Preparatory Training for Potential Peer Support Specialist](https://www.ssi.sg/Training-(1)/Mental-Health/Peer-Support-Specialist-Programme/Certificate-in-Peer-Support){:target="_blank"}   1
+-   Psychiatric Rehabilitation in Welfare Homes - Coming Soon!
+-   [Suicide Prevention and Management for Seniors](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Suicide+Prevention+and+Management+for+Seniors){:target="_blank"}   
+-   [Tools and Skills for Supporting Youths with Mental Health Distress](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=tools+and+skills+for+supporting+youths+with+mental+health&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
 
-### Short Courses   
-
-- [Applied Suicide Interventional Skills](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=applied+suicide+) [(ASIST)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=applied+suicide+){:target="_blank"}   
-- [Tools and Skills for Supporting Youths with Mental Health Distress](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=tools+and+skills+for+supporting+youths+with+mental+health&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
-- E.M.B.R.A.C.E Mental Health - Coming Soon!   
-- [Management of Depression in Seniors](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Management+of+depression+in+seniors&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=14a99fd7-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Mental+Health&Filter.CourseSubCategory.ToRemove=False){:target="_blank"}   
-- [Mental Illness and Recovery](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=mental+illness+and+recovery&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=14a99fd7-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Mental+Health&Filter.CourseSubCategory.ToRemove=False){:target="_blank"}
-- [Preparatory Training for Potential Peer Support Specialist](https://www.ssi.sg/Training-(1)/Mental-Health/Peer-Support-Specialist-Programme/Certificate-in-Peer-Support){:target="_blank"}   
-- Psychiatric Rehabilitation in Welfare Homes - Coming Soon!  
-- [Suicide Prevention and Management for Seniors](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Suicide+Prevention+and+Management+for+Seniors){:target="_blank"}   
-
-This is the first module in the  [Peer Support Specialist Programme](https://www.ssi.sg/Training-(1)/Mental-Health/Peer-Support-Specialist-Programme).{:target="_blank"}   
+<sup>1</sup>This is the first module in the  [Peer Support Specialist Programme](https://www.ssi.sg/Training-(1)/Mental-Health/Peer-Support-Specialist-Programme){:target="_blank"}   .
 
 ### Certificate/ Diploma/ Degree Programmes:
 
-1.  [Certificate in Peer Support](https://www.ssi.sg/Training-(1)/Mental-Health/Peer-Support-Specialist-Programme/Certificate-in-Peer-Support-(1)){:target="_blank"}   .
+ - [Certificate in Peer Support](https://www.ssi.sg/Training-(1)/Mental-Health/Peer-Support-Specialist-Programme/Certificate-in-Peer-Support-(1)){:target="_blank"}   <sup>2</sup>.
 
-2. This is the second module in the  [Peer Support Specialist Programme](https://www.ssi.sg/Training-(1)/Mental-Health/Peer-Support-Specialist-Programme){:target="_blank"}   .
+<sup>2</sup>This is the second module in the  [Peer Support Specialist Programme](https://www.ssi.sg/Training-(1)/Mental-Health/Peer-Support-Specialist-Programme){:target="_blank"}   .
+
 
 For the full list of Mental Health courses offered by SSI, follow this  [link](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=14a99fd7-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Mental+Health&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   .
+
 
 ### Featured Adult Educators
 
