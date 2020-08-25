@@ -30,9 +30,9 @@ Some of the featured courses under this category are:
 
 ### **Certificate/ Diploma/ Degree Programmes:**
 
--   [Bridging Certificate in Social Service](https://www.ssi.sg/Training-(1)/CET-Programmes/WSQ-Certificate-in-Social-Service-(Care-and-Progra)(https://www.ssi.sg/Training-%281%29/CET-Programmes/WSQ-Certificate-in-Social-Service-%28Care-and-Progra){:target="_blank"}      
+-   [Bridging Certificate in Social Service](https://www.ssi.sg/Training-%281%29/CET-Programmes/WSQ-Certificate-in-Social-Service-%28Care-and-Progra){:target="_blank"}       
 -   [Certificate in Para-Counselling](https://www.ssi.sg/Training-(1)/Cross-Sector/Certificate-in-Para-Counselling){:target="_blank"}   
--   [WSQ Certificate in Social Service (Care and Programme)](https://www.ssi.sg/Training-(1)/CET-Programmes/WSQ-Certificate-in-Social-Service-(Care-and-Progra)](https://www.ssi.sg/Training-%281%29/CET-Programmes/WSQ-Certificate-in-Social-Service-%28Care-and-Progra){:target="_blank"}   
+-   [WSQ Certificate in Social Service (Care and Programme](https://www.ssi.sg/Training-%281%29/CET-Programmes/WSQ-Certificate-in-Social-Service-%28Care-and-Progra){:target="_blank"}   
 -   Higher Diploma in Social Service (HDSS) - Coming Soon!
 -   [Professional Certificate in Casework](https://www.ssi.sg/Training-(1)/Cross-Sector/Professional-Certificate-in-Casework) [(NSWCF Foundational)](https://www.ssi.sg/Training-(1)/Cross-Sector/Certificate-in-Para-Counselling){:target="_blank"}   
 -   [Professional Certificate in Group Work](https://www.ssi.sg/Training-(1)/Cross-Sector/Professional-Certificate-in-Group-Work){:target="_blank"}   
