@@ -16,7 +16,7 @@ ___*Terms and conditions apply___.
   
     
 <!--|**[VWOs-Charities Capability Fund (VCF)](/training/funding-information/VWOs-Charities-Capability-Fund-(VCF)/)** | [![VWOs-Charities Capability Fund (VCF)](/images/training/grants/VCF-funding.jpg)](/training/funding-information/VWOs-Charities-Capability-Fund-(VCF)/) | **[SkillsFuture Singapore Funding](/training/funding-information/SkillsFuture-Singapore-Funding/)** | [![SkillsFuture Singapore Funding](/images/training/grants/skillsfuture-funding.jpg)](/training/funding-information/SkillsFuture-Singapore-Funding/) |-->
-|-|-|-|-|
+<!--|-|-|-|-|-->
 <!--|**[SkillsFuture Credit](/training/funding-information/SkillsFuture-Credit/)** | [![SkillsFuture Credit](/images/training/grants/skillsfuture-credit.jpg)](/training/funding-information/SkillsFuture-Credit/)| **[SkillsFuture Study Awards for the Social Service Sector](/training/funding-information/SkillsFuture-Study-Awards-for-the-Social-Service-S/)** | [![SkillsFuture Study Awards for the Social Service Sector](/images/training/grants/skillsfuture-studyawards.jpg)](/training/funding-information/SkillsFuture-Study-Awards-for-the-Social-Service-S/) |-->
 
 
