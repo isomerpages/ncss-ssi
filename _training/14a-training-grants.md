@@ -6,7 +6,7 @@ third_nav_title: Funding Information
 
 ## Training Grants
 
-SSI offers a host of training grants to support your skills development and professional upgrading needs. With various types of funding support available, you can enjoy subsidies of up to 90%1 for your course fees for both short courses and academic programmes.  
+SSI offers a host of training grants to support your skills development and professional upgrading needs. With various types of funding support available, you can enjoy subsidies of up to 90% <sup>1</> for your course fees for both short courses and academic programmes.  
   
 SSAs can nominate their employees for the Leadership Development Programme (LDP), Professional Development and Management Programme (PDMP) and Sabbatical Leave Scheme (SLS). Click  [here](https://www.ncss.gov.sg/Social-Service-Careers/Professional-Development/About-Professional-Development){:target="_blank"}  for more information on the available funding support.  
   
