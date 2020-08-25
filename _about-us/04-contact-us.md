@@ -2,7 +2,6 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
----
 agency_name: Social Service Institute
 locations:
   - title: Main Office
