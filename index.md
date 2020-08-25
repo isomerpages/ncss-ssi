@@ -10,12 +10,9 @@ sections:
         title:
         subtitle:
         background: /images/homepage/Home_Banner.jpg
-        button: Contact Us
+        button:
         url: /contact-us/
         key_highlights:
-            - title: Training directory
-              description: Start planning for your training needs today
-              url: /images/homepage/SSI-Training-Directory-FY20-21.pdf
             - title: NexLeaders Programme
               description: An online leadership development programme for the social service sector
               url: /training/nexleaders/
