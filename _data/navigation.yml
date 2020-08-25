@@ -7,21 +7,26 @@
 logo: /images/SSILogoFullColour_large_fullwidth.png
 
 links:
-  - title: Who We Are
-    collection: discover-ssi
-  - title: Initiatives
-    collection: initiatives
+  - title: About Us
+    collection: about-us
   - title: Training
     collection: training
   - title: Resources
     collection: resources
+  - title: Our Stories
+    url: /stories/
   - title: Media Centre
     resource_room: true
+  - title: Course Search
+    url: https://e-services.ncss.gov.sg/Training/Course/TemplateSearch
  # Not in use currently
+ # collection: discover-ssi
  # - title: Resources & Links
  #   collection: resources-and-links
  # - title: Faq
- #   collection: faq
-  - title: Contact Us
-    url: /contact-us/    
+ #  collection: faq
+ # - title: Contact Us
+ #   url: /contact-us/
+ #  - title: Initiatives
+  #  collection: initiatives
    

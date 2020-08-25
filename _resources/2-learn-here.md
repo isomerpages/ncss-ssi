@@ -10,7 +10,7 @@ Specifically, LearnHere offers both e-Learning that is hosted on our [Learning C
 
 Through a blended learning approach, learning can happen before a learner enters the classroom, allowing for more effective use of classroom time for deeper discussions with our adult educators and their peers.
 
-### Benefits of LearnHere for Learners
+### Benefits of LearnHere for learners
 Through LearnHere, Learners can:
 - Learn on-the-go, with access to learning anytime and anywhere!
 - Learn at their own pace, with unlimited access to materials and discussions.
@@ -22,7 +22,3 @@ Through LearnHere, Learners can:
 
 To learn more about LearnHere, email [socialserviceinstitute@ncss.gov.sg](mailto:socialserviceinstitute@ncss.gov.sg)
 
-### The Move towards Digital Learning
-Through the move towards digital learning, as encouraged by the functionalities of online platforms such as LearnHere, Learners will:
-- Receive access to courseware online instead of through printed materials.
-- Complete online course evaluations as well as receive e-certificates instead of attending in class evaluations and attaining physical certificates.

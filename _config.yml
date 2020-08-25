@@ -1,11 +1,13 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+title: Social Service Institute
+url: "https://www.ssi.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
+favicon: /images/homepage/ssilogo.ico
 
 # Site colors
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: '#CA0538'
+  # primary-color: '#4372d6'
+  # primary-color: '#6031b6'
+  secondary-color: '#CA595D'
   media-colors:
     - title: media-color-one
       color: '#49759a'
@@ -22,15 +24,16 @@ colors:
 collections:
   discover-ssi:
     output: true
-  initiatives:
-    output: true
+  # initiatives:
+  #  output: true
   training:
     output: true
   resources:
     output: true
-  # Unused currently
-  #faq:
-  #  output: true
+  about-us:
+    output: true
+  faq:
+    output: true
 
 resources_name: "resource-room"
 
