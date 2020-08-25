@@ -4,7 +4,6 @@ permalink: /resources/toolkits-frameworks
 ---
 ## Toolkits & Frameworks
 
-### Skills Framework for Social Service
 The Skills Framework (SFw) for Social Service was launched in January 2019 at the SSI Graduation & Awards Ceremony by then Minister of State for Social and Family Development and Foreign Affairs, Mr Sam Tan.   
    
 Jointly developed by SkillsFuture Singapore (SSG), Workforce Singapore (WSG), the Ministry of Social and Family Development (MSF) and the National Council of Social Service (NCSS) together with industry associations, training providers and organisations, the framework provides useful information on:
