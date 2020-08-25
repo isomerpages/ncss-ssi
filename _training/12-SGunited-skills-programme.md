@@ -1,6 +1,7 @@
 ---
 title: SGUnited Skills Programme
-permalink: 
+permalink: /training/sgus
+
 ---
 
 ## SGUnited Skills Programme
