@@ -31,8 +31,7 @@ Alice is a family education consultant and trainer with more than 15 years of ex
 Anne Marie holds a master’s degree in social work and psychology and a bachelor’s degree in english literature and political science from the University of Hong Kong (HKU). She currently trains individuals on volunteerism and social policy at the NUS-YMCA-Citibank Youth for Causes Programme. In addition, she lectures in the areas of counselling, volunteer management, educational psychology, community services management and business communications in local polytechnics. She also serves as a volunteer in several Family Service Centres (FSCs) and schools.
  
 
-**Ms Lam Moy Yin**
-
+**Ms Lam Moy Yin**   
 Moy Yin has a Master of Arts in Education and Human Resource Development with the George Washington University (GW). She is also a graduate of the National University of Singapore (NUS) and has a diploma in human resource development (gold medal) from the Singapore Institute of Management (SIM). Moy Yin has more than 12 years of experience in human resources specialising in volunteer management and has provided consultancy services for the Singapore Sports Council (SSC) and the National Arts Council (NAC). Moy Yin is also the co-founder and vice president of Managing & Organising Volunteer Efforts (MOVE), which isthe national professional body for volunteer programme managers.
 
 ### News and Articles on Volunteer Development & Management
