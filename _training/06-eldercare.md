@@ -23,7 +23,8 @@ Hwee Er holds a Master of Health Service Management from the University of Sydne
 
 As a WSQ Advanced Certificate in Training and Assessment (ACTA) certified trainer, Hwee Er is also involved in the development and implementation of WSQ certified and regular training programmes and workshops for professionals, family caregivers and the public. This is done in collaboration with various organisations such as the Tsao Foundation, Health Promotion Board (HPB), SSI and the Civil Service College (CSC) and covers a variety of issues related to eldercare and Well Elderly Programmes. Hwee Er is currently employed with Goshen Rehabilitation & Consultancy Services.
 
-**Ms Lee Mei Ping**
+**Ms Lee Mei Ping**   
+
 Mei Ping has over 15 years of experience in learning, development and consulting. She holds a Master of Business Administration (MBA), graduate diploma in training and development and a cambridge international diploma for teachers and trainers. As an ACTA certified trainer, she has also developed and conducted several training programmes for healthcare professionals and the public on issues related to eldercare and Well Elderly Programmes.
 
 In addition, Mei Ping has extensive experience in providing consultancy services in skills development and improving productivity for various public organisations including nursing homes, mental health service providers and community hospitals. She currently leads the Person-Centred Communities of Practice with a team of 15 practitioners from various eldercare service providers.
