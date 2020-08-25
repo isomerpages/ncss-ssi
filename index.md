@@ -35,7 +35,7 @@ sections:
     - infopic:
         title: Our Partners
         subtitle:
-        description: HSSI is constantly looking for partnerships with local or international SSAs, NPOs, IHLs and private training organisations to co-develop the capabilities of Singapore’s social service sector.
+        description: SSI is constantly looking for partnerships with local or international SSAs, NPOs, IHLs and private training organisations to co-develop the capabilities of Singapore’s social service sector.
         button: Learn More
         url: /about-us/our-partners/
         image: /images/homepage/our-partners.jpg
