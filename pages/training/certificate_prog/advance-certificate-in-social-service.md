@@ -1,6 +1,6 @@
 ---
 title: Advanced Certificate in Social Service
-permalink: /training-(1)/cet-programmes/advanced-certificate-in-social-service
+permalink: /training/cet-programmes/advanced-certificate-in-social-service/
 ---
 
 
