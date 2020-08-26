@@ -1,6 +1,6 @@
 ---
 title: Bachelor of Education (Special Education)
-permalink: /training-(1)/cet-programmes/bachelor-of-education-(special-education)
+permalink: /training/cet-programmes/bachelor-of-education-(special-education)/
 ---
 
 
