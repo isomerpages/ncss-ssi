@@ -55,15 +55,15 @@ Lecturers from CDS will facilitate tutorials and conduct individual supervision 
 **Other Subsidies Available:**  
 Successful applicants to the Diploma of Community Services may apply for the SkillsFuture Study Award<sup>1</sup>  for the Social Service Sector. You may visit this  [link](http://www.skillsfuture.sg/studyawards/social-service){:target="_blank"}     to find out more.  
   
-**Module 1: Knowing Self - Becoming a Person-Centred, Responsive, Ethical, Reflective Practitioner  **
+**Module 1: Knowing Self - Becoming a Person-Centred, Responsive, Ethical, Reflective Practitioner**
   
-**Module 2: Person-Centred Advocacy and Decision Making Support  **
+**Module 2: Person-Centred Advocacy and Decision Making Support**
   
-**Module 3: Promoting a Person-Centred Workplace  **
+**Module 3: Promoting a Person-Centred Workplace**
   
-**Module 4: Positive Behaviour Support and Supporting People with Complex Needs  **
+**Module 4: Positive Behaviour Support and Supporting People with Complex Needs**
   
-**Module 5: Society and Community  **
+**Module 5: Society and Community**
   
 **Module 6: Social Skills and Communication**  
   
