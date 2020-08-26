@@ -1,6 +1,6 @@
 ---
 title: Certificate in Para Counselling
-permalink: /training-(1)/cet-programmes/certificate-in-para-counselling
+permalink: /training/cet-programmes/certificate-in-para-counselling/
 ---
 
 
