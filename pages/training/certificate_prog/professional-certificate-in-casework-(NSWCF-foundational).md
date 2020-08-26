@@ -1,6 +1,6 @@
 ---
 title: Professional Certificate in Casework (NSWCF Foundational)
-permalink: /training-(1)/cet-programmes/professional-certificate-in-casework-(NSWCF-foundational)
+permalink: /training/cet-programmes/professional-certificate-in-casework-(NSWCF-foundational)/
 ---
 
 ## Professional Certificate in Casework
