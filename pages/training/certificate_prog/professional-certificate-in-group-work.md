@@ -1,6 +1,6 @@
 ---
 title: Advanced Certificate in Supported Employment (ACSE)
-permalink: /training-(1)/cet-programmes/professional-certificate-in-group-work
+permalink: /training/cet-programmes/professional-certificate-in-group-work/
 ---
 
 ## Professional Certificate in Group Work
