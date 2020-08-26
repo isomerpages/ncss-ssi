@@ -1,6 +1,6 @@
 ---
 title: Advanced Certificate in Supported Employment (ACSE)
-permalink: https://ncss-ssi-staging.netlify.app/training/Training-%281%29/CET-Programmes/Advanced-Certificate-in-Supported-Employment
+permalink: /training-(1)/cet-programmes/advanced-cert-in-ss
 ---
 
 ## Advanced Certificate in Supported Employment
