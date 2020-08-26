@@ -13,7 +13,7 @@ permalink: /training-(1)/cet-programmes
 SSI offers a suite of Continuing Education and Training (CET) programmes which provide learners with certificate, diploma and degree based qualifications. Refer to the list below for more details.
 
 -   [Advanced Certificate in Social Service](https://www.ssi.sg/Training-(1)/CET-Programmes/AdvancedCertificateinSocialService){:target="_blank"}   
--   [Advanced Certificate in Supported Employment (ACSE)](/training-(1)/cet-programmes/advanced-cert-in-ss){:target="_blank"}   
+-   [Advanced Certificate in Supported Employment (ACSE)](/training-(1)/cet-programmes/advanced-cert-in-SE){:target="_blank"}   
 -   [Bachelor of Education (Special Education)](https://www.ssi.sg/Training-(1)/Disability/Bachelor-of-Education-(Special-Education)){:target="_blank"}   
 -   [Certificate in Para-Counselling](https://www.ssi.sg/Training-(1)/Cross-Sector/Certificate-in-Para-Counselling){:target="_blank"}   
 -   [Certificate in Peer Support](https://www.ssi.sg/Training-(1)/Mental-Health/Certificate-in-Peer-Support){:target="_blank"}   
