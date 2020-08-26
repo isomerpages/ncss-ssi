@@ -14,7 +14,7 @@ permalink: /training/mental-health
 -   [Suicide Prevention and Management for Seniors](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Suicide+Prevention+and+Management+for+Seniors){:target="_blank"}   
 -   [Tools and Skills for Supporting Youths with Mental Health Distress](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=tools+and+skills+for+supporting+youths+with+mental+health&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
 
-<sup>1</sup>This is the first module in the  [Peer Support Specialist Programme](https://www.ssi.sg/Training-(1)/Mental-Health/Peer-Support-Specialist-Programme){:target="_blank"}   .
+<sup>1</sup>This is the first module in the  [Peer Support Specialist Programme](/training-(1)/cet-programmes/preparatory-training-for-potential-peer-support-specialist){:target="_blank"}   .
 
 ### Certificate/ Diploma/ Degree Programmes:
 
