@@ -11,7 +11,7 @@ Jointly developed with the Ministry of Social and Family Development (MSF) and M
   
 Social workers can embark on this course as part of a competency-based training roadmap to deepen their skills and knowledge and plan their career progression pathway based on competencies and job roles.  
   
-**Target Audience**  
+### **Target Audience**  
 Social workers who possess at least a Bachelors degree, or Graduate Diploma in Social Work from a recognised university.
 
 ### **Assessment Requirements**
