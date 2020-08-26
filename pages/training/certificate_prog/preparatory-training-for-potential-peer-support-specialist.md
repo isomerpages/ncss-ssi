@@ -1,6 +1,6 @@
 ---
 title: Preparatory Training for Potential Peer Support Specialist
-permalink: /training-(1)/cet-programmes/preparatory-training-for-potential-peer-support-specialist
+permalink: /training/cet-programmes/preparatory-training-for-potential-peer-support-specialist/
 ---
 ## Preparatory Training for Potential Peer Support Specialist
 
