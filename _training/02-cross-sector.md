@@ -15,9 +15,6 @@ Some of the featured courses under this category are:
 
 ### **Short Courses:**
 
-
-### **Short Courses:**
-
 -   [Befriending Skills and Practice (For Volunteers)](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Befriending+Skills+and+Practice+%28For+Volunteers%29&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
 -   [Boleh Saya Anda? May I Help You? - Conversational Malay for Social Service Practitioners](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Conversational+malay&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
 -   [Case Management in Practice: Introduction](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Case+Management+in+Practice%3A+Introduction&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
