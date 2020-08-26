@@ -1,6 +1,6 @@
 ---
 title: CET Programmes 
-permalink: /training/cet-programme
+permalink: /training-(1)/cet-programmes
 ---
 
 ![CET programmes](/images/training/CET-programmes-SSI_header-banner-757-x-239px10.jpg)
