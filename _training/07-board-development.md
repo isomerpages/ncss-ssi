@@ -25,7 +25,7 @@ For more information on the modules,  [click here](https://www.sid.org.sg/Web/Pr
 In addition, to the S-GOOD programme, you will be access the full list of Board Development courses offered by SSI  [here](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=f84d7207-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Board+Management&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   . SSI also offers courses that tackles issues and challenges faced by Non-Profit Organisations serving  [Children, Youth & Families](/training/cyandf
 ){:target="_blank"}   ,  [Persons with Disabilities](/training/disability){:target="_blank"}   ,  [Persons with Mental Health Conditions](/training/mental-health){:target="_blank"}    and  [seniors](/training/eldercare){:target="_blank"}   .  
   
-Otherwise, for Management and Organisational Development courses, you may refer to our  [Management and Organisation Development](https://www.ssi.sg/default.aspx){:target="_blank"}    course page.
+Otherwise, for Management and Organisational Development courses, you may refer to our  [Management and Organisation Development](/training/management-and-Organisation-Development){:target="_blank"}    course page.
 
 ### **News and Articles on Board Development**
 
