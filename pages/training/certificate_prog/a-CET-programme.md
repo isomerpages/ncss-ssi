@@ -1,33 +1,82 @@
 ---
-title: CET Programmes
-permalink: Training-(1)/CET-Programmes
+title: Advanced Certificate in Supported Employment (ACSE)
+permalink: Training-(1)/CET-Programmes/Advanced-Certificate-in-Supported-Employment
 ---
 
-![CET programmes](/images/training/CET-programmes-SSI_header-banner-757-x-239px10.jpg)
+## Advanced Certificate in Supported Employment
 
-## CET Programmes
+### Overview
 
-SSI offers a suite of Continuing Education and Training (CET) programmes which provide learners with certificate, diploma and degree based qualifications. Refer to the list below for more details.
+The Advanced Certificate in Supported Employment (ACSE) aims to build capabilities of disability employment professionals in order to enable them to provide better employment and employability support for persons with disabilities.
 
-<!--SSI offers a suite of Continuing Education and Training (CET) programmes which provide learners with certificate, diploma and degree based qualifications. Refer to the list below for more details.-->
-<!---  [Advanced Certificate in Supported Employment (ACSE)](https://www.ssi.sg/Training-%281%29/Disability/1-Advanced-Certificate-in-Supported-Employment-%28A){:target="_blank"}   
--   [Bachelor of Education (Special Education)](https://www.ssi.sg/Training-(1)/Disability/Bachelor-of-Education-(Special-Education)){:target="_blank"}   
--   [Bridging Certificate in Social Service](https://www.ssi.sg/Training-%281%29/CET-Programmes/WSQ-Certificate-in-Social-Service-%28Care-and-Progra){:target="_blank"}   
--   [Certificate in Para-Counselling](https://www.ssi.sg/Training-(1)/Cross-Sector/Certificate-in-Para-Counselling){:target="_blank"} 
--   [Certificate in Peer Support](https://www.ssi.sg/Training-(1)/Mental-Health/Certificate-in-Peer-Support){:target="_blank"}   
--  [WSQ Certificate in Social Service (Care and Programme)](https://www.ssi.sg/Training-%281%29/CET-Programmes/WSQ-Certificate-in-Social-Service-%28Care-and-Progra){:target="_blank"}   
--   [Diploma of Community Services](https://www.ssi.sg/Training-(1)/Disability/Diploma-of-Community-Services){:target="_blank"}   
--   Higher Diploma in Social Service (HDSS) - Coming Soon!
--   [Professional Certificate in Casework (NSWCF Foundational)](https://www.ssi.sg/Training-(1)/Cross-Sector/Professional-Certificate-in-Casework){:target="_blank"}   
--   [Professional Certificate in Group Work](https://www.ssi.sg/Training-(1)/Cross-Sector/Professional-Certificate-in-Group-Work){:target="_blank"}   -->
+### Target Audience
 
+Job coaches and other social service professionals who work with persons with disabilities in a supported employment context. Other applicants who are interested in this area of work may be considered on a case-by-case basis.  
+  
+A minimum of three GCE ‘O’ Level credits and a minimum English Language (speaking, reading, writing and listening) proficiency level equivalent to C6 GCE ‘O’ level or Employability Skills System Workplace Literacy (WPL) Level 6 is required. Applicants are required to upload their GCE 'O' Level Certification or equivalent certification during the online registration process.
 
-For the full list of CET programmes offered by SSI, follow this  [link](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=5e1ea9bb-b828-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=CET+Programmes&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   .
+### Learning Outcomes
 
-### ****News and Articles****
+Upon completion of the course, graduates will be able to:
 
-Continue receiving news and articles on CET programmes through GatherHere. Subscribe to GatherHere by writing to:  <techservices1@gatherhere.sg>.
+-   Assist presons with disabilities in their career planning and development of their career portfolio.
+-   Apply appropriate strategies to manage the behaviours, communication requirements and interaction styles of different clients.
+-   Work with employers for workplace mediations.
+-   Provide counselling support for persons with disabilities.
+-   Incorporate case management in their work with persons with disabilities.
+-   Facilitate conflict management between persons with disabilities, employers, caregivers and the community.
+-   Apply the supported employment framework to design an employment support plan for persons with disabilities.
 
-### ****Subscribe to SSI’s CET Programmes Mailing List****
+### Assessment Requirements
 
-Subscribe to SSI’s CET Programmes Mailing List through this  [link](https://form.gov.sg/5f19b046fd23f90011ba7246){:target="_blank"}   .
+Learners will have to complete an online course evaluation.
+
+### Course Details
+
+**Programme Duration:** This course is offered on a part time basis and has a total duration of 131 hours.  
+**Lesson Timings:**  9.30am to 5.30pm
+
+**Fees:** Full fees of $4,922 (Inclusive of GST) and nett fees of $1,476.60 (Inclusive of GST, after SSG subsidy). A non-refundable application fee of SGD 53.50 (including GST) is applicable.  
+  
+**Other subsidies available:**  
+Successful applicants to the ACSE may apply for the SkillsFuture Study Award1  for Social Service Sector. You may visit [www.skillsfuture.sg/studyawards/social-service](http://www.skillsfuture.sg/studyawards/social-service){:target="_blank"}    to find out more.  
+  
+**Module 1: Employment & Job Development**  
+  
+This module will equip job coaches with a better understanding of the concept and practices of supported employment, the employment landscape in Singapore and the employment laws and grants available for employers and persons with disabilities. It will also cover the role of a job coach and ways to provide guidance to clients with disabilities.  
+  
+**Module 2: Working with Clients with Different Types of Disabilities**  
+  
+This module will help job coaches develop a better understanding of clients with different types of disabilities and the challenges that they face as a result of their disabilities. Learners will be taught strategies to manage the behaviours of their clients and the communication tactics that can be used to work effectively with their clients in the process of supporting them on their job search and employment opportunities.  
+  
+**Module 3: Basic Counselling Skills & Practice for Job Coaches**  
+  
+This module will equip job coaches with basic counselling skills to help them work effectively with their clients. It will provide an overview of the counselling process, the different roles performed by the job coach-counsellor, basic counselling skills, goals of counselling, values and ethics in counselling and approaches in problem management. It will also cover the barriers affecting communication in the counselling process and the ways job coaches can prevent communication breakdowns.  
+  
+**Module 4: Introduction to Case Management**  
+  
+This module will equip job coaches with the necessary skills and knowledge pertaining to the practice of case management. It provides learners with a broad understanding of how case management serves as a means for achieving client wellness and autonomy through advocacy, dialogue, identification of service resources and direction. Additionally it also helps learners understand and view the connections between the job coach, the client, appropriate service personnel, and other stakeholders in order to optimise the assistance provided to their clients.  
+  
+**Module 5: Conflict, Leadership & People Management**  
+  
+This module will address the issues of potential conflicts that may arise in the workplace which would affect job coaches who work with the persons with disabilities, potential employers, caregivers and society at large. If conflict is not effectively managed and resolved, it can be detrimental because it could result in uncertainty, lowered morale and long-term working inefficiency and ineffectiveness. This module will discuss conflict resolution, the art of negotiation in order to reach an agreement between different stakeholders and how to apply these principles in leadership and people management.  
+  
+**Module 6: Client & Employer Engagement**  
+  
+This module focuses on job coaching for persons with disabilities within a supported employment framework. In contrast to the traditional ‘train and place’ approach, job coaching in supported employment embraces a ‘place, train, and sustain’ model. This model has proved to be significantly important for persons with disabilities to succeed in a job as it requires job coaches to work closely with clients with disabilities and employers throughout the job coaching process. Learners will be given opportunities through lectures, discussions, role plays and other hands-on activities to acquire the specific knowledge and skills required to engage and support clients and employers in supported employment. This process includes the development of client profiles, job development and placement, job site training and support how to effectively fade out of the coaching process and follow-up with the client.  
+  
+**3 Feb 2021: Compulsory Visit to Enabling Village – 2 to 5pm**
+
+### **Upcoming intake:**
+
+Registration closing date: Monday, 20 July 2020  
+  
+[Click here](http://e-services.ncss.gov.sg/Training/Course/DetailProgramme/8ccfea49-bd8d-ea11-8159-000c296ee030){:target="_blank"}     to download the SSI application form.
+
+----------
+
+1 Subject to successful completion and achievement of a ‘Competent’ grade for all in-class assessments/assignments. Learners eligible for SkillsFuture Singapore (SSG) funding, must achieve at least 75% attendance per module, and be certified ‘Competent’ in all the assessment components. Individuals or Organisations will have to bear the full course fees in the event that learners fail to meet the attendance/assessment requirements and terms and conditions for SSG funding eligibility. Please refer to [www.skillsconnect.gov.sg](http://www.skillsconnect.gov.sg/){:target="_blank"}    for more information on SSG funding.
+
+  
+Note:  
+Due to the COVID-19 pandemic, this course will be conducted over ZOOM, click  [here](http://e-services.ncss.gov.sg/Training/Course/DetailProgramme/6b29b89a-9db8-ea11-815b-000c296ee030){:target="_blank"}     to download the training schedule.
