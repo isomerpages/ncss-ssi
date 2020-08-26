@@ -30,12 +30,12 @@ Some of the featured courses under this category are:
 
 ### **Certificate/ Diploma/ Degree Programmes:**
 
--   [Bridging Certificate in Social Service](https://www.ssi.sg/Training-%281%29/CET-Programmes/WSQ-Certificate-in-Social-Service-%28Care-and-Progra){:target="_blank"}       
--   [Certificate in Para-Counselling](https://www.ssi.sg/Training-(1)/Cross-Sector/Certificate-in-Para-Counselling){:target="_blank"}   
+-   [Advanced Certificate in Social Service](/training-(1)/cet-programmes/advanced-certificate-in-social-service){:target="_blank"}       
+-   [Certificate in Para-Counselling](/training-(1)/cet-programmes/certificate-in-para-counselling){:target="_blank"}   
 -   [WSQ Certificate in Social Service (Care and Programme](https://www.ssi.sg/Training-%281%29/CET-Programmes/WSQ-Certificate-in-Social-Service-%28Care-and-Progra){:target="_blank"}   
 -   Higher Diploma in Social Service (HDSS) - Coming Soon!
--   [Professional Certificate in Casework](https://www.ssi.sg/Training-(1)/Cross-Sector/Professional-Certificate-in-Casework) [(NSWCF Foundational)](https://www.ssi.sg/Training-(1)/Cross-Sector/Certificate-in-Para-Counselling){:target="_blank"}   
--   [Professional Certificate in Group Work](https://www.ssi.sg/Training-(1)/Cross-Sector/Professional-Certificate-in-Group-Work){:target="_blank"}   
+-   [Professional Certificate in Casework](/training-(1)/cet-programmes/professional-certificate-in-casework-(nswcf-foundational)){:target="_blank"}   
+-   [Professional Certificate in Group Work](/training-(1)/cet-programmes/professional-certificate-in-group-work){:target="_blank"}   
 
 For the full list of Cross Sector courses offered by SSI, follow this  [link](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=faf837bd-290c-e611-810d-000c29e3b091&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Cross+Sector&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   .  
   
