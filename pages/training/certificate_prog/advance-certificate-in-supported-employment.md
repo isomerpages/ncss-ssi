@@ -1,6 +1,6 @@
 ---
 title: Advanced Certificate in Supported Employment (ACSE)
-permalink: /training-(1)/cet-programmes/advanced-cert-in-ss
+permalink: /training-(1)/cet-programmes/advanced-cert-in-SE
 ---
 
 ## Advanced Certificate in Supported Employment
