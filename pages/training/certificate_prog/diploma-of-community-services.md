@@ -1,6 +1,6 @@
 ---
 title: Diploma Of Community Services
-permalink: /training-(1)/cet-programmes/diploma-of-community-services
+permalink: /training/cet-programmes/diploma-of-community-services/
 ---
 
 ## Diploma of Community Services
