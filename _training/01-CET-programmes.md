@@ -12,15 +12,15 @@ permalink: /training/cet-programmes/
 
 SSI offers a suite of Continuing Education and Training (CET) programmes which provide learners with certificate, diploma and degree based qualifications. Refer to the list below for more details.
 
--   [Advanced Certificate in Social Service](/training-(1)/cet-programmes/advanced-certificate-in-social-service){:target="_blank"}   
--   [Advanced Certificate in Supported Employment (ACSE)](/training-(1)/cet-programmes/advance-certificate-in-supported-employment){:target="_blank"}   
--   [Bachelor of Education (Special Education)](/training-(1)/cet-programmes/bachelor-of-education-(special-education)){:target="_blank"}   
--   [Certificate in Para-Counselling](/training-(1)/cet-programmes/certificate-in-para-counselling){:target="_blank"}   
--   [Certificate in Peer Support](/training-(1)/cet-programmes/certificate-in-peer-support){:target="_blank"}   
--   [Diploma of Community Services](/training-(1)/cet-programmes/diploma-of-community-services){:target="_blank"}   
+-   [Advanced Certificate in Social Service](/training/cet-programmes/advanced-certificate-in-social-service/){:target="_blank"}   
+-   [Advanced Certificate in Supported Employment (ACSE)](/training/cet-programmes/advance-certificate-in-supported-employment/){:target="_blank"}   
+-   [Bachelor of Education (Special Education)](/training/cet-programmes/bachelor-of-education-(special-education)/){:target="_blank"}   
+-   [Certificate in Para-Counselling](/training/cet-programmes/certificate-in-para-counselling/){:target="_blank"}   
+-   [Certificate in Peer Support](/training/cet-programmes/certificate-in-peer-support/){:target="_blank"}   
+-   [Diploma of Community Services](/training/cet-programmes/diploma-of-community-services/){:target="_blank"}   
 -   Higher Diploma in Social Service (HDSS) - Coming Soon!
--   [Professional Certificate in Casework (NSWCF Foundational)](/training-(1)/cet-programmes/professional-certificate-in-casework-(NSWCF-foundational)){:target="_blank"}   
--   [Professional Certificate in Group Work](/training-(1)/cet-programmes/professional-certificate-in-group-work){:target="_blank"}   
+-   [Professional Certificate in Casework (NSWCF Foundational)](/training/cet-programmes/professional-certificate-in-casework-(NSWCF-foundational)/){:target="_blank"}   
+-   [Professional Certificate in Group Work](/training/cet-programmes/professional-certificate-in-group-work/){:target="_blank"}   
 
 <sup>1</sup>This programme name may be subjected to further changes.
 
