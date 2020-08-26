@@ -18,9 +18,9 @@ permalink: /training/mental-health
 
 ### Certificate/ Diploma/ Degree Programmes:
 
- - [Certificate in Peer Support](https://www.ssi.sg/Training-(1)/Mental-Health/Peer-Support-Specialist-Programme/Certificate-in-Peer-Support-(1)){:target="_blank"}   <sup>2</sup>.
+ - [Certificate in Peer Support](/training-(1)/cet-programmes/certificate-in-peer-support){:target="_blank"}   <sup>2</sup>.
 
-<sup>2</sup>This is the second module in the  [Peer Support Specialist Programme](https://www.ssi.sg/Training-(1)/Mental-Health/Peer-Support-Specialist-Programme){:target="_blank"}   .
+<sup>2</sup>This is the second module in the  [Peer Support Specialist Programme](/training-(1)/cet-programmes/peer-support-specialist-programme){:target="_blank"}   .
 
 
 For the full list of Mental Health courses offered by SSI, follow this  [link](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=14a99fd7-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Mental+Health&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   .
