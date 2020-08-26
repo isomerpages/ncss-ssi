@@ -1,6 +1,6 @@
 ---
 title: Certificate in Peer Support
-permalink: /training/cet-programmes/certificate-in-peer-support
+permalink: /training/cet-programmes/certificate-in-peer-support/
 ---
 
 ## Certificate in Peer Support
