@@ -26,10 +26,10 @@ SSI offers a suite of Continuing Education and Training (CET) programmes which p
 
 For the full list of CET programmes offered by SSI, follow this  [link](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=5e1ea9bb-b828-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=CET+Programmes&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   .
 
-### ****News and Articles****
+### News and Articles
 
 Continue receiving news and articles on CET programmes through GatherHere. Subscribe to GatherHere by writing to:  <techservices1@gatherhere.sg>.
 
-### ****Subscribe to SSI’s CET Programmes Mailing List****
+### Subscribe to SSI’s CET Programmes Mailing List
 
 Subscribe to SSI’s CET Programmes Mailing List through this  [link](https://form.gov.sg/5f19b046fd23f90011ba7246){:target="_blank"}   .
