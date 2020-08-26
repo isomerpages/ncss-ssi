@@ -28,7 +28,7 @@ For the full list of CET programmes offered by SSI, follow this  [link](http://e
 
 ### ****News and Articles****
 
-Continue receiving news and articles on CET programmes through GatherHere. Subscribe to GatherHere by writing to:  techservices1@gatherhere.sg.
+Continue receiving news and articles on CET programmes through GatherHere. Subscribe to GatherHere by writing to:  <techservices1@gatherhere.sg>.
 
 ### ****Subscribe to SSI’s CET Programmes Mailing List****
 
