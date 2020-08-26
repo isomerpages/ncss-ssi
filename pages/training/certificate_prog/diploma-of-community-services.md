@@ -57,15 +57,15 @@ Successful applicants to the Diploma of Community Services may apply for the Ski
   
 **Module 1: Knowing Self - Becoming a Person-Centred, Responsive, Ethical, Reflective Practitioner  
   
-Module 2: Person-Centred Advocacy and Decision Making Support  
+**Module 2: Person-Centred Advocacy and Decision Making Support  
   
-Module 3: Promoting a Person-Centred Workplace  
+**Module 3: Promoting a Person-Centred Workplace  
   
-Module 4: Positive Behaviour Support and Supporting People with Complex Needs  
+**Module 4: Positive Behaviour Support and Supporting People with Complex Needs  
   
-Module 5: Society and Community  
+**Module 5: Society and Community  
   
-Module 6: Social Skills and Communication**  
+**Module 6: Social Skills and Communication**  
   
 **Upcoming intake:**  
 Opening Date for Registrations: 13 Aug 2019  
