@@ -22,9 +22,9 @@ The featured courses are:
 
 ### **Certificate/ Diploma/ Degree Programmes:**
 
--  [Advanced Certificate in Supported Employment (ACSE)](/training-(1)/cet-programmes/advance-certificate-in-supported-employment){:target="_blank"}   
--   [Bachelor of Education (Special Education)](/training-(1)/cet-programmes/bachelor-of-education-(special-education)){:target="_blank"}   
--   [Diploma of Community Services](/training-(1)/cet-programmes/diploma-of-community-services){:target="_blank"}   
+-  [Advanced Certificate in Supported Employment (ACSE)](/training/cet-programmes/advance-certificate-in-supported-employment/){:target="_blank"}   
+-   [Bachelor of Education (Special Education)](/training/cet-programmes/bachelor-of-education-(special-education)/){:target="_blank"}   
+-   [Diploma of Community Services](/training/cet-programmes/diploma-of-community-services/){:target="_blank"}   
 
 For the full list of Disability courses offered by SSI, follow this  [link](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=f4f837bd-290c-e611-810d-000c29e3b091&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Disability&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   .
 
