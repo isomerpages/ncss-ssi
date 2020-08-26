@@ -7,7 +7,8 @@ colors:
   primary-color: '#CA0538'
   # primary-color: '#4372d6'
   # primary-color: '#6031b6'
-  secondary-color: '#CA595D'
+  # secondary-color: '#CA595D'
+  secondary-color: '#164194'
   media-colors:
     - title: media-color-one
       color: '#49759a'
