@@ -19,7 +19,7 @@ Click [here](https://www.youtube.com/watch?v=osEh6RfEDNY){:target="_blank"} to s
 For professional interest groups that are seeking digital management platforms, GatherHere can complement your activities by helping you to record meeting minutes, organise both offline and online events, share materials and manage event registrations digitally. 
 
 ### Government Agencies   
-Government agencies can use GatherHere to conduct research, surveys and analyse data in order to gain sector insights. Through GatherHere, agencies can systematically conduct research queries, do sensitivity analysis before making programme decisions and stay connected to ground needs through the various community groups.
+Government agencies can use GatherHere to conduct research, surveys and analyse data in order to gain sector insights. Through GatherHere, agencies can systematically conduct research queries and sensitivity analysis before making programme decisions and stay connected to ground needs through the various community groups.
 
 ### Social Service Professionals   
 Social Service professionals can join the various community groups available in GatherHere to gain insights on the latest trends within the social service sector, join discussions on topics of interest and stay connected to other members of the Social Service Tribe, among other benefits.
@@ -29,7 +29,7 @@ If you are interested to join GatherHere, you can drop us an email at [techservi
 
 SSI also provides a suite of services to facilitate the onboarding process and manage your engagement digitally. The full list of services provided are as shown below.
 - Technical Support and Technology Management
-- Technology-enabled Moderation
+- Technology-Enabled Moderation
 - Space Set Up
 - Training and Consultancy
 - Content Services
