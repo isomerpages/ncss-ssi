@@ -20,7 +20,9 @@ third_nav_title: Funding Information
 
 
 |--|
-|Funding Scheme|||
+|Funding Scheme|
+|--|
+
 |--|
 |**Type of Courses** |**VCF Funding**  |**Application Procedures**|
 |--|--|--|
