@@ -39,7 +39,7 @@ Learners will have to complete an online course evaluation.
 **Fees:** Full fees of $4,922 (Inclusive of GST) and nett fees of $1,476.60 (Inclusive of GST, after SSG subsidy). A non-refundable application fee of SGD 53.50 (including GST) is applicable.  
   
 **Other subsidies available:**  
-Successful applicants to the ACSE may apply for the SkillsFuture Study Award1  for Social Service Sector. You may visit [www.skillsfuture.sg/studyawards/social-service](http://www.skillsfuture.sg/studyawards/social-service){:target="_blank"}    to find out more.  
+Successful applicants to the ACSE may apply for the SkillsFuture Study Award <sup>1</sup> for Social Service Sector. You may visit [www.skillsfuture.sg/studyawards/social-service](http://www.skillsfuture.sg/studyawards/social-service){:target="_blank"}    to find out more.  
   
 **Module 1: Employment & Job Development**  
   
@@ -75,7 +75,7 @@ Registration closing date: Monday, 20 July 2020
 
 ----------
 
-1 Subject to successful completion and achievement of a ‘Competent’ grade for all in-class assessments/assignments. Learners eligible for SkillsFuture Singapore (SSG) funding, must achieve at least 75% attendance per module, and be certified ‘Competent’ in all the assessment components. Individuals or Organisations will have to bear the full course fees in the event that learners fail to meet the attendance/assessment requirements and terms and conditions for SSG funding eligibility. Please refer to [www.skillsconnect.gov.sg](http://www.skillsconnect.gov.sg/){:target="_blank"}    for more information on SSG funding.
+<sup>1</sup> Subject to successful completion and achievement of a ‘Competent’ grade for all in-class assessments/assignments. Learners eligible for SkillsFuture Singapore (SSG) funding, must achieve at least 75% attendance per module, and be certified ‘Competent’ in all the assessment components. Individuals or Organisations will have to bear the full course fees in the event that learners fail to meet the attendance/assessment requirements and terms and conditions for SSG funding eligibility. Please refer to [www.skillsconnect.gov.sg](http://www.skillsconnect.gov.sg/){:target="_blank"}    for more information on SSG funding.
 
   
 Note:  
