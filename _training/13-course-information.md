@@ -18,7 +18,7 @@ As part of SSI’s Education Innovation initiative, we will leverage on technolo
 -   Learners will receive an e-certificate after attending their SSI courses. For details on how to download your e-certification follow this  [link](/images/faq/Download-eCertificate-V2-Guide.pdf){:target="_blank"}   
     
 
-### ourse Applications
+### Course Applications
 
 Individual course applications are for self paying individuals and employees who are funded by their organisations. For individual course applications use this  [link](https://e-services.ncss.gov.sg/Training/Trainee){:target="_blank"} to apply for your courses. Upon application, you will also be screened for suitability for SkillsFuture Singapore (SSG) funding although this is subjected to the terms and conditions of funding.  
   
