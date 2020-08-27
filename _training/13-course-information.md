@@ -3,8 +3,6 @@ title: Course Information
 permalink: /Training/course-information/
 ---
 
-
-
 ## Course Information
 
 ### Course Administration
