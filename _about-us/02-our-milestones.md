@@ -30,12 +30,12 @@ permalink: /About-Us/our-milestones/
 **2016**
 
 -   Developed the ‘ACE Capstone Leadership Programme for Non-Profits’ to develop talents by grooming strategic leaders for the non-profit sector.
--   Launched a Advanced Certificate in Supported Employment (ACSE) and Certificate in Peer Support.
+-   Launched the Advanced Certificate in Supported Employment (ACSE) and Certificate in Peer Support.
 -   Participated in the Mindfulness-Based Stress Reduction Research Project in collaboration with the Singapore Management University (SMU).
 
 **2015**
 
--   Signed a Memorandum of Understanding (MOU) with the Singapore Institute of Directors (SID) to strengthen the capability of SSOrgs with “Social Service Agencies (SSAs).”    . In partnership with SID, the Institute launched the NonProfit Directors Programme’ for board members. Developed quarterly ‘Board Members Network’ event and Governance 101.
+-   Signed a Memorandum of Understanding (MOU) with the Singapore Institute of Directors (SID) to strengthen the capability of Social Service Agencies (SSAs). In partnership with SID, the Institute launched the NonProfit Directors Programme’ for board members. Developed quarterly ‘Board Members Network’ event and Governance 101.
 -   Developed the Leadership Milestone programme (Lead Self, Lead People, Lead Managers) to groom a future-ready social service workforce.
 -   Jointly developed ‘The Starting Point: An Onboarding Programme for Social Workers’ with the Ministry of Social and Family Development (MSF) and Ministry of Health (MOH). It is based on the National Social Workers Competency Framework (NSWCF).
 -   Launched the Singapore Workforce Skills Qualifications Advanced Certificate and Diploma in Social Service.
