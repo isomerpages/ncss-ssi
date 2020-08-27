@@ -70,7 +70,7 @@ Friday (Timing TBC)
 
 ### Application Form
 
-Click here to access the application form for the both the  **‘**Preparatory Training for Potential Peer Support Specialist**’** and ‘Certificate in Peer Support.  
+Click [here](https://ncss-ssi-staging.netlify.app/images/faq/Application-Form_CPS-Run-6.pdf){:target="_blank"}    to access the application form for the both the  **‘**Preparatory Training for Potential Peer Support Specialist**’** and ‘Certificate in Peer Support.  
   
 _Note:_
 
