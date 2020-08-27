@@ -18,7 +18,8 @@ third_nav_title: Funding Information
   However, there is no VCF pre-approved training grant for customised training session(s) for your organisation. Eligible NPOs and Social Service Organisations can  [apply directly to VCF](https://www.ncss.gov.sg/Grants-Search/VCF-Professional-Capability-Grant-Local-Training){:target="_blank"}      for funding, and will be required to pay full course fees to SSI.   
 
 
-**Funding Scheme**
+|**Funding Scheme**|
+|--|
 
 |**Type of Courses** |**VCF Funding**  |**Application Procedures**|
 |--|--|--|
