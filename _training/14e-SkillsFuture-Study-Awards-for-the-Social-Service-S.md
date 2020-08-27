@@ -4,7 +4,7 @@ permalink: /training/funding-information/SkillsFuture-Study-Awards-for-the-Socia
 third_nav_title: Funding Information
 ---
 
-### Overview
+### **Overview**
 
 In keeping with the government’s aim to nurture lifelong learners, SSI aims to help our learners develop and deepen specialist skills or nurture other professional competencies that will enable them to increase their societal impact.  
   
