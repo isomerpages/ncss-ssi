@@ -20,10 +20,10 @@ third_nav_title: Funding Information
 
 
 |--|
-|Funding Scheme|
+|Funding Scheme|||
 |--|
-|Type of Courses |VCF Funding  |Application Procedures|
-|-|--|--|
+|**Type of Courses** |**VCF Funding**  |**Application Procedures**|
+|--|--|--|
 |SSI WSQ and non-WSQ certifiable courses.|Up to 60% of course fees capped at $600 at a cap of $192 per day.|Submit your VCF application online via the VWO Corner in compliance with the VCF Evaluation Panel dates and submission deadlines. Applications must be submitted at least one month before the course start date.|
 |--|--|--|
 |SSI governance and management courses.|Up to 60% of course fees capped at $700.|Submit your VCF application directly to SSI.|
