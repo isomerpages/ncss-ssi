@@ -65,7 +65,7 @@ Applicants will be required to submit their application online via SSG's Applica
   
 The application period is open every quarter. Refer to the table below for details on the application, processing and disbursement period.  
   
-| **Application period** | **Processing Period** | **Disbursement period** |	
+| **Application Period** | **Processing Period** | **Disbursement Period** |	
 |--|--|--|
 | Apr 2020 - Jun 2020 | Jul 2020 - Aug 2020 | Aug 2019 - Sep 2020|
 |--|--|--|
