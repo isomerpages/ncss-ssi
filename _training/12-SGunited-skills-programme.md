@@ -16,7 +16,8 @@ Over 40,000 jobs will be provided through this ‘Train-and-Place’ model and t
 
 If you are a Singaporean or a Singapore permanent resident who is a job seeker, we will equip you with the relevant skills to assume roles in the social service sector. Refer to the respective programmes for the entry requirement and the targeted job roles at the end of the programme.
 
-Each programme will take around six to seven months to complete, this includes a three months internship period in a social service agency. You will be paying a net fee of $500 for a six months programme (this will be pro-rated if the duration is longer) after government subsidies. You can use your SkillsFuture Credit to pay the net fee.
+Each programme will take around six to seven months to complete, this includes a three months internship period in a social service agency.  
+
 
 You will also be receiving $1,200 per month as a training allowance if you maintain a 75% attendance during the six to seven months that the course occurs. Information on placement opportunities can be found through the social service dedicated job portal at this [link](https://www.ncss.gov.sg/Social-Servoce-Tribe/Careers/Careers-Guide){:target="_blank"}   .
 
