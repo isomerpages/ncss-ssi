@@ -28,7 +28,7 @@ The featured courses are:
 
 For the full list of Disability courses offered by SSI, follow this  [link](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=f4f837bd-290c-e611-810d-000c29e3b091&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Disability&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   .
 
-### ****Featured Adult Educators****
+### **Featured Adult Educators**
 
 **Ms. June Tham-Toh Syn Yuen**  
 June was the Executive Director of Rainbow Centre before she retired in 2014. She holds a Master of Education, Diploma in Management Studies, Certification of Achievement in Outcome Management: Train-The-Trainer, Early Childhood Intervention, Treatment and Education of Autistic and Related Communication Handicapped Children (TEACCH) and Advanced Certification in Training and Assessment (ACTA). She was one of the two pioneer scholars from Singapore to have successfully completed the “Strategic Perspectives in Non-Profit Management” Programme in July 2008 at the Harvard Business School (HBS).  
