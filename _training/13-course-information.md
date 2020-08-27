@@ -1,6 +1,6 @@
 ---
 title: Course Information
-permalink: /Training-(1)/NexLeaders-Programme-(2)
+permalink: /Training/course-information/
 ---
 
 
