@@ -38,13 +38,13 @@ Upon completion of the course, graduates will be able to:
 
 ### Course Details
 
-**Programme Duration:** 2 years  
+**Programme Duration:** Two years  
 **Timings:**  6-7pm to 10pm (Weekdays) and 9am to 5pm (Saturday)  
 **Fees:** Full Fees: To be confirmed (exclusive of GST), payable directly to Flinders University.    
 **Estimated Nett Fees:**  To be confirmed (Inclusive of GST, after SSG subsidy). A non-refundable application fee of SGD 53.50 (including GST) is applicable.  
   
 **Other subsidies available:**  
-Successful applicants to the Diploma of Community Services may apply for the SkillsFuture Study Award1  for Social Service Sector. You may visit [www.skillsfuture.sg/studyawards/social-service](http://www.skillsfuture.sg/studyawards/social-service){:target="_blank"}    to find out more.  
+Successful applicants to the Diploma of Community Services may apply for the SkillsFuture Study Award <sup>1</sup> for Social Service Sector. You may visit [www.skillsfuture.sg/studyawards/social-service](http://www.skillsfuture.sg/studyawards/social-service){:target="_blank"}    to find out more.  
   
 **Upcoming intake:**  
 Registration Opening Date: To be confirmed  
