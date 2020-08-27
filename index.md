@@ -7,8 +7,8 @@ permalink: /
 notification: Temporary Closure of SSI Office from 2 June 2020. <a href="/updates/">Click here for more details.</a>
 sections:
     - hero:
-        title:
-        subtitle:
+        title: Social Service Institute
+        subtitle: Growing with People
         background: /images/homepage/Home_Banner.jpg
         button:
         url: /contact-us/
@@ -16,8 +16,8 @@ sections:
             - title: NexLeaders Programme
               description: An online leadership development programme for the social service sector
               url: /training/nexleaders/
-            - title: SGUS
-              description: SSI’s three programmes under SGUS links to job opportunities in the social service sector
+            - title: SG United Skills Programme
+              description: Through the SGUS programme, SSI will support Singaporeans and permanent residents whose livelihoods have been impacted by the COVID-19 pandemic
               url: /            
             - title: GatherHere
               description: GatherHere is the online community where Social Service Tribe Meets & Collaborates!
