@@ -21,7 +21,7 @@ As a social service professional, you must be able to:
 
 With the SkillsFuture Study Award, we empower you to do just that.
 
-### **Eligibility Criteria**
+### Eligibility Criteria
 
 To be eligible for the SkillsFuture Study Award, you must**:**
 
