@@ -51,4 +51,4 @@ He holds a Master of Arts degree in Applied Psychology from the Nanyang Technolo
 Continue receiving news and articles about developments in the Mental Health sub sector through GatherHere. Subscribe to GatherHere by writing to: <techservices1@gatherhere.sg>
 
 ### Subscribe to SSI’s Mental Health Mailing List
-Subscribe to SSI’s Mental Health Mailing List through this [link](https://form.gov.sg/5d89ece98749e40012e55dba){:target="_blank"}.
+Subscribe to SSI’s Mental Health Mailing List through this [link](https://form.gov.sg/#!/5f19b0a9adf7da001231b33b){:target="_blank"}.
