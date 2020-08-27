@@ -8,7 +8,7 @@ permalink: /About-Us/our-milestones/
 
 **2019**
 
-- Launch of the Skills Framework for Social Service during the SSI Graduation & Awards Ceremony 2019 to enable the social service sector and aspiring social service professionals to make informed decisions on career choices and skills upgrading
+- Launch of the Skills Framework for Social Service during the SSI Graduation & Awards Ceremony 2019 to enable the social service sector and aspiring social service professionals to make informed decisions on career choices and skills upgrading.
 - Launch of the Training Gap Analysis, a sector-wide study to help identify proficiency gaps in social service professionals. This will help SSI revise and revamp our coursework in alignment with the Skills Framework for Social Service.
 -   The Training Network Model was piloted to mark a significant milestone in SSI’s collaboration with our partners in the social service ecosystem in order to create greater impact in the areas of training and development.
 -   The SSI Expert Series was conducted through a collaboration between SSI and various stakeholders in order to provide quality conferences and master classes.
