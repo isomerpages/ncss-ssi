@@ -35,7 +35,7 @@ This module focuses on providing learners with the necessary facilitation skills
 -   Apply techniques to improve group dynamics.
 -   Propose a group work programme evaluation plan.
 
-_Note:_  
+Note: 
 This course qualifies for CPE credits, with the renewal of accreditation at one credit per one training hour.  
 For enquiries, please contact the SASW Accreditation Secretariat at Tel: 6778 7922 or email: <accreditation@sasw.org.sg> 
   
