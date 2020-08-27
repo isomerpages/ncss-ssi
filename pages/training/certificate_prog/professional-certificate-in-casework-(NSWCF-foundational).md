@@ -47,8 +47,8 @@ This module provides social workers with the knowledge and skills to analyse, mo
 -   Apply steps to close cases upon achieving the agreed goals.
 -   Prepare social reports in accordance to organisational practices.
 
-_Note:  
-This course qualifies for CPE credits with the renewal of accreditation at 1 credit per 1 training hour.  
-For enquiries, please contact the SASW Accreditation Secretariat at Tel: 6778 7922 or <accreditation@sasw.org.sg>  
+Note:  
+This course qualifies for CPE credits with the renewal of accreditation at one credit per one training hour.  
+For enquiries, please contact the SASW Accreditation Secretariat at Tel: 6778 7922 or email: <accreditation@sasw.org.sg>  
   
 To find out about upcoming intakes, please  [click here](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Professional+Certificate+in+Casework){:target="_blank"}   .
