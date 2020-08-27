@@ -29,22 +29,8 @@ third_nav_title: Funding Information
 
 In the event that you fail to meet the attendance/assessment requirements and terms and conditions for VCF funding eligibility, you will be liable for the full course fees.   
 
-
-
-
 |For Example for a two-day “Building Emotional Resilience in Caregiving” course fee that equates to $650/pax (before funding)|
 |--|
-|Calculation:
-
-60% of course fee ($650) = $390
-
-$192 per day x 2 days = $384
-
-VCF funds which amount is lower, which in this case is $384, and which is below the cap of $600.
-
-There the course fee after funding = $600 - $384 = $266 |
-
-
-
+|Calculation: <br> 60% of course fee ($650) = $390 <br> $192 per day x 2 days = $384 <br> VCF funds which amount is lower, which in this case is $384, and which is below the cap of $600.<br> There the course fee after funding = $600 - $384 = $266 |
 
 For more information on the VWOs-Charities Capability Fund (VCF) Training Grant,  [click here.](https://www.ncss.gov.sg/Grants-Search/VCF-Professional-Capability-Grant-Local-Training){:target="_blank"}   
