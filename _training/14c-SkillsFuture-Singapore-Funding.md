@@ -22,8 +22,6 @@ If you are a volunteer, you can qualify for the SSG Funding Scheme for Training 
 
 |Party| Eligibity Criteria |
 
-|--|--|
-
 | Volunteers |  Volunteers must: <br> 1. Be a Singapore citizen/or, <br> 2. Satisfy the minimum legal age for working in Singapore as stated by the Employment Act and in accordance with the Employment Regulations enforced by MOM. <br> 3.  Be nominated by the Community and Social Services (CSS) Organisation they volunteer in. <br> 4.  Have been volunteering with an eligible CSS organisation for at least three months on a regular <sup>1</sup> basis or, 5. Have been accepted as a Board member of a CSS organisation with a commitment to serve at least one full term. |
 
 |Community and Social Service Organisations|Organisations must: <br> 1. Be a National Council of Social Service (NCSS) member organisation, registered charity, Institute of Public Character (IPC), MSF funded agency or provide any of the services stated below. <br> - Children, Youth and Family Services. <br> - Rehabilitation services. <br> -  Senior services. <br> - Disability services. <br> - Community mental health services. <br> 2.  Have participated in SkillsFuture Singapore’s (SSG) tracking and outcomes surveys; and, <br> 3.  Attain at least one CSS WSQ SOA.
