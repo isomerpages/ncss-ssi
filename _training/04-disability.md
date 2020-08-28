@@ -22,13 +22,13 @@ The featured courses are:
 
 ### **Certificate/ Diploma/ Degree Programmes:**
 
--  [Advanced Certificate in Supported Employment (ACSE)](https://www.ssi.sg/Training-%281%29/Disability/1-Advanced-Certificate-in-Supported-Employment-%28A){:target="_blank"}   
--   [Bachelor of Education (Special Education)](https://www.ssi.sg/Training-(1)/Disability/Bachelor-of-Education-(Special-Education)){:target="_blank"}   
--   [Diploma of Community Services](https://www.ssi.sg/Training-(1)/Disability/Diploma-of-Community-Services){:target="_blank"}   
+-  [Advanced Certificate in Supported Employment (ACSE)](/training/cet-programmes/advance-certificate-in-supported-employment/){:target="_blank"}   
+-   [Bachelor of Education (Special Education)](/training/cet-programmes/bachelor-of-education-(special-education)/){:target="_blank"}   
+-   [Diploma of Community Services](/training/cet-programmes/diploma-of-community-services/){:target="_blank"}   
 
 For the full list of Disability courses offered by SSI, follow this  [link](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=f4f837bd-290c-e611-810d-000c29e3b091&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Disability&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   .
 
-### ****Featured Adult Educators****
+### **Featured Adult Educators**
 
 **Ms. June Tham-Toh Syn Yuen**  
 June was the Executive Director of Rainbow Centre before she retired in 2014. She holds a Master of Education, Diploma in Management Studies, Certification of Achievement in Outcome Management: Train-The-Trainer, Early Childhood Intervention, Treatment and Education of Autistic and Related Communication Handicapped Children (TEACCH) and Advanced Certification in Training and Assessment (ACTA). She was one of the two pioneer scholars from Singapore to have successfully completed the “Strategic Perspectives in Non-Profit Management” Programme in July 2008 at the Harvard Business School (HBS).  
@@ -45,4 +45,4 @@ Continue receiving news and articles about developments in the Disability sub-se
 
 ### **Subscribe to SSI’s Disability Mailing List**
 
-Subscribe to SSI’s Disability Courses Mailing List through this  [link](https://form.gov.sg/5d89ec910c67f000120d05a5)[.](https://form.gov.sg/5f19b0b7d034a60011cd0c64){:target="_blank"}   
+Subscribe to SSI’s Disability Courses Mailing List through this  [link](https://form.gov.sg/#!/5f19b0b7d034a60011cd0c64){:target="_blank"}   

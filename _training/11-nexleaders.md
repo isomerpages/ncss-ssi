@@ -1,6 +1,6 @@
 ---
 title: NEXLeaders Programme
-permalink: /training/nexleaders
+permalink: /training/nexleaders/
 ---
 ![Nexleaders_header](/images/training/nexleaders_Ssi_header.png)
 

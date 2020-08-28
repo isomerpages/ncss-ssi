@@ -10,7 +10,7 @@ SSI offers a host of training grants to support your skills development and prof
   
 SSAs can nominate their employees for the Leadership Development Programme (LDP), Professional Development and Management Programme (PDMP) and Sabbatical Leave Scheme (SLS). Click  [here](https://www.ncss.gov.sg/Social-Service-Careers/Professional-Development/About-Professional-Development){:target="_blank"}  for more information on the available funding support.  
   
-___*Terms and conditions apply___.  
+___<sup>1</sup>Terms and conditions apply___.  
   
   
   

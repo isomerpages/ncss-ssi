@@ -1,6 +1,6 @@
 ---
 title: Volunteer Development and Management
-permalink: /training/Volunteer-Development-and-Management
+permalink: /training/Volunteer-Development-and-Management/
 ---
 ![volunteer development and management](/images/training/Volunteer_SSI_header-banner-757-x-239px8.jpg)
 
@@ -19,9 +19,8 @@ The featured courses are:
 -   [Volunteering in Singapore’s Social Service Sector - What Does It Take?](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=volunteering+in+singapore&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
 -   [Volunteer Management System Engaging Volunteers Systematically](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Volunteer+Management+System+-+Engaging+Volunteers+Systematically){:target="_blank"}   
 -   [Working Effectively with Youths: Strategies and Techniques (For Volunteers)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Working+Effectively+with+Youths%3A+Strategies+and+techniques&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
-
-Our Volunteer Development and Management courses are categorised into Volunteer Management courses and Volunteer Development courses.  [Click here](http://www.ncss.gov.sg/GatewayPages/Donate-Volunteer/Volunteer/Training-for-Volunteers-Managers){:target="_blank"}     to access the full list of Volunteer Management courses and [click here](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=fef837bd-290c-e611-810d-000c29e3b091&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Volunteer+Development&Filter.CourseSubCategory.ToRemove=){:target="_blank"}     to access the full list of Volunteer Development courses.
-
+  
+For the full list of volunteer development and management courses click [here](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=fef837bd-290c-e611-810d-000c29e3b091&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Volunteer+Development&Filter.CourseSubCategory.ToRemove=){:target="_blank"}.  
 
 ### Key Adult Educators
 **Ms Alice Lee-Tok**   

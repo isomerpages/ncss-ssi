@@ -7,21 +7,18 @@ permalink: /
 notification: Temporary Closure of SSI Office from 2 June 2020. <a href="/updates/">Click here for more details.</a>
 sections:
     - hero:
-        title:
-        subtitle:
+        title: Social Service Institute
+        subtitle: Growing with People
         background: /images/homepage/Home_Banner.jpg
-        button: Contact Us
+        button:
         url: /contact-us/
         key_highlights:
-            - title: Training directory
-              description: Start planning for your training needs today
-              url: /images/homepage/SSI-Training-Directory-FY20-21.pdf
             - title: NexLeaders Programme
               description: An online leadership development programme for the social service sector
               url: /training/nexleaders/
-            - title: SGUS
-              description: SSI’s three programmes under SGUS links to job opportunities in the social service sector
-              url: /            
+            - title: SG United Skills Programme
+              description: Through the SGUS programme, SSI will support Singaporeans and permanent residents whose livelihoods have been impacted by the COVID-19 pandemic
+              url: /training/sgus/         
             - title: GatherHere
               description: GatherHere is the online community where Social Service Tribe Meets & Collaborates!
               url: /resources/gatherhere/         
@@ -38,7 +35,7 @@ sections:
     - infopic:
         title: Our Partners
         subtitle:
-        description: HSSI is constantly looking for partnerships with local or international SSAs, NPOs, IHLs and private training organisations to co-develop the capabilities of Singapore’s social service sector.
+        description: SSI is constantly looking for partnerships with local or international SSAs, NPOs, IHLs and private training organisations to co-develop the capabilities of Singapore’s social service sector.
         button: Learn More
         url: /about-us/our-partners/
         image: /images/homepage/our-partners.jpg
