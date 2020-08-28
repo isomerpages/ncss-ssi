@@ -60,7 +60,7 @@ Intake One: 13 Oct 2020 - 19 Nov 2021
 
 ### Application Guidelines
 
-Applicants can register for the programme through the [e-services](https://e-services.ncss.gov.sg/Training/Course/DetailProgramme/059CDE74-9ED8-EA11-815C-000C296EE030){:target="_blank"}    page. Please refer to this  [application guide](/images/faq/ACSS-Application-Guide.pdf){:target="_blank"}     for more information on the application process. Applicants may also be called to attend an online interview with the selection panel on 14 Sep (PM) or 15 Sep (PM). Applicants will receive an email from SSI informing them about the assigned interview date and time and are required to make themselves avaiable for the interview accordingly. Requests for alternative arrangements will not be considered.
+Applicants can register for the programme through the [e-services](https://e-services.ncss.gov.sg/Training/Course/DetailProgramme/059CDE74-9ED8-EA11-815C-000C296EE030){:target="_blank"}    page. Please refer to this  [application guide](/images/faq/Application%20Guide.pdf){:target="_blank"}     for more information on the application process. Applicants may also be called to attend an online interview with the selection panel on 14 Sep (PM) or 15 Sep (PM). Applicants will receive an email from SSI informing them about the assigned interview date and time and are required to make themselves avaiable for the interview accordingly. Requests for alternative arrangements will not be considered.
 
 ### FAQs
 
