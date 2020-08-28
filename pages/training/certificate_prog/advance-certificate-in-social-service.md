@@ -39,7 +39,7 @@ Learners will be assessed through a written assessment, written assignment, role
 
 Upon successful completion of all five WSQ modules, learners will be awarded with an Individual Statement of Attainment (SOAs) for the five modules.  
   
-Upon completion of all ten modules, learners will be awarded a SSG qualification.  
+Upon completion of all ten modules, learners will be awarded a full qualification.  
   
 With the qualifications attained, learners can apply for jobs as a Social Service Assistant or as senior house parents, programme coordinators, senior home helpers and home care workers. Click  [here](http://www.ncss.gov.sg/Social-Service-Tribe/CareersDetail/Social-Work){:target="_blank"}     to find out more.
 
