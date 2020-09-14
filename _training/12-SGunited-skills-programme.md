@@ -19,7 +19,7 @@ If you are a Singaporean or a Singapore permanent resident who is a job seeker, 
 Each programme will take around six to seven months to complete, this includes a three months internship period in a social service agency.  
 
 
-You will also be receiving $1,200 per month as a training allowance if you maintain a 75% attendance during the six to seven months that the course occurs. Information on placement opportunities can be found through the social service dedicated job portal at this [link](https://www.ncss.gov.sg/Social-Servoce-Tribe/Careers/Careers-Guide){:target="_blank"}   .
+You will also be receiving $1,200 per month as a training allowance if you maintain a 75% attendance during the six to seven months that the course occurs. Information on placement opportunities can be found through the social service dedicated job portal at this [link](https://www.ncss.gov.sg/Social-Service-Tribe/Careers/Careers-Guide){:target="_blank"}   .
 
 ### Programmes
 

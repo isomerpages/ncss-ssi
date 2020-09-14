@@ -13,7 +13,7 @@ SSI is a CET Centre that offers Workforce Skills Qualifications (WSQ) and non-WS
 
 ### SkillsFuture Course Fee Funding
 
-For more information on SkillsFuture Singapore (SSG) Course Fee Funding, click [here](http://www.wda.gov.sg/content/wdawebsite/L101-ForIndividuals/L702-WorkerBasedFund.html){:target="_blank"}   .
+For more information on SkillsFuture Singapore (SSG) Course Fee Funding, click [here](https://www.ssg.gov.sg/programmes-and-initiatives/training-grants/self-sponsored-training-for-individuals.html?_ga=2.154182520.1749146116.1599791020-1989143907.1599791020){:target="_blank"}   .
 
 ### For Volunteers
 
@@ -35,11 +35,9 @@ Employers sponsoring employees who are Singapore Citizens or Permanent Residents
   
 For more information on Absentee Payroll, please click [here](https://www.skillsconnect.gov.sg/sop/portal/e-Services/For%20Employers/AbsenteePayroll.jsp){:target="_blank"}   .
 
-### Workfare Training Support (WTS)
+### Workfare Skills Support (WSS)
 
-For more information on the Workfare Training Support (WTS) for individuals, click [here.](http://www.wsg.gov.sg/programmes-and-initiatives/workfare-training-support-individuals.html){:target="_blank"}     
-  
-For more information on Workfare Training Support (WTS) for employer-sponsored trainees, click [here.](http://www.wsg.gov.sg/programmes-and-initiatives/workfare-training-support-employers.html?_ga=2.80360663.1377189313.1515744751-1016142310.1503562690){:target="_blank"}   
+For more information on the WSS for individuals, click [here.](https://www.wsg.gov.sg/programmes-and-initiatives/workfare-skills-support-scheme-individuals.html){:target="_blank"}     
 
 ### Enhanced Training Support for SMEs (ETS)
 
