@@ -41,7 +41,7 @@ Trevor is the former Director of the Centre for Disability Studies (CDS). He hel
 
 ### **News and Articles**
 
-Continue receiving news and articles about developments in the Disability sub-sector through GatherHere. Subscribe to GatherHere by writing to:  <techservices1@gatherhere.sg>.
+Continue receiving news and articles about developments in the Disability sub-sector through GatherHere. If you are interested to join GatherHere, you can drop us an email by [clicking here](mailto:techservices1@gatherhere.sg).
 
 ### **Subscribe to SSI’s Disability Mailing List**
 
