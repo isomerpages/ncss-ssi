@@ -35,7 +35,7 @@ Lit Soon’s career in the healthcare, social service and eldercare sector spans
 He holds a Master of Arts degree in Applied Psychology from the Nanyang Technological University (NTU), a Bachelor of Arts in Psychology & Social Work from the National University of Singapore (NUS), a Post-Graduate Diploma in Art Psychotherapy from Goldsmiths, University of London, an Advanced Diploma in Fine Arts & Design from the Nanyang Academy of Fine Arts (NAFA) and a Certificate in General Nursing from the School of Nursing, Singapore.
 
 ### News and Articles
-Continue receiving news and articles about developments in the Eldercare sub-sector through GatherHere. Subscribe to GatherHere by writing to: <techservices1@gatherhere.sg>.
+Continue receiving news and articles about developments in the Eldercare sub-sector through GatherHere. If you are interested to join GatherHere, you can drop us an email by [clicking here](mailto:techservices1@gatherhere.sg).
 
 ### Subscribe to Our Eldercare Mailing List   
 Subscribe to SSI’s Eldercare Mailing List through this [link](https://form.gov.sg/#!/5f19b09dd034a60011cd0c5a){:target="_blank"}.   
