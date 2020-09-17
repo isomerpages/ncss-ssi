@@ -69,7 +69,7 @@ healthcare and social service setting. He obtained his master’s and doctorate 
 
 ### **News and Articles**
 
-Continue receiving Cross Sector news and articles through GatherHere. Subscribe to GatherHere by writing to:  <techservices1@gatherhere.sg>.
+Continue receiving Cross Sector news and articles through GatherHere. If you are interested to join GatherHere, you can drop us an email by [clicking here](mailto:techservices1@gatherhere.sg).
 
 ### **Subscribe to SSI’s Cross Sector Mailing List**
 
