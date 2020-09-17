@@ -19,7 +19,7 @@ The featured courses under the Agency for Integrated Care (AIC) can be found in 
 
 ### News and Articles on Caregiving   
 
-Continue receiving news and articles about developments in Caregiving through GatherHere. Subscribe to GatherHere by writing to: <techservices1@gatherhere.sg>.
+Continue receiving news and articles about developments in Caregiving through GatherHere. If you are interested to join GatherHere, you can drop us an email by [clicking here](mailto:techservices1@gatherhere.sg).
 
 ### Subscribe to Our Caregiving Mailing List   
 
