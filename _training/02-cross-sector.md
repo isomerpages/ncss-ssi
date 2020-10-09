@@ -7,9 +7,9 @@ permalink: /training/cross-sector
 
 ## Cross Sector
 
-These courses provide a deeper understanding about each sub-sector, their unique social needs and helps learners to critically discern and analyse their own assumptions.  
+These courses provide a deeper understanding about each sub-sector, their unique social needs and help learners to critically discern and analyse their own assumptions.  
   
-Cross Sector courses also covers a range of skills such as counselling, motivational interviewing and behaviour therapy which social service professionals can apply while working with different client groups such as children, youth, adults and seniors.  
+Cross Sector courses also cover a range of skills such as counselling, motivational interviewing and behaviour therapy which social service professionals can apply while working with different client groups such as children, youth, adults and seniors.  
   
 Some of the featured courses under this category are:
 
@@ -23,7 +23,7 @@ Some of the featured courses under this category are:
 -   [Fundamentals in Developing Community Work Programme](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Fundamentals+in+Developing+Community+Work+Programme "Click to find out more..."){:target="_blank"}    [(NSFWCF Foundational)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Fundamentals+in+Developing+Community+Work+Programme "Click to find out more..."){:target="_blank"}   
 -   [Motivational Interviewing: An Introduction for Social Service Practitioners](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Motivational+Interviewing%3A+An+Introduction+for+Social+Service+Practitioners "Click to find out more..."){:target="_blank"}   
 -   [Overcoming Compassion Fatigue and Burnout](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Overcoming+Compassion+Fatigue+and+Burnout&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=14a99fd7-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Mental+Health&Filter.CourseSubCategory.ToRemove=False){:target="_blank"}   
--   [Singapore's Social Compact](https://learningcloud.sg/pages/coursedescription.jsf?courseId=956318&catalogId=1700 "Click to find out more...") [(e-Learning)](https://learningcloud.sg/pages/coursedescription.jsf?courseId=956318&catalogId=1700 "Click to find out more..."){:target="_blank"}   
+-   [Singapore's Social Compact](https://learningcloud.sg/pages/coursedescription.jsf?courseId=1233736&catalogId=1700&templateId=-1 "Click to find out more..."){:target="_blank"}   
 -   [Solution Focused Brief Therapy: Introduction](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=solution+Focused+brief+therapy%3A+introduction&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
 -   [Understanding the Social Service Sector](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Understanding+the+Social+Service+Sector&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
 
