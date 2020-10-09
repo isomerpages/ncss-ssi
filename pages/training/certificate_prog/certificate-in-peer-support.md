@@ -50,7 +50,7 @@ Learners will be assessed through a mid-term written assessment, a practical ass
 ### Course Schedule
 
 Classroom Training:  
-15 - 26 Mar 2020 (10 days)  
+15 - 26 Mar 2021 (10 days)  
 Monday – Friday, 9.30am – 6.00pm  
   
 Practicum Training:  
