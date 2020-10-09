@@ -11,13 +11,17 @@ This is the second module of the ‘Peer Support Specialist Programme’. It equ
 
 This module comprises of 10 days of classroom training and 100 hours of supervised practicum in a social service or healthcare agency. Learners who fulfil all the requirements for this module and are assessed to be competent will receive a Certificate of Achievement in Peer Support.
 
-### Pre-requisites
-
-Learners have to complete the ‘Preparatory Training for Potential Peer Support Specialist’ in order to qualify for this module.
+It is preferred that the learner has completed the module, ‘Preparatory Training for Potential Peer Support Specialist,’ by SSI which is the first module in the Peer Support Specialist Programme.
 
 ### Target Audience
 
-The target audience for the ‘Certificate in Peer Support’ is the same as the  **‘**Preparatory Training for Potential Peer Support Specialist.**’**
+The target audience for this module should be: 
+-  Keen to build on their competencies in order to perform the role of a Peer Support Specialist.
+-  At least 21 years old.
+-  A Singapore Citizen or Singapore Permanent Resident.
+-  Have a diagnosed mental health condition that has stabilised.
+-  Willing to share their own lived experiences to support others in their recovery.
+-  Self-identifying as a present or former primary consumer of mental health services.
 
 ### Learning Outcomes
 
@@ -53,7 +57,7 @@ Classroom Training:
 15 - 26 Mar 2021 (10 days)  
 Monday – Friday, 9.30am – 6.00pm  
   
-Practicum Training:  
+Practicum Workshop:  
 29 Mar 2021 (1 day)  
 Monday, 9.00am – 6.00pm  
   
