@@ -5,9 +5,9 @@ permalink: /training/Volunteer-Development-and-Management/
 ![volunteer development and management](/images/training/Volunteer_SSI_header-banner-757-x-239px8.jpg)
 
 The featured courses are:   
--   [Ageing Process](https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=900993&catalogId=1700&templateId=-1){:target="_blank"}   
+-   [Ageing Process](https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=900993&catalogId=1700&templateId=-1){:target="_blank"} 
+-   [Befriending Seniors](https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=918685&catalogId=1700){:target="_blank"}
 -   [Befriending Skills and Practice](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Befriending+Skills+and+Practice) [(For Volunteers)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Befriending+Skills+and+Practice){:target="_blank"}   
--   [Befriending Seniors](https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=918685&catalogId=1700){:target="_blank"}   
 -   [Design and Develop an Effective Volunteer Work Programme](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?{:target="_blank"}   Filter.Keyword=Design+and+Develop+an+Effective+Volunteer+Work+Programme&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
 -   [Introduction to Youth Mentoring (For Volunteers)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=introduction+to+youth+mentoring&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
 -   [Overview to Disabilities](https://learningcloud.sg/pages/coursedescription.jsf?courseId=602626&catalogId=1700){:target="_blank"}   
@@ -15,10 +15,9 @@ The featured courses are:
 -   [Understanding Persons with Developmental Disabilities](https://learningcloud.sg/pages/coursedescription.jsf?courseId=607793&catalogId=1700){:target="_blank"}   
 -   [Understanding Persons with Intellectual Disabilities](https://learningcloud.sg/pages/coursedescription.jsf?courseId=751912&catalogId=1700){:target="_blank"}   
 -   [Understanding Persons with Physical Disabilities](https://learningcloud.sg/pages/coursedescription.jsf?courseId=609000&catalogId=1700){:target="_blank"}   
--   [Understanding Persons with Sensory Disabilities](https://learningcloud.sg/pages/coursedescription.jsf?courseId=609443&catalogId=1700){:target="_blank"}   
--   [Volunteering in Singapore’s Social Service Sector - What Does It Take?](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=volunteering+in+singapore&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
--   [Volunteer Management System Engaging Volunteers Systematically](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Volunteer+Management+System+-+Engaging+Volunteers+Systematically){:target="_blank"}   
--   [Working Effectively with Youths: Strategies and Techniques (For Volunteers)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Working+Effectively+with+Youths%3A+Strategies+and+techniques&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
+-   [Understanding Persons with Sensory Disabilities](https://learningcloud.sg/pages/coursedescription.jsf?courseId=609443&catalogId=1700){:target="_blank"}      
+-   [Working Effectively with Youths: Strategies and Techniques (For Volunteers)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Working+Effectively+with+Youths%3A+Strategies+and+techniques&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"} 
+-   [Volunteer Management System Engaging Volunteers Systematically](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Volunteer+Management+System+-+Engaging+Volunteers+Systematically){:target="_blank"} 
   
 For the full list of volunteer development and management courses click [here](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=fef837bd-290c-e611-810d-000c29e3b091&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Volunteer+Development&Filter.CourseSubCategory.ToRemove=){:target="_blank"}.  
 
