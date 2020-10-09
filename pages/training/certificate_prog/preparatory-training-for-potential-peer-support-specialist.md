@@ -6,11 +6,7 @@ permalink: /training/cet-programmes/preparatory-training-for-potential-peer-supp
 
 ### **Overview**
 
-This is the first module of the ‘Peer Support Specialist Programme’. It provides learners with an awareness and introduction to the role of a Peer Support Specialist, and the significance of sharing their lived experiences in order to help others in their recovery journeys. The module will be conducted over two days in a classroom.
-
-### **Pre-requisites**
-
-There are no pre-requisites for this module.
+This is the first module of the ‘Peer Support Specialist Programme’. It provides learners with an awareness and introduction to the role of a Peer Support Specialist, and the significance of sharing their lived experiences in order to help others in their recovery journeys. The module will be conducted over two days in a classroom. 
 
 ### **Target Audience**
 
@@ -18,9 +14,9 @@ Learners who wish to enrol in this module should:
 
 -   Be at least 21 years old.
 -   Be keen to build on their competencies in order to perform the role of a Peer Support Specialist.
--   Have a diagnosed mental health condition which is now stabilised.
--   Be willing to share their own lived experiences in order to support the recovery journeys of their peers.
--   Be willing to self-identify as a present, or former primary user of mental health services.
+-   Have a diagnosed mental health condition which has stabilised.
+-   Be willing to share their own lived experiences in order to support others in their recovery.
+-   Be a Singapore Citizen or Singapore Permanent Resident.
 
 The skills and knowledge that learners are required to possess prior to applying for this course, are as follows:
 
@@ -46,7 +42,7 @@ Upon completion of this module, learners are expected to:
 
 ### **Assessment Requirements**
 
-At the end of the module, participants are required to produce a Resilient Learning Plan as a non-graded assignment. However, feedback will be provided by the module trainer/Adult Educator for the submitted Resilient Learning Plan.
+At the end of the module, participants are required to produce a Resilient Learning Plan as a non-graded assignment. The module trainer/Adult Educator will provide feedback for the submitted Resilient Learning Plan.
 
 ### **Course Schedule**
 
@@ -62,5 +58,6 @@ _Note:_
 
 1.  _Completion of this module does not guarantee that learners will secure a job._
 2.  _Registration for the module does not guarantee enrolment in the module. Applicants who have been shortlisted for an interview will receive a notification via email._
-3.  _Endorsement from an employer or agency does not guarantee enrolment into the module. Applicants that have been endorsed will still have to pass the interview._
-4.  _The module is fully sponsored for Singaporeans and permanent residents if they fufill a 100% attendance requirement. Learners who do not meet the 100% attendance requirement would need to provide a valid reason with supporting documents (e.g. a medical certificate). In such events, learners should at least meet a 75% attendance requirement._
+3.  _Endorsement from an employer or agency does not guarantee enrolment into the module. 
+4.  _The module is fully sponsored for Singaporeans and permanent residents if they fulfill a 100% attendance requirement and complete all assessments. Learners who do not meet the 100% attendance requirement would need to provide a valid reason with supporting documents (e.g. a medical certificate). In such events, learners should at least meet a 75% attendance requirement._
+5. For consistency of terminology, the term “Peer Support Specialist” refers to persons with mental health conditions who have been trained and certified to work in multi-disciplinary teams. They are able to leverage on their lived experiences to provide formalised and structured support to others on their recovery journeys. 
