@@ -28,7 +28,7 @@ Otherwise, for Management and Organisational Development courses, you may refer 
 
 ### **News and Articles on Board Development**
 
-Continue receiving news and articles about developments in Non-Profit Board Development through GatherHere. Subscribe to GatherHere by writing to:  <techservices1@gatherhere.sg>.
+Continue receiving news and articles about developments in Non-Profit Board Development through GatherHere. If you are interested to join GatherHere, you can drop us an email by [clicking here](mailto:techservices1@gatherhere.sg).
 
 ### **Subscribe to Our Board Development Mailing List**
 

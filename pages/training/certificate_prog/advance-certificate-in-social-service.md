@@ -25,7 +25,7 @@ Applicants should also possess at least one of the following criteria:
 -   At least 2 years of working experience (for applicants with a minimum of 3 GCE 'O' level credits).
 -   At least 1.5 years of working experience (for applicants with a NITEC in Community Care and Social Services).
 
-Learners are required to complete the e-Learning course [Singapore’s Social Compact](https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=956318&catalogId=1700){:target="_blank"}    within three months of the programme commencement and submit the completion certificate to SSI. This is a pre-requisite for successful completion of the programme. "Singapore's Social Compact" is a free e-Learning course and provides learners with an overview of the development of Singapore's social services through the years and the principles behind the provision of social services. The course covers six areas of social service provision and the challenges ahead.
+Learners are required to complete the e-Learning course [Singapore’s Social Compact](https://learningcloud.sg/pages/coursedescription.jsf?courseId=1233736&catalogId=1700&templateId=-1){:target="_blank"} within three months of the programme commencement and submit the completion certificate to SSI. This is a pre-requisite for successful completion of the programme. "Singapore's Social Compact" is a free e-Learning course and provides learners with an overview of the development of Singapore's social services through the years and the principles behind the provision of social services. The course covers six areas of social service provision and the challenges ahead.
 
 ### Target Audience
 
