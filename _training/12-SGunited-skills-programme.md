@@ -23,19 +23,22 @@ You will also be receiving $1,200 per month as a training allowance if you maint
 ### Programmes
 
 **1. Social Service Accelerator Programme**
-Start Date: Jan 21. 
-Programme Duration: Six months. 
-Fees: $15,100 (excluding GST).
+
+<br> Start Date: Jan 21. <br/> 
+<br> Programme Duration: Six months.<br/> 
+<br> Fees: $15,100 (excluding GST). <br/> 
 
 **2. Volunteer Manager Programme**
-Start Date: Dec 20. 
-Programme Duration: Six months. 
-Fees: $15,150 (excluding GST).
+
+<br> Start Date: Dec 20. <br/> 
+<br> Programme Duration: Six months. <br/> 
+<br> Fees: $15,150 (excluding GST). <br/> 
 
 **3. Social Service Assistant Programme**
-Start Date: Jan 21. 
-Programme Duration: Eight months. 
-Fees: $14,250 (excluding GST).
+
+<br> Start Date: Jan 21.<br/>
+<br> Programme Duration: Eight months.<br/>
+<br> Fees: $14,250 (excluding GST).<br/>
 
 ### Target Audience 
 
