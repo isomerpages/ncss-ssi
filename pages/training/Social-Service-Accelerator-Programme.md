@@ -18,7 +18,7 @@ permalink: pages/training/Social-Service-Accelerator-Programme
 
 **Modules**
 
-Sector Specific Skills 
+1. Sector Specific Skills 
 
 -   Design and develop effective volunteer programmes
 -   Interpret the Service Types & Functions of Key Players in Social Service
@@ -27,7 +27,7 @@ Sector Specific Skills
 
 Functional Skills
 
-Marketing & Fundraising
+2. Marketing & Fundraising
 -   [Branding Non-Profit: A Introduction](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=branding+non-profit&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
 -   [Donor Outreach through Social Media](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=donor+outreach&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
 -   [Making $ense I: An introduction to Fund Raising](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Making+%24ense+I%3A+An+introduction+to+Fund+Raising&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
