@@ -24,9 +24,9 @@ Information on placement opportunities can be found through the social service d
 
 ### Programmes
 
-1. [Social Service Accelerator Programme](pages/training/Social-Service-Accelerator-Programme/){:target="_blank"}
-2. [Volunteer Manager Programme](pages/training/Volunteer-Manager-Programme/){:target="_blank"}
-3. [Social Service Assistant Programme](pages/training/Social-Service-Assistant-Programme/){:target="_blank"}
+1. [Social Service Accelerator Programme](/pages/training/Social-Service-Accelerator-Programme/){:target="_blank"}
+2. [Volunteer Manager Programme](/pages/training/Volunteer-Manager-Programme/){:target="_blank"}
+3. [Social Service Assistant Programme](/pages/training/Social-Service-Assistant-Programme/){:target="_blank"}
 
 ### Application Details
 
