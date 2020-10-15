@@ -6,14 +6,14 @@ permalink: /training/cet-programmes/preparatory-training-for-potential-peer-supp
 
 ### **Overview**
 
-This is the first module of the ‘Peer Support Specialist Programme’. It provides learners with an awareness and introduction to the role of a Peer Support Specialist, and the significance of sharing their lived experiences in order to help others in their recovery journeys. The module will be conducted over two days in a classroom. 
+This is the first module of the ‘Peer Support Specialist Programme’. It provides learners with an awareness and introduction to the role of a Peer Support Specialist, and the significance of sharing their lived experiences in order to supports others in their recovery journeys. The module will be conducted over two days in a classroom. However, completion of the ‘Preparatory Training for Potential Peer Support Specialist” module does not guarantee learners a place in the ‘Certificate in Peer Support’ module.
 
 ### **Target Audience**
 
 Learners who wish to enrol in this module should:
 
 -   Be at least 21 years old.
--   Be keen to build on their competencies in order to perform the role of a Peer Support Specialist.
+-   Be keen to know more about peer support work and the role of a Peer Support Specialist. 
 -   Have a diagnosed mental health condition which has stabilised.
 -   Be willing to share their own lived experiences in order to support others in their recovery.
 -   Be a Singapore Citizen or Singapore Permanent Resident.
@@ -22,7 +22,7 @@ The skills and knowledge that learners are required to possess prior to applying
 
 -   3 GCE ‘O’ level credits, including English, or equivalent qualifications are preferred.
 -   An ability to comprehend, speak, read and write English at a proficiency level equivalent to level 5 of the Employability Skills Workforce Skills Qualifications (ES WSQ) Workplace Literacy (WPL).
--   Numeracy skills at a proficiency level equivalent to level 5 of the Employability Skills Workforce Skils Qualifications (ES WSQ) Workplace Numeracy (WPN).
+-   Numeracy skills at a proficiency level equivalent to level 5 of the Employability Skills Workforce Skills Qualifications (ES WSQ) Workplace Numeracy (WPN).
 
 ### **Learning Outcomes**
 
