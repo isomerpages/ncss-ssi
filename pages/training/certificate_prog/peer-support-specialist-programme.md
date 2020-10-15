@@ -18,5 +18,5 @@ This module is called the 'Certificate in Peer Support'. More details can be fou
 
 ### Application Form
 
-Download and complete this  [application form](https://ncss-ssi-staging.netlify.app/images/training/Application%20form_Prep%20and%20CPS_Run%206.pdf) {:target="_blank"} to apply for both modules or either modules.
+Download and complete this  [application form](https://ncss-ssi-staging.netlify.app/images/training/Application%20form_Prep%20and%20CPS_Run%206.pdf/){:target="_blank"}    to apply for both modules or either modules.
   
