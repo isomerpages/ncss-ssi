@@ -41,4 +41,4 @@ Technology
 
 ### Application Details 
 
-Applications for the programmes are not open yet. Updates on this will be provided soon.
+Applications for the programme is not open yet. Indicate your interest for the programme through this [link.](https://form.gov.sg/#!/5f8420be1ae42f00115acdf3){:target="_blank"}
