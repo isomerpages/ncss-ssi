@@ -1,5 +1,5 @@
 ---
-title: Volunteer Manager Programme
+title: Volunteer Management Programme
 permalink: /pages/training/Volunteer-Management-Programme
 ---
 
