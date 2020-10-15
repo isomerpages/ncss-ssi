@@ -3,7 +3,7 @@ title: Volunteer Management Programme
 permalink: /pages/training/Volunteer-Management-Programme
 ---
 
-## Volunteer Manager Programme
+## Volunteer Management Programme
 
 **Programme Details**
 -   Start Date: Dec 20 (Intake 1) and Feb 21 (Intake 2).
