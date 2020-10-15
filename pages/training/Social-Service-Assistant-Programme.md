@@ -1,6 +1,6 @@
 ---
 title: Social Service Assistant Programme
-permalink: pages/training/Social-Service-Assistant-Programme
+permalink: /pages/training/Social-Service-Assistant-Programme
 ---
 
 ## Volunteer Manager Programme
