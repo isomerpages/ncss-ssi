@@ -1,6 +1,6 @@
 ---
 title: Volunteer Manager Programme
-permalink: pages/training/Volunteer-Manager-Programme
+permalink: /pages/training/Volunteer-Manager-Programme
 ---
 
 ## Volunteer Manager Programme
