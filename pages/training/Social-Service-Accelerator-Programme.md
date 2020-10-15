@@ -1,6 +1,6 @@
 ---
 title: Social Service Accelerator Programme
-permalink: pages/training/Social-Service-Accelerator-Programme
+permalink: /pages/training/Social-Service-Accelerator-Programme
 ---
 
 ## Social Service Accelerator Programme
