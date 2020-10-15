@@ -1,6 +1,6 @@
 ---
 title: Volunteer Manager Programme
-permalink: /pages/training/Volunteer-Manager-Programme
+permalink: /pages/training/Volunteer-Management-Programme
 ---
 
 ## Volunteer Manager Programme
@@ -42,3 +42,5 @@ Technology
 ### Application Details 
 
 Applications for the programme is not open yet. Indicate your interest for the programme through this [link.](https://form.gov.sg/#!/5f8420be1ae42f00115acdf3){:target="_blank"}
+
+*The course details including the start dates and cost of the course is tentative and will be updated accordingly.
