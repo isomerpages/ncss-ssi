@@ -6,7 +6,7 @@ permalink: /training/cet-programmes/peer-support-specialist-programme/
 
 ## Peer Support Specialist Programme
 
-The ‘Peer Support Specialist Programme’ was launched in 2016 by the National Council of Social Service (NCSS) with strong support from the Institute of Mental Health (IMH) and mental health organisations. It is Singapore’s first national training programme to prepare individuals for the role of a Peer Support Specialist by empowering them to leverage on their lived experiences to support others in their recovery journeys. The programme consists of two modules as shown below.
+The ‘Peer Support Specialist Programme’ was launched in 2016 by the National Council of Social Service (NCSS) with strong support from the Institute of Mental Health (IMH) and mental health organisations. It is Singapore’s first national training programme to prepare individuals for the role of a Peer Support Specialist by empowering them to leverage their lived experiences to support others on their recovery journeys. The programme consists of two modules as shown below.
 
 ### Module 1
 
@@ -18,5 +18,5 @@ This module is called the 'Certificate in Peer Support'. More details can be fou
 
 ### Application Form
 
-Download and complete this  [application form](https://ncss-ssi-staging.netlify.app/images/training/Application%20form_Prep%20and%20CPS_Run%206.pdf) {target="_blank"} to apply for both modules or either modules.
+Download and complete this  [application form](https://ncss-ssi-staging.netlify.app/images/training/Application%20form_Prep%20and%20CPS_Run%206.pdf) {:target="_blank"} to apply for both modules or either modules.
   
