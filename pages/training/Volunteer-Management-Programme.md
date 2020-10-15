@@ -19,7 +19,7 @@ permalink: /pages/training/Volunteer-Management-Programme
 
 **Modules**
 
-1. Sector Specific Skills 
+1. Sector Specific Skills  
 
 -   Design and develop effective volunteer programmes
 -   Interpret the Service Types & Functions of Key Players in Social Service
