@@ -27,7 +27,7 @@ permalink: /pages/training/Social-Service-Assistant-Programme
 -   Provide Support Level Service to Seniors
 -   Provide Support Level Service to Youths
 
-2. Multi-Disciplinary Skills
+2. Multi-Disciplinary Skills 
 
 -   Demonstrate Understanding of Group Dynamics in Social Service 
 -   Demonstrate Understanding of legal provisions in Social Service 
