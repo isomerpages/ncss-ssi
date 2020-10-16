@@ -24,7 +24,6 @@ permalink: /pages/training/Social-Service-Accelerator-Programme
 -   Interpret the Service Types & Functions of Key Players in Social Service
 -   Introduction to Counselling
 -   [Singapore's Social Compact](https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=1233736&catalogId=1700){:target="_blank"}
-
 2.  Functional Skills
 
 Marketing & Fundraising
