@@ -25,29 +25,29 @@ permalink: /pages/training/Social-Service-Accelerator-Programme
   * Introduction to Counselling
   * [Singapore's Social Compact](https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=1233736&catalogId=1700){:target="_blank"}
 
-2.  Functional Skills
+2. Functional Skills
 
-Marketing & Fundraising
--   [Branding Non-Profit: A Introduction](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=branding+non-profit&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
--   [Donor Outreach through Social Media](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=donor+outreach&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
--   [Making $ense I: An introduction to Fund Raising](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Making+%24ense+I%3A+An+introduction+to+Fund+Raising&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
+ * Marketing & Fundraising
+  * [Branding Non-Profit: A Introduction](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=branding+non-profit&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
+  * [Donor Outreach through Social Media](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=donor+outreach&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
+  * [Making $ense I: An introduction to Fund Raising](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Making+%24ense+I%3A+An+introduction+to+Fund+Raising&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
 
-Human Resource
--   HR for Non-HR Managers
+ * Human Resource
+  * HR for Non-HR Managers
 
-Finance
--  [Budgeting for Charities](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Budgeting+for+Charities&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"} 
+ * Finance
+  * [Budgeting for Charities](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Budgeting+for+Charities&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"} 
 
-Volunteer & Client Management
--   [Manage Challenging Social Service and NPO clients](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Manage+Challenging+Social+Service&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}
+ * Volunteer & Client Management
+  * [Manage Challenging Social Service and NPO clients](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Manage+Challenging+Social+Service&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}
 
-Programme Management
--   Supporting the Implementation of Programmes
+ * Programme Management
+  * Supporting the Implementation of Programmes
 
-Leadership & Management 
--   Social Innovation and Entrepreneurship
--   Leading Through Change
--   Agile System Development
+ * Leadership & Management 
+  * Social Innovation and Entrepreneurship
+  * Leading Through Change
+  * Agile System Development
 
 ### Application Details 
 
