@@ -25,7 +25,7 @@ permalink: /pages/training/Social-Service-Accelerator-Programme
 -   Introduction to Counselling
 -   [Singapore's Social Compact](https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=1233736&catalogId=1700){:target="_blank"}
 
-
+2.  Functional Skills
 
 Marketing & Fundraising
 -   [Branding Non-Profit: A Introduction](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=branding+non-profit&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
