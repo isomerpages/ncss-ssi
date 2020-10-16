@@ -18,15 +18,14 @@ permalink: /pages/training/Social-Service-Accelerator-Programme
 
 **Modules**
 
-
-1. Sector Specific Skills 
+1) Sector Specific Skills 
 
 -   Design and develop effective volunteer programmes
 -   Interpret the Service Types & Functions of Key Players in Social Service
 -   Introduction to Counselling
 -   [Singapore's Social Compact](https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=1233736&catalogId=1700){:target="_blank"}
 
-2. Functional Skills
+2) Functional Skills
 
 Marketing & Fundraising
 -   [Branding Non-Profit: A Introduction](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=branding+non-profit&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
@@ -55,5 +54,3 @@ Leadership & Management
 Applications for the programme is not open yet. Indicate your interest for the programme through this [link.](https://form.gov.sg/#!/5f8420be1ae42f00115acdf3){:target="_blank"}
 
 *The course details including the start dates and cost of the course is tentative and will be updated accordingly.
-
-update
