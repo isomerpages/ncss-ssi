@@ -16,16 +16,14 @@ permalink: /pages/training/Social-Service-Accelerator-Programme
 -   Professionals, Managers and Executives (PMEs).
 -   Multi-disciplinary professionals with at least three to four years of experience in the domains of Marketing, Human Resource, Finance, IT Project Management and Operation Management.
 
-**Modules**
-
-1) Sector Specific Skills 
+**Modules for Sector Specific Skills** 
 
 -   Design and develop effective volunteer programmes
 -   Interpret the Service Types & Functions of Key Players in Social Service
 -   Introduction to Counselling
 -   [Singapore's Social Compact](https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=1233736&catalogId=1700){:target="_blank"}
 
-2) Functional Skills
+**Modules for Functional Skills**
 
 Marketing & Fundraising
 -   [Branding Non-Profit: A Introduction](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=branding+non-profit&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
