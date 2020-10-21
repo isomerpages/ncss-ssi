@@ -4,9 +4,6 @@ permalink: /training/cross-sector
 ---
 ![cross sector header](/images/training/SSI_header-banner-757-x-239px1.jpg)
 
-
-## Cross Sector
-
 These courses provide a deeper understanding about each sub-sector, their unique social needs and help learners to critically discern and analyse their own assumptions.  
   
 Cross Sector courses also cover a range of skills such as counselling, motivational interviewing and behaviour therapy which social service professionals can apply while working with different client groups such as children, youth, adults and seniors.  
