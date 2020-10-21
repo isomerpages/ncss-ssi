@@ -6,10 +6,6 @@ permalink: /training/cet-programmes/
 ![CET programmes](/images/training/CET-programmes-SSI_header-banner-757-x-239px10.jpg)
 
 
-
-
-## CET Programmes
-
 SSI offers a suite of Continuing Education and Training (CET) programmes which provide learners with certificate, diploma and degree based qualifications. Refer to the list below for more details.
 
 -   [Advanced Certificate in Social Service](/training/cet-programmes/advanced-certificate-in-social-service/){:target="_blank"}<sup>1</sup>
