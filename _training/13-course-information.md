@@ -3,8 +3,6 @@ title: Course Information
 permalink: /Training/course-information/
 ---
 
-## Course Information
-
 ### Course Administration
 
 As part of SSI’s Education Innovation initiative, we will leverage on technology to enrich the learning experience of our learners. This includes equipping classrooms with smart technology facilities and adopting innovative teaching pedagogies through the use of online platforms. SSI will also be progressively converting our courses into a blended learning style to incorporate online components such as quizzes and supplementary reading materials before the classroom session. Some of the changes that our learners will experience are as shown below.
