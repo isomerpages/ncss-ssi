@@ -1,9 +1,7 @@
 ---
-title: Privacy Statement
+title: Government Agency Privacy Statement
 permalink: /privacy/
 ---
-
-## **Government Agency Privacy Statement**
   
 1.  This is a Government of Singapore website. We adopt the same principles relating to your privacy as other Government of Singapore websites.
 2.  By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this website.
