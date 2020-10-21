@@ -2,8 +2,6 @@
 title: Our Stories
 permalink: /stories/
 ---
-## Our Stories
-
 <table width="300px">
 <tbody>
       <td width="100px">
