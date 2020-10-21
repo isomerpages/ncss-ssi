@@ -2,10 +2,7 @@
 title: Caregiving
 permalink: /training/Caregiving
 ---
-![enter image description here](/images/training/caregiving_SSI_header-banner-757-x-239px9.jpg)
-
-
-## Caregiving   
+![enter image description here](/images/training/caregiving_SSI_header-banner-757-x-239px9.jpg) 
 
 The featured courses under SSI are:   
 -   [Preparatory Caregiver Training Programme:](http://learningcloud.sg/pages/coursedescription.jsf?courseId=752497&catalogId=1700) [Understanding Caregiving](https://learningcloud.sg/pages/coursedescription.jsf?courseId=752497&catalogId=1700){:target="_blank"}   (e-Learning)
