@@ -2,10 +2,6 @@
 title: Certificate in Para Counselling
 permalink: /training/cet-programmes/certificate-in-para-counselling/
 ---
-
-
-## Certificate in Para-Counselling
-
 ### **Overview**
 
 This course equips learners with the fundamental knowledge and skills in counselling that is required when working alongside certified counselling professionals.
