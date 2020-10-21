@@ -2,8 +2,6 @@
 title: LearnHere
 permalink: /resources/learnhere/
 ---
-
-## LearnHere
 LearnHere is an online platform that hosts a variety of learning based content. It was created to complement formal classroom trainings and provide an online portal for social service professionals to access learning-based content readily while balancing the requirements of a full time job.
 
 Specifically, LearnHere offers both e-Learning that is hosted on our [Learning Cloud](https://learningcloud.sg/pages/external-dashboard.jsf;ilp_JSESSIONID=F1095C87D03086A2672664730D6D7D46?dashboardId=1){:target="_blank"} platform and blended learning content, which involves a blend of more than one type of learning (e.g. a blend of traditional face-to-face learning in the classroom and online learning).
