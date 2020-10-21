@@ -2,9 +2,6 @@
 title: Certificate in Peer Support
 permalink: /training/cet-programmes/certificate-in-peer-support/
 ---
-
-## Certificate in Peer Support
-
 ### Overview
 
 This is the second module of the ‘Peer Support Specialist Programme’. It equips learners with the necessary competencies to perform the role of a Peer Support Specialist.
