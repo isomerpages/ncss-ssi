@@ -2,10 +2,6 @@
 title: Advanced Certificate in Social Service
 permalink: /training/cet-programmes/advanced-certificate-in-social-service/
 ---
-
-
-## Advanced Certificate in Social Service
-
 ### Overview
 
 The Advanced Certificate in Social Service<sup>1</sup> is a foundational programme that aims to equip learners with the necessary knowledge and skills to be collaborative, client-centric, compassionate and resilient individuals who are able to carry out their roles effectively when working with clients, partners and stakeholders. The programme further equips learners with the knowledge, skills and attitudes required in in para-counselling. This allows them to provide service support to various clients and when working with volunteers in social service agencies (SSAs), communities and institutional settings.  
