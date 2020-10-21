@@ -3,9 +3,6 @@ title: Our Milestones
 permalink: /About-Us/our-milestones/
 ---
 
-
-## Our Milestones
-
 **2019**
 
 - Launch of the Skills Framework for Social Service during the SSI Graduation & Awards Ceremony 2019 to enable the social service sector and aspiring social service professionals to make informed decisions on career choices and skills upgrading.
