@@ -3,8 +3,6 @@ title: Sign Up for Our Mailing Lists
 permalink: /About-Us/mailing-list/
 ---
 
-## **Sign Up for Our Mailings Lists Now**
-
 Receive the latest learning and development updates by signing up for our various mailing lists shown below.  
 
 1.  [CET programmes mailing list](https://form.gov.sg/5f19b046fd23f90011ba7246){:target="_blank"}    
