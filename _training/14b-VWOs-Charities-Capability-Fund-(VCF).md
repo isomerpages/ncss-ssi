@@ -4,8 +4,6 @@ permalink: /training/funding-information/VWOs-Charities-Capability-Fund-(VCF)/
 third_nav_title: Funding Information
 ---
 
-## VWOs-Charities Capability Fund (VCF)
-
   **Eligibility Criteria**  
 
   To be eligible for VCF, you must:

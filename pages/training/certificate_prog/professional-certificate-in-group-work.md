@@ -3,8 +3,6 @@ title: Professional Certificate in Group Work
 permalink: /training/cet-programmes/professional-certificate-in-group-work/
 ---
 
-## Professional Certificate in Group Work
-
 ### **Overview**
 
 Jointly developed with the Ministry of Social and Family Development (MSF) and Ministry of Health (MOH), 'Professional Certificate in Group Work' is a course that equips social workers with foundation-level practice competencies in group work theories, plus processes and facilitation techniques in a group work setting. Learners will be equipped with the necessary group formation, facilitation and evaluation skills to help them plan effective group interventions.    

@@ -4,9 +4,6 @@ permalink: /training/funding-information/SkillsFuture-Singapore-Funding/
 third_nav_title: Funding Information
 ---
 
-
-## SkillsFuture Singapore Funding
-
 ### SSG Funding Principle
 
 SSI is a CET Centre that offers Workforce Skills Qualifications (WSQ) and non-WSQ courses at subsidised rates. Both Singaporeans and PRs are eligible for course subsidies. Employers can also tap on absentee payroll support funding for employer-sponsored training.

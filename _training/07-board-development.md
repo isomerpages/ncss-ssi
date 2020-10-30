@@ -4,9 +4,6 @@ permalink: training/board-development/
 ---
 ![Board_development_header](/images/training/Board_development_SSI_Header.jpg)
 
-
-## Board Development
-
 Developed in partnership with the Singapore Institute of Directors (SID), the Singapore Governance for Outstanding Organisation Directors Programme (S-GOOD), provides competencies to efficiently and effectively conduct Board functions.  
   
 The programme includes eight modules which are as shown below:

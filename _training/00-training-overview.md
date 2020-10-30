@@ -2,8 +2,6 @@
 title: Overview
 permalink: /training/overview/
 ---
-
-## Training
 SSI'S learning philosophy is guided by the Education Innovation (EI) initiative. This initiative is based on the following beliefs:
 - In addition to classroom learning, informal and social learning is as important for the development of specific skills and expertise.
 - Learning can happen anytime and anywhere

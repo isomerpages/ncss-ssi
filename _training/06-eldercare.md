@@ -4,7 +4,6 @@ permalink: /training/eldercare
 ---
 ![Eldercare_header](/images/training/Eldercare_SSI_header-banner-757-x-239px5.jpg)
 
-## Eldercare  
 The featured courses are:
 -   [Communicate Effectively with Seniors](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Communicate+Effectively+with+Seniors){:target="_blank"}   
 -   [Conversation Starter Toolkit (e-Learning)](https://learningcloud.sg/pages/coursedescription.jsf?courseId=1110234&catalogId=1700&templateId=-1){:target="_blank"}   

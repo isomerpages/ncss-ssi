@@ -4,8 +4,6 @@ permalink: /training/management-and-Organisation-Development
 ---
 ![Management and Organization header](/images/training/Managemnt_and_organization_development_SSI_header-banner-757-x-239px6.jpg)
 
-## Management and Organisation Development
-
 The featured courses are:   
 -   [Budgeting for Charities](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Budgeting+for+Charities){:target="_blank"}   
 -   [Donor Outreach Through Social Media](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Donor+Outreach+Through+Social+Media){:target="_blank"}   

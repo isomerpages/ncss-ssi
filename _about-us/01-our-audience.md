@@ -3,8 +3,6 @@ title: Our Audience
 permalink: /about-us/about-us/our-audience/
 ---
 
-## Our Audience  
-
 **Social Service Professionals**   
 Social service professionals deliver services and programmes to communities in need. This group covers social workers, counsellors, psychologists, therapists, teachers from special education and early intervention schools, child care and student care workers.
 

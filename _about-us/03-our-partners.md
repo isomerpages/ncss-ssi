@@ -3,8 +3,6 @@ title: Our Partners
 permalink: /About-Us/our-partners
 ---
 
-## Our Partners
-
 ### **Overview**
 
 The Training Network Model refers to the network of partners that SSI engages to champion training in their area of expertise. This leads to an increased number of skilled and enterprising professionals in the sector, greater capacity and capability of social purpose entities and the development of innovative solutions.

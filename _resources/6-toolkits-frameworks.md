@@ -2,7 +2,6 @@
 title: Toolkits & Frameworks
 permalink: /resources/toolkits-frameworks
 ---
-## Toolkits & Frameworks
 
 The Skills Framework (SFw) for Social Service was launched in January 2019 at the SSI Graduation & Awards Ceremony by then Minister of State for Social and Family Development and Foreign Affairs, Mr Sam Tan.   
    

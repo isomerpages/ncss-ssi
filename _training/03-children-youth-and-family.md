@@ -4,9 +4,6 @@ permalink: /training/cyandf
 ---
 ![CYF Banner](/images/training/CYF_SSI_header-banner-757-x-239px2.jpg)
 
-## Children, Youth and Family  
-
-
 The featured courses are:  
  - [An Introduction to Family Therapy](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=An+Introduction+to+Family+Therapy){:target="_blank"}  
  - [Certified User for Child & Adolescent Needs & Strengths (CANS)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Certified+User+for+Child+%26+Adolescent+Needs+%26+Strengths+%28CANS%29){:target="_blank"}  

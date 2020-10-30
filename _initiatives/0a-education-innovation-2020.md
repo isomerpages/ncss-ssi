@@ -3,8 +3,6 @@ title: Overview
 permalink: /initiatives/education-innovation-2020/overview
 third_nav_title: Education Innovation 2020
 ---
-
-## Education Innovation
 <iframe id="ytplayer" type="text/html" width="860" height="575"
   src="https://www.youtube.com/embed/NNdSNJudHh8"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>

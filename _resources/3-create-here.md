@@ -2,8 +2,6 @@
 title: CreateHere
 permalink: /resources/createhere/
 ---
-
-## CreateHere
 Algorithms for most social media platforms are geared towards photos and videos. In fact, digital marketers have stated that videos increase the probability of someone buying your services, cause or mission by up to 97%!
 
 With CreateHere, social service agencies and professional interest groups now have access to a media production studio with simplified operating requirements that is still capable of creating video content in half the time and cost that is associated to conventional video production.

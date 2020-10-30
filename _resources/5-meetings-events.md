@@ -2,8 +2,6 @@
 title: Meetings & Events
 permalink: /resources/meetings-events/
 ---
-## Meetings & Events
-
 
 SSI’s rooms are offered at competitive booking rates and located at a convenient location above Tiong Bahru MRT Station. The rooms are ideal for conducting trainings, networking events or organisational retreats.  
 

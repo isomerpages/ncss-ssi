@@ -4,8 +4,6 @@ permalink: /training/nexleaders/
 ---
 ![Nexleaders_header](/images/training/nexleaders_Ssi_header.png)
 
-## NEXLeaders Programme   
-
 ### Overview   
 Are you facing challenges engaging staff?   
 Do you find it difficult to develop leaders?   

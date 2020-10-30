@@ -4,8 +4,6 @@ permalink: /training/sgus/
 
 ---
 
-## SGUnited Skills Programme
-
 ### Overview
 
 The SGUnited (SGUS) Jobs & Skills Package was launched by DPM Heng Swee Keat on 26 May 2020 to support an estimated 100,000 Singaporeans whose livelihoods have been affected by the COVID-19 pandemic. One of the initiatives under this package is the SGUS programme, which will provide job and traineeship opportunities to jobseekers to help them acquire the skillsets and capabilities needed to access expanded employment opportunities in both the private and public sector.

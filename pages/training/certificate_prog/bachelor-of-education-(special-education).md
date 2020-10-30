@@ -2,10 +2,6 @@
 title: Bachelor of Education (Special Education)
 permalink: /training/cet-programmes/bachelor-of-education-(special-education)/
 ---
-
-
-## Bachelor of Education (Special Education)
-
 ### Overview
 
 This course aims to produce graduates who:
