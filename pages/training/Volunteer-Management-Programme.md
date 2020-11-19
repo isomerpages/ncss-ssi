@@ -16,7 +16,7 @@ permalink: /pages/training/Volunteer-Management-Programme
 
 ### Modules for Sector Specific Skills  
 
--   [Design and develop effective volunteer programmes] (https://e-services.ncss.gov.sg/Training/Course/TemplateDetail/c17a2fa5-7d25-e611-8112-000c296ee03a?isProgramme=False){:target="_blank"} (by SSI)
+-   [Design and develop effective volunteer programmes](https://e-services.ncss.gov.sg/Training/Course/TemplateDetail/c17a2fa5-7d25-e611-8112-000c296ee03a?isProgramme=False){:target="_blank"} (by SSI)
 -   Interpret the Service Types & Functions of Key Players in Social Service (by SSI)
 -   Volunteer Experience Management (by NP)
 
