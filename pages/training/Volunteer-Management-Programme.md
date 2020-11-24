@@ -18,7 +18,7 @@ permalink: /pages/training/Volunteer-Management-Programme
 
 -   [Design and develop effective volunteer programmes](https://e-services.ncss.gov.sg/Training/Course/TemplateDetail/c17a2fa5-7d25-e611-8112-000c296ee03a?isProgramme=False){:target="_blank"} (by SSI)
 -   Interpret the Service Types & Functions of Key Players in Social Service (by SSI)
--   [Volunteer Experience Management](/training/Volunteer-Management-Programme/Volunteer-Experience-Management){:target="_blank"} (by NP) 
+-   [Volunteer Experience Management](/pages/training/Volunteer-Management-Programme/Volunteer-Experience-Management){:target="_blank"} (by NP) 
 
 ### Modules for Functional Skills
 
