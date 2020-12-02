@@ -29,6 +29,9 @@ permalink: /pages/training/Social-Service-Assistant-Programme
 -   Interpret the Service Types & Functions of Key Players in Social Service (by NP) 
 -   Organise & Implement Basic Social Recreational Activities (by SSI)
 -   Supporting Clients with Professional Resources (by NP)
+
+Learners will be equipped with the listening skills, empathy and the ability to holistically identify health, wellness and other social service support required by clients.
+
 -   Work with Volunteers (by SSI)
 
 ### Modules for Generic/Soft Skills
