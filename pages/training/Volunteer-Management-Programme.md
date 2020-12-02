@@ -21,6 +21,9 @@ permalink: /pages/training/Volunteer-Management-Programme
 Learners will be taught how to design and develop effective volunteer work programmes and the volunteer leadership framework. 
 
 -   Interpret the Service Types & Functions of Key Players in Social Service (by SSI)
+
+Learners will be equipped with the skills and knowledge needed to illustrate the overall history, formation and development of social services. This includes interpreting the major roles of key social service players, relating social services to emerging needs and the need for functional frameworks to deliver effective services.
+
 -   Volunteer Experience Management (by NP) 
 
 Learners will gain a working knowledge of human resource skills needed by volunteer managers to develop volunteer recruitment strategies, training programmes as well as recognition and engagement strategies that will create a fulfilling and engaging volunteer-centred experience.
