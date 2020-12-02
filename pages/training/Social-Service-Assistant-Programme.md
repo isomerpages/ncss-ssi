@@ -60,8 +60,12 @@ Learners will be equipped with the listening skills, empathy and the ability to 
 
 -   Work with Volunteers (by SSI)
 
+The components of the volunteer management framework will be taught. This includes factors that motivate volunteers to contribute to organisations,the roles and responsibilities of a volunteer coordinator, identifying the types of volunteer services required, applying communication skills to build collaborative relationship with volunteers, and handling challenges relating to volunteer management according to organisational procedures.
+
 ### Modules for Generic/Soft Skills
 -   Apply Relationship Building Skills in Social Service Practice (by SSI)
+
+Learners will be taught to interpret the models of help used in social service practice,how to apply attending skills to engage clients as well as how to manage communication breakdowns and engage difficult clients in attending processes.
 
 ### Application Details 
 
