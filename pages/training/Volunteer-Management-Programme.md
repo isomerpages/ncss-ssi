@@ -3,7 +3,7 @@ title: Volunteer Management Programme
 permalink: /pages/training/Volunteer-Management-Programme
 ---
 ### Programme Details
--   Start Date: Dec 20 (Intake 1) and Feb 21 (Intake 2).
+-   Start Date: Jan 21 (Intake 1) and Mar 21 (Intake 2).
 -   Programme Duration: Six months. 
 -   Fees (excluding GST): Total would be $14,550 but net fees after funding will be $500.  
 
@@ -16,9 +16,9 @@ permalink: /pages/training/Volunteer-Management-Programme
 
 ### Modules for Sector Specific Skills  
 
--   Design and develop effective volunteer programmes (by SSI)
+-   [Design and develop effective volunteer programmes](https://e-services.ncss.gov.sg/Training/Course/TemplateDetail/c17a2fa5-7d25-e611-8112-000c296ee03a?isProgramme=False){:target="_blank"} (by SSI)
 -   Interpret the Service Types & Functions of Key Players in Social Service (by SSI)
--   Volunteer Experience Management (by NP)
+-   [Volunteer Experience Management](/pages/training/Volunteer-Management-Programme/Volunteer-Experience-Management){:target="_blank"} (by NP) 
 
 ### Modules for Functional Skills
 

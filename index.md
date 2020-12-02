@@ -30,7 +30,7 @@ sections:
         button: Download our training directory!
         image: /images/homepage/Training_Direc_Banner.jpg
         alt: Training Directory        
-        url: /images/homepage/SSI-Training-Directory-FY20-21.pdf
+        url: /images/documents/SSI Training Directory FY20_21 2nd edition.pdf
 
     - infopic:
         title: Our Partners
