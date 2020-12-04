@@ -69,7 +69,7 @@ Learners will be taught to interpret the models of help used in social service p
 
 ### Application Details 
 
-Applications for the programme is not open yet. Indicate your interest for the programme through this [link.](https://form.gov.sg/#!/5f8420be1ae42f00115acdf3){:target="_blank"}
+Sign up for the programme through this [link.](https://e-services.ncss.gov.sg/Training/Course/DetailProgramme/147c60f4-4034-eb11-816c-000c296ee030 ){:target="_blank"}
 
 Note:
 
