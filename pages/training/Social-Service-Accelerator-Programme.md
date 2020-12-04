@@ -69,7 +69,7 @@ Learners will be taught key Agile concepts, principles and methodologies. This w
 
 ### Application Details 
 
-Applications for the programme is not open yet. Indicate your interest for the programme through this [link.](https://form.gov.sg/#!/5f8420be1ae42f00115acdf3){:target="_blank"}
+Sign up for the programme through this [link.](https://e-services.ncss.gov.sg/Training/Course/DetailProgramme/1193808a-3435-eb11-816c-000c296ee030 ){:target="_blank"}
 
 Note:
 
