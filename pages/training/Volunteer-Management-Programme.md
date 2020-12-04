@@ -55,7 +55,7 @@ Learners will be taught how to apply different social media and technological to
 
 ### Application Details 
 
-Applications for the programme is not open yet. Indicate your interest for the programme through this [link.](https://form.gov.sg/#!/5f8420be1ae42f00115acdf3){:target="_blank"}
+Sign up for the programme through this [link.](https://e-services.ncss.gov.sg/Training/Course/DetailProgramme/52683D2E-4635-EB11-816C-000C296EE030){:target="_blank"}
 
 Note:
 
