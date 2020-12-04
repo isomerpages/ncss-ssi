@@ -26,8 +26,6 @@ Information on placement opportunities can be found through the social service d
 2. [Volunteer Management Programme](/pages/training/Volunteer-Management-Programme/){:target="_blank"}
 3. [Social Service Assistant Programme](/pages/training/Social-Service-Assistant-Programme/){:target="_blank"}
 
-### Application Details
 
-Applications for the programmes are not open yet. Indicate your interest for the programmes through this [link.](https://form.gov.sg/#!/5f8420be1ae42f00115acdf3){:target="_blank"}
 
 
