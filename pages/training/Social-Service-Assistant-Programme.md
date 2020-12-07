@@ -1,20 +1,17 @@
 ---
-title: Social Service Assistant Programme
-permalink: /pages/training/Social-Service-Assistant-Programme
+title: SGUnited Skills Programme – Social Service Assistant
+permalink: /pages/training/Social-Service-Assistant
 ---
 ### Overview
- 
- 
+The SGUnited Skills Programme – Social Service Assistant aims to provide learners with the necessary knowledge and skillsets to perform the roles of a social service assistant, co-ordinator or programme executive.
+
+For more information on the applicable job roles in the social service sector visit this [link.](https://www.myskillsfuture.sg/content/portal/en/career-resources/career-resources/campaigns/train-and-skill-up-for-jobs-in-Social-Services.html){:target="_blank"}
 
 ### Target Audience
 
 -   Singaporeans or Singapore Permanent Residents above the age of 21 years who are affected by the COVID-19 pandemic.
 -   Rank and File (RnF) employees.
 -   Individual contributors with at least three to four years of experience in people engagement, programme coordination, administration and operations.
-
-### Key Job Roles for Learners Under this Programme
-
-Learners may become a Social Service Assistant or Programme Executive. For more information on the applicable job roles visit this [link](https://www.myskillsfuture.sg/content/portal/en/career-resources/career-resources/campaigns/train-and-skill-up-for-jobs-in-Social-Services.html){:target="_blank"}
 
 ### Programme Details
 -   Application period: Applications for this course will be from 4 Dec 20 to 20 Dec 20. 
