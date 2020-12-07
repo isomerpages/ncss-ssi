@@ -3,9 +3,7 @@ title: Social Service Assistant Programme
 permalink: /pages/training/Social-Service-Assistant-Programme
 ---
 ### Overview
--   Start Date: Jan 21 (Intake 1) and Mar 21 (Intake 2).
--   Programme Duration: Eight months.
--   Fees (excluding GST): Total would be $14,130 but net fees after funding will be $666.67.  
+ 
  
 
 ### Target Audience
