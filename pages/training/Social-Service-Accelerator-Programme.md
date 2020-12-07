@@ -88,4 +88,5 @@ For queries relating to this programme, you may email socialserviceinstitute@ncs
 Note:
 
 1. The course details including the start dates and cost of the course is tentative and will be updated accordingly.
-2. The Social Service Accelerator Programme is jointly developed by SSI and Ngee Ann Polytechnic (NP) although individual courses may come from either SSI or NP.  
+2. The Social Service Accelerator Programme is jointly developed by SSI and Ngee Ann Polytechnic (NP) although individual courses may come from either SSI or NP.
+3. Registration may close before 20 Dec 20 if the maximum number (60 pax) of available spaces is taken up before the closure date.
