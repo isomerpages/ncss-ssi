@@ -26,6 +26,9 @@ Information on placement opportunities can be found through the social service d
 2. [Volunteer Management Programme](/pages/training/Volunteer-Management-Programme/){:target="_blank"}
 3. [Social Service Assistant Programme](/pages/training/Social-Service-Assistant-Programme/){:target="_blank"}
 
+### FAQs
+
+For the FAQs for SSI's SGUS programmes, refer to this link.
 
 
 
