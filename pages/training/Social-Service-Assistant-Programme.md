@@ -18,7 +18,7 @@ Learners may become a Social Service Assistant or Programme Executive. For more 
 
 ### Programme Details
 -   Application period: Applications for this course will be from 4 Dec 20 to 20 Dec 20. 
--   Start Date: Jan 21 (Intake 1) and Mar 21 (Intake 2).
+-   Start Date: Jan 21 (Intake One) and Mar 21 (Intake Two).
 -   Programme Duration: Eight months.
 -   Fees (excluding GST): Total would be $14,130 but net fees after funding will be $666.67. 
 -   Mode of delivery: Blended learning (facilitated classroom training, online course materials & pre-course e-Learning activities).
