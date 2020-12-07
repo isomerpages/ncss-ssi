@@ -2,16 +2,25 @@
 title: Social Service Accelerator Programme
 permalink: /pages/training/Social-Service-Accelerator-Programme
 ---
-### Programme Details
--   Start Date: Jan 21 (Intake 1) and Mar 21 (Intake 2).
--   Programme Duration: Six months.
--   Fees (excluding GST): Total would be $15,000 but net fees after funding will be $500. 
+### Overview
+
 
 ### Target Audience
 
 -   Singaporeans or Singapore Permanent Residents above the age of 21 years who are affected by the COVID-19 pandemic.
 -   Professionals, Managers and Executives (PMEs).
 -   Multi-disciplinary professionals with at least three to four years of experience in the domains of Marketing, Human Resource, Finance, IT Project Management and Operation Management.
+
+### Key Job Roles for Learners Under this Programme
+
+Learners may become a HR/Finance/IT/Operation/Fundraising Manager or Executive. For more information on the applicable job roles visit this [link](https://www.myskillsfuture.sg/content/portal/en/career-resources/career-resources/campaigns/train-and-skill-up-for-jobs-in-Social-Services.html){:target="_blank"}
+
+### Programme Details
+-   Start Date: Jan 21 (Intake One) and Mar 21 (Intake Two).
+-   Programme Duration: Six months.
+-   Fees (excluding GST): Total would be $15,000 but net fees after funding will be $500. 
+-   Mode of delivery: Blended learning (facilitated classroom training, online course materials & pre-course e-Learning activities).
+-   Award of Certificate: Learners who have a minimum attendence of 75% and pass the assessment(s) will be awarded with an electronic Certificate of Achievement from SSI.
 
 ### Modules for Sector Specific Skills
 
@@ -70,6 +79,10 @@ Learners will be taught key Agile concepts, principles and methodologies. This w
 ### Application Details 
 
 Sign up for the programme through this [link.](https://e-services.ncss.gov.sg/Training/Course/DetailProgramme/1193808a-3435-eb11-816c-000c296ee030 ){:target="_blank"}
+
+### Enquiries
+
+For queries relating to this programme, you may email socialserviceinstitute@ncss.gov.sg.
 
 Note:
 
