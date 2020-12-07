@@ -2,10 +2,8 @@
 title: Volunteer Management Programme
 permalink: /pages/training/Volunteer-Management-Programme
 ---
-### Programme Details
--   Start Date: Jan 21 (Intake 1) and Mar 21 (Intake 2).
--   Programme Duration: Six months. 
--   Fees (excluding GST): Total would be $14,550 but net fees after funding will be $500.  
+
+### Overview
 
 ### Target Audience
 
@@ -13,6 +11,19 @@ permalink: /pages/training/Volunteer-Management-Programme
 -   Professionals, Managers and Executives (PMEs).
 -   At least three to four years of experience in Marketing and Event Management.
 -   Experience in engaging and managing multiple stakeholders.  
+
+### Key Job Roles for Learners Under this Programme
+
+Learners may become a Volunteer Manager or Coordinator. For more information on the applicable job roles visit this [link](https://www.myskillsfuture.sg/content/portal/en/career-resources/career-resources/campaigns/train-and-skill-up-for-jobs-in-Social-Services.html){:target="_blank"}
+
+### Programme details
+
+-   Application period: Applications for this course will be from 4 Dec 20 to 20 Dec 20. 
+-   Start Date: Jan 21 (Intake One) and Mar 21 (Intake Two).
+-   Programme Duration: Six months.
+-   Fees (excluding GST): Total would be $14,550 but net fees after funding will be $500
+-   Mode of delivery: Blended learning (facilitated classroom training, online course materials & pre-course e-Learning activities).
+-   Award of Certificate: Learners who have a minimum attendence of 75% and pass the assessment(s) will be awarded with an electronic Certificate of Achievement from SSI.
 
 ### Modules for Sector Specific Skills  
 
@@ -56,6 +67,10 @@ Learners will be taught how to apply different social media and technological to
 ### Application Details 
 
 Sign up for the programme through this [link.](https://e-services.ncss.gov.sg/Training/Course/DetailProgramme/52683D2E-4635-EB11-816C-000C296EE030){:target="_blank"}
+
+### Enquiries
+
+For queries relating to this programme, you may email socialserviceinstitute@ncss.gov.sg.
 
 Note:
 
