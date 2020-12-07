@@ -4,7 +4,7 @@ permalink: /pages/training/Social-Service-Accelerator
 ---
 ### Overview
 
-The SGUnited Skills Programme – Social Service Accelerator comprises of a suite of short courses that was specially put together to equip participants with the appropriate knowledge and skillsets to pursue roles in various corporate functions such as planning, operations, marketing, IT, finance or HR. 
+The SGUnited Skills Programme – Social Service Accelerator comprises of a suite of short courses that was specially put together to equip learners with the appropriate knowledge and skillsets to pursue roles in various corporate functions such as planning, operations, marketing, IT, finance or HR. 
 
 For more information on the applicable job roles in the social service sector visit this [link.](https://www.myskillsfuture.sg/content/portal/en/career-resources/career-resources/campaigns/train-and-skill-up-for-jobs-in-Social-Services.html){:target="_blank"}
 
