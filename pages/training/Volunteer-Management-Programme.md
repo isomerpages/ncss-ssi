@@ -1,9 +1,13 @@
 ---
-title: Volunteer Management Programme
-permalink: /pages/training/Volunteer-Management-Programme
+title: SGUnited Skills Programme – Volunteer Management
+permalink: /pages/training/Volunteer-Management
 ---
 
 ### Overview
+
+The SGUnited Skills Programme – Volunteer Management comprises of a suite of short courses that was specially put together to equip learners with the appropriate knowledge and skillsets to pursue roles in volunteer management, programming and development.
+
+For more information on the applicable job roles in the social service sector visit this [link.](https://www.myskillsfuture.sg/content/portal/en/career-resources/career-resources/campaigns/train-and-skill-up-for-jobs-in-Social-Services.html){:target="_blank"}
 
 ### Target Audience
 
@@ -11,10 +15,6 @@ permalink: /pages/training/Volunteer-Management-Programme
 -   Professionals, Managers and Executives (PMEs).
 -   At least three to four years of experience in Marketing and Event Management.
 -   Experience in engaging and managing multiple stakeholders.  
-
-### Key Job Roles for Learners Under this Programme
-
-Learners may become a Volunteer Manager or Coordinator. For more information on the applicable job roles visit this [link](https://www.myskillsfuture.sg/content/portal/en/career-resources/career-resources/campaigns/train-and-skill-up-for-jobs-in-Social-Services.html){:target="_blank"}
 
 ### Programme details
 
