@@ -2,7 +2,7 @@
 title: Social Service Assistant Programme
 permalink: /pages/training/Social-Service-Assistant-Programme
 ---
-### Programme Details
+### Overview
 -   Start Date: Jan 21 (Intake 1) and Mar 21 (Intake 2).
 -   Programme Duration: Eight months.
 -   Fees (excluding GST): Total would be $14,130 but net fees after funding will be $666.67.  
@@ -13,6 +13,18 @@ permalink: /pages/training/Social-Service-Assistant-Programme
 -   Singaporeans or Singapore Permanent Residents above the age of 21 years who are affected by the COVID-19 pandemic.
 -   Rank and File (RnF) employees.
 -   Individual contributors with at least three to four years of experience in people engagement, programme coordination, administration and operations.
+
+### Key Job Roles for Learners Under this Programme
+
+Learners may become a Social Service Assistant or Programme Executive. For more information on the applicable job roles visit this [link](https://www.myskillsfuture.sg/content/portal/en/career-resources/career-resources/campaigns/train-and-skill-up-for-jobs-in-Social-Services.html){:target="_blank"}
+
+### Programme Details
+-   Application period: Applications for this course will be from 4 Dec 20 to 20 Dec 20. 
+-   Start Date: Jan 21 (Intake 1) and Mar 21 (Intake 2).
+-   Programme Duration: Eight months.
+-   Fees (excluding GST): Total would be $14,130 but net fees after funding will be $666.67. 
+-   Mode of delivery: Blended learning (facilitated classroom training, online course materials & pre-course e-Learning activities).
+-   Award of Certificate: Learners who have a minimum attendence of 75% and pass the assessment(s) will be awarded with an electronic Certificate of Achievement from SSI.
 
 ### Modules for Sector Specific Skills 
 
@@ -70,6 +82,10 @@ Learners will be taught to interpret the models of help used in social service p
 ### Application Details 
 
 Sign up for the programme through this [link.](https://e-services.ncss.gov.sg/Training/Course/DetailProgramme/147c60f4-4034-eb11-816c-000c296ee030 ){:target="_blank"}
+
+### Enquiries
+
+For queries relating to this programme, you may email socialserviceinstitute@ncss.gov.sg.
 
 Note:
 
