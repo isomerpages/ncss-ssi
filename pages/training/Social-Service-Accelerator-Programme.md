@@ -3,6 +3,7 @@ title: SGUnited Skills Programme – Social Service Accelerator
 permalink: /pages/training/Social-Service-Accelerator
 ---
 ### Overview
+
 The SGUnited Skills Programme – Social Service Accelerator comprises of a suite of short courses that was specially put together to equip participants with the appropriate knowledge and skillsets to pursue roles in various corporate functions such as planning, operations, marketing, IT, finance or HR. 
 
 For more information on the applicable job roles in the social service sector visit this [link.](https://www.myskillsfuture.sg/content/portal/en/career-resources/career-resources/campaigns/train-and-skill-up-for-jobs-in-Social-Services.html){:target="_blank"}
@@ -14,6 +15,7 @@ For more information on the applicable job roles in the social service sector vi
 -   Multi-disciplinary professionals with at least three to four years of experience in the domains of Marketing, Human Resource, Finance, IT Project Management and Operation Management.
 
 ### Programme Details
+
 -   Application period: Applications for this course will be from 4 Dec 20 to 20 Dec 20. 
 -   Start Date: Jan 21 (Intake One) and Mar 21 (Intake Two).
 -   Programme Duration: Six months.
