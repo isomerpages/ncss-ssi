@@ -28,7 +28,7 @@ Information on placement opportunities can be found through the social service d
 
 ### FAQs
 
-For the FAQs for SSI's SGUS programmes, refer to this [link](https://ncss-ssi-staging.netlify.app/images/faq/SocialServiceInstitute_SGUS_FAQ_11 Dec 2020.pdf/){:target="_blank"}.
+For the FAQs for SSI's SGUS programmes, refer to this [link](https://ncss-ssi-staging.netlify.app/images/faq/SocialServiceInstitute_SGUS_FAQ_11%20Dec%202020.pdf){:target="_blank"}.
 
 ### Useful Links
 
