@@ -32,15 +32,15 @@ For more information on the applicable job roles in the social service sector vi
 ### Modules for Functional Skills
 
 **Marketing & Fundraising**
--   [Branding Non-Profit: A Introduction](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=branding+non-profit&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"} (by SSI)
+-   Branding Non-Profit: A Introduction (by SSI)
 
 Learners will gain a deeper understanding of branding and its importance for both new and more established non profits.
 
--   [Donor Outreach through Social Media](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=donor+outreach&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"} (by SSI)
+-   Donor Outreach through Social Media (by SSI)
 
 Learners will be equipped with the knowledge and skills to select appropriate social media platforms that matches their donor outreach objectives and gain an understanding of the barriers of using social media for donor engagement. 
 
--   [Making $ense I: An introduction to Fund Raising](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Making+%24ense+I%3A+An+introduction+to+Fund+Raising&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"} (by SSI)
+-   Making $ense I: An introduction to Fund Raising (by SSI)
 
 Learners will gain an understanding of why and how donors give and learn to use tools to help them plan successful fund-raising activities. In addition, the drafting of effective fund-raising proposals will also be taught. 
 
@@ -50,12 +50,12 @@ Learners will gain an understanding of why and how donors give and learn to use 
 This course allows non-HR managers to appreciate the importance of human capital management and its fundamental functions as well as gain an overview of the human resource framework.
 
 **Finance**
--   [Budgeting for Charities](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Budgeting+for+Charities&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"} (by SSI)
+-   Budgeting for Charities (by SSI)
 
 Learners will be equipped with budgeting skills that are required to develop a realistic budget for charities to fund their programmes and initiatives in accordance to financial standards. Effective budgeting and the challenges of developing robust budgets will also be taught. 
 
 **Volunteer & Client Management**
--   [Manage Challenging Social Service and NPO clients](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Manage+Challenging+Social+Service&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"} (by SSI)
+-   Manage Challenging Social Service and NPO clients (by SSI)
 
 The following topics will be covered in this course: Client Interaction Escalation, The Psychology of Anger, Types of Challenging Clients, Handle Complaints and Irate Clients, Diffuse Challenging Situations which include: Clients who will not take “No” for an answer and Clients with unreasonable behaviour, Techniques to remain cool as a cucumber and Action Plan Development. 
 
