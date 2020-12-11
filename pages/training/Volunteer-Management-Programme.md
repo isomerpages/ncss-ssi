@@ -27,7 +27,7 @@ For more information on the applicable job roles in the social service sector vi
 
 ### Modules for Sector Specific Skills  
 
--   [Design and develop effective volunteer programmes](https://e-services.ncss.gov.sg/Training/Course/TemplateDetail/c17a2fa5-7d25-e611-8112-000c296ee03a?isProgramme=False){:target="_blank"} (by SSI)
+-   Design and develop effective volunteer programmes (by SSI)
 
 Learners will be taught how to design and develop effective volunteer work programmes and the volunteer leadership framework. 
 
@@ -42,7 +42,7 @@ Learners will gain a working knowledge of human resource skills needed by volunt
 ### Modules for Functional Skills
 
 **Marketing & Fundraising**
--   [Branding Non-Profit: A Introduction](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=branding+non-profit&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"} (by SSI)
+-   Branding Non-Profit: A Introduction (by SSI)
 
 Learners will gain a deeper understanding of branding and its importance for both new and more established non profits.
 
@@ -55,7 +55,7 @@ Learners will be taught how to apply the concept, skills and knowledge in managi
 Learners will be equipped with the basic skills and knowledge needed to run a successful event. Project management tools will also be taught, allowing event coordinators to better keep track of the tasks, manpower and resources needed for an event.
 
 **Client Management**
--   [Manage Challenging Social Service and NPO clients](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=manage+challenging&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"} (by SSI)
+-   Manage Challenging Social Service and NPO clients (by SSI)
 
 The following topics will be covered in this course: Client Interaction Escalation, The Psychology of Anger, Types of Challenging Clients, Handle Complaints and Irate Clients, Diffuse Challenging Situations which include: Clients who will not take “No” for an answer and Clients with unreasonable behaviour, Techniques to remain cool as a cucumber and Action Plan Development.
 
