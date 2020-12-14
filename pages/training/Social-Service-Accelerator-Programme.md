@@ -16,10 +16,10 @@ For more information on the applicable job roles in the social service sector vi
 
 ### Programme Details
 
--   Application period: Applications for this course will be from 4 Dec 20 to 20 Dec 20. 
+-   Application period: Applications for this course will be from 12 Dec 20 to 20 Dec 20. 
 -   Start Date: Jan 21 (Intake One) and Mar 21 (Intake Two).
 -   Programme Duration: Six months.
--   Fees (excluding GST): Total would be $15,000 but net fees after funding will be $500. 
+-   Fees (excluding GST): Total would be $14,160 but net fees after funding will be $500. 
 -   Mode of delivery: Blended learning (facilitated classroom training, online course materials & pre-course e-Learning activities).
 -   Award of Certificate: Learners who have a minimum attendence of 75% and pass the assessment(s) will be awarded with an electronic Certificate of Achievement from SSI.
 
