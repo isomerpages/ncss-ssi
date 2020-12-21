@@ -28,9 +28,9 @@ sections:
         subtitle: SSI’s Training Directory is Now Available
         description: Download our training directory to view courses from across 10 different course categories (CET Programmes, Cross Sector, Children, Youth & Family, Disability, Mental Health, Eldercare, Board Development, Management & Organisational Development,Volunteer Development & Management and Caregiving).
         button: Download our training directory!
-        image: /images/homepage/Training_Direc_Banner.jpg
-        alt: Training Directory        
         url: /images/documents/SSI Training Directory FY20_21 2nd edition.pdf
+        image: /images/homepage/Training_Direc_Banner.jpg
+        alt: Social Service Institute SSI Singapore - Course Schedule,Course List,Training Calendar      
 
     - infopic:
         title: Our Partners
@@ -39,8 +39,7 @@ sections:
         button: Learn More
         url: /about-us/our-partners/
         image: /images/homepage/our-partners.jpg
-        alt: Our Partners
-
+        alt: Social Service Institute SSI Singapore - Partnerships with SSAs, NPOs, IHLs & Private Training Organisations
 
     - infopic:
         title: Our Stories
@@ -49,7 +48,7 @@ sections:
         button: Learn More
         url: /stories/
         image: /images/homepage/our-stories.jpg
-        alt: Our Stories
+        alt: Social Service Institute SSI Singapore - Our Stories, Testimonials
 
     - infopic:
         title: Join Our Mailing Lists
@@ -57,8 +56,8 @@ sections:
         description: Receive the latest learning and development updates from SSI by signing up for our various mailing lists.
         button: Sign Up Here
         url: /about-us/mailing-list/
-        image: /images/homepage/mailing-list.jpg
-        alt: Join our mailing list
+        image: images/homepage/mailing-list.jpg
+        alt: Social Service Institute SSI Singapore - Mailing List, Newsletter Suscription
         
     - resources:
         title: Be in the know

@@ -2,7 +2,7 @@
 title: Children, Youth and Family
 permalink: /training/cyandf
 ---
-![CYF Banner](/images/training/CYF_SSI_header-banner-757-x-239px2.jpg)
+![Social Service Institute (SSI) Singapore - Children & Youth Development, Family Therapy / Family Violence Courses](/images/training/CYF_SSI_header-banner-757-x-239px2.jpg)
 
 The featured courses are:  
  - [An Introduction to Family Therapy](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=An+Introduction+to+Family+Therapy){:target="_blank"}  
