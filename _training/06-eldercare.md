@@ -2,7 +2,7 @@
 title: Eldercare
 permalink: /training/eldercare
 ---
-![Eldercare_header](/images/training/Eldercare_SSI_header-banner-757-x-239px5.jpg)
+![Social Service Institute (SSI) Singapore - Caring and communicating with Dementia /elderly persons courses](/images/training/Eldercare_SSI_header-banner-757-x-239px5.jpg)
 
 The featured courses are:
 -   [Communicate Effectively with Seniors](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Communicate+Effectively+with+Seniors){:target="_blank"}   
