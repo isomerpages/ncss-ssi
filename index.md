@@ -39,7 +39,7 @@ sections:
         button: Learn More
         url: /about-us/our-partners/
         image: /images/homepage/our-partners.jpg
-        alt: Social Service Institute (SSI) Singapore - Partnerships: SSAs, NPOs, IHLs & Private Training Organisations
+        alt: Our Partners
 
 
     - infopic:
