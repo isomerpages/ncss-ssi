@@ -2,7 +2,7 @@
 layout: homepage
 title: SSI - Home
 description: Social Service Institute
-image: ![Social Service Institute (SSI) Singapore Logo](/images/SSILogoFullColour_large_fullwidth.png)
+image: /images/SSILogoFullColour_large_fullwidth.png
 permalink: /
 notification: Temporary Closure of SSI Office from 2 June 2020. <a href="/updates/">Click here for more details.</a>
 sections:
