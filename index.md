@@ -2,7 +2,7 @@
 layout: homepage
 title: SSI - Home
 description: Social Service Institute
-image: ![alt text - Social Service Institute (SSI) Singapore Logo](/images/SSILogoFullColour_large_fullwidth.png)
+image: ![Social Service Institute (SSI) Singapore Logo](/images/SSILogoFullColour_large_fullwidth.png)
 permalink: /
 notification: Temporary Closure of SSI Office from 2 June 2020. <a href="/updates/">Click here for more details.</a>
 sections:
@@ -28,7 +28,7 @@ sections:
         subtitle: SSI’s Training Directory is Now Available
         description: Download our training directory to view courses from across 10 different course categories (CET Programmes, Cross Sector, Children, Youth & Family, Disability, Mental Health, Eldercare, Board Development, Management & Organisational Development,Volunteer Development & Management and Caregiving).
         button: Download our training directory!
-        image: ![alt text - Social Service Institute (SSI) Singapore - Course Schedule / Course List / Training Calendar](/images/homepage/Training_Direc_Banner.jpg)
+        image: /images/homepage/Training_Direc_Banner.jpg
         alt: Social Service Institute (SSI) Singapore - Course Schedule / Course List / Training Calendar      
         url: /images/documents/SSI Training Directory FY20_21 2nd edition.pdf
 
@@ -38,7 +38,7 @@ sections:
         description: SSI is constantly looking for partnerships with local or international SSAs, NPOs, IHLs and private training organisations to co-develop the capabilities of Singapore’s social service sector.
         button: Learn More
         url: /about-us/our-partners/
-        image: ![alt text - Social Service Institute (SSI) Singapore - Partnerships: SSAs, NPOs, IHLs & Private Training Organisations](/images/homepage/our-partners.jpg)
+        image: /images/homepage/our-partners.jpg
         alt: Social Service Institute (SSI) Singapore - Partnerships: SSAs, NPOs, IHLs & Private Training Organisations
 
 
@@ -48,7 +48,7 @@ sections:
         description: Hear from our learners whose lives have been transformed through their desire to learn and grow through SSI’s courses and initiatives.
         button: Learn More
         url: /stories/
-        image: ![alt text – Social Service Institute (SSI) Singapore - Our Stories / Testimonials](/images/homepage/our-stories.jpg)
+        image: /images/homepage/our-stories.jpg
         alt: Social Service Institute (SSI) Singapore - Our Stories / Testimonials
 
     - infopic:
@@ -57,7 +57,7 @@ sections:
         description: Receive the latest learning and development updates from SSI by signing up for our various mailing lists.
         button: Sign Up Here
         url: /about-us/mailing-list/
-        image: ![/alt text - Social Service Institute (SSI) Singapore - Mailing List / Newsletter Suscription](images/homepage/mailing-list.jpg)
+        image: images/homepage/mailing-list.jpg
         alt: Social Service Institute (SSI) Singapore - Mailing List / Newsletter Suscription
         
     - resources:
