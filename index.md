@@ -39,7 +39,7 @@ sections:
         button: Learn More
         url: /about-us/our-partners/
         image: /images/homepage/our-partners.jpg
-        alt: Our Partners
+        alt: Social Service Institute SSI Singapore - Partnerships: SSAs, NPOs, IHLs & Private Training Organisations
 
     - infopic:
         title: Our Stories
@@ -48,7 +48,7 @@ sections:
         button: Learn More
         url: /stories/
         image: /images/homepage/our-stories.jpg
-        alt: Our Stories
+        alt: Social Service Institute SSI Singapore - Our Stories, Testimonials
 
     - infopic:
         title: Join Our Mailing Lists
@@ -57,7 +57,7 @@ sections:
         button: Sign Up Here
         url: /about-us/mailing-list/
         image: images/homepage/mailing-list.jpg
-        alt: Join Our Mailing Lists
+        alt: Social Service Institute SSI Singapore - Mailing List, Newsletter Suscription
         
     - resources:
         title: Be in the know
