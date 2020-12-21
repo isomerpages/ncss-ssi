@@ -1,6 +1,6 @@
 title: Social Service Institute
 url: "https://www.ssi.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/homepage/ssilogo.ico
+favicon: ![alt text – Social Service Institute (SSI) Singapore Logo](/images/homepage/ssilogo.ico)
 
 # Site colors
 colors:
