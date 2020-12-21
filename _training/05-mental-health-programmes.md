@@ -2,7 +2,7 @@
 title: Mental Health
 permalink: /training/mental-health
 ---
-![Mental health banner](/images/training/mental%20health%20SSI_header-banner-757-x-239px3.jpg)
+![Social Service Institute (SSI) Singapore - Mental Health Conditions & Recovery Courses](/images/training/mental%20health%20SSI_header-banner-757-x-239px3.jpg)
 
 
 -   [Applied Suicide Interventional Skills](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=applied+suicide+) [(ASIST)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=applied+suicide+){:target="_blank"}   
