@@ -30,7 +30,7 @@ sections:
         button: Download our training directory!
         url: /images/documents/SSI Training Directory FY20_21 2nd edition.pdf
         image: /images/homepage/Training_Direc_Banner.jpg
-        alt: Social Service Institute (SSI) Singapore - Course Schedule / Course List / Training Calendar      
+        alt: Social Service Institute (SSI) Singapore - Course Schedule, Course List, Training Calendar      
 
     - infopic:
         title: Our Partners
@@ -39,7 +39,7 @@ sections:
         button: Learn More
         url: /about-us/our-partners/
         image: /images/homepage/our-partners.jpg
-        alt: Our Partners
+        alt: Social Service Institute (SSI) Singapore - Partnerships: SSAs, NPOs, IHLs & Private Training Organisations
 
 
     - infopic:
