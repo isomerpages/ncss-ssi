@@ -1,6 +1,8 @@
 ---
 title: Advanced Certificate in Social Service
 permalink: /training/cet-programmes/advanced-certificate-in-social-service/
+description: SSI's Advanced Certificate in Social Service equips learners with the horizontal skills necessary to be a Social Service Assistant.
+
 ---
 ### Overview
 
