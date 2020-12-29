@@ -1,7 +1,7 @@
 ---
 title: SGUnited Skills Programme
 permalink: /training/sgus/
-description: The SGUnited Skills (SGUS) programme under SSI  seeks to equip Singaporeans or permanent residents who have lost their jobs due to COVID-19 with the relevant skills to assume roles in the social service sector.
+description: The SGUnited Skills (SGUS) programme under SSI helps Singaporeans or permanent residents who have lost their jobs due to COVID-19 to assume roles in the social service sector by equipping them with relevant skillsets.
 
 ---
 
