@@ -1,6 +1,8 @@
 ---
 title: Mental Health
 permalink: /training/mental-health
+description: SSI's mental health courses provides social service professionals with the skills to work with persons with mental health conditions. 
+
 ---
 ![Social Service Institute (SSI) Singapore - Mental Health Conditions & Recovery Courses](/images/training/mental%20health%20SSI_header-banner-757-x-239px3.jpg)
 
