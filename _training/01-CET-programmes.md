@@ -1,6 +1,8 @@
 ---
 title: CET Programmes 
 permalink: /training/cet-programmes/
+description: SSI offers Continuing Education and Training (CET) programmes which provides certificate, diploma and degree based qualifications. Learn more!
+
 ---
 
 ![Social Service Institute (SSI) Singapore - Continuing Education & Training (CET) Courses](/images/training/CET-programmes-SSI_header-banner-757-x-239px10.jpg)
