@@ -78,9 +78,9 @@ The application period is open every quarter, unless stated otherwise. Refer to 
 
 ### **Evaluation & Outcome**
 
-Your application will be processed and evaluated after the application period for the quarter has ended. You will be informed about the application outcome approximately six weeks from the application closing date. Completed applications will be processed based on the eligibility criteria and on a first come first serve basis. Applications will also be subjected to the spaces available based on the award cap. In the event that the cap on the number of awards to be given out in a particular year has already been reached, applications received thereafter will not be processed.
-  
-Incomplete applications or applications without supporting documents will also not be processed. Shortlisted applicants will be notified via email.
+Your application will be processed and evaluated after the application period for the quarter has ended. You will be informed about the application outcome approximately six weeks from the application closing date. Completed applications will be processed based on the eligibility criteria and on a first come first serve basis. 
+
+Applications will also be subjected to the spaces available based on the award cap. In the event that the cap on the number of awards to be given out in a particular year has already been reached, applications received thereafter will not be processed. Incomplete applications or applications without supporting documents will also not be processed. Shortlisted applicants will be notified via email.
 
 ### **Contact Us**
 
