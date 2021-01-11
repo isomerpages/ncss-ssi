@@ -50,14 +50,14 @@ Learners will be assessed through a mid-term written assessment, a practical ass
 
 ### Course Schedule
 
-Classroom Training:  
-10 to 25 Mar 21     
+Trainer Led Session:  
+10 to 26 Mar 21     
 -   10, 11, 16, 19, 23, 24, 26 Mar 21: 9.00 am to 5.00 pm (in class session)
 -   12, 15, 17, 18, 22, 25 Mar 21: 9.00 am to 4.00 pm (Zoom session)
  
-Practicum Workshop:  
+Practicum Workshop (Zoom Session):  
 29 Mar 2021  
-Monday, 9.00am – 6.00pm  
+Monday (workshop timings are currently pending confirmation) 
   
 Practicum (To be allocated upon successful enrolment and completion of classroom training):  
 30 Mar to 24 May 21  
