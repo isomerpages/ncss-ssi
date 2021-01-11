@@ -48,7 +48,7 @@ At the end of the module, participants are required to produce a Resilient Learn
 
 The course is expected to run from 2 to 4 Mar 21. 
 
--   2 Mar 21: 9.00 am to 4.00 pm (in class session)
+-   2 Mar 21: 9.00 am to 4.00 pm (classroom session)
 -	3 – 4 Mar 21: 9.00 am to 12.00 pm (Zoom session)
 
 ### Application Form
