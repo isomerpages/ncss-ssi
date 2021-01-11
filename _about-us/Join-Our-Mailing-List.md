@@ -1,5 +1,5 @@
 ---
-title: 05 Join Our Mailing Lists
+title: Join Our Mailing Lists
 permalink: /About-Us/Join-Our-Mailing-List/
 ---
 
