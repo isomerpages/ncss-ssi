@@ -1,6 +1,6 @@
 ---
 title: Join Our Mailing Lists
-permalink:/_about-Us/Join-Our-Mailing-Lists/
+permalink:/about-us/about-us/Join-Our-Mailing-Lists/
 ---
 
 Receive the latest learning and development updates by signing up for our various mailing lists shown below.  
