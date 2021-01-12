@@ -19,19 +19,21 @@ Learners are required to undergo summative assessments in the form of role play 
 
 ### **Course Details**
 
-**Module 1: Apply Group Work Theories and Processes**  
-This module introduces learners to the different types of groups, and the underlying theories and processes of group work to enable them to work effectively with clients in a group work setting. The module also aims to equip learners with the necessary group formation skills to help them plan effective group work interventions that are useful in addressing clients’ needs through purposeful group experiences. Through this module, learners will be able to:
+**Module 1: Group Work Assessment and Planning**  
+This module will provide learners with the competencies to assess the need for group work and plan appropriate interventions for a group. The key purpose of this module is to equip learners with the relevant knowledge and practice skills to:
 
--   Apply group work theories when planning for group work sessions.
--   Relate to group work processes when working with clients in a group work setting.
--   Use group formation skills in forming groups.
+-   Establish if there is a need for group work.
+-   Plan a psycho-education or support group to address the needs of the group.
+-   Design effective group work programmes and activities (interventions) to address the needs of a specific group.
 
-**Module 2: Facilitate Group Work Sessions**  
-This module focuses on providing learners with the necessary facilitation skills to conduct group work sessions. Learners will also be equipped with the relevant techniques to improve group dynamics and enhance its members’ engagement in the group work sessions. The module will also cover ways to evaluate the progress and effectiveness of a group work programme. Through this module, learners will be able to:
+**Module 2: Group Work Intervention**  
+This module will provide learners with the competencies to administer group work. The key purpose of this module is to equip learners with the relevant knowledge and practice skills to:
 
--   Apply facilitation skills to conduct group work sessions.
--   Apply techniques to improve group dynamics.
--   Propose a group work programme evaluation plan.
+-   Form an appropriate group for the group work.
+-   Obtain resources to deliver the group work.
+-   Conduct group interventions effectively.
+-   Manage issues, conflicts and risks that may arise during group sessions.
+-   Monitor the progress and effectiveness of the group and group work.
 
 Note:    
 
