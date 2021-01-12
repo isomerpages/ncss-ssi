@@ -32,8 +32,8 @@ This module will provide learners with the competencies to administer group work
 -   Form an appropriate group for the group work.
 -   Obtain resources to deliver the group work.
 -   Conduct group interventions effectively.
--   Manage issues, conflicts and risks that may arise during group sessions.
--   Monitor the progress and effectiveness of the group and group work.
+- Manage issues, conflicts and risks that may arise during group sessions.
+- Monitor the progress and effectiveness of the group and group work.
 
 Note:    
 
