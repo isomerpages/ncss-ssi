@@ -18,7 +18,7 @@ For more information on the applicable job roles in the social service sector vi
 
 ### Programme Details
 
--   Application period: Applications for this course will be from 15 Jan 21 to 29 Jan 21. 
+-   Application period: Applications for this course will be from 18 Jan 21 to 1 Feb 21. 
 -   Start Date: Mar 21 (Intake Two).
 -   Programme Duration: Six months.
 -   Fees (excluding GST): Total would be $14,160 but net fees after funding will be $500. 
@@ -91,4 +91,4 @@ Note:
 
 1. The course details including the start dates and cost of the course is tentative and will be updated accordingly.
 2. The Social Service Accelerator Programme is jointly developed by SSI and Ngee Ann Polytechnic (NP) although individual courses may come from either SSI or NP.
-3. Registration may close before 29 Jan 21 if the maximum number (60 pax) of available spaces is taken up before the closure date.
+3. Registration may close before 1 Feb 21 if the maximum number (60 pax) of available spaces is taken up before the closure date.
