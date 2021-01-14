@@ -14,8 +14,8 @@ For more information on the applicable job roles in the social service sector vi
 -   Individual contributors with at least three to four years of experience in people engagement, programme coordination, administration and operations.
 
 ### Programme Details
--   Application period: Applications for this course will be from 12 Dec 20 to 20 Dec 20. 
--   Start Date: Jan 21 (Intake One) and Mar 21 (Intake Two).
+-   Application period: Applications for this course will be from 15 Jan 21 to 29 Jan 21. 
+-   Start Date: Mar 21 (Intake Two).
 -   Programme Duration: Eight months.
 -   Fees (excluding GST): Total would be $14,130 but net fees after funding will be $666.67. 
 -   Mode of delivery: Blended learning (facilitated classroom training, online course materials & pre-course e-Learning activities).
@@ -76,7 +76,7 @@ Learners will be taught to interpret the models of help used in social service p
 
 ### Application Details 
 
-Sign up for the programme through this [link.](https://e-services.ncss.gov.sg/Training/Course/DetailProgramme/147c60f4-4034-eb11-816c-000c296ee030 ){:target="_blank"}
+Sign up for the programme through this [link.](https://e-services.ncss.gov.sg/Training/Course/DetailProgramme/71BB84BC-4735-EB11-816C-000C296EE030){:target="_blank"}
 
 ### Enquiries
 
