@@ -1,17 +1,21 @@
 ---
-title: Professional Certificate in Group Work
-permalink: /training/cet-programmes/professional-certificate-in-group-work/
+title: Professional Certificate in Group Work (NSWCF Foundational)
+permalink: /training/cet-programmes/Professional-Certificate-in-Group-Work-(NSWCF-Foundational)/
 ---
 
 ### **Overview**
 
-Jointly developed with the Ministry of Social and Family Development (MSF) and Ministry of Health (MOH), 'Professional Certificate in Group Work' is a course that equips social workers with foundation-level practice competencies in group work theories, plus processes and facilitation techniques in a group work setting. Learners will be equipped with the necessary group formation, facilitation and evaluation skills to help them plan effective group interventions.    
+Jointly developed with the Ministry of Social and Family Development (MSF) and Ministry of Health (MOH), 'Professional Certificate in Group Work (NSWCF Foundational)' consists of two integrated modules that will provide social workers with foundation-level practice competencies. Learners will be equipped with the competencies to assess the need for group work in a social work setting and plan appropriate interventions in a group setting.  
 
 Social workers can embark on this course as part of a competency-based training roadmap to deepen their skills and knowledge and plan their career progression pathway based on competencies and job roles.  
   
 ### **Target Audience**  
 
-Social workers who possess at least a Bachelors degree, or Graduate Diploma in Social Work from a recognised university.
+Social Workers, Youth Workers and other Social Work Professionals who are either:
+
+-	New to group work, and looking to equip themselves with the relevant skills and knowledge to deliver group work effectively.
+
+-	Experienced in using group work interventions, but desire to broaden or deepen their skillsets to deliver group work more effectively.
 
 ### **Assessment Requirements**
 
