@@ -1,6 +1,8 @@
 ---
 title: Cross Sector
 permalink: /training/cross-sector
+description: SSI's Cross Sector courses provide a deeper understanding about each sub-sector, their unique social needs and helps learners to critically discern and analyse their own assumptions. It also helps train social service professionals in counselling, motivational interviewing & behaviour therapy etc.
+
 ---
 ![Social Service Institute (SSI) Singapore - Counselling, Motivational Interviewing & Behaviour Therapy Courses](/images/training/SSI_header-banner-757-x-239px1.jpg)
 

@@ -46,9 +46,10 @@ At the end of the module, participants are required to produce a Resilient Learn
 
 ### **Course Schedule**
 
-The course is expected to run from 11 - 12 Mar 2021. More details will be provided at a later date.
+The trainer led sessions are expected to run from 2 to 4 Mar 21. 
 
-<sup>1</sup>This could be subjected to further changes.
+-   2 Mar 21: 9.00 am to 4.00 pm (classroom session)
+-	3 – 4 Mar 21: 9.00 am to 12.00 pm (Zoom session)
 
 ### Application Form
 

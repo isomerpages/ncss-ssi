@@ -11,7 +11,7 @@ As part of SSI’s Education Innovation initiative, we will leverage on technolo
     
 -   Learners will complete an online course evaluation.
     
--   Learners will receive an e-certificate after attending their SSI courses. For details on how to download your e-certification follow this  [link](/images/faq/Download-eCertificate-V2-Guide.pdf){:target="_blank"}   
+-   Learners will receive an e-certificate after attending their SSI courses. For details on how to download your e-certification follow this  [link](/images/faq/Download eCertificate V3.pdf){:target="_blank"}   
     
 
 ### Course Applications

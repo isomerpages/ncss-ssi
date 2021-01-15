@@ -1,6 +1,8 @@
 ---
 title: Bachelor of Education (Special Education)
 permalink: /training/cet-programmes/bachelor-of-education-(special-education)/
+description: SSI's Bachelor of Education (Special Education) helps learners who have completed a Diploma in Special Education in NIE to upgrade to a degree qualification.
+
 ---
 ### Overview
 

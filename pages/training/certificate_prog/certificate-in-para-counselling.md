@@ -1,6 +1,8 @@
 ---
 title: Certificate in Para Counselling
 permalink: /training/cet-programmes/certificate-in-para-counselling/
+description: SSI's  Certificate in Para Counselling equips learners with basic counselling skills needed to work with certified counselling professionals.
+
 ---
 ### **Overview**
 

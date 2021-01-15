@@ -1,6 +1,8 @@
 ---
 title: Children, Youth and Family
 permalink: /training/cyandf
+description: SSI's Children, Youth and Family courses provides social service professionals with the skills to work with children, youth and families.
+
 ---
 ![Social Service Institute (SSI) Singapore - Children & Youth Development, Family Therapy / Family Violence Courses](/images/training/CYF_SSI_header-banner-757-x-239px2.jpg)
 

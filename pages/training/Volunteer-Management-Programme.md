@@ -18,7 +18,7 @@ For more information on the applicable job roles in the social service sector vi
 
 ### Programme details
 
--   Application period: Applications for this course will be from 12 Dec 20 to 20 Dec 20. 
+-   Application period: Applications for this course will be from 12 Dec 20 to 20 Jan 21. 
 -   Start Date: Jan 21 (Intake One) and Mar 21 (Intake Two).
 -   Programme Duration: Six months.
 -   Fees (excluding GST): Total would be $14,150 but net fees after funding will be $500
@@ -80,4 +80,4 @@ Note:
 
 1. The course details including the start dates and cost of the course is tentative and will be updated accordingly.
 2. The Volunteer Management Programme is jointly developed by SSI and Ngee Ann Polytechnic (NP) although individual courses may come from either SSI or NP. 
-3. Registration may close before 20 Dec 20 if the maximum number (50 pax) of available spaces is taken up before the closure date.
+3. Registration may close before 20 Jan 21 if the maximum number (50 pax) of available spaces is taken up before the closure date.

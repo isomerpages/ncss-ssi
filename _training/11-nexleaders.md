@@ -1,6 +1,8 @@
 ---
 title: NEXLeaders Programme
 permalink: /training/nexleaders/
+description: NEXLeaders is a  leadership development programme for the social service sector created by SSI & Meta Consulting. Learn more!
+
 ---
 ![Social Service Institute (SSI) Singapore - Nexleaders Leadership Development Programme Micro Learning Courses](/images/training/nexleaders_Ssi_header.png)
 

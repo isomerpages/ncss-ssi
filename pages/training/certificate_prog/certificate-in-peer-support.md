@@ -50,23 +50,24 @@ Learners will be assessed through a mid-term written assessment, a practical ass
 
 ### Course Schedule
 
-Classroom Training:  
-15 - 26 Mar 2021 (10 days)  
-Monday – Friday, 9.30am – 6.00pm  
+Trainer Led Session:  
+10 to 26 Mar 21     
+-   10, 11, 16, 19, 23, 24, 26 Mar 21: 9.00 am to 5.00 pm (classroom session)
+-   12, 15, 17, 18, 22, 25 Mar 21: 9.00 am to 4.00 pm (Zoom session)
+ 
+Practicum Workshop (Zoom Session):  
+29 Mar 2021  
+Monday (workshop timings are currently pending confirmation) 
   
-Practicum Workshop:  
-29 Mar 2021 (1 day)  
-Monday, 9.00am – 6.00pm  
-  
-Practicum (To be allocated upon successful enrolment and completion of classroom training):  
-30 Mar – 24 May 2021  
+Practicum (To be allocated upon successful enrolment and completion of training):  
+30 Mar to 24 May 21  
   
 Practicum Supervision Sessions:  
-14 & 28 Apr 2021 and 12 & 27 May 2021  
+14 & 28 Apr 21 and 10 & 27 May 21 (Zoom session)
 Wednesday and Thursday (Timing TBC)  
   
 Graduation:  
-9 July 2021  
+9 July 21  
 Friday (Timing TBC)
 
 ### Application Form
