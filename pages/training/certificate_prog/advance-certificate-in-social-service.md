@@ -6,12 +6,10 @@ description: SSI's Advanced Certificate in Social Service equips learners with t
 ---
 ### Overview
 
-The Advanced Certificate in Social Service<sup>1</sup> is a foundational programme that aims to equip learners with the necessary knowledge and skills to be collaborative, client-centric, compassionate and resilient individuals who are able to carry out their roles effectively when working with clients, partners and stakeholders. The programme further equips learners with the knowledge, skills and attitudes required in in para-counselling. This allows them to provide service support to various clients and when working with volunteers in social service agencies (SSAs), communities and institutional settings.  
+The Advanced Certificate in Social Service is a foundational programme that aims to equip learners with the necessary knowledge and skills to be collaborative, client-centric, compassionate and resilient individuals who are able to carry out their roles effectively when working with clients, partners and stakeholders. The programme further equips learners with the knowledge, skills and attitudes required in in para-counselling. This allows them to provide service support to various clients and when working with volunteers in social service agencies (SSAs), communities and institutional settings.  
   
 The qualification obtained from completing this foundational programme will promote the development and enhancement of horizontal skills necessary to perform the role of a Social Service Assistant. There are five WSQ modules and five non-WSQ modules in this programme. Successful completion of the programme will provide learners with the academic/qualification pathway to progress further in their journey to upskill themselves. Graduands from this programme will be eligible to apply for the SSI Higher Diploma in Social Service (HDSS), which articulates to the Bachelor of Social Work programme offered by the Singapore University of Social Sciences (SUSS).  
   
-<sup>1</sup>This programme name may be subjected to further changes.
-
 ### Entry Requirements
 
 Applicants must possess a:
