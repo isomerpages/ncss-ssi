@@ -52,7 +52,7 @@ For a full list of other modules, which will be made available to you after comp
 ### Course Fees and Subsidies   
 Normal Fee: $216 per staff for an one-year period.  
 
-If you are signing up between 1 Nov 20 to 12 Mar 21, you will enjoy a special price of $160 per staff for an one-year period.   
+If you are signing up between <b> 1 Nov 20 to 12 Mar 21 </b>, you will enjoy a special price of $160 per staff for an one-year period.   
 
 The VCF Training Grant is applicable for learners from registered charities and Institutions of Public Character (IPCs). This grant will cover 60% of the course fee upon successful application and completion of the core courses.   
 
