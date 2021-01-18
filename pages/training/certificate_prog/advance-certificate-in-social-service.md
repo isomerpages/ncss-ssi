@@ -60,5 +60,5 @@ Applicants can register for the programme through the [e-services](https://e-ser
 
 ### FAQs
 
-Refer to this  [link](/images/faq/FAQ-for-Advanced-Certificate-in-Social-Service.pdf){:target="_blank"}     for FAQs relating to this programme.
+Refer to this [link](/images/faq/FAQ-for-Advanced-Certificate-in-Social-Service.pdf){:target="_blank"} for FAQs relating to this programme.
 
