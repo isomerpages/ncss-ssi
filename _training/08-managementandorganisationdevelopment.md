@@ -7,7 +7,7 @@ permalink: /training/management-and-Organisation-Development
 The featured courses are:   
 -   [Budgeting for Charities](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Budgeting+for+Charities){:target="_blank"}   
 -   [Donor Outreach Through Social Media](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Donor+Outreach+Through+Social+Media){:target="_blank"}   
--   [Effective Supervisory Skills for NPO Managers](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Effective+Supervisory+Skills+for+NPO+Managers)
+-   [Effective Supervisory Skills for NPO Managers](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Effective+Supervisory+Skills+for+NPO+Managers){:target="_blank"}  
 -   [Internal Controls for Management (I): An Introduction to Internal Controls](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Internal+Controls+for+Management+%28I%29%3A+An+Introduction+to+Internal+Controls){:target="_blank"}   
 -   [Manage Challenging Social Service and NPO Clients](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Manage+Challenging+Social+Service+and+NPO+Clients){:target="_blank"}   
 -   [Making $ense I: An Introduction to Fund-Raising](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Making+%24ense+I%3A+An+Introduction+to+Fund+Raising&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
