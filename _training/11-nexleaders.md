@@ -30,7 +30,7 @@ The courses are customised for three tiers in an organisation.
 -   Middle Management.
 -   Senior Management/Director.
 
-For a start, learners must complete five core modules within the first two and a half months (before 25 Mar 2021) before they can access the remaining 36 courses. The five core modules for each tier are as listed below.
+For a start, learners must complete five core modules within the first two and a half months before they can access the remaining 36 courses. The five core modules for each tier are as listed below.
 
 #### Supervisors and First Line Managers
 
@@ -52,11 +52,11 @@ For a full list of other modules, which will be made available to you after comp
 ### Course Fees and Subsidies   
 Normal Fee: $216 per staff for an one-year period.  
 
-If you are signing up between 1 Nov 20 to 4 Jan 21, you will enjoy a special price of $160 per staff for an one-year period.   
+If you are signing up between <b> 1 Nov 20 to 12 Mar 21 </b>, you will enjoy a special price of $160 per staff for an one-year period.   
 
 The VCF Training Grant is applicable for learners from registered charities and Institutions of Public Character (IPCs). This grant will cover 60% of the course fee upon successful application and completion of the core courses.   
 
-To qualify for the VCF Training Grant, learners must complete the abovementioned five core modules before 25 Mar 2021. More information on the VCF Training Grant can be found at this [link](http://www.charities.gov.sg/Grants/VWOs-Charities-Capabilities-Fund/Pages/VCF%20Training%20Grant.aspx){:target="_blank"}   .
+To qualify for the VCF Training Grant, learners must complete the abovementioned five core modules within the first two and a half months. More information on the VCF Training Grant can be found at this [link](http://www.charities.gov.sg/Grants/VWOs-Charities-Capabilities-Fund/Pages/VCF%20Training%20Grant.aspx){:target="_blank"}   .
 
 ### Sign Up Form   
 

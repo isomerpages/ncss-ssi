@@ -9,7 +9,7 @@ description: SSI's Children, Youth and Family courses provides social service pr
 The featured courses are:  
  - [An Introduction to Family Therapy](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=An+Introduction+to+Family+Therapy){:target="_blank"}  
  - [Certified User for Child & Adolescent Needs & Strengths (CANS)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Certified+User+for+Child+%26+Adolescent+Needs+%26+Strengths+%28CANS%29){:target="_blank"}  
- - [Certified User for Youth Level of Service/ Case Management (YLS/CMI)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Certified+User+for+Youth+Level+of+Service+%2F+Case+Management+Inventory+2.0+%28YLS%2FCMI+2.0%29){:target="_blank"}   
+ - [Certified User for Youth Level of Service/ Case Management (YLS/CMI)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=certified+user+for+youth+level+of+service&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
  - [Delivering Impactful Training to Youths](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Delivering+Impactful+Training+to+Youths){:target="_blank"}   
  - [Engaging Reluctant Adolescents Using Motivational Approaches](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Engaging+Reluctant+Adolescents+Using+Motivational+Approaches){:target="_blank"}  
  - [Family and Adult Support Tool (FAST) - User](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Family+and+Adult+Support+Tool+%28FAST%29){:target="_blank"}  

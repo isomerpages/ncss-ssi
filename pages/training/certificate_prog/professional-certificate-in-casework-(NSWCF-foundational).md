@@ -5,13 +5,13 @@ permalink: /training/cet-programmes/professional-certificate-in-casework-(NSWCF-
 
 ### **Overview**
 
-Jointly developed with the Ministry of Social and Family Development (MSF) and Ministry of Health (MOH), 'Professional Certificate in Casework' is a course that equips social workers with the competencies to provide quality social work and case management services to their clients. This three-module certification covers methodologies in engaging and assessing clients' needs for casework interventions, as well as in developing, reviewing and evaluating care plans.  
-  
-Social workers can embark on this course as part of a structured competency-based training roadmap to deepen their skills and knowledge and plan their career progression pathway based on competencies and job roles.
+Jointly developed with the Ministry of Social and Family Development (MSF) and Ministry of Health (MOH), ‘Professional Certificate in Casework’ is a course that equips social workers with the competencies to provide quality social work and case management services to their clients. This three-module certification covers methodologies in engaging and assessing clients’ needs for casework interventions, as well as in developing, reviewing and evaluating care plans.
+ 
+Social workers can embark on this course as part of a structured competency-based training roadmap to deepen their skills and knowledge and plan their career progression pathway based on competencies and job roles.  
 
 ### **Target Audience**
 
-Social workers who possess at least a Bachelor's or Graduate Diploma in Social Work from a recognised university.
+Social workers who possess at least a Bachelor’s or Graduate Diploma in Social Work from a recognised university.
 
 ### **Assessment Requirements**
 
