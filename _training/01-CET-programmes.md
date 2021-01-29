@@ -1,5 +1,5 @@
 ---
-title: CET Programmes 
+title: Continuing Education & Training (CET) Courses 
 permalink: /training/cet-programmes/
 description: SSI offers Continuing Education and Training (CET) programmes which provides certificate, diploma and degree based qualifications. Learn more!
 
