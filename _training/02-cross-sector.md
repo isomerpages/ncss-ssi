@@ -1,5 +1,5 @@
 ---
-title: Cross Sector
+title: Cross Sector Short Courses & Training
 permalink: /training/cross-sector
 description: SSI's Cross Sector courses provide a deeper understanding about each sub-sector, their unique social needs and helps learners to critically discern and analyse their own assumptions. It also helps train social service professionals in counselling, motivational interviewing & behaviour therapy etc.
 
