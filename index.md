@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: SSI - Home
+title: SSI Singapore
 description: Visit the Social Service Institute (SSI) Singapore's website and discover training programmes and resources for the social service sector.
 image: /images/SSILogoFullColour_large_fullwidth.png
 permalink: /
