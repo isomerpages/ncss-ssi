@@ -1,5 +1,5 @@
 ---
-title: Mental Health
+title: Mental Health: Awareness & Training
 permalink: /training/mental-health
 description: SSI's mental health courses provides social service professionals with the skills to work with persons with mental health conditions. 
 

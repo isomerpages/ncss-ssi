@@ -72,7 +72,7 @@ Refer to the table below to obtain the latest booking rates for SSI’s rooms.
 - Special discounts are available for MSF, NCSS and NCSS Member Agencies.
 - The fees shown above exclude GST costs.
 
-[Click here](/images/resources/Terms-and-Conditions-(Revised-2019).pdf){:target="_blank"} to view the full set of Terms and Conditions.
+[Click here](/images/resources/Terms-and-Conditions-(Revised-2019)-.pdf){:target="_blank"} to view the full set of Terms and Conditions.
 
 ### Complementary Equipment and Resources
 Booking of each room comes with the following complementary equipment and resources:

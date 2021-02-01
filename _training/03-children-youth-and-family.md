@@ -1,5 +1,5 @@
 ---
-title: Children, Youth and Family
+title: Early Childhood Care, Youth Development & Family Therapy
 permalink: /training/cyandf
 description: SSI's Children, Youth and Family courses provides social service professionals with the skills to work with children, youth and families.
 
