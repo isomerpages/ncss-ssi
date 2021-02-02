@@ -1,5 +1,5 @@
 ---
-title: Caring for Elderly: Dementia, Empowering Seniors & More
+title: Eldercare Courses
 permalink: /training/eldercare
 description: SSI's eldercare courses provides social service professionals with the skills to work with seniors.
 
