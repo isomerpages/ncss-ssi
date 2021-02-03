@@ -26,7 +26,7 @@ Learners are required to undergo summative assessments in the form of role play 
 **Module 1: Group Work Assessment and Planning**  
 This module will provide learners with the competencies to assess the need for group work and plan appropriate interventions for a group. The key purpose of this module is to equip learners with the relevant knowledge and practice skills to:
 
--   Establish if there is a need for group work.
+-   Discern if there is a need for group work.
 -   Plan a support group to address the needs of the group.
 -   Design effective group work programmes and activities (interventions) to address the needs of a specific group.
 
