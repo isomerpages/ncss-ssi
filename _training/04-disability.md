@@ -1,5 +1,5 @@
 ---
-title: Disability / Special Needs Courses
+title: Disability Courses
 permalink: /training/disability
 description: SSI provides short courses and certificate, dliploma and degree programmes to equip you with the skills to work with persons with disabilities across different spectrums.
 
