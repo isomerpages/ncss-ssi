@@ -1,7 +1,7 @@
 ---
 title: SGUnited Skills Programme – Social Service Accelerator
 permalink: /pages/training/Social-Service-Accelerator
-description: SSI's SGUnited Skills Programme – Social Service Accelerator comprises of a suite of short courses that was specially put together to equip learners with the appropriate knowledge and skillsets to pursue roles in various corporate functions such as planning, operations, marketing, IT, finance or HR.
+description: This programme helps learners affected by COVID-19 afflicted job losses to take up planning, operations, marketing, IT, finance or HR roles in SSAs.
 
 ---
 ### Overview
