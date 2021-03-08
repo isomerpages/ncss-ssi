@@ -1,5 +1,5 @@
 ---
-title: Board Development
+title: Board Development Courses
 permalink: training/board-development/
 description: SSI provides courses that develop learners' competencies to effectively lead Non-Profit Organisations.
 
