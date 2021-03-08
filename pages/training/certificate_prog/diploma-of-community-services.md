@@ -1,6 +1,8 @@
 ---
 title: Diploma Of Community Services
 permalink: /training/cet-programmes/diploma-of-community-services/
+description: The diploma of community services trains professionals in the disability subsector to deliver person-centred services.
+
 ---
 ### **Overview**
 
