@@ -1,6 +1,8 @@
 ---
 title: Volunteer Development and Management
 permalink: /training/Volunteer-Development-and-Management/
+description: SSI provides courses that both empower volunteers and volunteer managers. 
+
 ---
 ![volunteer development and management](/images/training/Volunteer_SSI_header-banner-757-x-239px8.jpg)
 
