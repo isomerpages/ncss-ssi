@@ -1,5 +1,5 @@
 ---
-title: Management and Organisation Development
+title: Management and Organisation Development Courses
 permalink: /training/management-and-Organisation-Development
 description: SSI provides courses that train learners in management, leadership, fundraising and corporate functions.
 
