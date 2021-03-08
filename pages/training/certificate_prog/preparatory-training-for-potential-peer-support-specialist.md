@@ -1,6 +1,8 @@
 ---
 title: Preparatory Training for Potential Peer Support Specialist
 permalink: /training/cet-programmes/preparatory-training-for-potential-peer-support-specialist/
+description: The first module of the Peer Support Specialist Programme is a an introductory course to the role of a Peer Support Specialist.
+
 ---
 ### **Overview**
 
