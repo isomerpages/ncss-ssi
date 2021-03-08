@@ -1,6 +1,8 @@
 ---
 title: Professional Certificate in Group Work (NSWCF Foundational)
 permalink: /training/cet-programmes/Professional-Certificate-in-Group-Work-(NSWCF-Foundational)/
+description: This course equips learners to assess the need for group work in a social service setting and to plan appropriate group intervention.
+
 ---
 
 ### **Overview**
