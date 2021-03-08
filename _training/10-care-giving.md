@@ -1,6 +1,8 @@
 ---
-title: Caregiving
+title: Caregiving Courses
 permalink: /training/Caregiving
+description: SSI's caregiving courses provide learners with an understanding of caregiving while also training them in foundational skills.
+
 ---
 ![enter image description here](/images/training/caregiving_SSI_header-banner-757-x-239px9.jpg) 
 
