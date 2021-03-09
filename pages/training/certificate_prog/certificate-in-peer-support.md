@@ -1,6 +1,8 @@
 ---
 title: Certificate in Peer Support
 permalink: /training/cet-programmes/certificate-in-peer-support/
+description: SSI's Certificate in Peer Support equips learners with the necessary competencies to assume a role of a Peer Support Specialist.
+
 ---
 ### Overview
 
