@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Training Overview
 permalink: /training/overview/
 description: SSI offers enriching training programmes in ten different course categories within the social service and non-profit sector.
 
