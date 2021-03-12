@@ -1,6 +1,8 @@
 ---
 title: LearnHere
 permalink: /resources/learnhere/
+description: SSI's e-learning portal, LearnHere, is for social service professionals to access learning content anytime, anywhere.
+
 ---
 LearnHere is an online platform that hosts a variety of learning based content. It was created to complement formal classroom trainings and provide an online portal for social service professionals to access learning-based content readily while balancing the requirements of a full time job.
 
