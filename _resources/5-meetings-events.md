@@ -1,6 +1,8 @@
 ---
-title: Meetings & Events
+title: Venue Booking
 permalink: /resources/meetings-events/
+description: Located adjacent to Tiong Bahru MRT, SSI's venues are ideal for conducting trainings, networking events or organisational retreats.
+
 ---
 
 SSI’s rooms are offered at competitive booking rates and located at a convenient location above Tiong Bahru MRT Station. The rooms are ideal for conducting trainings, networking events or organisational retreats.  
@@ -64,9 +66,9 @@ Refer to the table below to obtain the latest booking rates for SSI’s rooms.
 <em>(Effective from 1 April 2019)</em>
 
 ### Photo Gallery 
-![meetings and events photo gallery](/images/resources/meetings-events.png)
+![Social Service Institute (SSI) Singapore - Events Venue Booking for NCSS Member Organisations and Government Agencies](/images/resources/meetings-events.png)
 
-### Terms and Conditions
+### Terms and Condition
 - Venues are available for booking by NCSS Member Organisations and Government Agencies only.
 - The timings for bookings are defined as: Half-Day (9am - 1pm, 1.30pm - 5.30pm), Full-Day (9.30am - 5.30pm), Evening (6.00pm to 10.00pm).
 - Special discounts are available for MSF, NCSS and NCSS Member Agencies.
