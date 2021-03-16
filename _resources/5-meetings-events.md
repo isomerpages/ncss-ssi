@@ -68,7 +68,7 @@ Refer to the table below to obtain the latest booking rates for SSI’s rooms.
 ### Photo Gallery 
 ![Social Service Institute (SSI) Singapore - Events Venue Booking for NCSS Member Organisations and Government Agencies](/images/resources/meetings-events.png)
 
-### Terms and Condition
+### Terms and Conditions
 - Venues are available for booking by NCSS Member Organisations and Government Agencies only.
 - The timings for bookings are defined as: Half-Day (9am - 1pm, 1.30pm - 5.30pm), Full-Day (9.30am - 5.30pm), Evening (6.00pm to 10.00pm).
 - Special discounts are available for MSF, NCSS and NCSS Member Agencies.
