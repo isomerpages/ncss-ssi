@@ -1,7 +1,7 @@
 ---
 title: SkillsFuture Study Awards for the Social Service Sector
 permalink: /training/funding-information/SkillsFuture-Study-Awards-for-the-Social-Service-Sector/
-description: The SkillsFuture Study Award supports Singaporean social service professionals to develop and deepen specialist social work skills.
+description: SkillsFuture Study Award for Social Service Sector empowers learners to develop specialist skills and increase their societal impact.
 third_nav_title: Funding Information
 ---
 

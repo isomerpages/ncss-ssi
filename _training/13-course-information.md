@@ -1,6 +1,8 @@
 ---
 title: Course Information
 permalink: /Training/course-information/
+description: Find out more about SSI course application procedures for individuals and organisations as well as other course related details here.
+
 ---
 
 ### Course Administration

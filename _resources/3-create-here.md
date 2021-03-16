@@ -1,6 +1,8 @@
 ---
 title: CreateHere
 permalink: /resources/createhere/
+description: SSI's media production studio, CreateHere, offers simplified operating requirements for SSAs and professional interest groups.
+
 ---
 Algorithms for most social media platforms are geared towards photos and videos. In fact, digital marketers have stated that videos increase the probability of someone buying your services, cause or mission by up to 97%!
 

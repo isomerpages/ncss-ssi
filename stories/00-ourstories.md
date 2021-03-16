@@ -1,6 +1,8 @@
 ---
-title: Our Stories
+title: Learner Testimonials
 permalink: /stories/
+description: Read testimonials from learners who have benefited from SSI's courses. 
+
 ---
 <table width="300px">
 <tbody>

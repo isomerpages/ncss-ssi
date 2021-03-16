@@ -2,6 +2,8 @@
 title: Training Grants
 permalink: /training/funding-information/training-grants/
 third_nav_title: Funding Information
+description: SSI offers a host of training grants to support our learners' professional skills development in the social service sector.
+
 ---
 
 SSI offers a host of training grants to support your skills development and professional upgrading needs. With various types of funding support available, you can enjoy subsidies of up to 90% <sup>1</sup> for your course fees for both short courses and academic programmes.  

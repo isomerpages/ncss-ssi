@@ -1,7 +1,9 @@
 ---
-title: SkillsFuture Singapore Funding
+title: SkillsFuture Singapore (SSG) Funding
 permalink: /training/funding-information/SkillsFuture-Singapore-Funding/
 third_nav_title: Funding Information
+description: Singaporeans & PRs are eligible for training grants and subsidies under the SkillsFuture Singapore (SSG) Funding Scheme. Learn more.
+
 ---
 
 ### SSG Funding Principle
