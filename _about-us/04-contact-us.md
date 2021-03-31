@@ -17,7 +17,7 @@ locations:
         time: 9:00am - 6.00pm
         description: Closed on Weekends and Public Holidays
 contacts:
-  - title: General Enquiries & Feedback
+  - title: All SSI services remain accessible online. You may contact us via: 
     content:
     - other: Telephone- (65) 6589 5555
     - other: Fax- (65) 6589 5540
