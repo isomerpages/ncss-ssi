@@ -4,7 +4,7 @@ title: SSI Singapore
 description: Visit the Social Service Institute (SSI) Singapore's website and discover training programmes and resources for the social service sector.
 image: /images/SSILogoFullColour_large_fullwidth.png
 permalink: /
-notification: Temporary Closure of SSI Office from 2 June 2020. <a href="/updates/">Click here for more details.</a>
+notification: All SSI services remain available online. <a href="/contact-us/">Click here for more details.</a>
 sections:
     - hero:
         title: Social Service Institute
