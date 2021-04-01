@@ -1,7 +1,7 @@
 ---
 title: Higher Diploma in Social Service
 permalink: /training/cet-programmes/Higher-Diploma-in-Social-Service/
-description: SSI's Advanced Certificate in Social Service equips learners with the horizontal skills necessary to be a Social Service Assistant.
+description: SSI's Higher Diploma in Social Service is a programme for aspiring and existing Social Service Professionals who are looking to be Social Work Associates.
 
 ---
 ### Overview
