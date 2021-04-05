@@ -18,7 +18,7 @@ A minimum of three GCE ‘O’ Level credits and a minimum English Language (spe
 
 Upon completion of the course, graduates will be able to:
 
--   Assist presons with disabilities in their career planning and development of their career portfolio.
+-   Assist persons with disabilities in their career planning and development of their career portfolio.
 -   Apply appropriate strategies to manage the behaviours, communication requirements and interaction styles of different clients.
 -   Work with employers for workplace mediations.
 -   Provide counselling support for persons with disabilities.
