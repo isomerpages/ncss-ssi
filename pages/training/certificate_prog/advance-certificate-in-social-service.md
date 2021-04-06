@@ -27,11 +27,11 @@ Learners are required to complete the e-Learning course [Singapore’s Social Co
 
 New entrants and existing Social Service Professionals in the Social Service Sector
 
-### **Assessment Requirements**
+### Assessment Requirements
 
 Learners will be assessed through a written assessment, written assignment, role play and oral interview.
 
-### **Qualifications Awarded and Career Prospects**
+### Qualifications Awarded and Career Prospects
 
 Upon successful completion of all five WSQ modules, learners will be awarded with an Individual Statement of Attainment (SOAs) for the five modules.  
   
