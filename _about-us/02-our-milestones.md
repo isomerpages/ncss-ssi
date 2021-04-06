@@ -4,6 +4,16 @@ permalink: /About-Us/our-milestones/
 description: SSI is the human capital development arm of the National Council of Social Service (NCSS). Find out more about our milestones here.
 
 ---
+**2020**
+
+-	Launch of SSI’s SGUnited Skills Programmes (SGUS) which are aimed at helping 170 Singaporeans/PRs impacted by the COVID-19 pandemic to find suitable employment in the social service sector. The three SGUS programmes under SSI are:
+o	Social Service Accelerator programme targeted at re-skilling individuals who are assuming corporate functions and fund raising roles in SSAs. 
+o	Volunteer Management programme targeted at re-skilling individuals to be Volunteer Managers and Coordinators. 
+o	Social Service Assistant programme targeted at re-skilling individuals to be Social Service Assistants and Programme Assistants. 
+
+A total of 113 of applicants were received for all three programmes, while 53 were confirmed as into the first cohort of all three programmes.
+
+- To respond to capability development needs in the midst of the COVID-19 pandemic, SSI collaborated with Meta Consulting to pilot a microlearning initiative. This one-year pilot is called the NEXLeaders Programme and it aims to develop the leadership and management capabilities of social service professionals. Each learner under this programme is provided with a 12 month access to over 60 bite sized courses that they can access anytime-anywhere from their mobile devices. This pilot tested the readiness of SSAs and funding agencies for subscription based learning. At the end of FY20, SSI achieved 560 subscribers about 120 organizations. From a survey conducted, out of 280 respondents, 97% of them rated the pilot positively and 96% mentioned that they will strongly recommend this programme to their colleagues.
 
 **2019**
 
