@@ -6,10 +6,7 @@ description: SSI is the human capital development arm of the National Council of
 ---
 **2020**
 
--	Launch of SSI’s SGUnited Skills Programmes (SGUS) which are aimed at helping 170 Singaporeans/PRs impacted by the COVID-19 pandemic to find suitable employment in the social service sector. The three SGUS programmes under SSI are:
-o	Social Service Accelerator programme targeted at re-skilling individuals who are assuming corporate functions and fund raising roles in SSAs. 
-o	Volunteer Management programme targeted at re-skilling individuals to be Volunteer Managers and Coordinators. 
-o	Social Service Assistant programme targeted at re-skilling individuals to be Social Service Assistants and Programme Assistants. 
+-	Launch of SSI’s SGUnited Skills Programmes (SGUS) which are aimed at helping 170 Singaporeans/PRs impacted by the COVID-19 pandemic to find suitable employment in the social service sector. The three SGUS programmes under SSI are: the Social Service Accelerator programme targeted at re-skilling individuals who are assuming corporate functions and fund raising roles in SSAs, the Volunteer Management programme targeted at re-skilling individuals to be Volunteer Managers and Coordinators, and the Social Service Assistant programme targeted at re-skilling individuals to be Social Service Assistants and Programme Assistants. 
 
 A total of 113 of applicants were received for all three programmes, while 53 were confirmed as into the first cohort of all three programmes.
 
