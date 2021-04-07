@@ -39,4 +39,4 @@ He holds a Master of Arts degree in Applied Psychology from the Nanyang Technolo
 Continue receiving news and articles about developments in the Eldercare sub-sector through GatherHere. If you are interested to join GatherHere, you can drop us an email by [clicking here](mailto:techservices1@gatherhere.sg).
 
 ### Subscribe to Our Eldercare Mailing List   
-Subscribe to SSI’s Eldercare Mailing List through this [link](https://form.gov.sg/#!/5f19b09dd034a60011cd0c5a){:target="_blank"}.   
+Subscribe to SSI’s Eldercare Mailing List through this [link](https://form.gov.sg/606d89252eded10012103d68){:target="_blank"}.   
