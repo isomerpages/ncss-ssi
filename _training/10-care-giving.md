@@ -22,4 +22,4 @@ Continue receiving news and articles about developments in Caregiving through Ga
 
 ### Subscribe to Our Caregiving Mailing List   
 
-Subscribe to SSI’s Caregiving Mailing List through this [link](https://form.gov.sg/#!/5f19b056d034a60011cd0c42){:target="_blank"} .
+Subscribe to SSI’s Caregiving Mailing List through this [link](https://form.gov.sg/606d89f418510a0011c846b9){:target="_blank"} .
