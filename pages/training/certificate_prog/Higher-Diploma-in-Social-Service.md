@@ -67,5 +67,5 @@ Learners must achieve at least 75% attendance per module and be certified compet
 
 ### Application
 
-Applicants can register for the programme online via the e-services page. Please click on [“e-services"] (https://learningcloud.sg/pages/coursedescription.jsf?courseId=1233736&catalogId=1700&templateId=-1){:target="_blank"} to access the registration page.
+Applicants can register for the programme online via the e-services page. Please click on [“e-services"] (https://safe.menlosecurity.com/https://e-services.ncss.gov.sg/Training/Course/DetailProgramme/CCFE5FBF-E17F-EB11-816F-000C296EE030){:target="_blank"} to access the registration page.
 
