@@ -14,7 +14,7 @@ Successful applicants will also be required to attend an Academic Integrity Work
 
 SSI’s HDSS programme also provides an articulation pathway into the Bachelors’ in Social Work Degree Programme offered by Singapore University of Social Services (SUSS), for learners who want to pursue a further education and their aspiration to become a Social Worker.
 
-Interested applicants, are encouraged to register and attend the Programme Preview session for more information. The preview session will be held on 15 April (Thursday) from 7.00pm to 8.30pm. Please register your interest by clicking on this [link.] (https://form.gov.sg/606d0c428fb55e001115babc){:target="_blank"} 
+Interested applicants, are encouraged to register and attend the Programme Preview session for more information. The preview session will be held on 15 April (Thursday) from 7.00pm to 8.30pm. Please register your interest by clicking on this [link] (https://form.gov.sg/606d0c428fb55e001115babc){:target="_blank"}. 
 
 ### Entry Requirements
 
@@ -67,5 +67,5 @@ Learners must achieve at least 75% attendance per module and be certified compet
 
 ### Application
 
-Applicants can register for the programme online via the e-services page. Please click on [“e-services"] (https://safe.menlosecurity.com/https://e-services.ncss.gov.sg/Training/Course/DetailProgramme/CCFE5FBF-E17F-EB11-816F-000C296EE030){:target="_blank"} to access the registration page.
+Applicants can register for the programme online via the e-services page. Please click on [e-services] (https://safe.menlosecurity.com/https://e-services.ncss.gov.sg/Training/Course/DetailProgramme/CCFE5FBF-E17F-EB11-816F-000C296EE030){:target="_blank"} to access the registration page.
 
