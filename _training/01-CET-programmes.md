@@ -30,4 +30,4 @@ Continue receiving news and articles on CET programmes through GatherHere. If yo
 
 ### **Subscribe to SSI’s CET Programmes Mailing List**
 
-Subscribe to SSI’s CET Programmes Mailing List through this  [link](https://form.gov.sg/5f19b046fd23f90011ba7246){:target="_blank"}   .
+Subscribe to SSI’s CET Programmes Mailing List through this  [link](https://form.gov.sg/606d8590443a2c0011794853){:target="_blank"}   .
