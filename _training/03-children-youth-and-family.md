@@ -58,4 +58,4 @@ Saw Han previously worked with MSF as a clinical psychologist before heading a r
 Continue receiving news and articles about the Children, Youth & Family sub-sector through GatherHere. If you are interested to join GatherHere, you can drop us an email by [clicking here](mailto:techservices1@gatherhere.sg).
 
 ### Subscribe to SSI’s Children, Youth & Family Mailing List   
-Subscribe to SSI’s Children, Youth and Family Courses Mailing List through this [link](https://form.gov.sg/5d89dab70c67f000120d00bb){:target="_blank"}.   
+Subscribe to SSI’s Children, Youth and Family Courses Mailing List through this [link](https://form.gov.sg/606d880e8fb55e0011168813){:target="_blank"}.   
