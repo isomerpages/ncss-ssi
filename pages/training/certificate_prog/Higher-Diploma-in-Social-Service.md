@@ -6,9 +6,14 @@ description: SSI's Higher Diploma in Social Service is a programme for aspiring 
 ---
 ### Overview
 
-SSI’s Higher Diploma in Social Service (HDSS) is a programme for new entrants and existing Social Service Professionals in the Social Service Sector who aspire to be Social Work Associates. The programme aims to equip learners with the skills and knowledge to be collaborative, client-centric, strategic and compassionate individuals who can play their roles effectively with clients and stakeholders. The programme covers a wide range of concepts covering human behaviour, family life cycle, psychology, sociology and culture. In addition, it also offers learnings on writing and presentation skills, usage of online information and legal frameworks to help the vulnerable. Successful applicants would also get to attend an Academic Integrity Workshop and Social Service Field Experience session to better prepare them for the programme and to help them in their learning journey. HDSS provides an articulation pathway into the Bachelor in Social Work Degree Programme offered by the Singapore University of Social Services (SUSS).
+SSI’s Higher Diploma in Social Service (HDSS) is a programme for new entrants and existing Social Service Professionals who aspire to be Social Work Associates. The programme aims to equip learners with the necessary skills and knowledge to be collaborative, client-centric, strategic and compassionate individuals who can work effectively with clients and stakeholders. 
 
-Interested applicants are encouraged to register and attend the Programme Preview session for more information. The preview session will be held on <b> 15 April (Thursday) </b> from <b> 7.00pm to 8.15pm </b>. Please register your interest by clicking on this [link](http://communitychest.imailcampaign.com/admin/index.php?Page=Addons&Addon=surveys&Action=Edit&formId=28){:target="_blank"} 
+The programme covers a wide range of concepts, which includes human behaviour, family life cycles, psychology, sociology and culture, and their application in working with vulnerable clients and stakeholders. In addition, the programme will also cover writing and presentation skills, usage of online information, research methodologies and legal frameworks to help the vulnerable. 
+
+Successful applicants will also be required to attend an Academic Integrity Workshop and participate in a Social Service Field Experience to better prepare them for the programme and help them in their learning journey. 
+
+SSI’s HDSS programme also provides an articulation pathway into the Bachelors’ in Social Work Degree Programme offered by Singapore University of Social Services (SUSS), for learners who want to pursue a further education and their aspiration to become a Social Worker.
+Interested applicants, are encouraged to register and attend the Programme Preview session for more information. The preview session will be held on 15 April (Thursday) from 7.00pm to 8.30pm. Please register your interest by clicking on this [link.] (http://communitychest.imailcampaign.com/admin/index.php?Page=Addons&Addon=surveys&Action=Edit&formId=28){:target="_blank"} 
 
 ### Entry Requirements
 
@@ -37,7 +42,7 @@ With the qualifications attained, learners can apply for jobs as a Social Servic
 
 ### Course Details
 
-**Cohort Size:** 20 pax.  
+**Cohort Size:** Two cohorts of 25 pax each. 
 **Programme Duration:** 16 months. This is a part time course with lessons being conducted two to three times a week.
 **Course Timing:**  7.00pm to 10.00pm  
 **Fees:** Full Fees: $10,800 (before GST).  **Estimated Nett Fees:** $6,930 (after SSG subsidy) and $3,870 (excluding a GST of $270.90) **Total Payable Course Fees after SSG Funding:* $4140.90 (including GST)    
