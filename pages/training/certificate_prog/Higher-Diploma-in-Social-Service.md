@@ -18,10 +18,11 @@ Interested applicants, are encouraged to register and attend the Programme Previ
 
 ### Entry Requirements
 
-Applicants should the following criteria:
+Applicants should possess the following criteria:
 
 -	A minimum grade of C6 for GCE ‘O’ level English (or its equivalent). 
 -	At least two years of full-time working experience.
+-	Complete a complimentary e-learning course “, [Singapore’s Social Compact](https://learningcloud.sg/pages/coursedescription.jsf?courseId=1233736&catalogId=1700&templateId=-1){:target="_blank"} (.
 
 Applicants should also possess any one of the following qualifications:
 
@@ -34,9 +35,7 @@ Applicants should also possess any one of the following qualifications:
 - Two GCE 'A' and two 'AO' levels passes.
 
 All shortlisted applicants will have to sit for a Written Aptitude Test (WAT), which will be conducted on 27 May 2021 at 10.30am or 28 May 2021 at 3.00pm. Only applicants who successfully pass the WAT will be considered for admission into the programme. 
-
-Learners are also required to complete a complimentary e-learning course “, [Singapore’s Social Compact](https://learningcloud.sg/pages/coursedescription.jsf?courseId=1233736&catalogId=1700&templateId=-1){:target="_blank"}, which is a pre-requisite for the programme. 
-
+ 
 This e-learning course provides learners with an overview of the development of Singapore’s social services over the years and introduces them to the principles behind its provision. It also covers the six areas of social service provision and the challenges that lay ahead. 
 
 ### Qualifications & Career Prospects
@@ -56,7 +55,7 @@ Learners may also apply for work as a Social Work Associate, Project Coordinator
 - **Programme Date:** Intake 1: 10 Aug 21 – 9 Dec 22
 - **Course Timing:**  7.00pm to 10.00pm  
 - **Fees:** Full Fees: $10,800 (before GST).*  
-- **Estimated Nett Fees:** $6,930 (after SSG subsidy) and $3,870* 
+- **Estimated Nett Fees:** $3,870 (after SSG Subsidy)* 
 - **GST on Nett Fees:** $270.90* 
 - **Total Payable Course Fees after SSG Funding:** $4140.90 (including GST)*   
 - **Assessment:** Written Assessment and Written Assignment 
@@ -66,7 +65,7 @@ All learners will also be required to undergo the Social Service Field Experienc
 
 Course fees for the programme have to be paid upon acceptance of the offer letter within the timeline provided in the ofter letter.
 
-Learners must achieve at least 75% attendance per module and be certified competent in all the assessment components in order to be eligible for SkillsFuture Singapore (SSG) funding. Learners or their sponsoring organisations will have to pay the course fees in the event that the learners fail to meet the attendance/ assessment requirements and/or any other terms and conditions for SSG funding eligibility. Please refer to www.skillsconnect.gov.sg for more information on the SSG funding eligibility requirement. 
+Learners must achieve at least 75% attendance per module and be certified competent in all the assessment components in order to be eligible for SkillsFuture Singapore (SSG) funding. Learners or their sponsoring organisations will have to pay the full course fees in the event that the learners fail to meet the attendance/ assessment requirements and/or any other terms and conditions for SSG funding eligibility. Please refer to this [link](www.skillsconnect.gov.sg){:target="_blank"} for more information on the SSG funding eligibility requirement. 
 
 *Please note that course fees are subjected to changes.
 
