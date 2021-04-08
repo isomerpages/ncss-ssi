@@ -55,10 +55,10 @@ Learners may also apply for work as a Social Work Associate, Project Coordinator
 - **Programme Duration:** 16 months. This is a part time course with lessons being conducted two to three times a week.
 - **Programme Date:** Intake 1: 10 Aug 21 – 9 Dec 22
 - **Course Timing:**  7.00pm to 10.00pm  
-- **Fees:** Full Fees: $10,800 (before GST).  
-- **Estimated Nett Fees:** $6,930 (after SSG subsidy) and $3,870 
-- **GST on Nett Fees:** $270.90 
-- **Total Payable Course Fees after SSG Funding:** $4140.90 (including GST)   
+- **Fees:** Full Fees: $10,800 (before GST).*  
+- **Estimated Nett Fees:** $6,930 (after SSG subsidy) and $3,870* 
+- **GST on Nett Fees:** $270.90* 
+- **Total Payable Course Fees after SSG Funding:** $4140.90 (including GST)*   
 - **Assessment:** Written Assessment and Written Assignment 
 - **Mandatory Components:** Programme Orientation (date: TBC)
 
@@ -67,6 +67,8 @@ All learners will also be required to undergo the Social Service Field Experienc
 Course fees for the programme have to be paid upon acceptance of the offer letter within the timeline provided in the ofter letter.
 
 Learners must achieve at least 75% attendance per module and be certified competent in all the assessment components in order to be eligible for SkillsFuture Singapore (SSG) funding. Learners or their sponsoring organisations will have to pay the course fees in the event that the learners fail to meet the attendance/ assessment requirements and/or any other terms and conditions for SSG funding eligibility. Please refer to www.skillsconnect.gov.sg for more information on the SSG funding eligibility requirement. 
+
+*Please note that course fees are subjected to changes.
 
 ### Application
 
