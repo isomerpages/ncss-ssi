@@ -50,7 +50,7 @@ Learners may also apply for work as a Social Work Associate, Project Coordinator
 
 ### Course Details
 
-- **Cohort Size:** Two cohorts of 25 pax each. 
+- **Cohort Size:** One cohort of 25 pax. 
 - **No of Modules:** Nine
 - **Programme Duration:** 16 months. This is a part time course with lessons being conducted two to three times a week.
 - **Programme Date:** Intake 1: 10 Aug 21 – 9 Dec 22
