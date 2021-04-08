@@ -22,7 +22,7 @@ Applicants should possess the following criteria:
 
 -	A minimum grade of C6 for GCE ‘O’ level English (or its equivalent). 
 -	At least two years of full-time working experience.
--	Complete a complimentary e-learning course “, [Singapore’s Social Compact](https://learningcloud.sg/pages/coursedescription.jsf?courseId=1233736&catalogId=1700&templateId=-1){:target="_blank"} (.
+-	Complete a complimentary e-learning course “, [Singapore’s Social Compact](https://learningcloud.sg/pages/coursedescription.jsf?courseId=1233736&catalogId=1700&templateId=-1){:target="_blank"} (download the e-certificate and submit it upon registration for this programme).
 
 Applicants should also possess any one of the following qualifications:
 
