@@ -55,7 +55,10 @@ Learners may also apply for work as a Social Work Associate, Project Coordinator
 **Programme Duration:** 16 months. This is a part time course with lessons being conducted two to three times a week.
 **Programme Date:** Intake 1: 10 Aug 21 – 9 Dec 22
 **Course Timing:**  7.00pm to 10.00pm  
-**Fees:** Full Fees: $10,800 (before GST).  **Estimated Nett Fees:** $6,930 (after SSG subsidy) and $3,870 **GST on Nett Fees:** $270.90 **Total Payable Course Fees after SSG Funding:* $4140.90 (including GST)   
+**Fees:** Full Fees: $10,800 (before GST).  
+**Estimated Nett Fees:** $6,930 (after SSG subsidy) and $3,870 
+**GST on Nett Fees:** $270.90 
+**Total Payable Course Fees after SSG Funding:** $4140.90 (including GST)   
 **Assessment:** Written Assessment and Written Assignment 
 **Mandatory Components:** Programme Orientation (date: TBC)
 
