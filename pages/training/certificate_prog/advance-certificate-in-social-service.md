@@ -27,6 +27,10 @@ Learners are required to complete the e-Learning course [Singapore’s Social Co
 
 New entrants and existing Social Service Professionals in the Social Service Sector
 
+### Assessment Criteria
+
+Learners will be assessed through a combination of written assessments, written assignments, role playing and/or oral interviews.
+
 ### Qualifications Awarded and Career Prospects
 
 Upon successful completion of all five WSQ modules, learners will be awarded with an individual Statement of Attainment (SOA) for the five modules.  
@@ -57,7 +61,7 @@ Applicants can register for this programme via this [e-services page](https://e-
 
 ### Preview Session
 
-To find out more about this programme, join us at the preview event on 15 April 21, 7.30pm. Sign up [here](https://form.gov.sg/606d0c428fb55e001115babc){:target="_blank"} 
+To find out more about this programme, join us at the preview event on 15 April 21, 7.00pm. Sign up [here](https://form.gov.sg/606d0c428fb55e001115babc){:target="_blank"} 
 
 ### FAQs
 
