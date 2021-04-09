@@ -6,16 +6,23 @@ description: SSI's Higher Diploma in Social Service is a programme for aspiring 
 ---
 ### Overview
 
-SSI’s Higher Diploma in Social Service (HDSS) is a programme for new entrants and existing Social Service Professionals in the Social Service Sector who aspire to be Social Work Associates. The programme aims to equip learners with the skills and knowledge to be collaborative, client-centric, strategic and compassionate individuals who can play their roles effectively with clients and stakeholders. The programme covers a wide range of concepts covering human behaviour, family life cycle, psychology, sociology and culture. In addition, it also offers learnings on writing and presentation skills, usage of online information and legal frameworks to help the vulnerable. Successful applicants would also get to attend an Academic Integrity Workshop and Social Service Field Experience session to better prepare them for the programme and to help them in their learning journey. HDSS provides an articulation pathway into the Bachelor in Social Work Degree Programme offered by the Singapore University of Social Services (SUSS).
+SSI’s Higher Diploma in Social Service (HDSS) is a programme for new entrants and existing Social Service Professionals who aspire to be Social Work Associates. The programme aims to equip learners with the necessary skills and knowledge to be collaborative, client-centric, strategic and compassionate individuals who can work effectively with clients and stakeholders. 
 
-Interested applicants are encouraged to register and attend the Programme Preview session for more information. The preview session will be held on <b> 15 April (Thursday) </b> from <b> 7.00pm to 8.15pm </b>. Please register your interest by clicking on this [link](http://communitychest.imailcampaign.com/admin/index.php?Page=Addons&Addon=surveys&Action=Edit&formId=28){:target="_blank"} 
+The programme covers a wide range of concepts, which includes human behaviour, family life cycles, psychology, sociology and culture, and their application in working with vulnerable clients and stakeholders. In addition, the programme will also cover writing and presentation skills, usage of online information, research methodologies and legal frameworks to help the vulnerable. 
+
+Successful applicants will also be required to attend an Academic Integrity Workshop and participate in a Social Service Field Experience to better prepare them for the programme and help them in their learning journey. 
+
+SSI’s HDSS programme also provides an articulation pathway into the Bachelors’ in Social Work Degree Programme offered by Singapore University of Social Services (SUSS), for learners who want to pursue a further education and their aspiration to become a Social Worker.
+
+Interested applicants, are encouraged to register and attend the Programme Preview session for more information. The preview session will be held on 15 April (Thursday) from 7.00pm to 8.30pm. Please register your interest by clicking on this [link](https://form.gov.sg/606d0c428fb55e001115babc){:target="_blank"}. 
 
 ### Entry Requirements
 
-Applicants should the following criteria:
+Applicants should possess the following criteria:
 
 -	A minimum grade of C6 for GCE ‘O’ level English (or its equivalent). 
 -	At least two years of full-time working experience.
+-	Complete a complimentary e-learning course “, [Singapore’s Social Compact](https://learningcloud.sg/pages/coursedescription.jsf?courseId=1233736&catalogId=1700&templateId=-1){:target="_blank"} (download the e-certificate and submit it upon registration for this programme).
 
 Applicants should also possess any one of the following qualifications:
 
@@ -27,22 +34,42 @@ Applicants should also possess any one of the following qualifications:
 - Diploma from local polytechnic.
 - Two GCE 'A' and two 'AO' levels passes.
 
-All eligible applicants are required to sit for a written aptitude test administered by SSI as part of the entry requirement for the programme. Learners are also required to complete a mandatory e-learning course, [Singapore’s Social Compact](https://learningcloud.sg/pages/coursedescription.jsf?courseId=1233736&catalogId=1700&templateId=-1){:target="_blank"}, within three months from the commencement of the programme and submit the completion certificate to SSI. This is a pre-requisite for learners to successfully complete the programme. This e-learning course is complimentary and provides learners with an overview of the development of Singapore’s social services over the years by introducing them to the principles behind its provision. It also covers the six areas of social service provision and the challenges that lie ahead. 
+All shortlisted applicants will have to sit for a Written Aptitude Test (WAT), which will be conducted on 27 May 2021 at 10.30am or 28 May 2021 at 3.00pm. Only applicants who successfully pass the WAT will be considered for admission into the programme. 
+ 
+This e-learning course provides learners with an overview of the development of Singapore’s social services over the years and introduces them to the principles behind its provision. It also covers the six areas of social service provision and the challenges that lay ahead. 
 
-### Qualifications Awarded and Career Prospects
+### Qualifications & Career Prospects
 
-Upon successful completion of the programme, learners will be awarded with an Higher Diploma in Social Service. This will be provided by SSI after the learner has obtained the relevant Certificates of Achievement from the nine modules within the programme.
+Upon completion of SSI's HDSS, learners will be issued a:
 
-With the qualifications attained, learners can apply for jobs as a Social Service Associate, Project Coordinator, Youth Worker and Volunteer Executive. Click here to find out more. 
+-	SSI Higher Diploma in Social Service 
+-	SSI transcript 
+
+Learners may also apply for work as a Social Work Associate, Project Coordinator, Youth Worker or Volunteer Executive.  
 
 ### Course Details
 
-**Cohort Size:** 20 pax.  
-**Programme Duration:** 16 months. This is a part time course with lessons being conducted two to three times a week.
-**Course Timing:**  7.00pm to 10.00pm  
-**Fees:** Full Fees: $10,800 (before GST).  **Estimated Nett Fees:** $6,930 (after SSG subsidy) and $3,870 (excluding a GST of $270.90) **Total Payable Course Fees after SSG Funding:* $4140.90 (including GST)    
+- **Cohort Size:** One cohort of 25 pax. 
+- **No of Modules:** Nine
+- **Programme Duration:** 16 months. This is a part time course with lessons being conducted two to three times a week.
+- **Programme Date:** Intake 1: 10 Aug 21 – 9 Dec 22
+- **Course Timing:**  7.00pm to 10.00pm  
+- **Fees:** Full Fees: $10,800 (before GST).*  
+- **Estimated Nett Fees:** $3,870 (after SSG Subsidy)* 
+- **GST on Nett Fees:** $270.90* 
+- **Total Payable Course Fees after SSG Funding:** $4140.90 (including GST)*   
+- **Assessment:** Written Assessment and Written Assignment 
+- **Mandatory Components:** Programme Orientation (date: TBC)
 
-Course fees are payable prior to the course start date, upon acceptance of offer within the given timeline.  
+All learners will also be required to undergo the Social Service Field Experience (except for learners who have undergone the Social Service Field experience in the WSQ ACSS or SSI ACSS programme). Eligible Learners will be provided with the details for the Social Service Field Experience registration and payment of S$360 (before GST) separately by the programme coordinator.
 
-Learners must achieve at least 75% attendance per module and be certified competent in all the assessment components in order to be eligible for SkillsFuture Singapore (SSG) funding. Learners or their sponsoring organisations will have to pay the course fees in the event that the learners fail to meet the attendance/ assessment requirements and/or any other terms and conditions for SSG funding eligibility. Please refer to www.skillsconnect.gov.sg for more information on the SSG funding eligibility requirement. 
+Course fees for the programme have to be paid upon acceptance of the offer letter within the timeline provided in the ofter letter.
+
+Learners must achieve at least 75% attendance per module and be certified competent in all the assessment components in order to be eligible for SkillsFuture Singapore (SSG) funding. Learners or their sponsoring organisations will have to pay the full course fees in the event that the learners fail to meet the attendance/ assessment requirements and/or any other terms and conditions for SSG funding eligibility. Please refer to this [link](www.skillsconnect.gov.sg){:target="_blank"} for more information on the SSG funding eligibility requirement. 
+
+*Please note that course fees are subjected to changes.
+
+### Application
+
+Applicants can register for the programme online via the e-services page. Please click on [e-services](https://safe.menlosecurity.com/https://e-services.ncss.gov.sg/Training/Course/DetailProgramme/CCFE5FBF-E17F-EB11-816F-000C296EE030){:target="_blank"} to access the registration page.
 

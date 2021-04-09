@@ -43,4 +43,4 @@ Usha is the founder of Usha Menon Management Consultancy (Asia), an internationa
 Continue receiving news and articles about developments in Management and Organisation Development through GatherHere. If you are interested to join GatherHere, you can drop us an email by [clicking here](mailto:techservices1@gatherhere.sg).
 
 ### Subscribe to Our Management and Organisation Development Mailing List
-Subscribe to SSI’s Management and Organisation Development Mailing List through this  [link](https://form.gov.sg/5f19b08c39e00f0011b7ad5a){:target="_blank"}.
+Subscribe to SSI’s Management and Organisation Development Mailing List through this [link](https://form.gov.sg/606d8979137b600011984100){:target="_blank"}.

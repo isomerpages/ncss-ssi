@@ -39,5 +39,5 @@ Moy Yin has a Master of Arts in Education and Human Resource Development with th
 Continue receiving news and articles about developments in the Volunteer Development & Management sector through GatherHere. If you are interested to join GatherHere, you can drop us an email by [clicking here](mailto:techservices1@gatherhere.sg).
 
 ### Subscribe to Our Volunteer Development & Management
-Subscribe to SSI’s Volunteer Development & Management Mailing List through this  [link](https://form.gov.sg/5f19b06fd034a60011cd0c4e){:target="_blank"}.
+Subscribe to SSI’s Volunteer Development & Management Mailing List through this [link](https://form.gov.sg/606d89aa18510a0011c8465f){:target="_blank"}.
 

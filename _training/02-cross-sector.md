@@ -72,4 +72,4 @@ Continue receiving Cross Sector news and articles through GatherHere. If you are
 
 ### **Subscribe to SSI’s Cross Sector Mailing List**
 
-Subscribe to SSI’s Cross Sector Mailing List through this [link](https://form.gov.sg/5d89dab70c67f000120d00bb){:target="_blank"}    
+Subscribe to SSI’s Cross Sector Mailing List through this [link](https://form.gov.sg/606d87828fb55e0011168782){:target="_blank"}    
