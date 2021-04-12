@@ -41,11 +41,7 @@ At the end of the module, participants will be assessed based on a written asses
 
 ### **Course Schedule**
 
-The trainer led sessions are expected to run from 19 to 20 Aug 21 (the proposed dates may be subjected to further changes).
-
-### Application Form
-
-Click [here](https://ncss-ssi-staging.netlify.app/images/training/Application%20form_Prep%20and%20CPS_Run%206.pdf){:target="_blank"}    to access the application form for the both the  **‘**Preparatory Training for Potential Peer Support Specialist**’** and ‘Certificate in Peer Support.’  
+The trainer led sessions are expected to run from 19 to 20 Aug 21 (the proposed dates may be subjected to further changes). 
   
 _Note:_
 
