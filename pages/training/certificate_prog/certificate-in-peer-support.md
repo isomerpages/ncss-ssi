@@ -26,25 +26,14 @@ The target audience for this module should be:
 
 Upon completion of this module, learners are expected to:
 
--   Apply recovery and resilience principles to support their peers in their recovery journeys.
--   Demonstrate peer support practice through the role of a peer support specialist.
--   Relate the purpose of recovery and resilience documentation to peer support practice.
-    
--   Share a recovery/resilience story.
-    
--   Apply the practice of peer support and resilient conversation in culturally diverse situations.
-    
--   Apply ethical standards to peer support scenarios.
-    
--   Prepare a primary self-healthcare survey.
-    
--   Facilitate a resilient conversation with peers facing challenging situations.
-    
--   Practice trauma informed care with peers.
-    
--   Practice peer support with peers facing addiction challenges.
-    
--   Prepare for career readiness as a Peer Support Specialist.
+- Apply recovery and resilience principles to support their peers.
+- Demonstrate peer support practice in the role of a peer support specialist.
+- Identify key areas of progress of their peers and be able to notate the progress of peer support sessions through relevant documentation.
+- Apply the practice of peer support and resilient conversation in culturally diverse situations. 
+- Apply ethical standards to peer support scenarios.
+- Relate a personal recovery story from a resilience perspective.
+- Facilitate a healthcare presentation for peer support.
+- Facilitate peer support through a resilient-focused conversations in diverse situations. 
 
 ### Assessment Requirements
 
@@ -52,25 +41,7 @@ Learners will be assessed through a mid-term written assessment, a practical ass
 
 ### Course Schedule
 
-Trainer Led Session:  
-10 to 26 Mar 21     
--   10, 11, 16, 19, 23, 24, 26 Mar 21: 9.00 am to 5.00 pm (classroom session)
--   12, 15, 17, 18, 22, 25 Mar 21: 9.00 am to 4.00 pm (Zoom session)
- 
-Practicum Workshop (Zoom Session):  
-29 Mar 2021  
-Monday (workshop timings are currently pending confirmation) 
-  
-Practicum (To be allocated upon successful enrolment and completion of training):  
-30 Mar to 24 May 21  
-  
-Practicum Supervision Sessions:  
-14 & 28 Apr 21 and 10 & 27 May 21 (Zoom session)
-Wednesday and Thursday (Timing TBC)  
-  
-Graduation:  
-9 July 21  
-Friday (Timing TBC)
+Trainer led sessions are expected to occur from 23 Aug to 3 Sep 21 (the proposed dates may be subjected to further changes).
 
 ### Application Form
 
