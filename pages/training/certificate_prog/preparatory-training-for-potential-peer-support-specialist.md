@@ -28,30 +28,20 @@ The skills and knowledge that learners are required to possess prior to applying
 
 ### **Learning Outcomes**
 
-Upon completion of this module, learners are expected to:
+Upon completion of this module, learners are expected to be able to:
 
--   Be able to explain the mental health service delivery system in Singapore.
--   Summarise the role of a Peer Support Specialist in a mental health setting in Singapore.
--   Explain the principles of recovery and resilience.
--   Associate peer support interaction with the possibility of recovery and resilience in persons with mental health conditions.
-    
--   Explain the approach of sharing and writing a recovery story.
-    
--   Write a Resilient Learning Plan.
-    
--   Identify appropriate wellness and self-care techniques.
-    
+- Describe the service provided by a Peer Support Specialist in a mental health setting.
+- Describe the key principles of recovery and resilience. 
+- Describe the interaction guidelines in the Peer Support Discipline.
+- Describe the approach of sharing and writing a recovery story from the resilience perspective.
 
 ### **Assessment Requirements**
 
-At the end of the module, participants are required to produce a Resilient Learning Plan as a non-graded assignment. The module trainer/Adult Educator will provide feedback for the submitted Resilient Learning Plan.
+At the end of the module, participants will be assessed based on a written assessment. 
 
 ### **Course Schedule**
 
-The trainer led sessions are expected to run from 2 to 4 Mar 21. 
-
--   2 Mar 21: 9.00 am to 4.00 pm (classroom session)
--	3 – 4 Mar 21: 9.00 am to 12.00 pm (Zoom session)
+The trainer led sessions are expected to run from 19 to 20 Aug 21 (the proposed dates may be subjected to further changes).
 
 ### Application Form
 
