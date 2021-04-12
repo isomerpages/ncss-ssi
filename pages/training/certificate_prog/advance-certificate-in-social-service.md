@@ -27,6 +27,10 @@ Learners are required to complete the e-Learning course [Singapore’s Social Co
 
 New entrants and existing Social Service Professionals in the Social Service Sector
 
+### Assessment Criteria
+
+Learners will be assessed through a combination of written assessments, written assignments, role playing and/or oral interviews.
+
 ### Qualifications Awarded and Career Prospects
 
 Upon successful completion of all five WSQ modules, learners will be awarded with an individual Statement of Attainment (SOA) for the five modules.  
@@ -53,13 +57,13 @@ Intake Two: 10 Aug 21 - 30 Sep 22
 
 ### Application Guidelines
 
-Applicants can register for this programme via this [e-services page](https://e-services.ncss.gov.sg/Training/Course/DetailProgramme/D534A2EB-057C-EB11-816F-000C296EE030 ){:target="_blank"}. Applications close on 30 Apr 21 at 11.59pm. Please refer to this  [application guide](/images/faq/ACSS Application Guide.pdf){:target="_blank"} for more information on the application process. Applicants may also be called to attend an online interview with the selection panel on 27 May 21 (PM) or 1 Jun 21 (PM). Applicants will receive an email from SSI informing them about the assigned interview date and time and are required to make themselves available for the interview accordingly. Requests for alternative arrangements will not be considered.
+Applicants can register for this programme via this [e-services page](https://e-services.ncss.gov.sg/Training/Course/DetailProgramme/D534A2EB-057C-EB11-816F-000C296EE030 ){:target="_blank"}. Applications close on 30 Apr 21 at 11.59pm. Please refer to this  [application guide](/images/training/ACSS Application Guide.pdf){:target="_blank"} for more information on the application process. Applicants may also be called to attend an online interview with the selection panel on 27 May 21 (PM) or 1 Jun 21 (PM). Applicants will receive an email from SSI informing them about the assigned interview date and time and are required to make themselves available for the interview accordingly. Requests for alternative arrangements will not be considered.
 
 ### Preview Session
 
-To find out more about this programme, join us at the preview event on 15 April 21, 7.30pm. Sign up [here](https://form.gov.sg/606d0c428fb55e001115babc){:target="_blank"} 
+To find out more about this programme, join us at the preview event on 15 April 21, 7.00pm. Sign up [here](https://form.gov.sg/606d0c428fb55e001115babc){:target="_blank"} 
 
 ### FAQs
 
-Refer to this [link](/images/faq/FAQ-for-Advanced-Certificate-in-Social-Service(1).pdf){:target="_blank"} for FAQs relating to this programme.
+Refer to this [link](/images/training/FAQ-for-Advanced-Certificate-in-Social-Service(1).pdf){:target="_blank"} for FAQs relating to this programme.
 
