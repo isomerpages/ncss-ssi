@@ -41,11 +41,18 @@ Learners will be assessed through a mid-term written assessment, a practical ass
 
 ### Course Schedule
 
-Trainer led sessions are expected to occur from 23 Aug to 3 Sep 21 (the proposed dates may be subjected to further changes).
+Trainer Led Sessions:
+23 Aug – 3 Sep 2021 (the proposed dates may be subjected to further changes).
 
-### Application Form
+Practicum Workshop:
+6 Sep 21 
 
-Click [here](https://ncss-ssi-staging.netlify.app/images/training/Application%20form_Prep%20and%20CPS_Run%206.pdf){:target="_blank"} to access the application form for the both the  **‘**Preparatory Training for Potential Peer Support Specialist**’** and ‘Certificate in Peer Support.  
+Practicum: 
+7 Sep – 1 Nov 21 (To be allocated upon successful enrolment and completion of classroom training)
+
+Graduation:
+10 Dec 21 (TBC)
+ 
   
 _Note:_
 
