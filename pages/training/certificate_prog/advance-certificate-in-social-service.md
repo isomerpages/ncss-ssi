@@ -20,7 +20,7 @@ Applicants must:
 Applicants should also possess at least one of the following criteria:
 
 -   At least 2 years of working experience (for applicants with a minimum of 3 GCE 'O' level credits).
--   At least 1.5 years of working experience (for applicants with a NITEC in Community Care and Social Services).
+-   At least 1.5 years of full-time working experience (for applicants with a NITEC in Community Care and Social Services).
 
 ### Target Audience
 
