@@ -14,7 +14,4 @@ This module is called the 'Preparatory Training for Potential Peer Support Speci
 
 This module is called the 'Certificate in Peer Support'. More details can be found  [here.](https://ncss-ssi-staging.netlify.app/training/cet-programmes/certificate-in-peer-support/){:target="_blank"}   
 
-### Application Form
-
-Download and complete this  [application form](https://ncss-ssi-staging.netlify.app/images/training/Application%20form_Prep%20and%20CPS_Run%206.pdf){:target="_blank"}    to apply for both modules or either modules.
   
