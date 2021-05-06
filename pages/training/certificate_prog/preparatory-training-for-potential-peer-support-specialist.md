@@ -52,4 +52,4 @@ _Note:_
 
 **Application Form**
 
-Click [here](/images/documents/Application%20Form_CPS%20Run%206(1).pdf/){:target="_blank"} to access the application form for the both the ‘Preparatory Training for Potential Peer Support Specialist’ and ‘Certificate in Peer Support.
+Click [here](/images/documents/Application%20form_Prep%20and%20CPS_Run7_Final%20Copy.pdf/){:target="_blank"} to access the application form for the both the ‘Preparatory Training for Potential Peer Support Specialist’ and ‘Certificate in Peer Support.

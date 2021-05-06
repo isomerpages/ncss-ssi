@@ -16,4 +16,4 @@ This module is called the 'Certificate in Peer Support'. More details can be fou
 
 **Application Form** 
 
-Download and complete this [application form](/images/documents/Application%20Form_CPS%20Run%206(1).pdf/){:target="_blank"} to apply for both modules or either module.
+Download and complete this [application form](/images/documents/Application%20form_Prep%20and%20CPS_Run7_Final%20Copy.pdf){:target="_blank"} to apply for both modules or either module.
