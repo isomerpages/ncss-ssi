@@ -12,7 +12,7 @@ This module is called the 'Preparatory Training for Potential Peer Support Speci
 
 **Application Form** 
 
-Download and complete this [application form](/images/documents/Application-Form_CPS-Run-6(1).pdf/){:target="_blank"} to apply for both modules or either module.
+Download and complete this [application form](/images/documents/ApplicationForm_CPSRun6(1).pdf/){:target="_blank"} to apply for both modules or either module.
 
 ### Module 2
 
