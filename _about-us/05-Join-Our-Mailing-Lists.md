@@ -1,6 +1,6 @@
 ---
 title: Join Our Mailing Lists
-permalink: /About-us/Join-Our-Mailing-Lists/
+permalink: https://www.ssi.gov.sg/about-us/mailing-list/
 ---
 
 Receive the latest learning and development updates by signing up for our various mailing lists shown below.  
