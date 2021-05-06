@@ -18,6 +18,6 @@ Download and complete this application form (/images/documents/Application Form_
 
 This module is called the 'Certificate in Peer Support'. More details can be found  [here.](https://ncss-ssi-staging.netlify.app/training/cet-programmes/certificate-in-peer-support/){:target="_blank"}   
 
-**Application Form **
+**Application Form**
 
 Download and complete this application form (/images/documents/Application Form_CPS Run 6(1).pdf){target="_blank"} to apply for both modules or either module.
