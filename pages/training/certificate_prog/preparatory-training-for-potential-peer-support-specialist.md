@@ -49,3 +49,7 @@ _Note:_
 2.  _Registration for the module does not guarantee enrolment in the module. Applicants who have been shortlisted for an interview will receive a notification via email._
 3.  _The module is fully sponsored for Singaporeans and permanent residents if they fulfill a 100% attendance requirement and complete all assessments. Learners who do not meet the 100% attendance requirement would need to provide a valid reason with supporting documents (e.g. a medical certificate). In such events, learners should at least meet a 75% attendance requirement._
 4. For consistency of terminology, the term “Peer Support Specialist” refers to persons with mental health conditions who have been trained and certified to work in multi-disciplinary teams. They are able to leverage on their lived experiences to provide formalised and structured support to others on their recovery journeys. 
+
+**Application Form**
+
+Click [here](/images/documents/Application%20Form_CPS%20Run%206(1).pdf/){:target="_blank"} to access the application form for the both the ‘Preparatory Training for Potential Peer Support Specialist’ and ‘Certificate in Peer Support.
