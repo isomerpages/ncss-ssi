@@ -59,3 +59,7 @@ _Note:_
 1.  _Completion of this module does not guarantee that learners will secure a job._
 2.  _Registration for the module does not guarantee enrolment in the module. Applicants who have been shortlisted for an interview will receive a notification via email._
 3.  _Endorsement from an employer or agency does not guarantee enrolment into the module. Applicants that have been endorsed will still have to pass the interview._
+
+**Application Form**
+
+Download and complete this [application form](/images/documents/Application%20Form_CPS%20Run%206(1).pdf/){:target="_blank"} to apply for both modules or either module.
