@@ -62,4 +62,4 @@ _Note:_
 
 **Application Form**
 
-Download and complete this [application form](/images/documents/Application%20Form_CPS%20Run%206(1).pdf/){:target="_blank"} to apply for both modules or either module.
+Download and complete this [application form](/images/documents/Application%20Form_CPS%20Run%206(1).pdf/){:target="_blank"} to apply for the ‘Preparatory Training for Potential Peer Support Specialist’ and ‘Certificate in Peer Support. .
