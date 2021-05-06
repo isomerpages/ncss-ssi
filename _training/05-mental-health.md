@@ -27,6 +27,9 @@ description: SSI's mental health courses provides social service professionals w
 
 For the full list of Mental Health courses offered by SSI, follow this  [link](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=14a99fd7-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Mental+Health&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   .
 
+**Application Form*
+
+Click [here](/images/documents/Application%20Form_CPS%20Run%206(1).pdf/){:target="_blank"} to access the application form for the both the ‘Preparatory Training for Potential Peer Support Specialist’ and ‘Certificate in Peer Support.
 
 ### Featured Adult Educators
 
