@@ -24,5 +24,5 @@ contacts:
     - other: Email- <a href="mailto:socialserviceinstitute@ncss.gov.sg">socialserviceinstitute@ncss.gov.sg</a>
   - title: Join Our Mailing Lists
     content:
-    - other: Receive the latest learning and development updates from SSI by signing up for our various mailing lists. <a href="https://www.ssi.gov.sg/about-us/mailing-list/"> Sign up here!</a> 
+    - other: Receive the latest learning and development updates from SSI by signing up for our various mailing lists. <a href="https://www.ssi.gov.sg/about-us/mailing-list/"> Sign up here!</a>
 ---
