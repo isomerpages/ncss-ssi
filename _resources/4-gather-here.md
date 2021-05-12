@@ -1,7 +1,7 @@
 ---
 title: GatherHere
 permalink: /resources/gatherhere
-description: SSI's GatherHere is a community space where the Social Service Tribe can work, communicate and reach out differently.
+description: Upcoming webinar exclusively for GatherHere's Board Members Group. This webinar will be held on 27 May 2021 via Zoom. Click [here](/resources/board-group/) {:target="_blank"} to find out more. Zoom details will be provided nearer to the event date. Sign up [here] (https://form.gov.sg/608a634239fe840011225be1) {:target="_blank"} . 
 
 ---
 GatherHere is an online community for the Social Service Tribe, a group of like-minded individuals, who share a vision of empowering everyone to live with dignity. It is where members of the Social Service Tribe can come together to work, communicate, network and reach out differently.
