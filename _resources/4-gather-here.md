@@ -1,7 +1,7 @@
 ---
 title: GatherHere
 permalink: /resources/gatherhere
-description: SSI's GatherHere is a community space where the Social Service Tribe can work, communicate and reach out differently. {:target="_blank"} . 
+description: SSI's GatherHere is a community space where the Social Service Tribe can work, communicate and reach out differently. 
 
 ---
 GatherHere is an online community for the Social Service Tribe, a group of like-minded individuals, who share a vision of empowering everyone to live with dignity. It is where members of the Social Service Tribe can come together to work, communicate, network and reach out differently.
