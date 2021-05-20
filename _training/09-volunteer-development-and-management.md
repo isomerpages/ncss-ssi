@@ -7,6 +7,9 @@ description: SSI provides courses that both empower volunteers and volunteer man
 ![Social Service Institute (SSI) Singapore - Volunteer Development & Management Courses](/images/training/Volunteer_SSI_header-banner-757-x-239px8.jpg)
 
 The featured courses are:   
+
+**Please register for the courses by 15 August 2021. These courses will not be available from 16 August - 13 September 2021.**
+
 -   [Ageing Process<sup>1</sup>](https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=900993&catalogId=1700&templateId=-1){:target="_blank"} 
 -   [Befriending Seniors<sup>1</sup>](https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=918685&catalogId=1700){:target="_blank"}
 -   [Befriending Skills and Practice (For Volunteers)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Befriending+Skills+and+Practice){:target="_blank"}   
