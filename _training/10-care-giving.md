@@ -8,7 +8,7 @@ description: SSI's caregiving courses provide learners with an understanding of 
 
 The featured courses under SSI are:   
 
-**Please register for the courses by 15 August 2021. These courses will not be available from 16 August - 13 September 2021.**
+**Please access the e-learning courses and download your certificates by 31 May 2021, 6pm. The next intake will be from 13 September 2021.**
 
 -   [Preparatory Caregiver Training Programme:Understanding Caregiving](https://learningcloud.sg/pages/coursedescription.jsf?courseId=752497&catalogId=1700){:target="_blank"}   (e-Learning)
 -   [Preparatory Caregiver Training Programme: Communication in Caregiving](https://learningcloud.sg/pages/coursedescription.jsf?courseId=926394&catalogId=1700){:target="_blank"}   (e-Learning) 
