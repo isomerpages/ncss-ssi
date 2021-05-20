@@ -6,6 +6,7 @@ description: SSI's mental health courses provides social service professionals w
 ---
 ![Social Service Institute (SSI) Singapore - Mental Health Conditions & Recovery Courses](/images/training/mental%20health%20SSI_header-banner-757-x-239px3.jpg)
 
+**Please register for the courses by 15 August 2021. These courses will not be available from 16 August - 13 September 2021.**
 
 -   [Applied Suicide Interventional Skills](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=applied+suicide+) [(ASIST)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=applied+suicide+){:target="_blank"}   
 -   E.M.B.R.A.C.E Mental Health - Coming Soon!
