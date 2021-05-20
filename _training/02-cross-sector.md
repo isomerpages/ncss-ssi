@@ -12,6 +12,8 @@ Cross Sector courses also cover a range of skills such as counselling, motivatio
   
 Some of the featured courses under this category are:
 
+**Please register for the courses by 15 August 2021. These courses will not be available from 16 August - 13 September 2021.**
+
 ### **Short Courses:**
 
 -   [Befriending Skills and Practice (For Volunteers)](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Befriending+Skills+and+Practice+%28For+Volunteers%29&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
@@ -22,20 +24,20 @@ Some of the featured courses under this category are:
 -   [Fundamentals in Developing Community Work Programme (NSFWCF Foundational)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Fundamentals+in+Developing+Community+Work+Programme "Click to find out more..."){:target="_blank"}   
 -   [Motivational Interviewing: An Introduction for Social Service Practitioners](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Motivational+Interviewing%3A+An+Introduction+for+Social+Service+Practitioners "Click to find out more..."){:target="_blank"}   
 -   [Overcoming Compassion Fatigue and Burnout](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Overcoming+Compassion+Fatigue+and+Burnout&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=14a99fd7-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Mental+Health&Filter.CourseSubCategory.ToRemove=False){:target="_blank"}   
--   [Singapore's Social Compact](https://learningcloud.sg/pages/coursedescription.jsf?courseId=1233736&catalogId=1700&templateId=-1 "Click to find out more..."){:target="_blank"}   
+-   [Singapore's Social Compact<sup>1</sup>](https://learningcloud.sg/pages/coursedescription.jsf?courseId=1233736&catalogId=1700&templateId=-1 "Click to find out more..."){:target="_blank"}   
 -   [Solution Focused Brief Therapy: Introduction](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=solution+Focused+brief+therapy%3A+introduction&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
 -   [Understanding the Social Service Sector](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Understanding+the+Social+Service+Sector&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
 
+**<sup>1</sup>Please access the e-learning course and download your certificate by 31 May 2021, 6pm.**
 
 ### **Certificate/ Diploma/ Degree Programmes:**
 
--   [Advanced Certificate in Social Service](/training/cet-programmes/advanced-certificate-in-social-service/){:target="_blank"}<sup>1</sup>  
+-   [Advanced Certificate in Social Service](/training/cet-programmes/advanced-certificate-in-social-service/){:target="_blank"}  
 -   [Certificate in Para-Counselling](/training/cet-programmes/certificate-in-para-counselling/){:target="_blank"}     
 -   [Higher Diploma in Social Service (HDSS)](/training/cet-programmes/Higher-Diploma-in-Social-Service/){:target="_blank"} 
 -   [Professional Certificate in Casework (NSWCF Foundational)](/training/cet-programmes/professional-certificate-in-casework-(nswcf-foundational)/){:target="_blank"}   
 -   [Professional Certificate in Group Work (NSWCF Foundational)](/training/cet-programmes/Professional-Certificate-in-Group-Work-(NSWCF-Foundational)/){:target="_blank"}   
 
-<sup>1</sup> This programme name may be subjected to further changes 
 
 
 For the full list of Cross Sector courses offered by SSI, follow this [link](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=faf837bd-290c-e611-810d-000c29e3b091&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Cross+Sector&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   .  
