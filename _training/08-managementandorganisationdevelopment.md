@@ -7,6 +7,9 @@ description: SSI provides courses that train learners in management, leadership,
 ![Social Service Institute (SSI) Singapore - Social Service / Nonprofit Leadership and Management Training Course](/images/training/Managemnt_and_organization_development_SSI_header-banner-757-x-239px6.jpg)
 
 The featured courses are:   
+
+**Please register for the courses by 15 August 2021. These courses will not be available from 16 August - 13 September 2021.**
+
 -   [Budgeting for Charities](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Budgeting+for+Charities){:target="_blank"}   
 -   [Donor Outreach Through Social Media](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Donor+Outreach+Through+Social+Media){:target="_blank"}   
 -   [Effective Supervisory Skills for NPO Managers](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Effective+Supervisory+Skills+for+NPO+Managers){:target="_blank"}  
