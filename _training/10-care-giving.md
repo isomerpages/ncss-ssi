@@ -7,6 +7,9 @@ description: SSI's caregiving courses provide learners with an understanding of 
 ![Social Service Institute (SSI) Singapore - Caregiver Training Courses](/images/training/caregiving_SSI_header-banner-757-x-239px9.jpg) 
 
 The featured courses under SSI are:   
+
+**Please register for the courses by 15 August 2021. These courses will not be available from 16 August - 13 September 2021.**
+
 -   [Preparatory Caregiver Training Programme:Understanding Caregiving](https://learningcloud.sg/pages/coursedescription.jsf?courseId=752497&catalogId=1700){:target="_blank"}   (e-Learning)
 -   [Preparatory Caregiver Training Programme: Communication in Caregiving](https://learningcloud.sg/pages/coursedescription.jsf?courseId=926394&catalogId=1700){:target="_blank"}   (e-Learning) 
 -   [Preparatory Caregiver Training Programme: Caregiver Stress and Management](https://learningcloud.sg/pages/coursedescription.jsf?courseId=926403&catalogId=1700){:target="_blank"}   (e-Learning)
