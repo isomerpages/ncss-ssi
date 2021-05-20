@@ -8,6 +8,8 @@ description: SSI provides short courses, certificates, diploma and degree progra
 
 The featured courses are:
 
+**Please register for the courses by 15 August 2021. These courses will not be available from 16 August - 13 September 2021.**
+
 ### **Short Courses**
 
 -   [A Holistic Approach to Early Intervention for Children with Special Needs](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=holistic+approach){:target="_blank"}   
