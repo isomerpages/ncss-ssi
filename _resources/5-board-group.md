@@ -19,7 +19,7 @@ Aspiring Board Members: Networking opportunities with leaders from the social se
 Thought Leaders of Non-Profits: Networking with existing board members and gain insights. 
 
 ### Register to Join our Webinar Event   
-Come join us at the webinar on 14 June 2021, Monday. Sign up [here](https://form.gov.sg/60a6180b4b811b0011e49f29) {:target="_blank"} .
+Come join us at the webinar on 14 June 2021, Monday. Sign up [here](https://form.gov.sg/60a6180b4b811b0011e49f29){:target="_blank"}
 
 ### Join GatherHere    
 If you are interested in joining the GatherHere Board Members group and do not have an account,drop us an [email](mailto:techservices1@gatherhere.sg).
