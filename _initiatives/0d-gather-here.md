@@ -1,12 +1,14 @@
 ---
-title: GatherHere
+title: GatherHere Board Members Group Relaunch
 permalink: /initiatives/education-innovation-2020/gather-here
 third_nav_title: Education Innovation 2020
 ---
 ![GatherHere](/images/initiatives/education-innovation/GatherHere-mainpage.png)
 
-**What is GatherHere?**
-<br>GatherHere is the online space for the Social Service Tribe, the community of like-minded individuals in the sector who share a vision of empowering everyone to live with dignity. It is where sector professionals can come together to work, communicate, network and reach differently to do good for the sector.
+**GatherHere Board Members Group Relaunch**
+<br>Upcoming webinar exclusively for the GatherHere's Board Members Group. This webinar will be held on 27 May 2021 via Zoom. Click [here](/training/cet-programmes/peer-support-specialist-programme/){:target="_blank"} to find out more. Zoom details will be provided nearer to the event date.
+
+Sign up [here](https://form.gov.sg/608a634239fe840011225be1){:target="_blank"} .  
 
 **Official Launch of GatherHere**
 <br>GatherHere was officially launched on 21 March 2019 by Ms Anita Fam, President of the National Council of Social Service (NCSS) in the presence of key social service professionals, Communities of Practice (CoP) leaders, influencers and content providers.
