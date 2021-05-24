@@ -19,9 +19,9 @@ sections:
             - title: SG United Skills Programme
               description: Through the SGUS programme, SSI will support Singaporeans and permanent residents whose livelihoods have been impacted by the COVID-19 pandemic
               url: /training/sgus/         
-            - title: GatherHere Board Members Group Relaunch
-              description: Upcoming webinar exclusively for GatherHere's Board Members Group. This webinar will be held on 14 June 2021. Sign up [here](https://form.gov.sg/60a6180b4b811b0011e49f29){:target="_blank"}
-              url: /resources/board-group/      
+            - title: GatherHere 
+              description: GatherHere is the online community where Social Service Tribe Meets & Collaborates!
+              url: /resources/gather-here/ 
            
     - infopic:
         title: Start planning for your training needs today!
