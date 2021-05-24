@@ -21,7 +21,7 @@ sections:
               url: /training/sgus/         
             - title: GatherHere 
               description: GatherHere is the online community where Social Service Tribe Meets & Collaborates!
-              url: /resources/gather-here/ 
+              url: /resources/gatherhere/ 
            
     - infopic:
         title: Start planning for your training needs today!
