@@ -78,4 +78,4 @@ Registration closing date: Sunday, 6 June 2021
 
   
 Note:  
-Due to the COVID-19 pandemic, this course will be conducted over ZOOM, click  [here](http://e-services.ncss.gov.sg/Training/Course/DetailProgramme/6b29b89a-9db8-ea11-815b-000c296ee030){:target="_blank"}     to download the training schedule.
+Due to the COVID-19 pandemic, this course will be conducted over ZOOM, click  [here](https://e-services.ncss.gov.sg/Training/Course/DetailProgramme/d906481c-ddb2-eb11-8177-000c296ee030){:target="_blank"}     to download the training schedule.
