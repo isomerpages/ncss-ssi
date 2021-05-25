@@ -20,7 +20,7 @@ sections:
               description: Through the SGUS programme, SSI will support Singaporeans and permanent residents whose livelihoods have been impacted by the COVID-19 pandemic
               url: /training/sgus/         
             - title: GatherHere 
-              description: Upcoming webinar exclusively for GatherHere's Board Members Group. This webinar will be held on 14 June 2021.<a href="https://form.gov.sg/#!/60a6180b4b811b0011e49f29" target="_blank">Sign up here</a>
+              description: Upcoming webinar exclusively for GatherHere's Board Members Group. This webinar will be held on 14 June 2021. <a href="https://form.gov.sg/#!/60a6180b4b811b0011e49f29" target="_blank">Sign up here</a>
               url: /resources/gatherhere/ 
            
     - infopic:
