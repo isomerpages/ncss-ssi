@@ -28,7 +28,7 @@ Upon completion of the course, graduates will be able to:
 
 ### Assessment Requirements
 
-Learners will have to complete an online course evaluation.
+Learners are required to meet at least 75% attendance and deemed 'Competent' for each module.
 
 ### Course Details
 
@@ -38,7 +38,7 @@ Learners will have to complete an online course evaluation.
 **Fees:** Full fees of $4,922 (Inclusive of GST) and nett fees of $1,476.60 (Inclusive of GST, after SSG subsidy). A non-refundable application fee of SGD 53.50 (including GST) is applicable.  
   
 **Other subsidies available:**  
-Successful applicants to the ACSE may apply for the SkillsFuture Study Award <sup>1</sup> for Social Service Sector. You may visit [www.skillsfuture.sg/studyawards/social-service](http://www.skillsfuture.sg/studyawards/social-service){:target="_blank"}    to find out more.  
+Successful applicants to the ACSE may apply for the SkillsFuture Study Award <sup>1</sup> for Social Service Sector. You may visit [www.skillsfuture.gov.sg](http://www.skillsfuture.gov.sg){:target="_blank"}    to find out more.  
   
 **Module 1: Employment & Job Development**  
   
@@ -64,13 +64,13 @@ This module will address the issues of potential conflicts that may arise in the
   
 This module focuses on job coaching for persons with disabilities within a supported employment framework. In contrast to the traditional ‘train and place’ approach, job coaching in supported employment embraces a ‘place, train, and sustain’ model. This model has proved to be significantly important for persons with disabilities to succeed in a job as it requires job coaches to work closely with clients with disabilities and employers throughout the job coaching process. Learners will be given opportunities through lectures, discussions, role plays and other hands-on activities to acquire the specific knowledge and skills required to engage and support clients and employers in supported employment. This process includes the development of client profiles, job development and placement, job site training and support how to effectively fade out of the coaching process and follow-up with the client.  
   
-**3 Feb 2021: Compulsory Visit to Enabling Village – 2 to 5pm**
+**12 November 2021: Compulsory Visit to Enabling Village – 2.00pm to 5.00pm**
 
 ### **Upcoming intake:**
 
-Registration closing date: Monday, 20 July 2020  
+Registration closing date: Sunday, 6 June 2021 
   
-[Click here](http://e-services.ncss.gov.sg/Training/Course/DetailProgramme/8ccfea49-bd8d-ea11-8159-000c296ee030){:target="_blank"}     to download the SSI application form.
+[Click here](https://e-services.ncss.gov.sg/Training/Course/DetailProgramme/d906481c-ddb2-eb11-8177-000c296ee030){:target="_blank"}     to register online.
 
 ----------
 
@@ -78,4 +78,4 @@ Registration closing date: Monday, 20 July 2020
 
   
 Note:  
-Due to the COVID-19 pandemic, this course will be conducted over ZOOM, click  [here](http://e-services.ncss.gov.sg/Training/Course/DetailProgramme/6b29b89a-9db8-ea11-815b-000c296ee030){:target="_blank"}     to download the training schedule.
+Due to the COVID-19 pandemic, this course will be conducted over ZOOM, click  [here](https://e-services.ncss.gov.sg/Training/Course/DetailProgramme/d906481c-ddb2-eb11-8177-000c296ee030){:target="_blank"}     to download the training schedule.
