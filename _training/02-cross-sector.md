@@ -24,11 +24,11 @@ Some of the featured courses under this category are:
 -   [Fundamentals in Developing Community Work Programme (NSFWCF Foundational)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Fundamentals+in+Developing+Community+Work+Programme "Click to find out more..."){:target="_blank"}   
 -   [Motivational Interviewing: An Introduction for Social Service Practitioners](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Motivational+Interviewing%3A+An+Introduction+for+Social+Service+Practitioners "Click to find out more..."){:target="_blank"}   
 -   [Overcoming Compassion Fatigue and Burnout](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Overcoming+Compassion+Fatigue+and+Burnout&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=14a99fd7-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Mental+Health&Filter.CourseSubCategory.ToRemove=False){:target="_blank"}   
--   [Singapore's Social Compact<sup>1</sup>](https://learningcloud.sg/pages/coursedescription.jsf?courseId=1233736&catalogId=1700&templateId=-1 "Click to find out more..."){:target="_blank"}   
+-   Singapore's Social Compact<sup>1</sup>
 -   [Solution Focused Brief Therapy: Introduction](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=solution+Focused+brief+therapy%3A+introduction&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
 -   [Understanding the Social Service Sector](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Understanding+the+Social+Service+Sector&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
 
-**<sup>1</sup>Please access the e-learning course and download your certificate by 31 May 2021, 6pm.**
+**<sup>1</sup>From 7 June 2021, registration will be required before accessing the course. Please indicate your interest [here](https://form.gov.sg/#!/60af0472c18eae00115604bb) {:target="_blank"} .**
 
 ### **Certificate/ Diploma/ Degree Programmes:**
 
