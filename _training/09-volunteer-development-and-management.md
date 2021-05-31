@@ -25,7 +25,7 @@ The featured courses are:
 - [Volunteer Management Practices: Connect, Engage, Develop](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=volunteer+management+practices%3A&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"} 
 -   [Volunteer Management System Engaging Volunteers Systematically](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Volunteer+Management+System+-+Engaging+Volunteers+Systematically){:target="_blank"} 
   
-**<sup>1</sup>From 1 June 2021, registration will be required before accessing the course. Please keep a look out on our website for registration from 21 June 2021 onwards.** 
+**<sup>1</sup>From 1 June 2021, registration will be required before accessing the course. If you are interested in the course, please write to us at <a href="mailto:socialserviceinstitute@ncss.gov.sg">socialserviceinstitute@ncss.gov.sg</a>** 
   
 For the full list of volunteer development and management courses click [here](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=fef837bd-290c-e611-810d-000c29e3b091&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Volunteer+Development&Filter.CourseSubCategory.ToRemove=){:target="_blank"}.  
 
