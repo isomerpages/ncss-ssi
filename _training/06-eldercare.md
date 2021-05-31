@@ -19,7 +19,7 @@ The featured courses are:
 -   [Organise and Implement Group Activities and Recreation Programmes](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=WSQ+Organise+and+Implement+Group+Activities+and+Recreation+Programmes+){:target="_blank"}   
 -   [WSQ Support Seniors to Meet their Physical, Emotional, Psychological, Cognitive and Spiritual Needs](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=WSQ+Support+Seniors+to+Meet+their+Physical%2C+Emotional%2C+Psychological%2C+Cognitive+and+Spiritual+Needs){:target="_blank"}   
 
-**<sup>1</sup>Please access the e-learning course and download your certificate by 31 May 2021, 6pm. The next intake will be from 13 September 2021.**
+**<sup>1</sup>Registration will resume from 13 September 2021.**
 
 For the full list of Eldercare courses offered by SSI, follow this [link](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=8ec889b9-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Eldercare&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   .
 
