@@ -10,22 +10,22 @@ The featured courses are:
 
 **Please register for the courses by 15 August 2021. These courses will not be available from 16 August - 13 September 2021.**
 
--   [Ageing Process<sup>1</sup>](https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=900993&catalogId=1700&templateId=-1){:target="_blank"} 
--   [Befriending Seniors<sup>1</sup>](https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=918685&catalogId=1700){:target="_blank"}
+-   Ageing Process<sup>1</sup>
+-   Befriending Seniors<sup>1</sup>
 -   [Befriending Skills and Practice (For Volunteers)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Befriending+Skills+and+Practice){:target="_blank"}   
 -   [Design and Develop an Effective Volunteer Work Programme](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Design+and+develop+an+effective&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
 -   [Introduction to Youth Mentoring (For Volunteers)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=introduction+to+youth+mentoring&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
--   [Overview to Disabilities<sup>1</sup>](https://learningcloud.sg/pages/coursedescription.jsf?courseId=602626&catalogId=1700){:target="_blank"}   
+-   Overview to Disabilities<sup>1</sup>
 -   [Plan and Strategise for an Effective Volunteer Engagement Programme](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=plan+and+strategise&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
--   [Understanding Persons with Developmental Disabilities<sup>1</sup>](https://learningcloud.sg/pages/coursedescription.jsf?courseId=607793&catalogId=1700){:target="_blank"} 
--   [Understanding Persons with Intellectual Disabilities<sup>1</sup>](https://learningcloud.sg/pages/coursedescription.jsf?courseId=751912&catalogId=1700){:target="_blank"} 
--   [Understanding Persons with Physical Disabilities<sup>1</sup>](https://learningcloud.sg/pages/coursedescription.jsf?courseId=609000&catalogId=1700){:target="_blank"}   
--   [Understanding Persons with Sensory Disabilities<sup>1</sup>](https://learningcloud.sg/pages/coursedescription.jsf?courseId=609443&catalogId=1700){:target="_blank"}      
+-   Understanding Persons with Developmental Disabilities<sup>1</sup> 
+-   Understanding Persons with Intellectual Disabilities<sup>1</sup>
+-   Understanding Persons with Physical Disabilities<sup>1</sup>  
+-   Understanding Persons with Sensory Disabilities<sup>1</sup>   
 -   [Working Effectively with Youths: Strategies and Techniques (For Volunteers)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Working+Effectively+with+Youths%3A+Strategies+and+techniques&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"} 
 - [Volunteer Management Practices: Connect, Engage, Develop](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=volunteer+management+practices%3A&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"} 
 -   [Volunteer Management System Engaging Volunteers Systematically](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Volunteer+Management+System+-+Engaging+Volunteers+Systematically){:target="_blank"} 
   
-**<sup>1</sup>Please access the e-learning course and download your certificate by 31 May 2021, 6pm.**  
+**<sup>1</sup>From 1 June 2021, registration will be required before accessing the course. Please keep a look out on our website for registration from 21 June 2021 onwards.** 
   
 For the full list of volunteer development and management courses click [here](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=fef837bd-290c-e611-810d-000c29e3b091&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Volunteer+Development&Filter.CourseSubCategory.ToRemove=){:target="_blank"}.  
 
