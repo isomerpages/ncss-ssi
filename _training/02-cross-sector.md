@@ -28,7 +28,7 @@ Some of the featured courses under this category are:
 -   [Solution Focused Brief Therapy: Introduction](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=solution+Focused+brief+therapy%3A+introduction&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
 -   [Understanding the Social Service Sector](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Understanding+the+Social+Service+Sector&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
 
-**<sup>1</sup>From 7 June 2021, registration will be required before accessing the course. Please indicate your interest [here](https://form.gov.sg/#!/60af0472c18eae00115604bb) {:target="_blank"} .**
+**<sup>1</sup>From 7 June 2021, registration will be required before accessing the course. Please indicate your interest [here](https://form.gov.sg/#!/60af0472c18eae00115604bb){:target="_blank"}**
 
 ### **Certificate/ Diploma/ Degree Programmes:**
 
