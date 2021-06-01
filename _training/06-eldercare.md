@@ -11,15 +11,15 @@ The featured courses are:
 **Please register for the courses by 15 August 2021. These courses will not be available from 16 August - 13 September 2021.**
 
 -   [Communicate Effectively with Seniors](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Communicate+Effectively+with+Seniors){:target="_blank"}   
--   [Conversation Starter Toolkit (e-Learning)<sup>1</sup>](https://learningcloud.sg/pages/coursedescription.jsf?courseId=1110234&catalogId=1700&templateId=-1){:target="_blank"}   
+-   Conversation Starter Toolkit (e-Learning)<sup>1</sup>
 -   [Counselling for Seniors](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Counselling+for+Seniors){:target="_blank"}   
--   [Empowering Seniors](https://learningcloud.sg/pages/coursedescription.jsf?courseId=1110271&catalogId=1700&templateId=-1){:target="_blank"}   
--   [Interacting Effectively with Persons with Dementia<sup>1</sup>](https://learningcloud.sg/pages/coursedescription.jsf?courseId=1096636&catalogId=1700&templateId=-1){:target="_blank"}   
+-   Empowering Seniors<sup>1</sup>  
+-   Interacting Effectively with Persons with Dementia<sup>1</sup>
 -   [Seniors’ Life Review through the Arts](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Seniors%E2%80%99+Life+Review+through+the+Arts&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}
 -   [Organise and Implement Group Activities and Recreation Programmes](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=WSQ+Organise+and+Implement+Group+Activities+and+Recreation+Programmes+){:target="_blank"}   
 -   [WSQ Support Seniors to Meet their Physical, Emotional, Psychological, Cognitive and Spiritual Needs](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=WSQ+Support+Seniors+to+Meet+their+Physical%2C+Emotional%2C+Psychological%2C+Cognitive+and+Spiritual+Needs){:target="_blank"}   
 
-**<sup>1</sup>Please access the e-learning course and download your certificate by 31 May 2021, 6pm. The next intake will be from 13 September 2021.**
+**<sup>1</sup>Registration will resume from 13 September 2021.**
 
 For the full list of Eldercare courses offered by SSI, follow this [link](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=8ec889b9-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Eldercare&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   .
 
