@@ -12,7 +12,6 @@ Cross Sector courses also cover a range of skills such as counselling, motivatio
   
 Some of the featured courses under this category are:
 
-**Please register for the courses by 15 August 2021. These courses will not be available from 16 August - 13 September 2021.**
 
 ### **Short Courses:**
 
