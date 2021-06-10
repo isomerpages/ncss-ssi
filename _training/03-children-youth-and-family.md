@@ -8,7 +8,7 @@ description: SSI’s children, youth and family courses provides learners with t
 
 The featured courses are:  
 
-**Please register for the courses by 15 August 2021. These courses will not be available from 16 August - 13 September 2021.**
+**These courses will not be available until further notice.**
 
  - [An Introduction to Family Therapy](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=An+Introduction+to+Family+Therapy){:target="_blank"}  
  - [Certified User for Child & Adolescent Needs & Strengths (CANS)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Certified+User+for+Child+%26+Adolescent+Needs+%26+Strengths+%28CANS%29){:target="_blank"}  
