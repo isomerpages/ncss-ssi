@@ -22,7 +22,7 @@ The featured courses are:
 
 For the full list of Eldercare courses offered by SSI, follow this [link](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=8ec889b9-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Eldercare&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   .
 
-The featured courses under the Agency for Integrated Care (AIC) can be found in the link below:
+The complimentary featured course under the Agency for Integrated Care (AIC) can be found in the link below:
 
 -   [Dementia Awareness Foundation](https://ccmhdcomms.github.io/dementiaawareness20/){:target="_blank"}
 
