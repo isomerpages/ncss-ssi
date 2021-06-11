@@ -6,8 +6,6 @@ description: SSI's mental health courses provides social service professionals w
 ---
 ![Social Service Institute (SSI) Singapore - Mental Health Conditions & Recovery Courses](/images/training/mental%20health%20SSI_header-banner-757-x-239px3.jpg)
 
-**Please register for the courses by 15 August 2021. These courses will not be available from 16 August - 13 September 2021.**
-
 -   [Applied Suicide Interventional Skills](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=applied+suicide+) [(ASIST)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=applied+suicide+){:target="_blank"}   
 -   E.M.B.R.A.C.E Mental Health - Coming Soon!
 -   [Management of Depression in Seniors](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Management+of+depression+in+seniors&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=14a99fd7-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Mental+Health&Filter.CourseSubCategory.ToRemove=False){:target="_blank"}   
@@ -27,6 +25,13 @@ description: SSI's mental health courses provides social service professionals w
 
 
 For the full list of Mental Health courses offered by SSI, follow this  [link](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=14a99fd7-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Mental+Health&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   .
+
+The complimentary featured courses under the Agency for Integrated Care (AIC) can be found in the link below:
+
+-   [Mental Health Awareness Foundation 1](https://ccmhdcomms.github.io/mhafoundation1/){:target="_blank"}
+-   [Mental Health Awareness Foundation 2](https://ccmhdcomms.github.io/mhafoundation2/){:target="_blank"}
+-   [Mental Health Awareness Basic 1](https://ccmhdcomms.github.io/mhalevel2ss20/){:target="_blank"}
+-   [Mental Health Awareness Basic 2](https://ccmhdcomms.github.io/mhalevel2comms20/){:target="_blank"}
 
 
 ### Featured Adult Educators

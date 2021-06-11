@@ -8,9 +8,9 @@ description: SSI provides courses that both empower volunteers and volunteer man
 
 The featured courses are:   
 
-**Please register for the courses by 15 August 2021. These courses will not be available from 16 August - 13 September 2021.**
+**<sup>1</sup>As SSI strive to provide all learners with a better online learning experience, we will be making improvements to our learning system. From 1 June 2021, learners will be required to register via e-services before accessing the e-learning courses. These links will be available on 21 June 2021.** 
 
--   Ageing Process<sup>1</sup>
+-   [Ageing Process](https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=900993&catalogId=1700&templateId=-1){:target="_blank"} 
 -   Befriending Seniors<sup>1</sup>
 -   [Befriending Skills and Practice (For Volunteers)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Befriending+Skills+and+Practice){:target="_blank"}   
 -   [Design and Develop an Effective Volunteer Work Programme](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Design+and+develop+an+effective&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
@@ -21,11 +21,10 @@ The featured courses are:
 -   Understanding Persons with Intellectual Disabilities<sup>1</sup>
 -   Understanding Persons with Physical Disabilities<sup>1</sup>  
 -   Understanding Persons with Sensory Disabilities<sup>1</sup>   
--   [Working Effectively with Youths: Strategies and Techniques (For Volunteers)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Working+Effectively+with+Youths%3A+Strategies+and+techniques&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"} 
+-   Working Effectively with Youths: Strategies and Techniques (For Volunteers)<sup>1</sup>
 - [Volunteer Management Practices: Connect, Engage, Develop](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=volunteer+management+practices%3A&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"} 
 -   [Volunteer Management System Engaging Volunteers Systematically](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Volunteer+Management+System+-+Engaging+Volunteers+Systematically){:target="_blank"} 
   
-**<sup>1</sup>From 1 June 2021, registration will be required before accessing the course. If you are interested in the course, please keep a lookout on our website for registration 21 June 2021 and beyond.** 
   
 For the full list of volunteer development and management courses click [here](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=fef837bd-290c-e611-810d-000c29e3b091&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Volunteer+Development&Filter.CourseSubCategory.ToRemove=){:target="_blank"}.  
 
