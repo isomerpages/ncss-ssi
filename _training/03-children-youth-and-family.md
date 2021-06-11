@@ -8,8 +8,6 @@ description: SSI’s children, youth and family courses provides learners with t
 
 The featured courses are:  
 
-**These courses will not be available until further notice.**
-
  - [An Introduction to Family Therapy](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=An+Introduction+to+Family+Therapy){:target="_blank"}  
  - [Certified User for Child & Adolescent Needs & Strengths (CANS)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Certified+User+for+Child+%26+Adolescent+Needs+%26+Strengths+%28CANS%29){:target="_blank"}  
  - [Certified User for Youth Level of Service/ Case Management (YLS/CMI)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=certified+user+for+youth+level+of+service&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
