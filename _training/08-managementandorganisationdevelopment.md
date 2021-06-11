@@ -7,8 +7,6 @@ description: SSI provides courses that train learners in management, leadership,
 ![Social Service Institute (SSI) Singapore - Social Service / Nonprofit Leadership and Management Training Course](/images/training/Managemnt_and_organization_development_SSI_header-banner-757-x-239px6.jpg)
 
 
-**These courses will not be available until further notice.**
-
 The featured courses are:   
 
 -   [Budgeting for Charities](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Budgeting+for+Charities){:target="_blank"}   
