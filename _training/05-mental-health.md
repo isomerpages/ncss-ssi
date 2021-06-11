@@ -26,7 +26,7 @@ description: SSI's mental health courses provides social service professionals w
 
 For the full list of Mental Health courses offered by SSI, follow this  [link](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=14a99fd7-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Mental+Health&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   .
 
-The featured courses under the Agency for Integrated Care (AIC) can be found in the link below:
+The complimentary featured courses under the Agency for Integrated Care (AIC) can be found in the link below:
 
 -   [Mental Health Awareness Foundation 1](https://ccmhdcomms.github.io/mhafoundation1/){:target="_blank"}
 -   [Mental Health Awareness Foundation 2](https://ccmhdcomms.github.io/mhafoundation2/){:target="_blank"}
