@@ -8,9 +8,6 @@ description: SSI provides courses that both empower volunteers and volunteer man
 
 The featured courses are:   
 
-**These courses will not be available until further notice.**
-
-
 **<sup>1</sup>As SSI strive to provide all learners with a better online learning experience, we will be making improvements to our learning system. From 1 June 2021, learners will be required to register via e-services before accessing the e-learning courses. These links will be available on 21 June 2021.** 
 
 -   [Ageing Process](https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=900993&catalogId=1700&templateId=-1){:target="_blank"} 
