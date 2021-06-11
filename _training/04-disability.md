@@ -8,8 +8,6 @@ description: SSI provides short courses, certificates, diploma and degree progra
 
 The featured courses are:
 
-**These courses will not be available until further notice.**
-
 ### **Short Courses**
 
 -   [A Holistic Approach to Early Intervention for Children with Special Needs](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=holistic+approach){:target="_blank"}   
