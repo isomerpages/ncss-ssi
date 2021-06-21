@@ -8,7 +8,7 @@ description: SSI provides courses that both empower volunteers and volunteer man
 
 The featured courses are:   
 
-**<sup>1</sup>As SSI strive to provide all learners with a better online learning experience, we will be making improvements to our learning system. From 1 June 2021, learners will be required to register via e-services before accessing the e-learning courses. These links will be available on 21 June 2021.** 
+**<sup>1</sup>As SSI strive to provide all learners with a better online learning experience, we will be making improvements to our learning system. From 1 June 2021, learners will be required to register via e-services before accessing the e-learning courses.** 
 
 -   [Ageing Process](https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=900993&catalogId=1700&templateId=-1){:target="_blank"} 
 -   Befriending Seniors<sup>1</sup>
@@ -24,6 +24,13 @@ The featured courses are:
 -   Working Effectively with Youths: Strategies and Techniques (For Volunteers)<sup>1</sup>
 - [Volunteer Management Practices: Connect, Engage, Develop](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=volunteer+management+practices%3A&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"} 
 -   [Volunteer Management System Engaging Volunteers Systematically](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Volunteer+Management+System+-+Engaging+Volunteers+Systematically){:target="_blank"} 
+-   [Introduction to Volunteerism (E-learning)](https://e-services.ncss.gov.sg/Training/Course/Detail/7305DA4A-80CF-EB11-8178-000C296EE030){:target="_blank"} 
+-   [Getting your Social Agency Volunteer-Ready (E-learning)](https://e-services.ncss.gov.sg/Training/Course/Detail/7605DA4A-80CF-EB11-8178-000C296EE030){:target="_blank"} 
+-   [Conducting a Needs Assessment (E-learning)](https://e-services.ncss.gov.sg/Training/Course/Detail/7905DA4A-80CF-EB11-8178-000C296EE030){:target="_blank"} 
+-   [Recruiting and Selecting Volunteers (E-learning)](https://e-services.ncss.gov.sg/Training/Course/Detail/7C05DA4A-80CF-EB11-8178-000C296EE030){:target="_blank"} 
+-   [On-boarding and Training Volunteers (E-learning)](https://e-services.ncss.gov.sg/Training/Course/Detail/7F05DA4A-80CF-EB11-8178-000C296EE030){:target="_blank"} 
+-   [Supporting and Recognising Volunteers (E-learning)](https://e-services.ncss.gov.sg/Training/Course/Detail/8205DA4A-80CF-EB11-8178-000C296EE030){:target="_blank"} 
+-   [Reviewing Volunteer Management (E-learning)](https://e-services.ncss.gov.sg/Training/Course/Detail/8505DA4A-80CF-EB11-8178-000C296EE030){:target="_blank"} 
   
   
 For the full list of volunteer development and management courses click [here](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=fef837bd-290c-e611-810d-000c29e3b091&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Volunteer+Development&Filter.CourseSubCategory.ToRemove=){:target="_blank"}.  
