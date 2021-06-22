@@ -21,8 +21,15 @@ Thought Leaders of Non-Profits: Networking with existing board members and gain 
 ### Join the Community    
 If you are interested in joining the GatherHere Board Members group and do not have an account,drop us an [email](mailto:techservices1@gatherhere.sg).
 
-### Register to Join our Upcoming Webinar Event   
-Come join us at the upcoming webinar on 14 June 2021, Monday. Sign up [here](https://form.gov.sg/60a6180b4b811b0011e49f29){:target="_blank"}
+### Thank you for Joining Us at the Webinar on 14 June 2021!    
+ 
+Here are the five ways to foster successful collaborations between businesses and social service agencies.
+ 
+1) Get to know your collaborating partner well
+2) Design symbiotic collaboration opportunities
+3) Openly and effectively communicate needs, expectations, and limitations
+4) Build trust by establishing a strong track record and investing in long-term relationships
+5) Leverage your board to strengthen collaboration efforts
 
 ### Guides for Claiming your GatherHere Account
 
