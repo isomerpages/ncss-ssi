@@ -10,7 +10,7 @@ The featured courses are:
 
 **<sup>1</sup>As SSI strive to provide all learners with a better online learning experience, we will be making improvements to our learning system. From 1 June 2021, learners will be required to register via e-services before accessing the e-learning courses.** 
 
--   [Ageing Process](https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=900993&catalogId=1700&templateId=-1){:target="_blank"} 
+-   Ageing Process
 -   [Befriending Seniors<sup>1</sup>](https://e-services.ncss.gov.sg/Training/Course/Detail/AA1FA9C7-78CF-EB11-8178-000C296EE030){:target="_blank"}   
 -   [Befriending Skills and Practice (For Volunteers)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Befriending+Skills+and+Practice){:target="_blank"}   
 -   [Design and Develop an Effective Volunteer Work Programme](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Design+and+develop+an+effective&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
