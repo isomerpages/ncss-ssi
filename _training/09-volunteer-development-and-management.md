@@ -10,18 +10,18 @@ The featured courses are:
 
 **<sup>1</sup>As SSI strive to provide all learners with a better online learning experience, we will be making improvements to our learning system. From 1 June 2021, learners will be required to register via e-services before accessing the e-learning courses.** 
 
--   [Ageing Process](https://www.learningcloud.sg/pages/coursedescription.jsf?courseId=900993&catalogId=1700&templateId=-1){:target="_blank"} 
--   Befriending Seniors<sup>1</sup>
+-   Ageing Process
+-   [Befriending Seniors<sup>1</sup>](https://e-services.ncss.gov.sg/Training/Course/Detail/AA1FA9C7-78CF-EB11-8178-000C296EE030){:target="_blank"}   
 -   [Befriending Skills and Practice (For Volunteers)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Befriending+Skills+and+Practice){:target="_blank"}   
 -   [Design and Develop an Effective Volunteer Work Programme](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Design+and+develop+an+effective&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
 -   [Introduction to Youth Mentoring (For Volunteers)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=introduction+to+youth+mentoring&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
--   Overview to Disabilities<sup>1</sup>
+-   [Overview to Disabilities<sup>1</sup>](https://e-services.ncss.gov.sg/Training/Course/Detail/AD1FA9C7-78CF-EB11-8178-000C296EE030){:target="_blank"}   
 -   [Plan and Strategise for an Effective Volunteer Engagement Programme](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=plan+and+strategise&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
--   Understanding Persons with Developmental Disabilities<sup>1</sup> 
--   Understanding Persons with Intellectual Disabilities<sup>1</sup>
--   Understanding Persons with Physical Disabilities<sup>1</sup>  
--   Understanding Persons with Sensory Disabilities<sup>1</sup>   
--   Working Effectively with Youths: Strategies and Techniques (For Volunteers)<sup>1</sup>
+-   [Understanding Persons with Developmental Disabilities<sup>1</sup>](https://e-services.ncss.gov.sg/Training/Course/Detail/B01FA9C7-78CF-EB11-8178-000C296EE030){:target="_blank"} 
+-   [Understanding Persons with Intellectual Disabilities<sup>1</sup>](https://e-services.ncss.gov.sg/Training/Course/Detail/B91FA9C7-78CF-EB11-8178-000C296EE030){:target="_blank"} 
+-   [Understanding Persons with Physical Disabilities<sup>1</sup>](https://e-services.ncss.gov.sg/Training/Course/Detail/B31FA9C7-78CF-EB11-8178-000C296EE030){:target="_blank"}   
+-   [Understanding Persons with Sensory Disabilities<sup>1</sup>](https://e-services.ncss.gov.sg/Training/Course/Detail/B61FA9C7-78CF-EB11-8178-000C296EE030)   
+-   [Working Effectively with Youths: Strategies and Techniques (For Volunteers)<sup>1</sup>](https://e-services.ncss.gov.sg/Training/Course/Detail/CDE473D6-2ECF-EB11-8178-000C296EE030){:target="_blank"}  
 - [Volunteer Management Practices: Connect, Engage, Develop](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=volunteer+management+practices%3A&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"} 
 -   [Volunteer Management System Engaging Volunteers Systematically](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Volunteer+Management+System+-+Engaging+Volunteers+Systematically){:target="_blank"} 
 -   [Introduction to Volunteerism (E-learning)](https://e-services.ncss.gov.sg/Training/Course/Detail/7305DA4A-80CF-EB11-8178-000C296EE030){:target="_blank"} 

@@ -25,11 +25,11 @@ If you are interested in joining the GatherHere Board Members group and do not h
  
 Here are the five ways to foster successful collaborations between businesses and social service agencies.
  
-1) Get to know your collaborating partner well
-2) Design symbiotic collaboration opportunities
-3) Openly and effectively communicate needs, expectations, and limitations
-4) Build trust by establishing a strong track record and investing in long-term relationships
-5) Leverage your board to strengthen collaboration efforts
+1. Get to know your collaborating partner well
+2. Design symbiotic collaboration opportunities
+3. Openly and effectively communicate needs, expectations, and limitations
+4. Build trust by establishing a strong track record and investing in long-term relationships
+5. Leverage your board to strengthen collaboration efforts
 
 ### Guides for Claiming your GatherHere Account
 
