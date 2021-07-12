@@ -41,7 +41,7 @@ At the end of the module, participants will be assessed based on a written asses
 
 ### **Course Schedule**
 
-The trainer led sessions are expected to run from 19 to 20 Aug 21 (the proposed dates may be subjected to further changes). 
+The trainer led sessions are expected to run from 16 to 18 Aug 21 (the proposed dates may be subjected to further changes). 
   
 _Note:_
 
