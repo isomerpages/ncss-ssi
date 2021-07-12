@@ -42,13 +42,13 @@ Learners will be assessed through a mid-term written assessment, a practical ass
 ### Course Schedule
 
 Trainer Led Sessions:
-23 Aug – 3 Sep 2021 (the proposed dates may be subjected to further changes).
+19 Aug – 8 Sep 2021 (the proposed dates may be subjected to further changes).
 
 Practicum Workshop:
-6 Sep 21 
+13 Sep 21 
 
 Practicum: 
-7 Sep – 1 Nov 21 (To be allocated upon successful enrolment and completion of classroom training)
+14 Sep – 8 Nov 21 (To be allocated upon successful enrolment and completion of classroom training)
 
 Graduation:
 10 Dec 21 (TBC)

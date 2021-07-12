@@ -55,6 +55,27 @@ The Training Network Model refers to the network of partners that SSI engages to
     
 14.  [Singapore Association of Social Workers](https://www.sasw.org.sg/){:target="_blank"}   
 
+### **Our Adult Educators**
+
+SSI is always excited to welcome new Adult Educators (AE) to share their expertise. Our AEs support the expansion of the SSI into the social service sector in providing continuing education and training, targeted at meeting learning needs. To join us as an AE, you should possess the following basic requirements:
+
+-   Minimum 3 years of relevant industry experience (may include experience as a practitioner/consultant)  
+-   Minimum of Bachelor’s Degree
+
+You should also possess a professional qualification, such as:
+
+-   WSQ Advanced Certificate in Training and Assessment (ACTA)/WSQ Advanced Certificate in Learning and Performance (ACLP)
+-   WSQ Diploma in Adult and Continuing Education/ WSQ Diploma in Design and Development of Learning for Performance
+-   Other equivalent professional qualifications
+
+Our annual recruitment drive for AEs will open for 2 windows; in April and October. Each window will open for 2 months. 
+
+| **Application Window** | **If Shortlisted, you will be contacted by:** |	
+|--|--|
+| 1 Apr 2021 - 31 May 2021 | First working day of Jun|
+| 1 Oct 2021 - 30 Nov 2021 | First working day of Dec|
+
+Kindly submit the [application form](https://form.gov.sg/#!/607935eee0b9d9001179a50d) along with your documents (CV and credentials). If you have not heard from us 2 weeks after the close of window, your application is unsuccessful.
 
 ### **Partnership Opportunities**   
 

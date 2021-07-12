@@ -55,9 +55,9 @@ The SkillsFuture Study Award only supports courses or academic programmes that h
 
 -   Courses are conducted by SSI and/or are funded by VWOs-Charities Capability Fund (VCF).
     
--   Courses are identified by your SSA. This applicable to candidates who are nominated by their employers.
+-   Courses are identified by your SSA. This is applicable to candidates who are nominated by their employers.
     
--   Courses lead to a recognised social service qualification (i.e. Graduate Diploma in Social Work etc.)
+-   Courses lead to a recognised social service qualification (i.e. WSQ Diploma in Social Service, Bachelor of Social Work, Graduate Diploma in Social Work etc.)
     
 
 ### **How to Apply**
@@ -68,22 +68,20 @@ The application period is open every quarter, unless stated otherwise. Refer to 
   
 | **Application Period** | **Processing Period** | **Disbursement Period** |	
 |--|--|--|
-| Apr 2020 - Jun 2020 | Jul 2020 - Aug 2020 | Aug 2019 - Sep 2020|
+| Jul 2021 - Sep 2021 | Oct 2021 - Nov 2021 | Nov 2021 - Dec 2021|
 |--|--|--|
-|18 Jul 2020 - Sep 2020|Oct 2020 - Nov 2020|Nov 2019 - Dec 2020|
-|--|--|--|
-|Oct 2020 - Nov 2020|Jan 2021 - Feb 2021|Feb 2021 - Mar 2021 |
+| Oct 2021 - Dec 2021| Jan 2022 - Feb 2022 |Feb 2022 - Mar 2022 |
   
 
 
 ### **Evaluation & Outcome**
 
-Your application will be processed and evaluated after the application period for the quarter has ended. You will be informed about the application outcome approximately six weeks from the application closing date. Completed applications will be processed based on the eligibility criteria and on a first come first serve basis. 
+Your application will be processed and evaluated after the application period for the quarter has ended. You will be informed about the application outcome approximately 4 to  6 weeks from the application closing date. Completed applications will be processed based on the eligibility criteria and on a first come first serve basis. 
 
-Applications will also be subjected to the spaces available based on the award cap. In the event that the cap on the number of awards to be given out in a particular year has already been reached, applications received thereafter will not be processed. Incomplete applications or applications without supporting documents will also not be processed. Shortlisted applicants will be notified via email.
+Incomplete applications or applications without supporting documents will not be processed. Shortlisted applicants will be notified via email.
 
 ### **Contact Us**
 
-To find out more about the SkillsFuture Study Award, visit the  [SkillsFuture website](https://programmes.myskillsfuture.sg/Portal/ProgramListing.aspx?Source=SFSA){:target="_blank"}    .  
+To find out more about the SkillsFuture Study Award, visit the  [SkillsFuture website](https://programmes.myskillsfuture.gov.sg/Portal/ProgramListing.aspx?source=SFSA){:target="_blank"}    .  
   
 Alternatively, you can email us at  <Skillsfuture_Study_Awards@ncss.gov.sg>  for any enquiries. You will receive a response to your enquiry within three working days.
