@@ -75,7 +75,7 @@ Our annual recruitment drive for AEs will open for 2 windows; in April and Octob
 | 1 Apr 2021 - 31 May 2021 | First working day of Jun|
 | 1 Oct 2021 - 30 Nov 2021 | First working day of Dec|
 
-Kindly submit the [application form](https://docs.google.com/forms/d/e/1FAIpQLScsqoQNX5FkrV5Phd-mZcCvAotEegskOzHqA9_cQ-bCf13ekA/viewform?pli=1) along with your documents (CV and credentials). If you have not heard from us 2 weeks after the close of window, your application is unsuccessful.
+Kindly submit the application form along with your documents (CV and credentials). If you have not heard from us 2 weeks after the close of window, your application is unsuccessful.
 
 ### **Partnership Opportunities**   
 
