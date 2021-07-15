@@ -31,7 +31,7 @@ Learners are required to meet at least 75% attendance and deemed 'Competent' for
 
 ### Course Details
 
-**Programme Duration:** This course is offered on a part time basis and has a total duration of 131 hours.  
+**Programme Duration:** This course is offered on a part time basis and has a total duration of 115 hours.  
 **Lesson Timings:**  9.30am to 5.30pm
 
 **Fees:** Full fees of $4,280 (Inclusive of GST) and nett fees of $1,284 (Inclusive of GST, after SSG subsidy). A non-refundable application fee of SGD 53.50 (including GST) is applicable.  
