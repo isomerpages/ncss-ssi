@@ -63,7 +63,7 @@ This module focuses on the role and responsibilities of a professional job coach
 
 ### **Upcoming intake:**
 
-Registration closing date: Thursday, 5 August 2021 
+Registration closing date: Thursday, 12 August 2021 
   
 [Click here](https://e-services.ncss.gov.sg//Training/Course/DetailProgramme/6d4ec4f3-87d9-eb11-8179-000c296ee030){:target="_blank"}     to register online.
 
