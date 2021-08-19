@@ -81,7 +81,7 @@ Learners will be taught key Agile concepts, principles and methodologies. This w
 
 ### Application Details 
 
-Sign up for the programme through this [link.](https://e-services.ncss.gov.sg/Training/Course/DetailProgramme/EC992FC6-3535-EB11-816C-000C296EE030){:target="_blank"}
+Sign up for the programme through this [link.](https://e-services.ncss.gov.sg/Training/Course/DetailProgramme/9c83d779-89fb-eb11-817c-000c296ee030){:target="_blank"}
 
 ### Enquiries
 
