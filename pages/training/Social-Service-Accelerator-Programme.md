@@ -91,4 +91,4 @@ Note:
 
 1. The course details including the start dates and cost of the course is tentative and will be updated accordingly.
 2. The Social Service Accelerator Programme is jointly developed by SSI and Ngee Ann Polytechnic (NP) although individual courses may come from either SSI or NP.
-3. Registration may close before 30 Sept 21 if the maximum number (60 pax) of available spaces is taken up before the closure date.
+3. Registration may close before 30 Sept 21 if the maximum number of available spaces is taken up before the closure date.
