@@ -24,8 +24,7 @@ Information on placement opportunities can be found through the social service d
 ### SGUnited Skills Programmes in SSI
 
 1. [SGUnited Skills Programme – Social Service Accelerator](/pages/training/Social-Service-Accelerator/){:target="_blank"}
-2. [SGUnited Skills Programme – Volunteer Management](/pages/training/Volunteer-Management/){:target="_blank"}
-3. [SGUnited Skills Programme – Social Service Assistant](/pages/training/Social-Service-Assistant/){:target="_blank"}
+2. [SGUnited Skills Programme – Social Service Assistant](/pages/training/Social-Service-Assistant/){:target="_blank"}
 
 ### FAQs
 
