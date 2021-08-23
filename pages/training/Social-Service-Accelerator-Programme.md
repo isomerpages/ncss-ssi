@@ -34,7 +34,7 @@ For more information on the applicable job roles in the social service sector vi
 ### Modules for Functional Skills
 
 **Marketing & Fundraising**
--   Branding Non-Profit: A Introduction (by SSI)
+-   Branding Non-Profit: An Introduction (by SSI)
 
 Learners will gain a deeper understanding of branding and its importance for both new and more established non profits.
 
