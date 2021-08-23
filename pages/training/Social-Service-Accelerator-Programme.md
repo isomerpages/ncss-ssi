@@ -18,8 +18,8 @@ For more information on the applicable job roles in the social service sector vi
 
 ### Programme Details
 
--   Application period: Applications for this course will be from 18 Jan 21 to 1 Feb 21. 
--   Start Date: Mar 21 (Intake Two).
+-   Application period: Applications for this course will be from 1 Sept 2021 – 30 Sept 2021. 
+-   Start Date: Dec 21 (Intake Three).
 -   Programme Duration: Six months.
 -   Fees (excluding GST): Total would be $14,160 but net fees after funding will be $500. 
 -   Mode of delivery: Blended learning (facilitated classroom training, online course materials & pre-course e-Learning activities).
@@ -34,7 +34,7 @@ For more information on the applicable job roles in the social service sector vi
 ### Modules for Functional Skills
 
 **Marketing & Fundraising**
--   Branding Non-Profit: A Introduction (by SSI)
+-   Branding Non-Profit: An Introduction (by SSI)
 
 Learners will gain a deeper understanding of branding and its importance for both new and more established non profits.
 
@@ -81,7 +81,7 @@ Learners will be taught key Agile concepts, principles and methodologies. This w
 
 ### Application Details 
 
-Sign up for the programme through this [link.](https://e-services.ncss.gov.sg/Training/Course/DetailProgramme/EC992FC6-3535-EB11-816C-000C296EE030){:target="_blank"}
+Sign up for the programme through this [link.](https://e-services.ncss.gov.sg/Training/Course/DetailProgramme/9c83d779-89fb-eb11-817c-000c296ee030){:target="_blank"}
 
 ### Enquiries
 
@@ -91,4 +91,4 @@ Note:
 
 1. The course details including the start dates and cost of the course is tentative and will be updated accordingly.
 2. The Social Service Accelerator Programme is jointly developed by SSI and Ngee Ann Polytechnic (NP) although individual courses may come from either SSI or NP.
-3. Registration may close before 1 Feb 21 if the maximum number (60 pax) of available spaces is taken up before the closure date.
+3. Registration may close before 30 Sept 21 if the maximum number of available spaces is taken up before the closure date.
