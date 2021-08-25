@@ -5,7 +5,7 @@ permalink: /pages/training/Social-Service-Assistant
 ### Overview
 The SGUnited Skills Programme – Social Service Assistant aims to provide learners with the necessary knowledge and skillsets to perform the roles of a social service assistant, co-ordinator or programme executive.
 
-For more information on the applicable job roles in the social service sector visit this [link.](https://www.myskillsfuture.sg/content/portal/en/career-resources/career-resources/campaigns/train-and-skill-up-for-jobs-in-Social-Services.html){:target="_blank"}
+For more information on the applicable job roles in the social service sector visit this [link.](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/campaigns/train-and-skill-up-for-jobs-in-Social-Services.html){:target="_blank"}
 
 ### Target Audience
 
