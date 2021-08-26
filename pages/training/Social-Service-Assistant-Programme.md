@@ -14,7 +14,7 @@ For more information on the applicable job roles in the social service sector vi
 -   Individual contributors with at least three to four years of experience in people engagement, programme coordination, administration and operations.
 
 ### Programme Details
--   Application period: Applications for this course will be from 1 Sept 2021 – 30 Sept 2021*. 
+-   Application period: Applications for this course will be from 1 Sept 2021 – 30 Sept 2021. 
 -   Start Date: Dec 2021 (Intake Three).
 -   Programme Duration: Eight months.
 -   Fees (excluding GST): Total would be $14,130 but nett fees after funding will be $666.67. 
