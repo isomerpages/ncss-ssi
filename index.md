@@ -26,7 +26,7 @@ sections:
     - infopic:
         title: Start planning for your training needs today!
         subtitle: SSI’s Training Directory is Now Available
-        description: Download our training directory to view courses from across 10 different course categories (CET Programmes, Cross Sector, Children, Youth & Family, Disability, Mental Health, Eldercare, Board Development, Management & Organisational Development,Volunteer Development & Management and Caregiving).
+        description: Download our training directory to learn more about the broad range of courses that SSI offers from 10 different categories.
         button: Download our training directory!
         url: /images/documents/SSI0026_21 Training Directory Single Page.pdf 
         image: /images/homepage/Training_Direc_Banner.jpg
@@ -35,7 +35,7 @@ sections:
     - infopic:
         title: Our Partners
         subtitle:
-        description: SSI is constantly looking for partnerships with local or international SSAs, NPOs, IHLs and private training organisations to co-develop the capabilities of Singapore’s social service sector.
+        description: SSI is actively looking for partnerships with SSAs, NPOs, IHLs and private training bodies to co-develop the capabilities of Singapore’s social         service sector.
         button: Learn More
         url: /about-us/our-partners/
         image: /images/homepage/our-partners.jpg
