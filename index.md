@@ -35,7 +35,7 @@ sections:
     - infopic:
         title: Our Partners
         subtitle:
-        description: SSI is actively looking for partnerships with SSAs, NPOs, IHLs and private training bodies to co-develop the capabilities of Singapore’s social         service sector.
+        description: SSI is actively looking for partnerships with SSAs, NPOs, IHLs and private training bodies to co-develop the capabilities of Singapore’s social service sector.
         button: Learn More
         url: /about-us/our-partners/
         image: /images/homepage/our-partners.jpg
