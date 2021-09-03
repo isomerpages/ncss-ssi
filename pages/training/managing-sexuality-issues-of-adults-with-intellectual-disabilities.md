@@ -1,11 +1,7 @@
 ---
-
 title: Managing Sexuality Issues of Adults with Intellectual Disabilities
-
 permalink: /pages/training/managing-sexuality-issues-of-adults-with-intellectual-disabilities
-
 description: This module aims to equip learners with an understanding of sexuality issues in persons with intellectual disabilities – the role of perceptions on sexuality, sexuality development, and basic interventions to manage sexualized behaviours/emotions.
-
 
 ---
 
