@@ -16,4 +16,4 @@ This module is called the 'Certificate in Peer Support'. More details can be fou
 
 **Application Details** 
 
-You may sign up for either one or both of the modules using this [link.] (https://form.gov.sg/615576e393cf06001389245b) {:target="_blank"}
+Submit your application [here](https://form.gov.sg/615576e393cf06001389245b){:target="_blank"}(for Module 1 and/or Module 2).
