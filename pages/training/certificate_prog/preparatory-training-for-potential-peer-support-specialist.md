@@ -42,6 +42,7 @@ At the end of the module, participants will be assessed based on a written asses
 ### **Course Schedule**
 
 The trainer led sessions are expected to run from 24 - 25 Feb 2022*.
+
 *The proposed dates may be subjected to further changes. 
   
 _Note:_
