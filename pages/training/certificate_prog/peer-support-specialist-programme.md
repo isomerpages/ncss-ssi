@@ -14,6 +14,7 @@ This module is called the 'Preparatory Training for Potential Peer Support Speci
 
 This module is called the 'Certificate in Peer Support'. More details can be found [here.](https://www.ssi.gov.sg/training/cet-programmes/certificate-in-peer-support/){:target="_blank"}   
 
-**Application Details** 
+
+### Application Details
 
 Submit your application [here](https://form.gov.sg/615576e393cf06001389245b){:target="_blank"}(for Module 1 and/or Module 2).
