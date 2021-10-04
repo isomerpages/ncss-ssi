@@ -41,11 +41,13 @@ Learners will be assessed through a mid-term written assessment, a practical ass
 
 ### Course Schedule
 
-The trainer led sessions are expected to run from 28 Feb – 11 Mar 2022 (The proposed dates may be subjected to further changes).
+- *The proposed dates below may be subjected to further changes.
+ 
+- The trainer led sessions are expected to run from 28 Feb – 11 Mar 2022*
 
-* Practicum Workshop: 14 Mar 2022 (1 day)
+- Practicum Workshop: 14 Mar 2022 (1 day)*
 
-* Practicum (To be allocated upon successful enrolment and completion of classroom training): 15 Mar – 9 May 2022
+- Practicum (To be allocated upon successful enrolment and completion of classroom training): 15 Mar – 9 May 2022*
 
 _Note:_
 
