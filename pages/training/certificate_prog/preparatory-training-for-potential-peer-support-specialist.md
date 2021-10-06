@@ -41,7 +41,9 @@ At the end of the module, participants will be assessed based on a written asses
 
 ### **Course Schedule**
 
-The trainer led sessions are expected to run from 16 to 18 Aug 21 (the proposed dates may be subjected to further changes). 
+The trainer led sessions are expected to run from 24 - 25 Feb 2022*.
+
+*The proposed dates may be subjected to further changes. 
   
 _Note:_
 
@@ -52,4 +54,4 @@ _Note:_
 
 **Application Form**
 
-Click [here](/images/documents/Application%20form_Prep%20and%20CPS_Run7_Final%20Copy.pdf/){:target="_blank"} to access the application form for the both the ‘Preparatory Training for Potential Peer Support Specialist’ and ‘Certificate in Peer Support.
+Click [here](https://form.gov.sg/615576e393cf06001389245b){:target="_blank"} to access the application form for both the ‘Preparatory Training for Potential Peer Support Specialist’ and ‘Certificate in Peer Support.

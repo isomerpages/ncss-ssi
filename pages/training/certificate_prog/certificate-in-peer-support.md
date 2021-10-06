@@ -41,19 +41,15 @@ Learners will be assessed through a mid-term written assessment, a practical ass
 
 ### Course Schedule
 
-Trainer Led Sessions:
-19 Aug – 8 Sep 2021 (the proposed dates may be subjected to further changes).
 
-Practicum Workshop:
-13 Sep 21 
+*The proposed dates may be subjected to further changes. 
 
-Practicum: 
-14 Sep – 8 Nov 21 (To be allocated upon successful enrolment and completion of classroom training)
+- The trainer led sessions are expected to run from 28 Feb – 11 Mar 2022*
 
-Graduation:
-10 Dec 21 (TBC)
- 
-  
+- Practicum Workshop: 14 Mar 2022 (1 day)*
+
+- Practicum (To be allocated upon successful enrolment and completion of classroom training): 15 Mar – 9 May 2022*
+
 _Note:_
 
 1.  _Completion of this module does not guarantee that learners will secure a job._
@@ -61,5 +57,4 @@ _Note:_
 3.  _Endorsement from an employer or agency does not guarantee enrolment into the module. Applicants that have been endorsed will still have to pass the interview._
 
 **Application Form**
-
-Download and complete this [application form](/images/documents/Application%20form_Prep%20and%20CPS_Run7_Final%20Copy.pdf){:target="_blank"} to apply for the ‘Preparatory Training for Potential Peer Support Specialist’ and ‘Certificate in Peer Support. .
+Submit your application [here](https://form.gov.sg/615576e393cf06001389245b){:target="_blank"} for ‘Preparatory Training for Potential Peer Support Specialist’ and ‘Certificate in Peer Support.
