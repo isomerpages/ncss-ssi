@@ -7,7 +7,7 @@ description: NEXLeaders is a  leadership development programme for the social se
 ![Social Service Institute (SSI) Singapore - Nexleaders Leadership Development Programme Micro Learning Courses](/images/training/nexleaders_Ssi_header.png)
 
 ### Overview   
-_“NEXleader.com offers a unique experience – a mini-MBA content AND using the latest learning paradigms: micro-learning, action-learning, and social-learning. The next-gen leaders will greatly benefit from NEXleader.com" _
+_“NEXleader.com offers a unique experience – a mini-MBA content AND using the latest learning paradigms: micro-learning, action-learning, and social-learning. The next-gen leaders will greatly benefit from NEXleader.com"_
 Andrew Ma, Co-Founder, Chorev Consulting
 
 _“NEXLeaders.com is very impactful, with relevant video-clips, all available at our finger-tip. 
