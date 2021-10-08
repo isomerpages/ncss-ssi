@@ -7,30 +7,42 @@ description: NEXLeaders is a  leadership development programme for the social se
 ![Social Service Institute (SSI) Singapore - Nexleaders Leadership Development Programme Micro Learning Courses](/images/training/nexleaders_Ssi_header.png)
 
 ### Overview   
-Are you facing challenges engaging staff?   
-Do you find it difficult to develop leaders?   
-Are you trying to create an healthier organisational culture?   
-Are you struggling to manage conflicts in the workplace?   
-Do you want to motivate millennials to realise their fullest potential?   
+_“NEXleader.com offers a unique experience – a mini-MBA content AND using the latest learning paradigms: micro-learning, action-learning, and social-learning. The next-gen leaders will greatly benefit from NEXleader.com" _
+Andrew Ma, Co-Founder, Chorev Consulting
 
-During this COVID-19 pandemic, with current social distancing measures and work-from-home (WFH) protocols, it is increasingly difficult to engage staff, create a healthier work culture, develop staff professionally and nurture their leadership potential.   
+_“NEXLeaders.com is very impactful, with relevant video-clips, all available at our finger-tip. 
+Most importantly, we can post and share our thoughts and learn together as a community.”_
+Jennifer Goh, Senior Manager, St Luke’s Elder Care
 
-SSI and [Meta Consulting](https://meta.com.sg/){:target="_blank"} , a premier leadership development company, have created a tailor-made leadership development programme for the social service sector, using the [NEXLeaders.com](https://nexleaders.com/){:target="_blank"}    suite of mobile, micro-learning courses, powered by the Gnowbe learning platform.
+_“The true value of the program lies in the top-notch content curated and designed by a panel of Asian experts from many different fields. Operating in the same cultural environment and context, their experiences and sharing are highly relatable.”_
+Eddy Neo, Deputy Executive Director, New Life Community
 
-This is a one-year initiative that was jointly developed to overcome social distancing barriers and work from home (WFH) challenges. NEXLeaders.com allows staff to learn on-the-go, anytime, anywhere through bite-size content, with a choice of more than 36 courses from industrial experts.   
+SSI and Meta Consulting, a premier leadership development company with experience over the last 27 years, have created a tailor-made leadership development programme for the social service sector, using the NEXLeaders.com suite of mobile, micro-learning courses, powered by the Gnowbe learning platform.
 
+From 1,375 surveys received:  
+• 95% completed all the required courses
+• 85% acquired new knowledge/skills
+• 87% could use what they learned at work
+• 85% found it useful for personal development and learning
+• 90% found the Gnowbe learning platform very user-friendly
+
+Because of the effectiveness of the NEXLeaders leadership program, we are embarking on the third phase of this partnership to extend these benefits to more Social Service Agencies. 
+
+This one-year initiative was jointly developed to overcome social distancing barriers and work from home (WFH) challenges. NEXLeaders.com enables staff to learn on-the-go, anytime, anywhere through bite-size content, with a choice of more than 60 courses from value-based industrial experts.
+  
+  
 ### Target Audience
-This programme is suitable for supervisors, first-line managers, middle management and senior management/directors in social service agencies (SSAs) and non-profit organisations (NPOs). Applicants who are not from SSAs or NPOs are also welcome to apply.  
+This tiered programme is stratified for three different levels: 
+•	Supervisors/First-line managers, 
+•	Middle Management and 
+•	Senior Management/Directors 
+
 
 ### Course Details
-The NEXLeaders Leadership Development Programme will commence on 11 Jan 2021.  
+All applicants are required to complete only 5 modules of the NEXLeaders Leadership Development Programme over a 2 months period, from 15 December 2021 to 15 February 2022 to qualify for VCF funding for eligible applicants.
 
-The courses are customised for three tiers in an organisation.
--   Supervisor/First-Line Manager.
--   Middle Management.
--   Senior Management/Director.
+After which, they will have access to the remaining 60 over courses. The five core modules for each tier are listed below.
 
-For a start, learners must complete five core modules within the first two and a half months before they can access the remaining 36 courses. The five core modules for each tier are as listed below.
 
 #### Supervisors and First Line Managers
 
@@ -46,21 +58,21 @@ For a start, learners must complete five core modules within the first two and a
 
 | [![Social Service Institute (SSI) Singapore - Leadership Courses For Senior Management & Directors](/images/training/leadership-in-crisis-management(1)_1.jpg)](http://nexleaders.com/leadership-in-crisis-management/){:target="_blank"}  <br> [![Social Service Institute (SSI) Singapore - Leadership Courses For Senior Management & Directors](/images/training/am-i-a-toxic-leader_1.jpg)](http://nexleaders.com/am-i-a-toxic-leader/){:target="_blank"}  | [![pic2](/images/training/how-to-lead-high-performing-teams_1.jpg)](http://nexleaders.com/how-to-lead-high-performing-teams/){:target="_blank"}  <br> [![Social Service Institute (SSI) Singapore - Leadership Courses For Senior Management & Directors](/images/training/emotion%2C-personality-self-esteem-appreciating-the-brain-in-leadership_1.jpg)](http://nexleaders.com/emotion-personality-self-esteem/){:target="_blank"}  |[![Social Service Institute (SSI) Singapore - Leadership Courses For Senior Management & Directors](/images/training/understanding-millennials(1)_1.png)](http://nexleaders.com/understanding-millennials/){:target="_blank"}  <br> |   
 
-For a full list of other modules, which will be made available to you after completing the five core modules, please check out the  [NEXLeaders website](http://nexleaders.com/){:target="_blank"}   .
+For a full list of other modules, which will be made available to you after completing the five core modules, please check out the  [NEXLeaders website](http://nexleaders.com/){:target="_blank"}.
 
 
 ### Course Fees and Subsidies   
-Normal Fee: $216 per staff for an one-year period.  
+* Members of NCSS can apply for VCF funding (of up to 60%). Applicants who are non members of NCSS, are also welcome to apply, without the VCF Subsidy.
+* Member of NCSS: $64 (with 60% VCF funding for Singaporeans & PR) 
+* Member of NCSS: $96 (with 40 % VCF Funding for Non-Citizens & Foreigners)
+* Fees for Non-NCSS Members: $200 per participant for 1 year subscription (Over 60 courses)
 
-If you are signing up between <b> 1 Nov 20 to 12 Mar 21 </b>, you will enjoy a special price of $160 per staff for an one-year period.   
+If you are signing up before 15 December 2021, you will enjoy a special price of $160 per staff for a one-year period.
 
-The VCF Training Grant is applicable for learners from registered charities and Institutions of Public Character (IPCs). This grant will cover 60% of the course fee upon successful application and completion of the core courses.   
-
-To qualify for the VCF Training Grant, learners must complete the abovementioned five core modules within the first two and a half months. More information on the VCF Training Grant can be found at this [link](http://www.charities.gov.sg/Grants/VWOs-Charities-Capabilities-Fund/Pages/VCF%20Training%20Grant.aspx){:target="_blank"}   .
 
 ### Sign Up Form   
 
-You may sign up for this programme through this  [form](http://form.gov.sg/#!/5f1a94dc6c82b2001198fea6){:target="_blank"}   .
+You may sign up for this programme through this [form](https://go.gov.sg/nexleadership){:target="_blank"}.
 
 ### Enquiries   
 
