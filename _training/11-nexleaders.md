@@ -8,23 +8,26 @@ description: NEXLeaders is a  leadership development programme for the social se
 
 ### Overview   
 _“NEXleader.com offers a unique experience – a mini-MBA content AND using the latest learning paradigms: micro-learning, action-learning, and social-learning. The next-gen leaders will greatly benefit from NEXleader.com"_
+
 Andrew Ma, Co-Founder, Chorev Consulting
 
 _“NEXLeaders.com is very impactful, with relevant video-clips, all available at our finger-tip. 
 Most importantly, we can post and share our thoughts and learn together as a community.”_
+
 Jennifer Goh, Senior Manager, St Luke’s Elder Care
 
 _“The true value of the program lies in the top-notch content curated and designed by a panel of Asian experts from many different fields. Operating in the same cultural environment and context, their experiences and sharing are highly relatable.”_
+
 Eddy Neo, Deputy Executive Director, New Life Community
 
 SSI and Meta Consulting, a premier leadership development company with experience over the last 27 years, have created a tailor-made leadership development programme for the social service sector, using the NEXLeaders.com suite of mobile, micro-learning courses, powered by the Gnowbe learning platform.
 
 From 1,375 surveys received:  
-• 95% completed all the required courses
-• 85% acquired new knowledge/skills
-• 87% could use what they learned at work
-• 85% found it useful for personal development and learning
-• 90% found the Gnowbe learning platform very user-friendly
+* 95% completed all the required courses
+* 85% acquired new knowledge/skills
+* 87% could use what they learned at work
+* 85% found it useful for personal development and learning
+* 90% found the Gnowbe learning platform very user-friendly
 
 Because of the effectiveness of the NEXLeaders leadership program, we are embarking on the third phase of this partnership to extend these benefits to more Social Service Agencies. 
 
@@ -33,9 +36,9 @@ This one-year initiative was jointly developed to overcome social distancing bar
   
 ### Target Audience
 This tiered programme is stratified for three different levels: 
-•	Supervisors/First-line managers, 
-•	Middle Management and 
-•	Senior Management/Directors 
+* Supervisors/First-line managers, 
+* Middle Management and 
+* Senior Management/Directors 
 
 
 ### Course Details
