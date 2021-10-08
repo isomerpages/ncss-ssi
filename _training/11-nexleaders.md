@@ -8,17 +8,14 @@ description: NEXLeaders is a  leadership development programme for the social se
 
 ### Overview   
 _“NEXleader.com offers a unique experience – a mini-MBA content AND using the latest learning paradigms: micro-learning, action-learning, and social-learning. The next-gen leaders will greatly benefit from NEXleader.com"_
-
-Andrew Ma, Co-Founder, Chorev Consulting
+**Andrew Ma, Co-Founder, Chorev Consulting**
 
 _“NEXLeaders.com is very impactful, with relevant video-clips, all available at our finger-tip. 
 Most importantly, we can post and share our thoughts and learn together as a community.”_
-
-Jennifer Goh, Senior Manager, St Luke’s Elder Care
+**Jennifer Goh, Senior Manager, St Luke’s Elder Care**
 
 _“The true value of the program lies in the top-notch content curated and designed by a panel of Asian experts from many different fields. Operating in the same cultural environment and context, their experiences and sharing are highly relatable.”_
-
-Eddy Neo, Deputy Executive Director, New Life Community
+**Eddy Neo, Deputy Executive Director, New Life Community**
 
 SSI and Meta Consulting, a premier leadership development company with experience over the last 27 years, have created a tailor-made leadership development programme for the social service sector, using the NEXLeaders.com suite of mobile, micro-learning courses, powered by the Gnowbe learning platform.
 
