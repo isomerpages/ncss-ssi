@@ -20,7 +20,7 @@ _“The true value of the program lies in the top-notch content curated and desi
 
 **Eddy Neo, Deputy Executive Director, New Life Community**
 
-SSI and Meta Consulting, a premier leadership development company with experience over the last 27 years, have created a tailor-made leadership development programme for the social service sector, using the NEXLeaders.com suite of mobile, micro-learning courses, powered by the Gnowbe learning platform.
+SSI and [Meta Consulting](https://meta.com.sg/){:target="_blank"}, a premier leadership development company with experience over the last 27 years, have created a tailor-made leadership development programme for the social service sector, using the [NEXLeaders.com](https://nexleaders.com/){:target="_blank"} suite of mobile, micro-learning courses, powered by the [Gnowbe](https://www.youtube.com/watch?v=JL55Xl-G72w&ab_channel=Gnowbe){:target="_blank"} learning platform.
 
 From 1,375 surveys received:  
 * 95% completed all the required courses
