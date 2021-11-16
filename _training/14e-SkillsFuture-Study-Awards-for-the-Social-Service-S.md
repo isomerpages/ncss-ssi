@@ -36,13 +36,15 @@ To be eligible for the SkillsFuture Study Award, you must**:**
     
 -   Be committed to deepening skills that are relevant to the social service sector.
     
--   Preferably be employed by an NCSS member SSA or MSF-funded SSA
+-   Preferably be employed by an NCSS member SSA or MSF-funded SSA.
+
+-   Public Officers are not eligible for the Skillsfuture Study Award. Public officers are encouraged to apply for the in-house schemes instead of the Skillsfuture Study Award.
     
 -   Have a good track record in contributing to the learning and development of yourself and/or others.
     
 -   Demonstrate good work performance, possess a spirit of self-improvement and upgrading, as well as a commitment to the social service sector.
     
--   Not be serving any current bond. If you are on the Professional Development and Management Programme (PDMP), Leadership Development Programme (LDP), Sabbatical Leave Scheme (SLS) or Scholarship Scheme, you must declare this upon application. You can only apply for the SkillsFuture Study Award after completing your bond/Minimum Service Period (MSP).
+-   Individuals on the Professional Development and Management Programme (PDMP), Leadership Development Programme (LDP), Sabbatical Leave Scheme (SLS) or Scholarship Scheme can apply for the SkillsFuture Study Award only after serving out the bond/minimum service Period. Applicants must declare upfront that they are recipients of PDMP, LDP, SLS or Scholarship Scheme.
     
 -   Be undertaking the programme or course at the point of application and the programme or course completion date is at least six months from the date of application.
     
