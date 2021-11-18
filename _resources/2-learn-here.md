@@ -6,7 +6,7 @@ description: SSI's e-learning portal, LearnHere, is for social service professio
 ---
 LearnHere is an online platform that hosts a variety of learning based content. It was created to complement formal classroom trainings and provide an online portal for social service professionals to access learning-based content readily while balancing the requirements of a full time job.
 
-Specifically, LearnHere offers both e-Learning that is hosted on our [Student Portal(ssi.gov.sg)](https://iltms.ssi.gov.sg/Student/Login){:target="_blank"} platform and blended learning content, which involves a blend of more than one type of learning (e.g. a blend of traditional face-to-face learning in the classroom and online learning).
+Specifically, LearnHere offers both e-Learning that is hosted on our [Student Portal (ssi.gov.sg)](https://iltms.ssi.gov.sg/Student/Login){:target="_blank"} platform and blended learning content, which involves a blend of more than one type of learning (e.g. a blend of traditional face-to-face learning in the classroom and online learning).
 
 Through a blended learning approach, learning can happen before a learner enters the classroom, allowing for more effective use of classroom time for deeper discussions with our adult educators and their peers.
 
