@@ -4,7 +4,8 @@ title: SSI Singapore
 description: Visit the Social Service Institute (SSI) Singapore's website and discover training programmes and resources for the social service sector.
 image: /images/SSILogoFullColour_large_fullwidth.png
 permalink: /
-notification: iLTMS is now live! <a href="https://iltms.ssi.gov.sg/registration#/Course" target="_blank">Click here to view our courses.</a>
+notification: iLTMS is now live! <a href="https://iltms.ssi.gov.sg/registration#/Course" target="_blank">Click here to view our courses.</a> 
+Please note that iLTMS will be undergoing the scheduled maintainance on 10 Dec 2021 and access to iLTMS may be disrupted. 
 
 sections:
     - hero:
@@ -20,9 +21,9 @@ sections:
             - title: SG United Skills Programme
               description: Through the SGUS programme, SSI will support Singaporeans and permanent residents whose livelihoods have been impacted by the COVID-19 pandemic
               url: /training/sgus/         
-            - title: GatherHere's Board Members Group
-              description: We hope you have enjoyed the webinar event for GatherHere’s Board Members Group on 14 June 2021. Click here to see the 5 key learning points.
-              url: /resources/boardgroup/ 
+            - title: GatherHere's #GoDigitalForGood webinar
+              description: Join our first ever #GoDigitalForGood event on 9 Dec 2021 to discuss how social service agencies (SSAs) and NPOs can better navigate                 challenges in the digitalised world. Sign up now!
+              url: https://www.facebook.com/241224139266623/posts/4536741023048225/?sfnsn=mo
            
     - infopic:
         title: Start planning for your training needs today!
