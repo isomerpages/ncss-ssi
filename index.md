@@ -4,8 +4,7 @@ title: SSI Singapore
 description: Visit the Social Service Institute (SSI) Singapore's website and discover training programmes and resources for the social service sector.
 image: /images/SSILogoFullColour_large_fullwidth.png
 permalink: /
-notification: iLTMS is now live! <a href="https://iltms.ssi.gov.sg/registration#/Course" target="_blank">Click here to view our courses.</a>
-
+notification: iLTMS is now live! <a href="https://iltms.ssi.gov.sg/registration#/Course" target="_blank">Click here to view our courses.</a> <br> Please note that iLTMS will be undergoing the scheduled  maintenance on 10 Dec 2021 and access to iLTMS may be disrupted. 
 sections:
     - hero:
         title: Social Service Institute
@@ -18,12 +17,11 @@ sections:
               description: An online leadership development programme for the social service sector
               url: /training/nexleaders/
             - title: SG United Skills Programme
-              description: Through the SGUS programme, SSI will support Singaporeans and permanent residents whose livelihoods have been impacted by the COVID-19 pandemic
+              description: Through the SGUS programme, SSI will support Singaporeans and permanent residents whose livelihoods have been impacted by the COVID-19               pandemic
               url: /training/sgus/         
-            - title: GatherHere's Board Members Group
-              description: We hope you have enjoyed the webinar event for GatherHere’s Board Members Group on 14 June 2021. Click here to see the 5 key learning points.
-              url: /resources/boardgroup/ 
-           
+            - title: "Register for GatherHere #GoDigitalForGood Webinar" 
+              description: Join us for a lunchtime sharing on Digitalisation and the Future of Non-profit Organisations on  9 Dec 2021 (Thurs) from 1 - 2:30pm.                 Register before 8 Dec 2021!
+              url: https://www.facebook.com/241224139266623/posts/4536741023048225/?sfnsn=mo     
     - infopic:
         title: Start planning for your training needs today!
         subtitle: SSI’s Training Directory is Now Available
@@ -32,7 +30,6 @@ sections:
         url: /images/documents/SSI0026_21 Training Directory Single Page.pdf 
         image: /images/homepage/Training_Direc_Banner.jpg
         alt: Social Service Institute SSI Singapore - Course Schedule,Course List,Training Calendar      
-
     - infopic:
         title: Our Partners
         subtitle:
@@ -41,7 +38,6 @@ sections:
         url: /about-us/our-partners/
         image: /images/homepage/our-partners.jpg
         alt: Social Service Institute SSI Singapore - Partnerships with SSAs, NPOs, IHLs & Private Training Organisations
-
     - infopic:
         title: Our Stories
         subtitle:
@@ -50,7 +46,6 @@ sections:
         url: /stories/
         image: /images/homepage/our-stories.jpg
         alt: Social Service Institute SSI Singapore - Our Stories, Testimonials
-
     - infopic:
         title: Join Our Mailing Lists
         subtitle:
@@ -59,7 +54,6 @@ sections:
         url: /about-us/mailing-list/
         image: images/homepage/mailing-list.jpg
         alt: Social Service Institute SSI Singapore - Mailing List, Newsletter Suscription
-        
     - resources:
         title: Be in the know
         subtitle: Media
