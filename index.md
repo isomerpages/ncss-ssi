@@ -17,11 +17,11 @@ sections:
               description: An online leadership development programme for the social service sector
               url: /training/nexleaders/
             - title: SG United Skills Programme
-              description: Through the SGUS programme, SSI will support Singaporeans and permanent residents whose livelihoods have been impacted by the COVID-19 pandemic
+              description: Through the SGUS programme, SSI will support Singaporeans and permanent residents whose livelihoods have been impacted by the COVID-19               pandemic
               url: /training/sgus/         
-            - title: GatherHere's Board Members Group
-              description: We hope you have enjoyed the webinar event for GatherHere’s Board Members Group on 14 June 2021. Click here to see the 5 key learning points.
-              url: /resources/boardgroup/       
+            - title: "Register for GatherHere #GoDigitalForGood Webinar" 
+              description: Join us for a lunchtime sharing on Digitalisation and the Future of Non-profit Organisations on  9 Dec 2021 (Thurs) from 1 - 2:30pm.                 Register before 8 Dec 2021!
+              url: https://www.facebook.com/241224139266623/posts/4536741023048225/?sfnsn=mo     
     - infopic:
         title: Start planning for your training needs today!
         subtitle: SSI’s Training Directory is Now Available
