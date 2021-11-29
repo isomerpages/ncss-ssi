@@ -21,8 +21,8 @@ sections:
             - title: SG United Skills Programme
               description: Through the SGUS programme, SSI will support Singaporeans and permanent residents whose livelihoods have been impacted by the COVID-19 pandemic
               url: /training/sgus/         
-            - title: GatherHere's #GoDigitalForGood webinar
-              description: Join our first ever #GoDigitalForGood event on 9 Dec 2021 to discuss how social service agencies (SSAs) and NPOs can better navigate                 challenges in the digitalised world. Sign up now!
+            - title: GatherHere's Digitalisation Webinar
+              description: Join our first ever Digitalisation event on 9 Dec 2021 to discuss how social service agencies (SSAs) and NPOs can better navigate                 challenges in the digitalised world. Sign up now!
               url: https://www.facebook.com/241224139266623/posts/4536741023048225/?sfnsn=mo
            
     - infopic:
