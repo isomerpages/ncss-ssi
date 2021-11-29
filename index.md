@@ -4,11 +4,7 @@ title: SSI Singapore
 description: Visit the Social Service Institute (SSI) Singapore's website and discover training programmes and resources for the social service sector.
 image: /images/SSILogoFullColour_large_fullwidth.png
 permalink: /
-notification: iLTMS is now live! <a href="https://iltms.ssi.gov.sg/registration#/Course" target="_blank">Click here to view our courses.</a> 
-Please note that iLTMS will be undergoing the scheduled maintainance on 10 Dec 2021 and access to iLTMS may be disrupted. 
-       
-  
-
+notification: iLTMS is now live! <a href="https://iltms.ssi.gov.sg/registration#/Course" target="_blank">Click here to view our courses.</a> <br> Please note that iLTMS will be undergoing the scheduled maintainance on 10 Dec 2021 and access to iLTMS may be disrupted. 
 sections:
     - hero:
         title: Social Service Institute
@@ -25,8 +21,7 @@ sections:
               url: /training/sgus/         
             - title: GatherHere's Board Members Group
               description: We hope you have enjoyed the webinar event for GatherHere’s Board Members Group on 14 June 2021. Click here to see the 5 key learning points.
-              url: /resources/boardgroup/ 
-           
+              url: /resources/boardgroup/       
     - infopic:
         title: Start planning for your training needs today!
         subtitle: SSI’s Training Directory is Now Available
@@ -35,7 +30,6 @@ sections:
         url: /images/documents/SSI0026_21 Training Directory Single Page.pdf 
         image: /images/homepage/Training_Direc_Banner.jpg
         alt: Social Service Institute SSI Singapore - Course Schedule,Course List,Training Calendar      
-
     - infopic:
         title: Our Partners
         subtitle:
@@ -44,7 +38,6 @@ sections:
         url: /about-us/our-partners/
         image: /images/homepage/our-partners.jpg
         alt: Social Service Institute SSI Singapore - Partnerships with SSAs, NPOs, IHLs & Private Training Organisations
-
     - infopic:
         title: Our Stories
         subtitle:
@@ -53,7 +46,6 @@ sections:
         url: /stories/
         image: /images/homepage/our-stories.jpg
         alt: Social Service Institute SSI Singapore - Our Stories, Testimonials
-
     - infopic:
         title: Join Our Mailing Lists
         subtitle:
@@ -62,7 +54,6 @@ sections:
         url: /about-us/mailing-list/
         image: images/homepage/mailing-list.jpg
         alt: Social Service Institute SSI Singapore - Mailing List, Newsletter Suscription
-        
     - resources:
         title: Be in the know
         subtitle: Media
