@@ -13,7 +13,7 @@ locations:
         - Singapore 168730
     maps_link: https://goo.gl/maps/CjZbdfdefPKTszgN8
     operating_hours:
-      - days: Mon - Thu
+      - days: Mon - Fri
         time: 9:00am - 6.00pm
         description: Closed on Weekends and Public Holidays
 contacts:
