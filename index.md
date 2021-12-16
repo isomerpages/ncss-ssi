@@ -4,9 +4,9 @@ title: SSI Singapore
 description: Visit the Social Service Institute (SSI) Singapore's website and discover training programmes and resources for the social service sector.
 image: /images/SSILogoFullColour_large_fullwidth.png
 permalink: /
-notification: iLTMS is now live! <a href="https://iltms.ssi.gov.sg/registration#/Course" target="_blank">Click here to view our courses.</a> Please note that iLTMS will be undergoing the scheduled  maintenance on 10 Dec 2021 and access to iLTMS may be disrupted.
+notification: iLTMS is now live! <a href="https://iltms.ssi.gov.sg/registration#/Course" target="_blank">Click here to view our courses.</a> Please note that iLTMS will be undergoing the scheduled  maintenance from 21-Jan-22 22:00 to 22-Jan-22 7:00. Access to iLTMS may be disrupted.
 sections:
-    - hero:
+    - hero: 
         title: Social Service Institute
         subtitle: Growing with People
         background: /images/homepage/Home_Banner.jpg
