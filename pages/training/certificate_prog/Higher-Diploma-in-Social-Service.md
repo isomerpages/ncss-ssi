@@ -65,7 +65,7 @@ All learners will also be required to undergo the Social Service Field Experienc
 
 Course fees for the programme have to be paid upon acceptance of the offer letter within the timeline provided in the ofter letter.
 
-Learners must achieve at least 75% attendance per module and be certified competent in all the assessment components in order to be eligible for SkillsFuture Singapore (SSG) funding. Learners or their sponsoring organisations will have to pay the full course fees in the event that the learners fail to meet the attendance/ assessment requirements and/or any other terms and conditions for SSG funding eligibility. Please refer to this [link](www.skillsconnect.gov.sg){:target="_blank"} for more information on the SSG funding eligibility requirement. 
+Learners must achieve at least 75% attendance per module and be certified competent in all the assessment components in order to be eligible for SkillsFuture Singapore (SSG) funding. Learners or their sponsoring organisations will have to pay the full course fees in the event that the learners fail to meet the attendance/ assessment requirements and/or any other terms and conditions for SSG funding eligibility. Please refer to this [link](https://www.skillsconnect.gov.sg){:target="_blank"} for more information on the SSG funding eligibility requirement. 
 
 *Please note that course fees are subjected to changes.
 
