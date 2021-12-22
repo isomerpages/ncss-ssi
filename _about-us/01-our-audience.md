@@ -1,6 +1,6 @@
 ---
 title: Our Audience
-permalink: /about-us/about-us/our-audience/
+permalink: /about-us/our-audience/
 ---
 
 **Social Service Professionals**   
