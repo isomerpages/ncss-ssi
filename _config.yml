@@ -62,4 +62,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 description: test test
+vica: true
 
