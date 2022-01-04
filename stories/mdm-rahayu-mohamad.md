@@ -1,6 +1,6 @@
 ---
 title: Mdm Rahayu Mohamad, President
-permalink: /stories/mdm-rahayu-mohamad
+permalink: /stories/mdm-rahayu-mohamad/
 ---
 
 ## Mdm Rahayu Mohamad, President, Singapore Muslim Women's Association (PPIS)
