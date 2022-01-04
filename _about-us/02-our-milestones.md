@@ -1,6 +1,6 @@
 ---
 title: Our Milestones
-permalink: /About-Us/our-milestones/
+permalink: /about-us/our-milestones/
 description: SSI is the human capital development arm of the National Council of Social Service (NCSS). Find out more about our milestones here.
 
 ---
