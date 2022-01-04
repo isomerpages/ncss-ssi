@@ -1,6 +1,6 @@
 ---
 title: Children, Youth and Family Courses
-permalink: /training/cyandf
+permalink: /training/cyandf/
 description: SSI’s children, youth and family courses provides learners with the skills to work with children, youth and families.
 
 ---
