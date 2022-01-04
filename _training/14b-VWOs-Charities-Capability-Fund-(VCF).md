@@ -1,6 +1,6 @@
 ---
 title: VWOs Charities Capability Fund (VCF)
-permalink: /training/funding-information/VWOs-Charities-Capability-Fund-(VCF)/
+permalink: /training/funding-information/vwos-charities-capability-fund-(vcf)/
 third_nav_title: Funding Information
 description: VCF training grant is available to SSI learners. Find out more about the eligibility criteria and application procedures here.
 
