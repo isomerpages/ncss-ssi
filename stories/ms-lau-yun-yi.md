@@ -1,6 +1,6 @@
 ---
 title: Ms Lau Yun Yi
-permalink: /stories/ms-lau-yun-yi
+permalink: /stories/ms-lau-yun-yi/
 ---
 
 ## Ms Lau Yun Yi, Teacher Assistant, AWWA School
