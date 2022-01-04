@@ -1,6 +1,6 @@
 ---
 title: Higher Diploma in Social Service
-permalink: /training/cet-programmes/Higher-Diploma-in-Social-Service/
+permalink: /training/cet-programmes/higher-diploma-in-social-service/
 description: SSI's Higher Diploma in Social Service is a programme for aspiring and existing Social Service Professionals who are looking to be Social Work Associates.
 
 ---
