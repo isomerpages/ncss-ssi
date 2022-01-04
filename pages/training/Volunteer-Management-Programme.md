@@ -1,6 +1,6 @@
 ---
 title: SGUnited Skills Programme – Volunteer Management
-permalink: /pages/training/Volunteer-Management
+permalink: /training/volunteer-management/
 ---
 
 ### Overview
