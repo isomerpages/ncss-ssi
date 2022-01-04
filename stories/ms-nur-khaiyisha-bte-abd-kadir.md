@@ -1,6 +1,6 @@
 ---
 title: Ms Nur Khaiyisha Bte Abd Kadir
-permalink: /stories/ms-nur-khaiyisha-bte-abd-kadir
+permalink: /stories/ms-nur-khaiyisha-bte-abd-kadir/
 ---
 
 ## Ms Nur Khaiyisha Bte Abd Kadir, Special Needs Teacher, APSN
