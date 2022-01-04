@@ -1,6 +1,6 @@
 ---
 title: GatherHere
-permalink: /resources/gatherhere
+permalink: /resources/gatherhere/
 description: SSI's GatherHere is a community space where the Social Service Tribe can work, communicate and reach out differently. 
 
 ---
