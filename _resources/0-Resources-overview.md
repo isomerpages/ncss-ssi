@@ -1,6 +1,6 @@
 ---
 title: Resources Overview
-permalink: /resources/resources
+permalink: /resources/resources/
 description: SSI provides a wide array of resources for Social Service Agencies (SSAs) and social service professionals. Find out more here.
 
 ---
