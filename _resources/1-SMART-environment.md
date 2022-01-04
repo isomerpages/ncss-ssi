@@ -1,6 +1,6 @@
 ---
 title: SMART environment
-permalink: /resources/SMART-environment/
+permalink: /resources/smart-environment/
 description: SSI provides a smart learning environment that allows for an interactive and productive learning experience for learners. Learn more.
 
 ---
