@@ -1,6 +1,6 @@
 ---
 title: Ms Evelyn Ng
-permalink: /stories/ms-evelyn-ng
+permalink: /stories/ms-evelyn-ng/
 ---
 
 ## Ms Evelyn Ng, Senior Care Associate, TOUCH Community Services (TOUCH Home Care)
