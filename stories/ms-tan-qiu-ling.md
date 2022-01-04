@@ -1,6 +1,6 @@
 ---
 title: Ms Tan Qiu Ling
-permalink: /stories/ms-tan-qiu-ling
+permalink: /stories/ms-tan-qiu-ling/
 ---
 
 ## Ms Tan Qiu Ling, Social Worker, South Central Community Family Service Centre
