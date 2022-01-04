@@ -1,6 +1,6 @@
 ---
 title: Mr Jerome Yuen
-permalink: /stories/mr-jerome-yuen
+permalink: /stories/mr-jerome-yuen/
 ---
 
 ## Mr Jerome Yuen, Executive Director, Club Rainbow (Singapore)
