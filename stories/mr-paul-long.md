@@ -1,6 +1,6 @@
 ---
 title: Mr Paul Long
-permalink: /stories/mr-paul-long
+permalink: /stories/mr-paul-long/
 ---
 
 ## Mr Paul Long, Executive Director, Family Life Society
