@@ -1,6 +1,6 @@
 ---
 title: SkillsFuture Credit
-permalink: /training/funding-information/SkillsFuture-Credit/
+permalink: /training/funding-information/skillsfuture-credit/
 third_nav_title: Funding Information
 description: The SkillsFuture Credit encourages learners to take charge of their skills development. Find out about the guidelines here.
 
