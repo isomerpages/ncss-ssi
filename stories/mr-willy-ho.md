@@ -1,6 +1,6 @@
 ---
 title: Mr Willy Ho
-permalink: /stories/mr-willy-ho
+permalink: /stories/mr-willy-ho/
 ---
 
 ## Mr Willy Ho, Senior Programme Executive, Methodist Welfare Services (Wesley Seniors Activity Centre)
