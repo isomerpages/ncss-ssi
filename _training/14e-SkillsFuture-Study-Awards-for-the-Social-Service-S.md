@@ -1,6 +1,6 @@
 ---
 title: SkillsFuture Study Awards for the Social Service Sector
-permalink: /training/funding-information/SkillsFuture-Study-Awards-for-the-Social-Service-Sector/
+permalink: /training/funding-information/skillsfuture-study-awards-for-the-social-service-sector/
 description: SkillsFuture Study Award for Social Service Sector empowers learners to develop specialist skills and increase their societal impact.
 third_nav_title: Funding Information
 ---
