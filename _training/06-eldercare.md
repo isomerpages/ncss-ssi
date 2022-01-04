@@ -1,6 +1,6 @@
 ---
 title: Eldercare Courses
-permalink: /training/eldercare
+permalink: /training/eldercare/
 description: SSI's eldercare courses provides social service professionals with the skills to work with seniors.
 
 ---
