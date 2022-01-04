@@ -1,6 +1,6 @@
 ---
 title: SGUnited Skills Programme – Social Service Accelerator
-permalink: /pages/training/Social-Service-Accelerator
+permalink: /training/social-service-accelerator/
 description: This programme helps learners affected by COVID-19 afflicted job losses to take up planning, operations, marketing, IT, finance or HR roles in SSAs.
 
 ---
