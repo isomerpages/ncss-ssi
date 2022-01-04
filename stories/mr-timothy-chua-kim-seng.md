@@ -1,6 +1,6 @@
 ---
 title: Mr Timothy Chua Kim Seng
-permalink: /stories/mr-timothy-chua-kim-seng
+permalink: /stories/mr-timothy-chua-kim-seng/
 ---
 
 ## Mr Timothy Chua Kim Seng, Youth Worker, Gracehaven, Salvation Army
