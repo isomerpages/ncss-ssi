@@ -1,6 +1,6 @@
 ---
 title: Ms Barbara D' Cotta
-permalink: /stories/ms-barbara-d-cotta
+permalink: /stories/ms-barbara-d-cotta/
 ---
 
 ## Ms Barbara D’ Cotta ,Vice Principal, Singapore School for the Deaf
