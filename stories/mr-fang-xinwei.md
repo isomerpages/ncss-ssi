@@ -1,6 +1,6 @@
 ---
 title: Mr Fang Xinwei
-permalink: /stories/mr-fang-xinwei
+permalink: /stories/mr-fang-xinwei/
 ---
 
 ## Mr Fang Xinwei, Senior Social Worker, Singapore Children’s Society
