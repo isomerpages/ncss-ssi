@@ -1,6 +1,6 @@
 ---
 title: Ms Prathibah Pillai D/O Pillai Parappa Karan, Teacher, Grace Orchard School
-permalink: /stories/ms-prathibah-pillai-d-o-pillai-parappa-karan
+permalink: /stories/ms-prathibah-pillai-d-o-pillai-parappa-karan/
 ---
 
 ## Ms Prathibah Pillai D/O Pillai Parappa Karan, Teacher, Grace Orchard School
