@@ -1,6 +1,6 @@
 ---
 title: Toolkits & Frameworks
-permalink: /resources/toolkits-frameworks
+permalink: /resources/toolkits-frameworks/
 description: The Skills Framework for Social Service helps industry professionals identify important skills & competencies to stay future-ready.
 
 ---
