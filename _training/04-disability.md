@@ -1,6 +1,6 @@
 ---
 title: Disability Courses
-permalink: /training/disability
+permalink: /training/disability/
 description: SSI provides short courses, certificates, diploma and degree programmes to help learners empower and help persons with disabilities.
 
 ---
