@@ -1,6 +1,6 @@
 ---
 title: Ms Eleanor Wong
-permalink: /stories/ms-eleanor-wong
+permalink: /stories/ms-eleanor-wong/
 ---
 
 ## Ms Eleanor Wong, Community Executive, St Hilda’s Community Services Centre
