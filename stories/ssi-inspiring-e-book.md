@@ -1,6 +1,6 @@
 ---
 title: Nurturing Careers, Inspiring Lives
-permalink: /stories/ssi-inspiring-e-book
+permalink: /stories/ssi-inspiring-e-book/
 ---
 
 ## Nurturing Careers, Inspiring Lives
