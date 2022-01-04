@@ -1,6 +1,6 @@
 ---
 title: Mr Pathnapuram Manoj
-permalink: /stories/mr-pathnapuram-manoj
+permalink: /stories/mr-pathnapuram-manoj/
 ---
 
 ## Mr Pathnapuram Manoj, Assistant Director (Resource & Training Centre), AWWA Ltd
