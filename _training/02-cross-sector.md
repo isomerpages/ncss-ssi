@@ -33,7 +33,7 @@ Some of the featured courses under this category are:
 
 -   [Advanced Certificate in Social Service](/training/cet-programmes/advanced-certificate-in-social-service/){:target="_blank"}  
 -   [Certificate in Para-Counselling](/training/cet-programmes/certificate-in-para-counselling/){:target="_blank"}     
--   [Higher Diploma in Social Service (HDSS)](/training/cet-programmes/Higher-Diploma-in-Social-Service/){:target="_blank"} 
+-   [Higher Diploma in Social Service (HDSS)](/training/cet-programmes/higher-diploma-in-social-service/){:target="_blank"} 
 -   [Professional Certificate in Casework (NSWCF Foundational)](/training/cet-programmes/professional-certificate-in-casework-(nswcf-foundational)/){:target="_blank"}   
 -   [Professional Certificate in Group Work (NSWCF Foundational)](/training/cet-programmes/Professional-Certificate-in-Group-Work-(NSWCF-Foundational)/){:target="_blank"}   
 
