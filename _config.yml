@@ -22,19 +22,6 @@ colors:
       color: '#00838f'
 
 
-collections:
-  discover-ssi:
-    output: true
-  # initiatives:
-  #  output: true
-  training:
-    output: true
-  resources:
-    output: true
-  about-us:
-    output: true
-  faq:
-    output: true
 google_analytics: UA-139430618-1
 resources_name: "resource-room"
 
@@ -56,11 +43,14 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: test test
+vica: true
+
+staging: https://ncss-ssi-staging.netlify.app
+prod: https://ncss-ssi-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
-vica: true
-
+  - jekyll-remote-theme

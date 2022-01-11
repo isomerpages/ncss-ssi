@@ -1,0 +1,12 @@
+collections:
+  resources:
+    output: true
+    order:
+      - resources-overview.md
+      - smart-environment.md
+      - learnhere.md
+      - createhere.md
+      - gatherhere.md
+      - gatherhere-board-members-group.md
+      - venue-booking.md
+      - toolkits-frameworks.md
