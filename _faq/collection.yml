@@ -1,5 +1,4 @@
 collections:
   faq:
     output: true
-    order:
-      - Facilities Booking.md
+    order: []
