@@ -1,10 +1,9 @@
 ---
-title: SGUnited Skills Programme 
+title: SGUnited Skills Programme
 permalink: /training/sgus/
-description: SSI’s SGUS programmes aim to help Singaporeans/PRs who have lost their jobs due to COVID-19 enter the social service sector.
-
+description: SSI’s SGUS programmes aim to help Singaporeans/PRs who have lost
+  their jobs due to COVID-19 enter the social service sector.
 ---
-
 ### Overview
 
 The SGUnited Jobs & Skills Package was launched by DPM Heng Swee Keat on 26 May 2020 to support an estimated 100,000 Singaporeans whose livelihoods have been affected by the COVID-19 pandemic. One of the initiatives under this package is the SGUS programme, which will provide job and traineeship opportunities to jobseekers to help them acquire the skillsets and capabilities needed to access expanded employment opportunities in both the private and public sector.
@@ -32,12 +31,6 @@ For the FAQs for SSI's SGUS programmes, refer to this [link](https://www.ssi.gov
 
 ### Useful Links
 
-To explore other SGUS programmes,visit this [link](https://www.myskillsfuture.sg/content/portal/en/training-exchange/course-directory.html?q=Tags:%22SGUnited%20Skills%22&search=true){:target="_blank"}.
+To explore other SGUS programmes,visit this [link](https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-landing.html){:target="_blank"}.
 
-For more information on the SGUS programmes, visit this [link](https://www.myskillsfuture.sg/content/portal/en/header/faqs/SGUnitedSkills.html){:target="_blank"}.
-
-
-
-
-
-
+For more information on the SGUS programmes, visit this [link](https://www.ssi.gov.sg/images/faq/SocialServiceInstitute_SGUS_FAQ_11%20Dec%202020.pdf){:target="_blank"}.
