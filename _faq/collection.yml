@@ -2,4 +2,4 @@ collections:
   faq:
     output: true
     order:
-      - facilities-booking.md
+      - Facilities Booking.md
