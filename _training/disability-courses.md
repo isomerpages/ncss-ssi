@@ -1,8 +1,8 @@
 ---
 title: Disability Courses
 permalink: /training/disability/
-description: SSI provides short courses, certificates, diploma and degree programmes to help learners empower and help persons with disabilities.
-
+description: SSI provides short courses, certificates, diploma and degree
+  programmes to help learners empower and help persons with disabilities.
 ---
 ![Social Service Institute (SSI) Singapore - Disability Care / Special Needs Courses](/images/training/disability_SSI_header-banner-757-x-239px4.jpg)
 
@@ -10,14 +10,13 @@ The featured courses are:
 
 ### **Short Courses**
 
--   [A Holistic Approach to Early Intervention for Children with Special Needs](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=holistic+approach){:target="_blank"}   
--   [Adapting Programmes for Persons with Disabilities](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=adapting+programmes+for+persons+with+disabilities&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
--   [Introduction to Augmentative and Alternative Communication](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Introduction+to+Augmentative+and+Alternative+Communication&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
--   [Independent Travel Training for Professionals Supporting Persons with Disabilities](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Independent+Travel+Training+for+Professionals+Supporting+Persons+with+Disabilities&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
--   [Interacting and Working with Persons with Disabilities](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Interacting+and+Working+with+Persons+with+Disabilities&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
+-   [WSQ Principles and Practices of Early Intervention for Children with Special Needs Module 1](https://iltms.ssi.gov.sg/registration/#/Course?coursecode= SDIS463){:target="_blank"}   
+-   Adapting Programmes for Persons with Disabilities (Available in Q4 2022. TBC) 
+-   Independent Travel Training for Professionals Supporting Persons with Disabilities (Available in Q4 2022. TBC) 
+-   Interacting and Working with Persons with Disabilities (Available in Q4 2022. TBC)   
 -   Strategies for Engaging and Teaching Persons with Learning Disabilities (Supervisor Extension) - Coming Soon!
--   [Understanding Adolescents with Special Needs](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Understanding+adolescents+with+special+needs){:target="_blank"}   
--   [Understanding Children with Special Needs](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Understanding+children+with+special+needs){:target="_blank"}   
+-   Understanding Adolescents with Special Needs (Available in Q4 2022. TBC)   
+-   Understanding Children with Special Needs (Available in Q4 2022. TBC)
 
 ### **Certificate/ Diploma/ Degree Programmes:**
 
@@ -44,4 +43,4 @@ Continue receiving news and articles about developments in the Disability sub-se
 
 ### **Subscribe to SSI’s Disability Mailing List**
 
-Subscribe to SSI’s Disability Courses Mailing List through this [link](https://form.gov.sg/606d885c443a2c0011794b5c){:target="_blank"}   
+Subscribe to SSI’s Disability Courses Mailing List through this [link](https://form.gov.sg/606d885c443a2c0011794b5c){:target="_blank"}
