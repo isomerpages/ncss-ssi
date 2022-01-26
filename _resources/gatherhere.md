@@ -1,8 +1,8 @@
 ---
 title: GatherHere
 permalink: /resources/gatherhere/
-description: SSI's GatherHere is a community space where the Social Service Tribe can work, communicate and reach out differently. 
-
+description: SSI's GatherHere is a community space where the Social Service
+  Tribe can work, communicate and reach out differently.
 ---
 GatherHere is an online community for the Social Service Tribe, a group of like-minded individuals, who share a vision of empowering everyone to live with dignity. It is where members of the Social Service Tribe can come together to work, communicate, network and reach out differently.
 
@@ -25,14 +25,11 @@ Government agencies can use GatherHere to conduct research, surveys and analyse 
 Social Service professionals can join the various community groups available in GatherHere to gain insights on the latest trends within the social service sector, join discussions on topics of interest and stay connected to other members of the Social Service Tribe, among other benefits.
 
 ### Join GatherHere    
-If you are interested to join GatherHere, you can drop us an email by [clicking here](mailto:techservices1@gatherhere.sg)
+If you are interested to join GatherHere, [sign up here](https://form.gov.sg/?fbclid=IwAR2LZepp0zOWNsndk9aR5FXu74PB2iMRy6PO8LHw8XGRsHcbfgSdOjKGRUM#!/615d07730053b40012f5054f){:target="_blank"}
 
 SSI also provides a suite of services to facilitate the onboarding process and manage your engagement digitally. The full list of services provided are as shown below.
 - Technical Support and Technology Management
-- Technology-Enabled Moderation
-- Space Set Up
-- Training and Consultancy
-- Content Services
+
 
 ### Guides for Claiming your GatherHere Account
 
