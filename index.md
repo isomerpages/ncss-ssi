@@ -27,10 +27,10 @@ sections:
             COVID-19               pandemic
           url: /training/sgus/
         - title: "Register for GatherHere #GoDigitalForGood Webinar"
-          description: Join us for a lunchtime sharing on Digitalisation and the Future of
-            Non-profit Organisations on  9 Dec 2021 (Thurs) from 1 -
-            2:30pm.                 Register before 8 Dec 2021!
-          url: https://www.facebook.com/241224139266623/posts/4536741023048225/?sfnsn=mo
+          description: Join us for a lunchtime sharing on “Building Resilience in Social
+            Service Sector Using Technology” on 10 Mar 2022 (Thu) from 1 –
+            2:30pm. Register before 9 Mar 2022!
+          url: https://go.gov.sg/godigitalforgood-march22
   - infopic:
       title: Start planning for your training needs today!
       subtitle: SSI’s Training Directory is Now Available
