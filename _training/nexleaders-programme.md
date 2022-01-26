@@ -1,8 +1,8 @@
 ---
 title: NEXLeaders Programme
 permalink: /training/nexleaders/
-description: NEXLeaders is a  leadership development programme for the social service sector created by SSI & Meta Consulting. Learn more!
-
+description: NEXLeaders is a  leadership development programme for the social
+  service sector created by SSI & Meta Consulting. Learn more!
 ---
 ![Social Service Institute (SSI) Singapore - Nexleaders Leadership Development Programme Micro Learning Courses](/images/training/nexleaders_Ssi_header.png)
 
@@ -42,14 +42,16 @@ This tiered programme is stratified for three different levels:
 
 
 ### Course Details
-All applicants are required to complete only 5 modules of the NEXLeaders Leadership Development Programme over a 2 months period, from 15 December 2021 to 15 February 2022 to qualify for VCF funding for eligible applicants.
+
+All applicants are required to complete only 5 modules of the NEXLeaders Leadership Development Programme over a 2 months period, from 15 January 2022 to 30 March 2022 to qualify for VCF funding for eligible applicants.
 
 After which, they will have access to the remaining 60 over courses. The five core modules for each tier are listed below.
 
 
+
 #### Supervisors and First Line Managers
 
-| [![Social Service Institute (SSI) Singapore - Leadership Courses For Supervisors & First Line Managers](/images/training/engaging-the-disengaged_1.png)](http://nexleaders.com/engaging-the-disengaged/){:target="_blank"}  <br> [![Social Service Institute (SSI) Singapore - Leadership Courses For Supervisors & First Line Managers](/images/training/understanding-self-leadership_1.png)](http://nexleaders.com/self-leadership/){:target="_blank"}  | [![Social Service Institute (SSI) Singapore - Leadership Courses For Supervisors & First Line Managers](/images/training/why-do-asians-avoid-conflict_3.jpg)](http://nexleaders.com/why-do-asians-avoid-conflict/){:target="_blank"}  <br> [![Social Service Institute (SSI) Singapore - Leadership Courses For Supervisors & First Line Managers](/images/training/7-up-to-personal-effectiveness_1.jpg)](http://nexleaders.com/7ups-to-personal-effectiveness/){:target="_blank"}  |[![Social Service Institute (SSI) Singapore - Leadership Courses For Supervisors & First Line Managers](/images/training/unleasingthe%20greatness_1.png)](http://nexleaders.com/unleashing-greatness-in-you/){:target="_blank"}  <br> |
+ [![Social Service Institute (SSI) Singapore - Leadership Courses For Supervisors & First Line Managers](/images/training/engaging-the-disengaged_1.png)](http://nexleaders.com/engaging-the-disengaged/){:target="_blank"}  <br> [![Social Service Institute (SSI) Singapore - Leadership Courses For Supervisors & First Line Managers](/images/training/understanding-self-leadership_1.png)](http://nexleaders.com/self-leadership/){:target="_blank"}  | [![Social Service Institute (SSI) Singapore - Leadership Courses For Supervisors & First Line Managers](/images/training/why-do-asians-avoid-conflict_3.jpg)](http://nexleaders.com/why-do-asians-avoid-conflict/){:target="_blank"}  <br> [![Social Service Institute (SSI) Singapore - Leadership Courses For Supervisors & First Line Managers](/images/training/7-up-to-personal-effectiveness_1.jpg)](http://nexleaders.com/7ups-to-personal-effectiveness/){:target="_blank"}  |[![Social Service Institute (SSI) Singapore - Leadership Courses For Supervisors & First Line Managers](/images/training/unleasingthe%20greatness_1.png)](http://nexleaders.com/unleashing-greatness-in-you/){:target="_blank"}  <br> |
 
 #### Middle Management
 
@@ -70,7 +72,7 @@ For a full list of other modules, which will be made available to you after comp
 * Member of NCSS: $96 (with 40 % VCF Funding for Non-Citizens & Foreigners)
 * Fees for Non-NCSS Members: $200 per participant for 1 year subscription (Over 60 courses)
 
-If you are signing up before 15 December 2021, you will enjoy a special price of $160 per staff for a one-year period.
+If you are signing up before 30 March 2022, you will enjoy a special price of $160 per staff for a one-year period.
 
 
 ### Sign Up Form   
@@ -80,5 +82,3 @@ You may sign up for this programme through this [form](https://go.gov.sg/nexlead
 ### Enquiries   
 
 If you have any queries relating to this programme, you can reach out to us by emailing <socialserviceinstitute@ncss.gov.sg>
-
-
