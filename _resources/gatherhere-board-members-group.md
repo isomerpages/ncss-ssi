@@ -1,7 +1,6 @@
 ---
 title: GatherHere Board Members Group
 permalink: /resources/boardgroup
-
 ---
 The GatherHere's Board Members group is targeted at aspiring and current board members in the social service and non-profit sector. It provides a myriad of networking and collaboration opportunities.
 
