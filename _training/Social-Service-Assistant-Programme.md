@@ -14,8 +14,8 @@ For more information on the applicable job roles in the social service sector vi
 -   Individual contributors with at least three to four years of experience in people engagement, programme coordination, administration and operations.
 
 ### Programme Details
--   Application period: Applications for this course will be from 1 Sept 2021 – 30 Sept 2021. 
--   Start Date: Dec 2021 (Intake Three).
+-   Application period: Applications for this course will end on 17 Jan 22.
+-   Start Date: 7 Mar 22 – 14 Oct 22 (Intake Four).
 -   Programme Duration: Eight months.
 -   Fees (excluding GST): Total would be $14,130 but nett fees after funding will be $666.67. 
 -   Mode of delivery: Blended learning (facilitated classroom training, online course materials & pre-course e-Learning activities).   
@@ -86,5 +86,4 @@ Note:
 
 1. The course details including the start dates and cost of the course is tentative and will be updated accordingly.
 2. The Social Service Assistant Programme is jointly developed by SSI and Ngee Ann Polytechnic (NP) although individual courses may come from either SSI or NP.
-3. Registration may end before 30 September 2021 when the maximum capacity is reached.
-
+3. Registration may end before 17 Jan 22 when the maximum capacity is reached.
