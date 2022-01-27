@@ -37,6 +37,6 @@ Here are the five ways to foster successful collaborations between businesses an
 5. Leverage your board to strengthen collaboration efforts
 
 ### Guides for Claiming your GatherHere Account
-
-- [For Apple users](https://www.youtube.com/watch?v=dwTr-1N2TK4){:target="_blank"}
-- [For android users](https://www.youtube.com/watch?v=h_KfsXXsBKI){:target="_blank"}
+[GatherHere Board Members - User Guide](/files/GatherHere%20Board%20Members%20-%20User%20Guide.pdf)
+- [Video Guide - For Apple users](https://www.youtube.com/watch?v=dwTr-1N2TK4){:target="_blank"}
+- [Video Guide - For Android users](https://www.youtube.com/watch?v=h_KfsXXsBKI){:target="_blank"}

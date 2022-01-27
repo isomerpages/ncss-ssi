@@ -72,7 +72,7 @@ For a full list of other modules, which will be made available to you after comp
 * Member of NCSS: $96 (with 40 % VCF Funding for Non-Citizens & Foreigners)
 * Fees for Non-NCSS Members: $200 per participant for 1 year subscription (Over 60 courses)
 
-If you are signing up before 30 March 2022, you will enjoy a special price of $160 per staff for a one-year period.
+If you are signing up before 15 March 2022, you will enjoy a special price of $160 per staff for a one-year period.
 
 
 ### Sign Up Form   
