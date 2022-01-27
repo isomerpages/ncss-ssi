@@ -3,13 +3,11 @@ title: SGUnited Skills Programme – Volunteer Management
 permalink: /training/volunteer-management/
 description: ""
 ---
-
-
 ### Overview
 
 The SGUnited Skills Programme – Volunteer Management comprises of a suite of short courses that was specially put together to equip learners with the appropriate knowledge and skillsets to pursue roles in volunteer management, programming and development.
 
-For more information on the applicable job roles in the social service sector visit this [link.](https://www.myskillsfuture.sg/content/portal/en/career-resources/career-resources/campaigns/train-and-skill-up-for-jobs-in-Social-Services.html){:target="_blank"}
+For more information on the applicable job roles in the social service sector visit this [link.](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/sgunited-skills.html){:target="_blank"}
 
 ### Target Audience
 
