@@ -30,6 +30,12 @@ If you are interested to join GatherHere, [sign up here](https://form.gov.sg/?fb
 SSI also provides a suite of services to facilitate the onboarding process and manage your engagement digitally. The full list of services provided are as shown below.
 - Technical Support and Technology Management
 
+### GoDigitalForGood
+Dedicated group on GatherHere created to help you on your digitalisation journey, join a like-minded network of individuals passionate about advancing Social Change and Impact through digitalisation.
+
+Grow your social service organisation through events and webinars, FREE for all GatherHere members! 
+
+https://go.gov.sg/gh-signup
 
 ### Guides for Claiming your GatherHere Account
 - [GatherHere User Guide](/files/SSI_GatherHere_GoDigitalForGood_User_Guide.pdf)
