@@ -32,6 +32,6 @@ SSI also provides a suite of services to facilitate the onboarding process and m
 
 
 ### Guides for Claiming your GatherHere Account
-
+- [GatherHere User Guide](/files/SSI_GatherHere_GoDigitalForGood_User_Guide.pdf)
 - [For Apple users](https://www.youtube.com/watch?v=dwTr-1N2TK4){:target="_blank"}
 - [For android users](https://www.youtube.com/watch?v=h_KfsXXsBKI){:target="_blank"}
