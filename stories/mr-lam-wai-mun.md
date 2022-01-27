@@ -1,6 +1,6 @@
 ---
 title: Mr Lam Wai Mun
-permalink: /stories/mr-lam-wai-mun
+permalink: /stories/mr-lam-wai-mun/
 ---
 ## Mr Lam Wai Mun, Counsellor, Fei Yue Family Service Centre (Champions Way)
 

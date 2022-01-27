@@ -1,6 +1,6 @@
 ---
 title: Mr Abdul Halim
-permalink: /stories/mr-abdul-halim
+permalink: /stories/mr-abdul-halim/
 ---
 
 ## Mr Abdul Halim, Welfare Officer, Pertapis Children’s Home

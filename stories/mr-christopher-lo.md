@@ -1,6 +1,6 @@
 ---
 title: Mr Christopher Lo
-permalink: /stories/mr-christopher-lo
+permalink: /stories/mr-christopher-lo/
 ---
 
 ## Mr Christopher Lo, Board Member, Cerebral Palsy Alliance Singapore

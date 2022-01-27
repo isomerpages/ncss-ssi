@@ -1,6 +1,6 @@
 ---
 title: Ms Suzanne Low
-permalink: /stories/ms-suzanne-low
+permalink: /stories/ms-suzanne-low/
 ---
 
 ## Ms Suzanne Low, Social Worker, AWWA School

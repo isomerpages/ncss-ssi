@@ -7,7 +7,7 @@ description: Read testimonials from learners who have benefited from SSI's cours
 <table width="300px">
 <tbody>
       <td width="100px">
-          <a href="ms-peng-haiying"><img src="/images/stories/mainpage/ms-peng-haiying.jpg" alt="Ms Peng Haiying" title="View Story" /></a><br /><strong>Ms Peng Haiying, Executive Director, SUN-DAC</strong><br /><em>“If you can’t heal lives, you can heal hearts.”</em>
+          <a href="https://www.ssi.gov.sg/stories/ms-peng-haiying/"><img src="/images/stories/mainpage/ms-peng-haiying.jpg" alt="Ms Peng Haiying" title="View Story" /></a><br /><strong>Ms Peng Haiying, Executive Director, SUN-DAC</strong><br /><em>“If you can’t heal lives, you can heal hearts.”</em>
           <br /><br />
           <a href="ms-nur-khaiyisha-bte-abd-kadir"><img src="/images/stories/mainpage/ms-nur-khaiyisha-bte-abd-kadir.jpg" alt="Ms Nur Khaiyisha Bte Abd Kadir" title="View Story" /></a><br /><strong>Ms Nur Khaiyisha Bte Abd Kadir, Special Needs Teacher, APSN</strong><br /><em>“Go for it if you have that voice or feeling in your heart. Start from that small fire…”</em> 
           <br /><br />

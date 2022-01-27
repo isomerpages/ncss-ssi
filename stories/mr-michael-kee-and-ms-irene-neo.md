@@ -1,6 +1,6 @@
 ---
 title: Mr Michael Kee and Ms Irene Neo
-permalink: /stories/mr-michael-kee-and-ms-irene-neo
+permalink: /stories/mr-michael-kee-and-ms-irene-neo/
 ---
 
 ## Mr Michael Kee and Ms Irene Neo, Foster Parents

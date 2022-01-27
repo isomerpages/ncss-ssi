@@ -1,6 +1,6 @@
 ---
 title: Mr Quek Hong Choon
-permalink: /stories/mr-quek-hong-choon
+permalink: /stories/mr-quek-hong-choon/
 ---
 
 ## Mr Quek Hong Choon, Director, SPD

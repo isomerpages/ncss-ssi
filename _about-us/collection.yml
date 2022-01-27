@@ -1,0 +1,10 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - who-we-are.md
+      - our-audience.md
+      - our-milestones.md
+      - our-partners.md
+      - contact-us.md
+      - Join Our Mailing Lists.md

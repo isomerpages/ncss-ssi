@@ -1,6 +1,6 @@
 ---
 title: Ms Schutz Lee
-permalink: /stories/ms-schutz-lee
+permalink: /stories/ms-schutz-lee/
 ---
 
 ## Ms Schutz Lee, Treasurer, Society for WINGS (Women's Initiative for Ageing Successfully)

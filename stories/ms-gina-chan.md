@@ -1,6 +1,6 @@
 ---
 title: Ms Gina Chan
-permalink: /stories/ms-gina-chan
+permalink: /stories/ms-gina-chan/
 ---
 
 ## Ms Gina Chan, Social Worker, CROSSROAD Youth Centre (Care Corner Singapore Ltd)
