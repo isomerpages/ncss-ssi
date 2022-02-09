@@ -1,8 +1,8 @@
 ---
 title: Advanced Certificate in Social Service
 permalink: /training/cet-programmes/advanced-certificate-in-social-service/
-description: SSI's Advanced Certificate in Social Service equips learners with the horizontal skills necessary to be a Social Service Assistant.
-
+description: SSI's Advanced Certificate in Social Service equips learners with
+  the horizontal skills necessary to be a Social Service Assistant.
 ---
 ### Overview
 
@@ -56,13 +56,25 @@ Intake Two: 10 Aug 21 - 30 Sep 22
 
 ### Application Guidelines
 
-Applicants can register for this programme via this [e-services page](https://e-services.ncss.gov.sg/Training/Course/DetailProgramme/D534A2EB-057C-EB11-816F-000C296EE030 ){:target="_blank"}. Applications close on 30 Apr 21 at 11.59pm. Please refer to this  [application guide](/images/training/ACSS Application Guide.pdf){:target="_blank"} for more information on the application process. Applicants may also be called to attend an online interview with the selection panel on 27 May 21 (PM) or 1 Jun 21 (PM). Applicants will receive an email from SSI informing them about the assigned interview date and time and are required to make themselves available for the interview accordingly. Requests for alternative arrangements will not be considered.
+The course registration link will be available in April 2022. 
+
+| Description | Date | |
+| -------- | -------- | -------- |
+|Programme Dates| 15 Aug 2022 – 29 Sep 2023 |
+| Online Applications Open   | 1 Apr 2022 | |
+| Closing Date for Applications | 29 April 2022 before 23:59|
+| Notify HDSS Applications of WAT| 19 May 2022|
+| Notify Applicants of Interview| 23 May 2022|
+| Conduct Written Aptitude Test¹| Thu, 26 & Fri, 27 May 2022 (10.30am-11.30am & 3.00pm-4.00pm)|
+|Interview Session | 30 May, 1 Jun, 6 Jun & 8 Jun 2022|
+|Issue Offer Letter*| 26 May 2022|
+
+
+Applicants may also be called to attend an online interview with the selection panel on the dates specified above. Applicants will receive an email from SSI informing them about the assigned interview date and time and are required to make themselves available for the interview accordingly. Requests for alternative arrangements will not be considered.
 
 ### Preview Session
-
-To find out more about this programme, join us at the preview event on 15 April 21, 7.00pm. Sign up [here](https://form.gov.sg/606d0c428fb55e001115babc){:target="_blank"} 
+Preview date: TBC
 
 ### FAQs
 
 Refer to this [link](/images/training/FAQ-for-Advanced-Certificate-in-Social-Service(1).pdf){:target="_blank"} for FAQs relating to this programme.
-
