@@ -15,7 +15,7 @@ The qualification obtained from completing this foundational programme will prom
 Applicants must:
 
 -   Have a Grade of C6 for GCE 'O' level English (or equivalent).
--   Complete a complimentary e-learning course “, [Singapore’s Social Compact](https://learningcloud.sg/pages/coursedescription.jsf?courseId=1233736&catalogId=1700&templateId=-1){:target="_blank"} (download the e-certificate and submit it upon registration for this programme).
+-   Complete a complimentary e-learning course “, [Singapore’s Social Compact](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS400){:target="_blank"} (download the e-certificate and submit it upon registration for this programme).
 
 Applicants should also possess at least one of the following criteria:
 
@@ -63,7 +63,6 @@ The course registration link will be available in April 2022.
 |Programme Dates| 15 Aug 2022 – 29 Sep 2023 |
 | Online Applications Open   | 1 Apr 2022 | |
 | Closing Date for Applications | 29 April 2022 before 23:59|
-| Notify HDSS Applications of WAT| 19 May 2022|
 | Notify Applicants of Interview| 23 May 2022|
 | Conduct Written Aptitude Test¹| Thu, 26 & Fri, 27 May 2022 (10.30am-11.30am & 3.00pm-4.00pm)|
 |Interview Session | 30 May, 1 Jun, 6 Jun & 8 Jun 2022|
