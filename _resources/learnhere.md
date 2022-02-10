@@ -1,8 +1,8 @@
 ---
 title: LearnHere
 permalink: /resources/learnhere/
-description: SSI's e-learning portal, LearnHere, is for social service professionals to access learning content anytime, anywhere.
-
+description: SSI's e-learning portal, LearnHere, is for social service
+  professionals to access learning content anytime, anywhere.
 ---
 LearnHere is an online platform that hosts a variety of learning based content. It was created to complement formal classroom trainings and provide an online portal for social service professionals to access learning-based content readily while balancing the requirements of a full time job.
 
@@ -16,6 +16,17 @@ Through LearnHere, Learners can:
 - Learn at their own pace, with unlimited access to materials and discussions.
 - Ask questions and engage in meaningful discussions before and after classroom sessions.
 
+### iLTMS Portals
+
+| Portal | Description | |
+| -------- | -------- | -------- |
+| Online Registration  | Both individual and organisation sponsored will need to access this portal to submit course registration.<br> <br> - Register for SSI's courses <br> - Save/Edit registration <br> - View applications <br>- Submit course registration|
+|Student Portal| Only applicable to individual account. <br><br> - Access to e-learning course(s) / online course materials <br> - View enrolment details such as course timetable, e-certificates <br> - Make payment online <br> -View the invoices / receipts. Do note that official invoices and/or receipts will be mail out to learners.|
+|Client Portal| Only applicable to organisation account. <br><br> - View the enrolment details <br>- Make Payment Online <br>- View the invoices / receipts. Do note that official invoices and/or receipts will be mail out to the organisation.
+
+
+
+
 ### Guides for Using LearnHere
 - [Learner User Guide](/images/resources/iLTMS%20User%20Guide%20for%20Learners.pdf){:target="_blank"}
 - [Trainer User Guide](/images/resources/iLTMS%20User%20Guide%20for%20Trainers.pdf){:target="_blank"}
@@ -23,4 +34,3 @@ Through LearnHere, Learners can:
 - [Online Registration Portal User Guide](/images/resources/iLTMS%20User%20Guide%20for%20Online%20Registration%20Portal%20.pdf){:target="_blank"}
 
 To learn more about LearnHere, email [socialserviceinstitute@ncss.gov.sg](mailto:socialserviceinstitute@ncss.gov.sg)
-
