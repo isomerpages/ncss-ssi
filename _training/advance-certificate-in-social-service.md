@@ -47,12 +47,7 @@ With the qualification attained, learners can apply for jobs as a Social Service
 **Estimated Nett Fees:** $910 (excluding GST, after SSG subsidy).  
   
 Course fees must be paid prior to the course start date, upon the acceptance of offer and within the given timeline provided in the offer letter.  
-  
-**Programme Orientation:**  
-Orientation date: TBC
-  
-**Upcoming intake:**  
-Intake Two: 10 Aug 21 - 30 Sep 22
+
 
 ### Application Guidelines
 
