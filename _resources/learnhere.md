@@ -23,6 +23,8 @@ Through LearnHere, Learners can:
 | [Online Registration](https://iltms.ssi.gov.sg/registration){:target="_blank"}  | Both individual and organisation sponsored will need to access this portal to submit course registration.<br> <br> - Register for SSI's courses <br> - Save/Edit registration <br> - View applications <br>- Submit course registration|
 |[Student Portal](https://iltms.ssi.gov.sg/student){:target="_blank"} | Only applicable to individual account. <br><br> - Access to e-learning course(s) / online course materials <br> - View enrolment details such as course timetable, e-certificates <br> - Make payment online <br> -View the invoices / receipts. Do note that official invoices and/or receipts will be mail out to learners.|
 |[Client Portal](https://iltms.ssi.gov.sg/client){:target="_blank"}| Only applicable to organisation account. <br><br> - View the enrolment details <br>- Make Payment Online <br>- View the invoices / receipts. Do note that official invoices and/or receipts will be mail out to the organisation.
+|[Trainer Portal](https://iltms.ssi.gov.sg/lecturer){:target="_blank"}  |Only applicable for Trainers<br> <br> - Register for SSI's courses <br> - Access Courses and modules assigned <br>- View and update Profile details <br>- View overview of Training Schedule <br>- View upcoming Training Sessions <br> - View past Training Sessions
+|
 
 
 
