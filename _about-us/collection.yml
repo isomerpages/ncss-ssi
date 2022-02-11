@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - who-we-are.md
+      - Who We Are | Social Service Institute Singapore.md
       - our-audience.md
       - our-milestones.md
       - our-partners.md
