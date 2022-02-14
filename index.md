@@ -8,8 +8,8 @@ permalink: /
 notification: iLTMS is now live! <a
   href="https://iltms.ssi.gov.sg/registration#/Course" target="_blank">Click
   here to view our courses.</a> Please note that iLTMS will be undergoing the
-  scheduled  maintenance from 28 Jan 22:00 till 29 Jan 07:00. Access to iLTMS
-  may be disrupted.
+  scheduled maintenance on 25 March from 22:00 till 26 March 07:00. Access to
+  iLTMS may be disrupted.
 sections:
   - hero:
       title: Social Service Institute

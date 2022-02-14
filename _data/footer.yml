@@ -1,11 +1,7 @@
 contact_us: /contact-us/
 show_reach: true
-feedback: 
-faq: https://www.ssi.gov.sg/images/faq/FAQ.pdf
-
+feedback: null
+faq: /files/FAQ.pdf
 social_media:
-    facebook: https://www.facebook.com/NCSS.SocialServiceInstitute
-    # twitter: https://www.twitter.com/YourTwitter
-    youtube: https://www.youtube.com/user/ncsssocialservice
-    # instagram: https://www.instagram.com/your.insta/
-    # linkedin: https://www.linkedin.com/company/YourAgency
+  facebook: https://www.facebook.com/NCSS.SocialServiceInstitute
+  youtube: https://www.youtube.com/user/ncsssocialservice

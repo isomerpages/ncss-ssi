@@ -1,7 +1,10 @@
 ---
 title: Who We Are
 permalink: /about-us/who-we-are/
+description: ""
 ---
+
+
 
 The Social Service Institute (SSI) is a key division under the Sector Capability & Transformation Group (SCTG) of the  [National Council of Social Service (NCSS)](http://www.ncss.gov.sg/Who-We-Are/Our-Organisation){:target="_blank"}   .
 
