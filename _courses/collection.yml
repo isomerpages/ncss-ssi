@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - professional-certificate-in-group-work.md
       - SGUnited Skills Programme – Social Service Assistant.md
       - SGUnited Skills Programme – Volunteer Management.md
       - SGUnited Skills Programme – Social Service Accelerator.md
