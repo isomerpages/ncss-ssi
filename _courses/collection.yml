@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - preparatory-training-for-potential-peer-support-specialist.md
       - professional-certificate-in-casework-(NSWCF-foundational).md
       - professional-certificate-in-group-work.md
       - SGUnited Skills Programme – Social Service Assistant.md
