@@ -1,0 +1,4 @@
+collections:
+  cet:
+    output: true
+    order: []
