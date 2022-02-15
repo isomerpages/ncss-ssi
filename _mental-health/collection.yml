@@ -1,0 +1,4 @@
+collections:
+  mental-health:
+    output: true
+    order: []
