@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - diploma-of-community-services.md
       - Higher Diploma in Social Service.md
       - advance-certificate-in-social-service.md
       - advance-certificate-in-supported-employment.md
