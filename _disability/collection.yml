@@ -1,4 +1,5 @@
 collections:
   disability:
     output: true
-    order: []
+    order:
+      - bachelor-of-education-(special-education).md
