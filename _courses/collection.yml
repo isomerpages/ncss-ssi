@@ -2,4 +2,5 @@ collections:
   courses:
     output: true
     order:
+      - SGUnited Skills Programme – Volunteer Management.md
       - SGUnited Skills Programme – Social Service Accelerator.md
