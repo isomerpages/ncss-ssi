@@ -1,5 +1,5 @@
 collections:
-  courses:
+  sgunited:
     output: true
     order:
       - SGUnited Skills Programme – Social Service Assistant.md
