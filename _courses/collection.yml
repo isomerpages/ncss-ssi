@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - Higher Diploma in Social Service.md
       - advance-certificate-in-social-service.md
       - advance-certificate-in-supported-employment.md
       - bachelor-of-education-(special-education).md
