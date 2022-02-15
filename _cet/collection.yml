@@ -1,4 +1,5 @@
 collections:
   cet:
     output: true
-    order: []
+    order:
+      - advance-certificate-in-social-service.md
