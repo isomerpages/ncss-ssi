@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - bachelor-of-education-(special-education).md
       - certificate-in-para-counselling.md
       - certificate-in-peer-support.md
       - peer-support-specialist-programme.md
