@@ -2,4 +2,5 @@ collections:
   cet:
     output: true
     order:
+      - advance-certificate-in-supported-employment.md
       - advance-certificate-in-social-service.md
