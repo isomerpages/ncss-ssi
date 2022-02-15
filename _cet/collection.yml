@@ -2,5 +2,6 @@ collections:
   cet:
     output: true
     order:
+      - certificate-in-para-counselling.md
       - advance-certificate-in-supported-employment.md
       - advance-certificate-in-social-service.md
