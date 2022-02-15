@@ -2,4 +2,5 @@ collections:
   mental-health:
     output: true
     order:
+      - preparatory-training-for-potential-peer-support-specialist.md
       - peer-support-specialist-programme.md
