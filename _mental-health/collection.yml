@@ -1,4 +1,5 @@
 collections:
   mental-health:
     output: true
-    order: []
+    order:
+      - peer-support-specialist-programme.md
