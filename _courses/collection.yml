@@ -2,7 +2,6 @@ collections:
   courses:
     output: true
     order:
-      - peer-support-specialist-programme.md
       - preparatory-training-for-potential-peer-support-specialist.md
       - SGUnited Skills Programme – Social Service Assistant.md
       - SGUnited Skills Programme – Volunteer Management.md
