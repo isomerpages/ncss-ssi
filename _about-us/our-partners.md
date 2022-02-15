@@ -2,7 +2,6 @@
 title: Our Partners
 permalink: /about-us/our-partners/
 ---
-
 ### **Overview**
 
 The Training Network Model refers to the network of partners that SSI engages to champion training in their area of expertise. This leads to an increased number of skilled and enterprising professionals in the sector, greater capacity and capability of social purpose entities and the development of innovative solutions.
@@ -72,8 +71,8 @@ Our annual recruitment drive for AEs will open for 2 windows; in April and Octob
 
 | **Application Window** | **If Shortlisted, you will be contacted by:** |	
 |--|--|
-| 1 Apr 2021 - 31 May 2021 | First working day of Jun|
-| 1 Oct 2021 - 30 Nov 2021 | First working day of Dec|
+| 1 Apr - 31 May | First working day of Jun|
+| 1 Oct - 30 Nov | First working day of Dec|
 
 Kindly submit the [application form](https://form.gov.sg/#!/607935eee0b9d9001179a50d) along with your documents (CV and credentials). If you have not heard from us 2 weeks after the close of window, your application is unsuccessful.
 
