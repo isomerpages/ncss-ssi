@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - advance-certificate-in-supported-employment.md
       - bachelor-of-education-(special-education).md
       - certificate-in-para-counselling.md
       - certificate-in-peer-support.md
