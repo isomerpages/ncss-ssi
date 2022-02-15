@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - certificate-in-peer-support.md
       - peer-support-specialist-programme.md
       - preparatory-training-for-potential-peer-support-specialist.md
       - professional-certificate-in-casework-(NSWCF-foundational).md
