@@ -2,6 +2,7 @@ collections:
   cet:
     output: true
     order:
+      - professional-certificate-in-group-work.md
       - professional-certificate-in-casework-(NSWCF-foundational).md
       - Higher Diploma in Social Service.md
       - certificate-in-peer-support.md
