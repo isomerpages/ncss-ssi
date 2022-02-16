@@ -1,9 +1,11 @@
 ---
 title: Bachelor of Education (Special Education)
 permalink: /training/cet-programmes/bachelor-of-education-(special-education)/
-description: This programme helps learners who completed NIE’s Diploma in Special Education to attain a degree qualification in special education.
-
+description: This programme helps learners who completed NIE’s Diploma in
+  Special Education to attain a degree qualification in special education.
 ---
+
+
 ### Overview
 
 This course aims to produce graduates who:

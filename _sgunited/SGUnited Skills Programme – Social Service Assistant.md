@@ -3,6 +3,7 @@ title: SGUnited Skills Programme – Social Service Assistant
 permalink: /training/social-service-assistant/
 description: ""
 ---
+
 ### Overview
 The SGUnited Skills Programme – Social Service Assistant aims to provide learners with the necessary knowledge and skillsets to perform the roles of a social service assistant, co-ordinator or programme executive.
 

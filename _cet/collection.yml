@@ -1,0 +1,9 @@
+collections:
+  cet:
+    output: true
+    order:
+      - professional-certificate-in-group-work.md
+      - Higher Diploma in Social Service.md
+      - certificate-in-para-counselling.md
+      - advance-certificate-in-supported-employment.md
+      - advance-certificate-in-social-service.md

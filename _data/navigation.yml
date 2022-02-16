@@ -1,11 +1,4 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/SSI%20New%20Logo.jpg
-
 links:
   - title: About Us
     collection: about-us
@@ -19,14 +12,3 @@ links:
     resource_room: true
   - title: Course Search
     url: https://iltms.ssi.gov.sg/registration#/Course
- # Not in use currently
- # collection: discover-ssi
- # - title: Resources & Links
- #   collection: resources-and-links
- # - title: Faq
- #  collection: faq
- # - title: Contact Us
- #   url: /contact-us/
- #  - title: Initiatives
-  #  collection: initiatives
-   

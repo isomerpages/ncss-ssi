@@ -1,0 +1,6 @@
+collections:
+  disability:
+    output: true
+    order:
+      - diploma-of-community-services.md
+      - bachelor-of-education-(special-education).md

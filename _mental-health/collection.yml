@@ -1,0 +1,8 @@
+collections:
+  mental-health:
+    output: true
+    order:
+      - certificate-in-peer-support.md
+      - professional-certificate-in-casework-(NSWCF-foundational).md
+      - preparatory-training-for-potential-peer-support-specialist.md
+      - peer-support-specialist-programme.md

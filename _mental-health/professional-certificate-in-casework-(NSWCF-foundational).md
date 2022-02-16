@@ -1,9 +1,12 @@
 ---
 title: Professional Certificate in Casework (NSWCF Foundational)
 permalink: /training/cet-programmes/professional-certificate-in-casework-(nswcf-foundational)/
-description: This casework certification course equips learners with the competencies to provide quality casework intervention services.
-
+description: This casework certification course equips learners with the
+  competencies to provide quality casework intervention services.
 ---
+
+
+
 
 ### **Overview**
 

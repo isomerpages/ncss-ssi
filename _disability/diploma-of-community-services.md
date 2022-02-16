@@ -1,9 +1,11 @@
 ---
 title: Diploma Of Community Services
 permalink: /training/cet-programmes/diploma-of-community-services/
-description: The diploma of community services trains professionals in the disability subsector to deliver person-centred services.
-
+description: The diploma of community services trains professionals in the
+  disability subsector to deliver person-centred services.
 ---
+
+
 ### **Overview**
 
 The Diploma of Community Services is a qualification developed by the Centre for Disability Studies (CDS) with a specific focus on person-centred practice in the disability sector. It is developed based on the values of inclusion, and on John O'Brien's five valued experiences – community participation, promoting choice, supporting contribution, encouraging valued social roles and community presence. There are a total of six themed modules in this diploma programme.  

@@ -1,0 +1,7 @@
+collections:
+  sgunited:
+    output: true
+    order:
+      - SGUnited Skills Programme – Social Service Assistant.md
+      - SGUnited Skills Programme – Volunteer Management.md
+      - SGUnited Skills Programme – Social Service Accelerator.md

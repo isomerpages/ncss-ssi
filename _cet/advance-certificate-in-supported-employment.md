@@ -1,9 +1,11 @@
 ---
 title: Advanced Certificate in Supported Employment (ACSE)
 permalink: /training/cet-programmes/advance-certificate-in-supported-employment/
-description: SSI's ACSE helps disability employment professionals provide better employment & employability support for persons with disabilities.
-
+description: SSI's ACSE helps disability employment professionals provide better
+  employment & employability support for persons with disabilities.
 ---
+
+
 ### Overview
 
 The Advanced Certificate in Supported Employment (ACSE) aims to build capabilities of job coaches in providing employment and employability support for persons with disabilities.
