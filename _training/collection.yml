@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - training-overview.md
-      - Featured Courses Open for Registration.md
+      - Featured Courses for Registration.md
       - continuing-education-training-cet-courses.md
       - cross-sector-courses.md
       - children-youth-and-family-courses.md
