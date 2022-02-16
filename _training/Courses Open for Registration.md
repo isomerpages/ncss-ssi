@@ -6,7 +6,7 @@ description: "Check out the latest courses that are open for registration at the
   courses that we offer:  Children, Youth & Family | Disability | Mental Health
   | Volunteer Development | Caregiving | Cross Sector | Board Development "
 ---
-**Courses are now open for registration. Sign up now!**
+**(A) Courses are now open for registration. Sign up now!**
 <br>(Updated on 16 Feb 2022)
 
 **[Understanding Singapore's Social Compact and Social Policies](https://iltms.ssi.gov.sg/registration#/Course?coursecode=SCRS400)**
@@ -20,7 +20,9 @@ description: "Check out the latest courses that are open for registration at the
 **[Leading Change in an Uncertain World course (with NEXLeaders)](https://go.gov.sg/nexleadership)**
 <br>How can leaders future-proof themselves? Equip yourself with the tools and mindset to guide your team, through challenging times with Lawrence Leong.
 
+**[Leadership and People Management Training Courses (with Capelle)](https://forms.office.com/r/MBdJgS9VLB)**
+<br>Learn how to encourage workplace innovation that embraces change positively. 
 
-
-
-
+**(b) Coming soon!**
+<br>**[Advanced Certificate in Social Service](https://www.ssi.gov.sg/training/cet-programmes/advanced-certificate-in-social-service/)**
+<br>This foundational course will provide social service professionals with the necessary knowledge and skills sets (including para-counselling) required to carry out their roles effectively when working with clients, partners and stakeholders. 
