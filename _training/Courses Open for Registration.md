@@ -6,3 +6,21 @@ description: "Check out the latest courses that are open for registration at the
   courses that we offer:  Children, Youth & Family | Disability | Mental Health
   | Volunteer Development | Caregiving | Cross Sector | Board Development "
 ---
+**Courses are now open for registration. Sign up now!**
+<br>(Updated on 16 Feb 2022)
+
+**[Understanding Singapore's Social Compact and Social Policies](https://iltms.ssi.gov.sg/registration#/Course?coursecode=SCRS400)**
+<br> Gain a deeper understanding of the Social Service sector in Singapore with this three-part series. The course provides key insights on the sector’s development, focus areas as well as future trends. 
+
+
+**[Evaluative Thinking for Successful Non-Profits](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5992)**
+<br> Enhance organisational evaluation capabilities with a reflective approach that fully integrates systematic questioning, data collection and analysis into actual workflow implementation. 
+
+
+**[Leading Change in an Uncertain World course (with NEXLeaders)](https://go.gov.sg/nexleadership)**
+<br>How can leaders future-proof themselves? Equip yourself with the tools and mindset to guide your team, through challenging times with Lawrence Leong.
+
+
+
+
+
