@@ -6,10 +6,10 @@ description: Visit the Social Service Institute (SSI) Singapore's website and
 image: /images/SSILogoFullColour_large_fullwidth.png
 permalink: /
 notification: iLTMS is now live! <a
-  href="https://iltms.ssi.gov.sg/registration#/Course" target="_blank">Click
-  here to view our courses.</a> Please note that iLTMS will be undergoing the
-  scheduled maintenance on 25 March from 22:00 till 26 March 07:00. Access to
-  iLTMS may be disrupted.
+  href="https://www.ssi.gov.sg/training/course-registration/" target="_blank">
+  Register for our courses now! </a> Please note that iLTMS will be undergoing
+  the scheduled maintenance on 25 March from 22:00 till 26 March 07:00. Access
+  to iLTMS may be disrupted.
 sections:
   - hero:
       title: Social Service Institute
