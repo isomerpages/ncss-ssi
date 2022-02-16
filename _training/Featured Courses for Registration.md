@@ -9,13 +9,6 @@ description: "Check out the latest courses that are open for registration at the
 **(A) Courses are now open for registration. Sign up now!**
 <br>(Updated on 16 Feb 2022)
 
-**Children, Youth and Family**
-
-* **[Certificate in Residential Care for Children and Young Persons (e-Learning)](https://iltms.ssi.gov.sg/registration#/Course?coursecode=SCET315)**
-<br>The Certificate in Residential Care (CRC) for Children and Young Persons (CYPs) aims to equip in-service residential care professionals with the basic knowledge and skills required to work effectively with the vulnerable children and young persons in residential care facilities. 
-<br> **Pre-requisite course required:** [Introduction to Child Protection Framework (e-Learning)](https://iltms.ssi.gov.sg/registration#/Course?coursecode=SCYF435)
-
-
 **Cross Sector**
 
 * **[Understanding Singapore's Social Compact and Social Policies](https://iltms.ssi.gov.sg/registration#/Course?coursecode=SCRS400)**
