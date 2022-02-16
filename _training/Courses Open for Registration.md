@@ -13,9 +13,12 @@ description: "Check out the latest courses that are open for registration at the
 <br> Gain a deeper understanding of the Social Service sector in Singapore with this three-part series. The course provides key insights on the sector’s development, focus areas as well as future trends. 
 
 
+**[Certificate in Residential Care for Children and Young Persons (e-Learning)](https://iltms.ssi.gov.sg/registration#/Course?coursecode=SCET315)**
+<br>The Certificate in Residential Care (CRC) for Children and Young Persons (CYPs) aims to equip in-service residential care professionals with the basic knowledge and skills required to work effectively with the vulnerable children and young persons in residential care facilities. 
+<br> **Pre-requisite course required:** [Introduction to Child Protection Framework (e-Learning)](https://iltms.ssi.gov.sg/registration#/Course?coursecode=SCYF435)
+
 **[Evaluative Thinking for Successful Non-Profits](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5992)**
 <br> Enhance organisational evaluation capabilities with a reflective approach that fully integrates systematic questioning, data collection and analysis into actual workflow implementation. 
-
 
 **[Leading Change in an Uncertain World course (with NEXLeaders)](https://go.gov.sg/nexleadership)**
 <br>How can leaders future-proof themselves? Equip yourself with the tools and mindset to guide your team, through challenging times with Lawrence Leong.
@@ -25,4 +28,4 @@ description: "Check out the latest courses that are open for registration at the
 
 **(b) Coming soon!**
 <br>**[Advanced Certificate in Social Service](https://www.ssi.gov.sg/training/cet-programmes/advanced-certificate-in-social-service/)**
-<br>This foundational course will provide social service professionals with the necessary knowledge and skills sets (including para-counselling) required to carry out their roles effectively when working with clients, partners and stakeholders. 
+<br>This foundational course will provide social service professionals with the necessary knowledge and skills sets (including para-counselling) required to carry out their roles effectively when working with clients, partners and stakeholders.
