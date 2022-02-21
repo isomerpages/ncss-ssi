@@ -12,11 +12,21 @@ description: "Check out the latest courses that are open for registration at the
 **Children, Youth and Family**
 * **[WSQ Principles & Practices in Early Intervention for Children with Special Needs – Module 1](https://iltms.ssi.gov.sg/registration#/Course?coursecode=SDIS463)**
 <br>Be equipped with the technical skills and competencies to apply key principles of early intervention and strength-based education for children with special needs.
+<br>Registration Closing Date: 14 March 2022
+
 
 **Cross Sector**
 
 * **[Understanding Singapore's Social Compact and Social Policies](https://iltms.ssi.gov.sg/registration#/Course?coursecode=SCRS400)**
 <br> Gain a deeper understanding of the Social Service sector in Singapore with this three-part series. The course provides key insights on the sector’s development, focus areas as well as future trends. 
+
+	| Course Run| Course Date | Registration Period |
+| -------- | -------- | -------- |
+| Run 6     | 7 Mar - 6 Apr 22  | 14 Feb 22 - 27 Feb 22   |
+| Run 7 | 21 Mar - 20 Apr 22 | 28 Feb 22 - 13 Mar 22 |
+|Run 8 | 4 Apr - 3 May 22 | 14 Mar - 27 Mar 22|
+
+
 
 **Management and Organisational Development**
 
