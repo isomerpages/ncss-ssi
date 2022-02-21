@@ -12,7 +12,7 @@ description: "Check out the latest courses that are open for registration at the
 **Children, Youth and Family**
 * **[WSQ Principles & Practices in Early Intervention for Children with Special Needs – Module 1](https://iltms.ssi.gov.sg/registration#/Course?coursecode=SDIS463)**
 <br>Be equipped with the technical skills and competencies to apply key principles of early intervention and strength-based education for children with special needs.
-<br>Registration Closing Date: 14 March 2022
+<br>(Registration Closing Date: 14 March 2022)
 
 
 **Cross Sector**
@@ -37,7 +37,7 @@ description: "Check out the latest courses that are open for registration at the
 
 * **[Leading Change in an Uncertain World course - with NEXLeaders](https://go.gov.sg/nexleadership)**
 <br>How can leaders future-proof themselves? Equip yourself with the tools and mindset to guide your team, through challenging times with Lawrence Leong.
-<br> Registration Closing Date: 15 March 2022
+<br> (Registration Closing Date: 15 March 2022)
 
 
 * **[Leadership and People Management Training Courses - with Capelle](https://forms.office.com/r/MBdJgS9VLB)**
