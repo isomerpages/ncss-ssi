@@ -20,13 +20,16 @@ description: "Check out the latest courses that are open for registration at the
 <br> Enhance organisational evaluation capabilities with a reflective approach that fully integrates systematic questioning, data collection and analysis into actual workflow implementation. 
 
 
-* **[Leading Change in an Uncertain World course (with NEXLeaders)](https://go.gov.sg/nexleadership)**
+* **[Leading Change in an Uncertain World course - with NEXLeaders](https://go.gov.sg/nexleadership)**
 <br>How can leaders future-proof themselves? Equip yourself with the tools and mindset to guide your team, through challenging times with Lawrence Leong.
 
 
-* **[Leadership and People Management Training Courses (with Capelle)](https://forms.office.com/r/MBdJgS9VLB)**
+* **[Leadership and People Management Training Courses - with Capelle](https://forms.office.com/r/MBdJgS9VLB)**
 <br>Learn how to encourage workplace innovation that embraces change positively. 
 
+
+* **[Strengthening Governance By Leveraging The Outward Mindset For Non-Profit Organizations (Online) - with Arbinger](https://forms.office.com/r/MBdJgS9VLB)**
+<br>Attempts to improve behavior alone can produce marginal improvements, but breakthrough results require a change in mindset. In this 2 day workshop, we empower leaders and staff to better understand the role of mindset in strengthening integrity and accountability to support governance.
 
 **(b) Coming soon!**
 * **[Advanced Certificate in Social Service](https://www.ssi.gov.sg/training/cet-programmes/advanced-certificate-in-social-service/)**
