@@ -32,10 +32,12 @@ description: "Check out the latest courses that are open for registration at the
 
 * **[Evaluative Thinking for Successful Non-Profits](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5992)**
 <br> Enhance organisational evaluation capabilities with a reflective approach that fully integrates systematic questioning, data collection and analysis into actual workflow implementation. 
+<br> (Registration Closing Date:  1 March 2022)
 
 
 * **[Leading Change in an Uncertain World course - with NEXLeaders](https://go.gov.sg/nexleadership)**
 <br>How can leaders future-proof themselves? Equip yourself with the tools and mindset to guide your team, through challenging times with Lawrence Leong.
+<br> Registration Closing Date: 15 March 2022
 
 
 * **[Leadership and People Management Training Courses - with Capelle](https://forms.office.com/r/MBdJgS9VLB)**
