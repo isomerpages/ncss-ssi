@@ -54,9 +54,8 @@ Course fees must be paid prior to the course start date, upon the acceptance of 
 
 
 ### Application Guidelines
-Applicants to download and fill the Application Form *(to be announced)*, and upload the completed application form together with all relevant supporting documents before submitting the online registration for the programme at SSI Registration Portal *(to be announced)*. 
+Applicants to download and fill the Application Form *(to be announced)*, and upload the completed application form together with all relevant supporting documents before submitting the online registration for the programme at SSI Registration Portal *(to be announced in April 2022)*. 
 
-The course registration link will be available in April 2022. 
 
 | Description | Date | |
 | -------- | -------- | -------- |
