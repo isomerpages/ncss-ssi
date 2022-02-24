@@ -43,7 +43,7 @@ This tiered programme is stratified for three different levels:
 
 ### Course Details
 
-All applicants are required to complete only 5 modules of the NEXLeaders Leadership Development Programme over a 2 months period, from 15 January 2022 to 30 March 2022 to qualify for VCF funding for eligible applicants.
+All applicants are required to complete only 5 modules of the NEXLeaders Leadership Development Programme over a 2 months period, from 15 January 2022 to 30 May 2022 to qualify for VCF funding for eligible applicants.
 
 After which, they will have access to the remaining 60 over courses. The five core modules for each tier are listed below.
 
