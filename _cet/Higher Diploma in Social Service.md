@@ -5,9 +5,6 @@ description: SSI's Higher Diploma in Social Service is a programme for aspiring
   and existing Social Service Professionals who are looking to be Social Work
   Associates.
 ---
-
-
-
 ### Overview
 
 SSI’s Higher Diploma in Social Service (HDSS) is a programme for new entrants and existing Social Service Professionals who aspire to be Social Work Associates. The programme aims to equip learners with the necessary skills and knowledge to be collaborative, client-centric, strategic and compassionate individuals who can work effectively with clients and stakeholders. 
@@ -30,11 +27,17 @@ Applicants should also possess any one of the following qualifications:
 
 -	SSI Advanced Certificate in Social Service.
 - WSQ Advanced Certificate in Social Service.
+- SGUS Social Service Assistance Programme
 - SSI Diploma in Social Service.
 - SSI Diploma in Disability Studies.
 - SIM-SSTI Specialist Diploma in Human Services.
 - Diploma from local polytechnic.
 - Two GCE 'A' and two 'AO' levels passes.
+ 
+All shortlisted applicants will have to sit for a Written Aptitude Test (WAT), which will be conducted on **26 May 2022 at 10.30am/3.00pm or 27 May 2022 at 10.30am/3.00pm**. Only applicants who successfully pass the WAT will be considered for admission into the programme.
+
+This e-learning course provides learners with an overview of the development of Singapore’s social services over the years and introduces them to the principles behind its provision. It also covers the six areas of social service provision and the challenges that lay ahead.
+ 
  
 This e-learning course provides learners with an overview of the development of Singapore’s social services over the years and introduces them to the principles behind its provision. It also covers the six areas of social service provision and the challenges that lay ahead. 
 
@@ -52,11 +55,12 @@ Learners may also apply for work as a Social Work Associate, Project Coordinator
 - **Cohort Size:** One cohort of 25 pax. 
 - **No of Modules:** Nine
 - **Programme Duration:** 16 months. This is a part time course with lessons being conducted two to three times a week.
+- **Programme Date:** 15 Aug 2022 to 30 Dec 2023
 - **Course Timing:**  7.00pm to 10.00pm  
 - **Fees:** Full Fees: $10,800 (before GST).*  
-- **Estimated Nett Fees:** $3,870 (after SSG Subsidy)* 
-- **GST on Nett Fees:** $270.90* 
-- **Total Payable Course Fees after SSG Funding:** $4140.90 (including GST)*   
+- **Estimated Nett Fees:** $3,240 (after SSG Subsidy)* 
+- **GST on Nett Fees:** $226.80* 
+- **Total Payable Course Fees after SSG Funding:** $3,466.80 (including GST)*   
 - **Assessment:** Written Assessment and Written Assignment 
 - **Mandatory Components:** Programme Orientation (date: TBC)
 
@@ -70,18 +74,16 @@ Learners must achieve at least 75% attendance per module and be certified compet
 
 ### Application Guidelines
 
-The course registration link will be available in April 2022. 
+Applicants to download and fill the Application Form (to be announced), and upload the completed application form together with all relevant supporting documents before submitting the online registration for the programme at SSI Registration Portal (to be announced in April 2022). 
+
 
 | Description | Date | |
 | -------- | -------- | -------- |
 |Programme Dates| 15 Aug 2022 – 30 Dec 2023 |
 | Online Applications Open   | 1 Apr 2022 | 
 | Closing Date for Applications | 29 April 2022 before 23:59|
-| Notify HDSS Applications of WAT| 19 May 2022|
-| Notify Applicants of Interview| 6 Jun 2022 |
 | Conduct Written Aptitude Test¹| Thu, 26 & Fri, 27 May 2022 (10.30am-11.30am & 3.00pm-4.00pm)|
 |Interview Session | 14, 16, 20, & 21 Jun 2022|
-|Issue Offer Letter*| 7 June 2022|
 
 
 All shortlisted applicants will have to sit for a Written Aptitude Test (WAT), which will be conducted on the stipulated date indicated above. Only applicants who successfully pass the WAT will be considered for admission into the programme. 
@@ -90,4 +92,3 @@ Applicants may also be called to attend an online interview with the selection p
 
 ### Preview Session
 Preview date: TBC
-
