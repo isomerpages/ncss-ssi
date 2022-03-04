@@ -29,10 +29,12 @@ description: "Check out the latest courses that are open for registration at the
 
 * **[Leadership and People Management Training Courses - with Capelle](https://forms.office.com/r/MBdJgS9VLB)**
 <br>Learn how to encourage workplace innovation that embraces change positively. 
+<br> (Registration Closing Date:  13 March 2022)
 
 
 * **[Strengthening Governance By Leveraging The Outward Mindset For Non-Profit Organizations (Online) - with Arbinger](https://forms.office.com/r/MBdJgS9VLB)**
 <br>Attempts to improve behavior alone can produce marginal improvements, but breakthrough results require a change in mindset. In this 2 day workshop, we empower leaders and staff to better understand the role of mindset in strengthening integrity and accountability to support governance.
+<br> (Registration Closing Date: 16 March 2022)
 
 **(b) Coming soon!**
 * **[Advanced Certificate in Social Service](https://www.ssi.gov.sg/training/cet-programmes/advanced-certificate-in-social-service/)**
