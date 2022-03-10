@@ -92,3 +92,9 @@ Applicants may also be called to attend an online interview with the selection p
 
 ### Preview Session
 Preview date: TBC
+
+
+### FAQs
+[Refer to this link for FAQs relating to this programme.](/files/Files%20for%20Learners/FAQ-for-Higher-Diploma-in-Social-Service.pdf)
+
+
