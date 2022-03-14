@@ -7,12 +7,7 @@ description: "Check out the latest courses that are open for registration at the
   | Volunteer Development | Caregiving | Cross Sector | Board Development "
 ---
 **(A) Courses are now open for registration. Sign up now!**
-<br>(Updated on 21 Feb 2022)
-
-**Children, Youth and Family**
-* **[WSQ Principles & Practices in Early Intervention for Children with Special Needs – Module 1](https://iltms.ssi.gov.sg/registration#/Course?coursecode=SDIS463)**
-<br>Be equipped with the technical skills and competencies to apply key principles of early intervention and strength-based education for children with special needs.
-<br>(Registration Closing Date: 14 March 2022)
+<br>(Updated on 14 March 2022)
 
 **Disability**
 * **[Managing Sexuality Issues of Adults with Intellectual Disabilities (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS6064)**
