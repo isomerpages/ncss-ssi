@@ -33,8 +33,7 @@ description: "Check out the latest courses that are open for registration at the
 
 
 * **[Strengthening Governance By Leveraging The Outward Mindset For Non-Profit Organizations (Online) - with Arbinger](https://forms.office.com/r/MBdJgS9VLB)**
-<br>Attempts to improve behavior alone can produce marginal improvements, but breakthrough results require a change in mindset. In this 2 day workshop, we empower leaders and staff to better understand the role of mindset in strengthening integrity and accountability to support governance.
-<br> (Registration Closing Date: 16 March 2022)
+<br>Attempts to improve behaviour alone typically produces marginal improvement. Breakthrough results, require a change in mindset. In this 2 day workshop we empower leaders and staff to better understand the role of mindset in strengthening integrity and accountability to support governance.<br> (Registration Closing Date: 16 March 2022)
 
 **(b) Coming soon!**
 * **[Advanced Certificate in Social Service](https://www.ssi.gov.sg/training/cet-programmes/advanced-certificate-in-social-service/)**
