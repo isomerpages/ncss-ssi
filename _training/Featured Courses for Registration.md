@@ -24,8 +24,7 @@ description: "Check out the latest courses that are open for registration at the
 
 
 * **[Positive Behaviour Support for Persons with Disabilities (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS172)**
-<br> 
-Using evidence-based Positive Behaviour Support principles, this workshop aims to impart practical hands-on application skills and communication techniques to help practitioners overcome barriers when supporting clients with severe challenging behaviours of concern.
+<br>Using evidence-based Positive Behaviour Support principles, this workshop aims to impart practical hands-on application skills and communication techniques to help practitioners overcome barriers when supporting clients with severe challenging behaviours of concern.
 <br>(Registration Closing Date: 18 Apr 2022)
 
 * **[Strategies for Development of Hand Function, Pre-Writing and Handwriting Skills for Children (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS5789)**
