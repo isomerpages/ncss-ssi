@@ -33,8 +33,17 @@ description: "Check out the latest courses that are open for registration at the
 
 **Management and Organisational Development**
 
-* **[Strategic Innovation: Pure & Simple (By DPIA) (Synchronous)](https://docs.google.com/forms/d/e/1FAIpQLSc3r8kfWF7_XaJdA1wka4GUVzi_0Uhr7V9NXSLxAwj_JToWYg/viewform)**
-<br> What does a ‘roll-out ready’ business strategy look like in the social services sector? Join this one-day workshop to gain deeper insight into the frameworks, processes and guidelines for effective strategy implementation, and learn how you can better manage fallouts in your current strategy for growth and improved performance. <br> (Registration Closing Date: 18 March 2022)
+* **[Strategic Innovation: Pure & Simple - By DPIA (Synchronous)](https://docs.google.com/forms/d/e/1FAIpQLSc3r8kfWF7_XaJdA1wka4GUVzi_0Uhr7V9NXSLxAwj_JToWYg/viewform)**
+<br> Gain the discipline of building a pipeline of Innovation and repeatable process of Innovation on demand. 
+<br> (Registration Closing Date: 18 March 2022)
+
+* **[Strategy Execution in Disruptive Times - By DPIA (Synchronous)](https://forms.gle/GaTLPjDhJvptbHLd9)**
+<br> What does a ‘roll-out ready’ business strategy look like in the social services sector? Join this one-day workshop to gain deeper insight into the frameworks, processes and guidelines for effective strategy implementation, and learn how you can better manage fallouts in your current strategy for growth and improved performance. <br> (Registration Closing Date: 8 Apr 2022)
+
+
+* **[Leadership and People Management Training Courses - with Capelle (Synchronous)](https://forms.office.com/r/MBdJgS9VLB)**
+<br>Learn how to encourage workplace innovation that embraces change positively. 
+<br> (Registration Closing Date:  27 Apr 2022)
 
 
 **(b) Coming soon!**
