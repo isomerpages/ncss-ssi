@@ -14,6 +14,10 @@ description: "Check out the latest courses that are open for registration at the
 <br>Be equipped with the technical skills and competencies to apply key principles of early intervention and strength-based education for children with special needs.
 <br>(Registration Closing Date: 14 March 2022)
 
+**Disability**
+* **[Managing Sexuality Issues of Adults with Intellectual Disabilities (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS6064)**
+<br>Help adults with intellectual disabilities to understand and manage their perceptions on sexuality. *Course conducted by Clinical Psychologists.<br>(Registration Closing Date: 30 Mar 2022)
+
 
 **Management and Organisational Development**
 
