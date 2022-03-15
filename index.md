@@ -22,10 +22,11 @@ sections:
             employee productivity in your organisation now. Learn more about
             this initiative: 5 Apr 2022, 10-11am or 20 Apr, 2022 3-4pm)"
           url: https://form.gov.sg/#!/611b641e09c56f001213ad2a
-        - title: SG United Skills Programme
-          description: Through the SGUS programme, SSI will support Singaporeans and
-            permanent residents whose livelihoods have been impacted by the
-            COVID-19               pandemic
+        - title: Higher Diploma in Social Service
+          description: The programme provides an articulation pathway into Bachelor in
+            Social Work at the Singapore University of Social Services (SUSS).
+            This is ideal for learners who wish to further their studies and
+            pursue a career in Social Work.
           url: /training/sgus/
         - title: Advanced Certificate in Social Service
           description: This foundational course will provide social service professionals
