@@ -17,20 +17,22 @@ sections:
       background: /images/homepage/Home_Banner.jpg
       url: /contact-us/
       key_highlights:
-        - title: Workplace Learning Project – Preview Session
-          description: Co-create solutions to enhance operational efficiency and improve
-            employee productivity in your organisation now.
+        - title: Workplace Learning Project – Preview Sessions
+          description: "Co-create solutions to enhance operational efficiency and improve
+            employee productivity in your organisation now. Learn more about
+            this initiative: 5 Apr 2022, 10-11am or 20 Apr, 2022 3-4pm)"
           url: https://form.gov.sg/#!/611b641e09c56f001213ad2a
         - title: SG United Skills Programme
           description: Through the SGUS programme, SSI will support Singaporeans and
             permanent residents whose livelihoods have been impacted by the
             COVID-19               pandemic
           url: /training/sgus/
-        - title: "Register for GatherHere #GoDigitalForGood Webinar"
-          description: Join us for a lunchtime sharing on “Building Resilience in Social
-            Service Sector Using Technology” on 10 Mar 2022 (Thu) from 1 –
-            2:30pm. Register before 9 Mar 2022!
-          url: https://go.gov.sg/godigitalforgood-march22
+        - title: Advanced Certificate in Social Service
+          description: This foundational course will provide social service professionals
+            with the necessary knowledge and skills sets required to carry out
+            their roles effectively when working with clients, partners and
+            stakeholders.
+          url: https://www.ssi.gov.sg/training/cet-programmes/advanced-certificate-in-social-service/
   - infopic:
       title: Start planning for your training needs today!
       subtitle: SSI’s Training Directory is Now Available
