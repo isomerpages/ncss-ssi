@@ -17,7 +17,7 @@ sections:
       background: /images/homepage/Home_Banner.jpg
       url: /contact-us/
       key_highlights:
-        - title: Workplace Learning Project – Preview Sessions
+        - title: Workplace Learning Project (Preview)
           description: "Co-create solutions to enhance operational efficiency and improve
             employee productivity in your organisation now. Learn more about
             this initiative: 5 Apr 2022, 10-11am or 20 Apr, 2022 3-4pm)"
