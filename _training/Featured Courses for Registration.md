@@ -34,7 +34,7 @@ description: "Check out the latest courses that are open for registration at the
 **Management and Organisational Development**
 
 * **[Strategic Innovation: Pure & Simple - By DPIA (Synchronous)](https://docs.google.com/forms/d/e/1FAIpQLSc3r8kfWF7_XaJdA1wka4GUVzi_0Uhr7V9NXSLxAwj_JToWYg/viewform)**
-<br> Gain the discipline of building a pipeline of Innovation and repeatable process of Innovation on demand. 
+<br> Discover the importance of innovation in the social service sector. Gain insight on the strategies and methods you can employ to embed a culture of innovation in your organisation.
 <br> (Registration Closing Date: 18 March 2022)
 
 * **[Strategy Execution in Disruptive Times - By DPIA (Synchronous)](https://forms.gle/GaTLPjDhJvptbHLd9)**
@@ -42,7 +42,7 @@ description: "Check out the latest courses that are open for registration at the
 
 
 * **[Leadership and People Management Training Courses - with Capelle (Synchronous)](https://forms.office.com/r/MBdJgS9VLB)**
-<br>Learn how to encourage workplace innovation that embraces change positively. 
+<br>Hone your leadership and management skills with our curated suite of courses for executives, managers and team leaders in the Social Service sector. Learn how to adopt a systematic approach to leading people, enhance your leadership effectiveness and discover how you can better manage remote teams with Capelle’s People Leadership program, held in April 2022. 
 <br> (Registration Closing Date:  27 Apr 2022)
 
 
