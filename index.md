@@ -17,10 +17,10 @@ sections:
       background: /images/homepage/Home_Banner.jpg
       url: /contact-us/
       key_highlights:
-        - title: NexLeaders Programme
-          description: An online leadership development programme for the social service
-            sector
-          url: /training/nexleaders/
+        - title: Workplace Learning Project – Preview Session
+          description: Co-create solutions to enhance operational efficiency and improve
+            employee productivity in your organisation now.
+          url: https://form.gov.sg/#!/611b641e09c56f001213ad2a
         - title: SG United Skills Programme
           description: Through the SGUS programme, SSI will support Singaporeans and
             permanent residents whose livelihoods have been impacted by the
