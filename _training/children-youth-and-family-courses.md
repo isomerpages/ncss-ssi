@@ -13,14 +13,13 @@ The featured courses are:
  - [Certified User for Youth Level of Service/ Case Management (YLS/CMI)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5858){:target="_blank"}   
  - [Child Abuse Reporting Guide](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF434){:target="_blank"} 
  - [Delivering Impactful Training to Youths](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5340){:target="_blank"} 
- - [Family and Adult Support Tool (FAST) - User](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Family+and+Adult+Support+Tool+%28FAST%29){:target="_blank"}  
- - [Game for Life for Youths-At-Risk](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=game+for+life){:target="_blank"}   
- - [Helping Youths Cope with Anger](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Helping+Youths+Cope+with+Anger){:target="_blank"} 
- - [Introduction to Sector-Specific Screening Guide](https://e-services.ncss.gov.sg/Training/Course/Detail/43d233d8-6ad6-eb11-8178-000c296ee030){:target="_blank"} 
+ - [Family and Adult Support Tool (FAST) - User](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5936){:target="_blank"}  
+ - [Helping Youths Cope with Anger](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5158){:target="_blank"} 
+ - [Introduction to Sector-Specific Screening Guide](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF436){:target="_blank"} 
  - [Introduction to Child Protection Framework](https://e-services.ncss.gov.sg/Training/Course/Detail/373c876b-a3d6-eb11-8179-000c296ee030){:target="_blank"} 
   - Management of Family Violence: Management of Elder Abuse and Neglect - Coming Soon!
- - [Management of Family Violence: Introduction](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Management+of+Family+Violence%3A+Introduction){:target="_blank"}  
-  - [Management of Family Violence: Organisational Approaches to Child Safe Practices for Centre & Team Leads](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Management+of+Family+Violence%3A+Organisational+Approaches+to+Child+Safe+Practices+for+centre&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
+ - [Management of Family Violence: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF197){:target="_blank"}  
+  - [Management of Family Violence: Organisational Approaches to Child Safe Practices for Centre & Team Leads](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF257){:target="_blank"}  
  - [Management of Family Violence: Organisational Approaches to Child Safe Practices for Frontline Staff](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Management+of+Family+Violence%3A+Organisational+Approaches+to+Child+Safe+Practices+for+frontline+staff&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
  - [Management of Family Violence: Understanding Mental Health and Vulnerable Adult Issues in Protection Work](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=understanding+mental+health+and+vulnerable+adult+issues+in+protection+work&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
  - [Safety Planning and Monitoring - A 5.5-Step Model](https://e-services.ncss.gov.sg/Training/Course/Detail/7b0c7da6-a3be-eb11-8177-000c296ee030){:target="_blank"} 
