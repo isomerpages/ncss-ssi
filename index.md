@@ -34,7 +34,7 @@ sections:
             with the necessary knowledge and skills sets required to carry out
             their roles effectively when working with clients, partners and
             stakeholders.
-          url: https://www.ssi.gov.sg/training/cet-programmes/advanced-certificate-in-social-service/
+          url: /training/cet-programmes/advanced-certificate-in-social-service/
   - infopic:
       title: Start planning for your training needs today!
       subtitle: SSI’s Training Directory is Now Available
