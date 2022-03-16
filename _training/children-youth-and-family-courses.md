@@ -1,19 +1,18 @@
 ---
 title: Children, Youth and Family Courses
 permalink: /training/cyandf/
-description: SSI’s children, youth and family courses provides learners with the skills to work with children, youth and families.
-
+description: SSI’s children, youth and family courses provides learners with the
+  skills to work with children, youth and families.
 ---
 ![Social Service Institute (SSI) Singapore - Children & Youth Development, Family Therapy / Family Violence Courses](/images/training/CYF_SSI_header-banner-757-x-239px2.jpg)
 
 The featured courses are:  
 
- - [An Introduction to Family Therapy](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=An+Introduction+to+Family+Therapy){:target="_blank"}  
- - [Certified User for Child & Adolescent Needs & Strengths (CANS)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Certified+User+for+Child+%26+Adolescent+Needs+%26+Strengths+%28CANS%29){:target="_blank"}  
- - [Certified User for Youth Level of Service/ Case Management (YLS/CMI)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=certified+user+for+youth+level+of+service&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
- - [Child Abuse Reporting Guide](https://e-services.ncss.gov.sg/Training/Course/Detail/efd5e380-6fd6-eb11-8178-000c296ee030){:target="_blank"} 
- - [Delivering Impactful Training to Youths](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Delivering+Impactful+Training+to+Youths){:target="_blank"} 
- - [Engaging Reluctant Adolescents Using Motivational Approaches](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Engaging+Reluctant+Adolescents+Using+Motivational+Approaches){:target="_blank"}  
+ - [An Introduction to Family Therapy](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5646){:target="_blank"}  
+ - [Certified User for Child & Adolescent Needs & Strengths (CANS)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF226){:target="_blank"}  
+ - [Certified User for Youth Level of Service/ Case Management (YLS/CMI)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5858){:target="_blank"}   
+ - [Child Abuse Reporting Guide](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF434){:target="_blank"} 
+ - [Delivering Impactful Training to Youths](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5340){:target="_blank"} 
  - [Family and Adult Support Tool (FAST) - User](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Family+and+Adult+Support+Tool+%28FAST%29){:target="_blank"}  
  - [Game for Life for Youths-At-Risk](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=game+for+life){:target="_blank"}   
  - [Helping Youths Cope with Anger](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Helping+Youths+Cope+with+Anger){:target="_blank"} 
@@ -64,4 +63,4 @@ Saw Han previously worked with MSF as a clinical psychologist before heading a r
 Continue receiving news and articles about the Children, Youth & Family sub-sector through GatherHere. If you are interested to join GatherHere, you can drop us an email by [clicking here](mailto:techservices1@gatherhere.sg).
 
 ### Subscribe to SSI’s Children, Youth & Family Mailing List   
-Subscribe to SSI’s Children, Youth and Family Courses Mailing List through this [link](https://form.gov.sg/606d880e8fb55e0011168813){:target="_blank"}.   
+Subscribe to SSI’s Children, Youth and Family Courses Mailing List through this [link](https://form.gov.sg/606d880e8fb55e0011168813){:target="_blank"}.
