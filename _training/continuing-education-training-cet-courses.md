@@ -23,7 +23,7 @@ For the full list of CET programmes offered by SSI, follow this  [link](https://
 
 ### **News and Articles**
 
-Continue receiving news and articles on CET programmes through GatherHere. If you are interested to join GatherHere, [sign up here](https://form.gov.sg/?fbclid=IwAR2LZepp0zOWNsndk9aR5FXu74PB2iMRy6PO8LHw8XGRsHcbfgSdOjKGRUM#!/615d07730053b40012f5054f){:target="_blank"}.
+Continue receiving news and articles on CET programmes through GatherHere. If you are interested to join GatherHere, [sign up here](https://form.gov.sg/?fbclid=IwAR2LZepp0zOWNsndk9aR5FXu74PB2iMRy6PO8LHw8XGRsHcbfgSdOjKGRUM#!/615d07730053b40012f5054f){:target="_blank"} .
 
 ### **Subscribe to SSI’s CET Programmes Mailing List**
 
