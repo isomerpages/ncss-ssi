@@ -40,9 +40,10 @@ For the full list of Cross Sector courses offered by SSI, follow this [link](htt
   
 The course, [Understanding the Social Service Sector](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET6-M){:target="_blank"}   , provides an appreciation and understanding of Singapore's social needs, key stakeholders in the sector and social service initiatives and schemes. [Understanding Singapore's Social Compact and Social Policies](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS400), is an e-Learning course that provides an overview of the development of Singapore’s social services over the years and introduces the principles behind its provision. It covers six areas of social service provision which include trends and challenges in the future.  
   
-[Counselling Skills and Practice: Introduction](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Counselling+skills+and+practice%3A+Introduction "Click to find out more..."){:target="_blank"}    and [Cognitive Behaviour Therapy: Introduction](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Cognitive+Behaviour+Therapy%3A+Introduction "Click to find out more..."){:target="_blank"}    provide foundational skills in counselling and therapy. It exposes learners to ethical considerations and self-care practices needed in the counselling profession. The course, [Solution Focused Brief Therapy: Introduction](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=solution+Focused+brief+therapy%3A+introduction&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove= "Click to find out more..."){:target="_blank"}   , trains learners to apply Solutions Focused Brief Therapy (SFBT) when interacting with difficult clients.
+[Counselling Skills and Practice: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5229){:target="_blank"}    and [Cognitive Behaviour Therapy: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5141){:target="_blank"}    provide foundational skills in counselling and therapy. It exposes learners to ethical considerations and self-care practices needed in the counselling profession. The course, [Solution Focused Brief Therapy: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5279){:target="_blank"}   , trains learners to apply Solutions Focused Brief Therapy (SFBT) when interacting with difficult clients.
 
-[Motivational Interviewing: An Introduction for Social Service Practitioners](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Motivational+Interviewing%3A+An+Introduction+for+Social+Service+Practitioners "Click to find out more..."){:target="_blank"}   , equips learners with the skills to engage and facilitate intrinsic motivation in their clients, in order to change behaviour and progress towards an improved well-being.
+[Motivational Interviewing: An Introduction for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5725){:target="_blank"}   , equips learners with the skills to engage and facilitate intrinsic motivation in their clients, in order to change behaviour and progress towards an improved well-being.
+
 ### **Featured Adult Educators**
 
 **Ms Alice Lee-Tok**  
@@ -66,7 +67,7 @@ healthcare and social service setting. He obtained his master’s and doctorate 
 
 ### **News and Articles**
 
-Continue receiving Cross Sector news and articles through GatherHere. If you are interested to join GatherHere, you can drop us an email by [clicking here](mailto:techservices1@gatherhere.sg).
+Continue receiving Cross Sector news and articles through GatherHere. If you are interested to join GatherHere, [sign up here](https://form.gov.sg/?fbclid=IwAR2LZepp0zOWNsndk9aR5FXu74PB2iMRy6PO8LHw8XGRsHcbfgSdOjKGRUM#!/615d07730053b40012f5054f){:target="_blank"}.
 
 ### **Subscribe to SSI’s Cross Sector Mailing List**
 
