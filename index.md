@@ -17,10 +17,11 @@ sections:
       background: /images/homepage/Home_Banner.jpg
       url: /contact-us/
       key_highlights:
-        - title: Workplace Learning Project (Preview)
-          description: "Co-create solutions to enhance operational efficiency and improve
-            employee productivity in your organisation now. Learn more about
-            this initiative: 5 Apr 2022, 10-11am or 20 Apr, 2022 3-4pm)"
+        - title: Workplace Learning (WPL) Initiative (Preview)
+          description: Co-create WPL solutions with SSI and NACE@SIT to enhance
+            operational efficiency and improve employee productivity in your
+            organisation. Learn more about this initiative on 5 Apr 2022
+            (10am-11am) or 20 Apr 2022 (3pm-4pm).
           url: https://form.gov.sg/#!/611b641e09c56f001213ad2a
         - title: Higher Diploma in Social Service
           description: The programme provides an articulation pathway into Bachelor in
