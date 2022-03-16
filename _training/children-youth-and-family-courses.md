@@ -23,11 +23,11 @@ The featured courses are:
  - [Management of Family Violence: Organisational Approaches to Child Safe Practices for Frontline Staff](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF258){:target="_blank"}   
   - [Safety Planning and Monitoring - A 5.5-Step Model](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF233){:target="_blank"} 
  - [Understanding Family Violence](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF437){:target="_blank"} 
- - [Youth Work: Identify and Apply Effective Intervention Programme](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=identify+and+apply+effective+intervention+programme&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
- - [Youth Work: Introduction to an Evidence-Based Approach](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Youth+Work%3A+Introduction+to+an+Evidence-Based+Approach){:target="_blank"}  
- - [WSQ Mentoring and Coaching Youths Effectively](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=WSQ+mentoring+and+coaching+youths+effectively&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
+ - [Youth Work: Identify and Apply Effective Intervention Programme](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF80){:target="_blank"}  
+ - [Youth Work: Introduction to an Evidence-Based Approach](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF79){:target="_blank"}  
+ - [WSQ Mentoring and Coaching Youths Effectively](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF305){:target="_blank"}  
 
-For the full list of Children, Youth and Family courses offered by SSI, follow this [link](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=f6f837bd-290c-e611-810d-000c29e3b091&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Children%2C+Youth+and+Family&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
+For the full list of Children, Youth and Family courses offered by SSI, follow this [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   
 
 ### Featured Adult Educators
 
@@ -58,7 +58,7 @@ Tony has worked with children and families for more than 10 years, in both the p
 Saw Han previously worked with MSF as a clinical psychologist before heading a research and programme evaluation unit. As a clinical psychologist, she worked with children, young persons and their parents in relation to child protection, juvenile crime and family issues. She is a certified user and trainer for the Transformational and Collaborative Outcome Management (TCOM) implementation framework: Child and Adolescent Needs and Strengths (CANS) and Family and Adult Support Tool (FAST). She has been recognised by the original developer of TCOM, Dr. John Lyons, as one of the local trainers who can train trainers on the use of CANS. She is familiar with the process of TCOM implementation, and was in the pilot project and early phases of TCOM implementation in Singapore.
 
 ### News and Articles   
-Continue receiving news and articles about the Children, Youth & Family sub-sector through GatherHere. If you are interested to join GatherHere, you can drop us an email by [clicking here](mailto:techservices1@gatherhere.sg).
+Continue receiving news and articles about the Children, Youth & Family sub-sector through GatherHere. If you are interested to join GatherHere, [sign up here](https://form.gov.sg/?fbclid=IwAR2LZepp0zOWNsndk9aR5FXu74PB2iMRy6PO8LHw8XGRsHcbfgSdOjKGRUM#!/615d07730053b40012f5054f){:target="_blank"}.
 
 ### Subscribe to SSI’s Children, Youth & Family Mailing List   
-Subscribe to SSI’s Children, Youth and Family Courses Mailing List through this [link](https://form.gov.sg/606d880e8fb55e0011168813){:target="_blank"}.
+Subscribe to SSI’s Children, Youth and Family Courses Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
