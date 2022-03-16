@@ -28,7 +28,7 @@ sections:
             Social Work at the Singapore University of Social Services (SUSS).
             This is ideal for learners who wish to further their studies and
             pursue a career in Social Work.
-          url: /training/sgus/
+          url: /training/cet-programmes/higher-diploma-in-social-service/
         - title: Advanced Certificate in Social Service
           description: This foundational course will provide social service professionals
             with the necessary knowledge and skills sets required to carry out
