@@ -1,8 +1,8 @@
 ---
 title: Cross Sector Courses
 permalink: /training/cross-sector/
-description: SSI’s cross sector courses provide an overview and understanding of each sub-sector and their unique social needs.
-
+description: SSI’s cross sector courses provide an overview and understanding of
+  each sub-sector and their unique social needs.
 ---
 ![Social Service Institute (SSI) Singapore - Counselling, Motivational Interviewing & Behaviour Therapy Courses](/images/training/SSI_header-banner-757-x-239px1.jpg)
 
@@ -15,19 +15,16 @@ Some of the featured courses under this category are:
 
 ### **Short Courses:**
 
--   [Befriending Skills and Practice (For Volunteers)](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Befriending+Skills+and+Practice+%28For+Volunteers%29&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
--   [Boleh Saya Anda? May I Help You? - Conversational Malay for Social Service Practitioners](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Conversational+malay&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
--   [Case Management in Practice: Introduction](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Case+Management+in+Practice%3A+Introduction&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
--   [Cognitive Behaviour Therapy: Introduction](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Cognitive+Behaviour+Therapy%3A+Introduction "Click to find out more..."){:target="_blank"}   
--   [Counselling Skills and Practice: Introduction](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Counselling+skills+and+practice%3A+Introduction "Click to find out more.."){:target="_blank"}   
--   [Fundamentals in Developing Community Work Programme (NSFWCF Foundational)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Fundamentals+in+Developing+Community+Work+Programme "Click to find out more..."){:target="_blank"}   
--   [Motivational Interviewing: An Introduction for Social Service Practitioners](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Motivational+Interviewing%3A+An+Introduction+for+Social+Service+Practitioners "Click to find out more..."){:target="_blank"}   
--   [Overcoming Compassion Fatigue and Burnout](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Overcoming+Compassion+Fatigue+and+Burnout&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=14a99fd7-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Mental+Health&Filter.CourseSubCategory.ToRemove=False){:target="_blank"}   
--   [Solution Focused Brief Therapy: Introduction](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=solution+Focused+brief+therapy%3A+introduction&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
--   [Understanding the Social Service Sector](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Understanding+the+Social+Service+Sector&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"} 
--  [Understanding Singapore's Social Compact and Social Policies](https://e-services.ncss.gov.sg/Training/Course/Detail/338C82E9-DCFF-EB11-8180-000C296EE030)<sup>1</sup>  
-
-**<sup>1</sup>As SSI strive to provide all learners with a better online learning experience, we will be making improvements to our learning system. From 1 June 2021, learners will be required to register via e-services before accessing the e-learning courses. Please click on the corresponding link(s) to register.**
+-   [Befriending Skills and Practice (For Volunteers)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311){:target="_blank"}   
+-   [Boleh Saya Anda? May I Help You? - Conversational Malay for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5647){:target="_blank"}   
+-   [Case Management in Practice: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5228){:target="_blank"}   
+-   [Cognitive Behaviour Therapy: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5141){:target="_blank"}   
+-   [Counselling Skills and Practice: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5229){:target="_blank"}   
+-   [Fundamentals in Developing Community Work Programme (NSFWCF Foundational)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET159){:target="_blank"}   
+-   [Motivational Interviewing: An Introduction for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5725){:target="_blank"}   
+-   [Solution Focused Brief Therapy: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5279){:target="_blank"}   
+-   [Understanding the Social Service Sector](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET6-M){:target="_blank"} 
+-  [Understanding Singapore's Social Compact and Social Policies](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS400)
 
 ### **Certificate/ Diploma/ Degree Programmes:**
 
@@ -37,15 +34,14 @@ Some of the featured courses under this category are:
 -   [Professional Certificate in Casework (NSWCF Foundational)](/training/cet-programmes/professional-certificate-in-casework-(nswcf-foundational)/){:target="_blank"}   
 -   [Professional Certificate in Group Work (NSWCF Foundational)](/training/cet-programmes/professional-certificate-in-group-work-(nswcf-foundational)/){:target="_blank"}   
 
-
-
-For the full list of Cross Sector courses offered by SSI, follow this [link](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=faf837bd-290c-e611-810d-000c29e3b091&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Cross+Sector&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   .  
+For the full list of Cross Sector courses offered by SSI, follow this [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   .  
   
-The course, [Understanding the Social Service Sector](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Understanding+the+Social+Service+Sector&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove= "Click to find out more..."){:target="_blank"}   , provides an appreciation and understanding of Singapore's social needs, key stakeholders in the sector and social service initiatives and schemes. [Understanding Singapore's Social Compact and Social Policies](https://e-services.ncss.gov.sg/Training/Course/Detail/5A98E07A-4EC4-EB11-8178-000C296EE030), is an e-Learning course that provides an overview of the development of Singapore’s social services over the years and introduces the principles behind its provision. It covers six areas of social service provision which include trends and challenges in the future.  
+The course, [Understanding the Social Service Sector](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET6-M){:target="_blank"}   , provides an appreciation and understanding of Singapore's social needs, key stakeholders in the sector and social service initiatives and schemes. [Understanding Singapore's Social Compact and Social Policies](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS400){:target="_blank"} , is an e-Learning course that provides an overview of the development of Singapore’s social services over the years and introduces the principles behind its provision. It covers six areas of social service provision which include trends and challenges in the future.  
   
-[Counselling Skills and Practice: Introduction](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Counselling+skills+and+practice%3A+Introduction "Click to find out more..."){:target="_blank"}    and [Cognitive Behaviour Therapy: Introduction](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Cognitive+Behaviour+Therapy%3A+Introduction "Click to find out more..."){:target="_blank"}    provide foundational skills in counselling and therapy. It exposes learners to ethical considerations and self-care practices needed in the counselling profession. The course, [Solution Focused Brief Therapy: Introduction](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=solution+Focused+brief+therapy%3A+introduction&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove= "Click to find out more..."){:target="_blank"}   , trains learners to apply Solutions Focused Brief Therapy (SFBT) when interacting with difficult clients.
+[Counselling Skills and Practice: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5229){:target="_blank"}    and [Cognitive Behaviour Therapy: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5141){:target="_blank"}    provide foundational skills in counselling and therapy. It exposes learners to ethical considerations and self-care practices needed in the counselling profession. The course, [Solution Focused Brief Therapy: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5279){:target="_blank"}   , trains learners to apply Solutions Focused Brief Therapy (SFBT) when interacting with difficult clients.
 
-[Motivational Interviewing: An Introduction for Social Service Practitioners](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Motivational+Interviewing%3A+An+Introduction+for+Social+Service+Practitioners "Click to find out more..."){:target="_blank"}   , equips learners with the skills to engage and facilitate intrinsic motivation in their clients, in order to change behaviour and progress towards an improved well-being.
+[Motivational Interviewing: An Introduction for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5725){:target="_blank"}   , equips learners with the skills to engage and facilitate intrinsic motivation in their clients, in order to change behaviour and progress towards an improved well-being.
+
 ### **Featured Adult Educators**
 
 **Ms Alice Lee-Tok**  
@@ -69,8 +65,8 @@ healthcare and social service setting. He obtained his master’s and doctorate 
 
 ### **News and Articles**
 
-Continue receiving Cross Sector news and articles through GatherHere. If you are interested to join GatherHere, you can drop us an email by [clicking here](mailto:techservices1@gatherhere.sg).
+Continue receiving Cross Sector news and articles through GatherHere. If you are interested to join GatherHere, [sign up here](https://form.gov.sg/?fbclid=IwAR2LZepp0zOWNsndk9aR5FXu74PB2iMRy6PO8LHw8XGRsHcbfgSdOjKGRUM#!/615d07730053b40012f5054f){:target="_blank"}.
 
 ### **Subscribe to SSI’s Cross Sector Mailing List**
 
-Subscribe to SSI’s Cross Sector Mailing List through this [link](https://form.gov.sg/606d87828fb55e0011168782){:target="_blank"}    
+Subscribe to SSI’s Cross Sector Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}

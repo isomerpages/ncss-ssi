@@ -8,7 +8,7 @@ permalink: /
 notification: iLTMS is now live! <a
   href="https://www.ssi.gov.sg/training/course-registration/" target="_blank">
   Register for our courses now! </a> Please note that iLTMS will be undergoing
-  the scheduled maintenance on 25 Feb from 22:00 till 26 Feb 07:00. Access to
+  the scheduled maintenance on 25 March from 22:00 till 26 Feb 07:00. Access to
   iLTMS may be disrupted.
 sections:
   - hero:
@@ -17,20 +17,24 @@ sections:
       background: /images/homepage/Home_Banner.jpg
       url: /contact-us/
       key_highlights:
-        - title: NexLeaders Programme
-          description: An online leadership development programme for the social service
-            sector
-          url: /training/nexleaders/
-        - title: SG United Skills Programme
-          description: Through the SGUS programme, SSI will support Singaporeans and
-            permanent residents whose livelihoods have been impacted by the
-            COVID-19               pandemic
-          url: /training/sgus/
-        - title: "Register for GatherHere #GoDigitalForGood Webinar"
-          description: Join us for a lunchtime sharing on “Building Resilience in Social
-            Service Sector Using Technology” on 10 Mar 2022 (Thu) from 1 –
-            2:30pm. Register before 9 Mar 2022!
-          url: https://go.gov.sg/godigitalforgood-march22
+        - title: Workplace Learning (WPL) Initiative (Preview)
+          description: Co-create WPL solutions with SSI and NACE@SIT to enhance
+            operational efficiency and improve employee productivity in your
+            organisation. Learn more about this initiative on 5 Apr 2022
+            (3pm-4pm) or 20 Apr 2022 (3pm-4pm).
+          url: https://form.gov.sg/#!/611b641e09c56f001213ad2a
+        - title: Higher Diploma in Social Service
+          description: The programme provides an articulation pathway into Bachelor in
+            Social Work at the Singapore University of Social Services (SUSS).
+            This is ideal for learners who wish to further their studies and
+            pursue a career in Social Work.
+          url: /training/cet-programmes/higher-diploma-in-social-service/
+        - title: Advanced Certificate in Social Service
+          description: This foundational course will provide social service professionals
+            with the necessary knowledge and skills sets required to carry out
+            their roles effectively when working with clients, partners and
+            stakeholders.
+          url: /training/cet-programmes/advanced-certificate-in-social-service/
   - infopic:
       title: Start planning for your training needs today!
       subtitle: SSI’s Training Directory is Now Available

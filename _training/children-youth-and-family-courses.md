@@ -1,36 +1,33 @@
 ---
 title: Children, Youth and Family Courses
 permalink: /training/cyandf/
-description: SSI’s children, youth and family courses provides learners with the skills to work with children, youth and families.
-
+description: SSI’s children, youth and family courses provides learners with the
+  skills to work with children, youth and families.
 ---
 ![Social Service Institute (SSI) Singapore - Children & Youth Development, Family Therapy / Family Violence Courses](/images/training/CYF_SSI_header-banner-757-x-239px2.jpg)
 
 The featured courses are:  
 
- - [An Introduction to Family Therapy](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=An+Introduction+to+Family+Therapy){:target="_blank"}  
- - [Certified User for Child & Adolescent Needs & Strengths (CANS)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Certified+User+for+Child+%26+Adolescent+Needs+%26+Strengths+%28CANS%29){:target="_blank"}  
- - [Certified User for Youth Level of Service/ Case Management (YLS/CMI)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=certified+user+for+youth+level+of+service&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
- - [Child Abuse Reporting Guide](https://e-services.ncss.gov.sg/Training/Course/Detail/efd5e380-6fd6-eb11-8178-000c296ee030){:target="_blank"} 
- - [Delivering Impactful Training to Youths](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Delivering+Impactful+Training+to+Youths){:target="_blank"} 
- - [Engaging Reluctant Adolescents Using Motivational Approaches](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Engaging+Reluctant+Adolescents+Using+Motivational+Approaches){:target="_blank"}  
- - [Family and Adult Support Tool (FAST) - User](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Family+and+Adult+Support+Tool+%28FAST%29){:target="_blank"}  
- - [Game for Life for Youths-At-Risk](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=game+for+life){:target="_blank"}   
- - [Helping Youths Cope with Anger](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Helping+Youths+Cope+with+Anger){:target="_blank"} 
- - [Introduction to Sector-Specific Screening Guide](https://e-services.ncss.gov.sg/Training/Course/Detail/43d233d8-6ad6-eb11-8178-000c296ee030){:target="_blank"} 
+ - [An Introduction to Family Therapy](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5646){:target="_blank"}  
+ - [Certified User for Child & Adolescent Needs & Strengths (CANS)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF226){:target="_blank"}  
+ - [Certified User for Youth Level of Service/ Case Management (YLS/CMI)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5858){:target="_blank"}   
+ - [Child Abuse Reporting Guide](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF434){:target="_blank"} 
+ - [Delivering Impactful Training to Youths](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5340){:target="_blank"} 
+ - [Family and Adult Support Tool (FAST) - User](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5936){:target="_blank"}  
+ - [Helping Youths Cope with Anger](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5158){:target="_blank"} 
+ - [Introduction to Sector-Specific Screening Guide](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF436){:target="_blank"} 
  - [Introduction to Child Protection Framework](https://e-services.ncss.gov.sg/Training/Course/Detail/373c876b-a3d6-eb11-8179-000c296ee030){:target="_blank"} 
   - Management of Family Violence: Management of Elder Abuse and Neglect - Coming Soon!
- - [Management of Family Violence: Introduction](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Management+of+Family+Violence%3A+Introduction){:target="_blank"}  
-  - [Management of Family Violence: Organisational Approaches to Child Safe Practices for Centre & Team Leads](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Management+of+Family+Violence%3A+Organisational+Approaches+to+Child+Safe+Practices+for+centre&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
- - [Management of Family Violence: Organisational Approaches to Child Safe Practices for Frontline Staff](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Management+of+Family+Violence%3A+Organisational+Approaches+to+Child+Safe+Practices+for+frontline+staff&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
- - [Management of Family Violence: Understanding Mental Health and Vulnerable Adult Issues in Protection Work](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=understanding+mental+health+and+vulnerable+adult+issues+in+protection+work&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
- - [Safety Planning and Monitoring - A 5.5-Step Model](https://e-services.ncss.gov.sg/Training/Course/Detail/7b0c7da6-a3be-eb11-8177-000c296ee030){:target="_blank"} 
- - [Understanding Family Violence](https://e-services.ncss.gov.sg/Training/Course/Detail/0e74aaa1-a6d6-eb11-8179-000c296ee030){:target="_blank"} 
- - [Youth Work: Identify and Apply Effective Intervention Programme](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=identify+and+apply+effective+intervention+programme&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
- - [Youth Work: Introduction to an Evidence-Based Approach](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Youth+Work%3A+Introduction+to+an+Evidence-Based+Approach){:target="_blank"}  
- - [WSQ Mentoring and Coaching Youths Effectively](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=WSQ+mentoring+and+coaching+youths+effectively&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}  
+ - [Management of Family Violence: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF197){:target="_blank"}  
+  - [Management of Family Violence: Organisational Approaches to Child Safe Practices for Centre & Team Leads](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF257){:target="_blank"}  
+ - [Management of Family Violence: Organisational Approaches to Child Safe Practices for Frontline Staff](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF258){:target="_blank"}   
+  - [Safety Planning and Monitoring - A 5.5-Step Model](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF233){:target="_blank"} 
+ - [Understanding Family Violence](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF437){:target="_blank"} 
+ - [Youth Work: Identify and Apply Effective Intervention Programme](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF80){:target="_blank"}  
+ - [Youth Work: Introduction to an Evidence-Based Approach](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF79){:target="_blank"}  
+ - [WSQ Mentoring and Coaching Youths Effectively](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF305){:target="_blank"}  
 
-For the full list of Children, Youth and Family courses offered by SSI, follow this [link](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=f6f837bd-290c-e611-810d-000c29e3b091&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Children%2C+Youth+and+Family&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
+For the full list of Children, Youth and Family courses offered by SSI, follow this [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   
 
 ### Featured Adult Educators
 
@@ -61,7 +58,7 @@ Tony has worked with children and families for more than 10 years, in both the p
 Saw Han previously worked with MSF as a clinical psychologist before heading a research and programme evaluation unit. As a clinical psychologist, she worked with children, young persons and their parents in relation to child protection, juvenile crime and family issues. She is a certified user and trainer for the Transformational and Collaborative Outcome Management (TCOM) implementation framework: Child and Adolescent Needs and Strengths (CANS) and Family and Adult Support Tool (FAST). She has been recognised by the original developer of TCOM, Dr. John Lyons, as one of the local trainers who can train trainers on the use of CANS. She is familiar with the process of TCOM implementation, and was in the pilot project and early phases of TCOM implementation in Singapore.
 
 ### News and Articles   
-Continue receiving news and articles about the Children, Youth & Family sub-sector through GatherHere. If you are interested to join GatherHere, you can drop us an email by [clicking here](mailto:techservices1@gatherhere.sg).
+Continue receiving news and articles about the Children, Youth & Family sub-sector through GatherHere. If you are interested to join GatherHere, [sign up here](https://form.gov.sg/?fbclid=IwAR2LZepp0zOWNsndk9aR5FXu74PB2iMRy6PO8LHw8XGRsHcbfgSdOjKGRUM#!/615d07730053b40012f5054f){:target="_blank"}.
 
 ### Subscribe to SSI’s Children, Youth & Family Mailing List   
-Subscribe to SSI’s Children, Youth and Family Courses Mailing List through this [link](https://form.gov.sg/606d880e8fb55e0011168813){:target="_blank"}.   
+Subscribe to SSI’s Children, Youth and Family Courses Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
