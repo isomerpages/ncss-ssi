@@ -65,7 +65,7 @@ healthcare and social service setting. He obtained his master’s and doctorate 
 
 ### **News and Articles**
 
-Continue receiving Cross Sector news and articles through GatherHere. If you are interested to join GatherHere, [sign up here](https://form.gov.sg/?fbclid=IwAR2LZepp0zOWNsndk9aR5FXu74PB2iMRy6PO8LHw8XGRsHcbfgSdOjKGRUM#!/615d07730053b40012f5054f){:target="_blank"}.
+Continue receiving Cross Sector news and articles through GatherHere. If you are interested to join GatherHere, [sign up here](https://go.gov.sg/gh-signup){:target="_blank"}.
 
 ### **Subscribe to SSI’s Cross Sector Mailing List**
 
