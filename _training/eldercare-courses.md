@@ -1,8 +1,8 @@
 ---
 title: Eldercare Courses
 permalink: /training/eldercare/
-description: SSI's eldercare courses provides social service professionals with the skills to work with seniors.
-
+description: SSI's eldercare courses provides social service professionals with
+  the skills to work with seniors.
 ---
 ![Social Service Institute (SSI) Singapore - Caring and communicating with dementia and senior persons courses](/images/training/Eldercare_SSI_header-banner-757-x-239px5.jpg)
 
@@ -45,7 +45,7 @@ Lit Soon’s career in the healthcare, social service and eldercare sector spans
 He holds a Master of Arts degree in Applied Psychology from the Nanyang Technological University (NTU), a Bachelor of Arts in Psychology & Social Work from the National University of Singapore (NUS), a Post-Graduate Diploma in Art Psychotherapy from Goldsmiths, University of London, an Advanced Diploma in Fine Arts & Design from the Nanyang Academy of Fine Arts (NAFA) and a Certificate in General Nursing from the School of Nursing, Singapore.
 
 ### News and Articles
-Continue receiving news and articles about developments in the Eldercare sub-sector through GatherHere. If you are interested to join GatherHere, you can drop us an email by [clicking here](mailto:techservices1@gatherhere.sg).
+Continue receiving news and articles about developments in the Eldercare sub-sector through GatherHere. If you are interested to join GatherHere, you can [sign up here](https://go.gov.sg/gh-signup){:target="_blank"}.
 
 ### Subscribe to Our Eldercare Mailing List   
-Subscribe to SSI’s Eldercare Mailing List through this [link](https://form.gov.sg/606d89252eded10012103d68){:target="_blank"}.   
+Subscribe to SSI’s Eldercare Mailing List through this [link](https://form.gov.sg/606d89252eded10012103d68){:target="_blank"}.
