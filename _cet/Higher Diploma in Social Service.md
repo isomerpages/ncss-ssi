@@ -94,7 +94,7 @@ Applicants may also be called to attend an online interview with the selection p
 ### Preview Session
 Date: 13 April 2022
 Time: 7pm
-<br>Do register via this [Link](https://form.gov.sg/62385ba121abcd00130fb13c) {:target="_blank"} to receive the Zoom link 3 days before the actual session. 
+<br>Do register via this [Link](https://form.gov.sg/62385ba121abcd00130fb13c){:target="_blank"} to receive the Zoom link 3 days before the actual session. 
 
 ### FAQs
 [Refer to this link for FAQs relating to this programme.](/files/Files%20for%20Learners/FAQ-for-Higher-Diploma-in-Social-Service_21Mar22.pdf){:target="_blank"}
