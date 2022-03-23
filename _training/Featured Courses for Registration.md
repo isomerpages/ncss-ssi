@@ -19,6 +19,7 @@ This is an introductory workshop catered for social workers with less than one y
 <br>This basic conversational Malay course is designed to equip frontline social service practitioners with commonly used terms and phrases to better communicate with their clients during home visits or when assessing financial needs.
 <br>(Registration Closing Date: 6 Apr 2022)
 
+
 **Disability**
 * [Managing Sexuality Issues of Adults with Intellectual Disabilities (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS6064){:target="_blank"} 
 <br>Help adults with intellectual disabilities to understand and manage their perceptions on sexuality. *Course conducted by Clinical Psychologists.
@@ -33,6 +34,8 @@ This is an introductory workshop catered for social workers with less than one y
 * [Strategies for Development of Hand Function, Pre-Writing and Handwriting Skills for Children (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS5789){:target="_blank"} 
 <br> Learn how to identify and apply strategies to address issues related to hand function, pre-writing and handwriting skills in early childhood development.
 <br>(Registration Closing Date: 25 Apr 2022)
+<br>
+
 
 **Management and Organisational Development**
 
@@ -49,8 +52,6 @@ This is an introductory workshop catered for social workers with less than one y
 <br>Hone your leadership and management skills with our curated suite of courses for executives, managers and team leaders in the Social Service sector. Learn how to adopt a systematic approach to leading people, enhance your leadership effectiveness and discover how you can better manage remote teams with Capelle’s People Leadership program, held in April 2022. 
 <br> (Registration Closing Date:  27 Apr 2022)
 <br>
-<br>
-
 
 **(b) Registration opens on 1st April!**
 * [Advanced Certificate in Social Service](https://www.ssi.gov.sg/training/cet-programmes/advanced-certificate-in-social-service/){:target="_blank"} 
