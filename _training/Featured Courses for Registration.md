@@ -64,6 +64,9 @@ This is an introductory workshop catered for social workers with less than one y
 <br> (Registration Closing Date:  29 Apr 2022)
 <br>
 
+<br>
+<br>
+<br>
 
 ***Course funding is available!**
 * **For Singapore Citizens and Permanent Residents:** [SSG funding is available](https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html){:target="_blank"}  <br>
