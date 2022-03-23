@@ -52,6 +52,10 @@ With the qualification attained, learners can apply for jobs as a Social Service
   
 Course fees must be paid prior to the course start date, upon the acceptance of offer and within the given timeline provided in the offer letter.  
 
+Learners must achieve at least 75% attendance per module and be certified competent in all the assessment components in order to be eligible for SkillsFuture Singapore (SSG) funding. Learners or their sponsoring organisations will have to pay the full course fees in the event that the learners fail to meet the attendance/ assessment requirements and/or any other terms and conditions for SSG funding eligibility. Please refer to this [link](https://www.ssg.gov.sg/programmes-and-initiatives/training-grants/self-sponsored-training-for-individuals.html) for more information on the SSG funding eligibility requirement.
+
+*Please note that course fees are subjected to changes.
+
 
 ### Application Guidelines
 Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI_ACSS_Application_Form.pdf), with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration#/Course) between 1 - 29 April 2022.
