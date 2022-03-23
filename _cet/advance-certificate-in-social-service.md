@@ -20,7 +20,7 @@ Applicants must:
 Applicants should also possess at least one of the following criteria:
 
 -   At least 2 years of working experience (for applicants with a minimum of 3 GCE 'O' level credits).
--   At least 1.5 years of full-time working experience (for applicants with a NITEC in Community Care and Social Services).
+-   NITEC in Community Care and Social Services with at least 1.5 years of full-time working experience (including Industry Attachment)
 
 ### Target Audience
 
@@ -54,7 +54,7 @@ Course fees must be paid prior to the course start date, upon the acceptance of 
 
 
 ### Application Guidelines
-Applicants to download and fill the Application Form *(to be announced)*, and upload the completed application form together with all relevant supporting documents before submitting the online registration for the programme at SSI Registration Portal *(to be announced in April 2022)*. 
+Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI_ACSS_Application_Form.pdf), with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration#/Course) by 29 April 2022.
 
 
 | Description | Date | |
@@ -67,8 +67,11 @@ Applicants to download and fill the Application Form *(to be announced)*, and up
 Applicants may also be called to attend an online interview with the selection panel on the dates specified above. Applicants will receive an email from SSI informing them about the assigned interview date and time and are required to make themselves available for the interview accordingly. Requests for alternative arrangements will not be considered.
 
 ### Preview Session
-Preview date: TBC
+Date: 13 April 2022
+Time: 7pm
+<br>Do register at https://form.gov.sg/62385ba121abcd00130fb13c to receive the Zoom link 3 days before the actual session. 
+
 
 ### FAQs
 
-Refer to this [link](/images/training/FAQ-for-Advanced-Certificate-in-Social-Service(1).pdf){:target="_blank"} for FAQs relating to this programme.
+Refer to this [link](/files/Files%20for%20Learners/FAQ-for-Advanced-Certificate-in-Social-Service-21Mar22.pdf){:target="_blank"} for FAQs relating to this programme.
