@@ -63,5 +63,7 @@ This is an introductory workshop catered for social workers with less than one y
 <br> (Registration Closing Date:  29 Apr 2022)
 
 
-
-###### * [SSG funding](https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html){:target="_blank"}  is available for Singapore Citizens and Permanent Residents. <br>* [VCF funding](https://www.ncss.gov.sg/grants-search/detail-page/VCFProfessionalCapabilityGrant-LocalTraining){:target="_blank"}  is available for foreigners who are staff of NCSS Member Social Service Agencies via Direct Training Application. <br>* Terms and conditions apply.
+**Note: Course funding is available!**
+* **For Singapore Citizens and Permanent Residents:** [SSG funding is available](https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html){:target="_blank"}  <br>
+***For foreigners who are staff of NCSS Member Social Service Agencies:** [VCF funding is available via Direct Training Application.](https://www.ncss.gov.sg/grants-search/detail-page/VCFProfessionalCapabilityGrant-LocalTraining){:target="_blank"} <br>
+* Terms and conditions apply.
