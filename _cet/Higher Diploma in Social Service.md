@@ -13,7 +13,7 @@ The programme covers a wide range of concepts, which includes human behaviour, f
 
 Successful applicants will also be required to attend an Academic Integrity Workshop and participate in a Social Service Field Experience to better prepare them for the programme and help them in their learning journey. 
 
-SSI’s HDSS programme also provides an articulation pathway into the Bachelors’ in Social Work Degree Programme offered by Singapore University of Social Services (SUSS), for learners who want to pursue a further education and their aspiration to become a Social Worker.
+SSI’s HDSS programme also provides an articulation pathway into Bachelor in Social Work at the Singapore University of Social Services (SUSS), for learners who want to pursue a further education and their aspiration to become a Social Worker.
 
 ### Entry Requirements
 
@@ -74,7 +74,7 @@ Learners must achieve at least 75% attendance per module and be certified compet
 
 ### Application Guidelines
 
-Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI_HDSS_Application_Form.pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}  between 1 - 29 April 2022. 
+Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI_HDSS_Application_Form_22.pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-2){:target="_blank"}  between 1 - 29 April 2022. 
 
 
 | Description | Date | |
