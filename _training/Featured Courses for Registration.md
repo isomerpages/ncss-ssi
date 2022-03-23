@@ -10,11 +10,18 @@ description: "Check out the latest courses that are open for registration at the
 <br>(Updated on 14 March 2022)
 
 **Cross Sector**
-* **[Case Management in Practice: Introduction (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5228)**
-<br>This is an introductory workshop catered for social workers with less than one year of experience. Gain a broad understanding on the fundamentals of case management to achieve client wellness and autonomy.
-<br>(Registration Closing Date: 7 Apr 2022)
 
-* **[May I Help You? (Boleh Saya Bantu Anda?) - Conversational Malay for Social Service Practitioners  (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5647)**
+* [Case Management in Practice: Introduction (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5228 ){:target="_blank"}  
+(Registration Closing Date: 7 Apr 2022)
+<br>This is an introductory workshop catered for social workers with less than one year of experience. Gain a broad understanding on the fundamentals of case management to achieve client wellness and autonomy.
+
+
+
+* **[Case Management in Practice: Introduction (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5647)**{:target="_blank"} 
+<br>This basic conversational Malay course is designed to equip frontline social service practitioners with commonly used terms and phrases to better communicate with their clients during home visits or when assessing financial needs.
+<br>(Registration Closing Date: 6 Apr 2022)
+
+* **[May I Help You? (Boleh Saya Bantu Anda?) - Conversational Malay for Social Service Practitioners  (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5647)**{:target="_blank"} 
 <br>This basic conversational Malay course is designed to equip frontline social service practitioners with commonly used terms and phrases to better communicate with their clients during home visits or when assessing financial needs.
 <br>(Registration Closing Date: 6 Apr 2022)
 
