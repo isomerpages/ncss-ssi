@@ -63,12 +63,9 @@ This is an introductory workshop catered for social workers with less than one y
 <br>Designed for new entrants and existing Social Service Professionals who aspire to be Social Work Associates. The programme covers a wide range of concepts, which includes human behaviour, family life cycles, psychology, sociology and culture, and their application in working with vulnerable clients and stakeholders.
 <br> (Registration Closing Date:  29 Apr 2022)
 <br>
-<br>
-<br>
-<br>
-<br>
 
-**Note: Course funding is available!**
+
+***Course funding is available!**
 * **For Singapore Citizens and Permanent Residents:** [SSG funding is available](https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html){:target="_blank"}  <br>
 ***For foreigners who are staff of NCSS Member Social Service Agencies:** [VCF funding is available via Direct Training Application.](https://www.ncss.gov.sg/grants-search/detail-page/VCFProfessionalCapabilityGrant-LocalTraining){:target="_blank"} <br>
 * Terms and conditions apply.
