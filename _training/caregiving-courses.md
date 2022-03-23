@@ -1,8 +1,8 @@
 ---
 title: Caregiving Courses
 permalink: /training/caregiving/
-description: SSI's caregiving courses provide learners with an understanding of caregiving while also training them in foundational skills.
-
+description: SSI's caregiving courses provide learners with an understanding of
+  caregiving while also training them in foundational skills.
 ---
 ![Social Service Institute (SSI) Singapore - Caregiver Training Courses](/images/training/caregiving_SSI_header-banner-757-x-239px9.jpg) 
 
@@ -21,7 +21,7 @@ The featured courses under the Agency for Integrated Care (AIC) can be found in 
 
 ### News and Articles on Caregiving   
 
-Continue receiving news and articles about developments in Caregiving through GatherHere. If you are interested to join GatherHere, you can drop us an email by [clicking here](mailto:techservices1@gatherhere.sg).
+Continue receiving news and articles about developments in Caregiving through GatherHere. If you are interested to join GatherHere, you can [sign up here](https://go.gov.sg/gh-signup){:target="_blank"} .
 
 ### Subscribe to Our Caregiving Mailing List   
 

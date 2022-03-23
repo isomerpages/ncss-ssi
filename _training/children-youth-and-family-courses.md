@@ -58,7 +58,7 @@ Tony has worked with children and families for more than 10 years, in both the p
 Saw Han previously worked with MSF as a clinical psychologist before heading a research and programme evaluation unit. As a clinical psychologist, she worked with children, young persons and their parents in relation to child protection, juvenile crime and family issues. She is a certified user and trainer for the Transformational and Collaborative Outcome Management (TCOM) implementation framework: Child and Adolescent Needs and Strengths (CANS) and Family and Adult Support Tool (FAST). She has been recognised by the original developer of TCOM, Dr. John Lyons, as one of the local trainers who can train trainers on the use of CANS. She is familiar with the process of TCOM implementation, and was in the pilot project and early phases of TCOM implementation in Singapore.
 
 ### News and Articles   
-Continue receiving news and articles about the Children, Youth & Family sub-sector through GatherHere. If you are interested to join GatherHere, [sign up here](https://form.gov.sg/?fbclid=IwAR2LZepp0zOWNsndk9aR5FXu74PB2iMRy6PO8LHw8XGRsHcbfgSdOjKGRUM#!/615d07730053b40012f5054f){:target="_blank"}.
+Continue receiving news and articles about the Children, Youth & Family sub-sector through GatherHere. If you are interested to join GatherHere, [sign up here](https://go.gov.sg/gh-signup){:target="_blank"}.
 
 ### Subscribe to SSI’s Children, Youth & Family Mailing List   
 Subscribe to SSI’s Children, Youth and Family Courses Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.

@@ -1,8 +1,8 @@
 ---
 title: Board Development Courses
 permalink: training/board-development/
-description: SSI provides courses that develop learners' competencies to effectively lead Non-Profit Organisations.
-
+description: SSI provides courses that develop learners' competencies to
+  effectively lead Non-Profit Organisations.
 ---
 ![Social Service Institute (SSI) Singapore - Board Development Courses](/images/training/Board_development_SSI_Header.jpg)
 
@@ -27,7 +27,7 @@ Otherwise, for Management and Organisational Development courses, you may refer 
 
 ### **News and Articles on Board Development**
 
-Continue receiving news and articles about developments in Non-Profit Board Development through GatherHere. If you are interested to join GatherHere, you can drop us an email by [clicking here](mailto:techservices1@gatherhere.sg).
+Continue receiving news and articles about developments in Non-Profit Board Development through GatherHere. If you are interested to join GatherHere, you can [sign up here](https://go.gov.sg/gh-signup){:target="_blank"}.
 
 ### **Subscribe to Our Board Development Mailing List**
 

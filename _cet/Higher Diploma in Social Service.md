@@ -21,7 +21,10 @@ Applicants should possess the following criteria:
 
 -	A minimum grade of C6 for GCE ‘O’ level English (or its equivalent). 
 -	At least two years of full-time working experience.
--	Complete a complimentary e-learning course “, [Singapore’s Social Compact](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS400){:target="_blank"} (download the e-certificate and submit it upon registration for this programme).
+-	Complete a complimentary e-learning course “, [Singapore’s Social Compact](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS400){:target="_blank"} (download the e-certificate and submit it upon registration for this programme)<sup>1</sup>  . 
+
+
+<sup>1</sup>  This e-learning course provides learners with an overview of the development of Singapore’s social services over the years and introduces them to the principles behind its provision. It also covers the six areas of social service provision and the challenges that lay ahead.
 
 Applicants should also possess any one of the following qualifications:
 
@@ -36,10 +39,6 @@ Applicants should also possess any one of the following qualifications:
  
 All shortlisted applicants will have to sit for a Written Aptitude Test (WAT), which will be conducted on **26 May 2022 at 10.30am/3.00pm or 27 May 2022 at 10.30am/3.00pm**. Only applicants who successfully pass the WAT will be considered for admission into the programme.
 
-This e-learning course provides learners with an overview of the development of Singapore’s social services over the years and introduces them to the principles behind its provision. It also covers the six areas of social service provision and the challenges that lay ahead.
- 
- 
-This e-learning course provides learners with an overview of the development of Singapore’s social services over the years and introduces them to the principles behind its provision. It also covers the six areas of social service provision and the challenges that lay ahead. 
 
 ### Qualifications & Career Prospects
 
@@ -68,13 +67,14 @@ All learners will also be required to undergo the Social Service Field Experienc
 
 Course fees for the programme have to be paid upon acceptance of the offer letter within the timeline provided in the ofter letter.
 
-Learners must achieve at least 75% attendance per module and be certified competent in all the assessment components in order to be eligible for SkillsFuture Singapore (SSG) funding. Learners or their sponsoring organisations will have to pay the full course fees in the event that the learners fail to meet the attendance/ assessment requirements and/or any other terms and conditions for SSG funding eligibility. Please refer to this [link](https://www.skillsconnect.gov.sg){:target="_blank"} for more information on the SSG funding eligibility requirement. 
+Learners must achieve at least 75% attendance per module and be certified competent in all the assessment components in order to be eligible for SkillsFuture Singapore (SSG) funding. Learners or their sponsoring organisations will have to pay the full course fees in the event that the learners fail to meet the attendance/ assessment requirements and/or any other terms and conditions for SSG funding eligibility. Please refer to this [link](https://www.ssg.gov.sg/programmes-and-initiatives/training-grants/self-sponsored-training-for-individuals.html){:target="_blank"}  for more information on the SSG funding eligibility requirement.
 
 *Please note that course fees are subjected to changes.
 
+
 ### Application Guidelines
 
-Applicants to download and fill the Application Form (to be announced), and upload the completed application form together with all relevant supporting documents before submitting the online registration for the programme at SSI Registration Portal (to be announced in April 2022). 
+Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI_HDSS_Application_Form.pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}  between 1 - 29 April 2022. 
 
 
 | Description | Date | |
@@ -90,9 +90,11 @@ All shortlisted applicants will have to sit for a Written Aptitude Test (WAT), w
 
 Applicants may also be called to attend an online interview with the selection panel on the dates specified above. Applicants will receive an email from SSI informing them about the assigned interview date and time and are required to make themselves available for the interview accordingly. Requests for alternative arrangements will not be considered.
 
-### Preview Session
-Preview date: TBC
 
+### Preview Session
+Date: 13 April 2022
+Time: 7pm
+<br>Do register via this [Link](https://form.gov.sg/62385ba121abcd00130fb13c){:target="_blank"} to receive the Zoom link 3 days before the actual session. 
 
 ### FAQs
-[Refer to this link for FAQs relating to this programme.](/files/Files%20for%20Learners/FAQ-for-Higher-Diploma-in-Social-Service.pdf)
+[Refer to this link for FAQs relating to this programme.](/files/Files%20for%20Learners/FAQ-for-Higher-Diploma-in-Social-Service_21Mar22.pdf){:target="_blank"}

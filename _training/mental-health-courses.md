@@ -1,8 +1,8 @@
 ---
 title: Mental Health Courses
 permalink: /training/mental-health/
-description: SSI's mental health courses provides social service professionals with the skills to work with persons with mental health conditions. 
-
+description: SSI's mental health courses provides social service professionals
+  with the skills to work with persons with mental health conditions.
 ---
 ![Social Service Institute (SSI) Singapore - Mental Health Conditions & Recovery Courses](/images/training/mental%20health%20SSI_header-banner-757-x-239px3.jpg)
 
@@ -58,7 +58,7 @@ Lit Soon’s career in the healthcare, social service and eldercare fields spans
 He holds a Master of Arts degree in Applied Psychology from the Nanyang Technological University (NTU), a Bachelor of Arts in Psychology & Social Work from NUS, a Post-Graduate Diploma in Art Psychotherapy from Goldsmiths, University of London, an Advanced Diploma in Fine Arts & Design from the Nanyang Academy of Fine Arts (NAFA) and a Certificate in General Nursing from the School of Nursing, Singapore.
 
 ### News and Articles on Mental Health  
-Continue receiving news and articles about developments in the Mental Health sub sector through GatherHere. If you are interested to join GatherHere, you can drop us an email by [clicking here](mailto:techservices1@gatherhere.sg).
+Continue receiving news and articles about developments in the Mental Health sub sector through GatherHere. If you are interested to join GatherHere, you can [sign up here](https://go.gov.sg/gh-signup){:target="_blank"}.
 
 ### Subscribe to SSI’s Mental Health Mailing List
 Subscribe to SSI’s Mental Health Mailing List through this [link](https://form.gov.sg/606d88983d226f00117f5657){:target="_blank"}.

@@ -1,8 +1,8 @@
 ---
 title: Management and Organisation Development Courses
 permalink: /training/management-and-organisation-development/
-description: SSI provides courses that train learners in management, leadership, fundraising and corporate functions.
-
+description: SSI provides courses that train learners in management, leadership,
+  fundraising and corporate functions.
 ---
 ![Social Service Institute (SSI) Singapore - Social Service / Nonprofit Leadership and Management Training Course](/images/training/Managemnt_and_organization_development_SSI_header-banner-757-x-239px6.jpg)
 
@@ -42,7 +42,7 @@ Suhaimi is the CEO of a consulting/accounting firm providing professional manage
 Usha is the founder of Usha Menon Management Consultancy (Asia), an international training and consultancy service working exclusively with social impact organisations across Asia. Her multi-country client list includes charities, arts/ health/ education institutions, think-tanks, UN entities, International NGOs, social enterprises, philanthropic foundations and capability building organisations. She brings a wealth of multi-country experience, expertise and insights on leadership, management and fundraising. In addition, Usha has helped charities to expand their programme and fundraising capabilities and has transformed charity income sources drastically through local resource mobilisation across Asia, especially in the areas of local private sector fundraising through individual giving, philanthropic investments and corporate engagement.
 
 ### News and Articles on Management and Organisation Development
-Continue receiving news and articles about developments in Management and Organisation Development through GatherHere. If you are interested to join GatherHere, you can drop us an email by [clicking here](mailto:techservices1@gatherhere.sg).
+Continue receiving news and articles about developments in Management and Organisation Development through GatherHere. If you are interested to join GatherHere, you can [sign up here](https://go.gov.sg/gh-signup){:target="_blank"}.
 
 ### Subscribe to Our Management and Organisation Development Mailing List
 Subscribe to SSI’s Management and Organisation Development Mailing List through this [link](https://form.gov.sg/606d8979137b600011984100){:target="_blank"}.

@@ -1,8 +1,7 @@
 ---
 title: Volunteer Development and Management Courses
 permalink: /training/volunteer-development-and-management/
-description: SSI provides courses that both empower volunteers and volunteer managers. 
-
+description: SSI provides courses that both empower volunteers and volunteer managers.
 ---
 ![Social Service Institute (SSI) Singapore - Volunteer Development & Management Courses](/images/training/Volunteer_SSI_header-banner-757-x-239px8.jpg)
 
@@ -47,8 +46,8 @@ Anne Marie holds a master’s degree in social work and psychology and a bachelo
 Moy Yin has a Master of Arts in Education and Human Resource Development with the George Washington University (GW). She is also a graduate of the National University of Singapore (NUS) and has a diploma in human resource development (gold medal) from the Singapore Institute of Management (SIM). Moy Yin has more than 12 years of experience in human resources specialising in volunteer management and has provided consultancy services for the Singapore Sports Council (SSC) and the National Arts Council (NAC). Moy Yin is also the co-founder and vice president of Managing & Organising Volunteer Efforts (MOVE), which isthe national professional body for volunteer programme managers.
 
 ### News and Articles on Volunteer Development & Management
-Continue receiving news and articles about developments in the Volunteer Development & Management sector through GatherHere. If you are interested to join GatherHere, you can drop us an email by [clicking here](mailto:techservices1@gatherhere.sg).
+Continue receiving news and articles about developments in the Volunteer Development & Management sector through GatherHere. If you are interested to join GatherHere, you can [sign up here](https://go.gov.sg/gh-signup){:target="_blank"}.
+
 
 ### Subscribe to Our Volunteer Development & Management
 Subscribe to SSI’s Volunteer Development & Management Mailing List through this [link](https://form.gov.sg/606d89aa18510a0011c8465f){:target="_blank"}.
-

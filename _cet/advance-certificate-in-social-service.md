@@ -20,7 +20,7 @@ Applicants must:
 Applicants should also possess at least one of the following criteria:
 
 -   At least 2 years of working experience (for applicants with a minimum of 3 GCE 'O' level credits).
--   At least 1.5 years of full-time working experience (for applicants with a NITEC in Community Care and Social Services).
+-   NITEC in Community Care and Social Services with at least 1.5 years of full-time working experience (including Industry Attachment)
 
 ### Target Audience
 
@@ -38,7 +38,7 @@ Upon successful completion of all five WSQ modules, learners will be awarded wit
   
 Upon completion of all ten modules, learners will be awarded an Advanced Certificate in Social Service.  
   
-With the qualification attained, learners can apply for jobs as a Social Service Assistant or as senior house parents, programme coordinators, senior home helpers and home care workers. Click  [here](http://www.ncss.gov.sg/Social-Service-Tribe/CareersDetail/Social-Work){:target="_blank"}     to find out more.
+With the qualification attained, learners can apply for jobs as a Social Service Assistant or as senior house parents, programme coordinators, senior home helpers and home care workers. Click  [here](http://www.ncss.gov.sg/Social-Service-Tribe/CareersDetail/Social-Work){:target="_blank"} to find out more.
 
 ### Course Details
 
@@ -52,9 +52,13 @@ With the qualification attained, learners can apply for jobs as a Social Service
   
 Course fees must be paid prior to the course start date, upon the acceptance of offer and within the given timeline provided in the offer letter.  
 
+Learners must achieve at least 75% attendance per module and be certified competent in all the assessment components in order to be eligible for SkillsFuture Singapore (SSG) funding. Learners or their sponsoring organisations will have to pay the full course fees in the event that the learners fail to meet the attendance/ assessment requirements and/or any other terms and conditions for SSG funding eligibility. Please refer to this [link](https://www.ssg.gov.sg/programmes-and-initiatives/training-grants/self-sponsored-training-for-individuals.html){:target="_blank"}  for more information on the SSG funding eligibility requirement.
+
+*Please note that course fees are subjected to changes.
+
 
 ### Application Guidelines
-Applicants to download and fill the Application Form *(to be announced)*, and upload the completed application form together with all relevant supporting documents before submitting the online registration for the programme at SSI Registration Portal *(to be announced in April 2022)*. 
+Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI_ACSS_Application_Form.pdf){:target="_blank"} , with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}  between 1 - 29 April 2022.
 
 
 | Description | Date | |
@@ -67,8 +71,11 @@ Applicants to download and fill the Application Form *(to be announced)*, and up
 Applicants may also be called to attend an online interview with the selection panel on the dates specified above. Applicants will receive an email from SSI informing them about the assigned interview date and time and are required to make themselves available for the interview accordingly. Requests for alternative arrangements will not be considered.
 
 ### Preview Session
-Preview date: TBC
+Date: 13 April 2022
+Time: 7pm
+<br>Do register via this [link](https://form.gov.sg/62385ba121abcd00130fb13c){:target="_blank"}  to receive the Zoom link 3 days before the actual session. 
+
 
 ### FAQs
 
-Refer to this [link](/images/training/FAQ-for-Advanced-Certificate-in-Social-Service(1).pdf){:target="_blank"} for FAQs relating to this programme.
+Refer to this [link](/files/Files%20for%20Learners/FAQ-for-Advanced-Certificate-in-Social-Service-21Mar22.pdf){:target="_blank"} for FAQs relating to this programme.
