@@ -10,7 +10,7 @@ description: "Check out the latest courses that are open for registration at the
 <br>(Updated on 14 March 2022)
 
 **Cross Sector**
-* **[Case Management in Practice: Introduction (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5228)**{:target="_blank"} ** 
+* **[Case Management in Practice: Introduction (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5228)**
 <br>This is an introductory workshop catered for social workers with less than one year of experience. Gain a broad understanding on the fundamentals of case management to achieve client wellness and autonomy.
 <br>(Registration Closing Date: 7 Apr 2022)
 
