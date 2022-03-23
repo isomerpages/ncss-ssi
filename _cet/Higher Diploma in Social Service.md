@@ -21,7 +21,7 @@ Applicants should possess the following criteria:
 
 -	A minimum grade of C6 for GCE ‘O’ level English (or its equivalent). 
 -	At least two years of full-time working experience.
--	Complete a complimentary e-learning course “, [Singapore’s Social Compact](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS400){:target="_blank"} (download the e-certificate and submit it upon registration for this programme)<sup>1</sup>  . 
+-	Complete a complimentary e-learning course “, [Singapore’s Social Compact](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS400)(download the e-certificate and submit it upon registration for this programme)<sup>1</sup>  . 
 
 
 <sup>1</sup>  This e-learning course provides learners with an overview of the development of Singapore’s social services over the years and introduces them to the principles behind its provision. It also covers the six areas of social service provision and the challenges that lay ahead.
@@ -67,14 +67,14 @@ All learners will also be required to undergo the Social Service Field Experienc
 
 Course fees for the programme have to be paid upon acceptance of the offer letter within the timeline provided in the ofter letter.
 
-Learners must achieve at least 75% attendance per module and be certified competent in all the assessment components in order to be eligible for SkillsFuture Singapore (SSG) funding. Learners or their sponsoring organisations will have to pay the full course fees in the event that the learners fail to meet the attendance/ assessment requirements and/or any other terms and conditions for SSG funding eligibility. Please refer to this [link](https://www.ssg.gov.sg/programmes-and-initiatives/training-grants/self-sponsored-training-for-individuals.html) {:target="_blank"} for more information on the SSG funding eligibility requirement.
+Learners must achieve at least 75% attendance per module and be certified competent in all the assessment components in order to be eligible for SkillsFuture Singapore (SSG) funding. Learners or their sponsoring organisations will have to pay the full course fees in the event that the learners fail to meet the attendance/ assessment requirements and/or any other terms and conditions for SSG funding eligibility. Please refer to this [link](https://www.ssg.gov.sg/programmes-and-initiatives/training-grants/self-sponsored-training-for-individuals.html) for more information on the SSG funding eligibility requirement.
 
 *Please note that course fees are subjected to changes.
 
 
 ### Application Guidelines
 
-Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI_HDSS_Application_Form.pdf), with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}  between 1 - 29 April 2022. 
+Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI_HDSS_Application_Form.pdf), with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration#/Course) between 1 - 29 April 2022. 
 
 
 | Description | Date | |
