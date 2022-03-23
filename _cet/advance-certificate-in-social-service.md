@@ -38,7 +38,7 @@ Upon successful completion of all five WSQ modules, learners will be awarded wit
   
 Upon completion of all ten modules, learners will be awarded an Advanced Certificate in Social Service.  
   
-With the qualification attained, learners can apply for jobs as a Social Service Assistant or as senior house parents, programme coordinators, senior home helpers and home care workers. Click  [here](http://www.ncss.gov.sg/Social-Service-Tribe/CareersDetail/Social-Work){:target="_blank"}     to find out more.
+With the qualification attained, learners can apply for jobs as a Social Service Assistant or as senior house parents, programme coordinators, senior home helpers and home care workers. Click  [here](http://www.ncss.gov.sg/Social-Service-Tribe/CareersDetail/Social-Work){:target="_blank"} to find out more.
 
 ### Course Details
 
@@ -54,7 +54,7 @@ Course fees must be paid prior to the course start date, upon the acceptance of 
 
 
 ### Application Guidelines
-Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI_ACSS_Application_Form.pdf), with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration#/Course) by 29 April 2022.
+Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI_ACSS_Application_Form.pdf), with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration#/Course) between 1 - 29 April 2022.
 
 
 | Description | Date | |
