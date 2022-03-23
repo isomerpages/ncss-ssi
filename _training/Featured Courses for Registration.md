@@ -61,3 +61,6 @@ This is an introductory workshop catered for social workers with less than one y
 * [Higher Diploma in Social Service](https://www.ssi.gov.sg/training/cet-programmes/higher-diploma-in-social-service/){:target="_blank"} 
 <br>Designed for new entrants and existing Social Service Professionals who aspire to be Social Work Associates. The programme covers a wide range of concepts, which includes human behaviour, family life cycles, psychology, sociology and culture, and their application in working with vulnerable clients and stakeholders.
 <br> (Registration Closing Date:  29 Apr 2022)
+
+
+###### * SSG funding is available for Singapore Citizens and Permanent Residents. <br>* VCF funding is available for foreigners who are staff of NCSS Member Social Service Agencies via Direct Training Application. <br>* Terms and conditions apply.
