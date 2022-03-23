@@ -63,4 +63,5 @@ This is an introductory workshop catered for social workers with less than one y
 <br> (Registration Closing Date:  29 Apr 2022)
 
 
+
 ###### * SSG funding is available for Singapore Citizens and Permanent Residents. <br>* VCF funding is available for foreigners who are staff of NCSS Member Social Service Agencies via Direct Training Application. <br>* Terms and conditions apply.
