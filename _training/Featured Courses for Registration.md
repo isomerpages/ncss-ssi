@@ -18,8 +18,9 @@ description: "Check out the latest courses that are open for registration at the
 
 
 * **[Case Management in Practice: Introduction (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5647)**{:target="_blank"} 
+(Registration Closing Date: 6 Apr 2022)
 <br>This basic conversational Malay course is designed to equip frontline social service practitioners with commonly used terms and phrases to better communicate with their clients during home visits or when assessing financial needs.
-<br>(Registration Closing Date: 6 Apr 2022)
+
 
 * **[May I Help You? (Boleh Saya Bantu Anda?) - Conversational Malay for Social Service Practitioners  (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5647)**{:target="_blank"} 
 <br>This basic conversational Malay course is designed to equip frontline social service practitioners with commonly used terms and phrases to better communicate with their clients during home visits or when assessing financial needs.
