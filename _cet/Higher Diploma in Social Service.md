@@ -74,7 +74,8 @@ Learners must achieve at least 75% attendance per module and be certified compet
 
 ### Application Guidelines
 
-Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI_HDSS_Application_Form.pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}  between 1 - 29 April 2022. 
+Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI_HDSS_Application_Form_22.pdf)
+{:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-2){:target="_blank"}  between 1 - 29 April 2022. 
 
 
 | Description | Date | |
