@@ -6,8 +6,9 @@ description: "Check out the latest courses that are open for registration at the
   courses that we offer:  Children, Youth & Family | Disability | Mental Health
   | Volunteer Development | Caregiving | Cross Sector | Board Development "
 ---
-**(A) Courses are now open for registration. Sign up now!**
+**Courses are now open for registration. Sign up now!**
 <br>(Updated on 31 March 2022)
+
 
 **CET Programmes**
 * [Advanced Certificate in Social Service](https://www.ssi.gov.sg/training/cet-programmes/advanced-certificate-in-social-service/){:target="_blank"} 
