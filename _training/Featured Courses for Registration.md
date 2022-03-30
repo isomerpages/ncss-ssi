@@ -7,7 +7,19 @@ description: "Check out the latest courses that are open for registration at the
   | Volunteer Development | Caregiving | Cross Sector | Board Development "
 ---
 **(A) Courses are now open for registration. Sign up now!**
-<br>(Updated on 23 March 2022)
+<br>(Updated on 31 March 2022)
+
+**CET Programmes**
+* [Advanced Certificate in Social Service](https://www.ssi.gov.sg/training/cet-programmes/advanced-certificate-in-social-service/){:target="_blank"} 
+<br>This foundational course will provide social service professionals with the necessary knowledge and skills sets (including para-counselling) required to carry out their roles effectively when working with clients, partners and stakeholders.
+<br><br>**Course Date:**  15 Aug - 29 Sep 2022
+<br> **Registration Closing Date:** 29 Apr 2022
+
+
+* [Higher Diploma in Social Service](https://www.ssi.gov.sg/training/cet-programmes/higher-diploma-in-social-service/){:target="_blank"} 
+<br>Designed for new entrants and existing Social Service Professionals who aspire to be Social Work Associates. The programme covers a wide range of concepts, which includes human behaviour, family life cycles, psychology, sociology and culture, and their application in working with vulnerable clients and stakeholders.
+<br><br>**Course Date:**  15 Aug - 30 Dec 2023
+<br> **Registration Closing Date:** 29 Apr 2022
 
 
 **Children, Youth and Family**
@@ -65,17 +77,7 @@ This is an introductory workshop catered for social workers with less than one y
 <br> **Registration Closing Date:** 27 April 2022
 <br>
 
-**(b) Registration opens on 1st April!**
-* [Advanced Certificate in Social Service](https://www.ssi.gov.sg/training/cet-programmes/advanced-certificate-in-social-service/){:target="_blank"} 
-<br>This foundational course will provide social service professionals with the necessary knowledge and skills sets (including para-counselling) required to carry out their roles effectively when working with clients, partners and stakeholders.
-<br><br>**Course Date:**  15 Aug - 29 Sep 2022
-<br> **Registration Closing Date:** 29 Apr 2022
 
-
-* [Higher Diploma in Social Service](https://www.ssi.gov.sg/training/cet-programmes/higher-diploma-in-social-service/){:target="_blank"} 
-<br>Designed for new entrants and existing Social Service Professionals who aspire to be Social Work Associates. The programme covers a wide range of concepts, which includes human behaviour, family life cycles, psychology, sociology and culture, and their application in working with vulnerable clients and stakeholders.
-<br><br>**Course Date:**  15 Aug - 30 Dec 2023
-<br> **Registration Closing Date:** 29 Apr 2022
 <br>
 
 <br>
