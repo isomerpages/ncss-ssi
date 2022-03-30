@@ -54,7 +54,9 @@ This is an introductory workshop catered for social workers with less than one y
 **Management and Organisational Development**
 
 * [Strategy Execution in Disruptive Times - By DPIA (Synchronous)](https://forms.gle/GaTLPjDhJvptbHLd9){:target="_blank"} 
-<br> What does a ‘roll-out ready’ business strategy look like in the social services sector? Join this one-day workshop to gain deeper insight into the frameworks, processes and guidelines for effective strategy implementation, and learn how you can better manage fallouts in your current strategy for growth and improved performance. <br> (Registration Closing Date: 8 Apr 2022)
+<br> What does a ‘roll-out ready’ business strategy look like in the social services sector? Join this one-day workshop to gain deeper insight into the frameworks, processes and guidelines for effective strategy implementation, and learn how you can better manage fallouts in your current strategy for growth and improved performance. 
+<br><br>**Course Date:**  20 April 2022
+<br> **Registration Closing Date:** 8 Apr 2022
 
 
 * [Leadership and People Management Training Courses - with Capelle (Synchronous)](https://forms.office.com/r/MBdJgS9VLB){:target="_blank"} 
