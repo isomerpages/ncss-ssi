@@ -9,6 +9,15 @@ description: "Check out the latest courses that are open for registration at the
 **(A) Courses are now open for registration. Sign up now!**
 <br>(Updated on 23 March 2022)
 
+
+**Children, Youth and Family**
+
+* [Certified User for Child and Adolescent Needs and Strengths (CANS) (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Coursecoursecode=SCYF5894){:target="_blank"}   <br> Learn how the CANS assessment tool can help caseworkers working with Children, Youth and Family to provide optimal levels of support according to their needs and strengths. Developed in collaboration with the Ministry of Social and Family Development (MSF), this training will provide critical competencies needed to administer CANS efficiently. 
+<br>
+<br>**Course Date:** 13 - 16 Jun 2022
+<br> **Registration Closing Date:** 16 May 2022
+
+
 **Cross Sector**
 
 * [Case Management in Practice: Introduction (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5228){:target="_blank"}  
@@ -38,11 +47,6 @@ This is an introductory workshop catered for social workers with less than one y
 
 
 **Management and Organisational Development**
-
-* [Strategic Innovation: Pure & Simple - By DPIA (Synchronous)](https://docs.google.com/forms/d/e/1FAIpQLSc3r8kfWF7_XaJdA1wka4GUVzi_0Uhr7V9NXSLxAwj_JToWYg/viewform){:target="_blank"} 
-<br> Discover the importance of innovation in the social service sector. Gain insight on the strategies and methods you can employ to embed a culture of innovation in your organisation.
-<br> (Registration Closing Date: 18 March 2022)
-
 
 * [Strategy Execution in Disruptive Times - By DPIA (Synchronous)](https://forms.gle/GaTLPjDhJvptbHLd9){:target="_blank"} 
 <br> What does a ‘roll-out ready’ business strategy look like in the social services sector? Join this one-day workshop to gain deeper insight into the frameworks, processes and guidelines for effective strategy implementation, and learn how you can better manage fallouts in your current strategy for growth and improved performance. <br> (Registration Closing Date: 8 Apr 2022)
