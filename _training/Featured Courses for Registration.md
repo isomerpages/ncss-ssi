@@ -10,7 +10,7 @@ description: "Check out the latest courses that are open for registration at the
 <br>(Updated on 31 March 2022)
 
 
-**CET Programmes**
+#### **CET Programmes**
 * [Advanced Certificate in Social Service](https://www.ssi.gov.sg/training/cet-programmes/advanced-certificate-in-social-service/){:target="_blank"} 
 <br>This foundational course will provide social service professionals with the necessary knowledge and skills sets (including para-counselling) required to carry out their roles effectively when working with clients, partners and stakeholders.
 <br><br>**Course Date:**  15 Aug - 29 Sep 2022
@@ -23,14 +23,14 @@ description: "Check out the latest courses that are open for registration at the
 <br> **Registration Closing Date:** 29 Apr 2022
 
 
-**Children, Youth and Family**
+#### **Children, Youth and Family**
 
 * [Certified User for Child and Adolescent Needs and Strengths (CANS) (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Coursecoursecode=SCYF5894){:target="_blank"}   <br> Learn how the CANS assessment tool can help caseworkers to provide optimal levels of support based on needs and strengths of cases while working with Children, Youth and Family. Developed in collaboration with the Ministry of Social and Family Development (MSF), this training will provide critical competencies needed to administer CANS efficiently. 
 <br><br>**Course Date:** 13 - 16 June 2022
 <br> **Registration Closing Date:** 16 May 2022
 
 
-**Cross Sector**
+#### **Cross Sector**
 
 * [Case Management in Practice: Introduction (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5228){:target="_blank"}  
 This is an introductory workshop catered for social workers with less than one year of experience. Gain a broad understanding on the fundamentals of case management to achieve client wellness and autonomy.
@@ -44,7 +44,7 @@ This is an introductory workshop catered for social workers with less than one y
 <br> **Registration Closing Date:** 6 April 2022
 
 
-**Disability**
+#### **Disability**
 * [Managing Sexuality Issues of Adults with Intellectual Disabilities (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS6064){:target="_blank"} 
 <br>Help adults with intellectual disabilities to understand and manage their perceptions on sexuality. *Course conducted by Clinical Psychologists.
 <br><br>**Course Date:** 4 - 5 May 2022
@@ -64,7 +64,7 @@ This is an introductory workshop catered for social workers with less than one y
 <br>
 
 
-**Management and Organisational Development**
+#### **Management and Organisational Development**
 
 * [Strategy Execution in Disruptive Times - By DPIA (Synchronous)](https://forms.gle/GaTLPjDhJvptbHLd9){:target="_blank"} 
 <br> What does a ‘roll-out ready’ business strategy look like in the social services sector? Join this one-day workshop to gain deeper insight into the frameworks, processes and guidelines for effective strategy implementation, and learn how you can better manage fallouts in your current strategy for growth and improved performance. 
