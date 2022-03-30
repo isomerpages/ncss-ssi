@@ -27,23 +27,27 @@ This is an introductory workshop catered for social workers with less than one y
 
 * [May I Help You? (Boleh Saya Bantu Anda?) - Conversational Malay for Social Service Practitioners  (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5647){:target="_blank"} 
 <br>This basic conversational Malay course is designed to equip frontline social service practitioners with commonly used terms and phrases to better communicate with their clients during home visits or when assessing financial needs.
-<br>(Registration Closing Date: 6 Apr 2022)
+<br><br>**Course Date:** 8 - 10 Jun 2022
+<br> **Registration Closing Date:** 6 Apr 2022
 
 
 **Disability**
 * [Managing Sexuality Issues of Adults with Intellectual Disabilities (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS6064){:target="_blank"} 
 <br>Help adults with intellectual disabilities to understand and manage their perceptions on sexuality. *Course conducted by Clinical Psychologists.
-<br>(Registration Closing Date: 30 Mar 2022)
+<br><br>**Course Date:** 4 - 5 May 2022
+<br> **Registration Closing Date:** 30 Mar 2022
 
 
 * [Positive Behaviour Support for Persons with Disabilities (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS172){:target="_blank"} 
 <br>Using evidence-based Positive Behaviour Support principles, this workshop aims to impart practical hands-on application skills and communication techniques to help practitioners overcome barriers when supporting clients with severe challenging behaviours of concern.
-<br>(Registration Closing Date: 18 Apr 2022)
+<br><br>**Course Date:**  20 - 27 June 2022
+<br> **Registration Closing Date:** 18 Apr 2022
 
 
 * [Strategies for Development of Hand Function, Pre-Writing and Handwriting Skills for Children (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS5789){:target="_blank"} 
 <br> Learn how to identify and apply strategies to address issues related to hand function, pre-writing and handwriting skills in early childhood development.
-<br>(Registration Closing Date: 25 Apr 2022)
+<br><br>**Course Date:**  20 - 21 June 2022
+<br> **Registration Closing Date:** 25 Apr 2022
 <br>
 
 
