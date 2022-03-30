@@ -85,7 +85,7 @@ This is an introductory workshop catered for social workers with less than one y
 <br>
 <br>
 
-***Course funding is available!**
+##### ***Course funding is available!**
 * **For Singapore Citizens, Permanent Residents and LTVP+ holders:** [SSG funding is available](https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html){:target="_blank"}  <br>
 * **For foreigners who are staff of NCSS Member Social Service Agencies:** [VCF funding is available via Direct Training Application.](https://www.ncss.gov.sg/grants-search/detail-page/VCFProfessionalCapabilityGrant-LocalTraining){:target="_blank"} <br>
 * Terms and conditions apply.
