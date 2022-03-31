@@ -2,11 +2,10 @@
 title: VWOs Charities Capability Fund (VCF)
 permalink: /training/funding-information/vwos-charities-capability-fund-(vcf)/
 third_nav_title: Funding Information
-description: VCF training grant is available to SSI learners. Find out more about the eligibility criteria and application procedures here.
-
+description: VCF training grant is available to SSI learners. Find out more
+  about the eligibility criteria and application procedures here.
 ---
-
-  **Eligibility Criteria**  
+**Eligibility Criteria**  
 
   To be eligible for VCF, you must:
 
@@ -15,7 +14,7 @@ description: VCF training grant is available to SSI learners. Find out more abou
 
   Staff from NCSS member Social Service Organisations and MSF-funded agencies who are Employment Pass, Work Permit or S Pass holders are also eligible for VCF funding.  
 
-  However, there is no VCF pre-approved training grant for customised training session(s) for your organisation. Eligible NPOs and Social Service Organisations can  [apply directly to VCF](https://www.ncss.gov.sg/Grants-Search/VCF-Professional-Capability-Grant-Local-Training){:target="_blank"}      for funding, and will be required to pay full course fees to SSI.   
+  However, there is no VCF pre-approved training grant for customised training session(s) for your organisation. Eligible NPOs and Social Service Organisations can  [apply directly to VCF](https://app.ncss.gov.sg/?PartnerId=https%3a%2f%2fe-services.ncss.gov.sg%2fLogin%2fVLoginReturn&targeturl=%2f){:target="_blank"}      for funding, and will be required to pay full course fees to SSI.   
 
 
 **Funding Scheme**
@@ -33,4 +32,4 @@ In the event that you fail to meet the attendance/assessment requirements and te
 |--|
 |Calculation: <br> 60% of course fee ($650) = $390 <br> $192 per day x 2 days = $384 <br> VCF funds which amount is lower, which in this case is $384, and which is below the cap of $600.<br> There the course fee after funding = $600 - $384 = $266 |
 
-For more information on the VWOs-Charities Capability Fund (VCF) Training Grant,  [click here.](https://www.ncss.gov.sg/Grants-Search/VCF-Professional-Capability-Grant-Local-Training){:target="_blank"}   
+For more information on the VWOs-Charities Capability Fund (VCF) Training Grant,  [click here.](https://www.ncss.gov.sg/NCSS/media/VCF/Home.html){:target="_blank"}
