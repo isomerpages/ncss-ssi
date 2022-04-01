@@ -30,7 +30,7 @@ description: "Check out the latest courses that are open for registration at the
 <br> **Registration Closing Date:** 16 May 2022
 
 
-* [Helping Youths Cope with Anger(Synchronous)]( https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5158){:target="_blank"}   <br> Understanding the possible triggers of anger among youths can help guide intervention strategies needed to manage difficult youths. Learn how to apply stage-specific intervention techniques to encourage proper anger management techniques in youths. 
+* [Helping Youths Cope with Anger (Synchronous)]( https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5158){:target="_blank"}   <br> Understanding the possible triggers of anger among youths can help guide intervention strategies needed to manage difficult youths. Learn how to apply stage-specific intervention techniques to encourage proper anger management techniques in youths. 
 <br><br>**Course Date:** 5-7 July 2022
 <br> **Registration Closing Date:** 31 May 2022
 
