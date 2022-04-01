@@ -15,7 +15,7 @@ description: "Check out the latest courses that are open for registration at the
 <br>This foundational course will provide social service professionals with the necessary knowledge and skills sets (including para-counselling) required to carry out their roles effectively when working with clients, partners and stakeholders.
 <br><br>**Course Date:**  15 Aug - 29 Sep 2022
 <br> **Registration Closing Date:** 29 Apr 2022
-
+<br>
 
 * [Higher Diploma in Social Service](https://www.ssi.gov.sg/training/cet-programmes/higher-diploma-in-social-service/){:target="_blank"} 
 <br>Designed for new entrants and existing Social Service Professionals who aspire to be Social Work Associates. The programme covers a wide range of concepts, which includes human behaviour, family life cycles, psychology, sociology and culture, and their application in working with vulnerable clients and stakeholders.
@@ -36,6 +36,7 @@ description: "Check out the latest courses that are open for registration at the
 This is an introductory workshop catered for social workers with less than one year of experience. Gain a broad understanding on the fundamentals of case management to achieve client wellness and autonomy.
 <br><br>**Course Date:** 12 - 13 May 2022
 <br> **Registration Closing Date:** 7 April 2022
+<br>
 
 
 * [May I Help You? (Boleh Saya Bantu Anda?) - Conversational Malay for Social Service Practitioners  (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5647){:target="_blank"} 
@@ -49,13 +50,14 @@ This is an introductory workshop catered for social workers with less than one y
 <br>Help adults with intellectual disabilities to understand and manage their perceptions on sexuality. *Course conducted by Clinical Psychologists.
 <br><br>**Course Date:** 4 - 5 May 2022
 <br> **Registration Closing Date:** 30 March 2022
+<br>
 
 
 * [Positive Behaviour Support for Persons with Disabilities (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS172){:target="_blank"} 
 <br>Using evidence-based Positive Behaviour Support principles, this workshop aims to impart practical hands-on application skills and communication techniques to help practitioners overcome barriers when supporting clients with severe challenging behaviours of concern.
 <br><br>**Course Date:**  20 - 27 June 2022
 <br> **Registration Closing Date:** 18 April 2022
-
+<br>
 
 * [Strategies for Development of Hand Function, Pre-Writing and Handwriting Skills for Children (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS5789){:target="_blank"} 
 <br> Learn how to identify and apply strategies to address issues related to hand function, pre-writing and handwriting skills in early childhood development.
@@ -70,7 +72,7 @@ This is an introductory workshop catered for social workers with less than one y
 <br> What does a ‘roll-out ready’ business strategy look like in the social services sector? Join this one-day workshop to gain deeper insight into the frameworks, processes and guidelines for effective strategy implementation, and learn how you can better manage fallouts in your current strategy for growth and improved performance. 
 <br><br>**Course Date:**  20 April 2022
 <br> **Registration Closing Date:** 8 April 2022
-
+<br>
 
 * [Leadership and People Management Training Courses - with Capelle (Synchronous)](https://forms.office.com/r/MBdJgS9VLB){:target="_blank"} 
 <br>Hone your leadership and management skills with our curated suite of courses for executives, managers and team leaders in the Social Service sector. Learn how to adopt a systematic approach to leading people, enhance your leadership effectiveness and discover how you can better manage remote teams with Capelle’s People Leadership program, held in April 2022. 
