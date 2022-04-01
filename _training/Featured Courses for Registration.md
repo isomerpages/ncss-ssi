@@ -73,25 +73,25 @@ This is an introductory workshop catered for social workers with less than one y
 
 
 #### **Management and Organisational Development**
-
+* [Plan for Facilities Management (Synchronous)]( https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFMT5891){:target="_blank"}   <br> Catered for facility management professionals in the non-profit sector, this programme covers basic concepts on facility planning, scheduling and maintenance which are key to supporting the smooth operation of an organisation’s facilities. 
+<br><br>**Course Date:** 16 – 17 June 2022
+<br> **Registration Closing Date:** 12 May 2022
+<br>
 * [Strategy Execution in Disruptive Times - By DPIA (Synchronous)](https://forms.gle/GaTLPjDhJvptbHLd9){:target="_blank"} 
 <br> What does a ‘roll-out ready’ business strategy look like in the social services sector? Join this one-day workshop to gain deeper insight into the frameworks, processes and guidelines for effective strategy implementation, and learn how you can better manage fallouts in your current strategy for growth and improved performance. 
 <br><br>**Course Date:**  20 April 2022
 <br> **Registration Closing Date:** 8 April 2022
 <br>
 
-* [Leadership and People Management Training Courses - with Capelle (Synchronous)](https://forms.office.com/r/MBdJgS9VLB){:target="_blank"} 
+* [Leadership and People Management Training Courses - by Capelle (Synchronous)](https://forms.office.com/r/MBdJgS9VLB){:target="_blank"} 
 <br>Hone your leadership and management skills with our curated suite of courses for executives, managers and team leaders in the Social Service sector. Learn how to adopt a systematic approach to leading people, enhance your leadership effectiveness and discover how you can better manage remote teams with Capelle’s People Leadership program, held in April 2022. 
 <br><br>**Course Date:**  4, 5 and 11 April 2022
 <br> **Registration Closing Date:** 27 April 2022
 <br>
-* [Plan for Facilities Management (Synchronous)]( https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFMT5891){:target="_blank"}   <br> Catered for facility management professionals in the non-profit sector, this programme covers basic concepts on facility planning, scheduling and maintenance which are key to supporting the smooth operation of an organisation’s facilities. 
-<br><br>**Course Date:** 16 – 17 June 2022
-<br> **Registration Closing Date:** 12 May 2022
+* [Principles of Persuasion – by Erevna Consulting (Synchronous)]( http://www.erevnaleadership.com/register.html){:target="_blank"}   <br> The ability to convince and persuade is an important skillset to have in every workplace. Learn how you can inspire, influence and lead change by making small changes in your communication approaches for better outcomes. 
+<br><br>**Course Date:** 23 – 25 May 2022
+<br> **Registration Closing Date:** 2 May 2022
 
-
-
-<br>
 
 <br>
 <br>
