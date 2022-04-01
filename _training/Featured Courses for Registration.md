@@ -85,6 +85,10 @@ This is an introductory workshop catered for social workers with less than one y
 <br><br>**Course Date:**  4, 5 and 11 April 2022
 <br> **Registration Closing Date:** 27 April 2022
 <br>
+* [Plan for Facilities Management (Synchronous)]( https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFMT5891){:target="_blank"}   <br> Catered for facility management professionals in the non-profit sector, this programme covers basic concepts on facility planning, scheduling and maintenance which are key to supporting the smooth operation of an organisation’s facilities. 
+<br><br>**Course Date:** 16 – 17 June 2022
+<br> **Registration Closing Date:** 12 May 2022
+
 
 
 <br>
