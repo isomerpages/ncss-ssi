@@ -28,9 +28,13 @@ Through LearnHere, Learners can:
 
 
 ### Guides for Using LearnHere
-- [Learner User Guide](/images/resources/iLTMS%20User%20Guide%20for%20Learners.pdf){:target="_blank"}
-- [Trainer User Guide](/images/resources/iLTMS%20User%20Guide%20for%20Trainers.pdf){:target="_blank"}
-- [Client User Guide – For Organisation Sponsored Registration](/images/resources/iLTMS%20User%20Guide%20for%20Organisation%20Sponsored.pdf){:target="_blank"}
-- [Online Registration Portal User Guide](/images/resources/iLTMS%20User%20Guide%20for%20Online%20Registration%20Portal%20.pdf){:target="_blank"}
+
+[Learner User Guide](/files/Files%20for%20Learners/iLTMS%20User%20Guide%20for%20Learners.pdf){:target="_blank"}
+
+[Trainer User Guide](/files/Files%20for%20Learners/iLTMS%20User%20Guide%20for%20Trainers.pdf){:target="_blank"}
+
+[Client User Guide - For Organisation Sponsored](/files/Files%20for%20Learners/iLTMS%20User%20Guide%20for%20Organisation%20Sponsored.pdf) {:target="_blank"}
+
+[Online Registration Portal User Guide](/files/Files%20for%20Learners/iLTMS%20User%20Guide%20for%20Online%20Registration%20Portal%20.pdf){:target="_blank"}
 
 To learn more about LearnHere, email [socialserviceinstitute@ncss.gov.sg](mailto:socialserviceinstitute@ncss.gov.sg)
