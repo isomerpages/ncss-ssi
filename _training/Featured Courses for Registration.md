@@ -80,13 +80,11 @@ This is an introductory workshop catered for social workers with less than one y
 <br> **Registration Closing Date:** 8 April 2022
 
 * [Leadership and People Management Training Courses - by Capelle (Synchronous)](https://forms.office.com/r/MBdJgS9VLB){:target="_blank"} 
-<br>Hone your leadership and management skills with our curated suite of courses for executives, managers and team leaders in the Social Service sector. Learn how to adopt a systematic approach to leading people, enhance your leadership effectiveness and discover how you can better manage remote teams with Capelle’s People Leadership program, held in April 2022. 
-<br><br>**Course Date:**  4, 5 and 11 April 2022
-<br> **Registration Closing Date:** 27 April 2022
+<br>Hone your leadership and management skills with our curated suite of courses for executives, managers and team leaders in the Social Service sector. 
+<br>***a) Group Excellence*** – Learn how to assess diversity issues and align diverse work teams towards common goals and objectives, while building a positive work culture.
+<br>**b) Innovation and Change Management** – Build an innovative, resilient and adaptable organisation by learning how to establish practices that encourage innovation, enterprising behaviour and risk-taking among teams and individuals.<br> * [Principles of Persuasion – by Erevna Consulting (Synchronous)]( http://www.erevnaleadership.com/register.html){:target="_blank"}   <br> The ability to convince and persuade is an important skillset to have in every workplace. Learn how you can inspire, influence and lead change by making small changes in your communication approaches for better outcomes. 
+<br><br>**Course Date:** <br>9 & 10 May 2022 (Group Excellence)<br>26 & 27 May 2022 (Innovation and Change Management) <br><br> **Registration Closing Date:** <br>26 April 2022 (Group Excellence) <br> 13 May 2022 (Innovation and Change Management)
 
-* [Principles of Persuasion – by Erevna Consulting (Synchronous)]( http://www.erevnaleadership.com/register.html){:target="_blank"}   <br> The ability to convince and persuade is an important skillset to have in every workplace. Learn how you can inspire, influence and lead change by making small changes in your communication approaches for better outcomes. 
-<br><br>**Course Date:** 23 – 25 May 2022
-<br> **Registration Closing Date:** 2 May 2022
 
 
 <br>
