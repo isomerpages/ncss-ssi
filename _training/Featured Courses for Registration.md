@@ -30,13 +30,17 @@ description: "Check out the latest courses that are open for registration at the
 <br> **Registration Closing Date:** 16 May 2022
 
 
+* [Helping Youths Cope with Anger (Synchronous)]( https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5158){:target="_blank"}   <br> Understanding the possible triggers of anger among youths can help guide intervention strategies needed to manage difficult youths. Learn how to apply stage-specific intervention techniques to encourage proper anger management techniques in youths. 
+<br><br>**Course Date:** 5-7 July 2022
+<br> **Registration Closing Date:** 31 May 2022
+
+
 #### **Cross Sector**
 
 * [Case Management in Practice: Introduction (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5228){:target="_blank"}  
 This is an introductory workshop catered for social workers with less than one year of experience. Gain a broad understanding on the fundamentals of case management to achieve client wellness and autonomy.
 <br><br>**Course Date:** 12 - 13 May 2022
 <br> **Registration Closing Date:** 7 April 2022
-
 
 * [May I Help You? (Boleh Saya Bantu Anda?) - Conversational Malay for Social Service Practitioners  (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5647){:target="_blank"} 
 <br>This basic conversational Malay course is designed to equip frontline social service practitioners with commonly used terms and phrases to better communicate with their clients during home visits or when assessing financial needs.
@@ -50,36 +54,35 @@ This is an introductory workshop catered for social workers with less than one y
 <br><br>**Course Date:** 4 - 5 May 2022
 <br> **Registration Closing Date:** 30 March 2022
 
-
 * [Positive Behaviour Support for Persons with Disabilities (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS172){:target="_blank"} 
 <br>Using evidence-based Positive Behaviour Support principles, this workshop aims to impart practical hands-on application skills and communication techniques to help practitioners overcome barriers when supporting clients with severe challenging behaviours of concern.
 <br><br>**Course Date:**  20 - 27 June 2022
 <br> **Registration Closing Date:** 18 April 2022
 
-
 * [Strategies for Development of Hand Function, Pre-Writing and Handwriting Skills for Children (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS5789){:target="_blank"} 
 <br> Learn how to identify and apply strategies to address issues related to hand function, pre-writing and handwriting skills in early childhood development.
 <br><br>**Course Date:**  20 - 21 June 2022
 <br> **Registration Closing Date:** 25 April 2022
-<br>
-
 
 #### **Management and Organisational Development**
+* [Plan for Facilities Management (Synchronous)]( https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFMT5891){:target="_blank"}   <br> Catered for facility management professionals in the non-profit sector, this programme covers basic concepts on facility planning, scheduling and maintenance which are key to supporting the smooth operation of an organisation’s facilities. 
+<br><br>**Course Date:** 16 – 17 June 2022
+<br> **Registration Closing Date:** 12 May 2022
 
 * [Strategy Execution in Disruptive Times - By DPIA (Synchronous)](https://forms.gle/GaTLPjDhJvptbHLd9){:target="_blank"} 
 <br> What does a ‘roll-out ready’ business strategy look like in the social services sector? Join this one-day workshop to gain deeper insight into the frameworks, processes and guidelines for effective strategy implementation, and learn how you can better manage fallouts in your current strategy for growth and improved performance. 
 <br><br>**Course Date:**  20 April 2022
 <br> **Registration Closing Date:** 8 April 2022
 
-
-* [Leadership and People Management Training Courses - with Capelle (Synchronous)](https://forms.office.com/r/MBdJgS9VLB){:target="_blank"} 
+* [Leadership and People Management Training Courses - by Capelle (Synchronous)](https://forms.office.com/r/MBdJgS9VLB){:target="_blank"} 
 <br>Hone your leadership and management skills with our curated suite of courses for executives, managers and team leaders in the Social Service sector. Learn how to adopt a systematic approach to leading people, enhance your leadership effectiveness and discover how you can better manage remote teams with Capelle’s People Leadership program, held in April 2022. 
 <br><br>**Course Date:**  4, 5 and 11 April 2022
 <br> **Registration Closing Date:** 27 April 2022
-<br>
 
+* [Principles of Persuasion – by Erevna Consulting (Synchronous)]( http://www.erevnaleadership.com/register.html){:target="_blank"}   <br> The ability to convince and persuade is an important skillset to have in every workplace. Learn how you can inspire, influence and lead change by making small changes in your communication approaches for better outcomes. 
+<br><br>**Course Date:** 23 – 25 May 2022
+<br> **Registration Closing Date:** 2 May 2022
 
-<br>
 
 <br>
 <br>
