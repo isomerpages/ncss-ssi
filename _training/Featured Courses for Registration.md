@@ -64,6 +64,11 @@ This is an introductory workshop catered for social workers with less than one y
 <br><br>**Course Date:**  20 - 21 June 2022
 <br> **Registration Closing Date:** 25 April 2022
 
+#### **Volunteer Development and Management**
+* [Befriending Skills and Practice - For Volunteers (Synchronous)]( https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311){:target="_blank"}   <br> Build skills and knowledge necessary to coordinate befriending projects to practice standards.  <br><br>**Course Date:** 16 - 17 Aug 2022
+<br> **Registration Closing Date:** 12 July 2022
+
+
 #### **Management and Organisational Development**
 * [Plan for Facilities Management (Synchronous)]( https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFMT5891){:target="_blank"}   <br> Catered for facility management professionals in the non-profit sector, this programme covers basic concepts on facility planning, scheduling and maintenance which are key to supporting the smooth operation of an organisation’s facilities. 
 <br><br>**Course Date:** 16 – 17 June 2022
