@@ -7,7 +7,7 @@ description: "Check out the latest courses that are open for registration at the
   | Volunteer Development | Caregiving | Cross Sector | Board Development "
 ---
 **Courses are now open for registration. Sign up now!**
-<br>(Updated on 31 March 2022)
+<br>(Updated on 4 April 2022)
 
 
 #### **CET Programmes**
