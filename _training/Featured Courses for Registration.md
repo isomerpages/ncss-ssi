@@ -85,7 +85,7 @@ This is an introductory workshop catered for social workers with less than one y
 
 * [Leadership and People Management Training Courses - by Capelle (Synchronous)](https://forms.office.com/r/MBdJgS9VLB){:target="_blank"} 
 <br>Hone your leadership and management skills with our curated suite of courses for executives, managers and team leaders in the Social Service sector. 
-<br>***a) Group Excellence*** – Learn how to assess diversity issues and align diverse work teams towards common goals and objectives, while building a positive work culture.
+<br>**a) Group Excellence** – Learn how to assess diversity issues and align diverse work teams towards common goals and objectives, while building a positive work culture.
 <br>**b) Innovation and Change Management** – Build an innovative, resilient and adaptable organisation by learning how to establish practices that encourage innovation, enterprising behaviour and risk-taking among teams and individuals.
 <br><br>**Course Date:** <br>9 & 10 May 2022 (Group Excellence)<br>26 & 27 May 2022 (Innovation and Change Management) <br><br> **Registration Closing Date:** <br>26 April 2022 (Group Excellence) <br> 13 May 2022 (Innovation and Change Management)
 
