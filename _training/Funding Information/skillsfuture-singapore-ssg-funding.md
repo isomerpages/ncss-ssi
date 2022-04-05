@@ -15,7 +15,7 @@ For more information on SkillsFuture Singapore (SSG) Course Fee Funding, click [
 
 ### For Volunteers
 
-If you are a volunteer, you can qualify for the SSG Funding Scheme for Training of Organisation-Sponsored Volunteers as long as you and your organisation fulfil the all the eligibility criteria stated below. Volunteers who are not Singaporeans, PRs or LTVP+ holders can apply directly to VCF for funding.
+If you are a volunteer, you can qualify for the SSG Funding Scheme for Training of Organisation-Sponsored Volunteers as long as you and your organisation fulfil all of the eligibility criteria stated below. Volunteers who are not Singaporeans, PRs or LTVP+ holders can apply directly to VCF for funding.
 
 
 |Party|Eligibity Criteria|
