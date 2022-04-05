@@ -7,7 +7,7 @@ description: "Check out the latest courses that are open for registration at the
   | Volunteer Development | Caregiving | Cross Sector | Board Development "
 ---
 **Courses are now open for registration. Sign up now!**
-<br>(Updated on 31 March 2022)
+<br>(Updated on 4 April 2022)
 
 
 #### **CET Programmes**
@@ -64,6 +64,11 @@ This is an introductory workshop catered for social workers with less than one y
 <br><br>**Course Date:**  20 - 21 June 2022
 <br> **Registration Closing Date:** 25 April 2022
 
+#### **Volunteer Development and Management**
+* [Befriending Skills and Practice - For Volunteers (Synchronous)]( https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311){:target="_blank"}   <br> Build skills and knowledge necessary to coordinate befriending projects to practice standards.  <br><br>**Course Date:** 16 - 17 Aug 2022
+<br> **Registration Closing Date:** 12 July 2022
+
+
 #### **Management and Organisational Development**
 * [Plan for Facilities Management (Synchronous)]( https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFMT5891){:target="_blank"}   <br> Catered for facility management professionals in the non-profit sector, this programme covers basic concepts on facility planning, scheduling and maintenance which are key to supporting the smooth operation of an organisation’s facilities. 
 <br><br>**Course Date:** 16 – 17 June 2022
@@ -74,14 +79,16 @@ This is an introductory workshop catered for social workers with less than one y
 <br><br>**Course Date:**  20 April 2022
 <br> **Registration Closing Date:** 8 April 2022
 
-* [Leadership and People Management Training Courses - by Capelle (Synchronous)](https://forms.office.com/r/MBdJgS9VLB){:target="_blank"} 
-<br>Hone your leadership and management skills with our curated suite of courses for executives, managers and team leaders in the Social Service sector. Learn how to adopt a systematic approach to leading people, enhance your leadership effectiveness and discover how you can better manage remote teams with Capelle’s People Leadership program, held in April 2022. 
-<br><br>**Course Date:**  4, 5 and 11 April 2022
-<br> **Registration Closing Date:** 27 April 2022
-
 * [Principles of Persuasion – by Erevna Consulting (Synchronous)]( http://www.erevnaleadership.com/register.html){:target="_blank"}   <br> The ability to convince and persuade is an important skillset to have in every workplace. Learn how you can inspire, influence and lead change by making small changes in your communication approaches for better outcomes. 
-<br><br>**Course Date:** 23 – 25 May 2022
+<br><br>**Course Date:**  23 - 25 May 2022
 <br> **Registration Closing Date:** 2 May 2022
+
+* [Leadership and People Management Training Courses - by Capelle (Synchronous)](https://forms.office.com/r/MBdJgS9VLB){:target="_blank"} 
+<br>Hone your leadership and management skills with our curated suite of courses for executives, managers and team leaders in the Social Service sector. 
+<br>**a) Group Excellence** – Learn how to assess diversity issues and align diverse work teams towards common goals and objectives, while building a positive work culture.
+<br>**b) Innovation and Change Management** – Build an innovative, resilient and adaptable organisation by learning how to establish practices that encourage innovation, enterprising behaviour and risk-taking among teams and individuals.
+<br><br>**Course Date:** <br>9 & 10 May 2022 (Group Excellence)<br>26 & 27 May 2022 (Innovation and Change Management) <br><br> **Registration Closing Date:** <br>26 April 2022 (Group Excellence) <br> 13 May 2022 (Innovation and Change Management)
+
 
 
 <br>
