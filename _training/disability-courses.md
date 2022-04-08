@@ -11,6 +11,7 @@ The featured courses are:
 ### **Short Courses**
 
 -   [WSQ Principles and Practices of Early Intervention for Children with Special Needs Module 1](https://iltms.ssi.gov.sg/registration/#/Course?coursecode= SDIS463){:target="_blank"}   
+-  [WSQ Principles and Practices of Early Intervention for Children with Special Needs Module 2](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS83){:target="_blank"}   
 -   Adapting Programmes for Persons with Disabilities (Available in Q4 2022. TBC) 
 -   Independent Travel Training for Professionals Supporting Persons with Disabilities (Available in Q4 2022. TBC) 
 -   Interacting and Working with Persons with Disabilities (Available in Q4 2022. TBC)   
@@ -21,8 +22,6 @@ The featured courses are:
 ### **Certificate/ Diploma/ Degree Programmes:**
 
 -  [Advanced Certificate in Supported Employment (ACSE)](/training/cet-programmes/advance-certificate-in-supported-employment/){:target="_blank"}   
--   [Bachelor of Education (Special Education)](/training/cet-programmes/bachelor-of-education-(special-education)/){:target="_blank"}   
--   [Diploma of Community Services](/training/cet-programmes/diploma-of-community-services/){:target="_blank"}   
 
 For the full list of Disability courses offered by SSI, follow this  [link](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=f4f837bd-290c-e611-810d-000c29e3b091&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Disability&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   .
 

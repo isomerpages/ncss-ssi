@@ -13,7 +13,7 @@ description: "Check out the latest courses that are open for registration at the
 #### **CET Programmes**
 * [Advanced Certificate in Social Service](https://www.ssi.gov.sg/training/cet-programmes/advanced-certificate-in-social-service/){:target="_blank"} 
 <br>This foundational course will provide social service professionals with the necessary knowledge and skills sets (including para-counselling) required to carry out their roles effectively when working with clients, partners and stakeholders.
-<br><br>**Course Date:**  15 Aug - 29 Sep 2022
+<br><br>**Course Date:**  15 Aug - 29 Sep 2023
 <br> **Registration Closing Date:** 29 Apr 2022
 
 
