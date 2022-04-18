@@ -99,4 +99,4 @@ Time: 7pm
 ### FAQs
 [Refer to this link for FAQs relating to this programme.](/files/Files%20for%20Learners/FAQ-for-Higher-Diploma-in-Social-Service_21Mar22.pdf){:target="_blank"}
 
-[Application Guide (HDSS)](/files/Files%20for%20Learners/Application%20Guide%20(HDSS).pdf)
+[Application Guide (HDSS)](/files/Files%20for%20Learners/Application%20Guide%20(HDSS).pdf){:target="_blank"} 
