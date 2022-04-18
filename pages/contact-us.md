@@ -1,37 +1,28 @@
 ---
 layout: contact_us
 title: Contact Us
-agency_name: Agency Name
+permalink: /contact-us/
+agency_name: Social Service Institute   
 locations:
-  - address:
-      - 31 Sesame Street
-      - Big Bird Building
-      - Singapore 123456
+  - title: Main Office
+    address:
+        - Social Service Institute
+        - 298 Tiong Bahru Road
+        - #18-01
+        - Central Plaza
+        - Singapore 168730
+    maps_link: https://goo.gl/maps/CjZbdfdefPKTszgN8
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
-    maps_link: ""
-    title: Main Office
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
+        time: 9:00am - 6.00pm
+        description: Closed on Weekends and Public Holidays
 contacts:
-  - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
+  - title: All SSI services remain accessible online. You may contact us via
+    content:
+    - other: Telephone- (65) 6589 5555
+    - other: Fax- (65) 6589 5540
+    - other: Email- <a href="mailto:socialserviceinstitute@ncss.gov.sg">socialserviceinstitute@ncss.gov.sg</a>
+  - title: Join Our Mailing Lists
+    content:
+    - other: Receive the latest learning and development updates from SSI by signing up for our various mailing lists. <a href="https://www.ssi.gov.sg/about-us/mailing-list/"> Sign up here!</a>
 ---

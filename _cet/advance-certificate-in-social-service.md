@@ -79,3 +79,5 @@ Time: 7pm
 ### FAQs
 
 Refer to this [link](/files/Files%20for%20Learners/FAQ-for-Advanced-Certificate-in-Social-Service-21Mar22.pdf){:target="_blank"} for FAQs relating to this programme.
+
+[Application Guide (ACSS)](/files/Files%20for%20Learners/Application%20Guide%20(ACSS).pdf){:target="_blank"} 
