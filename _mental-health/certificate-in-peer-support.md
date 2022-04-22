@@ -4,9 +4,6 @@ permalink: /training/cet-programmes/certificate-in-peer-support/
 description: SSI's Certificate in Peer Support equips learners with the
   necessary competencies to assume a role of a Peer Support Specialist.
 ---
-
-
-
 ### Overview
 
 This is the second module of the ‘Peer Support Specialist Programme’. It equips learners with the necessary competencies to perform the role of a Peer Support Specialist.
@@ -47,11 +44,11 @@ Learners will be assessed through a mid-term written assessment, a practical ass
 
 *The proposed dates may be subjected to further changes. 
 
-- The trainer led sessions are expected to run from 28 Feb – 11 Mar 2022*
+- The trainer led sessions are expected to run from 14 – 27 Sep 2022*
 
-- Practicum Workshop: 14 Mar 2022 (1 day)*
+- Practicum Workshop: 28 Sep 2022 (1 day)*
 
-- Practicum (To be allocated upon successful enrolment and completion of classroom training): 15 Mar – 9 May 2022*
+- Practicum (To be allocated upon successful enrolment and completion of classroom training): 29 Sep – 25 Nov 2022*
 
 _Note:_
 
@@ -60,4 +57,4 @@ _Note:_
 3.  _Endorsement from an employer or agency does not guarantee enrolment into the module. Applicants that have been endorsed will still have to pass the interview._
 
 **Application Form**
-Submit your application [here](https://form.gov.sg/615576e393cf06001389245b){:target="_blank"} for ‘Preparatory Training for Potential Peer Support Specialist’ and ‘Certificate in Peer Support.
+Submit your application [here](https://form.gov.sg/624fda3cf1c1610014a5160b){:target="_blank"} for ‘Preparatory Training for Potential Peer Support Specialist’ and ‘Certificate in Peer Support.
