@@ -31,4 +31,4 @@ Continue receiving news and articles about developments in Non-Profit Board Deve
 
 ### **Subscribe to Our Board Development Mailing List**
 
-Subscribe to SSI’s Board Development Mailing List through this [link](https://form.gov.sg/606d89252eded10012103d68){:target="_blank"}   .
+Subscribe to SSI’s Board Development Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}   .
