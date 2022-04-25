@@ -14,7 +14,7 @@ The featured courses are:
 -   [Befriending Skills and Practice (For Volunteers)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311){:target="_blank"}   
 -   [Design and Develop an Effective Volunteer Work Programme](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NVOL5809){:target="_blank"}   
 -   [Introduction to Youth Mentoring (For Volunteers)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD227){:target="_blank"}   
--   [Overview to Disabilities<sup>1</sup>](https://e-services.ncss.gov.sg/Training/Course/Detail/AD1FA9C7-78CF-EB11-8178-000C296EE030){:target="_blank"}   
+-   [Overview to Disabilities<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS401){:target="_blank"}   
 -   [Plan and Strategise for an Effective Volunteer Engagement Programme](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=plan+and+strategise&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
 -   [Understanding Persons with Developmental Disabilities<sup>1</sup>](https://e-services.ncss.gov.sg/Training/Course/Detail/B01FA9C7-78CF-EB11-8178-000C296EE030){:target="_blank"} 
 -   [Understanding Persons with Intellectual Disabilities<sup>1</sup>](https://e-services.ncss.gov.sg/Training/Course/Detail/B91FA9C7-78CF-EB11-8178-000C296EE030){:target="_blank"} 
