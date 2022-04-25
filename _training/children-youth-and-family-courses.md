@@ -13,7 +13,7 @@ The featured courses are:
  - [Certified User for Youth Level of Service/ Case Management (YLS/CMI)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5858){:target="_blank"}   
  - [Child Abuse Reporting Guide](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF434){:target="_blank"} 
  - [Delivering Impactful Training to Youths](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5340){:target="_blank"} 
- - [Family and Adult Support Tool (FAST) - User](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5936){:target="_blank"}  
+ - [Family and Adult Support Tool (FAST) - User](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF435){:target="_blank"}  
  - [Helping Youths Cope with Anger](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5158){:target="_blank"} 
  - [Introduction to Sector-Specific Screening Guide](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF436){:target="_blank"} 
  - [Introduction to Child Protection Framework](https://e-services.ncss.gov.sg/Training/Course/Detail/373c876b-a3d6-eb11-8179-000c296ee030){:target="_blank"} 
