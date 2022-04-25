@@ -20,7 +20,7 @@ The featured courses are:
 -   [Teambuilding and leadership Development for NPO Leaders](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Teambuilding+and+leadership+Development+for+NPO+Leaders){:target="_blank"}   
 -   [The 7 Habits of Highly Effective People](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=the+7+habits&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=65296a73-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Leadership+Development&Filter.CourseSubCategory.ToRemove=False){:target="_blank"}   
 
-Our Management and Organisation Development courses are categorised into Corporate Function courses and Leadership Develoment courses.  [Click here](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=2b395f9d-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Corporate+Functions&Filter.CourseSubCategory.ToRemove=){:target="_blank"}     to access the full list of Corporate Function courses and [click here](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=65296a73-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Leadership+Development&Filter.CourseSubCategory.ToRemove=){:target="_blank"}     to access the full list of Leadership Development courses.    
+For the full list of Management and Organisation Development courses, [search here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}  
 
 ### Featured Adult Educators
 
@@ -45,4 +45,4 @@ Usha is the founder of Usha Menon Management Consultancy (Asia), an internationa
 Continue receiving news and articles about developments in Management and Organisation Development through GatherHere. If you are interested to join GatherHere, you can [sign up here](https://go.gov.sg/gh-signup){:target="_blank"}.
 
 ### Subscribe to Our Management and Organisation Development Mailing List
-Subscribe to SSI’s Management and Organisation Development Mailing List through this [link](https://form.gov.sg/606d8979137b600011984100){:target="_blank"}.
+Subscribe to SSI’s Management and Organisation Development Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
