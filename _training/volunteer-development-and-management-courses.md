@@ -27,7 +27,7 @@ The featured courses are:
 -   [Getting your Social Agency Volunteer-Ready (E-learning)](https://e-services.ncss.gov.sg/Training/Course/Detail/7605DA4A-80CF-EB11-8178-000C296EE030){:target="_blank"} 
 -   [Conducting a Needs Assessment (E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD424){:target="_blank"} 
 -   [Recruiting and Selecting Volunteers (E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD425){:target="_blank"} 
--   [On-boarding and Training Volunteers (E-learning)](https://e-services.ncss.gov.sg/Training/Course/Detail/7F05DA4A-80CF-EB11-8178-000C296EE030){:target="_blank"} 
+-   [On-boarding and Training Volunteers (E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD426){:target="_blank"} 
 -   [Supporting and Recognising Volunteers (E-learning)](https://e-services.ncss.gov.sg/Training/Course/Detail/8205DA4A-80CF-EB11-8178-000C296EE030){:target="_blank"} 
 -   [Reviewing Volunteer Management (E-learning)](https://e-services.ncss.gov.sg/Training/Course/Detail/8505DA4A-80CF-EB11-8178-000C296EE030){:target="_blank"} 
 
