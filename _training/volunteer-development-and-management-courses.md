@@ -45,6 +45,21 @@ Anne Marie holds a master’s degree in social work and psychology and a bachelo
 **Ms Lam Moy Yin**   
 Moy Yin has a Master of Arts in Education and Human Resource Development with the George Washington University (GW). She is also a graduate of the National University of Singapore (NUS) and has a diploma in human resource development (gold medal) from the Singapore Institute of Management (SIM). Moy Yin has more than 12 years of experience in human resources specialising in volunteer management and has provided consultancy services for the Singapore Sports Council (SSC) and the National Arts Council (NAC). Moy Yin is also the co-founder and vice president of Managing & Organising Volunteer Efforts (MOVE), which isthe national professional body for volunteer programme managers.
 
+
+
+### Learning & Development Roadmap
+Volunteer Management Practitioners (VMPs) are key enablers in engaging volunteers to augment the manpower capabilities of Social Service Agencies (SSAs). To play this vital role and prepare VMPs for the emerging trends in the social service sector’s transformation, NCSS developed the Learning & Development Roadmap (LDR) in consultation with the sector and endorsed by senior management of SSAs, to uplift the capabilities and increase ownership in the professional development of VMPs.
+
+The LDR provides guidance on the skills and competencies required to perform effectively and optimise volunteer resources in meeting the needs of service users. It shows potential development pathways and learning opportunities as VMPs plan towards the longer-term goal of serving and growing with the sector. Besides VMPs, SSAs’ management and human resource practitioners may also use the LDR as a guide to recruit and develop their VMPs.
+
+
+### Self-assessment Tool
+The accompanying Self-assessment Tool (SAT) to the LDR helps VMPs to identify their proficiency gaps and relevant training courses (including Social Service Institutes’ (SSI) courses), to further strengthen their capabilities so as to perform effectively in their roles.
+
+
+### Resource Hub
+Visit this page to learn more: [NCSS Volunteer Resource Hub](https://go.gov.sg/ncssvmprofessionaldevelopment)
+
 ### News and Articles on Volunteer Development & Management
 Continue receiving news and articles about developments in the Volunteer Development & Management sector through GatherHere. If you are interested to join GatherHere, you can [sign up here](https://go.gov.sg/gh-signup){:target="_blank"}.
 
