@@ -24,7 +24,7 @@ description: SSI's mental health courses provides social service professionals
 <sup>2</sup>This is the second module in the  [Peer Support Specialist Programme](/training/cet-programmes/peer-support-specialist-programme/){:target="_blank"}   .
 
 
-For the full list of Mental Health courses offered by SSI, follow this  [link](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=14a99fd7-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Mental+Health&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   .
+For the full list of Mental Health courses offered by SSI, follow this  [link](https://iltms.ssi.gov.sg/registration#/Course):target="_blank"}   .
 
 The complimentary featured courses under the Agency for Integrated Care (AIC) can be found in the link below:
 
@@ -61,4 +61,4 @@ He holds a Master of Arts degree in Applied Psychology from the Nanyang Technolo
 Continue receiving news and articles about developments in the Mental Health sub sector through GatherHere. If you are interested to join GatherHere, you can [sign up here](https://go.gov.sg/gh-signup){:target="_blank"}.
 
 ### Subscribe to SSI’s Mental Health Mailing List
-Subscribe to SSI’s Mental Health Mailing List through this [link](https://form.gov.sg/606d88983d226f00117f5657){:target="_blank"}.
+Subscribe to SSI’s Mental Health Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
