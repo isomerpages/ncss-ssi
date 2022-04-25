@@ -42,4 +42,4 @@ Continue receiving news and articles about developments in the Disability sub-se
 
 ### **Subscribe to SSI’s Disability Mailing List**
 
-Subscribe to SSI’s Disability Courses Mailing List through this [link](https://form.gov.sg/606d885c443a2c0011794b5c){:target="_blank"}
+Subscribe to SSI’s Disability Courses Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}
