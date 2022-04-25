@@ -28,8 +28,8 @@ The featured courses are:
 -   [Conducting a Needs Assessment (E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD424){:target="_blank"} 
 -   [Recruiting and Selecting Volunteers (E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD425){:target="_blank"} 
 -   [On-boarding and Training Volunteers (E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD426){:target="_blank"} 
--   [Supporting and Recognising Volunteers (E-learning)](https://e-services.ncss.gov.sg/Training/Course/Detail/8205DA4A-80CF-EB11-8178-000C296EE030){:target="_blank"} 
--   [Reviewing Volunteer Management (E-learning)](https://e-services.ncss.gov.sg/Training/Course/Detail/8505DA4A-80CF-EB11-8178-000C296EE030){:target="_blank"} 
+-   [Supporting and Recognising Volunteers (E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD427){:target="_blank"} 
+-   [Reviewing Volunteer Management (E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD428){:target="_blank"} 
 
 
 For the full list of volunteer development and management courses click [here](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=fef837bd-290c-e611-810d-000c29e3b091&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Volunteer+Development&Filter.CourseSubCategory.ToRemove=){:target="_blank"}.  
