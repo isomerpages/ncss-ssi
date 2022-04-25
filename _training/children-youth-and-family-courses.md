@@ -16,7 +16,7 @@ The featured courses are:
  - [Family and Adult Support Tool (FAST) - User](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF435){:target="_blank"}  
  - [Helping Youths Cope with Anger](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5158){:target="_blank"} 
  - [Introduction to Sector-Specific Screening Guide](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF436){:target="_blank"} 
- - [Introduction to Child Protection Framework](https://e-services.ncss.gov.sg/Training/Course/Detail/373c876b-a3d6-eb11-8179-000c296ee030){:target="_blank"} 
+ - [Introduction to Child Protection Framework](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF435){:target="_blank"} 
   - Management of Family Violence: Management of Elder Abuse and Neglect - Coming Soon!
  - [Management of Family Violence: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF197){:target="_blank"}  
   - [Management of Family Violence: Organisational Approaches to Child Safe Practices for Centre & Team Leads](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF257){:target="_blank"}  
