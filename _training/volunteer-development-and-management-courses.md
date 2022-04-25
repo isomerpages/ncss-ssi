@@ -65,4 +65,4 @@ Continue receiving news and articles about developments in the Volunteer Develop
 
 
 ### Subscribe to Our Volunteer Development & Management
-Subscribe to SSI’s Volunteer Development & Management Mailing List through this [link](https://form.gov.sg/606d89aa18510a0011c8465f){:target="_blank"}.
+Subscribe to SSI’s Volunteer Development & Management Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
