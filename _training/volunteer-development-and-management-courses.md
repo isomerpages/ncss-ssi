@@ -16,11 +16,11 @@ The featured courses are:
 -   [Introduction to Youth Mentoring (For Volunteers)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD227){:target="_blank"}   
 -   [Overview to Disabilities<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS401){:target="_blank"}   
 -   [Plan and Strategise for an Effective Volunteer Engagement Programme](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=plan+and+strategise&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
--   [Understanding Persons with Developmental Disabilities<sup>1</sup>](https://e-services.ncss.gov.sg/Training/Course/Detail/B01FA9C7-78CF-EB11-8178-000C296EE030){:target="_blank"} 
--   [Understanding Persons with Intellectual Disabilities<sup>1</sup>](https://e-services.ncss.gov.sg/Training/Course/Detail/B91FA9C7-78CF-EB11-8178-000C296EE030){:target="_blank"} 
--   [Understanding Persons with Physical Disabilities<sup>1</sup>](https://e-services.ncss.gov.sg/Training/Course/Detail/B31FA9C7-78CF-EB11-8178-000C296EE030){:target="_blank"}   
--   [Understanding Persons with Sensory Disabilities<sup>1</sup>](https://e-services.ncss.gov.sg/Training/Course/Detail/B61FA9C7-78CF-EB11-8178-000C296EE030)   
--   [Working Effectively with Youths: Strategies and Techniques (For Volunteers)<sup>1</sup>](https://e-services.ncss.gov.sg/Training/Course/Detail/CDE473D6-2ECF-EB11-8178-000C296EE030){:target="_blank"}  
+-   [Understanding Persons with Developmental Disabilities<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS404){:target="_blank"} 
+-   [Understanding Persons with Intellectual Disabilities<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS405){:target="_blank"} 
+-   [Understanding Persons with Physical Disabilities<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS412){:target="_blank"}   
+-   [Understanding Persons with Sensory Disabilities<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS408)   
+-   [Working Effectively with Youths: Strategies and Techniques (For Volunteers)<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS402){:target="_blank"}  
 - [Volunteer Management Practices: Connect, Engage, Develop](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=volunteer+management+practices%3A&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"} 
 -   [Volunteer Management System Engaging Volunteers Systematically](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Volunteer+Management+System+-+Engaging+Volunteers+Systematically){:target="_blank"} 
 -   [Introduction to Volunteerism (E-learning)](https://e-services.ncss.gov.sg/Training/Course/Detail/7305DA4A-80CF-EB11-8178-000C296EE030){:target="_blank"} 
