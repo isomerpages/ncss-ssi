@@ -44,11 +44,11 @@ Learners will be assessed through a mid-term written assessment, a practical ass
 
 *The proposed dates may be subjected to further changes. 
 
-- The trainer led sessions are expected to run from 14 – 27 Sep 2022*
+- The trainer led sessions are expected to run from 14 – 29 Sep 2022*
 
-- Practicum Workshop: 28 Sep 2022 (1 day)*
+- Practicum Workshop: 30 Sep 2022 (1 day)*
 
-- Practicum (To be allocated upon successful enrolment and completion of classroom training): 29 Sep – 25 Nov 2022*
+- Practicum (To be allocated upon successful enrolment and completion of classroom training): 3 Oct – 25 Nov 2022*
 
 _Note:_
 
