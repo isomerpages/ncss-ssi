@@ -24,16 +24,16 @@ If you are interested in joining the GatherHere Board Members group and do not h
 
 Thank you for joining us at the ‘Joining Forces: Fostering Strategic Collaboration between Businesses and the Social Sector’ panel on 14 April 2022! 
 
-We were delighted to hear from our esteemed panelists, Robert Chew, Vice President of NCSS, and Ronald Stride, President, Food from the Heart, who each shared their experiences and advice for SSAs and other organisations looking to collaborate. 
+We were delighted to hear from our esteemed panelists, Robert Chew, Vice President of NCSS, Philip Heah,  Chair of Digital Trust Committee (SGTech) and Ronald Stride, President, Food from the Heart, who each shared their experiences and advice for SSAs and other organisations looking to collaborate. 
 
 Join us on [GatherHere](https://www.ssi.gov.sg/resources/gatherhere){:target="_blank"}, an online community platform for social service professionals and organisations to build their network, extend support, and access valuable resources much like this panel. Stay tuned for our next event! 
  
 Here are some key takeaways from our panellist discussion:
-1) Understand key use cases of digitalisation (e.g. increase efficiency, uplift fundraising efforts)
-2) Learn how to use data more intentionally to unearth deeper insights
-3) Be mindful of the context of your operations and development stage in crafting a digitalisation strategy
-4) The Board can play a variety of roles in your organisations’ digitalisation journey e.g. crafting a strategy that’s in tune with the SSA’s mission, growing the SSA’s internal capabilities to adopt more digital tools
-5) Be mindful of issues related to data governance. Aside from familiarity with PDPA, be aware of aspects such as data accountability, access control, firewalls etc
+<br> 1) Understand key use cases of digitalisation (e.g. increase efficiency, uplift fundraising efforts)
+<br>2) Learn how to use data more intentionally to unearth deeper insights
+<br>3) Be mindful of the context of your operations and development stage in crafting a digitalisation strategy
+<br>4) The Board can play a variety of roles in your organisations’ digitalisation journey e.g. crafting a strategy that’s in tune with the SSA’s mission, growing the SSA’s internal capabilities to adopt more digital tools
+<br>5) Be mindful of issues related to data governance. Aside from familiarity with PDPA, be aware of aspects such as data accountability, access control, firewalls etc
 
 
 ### Guides for Claiming your GatherHere Account
