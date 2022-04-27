@@ -52,6 +52,7 @@ Volunteer Management Practitioners (VMPs) are key enablers in engaging volunteer
 
 The LDR provides guidance on the skills and competencies required to perform effectively and optimise volunteer resources in meeting the needs of service users. It shows potential development pathways and learning opportunities as VMPs plan towards the longer-term goal of serving and growing with the sector. Besides VMPs, SSAs’ management and human resource practitioners may also use the LDR as a guide to recruit and develop their VMPs.
 
+![Learning and Development Roadmap - Volunteer Management Practitioners](/images/Learning%20and%20Development%20Roadmap.png)
 
 ### Self-assessment Tool
 The accompanying Self-assessment Tool (SAT) to the LDR helps VMPs to identify their proficiency gaps and relevant training courses (including Social Service Institutes’ (SSI) courses), to further strengthen their capabilities so as to perform effectively in their roles.
