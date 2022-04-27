@@ -58,7 +58,7 @@ The LDR provides guidance on the skills and competencies required to perform eff
 The accompanying Self-assessment Tool (SAT) to the LDR helps VMPs to identify their proficiency gaps and relevant training courses (including Social Service Institutes’ (SSI) courses), to further strengthen their capabilities so as to perform effectively in their roles.
 
 
-###  
+###  NCSS Volunteer Resource Hub
 Visit this page to learn more: [NCSS Volunteer Resource Hub](https://go.gov.sg/ncssvmprofessionaldevelopment)
 
 ### News and Articles on Volunteer Development & Management
@@ -67,3 +67,4 @@ Continue receiving news and articles about developments in the Volunteer Develop
 
 ### Subscribe to Our Volunteer Development & Management
 Subscribe to SSI’s Volunteer Development & Management Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
+
