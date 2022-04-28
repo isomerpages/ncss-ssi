@@ -6,7 +6,6 @@ description: SSI's eldercare courses provides social service professionals with
 ---
 ![Social Service Institute (SSI) Singapore - Caring and communicating with dementia and senior persons courses](/images/training/Eldercare_SSI_header-banner-757-x-239px5.jpg)
 
-**These courses will not be available until further notice.**
 
 The featured courses are:
 
