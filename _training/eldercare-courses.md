@@ -10,14 +10,15 @@ description: SSI's eldercare courses provides social service professionals with
 
 The featured courses are:
 
--   [Communicate Effectively with Seniors](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Communicate+Effectively+with+Seniors){:target="_blank"}   
+-   [Communicate Effectively with Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH6016){:target="_blank"}   
+-   [Communicate Effectively with Seniors (Mandarin)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5525){:target="_blank"}   
 -   Conversation Starter Toolkit (e-Learning)
--   [Counselling for Seniors](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Counselling+for+Seniors){:target="_blank"}   
--   Empowering Seniors
--   Interacting Effectively with Persons with Dementia
--   [Seniors’ Life Review through the Arts](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Seniors%E2%80%99+Life+Review+through+the+Arts&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}
--   [Organise and Implement Group Activities and Recreation Programmes](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=WSQ+Organise+and+Implement+Group+Activities+and+Recreation+Programmes+){:target="_blank"}   
--   [WSQ Support Seniors to Meet their Physical, Emotional, Psychological, Cognitive and Spiritual Needs](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=WSQ+Support+Seniors+to+Meet+their+Physical%2C+Emotional%2C+Psychological%2C+Cognitive+and+Spiritual+Needs){:target="_blank"}   
+-   [Counselling for Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5958){:target="_blank"}   
+-   [Empowering Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SELC433){:target="_blank"}
+-  [Interacting Effectively with Persons with Dementia](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SELC429){:target="_blank"}
+-   [Seniors’ Life Review through the Arts](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SELC219){:target="_blank"}
+-   [Organise and Implement Group Activities and Recreation Programmes](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5813){:target="_blank"}   
+-   [WSQ Support Seniors to Meet their Physical, Emotional, Psychological, Cognitive and Spiritual Needs](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5848){:target="_blank"}   
 
 
 For the full list of Eldercare courses offered by SSI, search [here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   .
