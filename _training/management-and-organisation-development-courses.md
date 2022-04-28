@@ -9,16 +9,16 @@ description: SSI provides courses that train learners in management, leadership,
 
 The featured courses are:   
 
--   [Budgeting for Charities](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Budgeting+for+Charities){:target="_blank"}   
--   [Donor Outreach Through Social Media](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Donor+Outreach+Through+Social+Media){:target="_blank"}   
--   [Effective Supervisory Skills for NPO Managers](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Effective+Supervisory+Skills+for+NPO+Managers){:target="_blank"}  
--   [Internal Controls for Management (I): An Introduction to Internal Controls](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Internal+Controls+for+Management+%28I%29%3A+An+Introduction+to+Internal+Controls){:target="_blank"}   
--   [Manage Challenging Social Service and NPO Clients](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Manage+Challenging+Social+Service+and+NPO+Clients){:target="_blank"}   
--   [Making $ense I: An Introduction to Fund-Raising](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Making+%24ense+I%3A+An+Introduction+to+Fund+Raising&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
--   [Plan New Facilities Development](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Plan+New+Facilities+Development&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
--   [Impact Strategy Evaluation and Management](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Impact+Strategy+Evaluation+and+Management&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
--   [Teambuilding and leadership Development for NPO Leaders](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Teambuilding+and+leadership+Development+for+NPO+Leaders){:target="_blank"}   
--   [The 7 Habits of Highly Effective People](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=the+7+habits&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=65296a73-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Leadership+Development&Filter.CourseSubCategory.ToRemove=False){:target="_blank"}   
+-   [Budgeting for Charities](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5450){:target="_blank"}   
+-   [Donor Outreach Through Social Media](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5508){:target="_blank"}   
+-   [Effective Supervisory Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5079){:target="_blank"}  
+-   [Internal Controls for Management (I): An Introduction to Internal Controls](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5744){:target="_blank"}   
+-   [Manage Challenging Social Service and NPO Clients](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NPEF6032){:target="_blank"}   
+-   [Making $ense I: An Introduction to Fund-Raising](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5766){:target="_blank"}   
+-   [Plan New Facilities Development](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMMR5890){:target="_blank"}   
+-   [Impact Strategy Evaluation and Management](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   
+-   [Teambuilding and leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT6014){:target="_blank"}   
+-   [The 7 Habits of Highly Effective People](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   
 
 For the full list of Management and Organisation Development courses, [search here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}  
 
