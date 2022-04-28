@@ -10,10 +10,10 @@ description: SSI's caregiving courses provide learners with an understanding of
 
 The featured courses under SSI are:   
 
--   Preparatory Caregiver Training Programme:Understanding Caregiving   (e-Learning)
--   Preparatory Caregiver Training Programme: Communication in Caregiving (e-Learning) 
--   Preparatory Caregiver Training Programme: Caregiver Stress and Management (e-Learning)
--   Preparatory Caregiver Training Programme: Know the Care Recipient  (e-Learning)
+-   [Preparatory Caregiver Training Programme:Understanding Caregiving   (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SELC417){:target="_blank"}
+-   [Preparatory Caregiver Training Programme: Communication in Caregiving (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SELC419){:target="_blank"}
+-   [Preparatory Caregiver Training Programme: Caregiver Stress and Management (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SELC420){:target="_blank"}
+-   [Preparatory Caregiver Training Programme: Know the Care Recipient (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SELC418){:target="_blank"}
 
 The featured courses under the Agency for Integrated Care (AIC) can be found in the link below:
 
