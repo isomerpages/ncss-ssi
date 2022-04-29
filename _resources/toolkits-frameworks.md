@@ -1,10 +1,9 @@
 ---
 title: Toolkits & Frameworks
 permalink: /resources/toolkits-frameworks/
-description: The Skills Framework for Social Service helps industry professionals identify important skills & competencies to stay future-ready.
-
+description: The Skills Framework for Social Service helps industry
+  professionals identify important skills & competencies to stay future-ready.
 ---
-
 The Skills Framework (SFw) for Social Service was launched in January 2019 at the SSI Graduation & Awards Ceremony by then Minister of State for Social and Family Development and Foreign Affairs, Mr Sam Tan.   
    
 Jointly developed by SkillsFuture Singapore (SSG), Workforce Singapore (WSG), the Ministry of Social and Family Development (MSF) and the National Council of Social Service (NCSS) together with industry associations, training providers and organisations, the framework provides useful information on:
@@ -22,4 +21,4 @@ It aims to help existing and aspiring social service professionals, social servi
    
 **Training providers** can gain insights on sector trends, existing and emerging skills that are in demand and design programmes to address the industry needs accordingly.   
    
-Click [here](https://www.skillsfuture.sg/skills-framework/social-service){:target="_blank"} for more information on the framework.   
+Click [here](https://www.skillsfuture.gov.sg/skills-framework/social-service){:target="_blank"} for more information on the framework.

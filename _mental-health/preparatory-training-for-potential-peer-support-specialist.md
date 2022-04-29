@@ -4,8 +4,6 @@ permalink: /training/cet-programmes/preparatory-training-for-potential-peer-supp
 description: The first module of the Peer Support Specialist Programme is a an
   introductory course to the role of a Peer Support Specialist.
 ---
-
-
 ### **Overview**
 
 This is the first module of the ‘Peer Support Specialist Programme’. It provides learners with an awareness and introduction to the role of a Peer Support Specialist, and the significance of sharing their lived experiences in order to support others on their recovery journeys. The module will be conducted over two days in a classroom. 
@@ -43,7 +41,7 @@ At the end of the module, participants will be assessed based on a written asses
 
 ### **Course Schedule**
 
-The trainer led sessions are expected to run from 24 - 25 Feb 2022*.
+The trainer led sessions are expected to run from 12 – 13 Sep 2022*.
 
 *The proposed dates may be subjected to further changes. 
   
@@ -56,4 +54,4 @@ _Note:_
 
 **Application Form**
 
-Click [here](https://form.gov.sg/615576e393cf06001389245b){:target="_blank"} to access the application form for both the ‘Preparatory Training for Potential Peer Support Specialist’ and ‘Certificate in Peer Support.
+Click [here](https://form.gov.sg/624fda3cf1c1610014a5160b){:target="_blank"} to access the application form for both the ‘Preparatory Training for Potential Peer Support Specialist’ and ‘Certificate in Peer Support.

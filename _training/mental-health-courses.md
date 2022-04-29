@@ -6,14 +6,14 @@ description: SSI's mental health courses provides social service professionals
 ---
 ![Social Service Institute (SSI) Singapore - Mental Health Conditions & Recovery Courses](/images/training/mental%20health%20SSI_header-banner-757-x-239px3.jpg)
 
--   [Applied Suicide Interventional Skills](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=applied+suicide+) [(ASIST)](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=applied+suicide+){:target="_blank"}   
+-   [Applied Suicide Interventional Skills](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5709) [(ASIST)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5709){:target="_blank"}   
 -   E.M.B.R.A.C.E Mental Health - Coming Soon!
--   [Management of Depression in Seniors](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Management+of+depression+in+seniors&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=14a99fd7-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Mental+Health&Filter.CourseSubCategory.ToRemove=False){:target="_blank"}   
--   [Mental Illness and Recovery](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=mental+illness+and+recovery&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=14a99fd7-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Mental+Health&Filter.CourseSubCategory.ToRemove=False){:target="_blank"}   
+-   [Management of Depression in Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5442){:target="_blank"}   
+-   [Mental Illness and Recovery](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS5911){:target="_blank"}   
 -   [Preparatory Training for Potential Peer Support Specialist](/training/cet-programmes/preparatory-training-for-potential-peer-support-specialist/){:target="_blank"}<sup>1</sup>   
 -   Psychiatric Rehabilitation in Welfare Homes - Coming Soon!
--   [Suicide Prevention and Management for Seniors](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Suicide+Prevention+and+Management+for+Seniors){:target="_blank"}   
--   [Tools and Skills for Supporting Youths with Mental Health Distress](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=tools+and+skills+for+supporting+youths+with+mental+health&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   
+-   [Suicide Prevention and Management for Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5587){:target="_blank"}   
+-   [Tools and Skills for Supporting Youths with Mental Health Distress](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5408){:target="_blank"}   
 
 <sup>1</sup>This is the first module in the  [Peer Support Specialist Programme](/training/cet-programmes/peer-support-specialist-programme/){:target="_blank"}   .
 
@@ -24,7 +24,7 @@ description: SSI's mental health courses provides social service professionals
 <sup>2</sup>This is the second module in the  [Peer Support Specialist Programme](/training/cet-programmes/peer-support-specialist-programme/){:target="_blank"}   .
 
 
-For the full list of Mental Health courses offered by SSI, follow this  [link](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=14a99fd7-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Mental+Health&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   .
+For the full list of Mental Health courses offered by SSI, follow this  [link](https://iltms.ssi.gov.sg/registration#/Course):target="_blank"}   .
 
 The complimentary featured courses under the Agency for Integrated Care (AIC) can be found in the link below:
 
@@ -61,4 +61,4 @@ He holds a Master of Arts degree in Applied Psychology from the Nanyang Technolo
 Continue receiving news and articles about developments in the Mental Health sub sector through GatherHere. If you are interested to join GatherHere, you can [sign up here](https://go.gov.sg/gh-signup){:target="_blank"}.
 
 ### Subscribe to SSI’s Mental Health Mailing List
-Subscribe to SSI’s Mental Health Mailing List through this [link](https://form.gov.sg/606d88983d226f00117f5657){:target="_blank"}.
+Subscribe to SSI’s Mental Health Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.

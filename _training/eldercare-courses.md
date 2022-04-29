@@ -6,21 +6,21 @@ description: SSI's eldercare courses provides social service professionals with
 ---
 ![Social Service Institute (SSI) Singapore - Caring and communicating with dementia and senior persons courses](/images/training/Eldercare_SSI_header-banner-757-x-239px5.jpg)
 
-**These courses will not be available until further notice.**
 
 The featured courses are:
 
--   [Communicate Effectively with Seniors](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Communicate+Effectively+with+Seniors){:target="_blank"}   
+-   [Communicate Effectively with Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH6016){:target="_blank"}   
+-   [Communicate Effectively with Seniors (Mandarin)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5525){:target="_blank"}   
 -   Conversation Starter Toolkit (e-Learning)
--   [Counselling for Seniors](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Counselling+for+Seniors){:target="_blank"}   
--   Empowering Seniors
--   Interacting Effectively with Persons with Dementia
--   [Seniors’ Life Review through the Arts](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=Seniors%E2%80%99+Life+Review+through+the+Arts&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=&Filter.CourseSubCategory.LogicalName=&Filter.CourseSubCategory.Name=&Filter.CourseSubCategory.ToRemove=){:target="_blank"}
--   [Organise and Implement Group Activities and Recreation Programmes](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=WSQ+Organise+and+Implement+Group+Activities+and+Recreation+Programmes+){:target="_blank"}   
--   [WSQ Support Seniors to Meet their Physical, Emotional, Psychological, Cognitive and Spiritual Needs](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=WSQ+Support+Seniors+to+Meet+their+Physical%2C+Emotional%2C+Psychological%2C+Cognitive+and+Spiritual+Needs){:target="_blank"}   
+-   [Counselling for Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5958){:target="_blank"}   
+-   [Empowering Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SELC433){:target="_blank"}
+-  [Interacting Effectively with Persons with Dementia](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SELC429){:target="_blank"}
+-   [Seniors’ Life Review through the Arts](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SELC219){:target="_blank"}
+-   [Organise and Implement Group Activities and Recreation Programmes](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5813){:target="_blank"}   
+-   [WSQ Support Seniors to Meet their Physical, Emotional, Psychological, Cognitive and Spiritual Needs](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5848){:target="_blank"}   
 
 
-For the full list of Eldercare courses offered by SSI, follow this [link](http://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Filter.Keyword=&Filter.CourseDatesString=&Filter.TypeOfCourse.Value=&Filter.TypeOfCourse.Label=&Filter.CourseSubCategory.Id=8ec889b9-e127-e611-8112-000c296ee03a&Filter.CourseSubCategory.LogicalName=nis_coursesubcategory&Filter.CourseSubCategory.Name=Eldercare&Filter.CourseSubCategory.ToRemove=){:target="_blank"}   .
+For the full list of Eldercare courses offered by SSI, search [here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   .
 
 The complimentary featured course under the Agency for Integrated Care (AIC) can be found in the link below:
 
@@ -48,4 +48,4 @@ He holds a Master of Arts degree in Applied Psychology from the Nanyang Technolo
 Continue receiving news and articles about developments in the Eldercare sub-sector through GatherHere. If you are interested to join GatherHere, you can [sign up here](https://go.gov.sg/gh-signup){:target="_blank"}.
 
 ### Subscribe to Our Eldercare Mailing List   
-Subscribe to SSI’s Eldercare Mailing List through this [link](https://form.gov.sg/606d89252eded10012103d68){:target="_blank"}.
+Subscribe to SSI’s Eldercare Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
