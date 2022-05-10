@@ -27,22 +27,22 @@ description: "Check out the latest courses that are open for registration at the
 
 
 #### **Management and Organisational Development**
-* [Plan for Facilities Management (Synchronous)]( https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFMT5891){:target="_blank"}   <br> Catered for facility management professionals in the non-profit sector, this programme covers basic concepts on facility planning, scheduling and maintenance which are key to supporting the smooth operation of an organisation’s facilities. 
-<br><br>**Course Date:** 16 – 17 June 2022
-<br> **Registration Closing Date:** 12 May 2022
 
+* [SGOOD 4: Talent and Volunteer Management - by Singapore Institute of Directors](https://www.sid.org.sg/Web/Professional_Development/Courses/Essentials/NPO/SGD/SGD4.aspx){:target="_blank"} 
+<br>The Governance for Outstanding Organisation Directors (SGOOD) Programme is designed and developed around the learning needs of board members of non-profit organisations. SGOOD 4 delves into the importance and challenges of human capital management in non-profit organisations, examines volunteer management strategies and board election and succession policies, and shares leading approaches in managing talent and volunteers sustainably.  
+<br>**Course Date:** 22 June 2022 
+<br>**Registration Closing Date:**  15 June 2022 
 
-* [Principles of Persuasion – by Erevna Consulting (Synchronous)]( http://www.erevnaleadership.com/register.html){:target="_blank"}   <br> The ability to convince and persuade is an important skillset to have in every workplace. Learn how you can inspire, influence and lead change by making small changes in your communication approaches for better outcomes. 
-<br><br>**Course Date:**  23 - 25 May 2022
-<br> **Registration Closing Date:** 2 May 2022
+* [Design Thinking: ADEPT @ Delivering the Future - by Capelle](https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&web=1&wdLOR=cE5839D4F-FB53-433E-898D-BC2664ACBFC7){:target="_blank"} 
+<br>Good design and user experience is important in every organisation. Gain a deeper understanding into good, human-centred design, and learn how it can be applied to your organisation’s programmes, processes, service models and management practices. 
+<br>**Course Date:** 2 -3 June 2022 
+<br>**Registration Closing Date:**  23 June 2022 
+){:target="_blank"} 
 
-* [Leadership and People Management Training Courses - by Capelle (Synchronous)](https://forms.office.com/r/MBdJgS9VLB){:target="_blank"} 
-<br>Hone your leadership and management skills with our curated suite of courses for executives, managers and team leaders in the Social Service sector. 
-<br>**a) Group Excellence** – Learn how to assess diversity issues and align diverse work teams towards common goals and objectives, while building a positive work culture.
-<br>**b) Innovation and Change Management** – Build an innovative, resilient and adaptable organisation by learning how to establish practices that encourage innovation, enterprising behaviour and risk-taking among teams and individuals.
-<br><br>**Course Date:** <br>26 & 27 May 2022 (Innovation and Change Management) <br><br> **Registration Closing Date:** <br> 13 May 2022 (Innovation and Change Management)
-
-
+* [Emotional Intelligence - by Capelle](https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&web=1&wdLOR=cE5839D4F-FB53-433E-898D-BC2664ACBFC7){:target="_blank"} 
+<br>Learn how you can analyse your own emotional intelligence and the emotional climate of the stakeholders around you, to guide your thinking and actions for better business outcomes. <br>**Course Date:** 16-17 June 2022 
+<br>**Registration Closing Date:**  6 June 2022 
+){:target="_blank"} 
 
 <br>
 <br>
