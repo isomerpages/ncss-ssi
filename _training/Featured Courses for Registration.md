@@ -33,6 +33,7 @@ description: "Check out the latest courses that are open for registration at the
 <br>**Course Date:** 22 June 2022 
 <br>**Registration Closing Date:**  15 June 2022 
 
+
 * [Design Thinking: ADEPT @ Delivering the Future - by Capelle](https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&web=1&wdLOR=cE5839D4F-FB53-433E-898D-BC2664ACBFC7){:target="_blank"} 
 <br>Good design and user experience is important in every organisation. Gain a deeper understanding into good, human-centred design, and learn how it can be applied to your organisation’s programmes, processes, service models and management practices. 
 <br>**Course Date:** 2 -3 June 2022 
@@ -43,6 +44,13 @@ description: "Check out the latest courses that are open for registration at the
 <br>Learn how you can analyse your own emotional intelligence and the emotional climate of the stakeholders around you, to guide your thinking and actions for better business outcomes. <br>**Course Date:** 16-17 June 2022 
 <br>**Registration Closing Date:**  6 June 2022 
 ){:target="_blank"} 
+
+* [People Leadership Programme - by Capelle](https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&web=1&wdLOR=cE5839D4F-FB53-433E-898D-BC2664ACBFC7){:target="_blank"} 
+<br>Hone your leadership skills through this 3-day workshop by assessing your personal leadership style and effectiveness, adopting a systematic approach to leading people, enhancing your communications skills and learning to manage diverse and remote teams more effectively.  
+<br>**Course Date:** 23 -24 June & 30 June 2022
+<br>**Registration Closing Date:**  13 June 2022 
+){:target="_blank"} 
+
 
 <br>
 <br>
