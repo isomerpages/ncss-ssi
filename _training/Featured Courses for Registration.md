@@ -11,6 +11,12 @@ description: "Check out the latest courses that are open for registration at the
 
 #### **Children, Youth and Family**
 
+* [Management of Family Violence: Introduction (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF197){:target="_blank"}   <br> The 3-day workshop will equip learners with a broad understanding of family protection work and provide foundational knowledge on how family law may be applicable when engaging with families experiencing domestic violence. 
+<br><br>**Course Date:** 27-29 June 2022
+<br>**Written Assessment:** 30 June 2022
+<br> **Registration Closing Date:** 15 May 2022
+
+
 * [Certified User for Child and Adolescent Needs and Strengths (CANS) (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5894){:target="_blank"}   <br> Learn how the CANS assessment tool can help caseworkers to provide optimal levels of support based on needs and strengths of cases while working with Children, Youth and Family. Developed in collaboration with the Ministry of Social and Family Development (MSF), this training will provide critical competencies needed to administer CANS efficiently. 
 <br><br>**Course Date:** 18 - 21 July 2022
 <br> **Registration Closing Date:** 13 June 2022
