@@ -26,6 +26,7 @@ description: "Check out the latest courses that are open for registration at the
 <br> **Registration Closing Date (Run 4):** 26 June 2022
 
 
+
 * [Certified User for Child and Adolescent Needs and Strengths (CANS) (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5894){:target="_blank"}   <br> Learn how the CANS assessment tool can help caseworkers to provide optimal levels of support based on needs and strengths of cases while working with Children, Youth and Family. Developed in collaboration with the Ministry of Social and Family Development (MSF), this training will provide critical competencies needed to administer CANS efficiently. 
 <br><br>**Course Date:** 18 - 21 July 2022
 <br> **Registration Closing Date:** 13 June 2022
