@@ -31,7 +31,7 @@ description: "Check out the latest courses that are open for registration at the
 <br> **Registration Closing Date:** 13 June 2022
 
 * [Management of Family Violence: Talking to Children and Managing Abuse-related Disclosure (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5502){:target="_blank"}   <br> 
-* How should one respond and manage disclosures of abuse and neglect in a safe and comfortable setting? Service professionals will gain deeper insights into the developmental stages and memory functioning of children to better understand its impact on children and young person’s ability to disclose events of concern that may be happening to them. 
+* How should one respond and manage disclosures of abuse and neglect in a safe and comfortable setting? Service professionals will gain deeper insights into the developmental stages and memory functioning of children and young persons which may impact their ability to disclose events of concern. 
 
 <br><br>**Course Date:** 7-8 July 2022
 <br>**Written Assessment:** 18 July 2022
