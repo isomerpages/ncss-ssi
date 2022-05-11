@@ -26,11 +26,16 @@ description: "Check out the latest courses that are open for registration at the
 <br> **Registration Closing Date (Run 4):** 26 June 2022
 
 
-
 * [Certified User for Child and Adolescent Needs and Strengths (CANS) (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5894){:target="_blank"}   <br> Learn how the CANS assessment tool can help caseworkers to provide optimal levels of support based on needs and strengths of cases while working with Children, Youth and Family. Developed in collaboration with the Ministry of Social and Family Development (MSF), this training will provide critical competencies needed to administer CANS efficiently. 
 <br><br>**Course Date:** 18 - 21 July 2022
 <br> **Registration Closing Date:** 13 June 2022
 
+* [Management of Family Violence: Talking to Children and Managing Abuse-related Disclosure (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5502){:target="_blank"}   <br> 
+* How should one respond and manage disclosures of abuse and neglect in a safe and comfortable setting? Service professionals will gain deeper insights into the developmental stages and memory functioning of children to better understand its impact on children and young person’s ability to disclose events of concern that may be happening to them. 
+
+<br><br>**Course Date:** 7-8 July 2022
+<br>**Written Assessment:** 18 July 2022
+<br> **Registration Closing Date:** 29 May 2022
 
 * [Helping Youths Cope with Anger (Synchronous)]( https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5158){:target="_blank"}   <br> Understanding the possible triggers of anger among youths can help guide intervention strategies needed to manage difficult youths. Learn how to apply stage-specific intervention techniques to encourage proper anger management techniques in youths. 
 <br><br>**Course Date:** 5-7 July 2022
