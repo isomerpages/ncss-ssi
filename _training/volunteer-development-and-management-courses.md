@@ -54,6 +54,11 @@ The LDR provides guidance on the skills and competencies required to perform eff
 
 ![Learning and Development Roadmap - Volunteer Management Practitioners](/images/Learning%20and%20Development%20Roadmap.png)
 
+![](/images/training/volunteer/L_D%20Quote%20Banner_01.jpg)
+
+![](/images/training/volunteer/L_D%20Quote%20Banner_02.jpg)
+
+![](/images/training/volunteer/L_D%20Quote%20Banner_03.jpg)
 
 ### Self-assessment Tool
 The accompanying Self-assessment Tool (SAT) to the LDR helps VMPs to identify their proficiency gaps and relevant training courses (including Social Service Institutes’ (SSI) courses), to further strengthen their capabilities so as to perform effectively in their roles.
