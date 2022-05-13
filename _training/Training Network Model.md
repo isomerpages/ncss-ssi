@@ -44,6 +44,4 @@ The CFP will remain open from **20 May – 10 June 2022**.
 
 
 ### **Enquiries**
-If you have any queries relating to this project, you can reach out to us by emailing sharon_tan@ncss.gov.sg.
-
-
+If you have any queries relating to this project, you can reach out to us by emailing [sharon_tan@ncss.gov.sg](sharon_tan@ncss.gov.sg).
