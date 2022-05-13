@@ -2,6 +2,7 @@ collections:
   training:
     output: true
     order:
+      - Training Network Model.md
       - training-overview.md
       - Featured Courses for Registration.md
       - continuing-education-training-cet-courses.md
