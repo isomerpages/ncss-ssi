@@ -14,7 +14,6 @@ The objective of TNM 2.0 is not only to build a sustainable learning ecosystem f
 ![Training Network Model 2.0 (TNM 2.0)](/images/training/TNM/Training-Network-Model.png)
 
 
-
 ### **Training Areas**
 SSA Partners must select one Primary Training Area, based on their domain/training expertise, to specialise in. SSA Partners who have the capabilities are also encouraged to offer training in the secondary training areas. SSA Partners may consider partnering with other local and/or overseas organisations such as Institutes of Higher Learning (IHLs) and accredited training organisations, to offer these trainings.
 
