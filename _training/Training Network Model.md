@@ -41,7 +41,7 @@ Course fee subsidies on approved courses developed and delivered by SSA Partners
 
 Interested parties, [please register your interest here](https://form.gov.sg/626a39651d657b001323d866){:target="_blank"} by **18 May 2022, 6pm** to receive an invitation for the session, as well as the CFP documentation. 
 
-The documents will be sent by **20 May 2022**, to allinterested parties who have registered for the briefing. 
+The documents will be sent by **20 May 2022**, to all interested parties who have registered for the briefing. 
 
 The CFP will remain open from **20 May – 9 June 2022**.
 
