@@ -2,7 +2,6 @@ collections:
   training:
     output: true
     order:
-      - Training Network Model.md
       - training-overview.md
       - Featured Courses for Registration.md
       - continuing-education-training-cet-courses.md
@@ -23,3 +22,4 @@ collections:
       - Funding Information/vwos-charities-capability-fund-vcf.md
       - Funding Information/skillsfuture-singapore-ssg-funding.md
       - Funding Information/skillsfuture-credit.md
+      - Training Network Model.md
