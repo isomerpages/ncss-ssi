@@ -13,6 +13,8 @@ The objective of TNM 2.0 is not only to build a sustainable learning ecosystem f
 
 ![Training Network Model 2.0 (TNM 2.0)](/images/training/TNM/Training-Network-Model.png)
 
+
+
 ### **Training Areas**
 SSA Partners must select one Primary Training Area, based on their domain/training expertise, to specialise in. SSA Partners who have the capabilities are also encouraged to offer training in the secondary training areas. SSA Partners may consider partnering with other local and/or overseas organisations such as Institutes of Higher Learning (IHLs) and accredited training organisations, to offer these trainings.
 
@@ -40,7 +42,7 @@ Course fee subsidies on approved courses developed and delivered by SSA Partners
 ### **Interested to be part of this project?**
 **The Call-for-Proposal (CFP) briefing session** will be held virtually on the **24 May 2022, 2.30pm – 4pm**. Interested parties, [please register your interest here](https://form.gov.sg/626a39651d657b001323d866) by **18 May 2022, 6pm** to receive an invitation for the session, as well as the CFP documentation. The documents will be sent by **20 May 2022**, to all interested parties who have registered for the briefing. 
 
-The CFP will remain open from **20 May – 10 June 2022**.
+The CFP will remain open from **20 May – 9 June 2022**.
 
 
 ### **Enquiries**
