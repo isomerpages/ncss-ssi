@@ -6,8 +6,7 @@ description: The Training Network Model 2.0 is a strategic project that aims to
   learning ecosystem for the social service sector.
 ---
 ### **Overview**
-
-TNM 2.0 is a 5-year strategic project that aims to transform up to 7 SSAs to become Centres of Excellence. 
+Training Network Model 2.0 (TNM 2.0) is a 5-year strategic project that aims to transform up to 7 SSAs to become Centres of Excellence.
 
 The objective of TNM 2.0 is not only to build a sustainable learning ecosystem for the social service sector, but also to help enhance the capabilities and capacity of SSAs so that they, as domain experts, can offer training and consultancy services to the sector as well. 
 
