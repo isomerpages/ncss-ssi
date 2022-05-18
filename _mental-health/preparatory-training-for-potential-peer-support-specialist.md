@@ -54,4 +54,4 @@ _Note:_
 
 **Application Form**
 
-Click [here](https://form.gov.sg/624fda3cf1c1610014a5160b){:target="_blank"} to access the application form for both the ‘Preparatory Training for Potential Peer Support Specialist’ and ‘Certificate in Peer Support.
+Click [here](https://form.gov.sg/6283a6b6c27fbc00121ed3ec){:target="_blank"} to access the application form for both the ‘Preparatory Training for Potential Peer Support Specialist’ and ‘Certificate in Peer Support.
