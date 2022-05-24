@@ -37,6 +37,13 @@ description: "Check out the latest courses that are open for registration at the
 <br><br>**Course Date:** 5-7 July 2022
 <br> **Registration Closing Date:** 31 May 2022
 
+#### **Mental Health**
+* [Peer Support Specialist Programme](https://www.ssi.gov.sg/training/cet-programmes/peer-support-specialist-programme/){:target="_blank"}  <br> 
+The programme provides formalised and structured training that equips persons with mental health conditions with peer support skills to allow them to leverage their lived experience to support others in their recovery 
+journey. 
+<br><br>**a) Course Date (Module 1-Preparatory Training for Potential Peer Support Specialist):** 12-13 Sep 2022
+<br>**b) Course Date (Module 2):** 14 Sept - 25 Nov 2022
+<br> **Registration Closing Date (Module 1 & 2):** 1 July 2022
 
 #### **Volunteer Development and Management**
 * [Befriending Skills and Practice - For Volunteers (Synchronous)]( https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311){:target="_blank"}   <br> Build skills and knowledge necessary to coordinate befriending projects to practice standards.  <br><br>**Course Date:** 16 - 17 Aug 2022
