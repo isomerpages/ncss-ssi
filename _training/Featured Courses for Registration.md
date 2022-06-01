@@ -38,7 +38,7 @@ description: "Check out the latest courses that are open for registration at the
 <br> **Registration Closing Date:** 31 May 2022
 
 #### **Mental Health**
-* [Peer Support Specialist Programme](https://www.ssi.gov.sg/training/cet-programmes/peer-support-specialist-programme/){:target="_blank"}  <br> 
+* [Peer Support Specialist Programme (Synchronous)](https://www.ssi.gov.sg/training/cet-programmes/peer-support-specialist-programme/){:target="_blank"}  <br> 
 The programme provides formalised and structured training that equips persons with mental health conditions with peer support skills to allow them to leverage their lived experience to support others in their recovery 
 journey. 
 <br><br>**a) Module 1: Preparatory Training for Potential Peer Support Specialist <br>Course Date :** 12-13 Sep 2022
@@ -46,6 +46,17 @@ journey.
 <br>**b) Module 2: Certificate in Peer Support
 <br>Course Date:** 14 Sept - 25 Nov 2022
 <br> **Registration Closing Date:** 1 July 2022
+
+* [Mental Illness and Recovery (Synchronous e-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS5911){:target="_blank"}  <br> 
+Take a closer look at the common issues and challenges faced by people with mental illness in their recovery process through a better understanding of their roles as professionals. Learners will also attain competency in formulating a comprehensive recovery plan and apply appropriate strategies in supporting the recovery process of the clients with mental illness.
+<br><br>**Course Date:** 4 Aug 2022
+<br> **Registration Closing Date:** 30 June 2022
+
+* [Foundations of Psycho-Social Rehabilitation and Recovery (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SMTH387){:target="_blank"}  <br> 
+Evidence shows that psycho-social rehabilitation services are likely to improve a person’s potential for recovery. Psycho-social rehabilitation is based on the principle that respects the capacity of every person to learn, grow and make independent choices on important matters.  This training will equip practitioners with the relevant knowledge and skills in psycho-social rehabilitation. <br>
+<br>**Course Date:** 1 Sept 2022
+<br> **Registration Closing Date:** 28 July 2022
+
 
 #### **Volunteer Development and Management**
 * [Befriending Skills and Practice - For Volunteers (Synchronous)]( https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311){:target="_blank"}   <br> Build skills and knowledge necessary to coordinate befriending projects to practice standards.  <br><br>**Course Date:** 16 - 17 Aug 2022
