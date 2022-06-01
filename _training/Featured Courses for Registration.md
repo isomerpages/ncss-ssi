@@ -12,9 +12,20 @@ description: "Check out the latest courses that are open for registration at the
 
 #### **Continuing Education & Training (CET) Courses**
 * [Certificate in Para-counselling in Community Setting (Classroom & Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET102){:target="_blank"}   <br> 
-Be equipped with the fundamental knowledge and skills in counselling that is required when working alongside certified counselling professionals. Designed for new entrants of the social service sector. 
-<br><br>**Course Date:** 4 July - 15 Sept 2022
+As professional intervention by a trained counsellor is not always available, Para-counseling can be an important skill to enhance meaningful interaction and emotional support for your clients, co-workers, loved ones. Dr Winston Tay will be sharing fundamental knowledge and skills in counselling engagement, when working alongside with certified counselling professionals in their daily work.  <br>
+<br>**Course Date:** 4 July - 15 Sept 2022
 <br> **Registration Closing Date:** 8 June 2022
+
+#### **Cross Sector**
+* [May I Help You? (Boleh Saya Bantu Anda?) - Conversational Malay for Social Service Practitioners (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5647){:target="_blank"}   
+This basic conversational Malay course is designed to equip frontline social service practitioners with commonly used terms and phrases to better communicate with their clients during home visits or when assessing financial needs. <br>
+<br>**a) Course Date:** 31 Aug - 2 Sept 2022
+<br> **Registration Closing Date:** 27 July 2022 <br>
+<br>**b) Course Date:** 2 - 4 Nov 2022
+<br> **Registration Closing Date:** 28 Sep 2022 <br>
+<br>**c) Course Date:** 15 - 17 Feb 2023
+<br> **Registration Closing Date:** 11 Jan 2023 <br>
+
 
 
 #### **Children, Youth and Family**
