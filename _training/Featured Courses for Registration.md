@@ -57,6 +57,10 @@ Evidence shows that psycho-social rehabilitation services are likely to improve 
 <br>**Course Date:** 1 Sept 2022
 <br> **Registration Closing Date:** 28 July 2022
 
+* [Case Formulation in Youth Mental Health (F.K.A Tools and Skills for Supporting Youths with Mental Health Distress) (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5408){:target="_blank"}  <br> 
+This course is designed for social service professionals who are involved in helping people with mental health concerns/disorders and preferably have basic knowledge of mental health issues and basic counselling skills. *Participants must have at least 1 year working experience with people facing mental health concerns/disorders.<br>
+<br>**Course Date:** 25 July 2022
+<br> **Registration Closing Date:** 20 June 2022
 
 #### **Volunteer Development and Management**
 * [Befriending Skills and Practice - For Volunteers (Synchronous)]( https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311){:target="_blank"}   <br> Build skills and knowledge necessary to coordinate befriending projects to practice standards.  <br><br>**Course Date:** 16 - 17 Aug 2022
