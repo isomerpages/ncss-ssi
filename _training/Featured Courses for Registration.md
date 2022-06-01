@@ -9,6 +9,14 @@ description: "Check out the latest courses that are open for registration at the
 **Courses are now open for registration. Sign up now!**
 <br>(Updated on 2 June 2022)
 
+
+#### **Continuing Education & Training (CET) Courses**
+* [Certificate in Para-counselling in Community Setting (Classroom & Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET102){:target="_blank"}   <br> 
+Be equipped with the fundamental knowledge and skills in counselling that is required when working alongside certified counselling professionals. Designed for new entrants of the social service sector. 
+<br><br>**Course Date:** 4 July - 15 Sept 2022
+<br> **Registration Closing Date:** 8 June 2022
+
+
 #### **Children, Youth and Family**
 
 * [Management of Family Violence: Introduction (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF197){:target="_blank"}   <br> The 3-day workshop will equip learners with a broad understanding of family protection work and provide foundational knowledge on how family law may be applicable when engaging with families experiencing domestic violence. 
