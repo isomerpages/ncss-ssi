@@ -28,8 +28,14 @@ This basic conversational Malay course is designed to equip frontline social ser
 
 * [Understanding the Social Service Sector (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET6-M){:target="_blank"}   
 Gain a broad understanding of the history and development of the social service sector as well as how roles of key providers, trends in each sub-sectors and functional frameworks may affect effective delivery of services.<br>
-<br>**a) Course Date:** 24 Aug 2022
+<br>**Course Date:** 24 Aug 2022
 <br> **Registration Closing Date:** 20 July 2022 <br>
+
+* [Survey Research and Quantitative Analysis (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NRES5270){:target="_blank"}   
+targeted at social work practitioners whom are new to survey research methods and with no or little background to statistical analysis. This may include social work professionals and other frontline social service practitioners who seek the fundamental knowledge and skills in evaluating data leading to their services or analysing data to gather evidence of effectiveness of programmes within their workplaces in a social services setting. Participants are required to bring their own laptops when attending this course. The course features hands-on practice requiring Microsoft Excel software.<br>
+<br>**Course Date:** 15 - 16 Nov 2022
+<br> **Registration Closing Date:** 11 Oct 2022 <br>
+
 
 #### **Children, Youth and Family**
 
