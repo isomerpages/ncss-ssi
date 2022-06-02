@@ -27,9 +27,9 @@ This basic conversational Malay course is designed to equip frontline social ser
 <br> **Registration Closing Date:** 11 Jan 2023 <br>
 
 * [Understanding the Social Service Sector (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET6-M){:target="_blank"}   
-Gain a broad understanding of the history and development of the social service sector as well as  how roles of key providers and trends in each sub-sectors may affect effective delivery of services.<br>
-<br>**a) Course Date:** 31 Aug - 2 Sept 2022
-<br> **Registration Closing Date:** 27 July 2022 <br>
+Gain a broad understanding of the history and development of the social service sector as well as how roles of key providers, trends in each sub-sectors and functional frameworks may affect effective delivery of services.<br>
+<br>**a) Course Date:** 24 Aug 2022
+<br> **Registration Closing Date:** 20 July 2022 <br>
 
 #### **Children, Youth and Family**
 
