@@ -72,9 +72,5 @@ Alternatively, if you have any Volunteer Management related questions, feel free
 
 Visit this page to learn more: [NCSS Volunteer Resource Hub](https://go.gov.sg/ncssvmprofessionaldevelopment)
 
-### News and Articles on Volunteer Development & Management
-Continue receiving news and articles about developments in the Volunteer Development & Management sector through GatherHere. If you are interested to join GatherHere, you can [sign up here](https://go.gov.sg/gh-signup){:target="_blank"}.
-
-
 ### Subscribe to Our Volunteer Development & Management Mailing List
 Subscribe to SSI’s Volunteer Development & Management Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
