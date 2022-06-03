@@ -103,12 +103,10 @@ This course is designed for social service professionals who are involved in hel
 <br>**Registration Closing Date:**  13 July 2022 
 ){:target="_blank"} 
 
-* [SGOOD 6: Financial Management and Accountability
-- Singapore Institute of Directors (Classroom)](https://www.sid.org.sg/Web/Professional_Development/Courses/Essentials/NPO/SGD/SGD6.aspx){:target="_blank"} 
+* [SGOOD 6: Financial Management and Accountability- Singapore Institute of Directors (Classroom)](https://www.sid.org.sg/Web/Professional_Development/Courses/Essentials/NPO/SGD/SGD6.aspx){:target="_blank"} 
 <br>The Governance for Outstanding Organisation Directors (SGOOD) Programme is designed and developed around the learning needs of board members of non-profit organisations. SGOOD 6 delves into the role of the board in evaluating financial risks and enhancing financial governance, and the financial planning and reporting requirements in compliance with the Charities Accounting Standards that boards need to be cognizant of. <br>**Course Date:** 24 Aug 2022 
 <br>**Registration Closing Date:**  10 Aug 2022 
 ){:target="_blank"} 
-
 
 * [Design Thinking: ADEPT @ Delivering the Future - by Capelle](https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&web=1&wdLOR=cE5839D4F-FB53-433E-898D-BC2664ACBFC7){:target="_blank"} 
 <br>Good design and user experience is important in every organisation. Gain a deeper understanding into good, human-centred design, and learn how it can be applied to your organisation’s programmes, processes, service models and management practices. 
