@@ -32,7 +32,7 @@ Gain a broad understanding of the history and development of the social service 
 <br> **Registration Closing Date:** 20 July 2022 <br>
 
 * [Survey Research and Quantitative Analysis (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NRES5270){:target="_blank"}   
-targeted at social work practitioners whom are new to survey research methods and with no or little background to statistical analysis. This may include social work professionals and other frontline social service practitioners who seek the fundamental knowledge and skills in evaluating data leading to their services or analysing data to gather evidence of effectiveness of programmes within their workplaces in a social services setting. Participants are required to bring their own laptops when attending this course. The course features hands-on practice requiring Microsoft Excel software.<br>
+An introductory course that explores fundamental concepts in data evaluation and analysis to help guide social work practitioners in the evaluation of programmes within their workplaces. The course features hands-on practice requiring Microsoft Excel software.<br>
 <br>**Course Date:** 15 - 16 Nov 2022
 <br> **Registration Closing Date:** 11 Oct 2022 <br>
 
