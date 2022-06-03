@@ -55,15 +55,9 @@ The qualitative research methods & analysis course is targeted at social work pr
 <br><br>**Course Date:** 18 - 21 July 2022
 <br> **Registration Closing Date:** 13 June 2022
 
-* [Management of Family Violence: Talking to Children and Managing Abuse-related Disclosure (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5502){:target="_blank"}   <br> 
-How should one respond and manage disclosures of abuse and neglect in a safe and comfortable setting? Service professionals will gain deeper insights into the developmental stages and memory functioning of children and young persons which may impact their ability to disclose events of concern. 
-<br><br>**Course Date:** 7-8 July 2022
-<br>**Written Assessment:** 18 July 2022
-<br> **Registration Closing Date:** 29 May 2022
-
-* [Helping Youths Cope with Anger (Synchronous)]( https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5158){:target="_blank"}   <br> Understanding the possible triggers of anger among youths can help guide intervention strategies needed to manage difficult youths. Learn how to apply stage-specific intervention techniques to encourage proper anger management techniques in youths. 
-<br><br>**Course Date:** 5-7 July 2022
-<br> **Registration Closing Date:** 31 May 2022
+* [Apply development theories when working with children and youths (Classroom & Asynchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF482){:target="_blank"}   <br>This course would equip practitioners with the competencies to apply various lifespan and family development theories needed to devise appropriate intervention strategies when working with children and youth clients as well as their caregivers. 
+<br><br>**Course Date:** 15 Aug - 1 Sept 2022
+<br> **Registration Closing Date:** 11 July 2022
 
 #### **Mental Health**
 * [Peer Support Specialist Programme (Synchronous)](https://www.ssi.gov.sg/training/cet-programmes/peer-support-specialist-programme/){:target="_blank"}  <br> 
