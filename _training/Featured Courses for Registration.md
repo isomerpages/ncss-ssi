@@ -17,6 +17,12 @@ As professional intervention by a trained counsellor is not always available, Pa
 <br> **Registration Closing Date:** 8 June 2022
 
 #### **Cross Sector**
+* [Counselling Skills and Practice: Introduction (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5229){:target="_blank"}   
+Gain valuable insights on how principles of counselling and communication may be applied in overcoming barriers when assisting clients. Upon successful completion of the workshop, participants have the option to enrol and attend the progressive module entitled: Counselling Skills and Practice: Intermediate.
+ <br>
+<br>**a) Course Date:** 2 - 4 Aug 2022
+<br> **Registration Closing Date:** 28 June 2022 <br>
+			
 * [May I Help You? (Boleh Saya Bantu Anda?) - Conversational Malay for Social Service Practitioners (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5647){:target="_blank"}   
 This basic conversational Malay course is designed to equip frontline social service practitioners with commonly used terms and phrases to better communicate with their clients during home visits or when assessing financial needs. <br>
 <br>**a) Course Date:** 31 Aug - 2 Sept 2022
