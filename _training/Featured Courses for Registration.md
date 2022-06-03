@@ -38,6 +38,14 @@ An introductory course that explores fundamental concepts in data evaluation and
 <br>**b) Course Date:** 7 - 8 March 2022
 <br> **Registration Closing Date:** 31 Jan 2023 <br>
 
+* [Qualitative Research Methods and Analysis (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NRES5053){:target="_blank"}   
+The qualitative research methods & analysis course is targeted at social work practitioners seeking fundamental knowledge and skills in implementing qualitative research within their workplaces.<br>
+<br>**a) Course Date:** 28 - 29 Nov 2022
+<br> **Registration Closing Date:** 24 Oct 2022 <br>
+<br>**b) Course Date:** 15 - 16 Feb 2022
+<br> **Registration Closing Date:** 11 Jan 2023 <br>
+
+
 #### **Children, Youth and Family**
 
 * [Management of Family Violence: Introduction (Synchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF197){:target="_blank"}   <br> The 3-day workshop will equip learners with a broad understanding of family protection work and provide foundational knowledge on how family law may be applicable when engaging with families experiencing domestic violence. 
