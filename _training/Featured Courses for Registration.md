@@ -96,6 +96,13 @@ This course is designed for social service professionals who are involved in hel
 <br>**Course Date:** 22 June 2022 
 <br>**Registration Closing Date:**  15 June 2022 
 
+
+* [SGOOD 5: Strategy and Board Performance - Singapore Institute of Directors (Classroom)](https://www.sid.org.sg/Web/Professional_Development/Courses/Essentials/NPO/SGD/SGD5.aspx){:target="_blank"} 
+<br>The Governance for Outstanding Organisation Directors (SGOOD) Programme is designed and developed around the learning needs of board members of non-profit organisations. SGOOD 5 delves into the importance of strategic planning for non-profits, as well as the methods and tools non-profit leaders can use to align their strategies, programmes and communications to organisational goals. 
+<br>**Course Date:** 26 July 2022 
+<br>**Registration Closing Date:**  13 July 2022 
+){:target="_blank"} 
+
 * [Design Thinking: ADEPT @ Delivering the Future - by Capelle](https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&web=1&wdLOR=cE5839D4F-FB53-433E-898D-BC2664ACBFC7){:target="_blank"} 
 <br>Good design and user experience is important in every organisation. Gain a deeper understanding into good, human-centred design, and learn how it can be applied to your organisation’s programmes, processes, service models and management practices. 
 <br>**Course Date:** 2 -3 June 2022 
