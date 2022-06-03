@@ -114,7 +114,6 @@ This course is designed for social service professionals who are involved in hel
 <br>**Registration Closing Date:**  23 June 2022 
 ){:target="_blank"} 
 
-
 * [Strategy Execution in Disruptive Times - DPI Asia (Synchronous)](https://shoutout.wix.com/so/0dO3kgQXQ?languageTag=en&cid=a6a0664b-c131-4e9b-bd3b-d26eeebafc9c#/main){:target="_blank"} 
 <br>What does a ‘roll-out ready’ business strategy look like in the social services sector? Join this one-day workshop to gain deeper insight into the frameworks, processes and guidelines for effective strategy implementation, and learn how you can better manage fallouts in your current strategy for growth and improved performance. 
 <br>**Course Date:** 6 July 2022 
