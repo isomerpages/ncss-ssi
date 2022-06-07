@@ -8,8 +8,11 @@ description: "Check out the latest courses that are open for registration at the
 ---
 ### **Courses are now open for registration!**
 
-**View our course schedule:** <br>
-[Course Schedule for July/July](/files/Files%20for%20Learners/Course-Schedule-June-July%202022.pdf){:target="_blank"} 
+**View our course schedule (July-September):** <br>
+[Course Schedule](/files/Files%20for%20Learners/Course-Schedule-June-July-2022.pdf){:target="_blank"} 
+(Registration closing soon)
+
+
 
 <br>
 <br>
