@@ -22,7 +22,6 @@ The featured courses are:
 -   [Understanding Persons with Sensory Disabilities<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS408)   
 -   [Working Effectively with Youths: Strategies and Techniques (For Volunteers)<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS402){:target="_blank"}  
 - [Volunteer Management Practices: Connect, Engage, Develop](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD313){:target="_blank"} 
--   [Volunteer Management System Engaging Volunteers Systematically](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5432_1){:target="_blank"} 
 -   [Introduction to Volunteerism (E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD422){:target="_blank"} 
 -   [Getting your Social Agency Volunteer-Ready (E-learning)](https://e-services.ncss.gov.sg/Training/Course/Detail/7605DA4A-80CF-EB11-8178-000C296EE030){:target="_blank"} 
 -   [Conducting a Needs Assessment (E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD424){:target="_blank"} 
@@ -52,7 +51,8 @@ Volunteer Management Practitioners (VMPs) are key enablers in engaging volunteer
 
 The LDR provides guidance on the skills and competencies required to perform effectively and optimise volunteer resources in meeting the needs of service users. It shows potential development pathways and learning opportunities as VMPs plan towards the longer-term goal of serving and growing with the sector. Besides VMPs, SSAs’ management and human resource practitioners may also use the LDR as a guide to recruit and develop their VMPs.
 
-![Learning and Development Roadmap - Volunteer Management Practitioners](/images/Learning%20and%20Development%20Roadmap.png)
+**Click on below image to download the LDR publication:**
+[![Learning and Development Roadmap - Volunteer Management Practitioners](/images/Learning%20and%20Development%20Roadmap.png)](https://www.ncss.gov.sg/docs/default-source/default-document-library/l-d-roadmap-for-vmps-(final).pdf){:target="_blank"}
 
 ![](/images/training/volunteer/L_D%20Quote%20Banner_01.jpg)
 
@@ -60,16 +60,17 @@ The LDR provides guidance on the skills and competencies required to perform eff
 
 ![](/images/training/volunteer/L_D%20Quote%20Banner_03.jpg)
 
-### Self-assessment Tool
+### [LDR Self-assessment Tool](https://go.gov.sg/ncssvro-ldrsat){:target="_blank"}
+
 The accompanying Self-assessment Tool (SAT) to the LDR helps VMPs to identify their proficiency gaps and relevant training courses (including Social Service Institutes’ (SSI) courses), to further strengthen their capabilities so as to perform effectively in their roles.
 
 
-###  NCSS Volunteer Resource Hub
+###  NCSS Volunteer Management Community
+Be the first to receive updates on Volunteer Management related news and initiatives, [register here to be a part of the community](https://go.gov.sg/ncssvro-vmcommunity){:target="_blank"}! 
+
+Alternatively, if you have any Volunteer Management related questions, feel free to drop us an email at <volunteer_resource@ncss.gov.sg>.
+
 Visit this page to learn more: [NCSS Volunteer Resource Hub](https://go.gov.sg/ncssvmprofessionaldevelopment)
 
-### News and Articles on Volunteer Development & Management
-Continue receiving news and articles about developments in the Volunteer Development & Management sector through GatherHere. If you are interested to join GatherHere, you can [sign up here](https://go.gov.sg/gh-signup){:target="_blank"}.
-
-
-### Subscribe to Our Volunteer Development & Management
+### Subscribe to Our Volunteer Development & Management Mailing List
 Subscribe to SSI’s Volunteer Development & Management Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
