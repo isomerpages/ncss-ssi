@@ -12,11 +12,15 @@ The featured courses are:
 -   [Design and Develop an Effective Volunteer Work Programme](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NVOL5809){:target="_blank"} 
 -   [Introduction to Youth Mentoring (For Volunteers)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD227){:target="_blank"}   
 -   [Working Effectively with Youths (e-Learning)<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS402){:target="_blank"}  
+-   [Introduction to Volunteerism (E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD422){:target="_blank"} 
+-   [Getting your Social Agency Volunteer-Ready (E-learning)](https://e-services.ncss.gov.sg/Training/Course/Detail/7605DA4A-80CF-EB11-8178-000C296EE030){:target="_blank"} 
+-   [Conducting a Needs Assessment (E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD424){:target="_blank"} 
+-   [Recruiting and Selecting Volunteers (E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD425){:target="_blank"} 
+-   [On-boarding and Training Volunteers (E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD426){:target="_blank"} 
+-   [Supporting and Recognising Volunteers (E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD427){:target="_blank"} 
+-   [Reviewing Volunteer Management (E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD428){:target="_blank"} 
 
-
-
-
-
+**Volunteer Development**
 -   [Ageing Process](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SELC421){:target="_blank"}
 -   [Befriending Seniors<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS403){:target="_blank"}   
 -   [Befriending Skills and Practice (For Volunteers)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311){:target="_blank"}   
@@ -30,13 +34,8 @@ The featured courses are:
 -   [Understanding Persons with Sensory Disabilities<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS408)   
 
 
--   [Introduction to Volunteerism (E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD422){:target="_blank"} 
--   [Getting your Social Agency Volunteer-Ready (E-learning)](https://e-services.ncss.gov.sg/Training/Course/Detail/7605DA4A-80CF-EB11-8178-000C296EE030){:target="_blank"} 
--   [Conducting a Needs Assessment (E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD424){:target="_blank"} 
--   [Recruiting and Selecting Volunteers (E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD425){:target="_blank"} 
--   [On-boarding and Training Volunteers (E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD426){:target="_blank"} 
--   [Supporting and Recognising Volunteers (E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD427){:target="_blank"} 
--   [Reviewing Volunteer Management (E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD428){:target="_blank"} 
+
+
 
 
 For the full list of volunteer development and management courses click [here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}.  
