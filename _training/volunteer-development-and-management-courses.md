@@ -3,7 +3,7 @@ title: Volunteer Development and Management Courses
 permalink: /training/volunteer-development-and-management/
 description: SSI provides courses that both empower volunteers and volunteer managers.
 ---
-![Social Service Institute (SSI) Singapore - Volunteer Development & Management Courses](/images/training/Volunteer_SSI_header-banner-757-x-239px8.jpg)
+![Social Service Institute (SSI) Singapore - Volunteer Management & Development Courses](/images/training/Volunteer_SSI_header-banner-757-x-239px8.jpg)
 
 The featured courses are:   
 
