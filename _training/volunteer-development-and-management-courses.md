@@ -52,9 +52,9 @@ The LDR provides guidance on the skills and competencies required to perform eff
 **Click on below image to download the LDR publication:**
 [![Learning and Development Roadmap - Volunteer Management Practitioners](/images/Learning%20and%20Development%20Roadmap.png)](https://www.ncss.gov.sg/docs/default-source/default-document-library/l-d-roadmap-for-vmps-(final).pdf){:target="_blank"}
 
-![](/images/training/volunteer/L_D%20Quote%20Banner_01.jpg)
-
 ![](/images/training/volunteer/L_D%20Quote%20Banner_02.jpg)
+
+![](/images/training/volunteer/L_D%20Quote%20Banner_01.jpg)
 
 ![](/images/training/volunteer/L_D%20Quote%20Banner_03.jpg)
 
