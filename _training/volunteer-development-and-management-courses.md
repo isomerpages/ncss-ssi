@@ -21,22 +21,13 @@ The featured courses are:
 -   [Reviewing Volunteer Management (E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD428){:target="_blank"} 
 
 **Volunteer Development**
--   [Ageing Process](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SELC421){:target="_blank"}
 -   [Befriending Seniors<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS403){:target="_blank"}   
 -   [Befriending Skills and Practice (For Volunteers)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311){:target="_blank"}   
-
-
 -   [Overview to Disabilities<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS401){:target="_blank"}   
-
 -   [Understanding Persons with Developmental Disabilities<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS404){:target="_blank"} 
 -   [Understanding Persons with Intellectual Disabilities<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS405){:target="_blank"} 
 -   [Understanding Persons with Physical Disabilities<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS412){:target="_blank"}   
 -   [Understanding Persons with Sensory Disabilities<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS408)   
-
-
-
-
-
 
 For the full list of volunteer development and management courses click [here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}.  
 
