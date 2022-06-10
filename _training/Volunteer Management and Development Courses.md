@@ -29,7 +29,7 @@ The featured courses are:
 -   [Understanding Persons with Physical Disabilities<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS412){:target="_blank"}   
 -   [Understanding Persons with Sensory Disabilities<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS408)   
 
-For the full list of volunteer development and management courses click [here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}.  
+For the full list of volunteer management and development courses click [here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}.  
 
 ### Key Adult Educators
 **Ms Alice Lee-Tok**   
@@ -58,9 +58,11 @@ The LDR provides guidance on the skills and competencies required to perform eff
 
 ![](/images/training/volunteer/L_D%20Quote%20Banner_03.jpg)
 
-### [LDR Self-assessment Tool](https://go.gov.sg/ncssvro-ldrsat){:target="_blank"}
+### LDR Self-assessment Tool
 
 The accompanying Self-assessment Tool (SAT) to the LDR helps VMPs to identify their proficiency gaps and relevant training courses (including Social Service Institutes’ (SSI) courses), to further strengthen their capabilities so as to perform effectively in their roles.
+
+Complete the Digital Self-Assessment Tool [here](https://go.gov.sg/ncssvro-ldrsat){:target="_blank"} and receive a personalised report!
 
 
 ###  NCSS Volunteer Management Community
