@@ -4,9 +4,7 @@ permalink: /stories/ms-tan-qiu-ling/
 description: Ms Tan Qiu Ling is a social worker at the South Central Community
   Family Service Centre. Read more about her social service story.
 ---
-
-
-## Ms Tan Qiu Ling, Social Worker, South Central Community Family Service Centre
+## Social Worker, South Central Community Family Service Centre
 
 After graduating with a Mass Communications diploma, Qiu Ling was suddenly faced with a life decision. Was the media industry what she truly looked for as a career choice? Fortunately, we have Rick Warren’s The Purpose Driven Life to thank for turning her around. The inspirational book made Qiu Ling realised she wanted to do something meaningful to help others in the community. There was no stopping her once she made up her mind. When she applied for the NCSS scholarship to pursue her Degree in Social Work from NUS, her motivation, and promising leadership ability, were clearly noticed.
  
