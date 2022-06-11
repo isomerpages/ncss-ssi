@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Who We Are.md
-      - our-audience.md
+      - Our Audience.md
       - our-milestones.md
       - our-partners.md
       - contact-us.md
