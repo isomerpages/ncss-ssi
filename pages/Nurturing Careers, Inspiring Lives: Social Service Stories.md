@@ -4,8 +4,6 @@ permalink: /stories/ssi-inspiring-e-book/
 description: Nurturing Careers, Inspiring Lives is a compilation of social
   service career stories from the SSI. Read the e-book for free here.
 ---
-
-
 ## Nurturing Careers, Inspiring Lives
 
 [![Nurturing Careers, Inspiring Lives](/images/stories/pages/inspiringbook-v1.png)](/images/stories/pages/Nurturing-Careers-Inspiring-Lives-Vol-2.pdf){:target="_blank"}
@@ -15,4 +13,3 @@ description: Nurturing Careers, Inspiring Lives is a compilation of social
 This book was launched by the Minister of Education, Mr Ong Ye Kung, during SSI's Graduation and Awards Ceremony 2016. The book’s foreword is contributed by Mr Tan Chuan-Jin, the current Speaker of Parliament and captures the importance of continued learning and development in order to meet the needs of the evolving social service sector.
 
 [Click here to view the e-Book](/images/stories/pages/Nurturing-Careers-Inspiring-Lives-Vol-2.pdf){:target="_blank"}
-
