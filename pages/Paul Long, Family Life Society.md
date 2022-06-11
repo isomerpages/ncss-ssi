@@ -4,10 +4,7 @@ permalink: /stories/mr-paul-long/
 description: Mr Paul Long is an executive director at the Family Life Society.
   Read more about his social service story here.
 ---
-
-
-
-## Mr Paul Long, Executive Director, Family Life Society
+## Executive Director, Family Life Society
 
 If Mr Paul Long had aced that eye sight test, he could have been flying the plane over the jubilant crowd at the National Day celebrations, honoured to be achieving his childhood dream.
 
