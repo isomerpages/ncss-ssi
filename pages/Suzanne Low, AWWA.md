@@ -4,9 +4,7 @@ permalink: /stories/ms-suzanne-low/
 description: Ms Suzanne low is a social worker from AWWA School. Read more about
   her journey in the social service sector here.
 ---
-
-
-## Ms Suzanne Low, Social Worker, AWWA School
+## Social Worker, AWWA School
 
 Once upon a time to many Singaporeans (and perhaps now still applicable to some others), the definition of success means the 5Cs: Car, Cash, Condominium, Country Club membership and Credit Card.
 
