@@ -4,9 +4,7 @@ permalink: /stories/mr-fang-xinwei/
 description: Mr Fang Xinwei is a senior social worker at Singapore Children's
   Society.  Read more about his social service story here.
 ---
-
-
-## Mr Fang Xinwei, Senior Social Worker, Singapore Children’s Society
+## Senior Social Worker, Singapore Children’s Society
 
 Even before joining the Singapore Children’s Society as a fresh graduate in 2013, Xinwei always had a keen passion for working with children. He was a pastoral staff at his church’s children ministry for nine years, and it was that experience which inspired him to pursue a degree and career in Social Work.
  
