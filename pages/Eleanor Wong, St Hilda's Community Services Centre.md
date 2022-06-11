@@ -4,9 +4,7 @@ permalink: /stories/ms-eleanor-wong/
 description: Ms Eleanor Wong is a community executive at St Hilda's Community
   Services Centre. Read more about her social service story.
 ---
-
-
-## Ms Eleanor Wong, Community Executive, St Hilda’s Community Services Centre
+## Community Executive, St Hilda’s Community Services Centre
 
 Having worked with former offenders for over 10 years, Eleanor Wong was no stranger to social work. However, it still took a leap of faith for her to make a job switch and start working with the elderly at St Hilda’s Community Services Centre, Friends@St Hilda’s Link. The move threw her into unfamiliar territory and, for the first few days, she questioned if she had made the right decision. Seeking answers, she turned to prayer, and was rewarded with a strong sense of peace.
  
@@ -23,4 +21,3 @@ Eleanor credits her proficiency at her job to the DSS and HDSS programmes. Besid
 While it wasn’t easy juggling work and studies, Eleanor is proud to say that her efforts have paid off. Through her perseverance, she graduated as one of the top students in her cohort for DSS, and is well on her way to completing her HDSS.
  
 Eleanor jokes that her brother has always teased her for being a kaypoh or busybody. But the truth is, community and social work are really her passion, and she loves helping people. And she is very persistent in her work as well – she spent three years trying to convince one of the elderly residents to join the centre. She finally succeeded, showing that it pays to keep on trying.
- 
