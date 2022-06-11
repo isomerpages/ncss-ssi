@@ -4,9 +4,7 @@ permalink: /stories/mr-michael-kee-and-ms-irene-neo/
 description: SSI courses helped prepare foster parents like Mr Michael Kee and
   Ms Irene Neo for fostering in SIngapore. Read their story here.
 ---
-
-
-## Mr Michael Kee and Ms Irene Neo, Foster Parents
+## Foster Parents' Experience of Fostering in Singapore
 
 The combination of Irene and Michael’s individual strengths are what help create a loving and conducive environment to foster a child.  With her aptitude for logic and organisation, Irene focuses on establishing a comfortable routine that the child can easily adjust to, while Michael’s vision and optimism creates room for the child’s growth and potential to blossom.
  
