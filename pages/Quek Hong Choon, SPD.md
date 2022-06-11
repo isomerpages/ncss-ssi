@@ -4,9 +4,7 @@ permalink: /stories/mr-quek-hong-choon/
 description: Mr Quek Hong Choon is the director of Organisational Development in
   SPD. Read more about his social service story here.
 ---
-
-
-## Mr Quek Hong Choon, Director, SPD
+## Director, SPD
 If you like to read non-fiction books, Mr Quek Hong Choon, Director, Organisational Development, SPD, is of the view that Man’s Search For Meaning, by Viktor Frankl, is a good read.
 
 Mr Quek’s interest and passion has always been in people, in interpersonal interaction. Before he joined the social service sector, he was a prison officer for 14 years. He felt the need to explore other areas, and social service turned out to be a natural choice for him for a career switch. His first stop was Dyslexia Association of Singapore (DAS). Then he heard about the Sun Ray initiative, offered by NCSS. The scheme provides successful applicants rotation among the various social service agencies so that they can gain a more diversified work portfolio.
