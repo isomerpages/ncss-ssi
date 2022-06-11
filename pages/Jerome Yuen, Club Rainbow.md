@@ -4,9 +4,7 @@ permalink: /stories/mr-jerome-yuen/
 description: Mr Jerome Yuen is an executive director from Club Rainbow
   (Singapore). Read more about his social service story here.
 ---
-
-
-## Mr Jerome Yuen, Executive Director, Club Rainbow (Singapore)
+## Executive Director, Club Rainbow (Singapore)
 
 On the first of October 2016, Club Rainbow (Singapore) organised the inaugural Project Runway show at the *SCAPE The Ground Theatre to a rousing runaway success. This is however not the usual fashion show one would see, because the conceptualisation of the 3 collections – the Rainbow, Friendship and Upcycled themes – are the impressive work of the chronically-ill children that Club Rainbow (Singapore) serves.
 
