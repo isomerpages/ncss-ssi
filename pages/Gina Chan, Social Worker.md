@@ -4,9 +4,8 @@ permalink: /stories/ms-gina-chan/
 description: Ms Gina Chan is a social worker at CROSSROAD Youth Centre. Read
   more about her journey in the social service sector here.
 ---
+## Social Worker, CROSSROAD Youth Centre (Care Corner Singapore Ltd)
 
-
-## Ms Gina Chan, Social Worker, CROSSROAD Youth Centre (Care Corner Singapore Ltd)
 “At the end of the day, always keep in sight the purpose why you join the social service sector in the first place. This sector requires a lot of ‘heart’ work. Once you lose heart, it becomes hard work, and no longer heart work. See more of it as a vocation and calling, rather than just work.”
 
 Indeed, Ms Gina Chan, a social worker at CROSSROAD Youth Centre (under Care Corner Singapore Ltd), continuously keeps her own advice in mind, the same advice she would also impart to new colleagues who just entered the social service industry. An adrenalin junkie who looks forward to skydiving as her next goal, Ms Chan’s day is spent doing more down-to-earth stuff. In the mornings, she catches up on her administrative work, case recordings or researching on resources on how to work more effectively with youths. In the afternoon, the youths then stream in for counselling, or she may head out to conduct home visits or attend school conferences. While teachers in the mainstream school may heave a sigh of relief during the school holidays, that period is the busiest for her. CROSSROAD Youth Centre organises a wide variety of programmes to keep their youths engaged, like outdoor based activities to bring in experiential learning so that they learn more about themselves and their values.
