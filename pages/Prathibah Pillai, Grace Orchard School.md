@@ -4,9 +4,7 @@ permalink: /stories/ms-prathibah-pillai-d-o-pillai-parappa-karan/
 description: Ms Prathibah Pillai is a teacher from Grace Orchard School. Read
   more about her journey in the social service sector here.
 ---
-
-
-## Ms Prathibah Pillai D/O Pillai Parappa Karan, Teacher, Grace Orchard School
+## Teacher, Grace Orchard School
 
 For this composed teacher from Grace Orchard School, you would be surprised to hear that her favourite movie is the action-packed Face/Off, directed by John Woo, and starring Nicolas Cage and John Travolta.
 
