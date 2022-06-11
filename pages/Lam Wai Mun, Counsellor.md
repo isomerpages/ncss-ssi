@@ -4,8 +4,7 @@ permalink: /stories/mr-lam-wai-mun/
 description: Mr lam Wai Mun is a counsellor from the Fei yue Family Service
   Centre. Read more about his social service story here.
 ---
-
-## Mr Lam Wai Mun, Counsellor, Fei Yue Family Service Centre (Champions Way)
+## Counsellor, Fei Yue Family Service Centre (Champions Way)
 
 With feedback from his colleagues that they see him as someone who is so super focused at work, and able to sit at the desk all day long to do his work, Mr Lam Wai Mun still finds himself lacking in
 some aspects. So, if he could have a super power, he would love the idea of being imbued with super wisdom. Why so?
