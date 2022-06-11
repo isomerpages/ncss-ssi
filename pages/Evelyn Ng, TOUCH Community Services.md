@@ -4,10 +4,7 @@ permalink: /stories/ms-evelyn-ng/
 description: Ms Evelyn Ng is a senior care associate at TOUCH Community
   Services. Read more about her journey in the social service sector here.
 ---
-
-
-
-## Ms Evelyn Ng, Senior Care Associate, TOUCH Community Services (TOUCH Home Care)
+## Senior Care Associate, TOUCH Community Services (TOUCH Home Care)
 
 Answer the following question: True or False - The elderly do things that don’t make sense.
 
