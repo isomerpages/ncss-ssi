@@ -4,9 +4,7 @@ permalink: /stories/ms-nur-khaiyisha-bte-abd-kadir/
 description: Ms Nur Khaiyisha is a special needs teacher at APSN. Read more
   about her journey in the social service sector here.
 ---
-
-
-## Ms Nur Khaiyisha Bte Abd Kadir, Special Needs Teacher, APSN
+## Special Needs Teacher, APSN
 
 Khaiyisha would like to tell those thinking of joining the social service sector, or who would like to give back to society in some  way to “Go for it” if you have that voice or feeling in your heart. “Start from that small fire,” she asserts.
  
