@@ -4,9 +4,7 @@ permalink: /stories/ms-lau-yun-yi/
 description: Ms Lau Yun Yi is a teacher assistant from  AWWA School. Read more
   about her journey in the social service sector here.
 ---
-
-
-## Ms Lau Yun Yi, Teacher Assistant, AWWA School
+## Teacher Assistant, AWWA School
 
 For the petite teacher assistant Ms Lau Yun Yi, her favourite movie is none other than Taare Zameen Par (Like Stars On Earth). Featuring Darsheel Safary in the lead role of an autistic 8-year-old student, the 2007 Indian movie explores the story of a teacher (played by Aamir Khan) who helps the said student achieve his dreams.
 
