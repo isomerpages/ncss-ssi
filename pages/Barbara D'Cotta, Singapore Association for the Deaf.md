@@ -4,9 +4,7 @@ permalink: /stories/ms-barbara-d-cotta/
 description: Ms Barbara D'Cotta was a vice principal at the Singapore School for
   the Deaf. Read more about her social service story here.
 ---
-
-
-## Ms Barbara D’ Cotta ,Vice Principal, Singapore School for the Deaf
+## Vice Principal, Singapore School for the Deaf
 
 As Vice Principal at the Singapore School for the Deaf, Barbara D’Cotta already has her hands full overseeing the ins-and-outs of running a school. Yet, she makes it a point to teach one class every year, in addition to her duties as Vice Principal. This has helped to sustain her love for teaching.
 
