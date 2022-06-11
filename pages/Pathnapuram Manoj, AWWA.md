@@ -4,10 +4,7 @@ permalink: /stories/mr-pathnapuram-manoj/
 description: Mr Pathnapuram Manoj is an assistant director from AWWA Ltd. Read
   more about his journey in the social service sector here.
 ---
-
-
-
-## Mr Pathnapuram Manoj, Assistant Director (Resource & Training Centre), AWWA Ltd
+## Assistant Director (Resource & Training Centre), AWWA Ltd
 
 Joining the Sun Ray scheme represented a new beginning for Manoj. It provided him with the opportunity to further grow his expertise after 15 years as a speech therapist under a single organisation.
  
