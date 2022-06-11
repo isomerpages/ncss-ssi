@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Who We Are.md
+      - About Social Service Institute (SSI).md
       - Our Audience.md
       - our-milestones.md
       - Our Partners.md
