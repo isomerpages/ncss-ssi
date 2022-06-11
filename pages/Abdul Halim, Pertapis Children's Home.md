@@ -4,10 +4,7 @@ permalink: /stories/mr-abdul-halim/
 description: Mr Abdul Halim is a welfare officer at Pertapis Children's Home.
   Read more about his social service story here.
 ---
-
-
-
-## Mr Abdul Halim, Welfare Officer, Pertapis Children’s Home
+## Welfare Officer, Pertapis Children’s Home
 
 The walls of Pertapis Children’s Home are adorned with bright and cheerful drawings painted by volunteers. These have been embellished with sketches, created by the young residents of the home who are mostly between seven and 12 years old. Abdul Halim, Welfare Officer at the home, describes his young charges fondly as “still children, but a bit more ‘spicy’.” While their feistiness may not be obvious at first glance, Halim shares that quite a few of them have exhibited violent tendencies even at their young age. Some have even been abused by their family members. 
 
