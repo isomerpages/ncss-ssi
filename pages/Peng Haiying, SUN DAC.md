@@ -4,10 +4,7 @@ permalink: /stories/ms-peng-haiying/
 description: Ms Peng Haiying is the executive director of SUN-DAC. Read more
   about her journey in the social service sector here.
 ---
-
-
-
-## Ms Peng Haiying, Executive Director, SUN-DAC
+## Executive Director, SUN-DAC
 
 “If you can’t heal lives, you can heal hearts.” That is what Haiying’s parents told her, when they gave her their blessings to switch careers and join the social service sector.
 
