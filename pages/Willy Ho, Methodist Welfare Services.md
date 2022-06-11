@@ -4,9 +4,7 @@ permalink: /stories/mr-willy-ho/
 description: Mr Willy Ho is a senior programme executive in Methodist Welfare
   Services. Read more about his social service story here.
 ---
-
-
-## Mr Willy Ho, Senior Programme Executive, Methodist Welfare Services (Wesley Seniors Activity Centre)
+## Senior Programme Executive, Methodist Welfare Services (Wesley Seniors Activity Centre)
 
 When the Wesley Seniors Activity Centre – a community outreach partnership between Methodist Welfare Services and Wesley Methodist Church – was established in 2010, the elderly living around the area were mostly not acquainted among themselves.
 
@@ -25,4 +23,4 @@ A few years later, the Person-Centred Approach Communities of Practice (PCA CoP)
 
 Along the way, there definitely were situations with difficult clients. In those situations, Mr Ho tapped on his listening ear to provide the diplomatic edge to cool them down, and later explained the rationale behind his actions, thus successfully managing their challenging behaviours. Thankfully, there are also volunteers helping out at the centre, for instance students from Hwa Chong High School and the NUS College of Alice & Peter Tan. One of the biggest misconceptions Mr Ho heard from the students is that they feel that the elderly are unable to do a lot of things. But after volunteering at the centre, they are pleasantly surprised that the elderly are more able, nimble and active than they thought. 
 
-Unknown to many friends and colleagues, Mr Ho’s childhood aspiration was to manage a fun fair. This was due to the joyous times he spent at many fun fairs when he was young, playing the games at the various stalls, and winning little prize tokens. His dream was somewhat realised by the weekly bingo game at the centre, allowing him also to partake in the joy of the seniors. Like the other ambassadors featured here, Mr Ho is also a successful personification of a fruitful mid career change. He was previously in the commercial sector for many years, before moving on to the government sector, and finally settling down in the social service sector where he is now happily working with the elderly and the community, putting to good use his inherent talent of active listening. 
+Unknown to many friends and colleagues, Mr Ho’s childhood aspiration was to manage a fun fair. This was due to the joyous times he spent at many fun fairs when he was young, playing the games at the various stalls, and winning little prize tokens. His dream was somewhat realised by the weekly bingo game at the centre, allowing him also to partake in the joy of the seniors. Like the other ambassadors featured here, Mr Ho is also a successful personification of a fruitful mid career change. He was previously in the commercial sector for many years, before moving on to the government sector, and finally settling down in the social service sector where he is now happily working with the elderly and the community, putting to good use his inherent talent of active listening.
