@@ -44,7 +44,8 @@ custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-description: ""
+description: The Social Service Institute (SSI) is a CET centre that supports
+  the training needs of the social service sector.
 vica: true
 staging: https://ncss-ssi-staging.netlify.app
 prod: https://ncss-ssi-prod.netlify.app
