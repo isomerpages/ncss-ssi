@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - training-overview.md
-      - Featured Courses for Registration.md
+      - Featured Social Service Courses for Registration.md
       - continuing-education-training-cet-courses.md
       - cross-sector-courses.md
       - children-youth-and-family-courses.md
@@ -12,7 +12,7 @@ collections:
       - eldercare-courses.md
       - board-development-courses.md
       - management-and-organisation-development-courses.md
-      - volunteer-development-and-management-courses.md
+      - Volunteer Management and Development Courses.md
       - caregiving-courses.md
       - nexleaders-programme.md
       - sgunited-skills-programme.md

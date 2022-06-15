@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Who We Are.md
-      - our-audience.md
+      - About Social Service Institute (SSI).md
+      - Our Audience.md
       - our-milestones.md
-      - our-partners.md
+      - Our Partners.md
       - contact-us.md
-      - Join Our Mailing List.md
+      - Mailing List for SSI's updates.md
