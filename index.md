@@ -1,8 +1,8 @@
 ---
 layout: homepage
 title: SSI Singapore
-description: Visit the Social Service Institute (SSI) Singapore's website and
-  discover training programmes and resources for the social service sector.
+description: The Social Service Institute (SSI) is a CET centre that supports
+  the training needs of the social service sector.
 image: /images/SSILogoFullColour_large_fullwidth.png
 permalink: /
 notification: iLTMS is now live! <a
@@ -78,3 +78,4 @@ sections:
       subtitle: Media
       button: More Media
 ---
+
