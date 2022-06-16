@@ -9,11 +9,11 @@ description: SSI’s children, youth and family courses provides learners with t
 The featured courses are:  
 
  - [An Introduction to Family Therapy](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5646){:target="_blank"}  
- - [Certified User for Child & Adolescent Needs & Strengths (CANS)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF226){:target="_blank"}  
+ - [Certified User for Child & Adolescent Needs & Strengths (CANS)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5894){:target="_blank"}  
  - [Certified User for Youth Level of Service/ Case Management (YLS/CMI)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5858){:target="_blank"}   
  - [Child Abuse Reporting Guide](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF434){:target="_blank"} 
  - [Delivering Impactful Training to Youths](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5340){:target="_blank"} 
- - [Family and Adult Support Tool (FAST) - User](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF435){:target="_blank"}  
+ - [Family and Adult Support Tool (FAST) - User](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5936){:target="_blank"}  
  - [Helping Youths Cope with Anger](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5158){:target="_blank"} 
  - [Introduction to Sector-Specific Screening Guide](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF436){:target="_blank"} 
  - [Introduction to Child Protection Framework](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF435){:target="_blank"} 
