@@ -8,10 +8,10 @@ permalink: /
 notification: iLTMS is now live! <a
   href=https://www.ssi.gov.sg/training/course-registration/ target="_blank">
   Register for our courses now! </a> Please note that MyInfo will be undergoing
-  maintenance from 18 June 2022 (6pm) to 19 June 2022 (8am). During this time,
-  you will be able to continue registering for SSI courses, however, retrieval
-  of personal information via MyInfo on iLTMS may be affected. We apologise for
-  any inconveniences caused.
+  maintenance from 18 June 2022 (6pm) to 19 June 2022 (8am). During this period,
+  while course registeration is still possible, retrieval of personal
+  information via MyInfo on iLTMS may be affected. We apologise for any
+  inconveniences caused.
 sections:
   - hero:
       title: Social Service Institute
