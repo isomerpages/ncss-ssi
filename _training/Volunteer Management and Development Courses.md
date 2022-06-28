@@ -11,7 +11,7 @@ The featured courses are:
 - [Volunteer Management Practices: Connect, Engage, Develop](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD313){:target="_blank"} 
 -   [Design and Develop an Effective Volunteer Work Programme](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NVOL5809){:target="_blank"} 
 -   [Introduction to Volunteerism (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD422){:target="_blank"} 
--   [Getting your Social Agency Volunteer-Ready (e-Learning)](https://e-services.ncss.gov.sg/Training/Course/Detail/7605DA4A-80CF-EB11-8178-000C296EE030){:target="_blank"} 
+-   [Getting your Social Agency Volunteer-Ready (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD423){:target="_blank"} 
 -   [Conducting a Needs Assessment (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD424){:target="_blank"} 
 -   [Recruiting and Selecting Volunteers (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD425){:target="_blank"} 
 -   [On-boarding and Training Volunteers (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD426){:target="_blank"} 
@@ -28,7 +28,7 @@ The featured courses are:
 -   [Understanding Persons with Developmental Disabilities (e-Learning)<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS404){:target="_blank"} 
 -   [Understanding Persons with Intellectual Disabilities (e-Learning)<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS405){:target="_blank"} 
 -   [Understanding Persons with Physical Disabilities (e-Learning)<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS412){:target="_blank"}   
--   [Understanding Persons with Sensory Disabilities (e-Learning)<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS408)   
+-   [Understanding Persons with Sensory Disabilities (e-Learning)<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS408){:target="_blank"}    
 
 For the full list of volunteer management and development courses click [here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}.  
 
