@@ -7,11 +7,10 @@ image: /images/SSILogoFullColour_large_fullwidth.png
 permalink: /
 notification: iLTMS is now live! <a
   href=https://www.ssi.gov.sg/training/course-registration/ target="_blank">
-  Register for our courses now! </a> Please note that MyInfo will be undergoing
-  maintenance from 18 June 2022 (6pm) to 19 June 2022 (8am). During this period,
-  course registration is still possible but retrieval of personal information
-  via MyInfo on iLTMS may be affected. We apologise for any inconveniences
-  caused.
+  Register for our courses now! </a> Please note that iLTMS will be undergoing
+  the <a href=https://www.ssi.gov.sg/maintenance-schedule target="_blank">
+  scheduled maintenance on the following dates. </a> Access to iLTMS may be
+  disrupted.
 sections:
   - hero:
       title: Social Service Institute
@@ -43,7 +42,7 @@ sections:
       description: Download our training directory to learn more about the broad range
         of courses that SSI offers from 10 different categories.
       button: Download our training directory!
-      url: /images/documents/SSI0026_21 Training Directory Single Page.pdf
+      url: /training/course-registration/
       image: /images/homepage/Training_Direc_Banner.jpg
       alt: Social Service Institute SSI Singapore - Course Schedule,Course
         List,Training Calendar
