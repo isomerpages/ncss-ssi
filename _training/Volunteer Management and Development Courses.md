@@ -71,7 +71,7 @@ Be the first to receive updates on Volunteer Management related news and initiat
 
 Alternatively, if you have any Volunteer Management related questions, feel free to drop us an email at <volunteer_resource@ncss.gov.sg>.
 
-Visit this page to learn more: [NCSS Volunteer Resource Hub](https://go.gov.sg/ncssvmprofessionaldevelopment)
+Visit this page to learn more: [NCSS Volunteer Resource Hub](https://go.gov.sg/ncssvmprofessionaldevelopment){:target="_blank"}
 
 ### Subscribe to SSI's Mailing List
 Subscribe to SSI’s Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
