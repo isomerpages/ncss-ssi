@@ -18,12 +18,12 @@ sections:
       background: /images/homepage/Home_Banner.jpg
       url: /contact-us/
       key_highlights:
-        - title: Workplace Learning (WPL) Initiative (Preview)
-          description: Co-create WPL solutions with SSI and NACE@SIT to enhance
-            operational efficiency and improve employee productivity in your
-            organisation. Learn more about this initiative on 5 Apr 2022
-            (3pm-4pm) or 20 Apr 2022 (3pm-4pm).
-          url: https://form.gov.sg/#!/611b641e09c56f001213ad2a
+        - title: LEAVE US YOUR FEEDBACK
+          description: "SSI is gathering feedback on our training and courses. If you are
+            an aspiring or current Social Service Professional, we want to hear
+            from you! Leave us your feedback to help us improve our training and
+            course offerings. "
+          url: https://go.gov.sg/ssi-feedbackform
         - title: Higher Diploma in Social Service
           description: The programme provides an articulation pathway into Bachelor in
             Social Work at the Singapore University of Social Services (SUSS).
