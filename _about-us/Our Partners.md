@@ -79,7 +79,8 @@ Our recognition system includes:
 
 AE recognition is only a small fraction of what we do for our AEs. We also **partner, nurture, engage, impact and journey with them**. We have talent development schemes, various engagement opportunities, coaching sessions, a recognition system and more specially curated for our AEs.
 
-To find out more, [view our Adult Educator Resource Kit now](/files/AE_Resource_Kit.pdf){:target="_blank"}
+
+Find out how you can [join us as Adult Educators (AEs) now! Click here.](/files/AE_Resource_Kit.pdf){:target="_blank"}
 
 
 ### **Partnership Opportunities**   
