@@ -4,8 +4,6 @@ permalink: /about-us/our-partners/
 description: The Training Network Model refers to our network of industry
   professionals and organisations that have partnered with SSI.
 ---
-
-
 ### **Overview**
 
 The Training Network Model refers to the network of partners that SSI engages to champion training in their area of expertise. This leads to an increased number of skilled and enterprising professionals in the sector, greater capacity and capability of social purpose entities and the development of innovative solutions.
@@ -59,26 +57,30 @@ The Training Network Model refers to the network of partners that SSI engages to
 14.  [Singapore Association of Social Workers](https://www.sasw.org.sg/){:target="_blank"}   
 
 ### **Our Adult Educators**
+   
+At SSI we believe in developing talents to shine with altruism. We encourage and facilitate professional growth for our Adult Educators (AEs) and continuously build a solid and lasting partnership with them.  We stand committed to evolve stronger as a family. In mind with our prime mission to create trends, explore possibilities and inspire compassion.
 
-SSI is always excited to welcome new Adult Educators (AE) to share their expertise. Our AEs support the expansion of the SSI into the social service sector in providing continuing education and training, targeted at meeting learning needs. To join us as an AE, you should possess the following basic requirements:
+       
+**Why join the AE pool?**
 
--   Minimum 3 years of relevant industry experience (may include experience as a practitioner/consultant)  
--   Minimum of Bachelor’s Degree
+Adult Educators (AEs) who partner with SSI can look forward to opportunities to take on different roles. There are various engagement mediums and professional development opportunities in place to encourage AEs’ continuous professional growth, active engagements and interactions, and a providence of a quality feedback pool with SSI. We are looking to build long lasting relationship.
 
-You should also possess a professional qualification, such as:
+If you’re interested to join us, kindly submit the [application form](https://form.gov.sg/#!/607935eee0b9d9001179a50d){:target="_blank"} along with your documents (CV and credentials).
 
--   WSQ Advanced Certificate in Training and Assessment (ACTA)/WSQ Advanced Certificate in Learning and Performance (ACLP)
--   WSQ Diploma in Adult and Continuing Education/ WSQ Diploma in Design and Development of Learning for Performance
--   Other equivalent professional qualifications
+**AE Recognition** 
 
-Our annual recruitment drive for AEs will open for 2 windows; in April and October. Each window will open for 2 months. 
+SSI values the contribution of our AEs in the social service sector and have a system in place to honour their efforts.
 
-| **Application Window** | **If Shortlisted, you will be contacted by:** |	
-|--|--|
-| 1 Apr - 31 May | First working day of Jun|
-| 1 Oct - 30 Nov | First working day of Dec|
+Our recognition system includes:
+* STAR Adult Educator Awards
+* Long Service Award
 
-Kindly submit the [application form](https://form.gov.sg/#!/607935eee0b9d9001179a50d) along with your documents (CV and credentials). If you have not heard from us 2 weeks after the close of window, your application is unsuccessful.
+**Growing Together to Impact As One**
+
+AE recognition is only a small fraction of what we do for our AEs. We also **partner, nurture, engage, impact and journey with them**. We have talent development schemes, various engagement opportunities, coaching sessions, a recognition system and more specially curated for our AEs.
+
+To find out more, [view our Adult Educator Resource Kit now](/files/AE_Resource_Kit.pdf){:target="_blank"}
+
 
 ### **Partnership Opportunities**   
 
