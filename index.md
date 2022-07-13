@@ -18,12 +18,12 @@ sections:
       background: /images/homepage/Home_Banner.jpg
       url: /contact-us/
       key_highlights:
-        - title: Workplace Learning (WPL) Initiative (Preview)
-          description: Co-create WPL solutions with SSI and NACE@SIT to enhance
-            operational efficiency and improve employee productivity in your
-            organisation. Learn more about this initiative on 5 Apr 2022
-            (3pm-4pm) or 20 Apr 2022 (3pm-4pm).
-          url: https://form.gov.sg/#!/611b641e09c56f001213ad2a
+        - title: LEAVE US YOUR FEEDBACK
+          description: "SSI is gathering feedback on our training and courses. If you are
+            an aspiring or current Social Service Professional, we want to hear
+            from you! Leave us your feedback to help us improve our training and
+            course offerings. "
+          url: https://go.gov.sg/ssi-feedbackform
         - title: Higher Diploma in Social Service
           description: The programme provides an articulation pathway into Bachelor in
             Social Work at the Singapore University of Social Services (SUSS).
@@ -38,10 +38,9 @@ sections:
           url: /training/cet-programmes/advanced-certificate-in-social-service/
   - infopic:
       title: Start planning for your training needs today!
-      subtitle: SSI’s Training Directory is Now Available
-      description: Download our training directory to learn more about the broad range
-        of courses that SSI offers from 10 different categories.
-      button: Download our training directory!
+      subtitle: View SSI’s Course schedule now
+      description: Download our latest course schedule for July - November now!
+      button: Download our course schedule!
       url: /training/course-registration/
       image: /images/homepage/Training_Direc_Banner.jpg
       alt: Social Service Institute SSI Singapore - Course Schedule,Course

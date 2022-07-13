@@ -7,18 +7,24 @@ description: SSI provides courses that train learners in management, leadership,
 ![Social Service Institute (SSI) Singapore - Social Service / Nonprofit Leadership and Management Training Course](/images/training/Managemnt_and_organization_development_SSI_header-banner-757-x-239px6.jpg)
 
 
-The featured courses are:   
-
+**The featured SSI's courses are:**   
 -   [Budgeting for Charities](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5450){:target="_blank"}   
 -   [Donor Outreach Through Social Media](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5508){:target="_blank"}   
 -   [Effective Supervisory Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5079){:target="_blank"}  
 -   [Internal Controls for Management (I): An Introduction to Internal Controls](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5744){:target="_blank"}   
 -   [Manage Challenging Social Service and NPO Clients](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NPEF6032){:target="_blank"}   
 -   [Making $ense I: An Introduction to Fund-Raising](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5766){:target="_blank"}   
--   [Plan New Facilities Development](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMMR5890){:target="_blank"}   
--   [Impact Strategy Evaluation and Management](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   
+-   [Plan New Facilities Development](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMMR5890){:target="_blank"}    
 -   [Teambuilding and leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT6014){:target="_blank"}   
--   [The 7 Habits of Highly Effective People](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   
+
+**The featured SSI's partner courses are:**
+-   [Tech for Good: Digitalization and Social Impact by INSEAD](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SLDD432){:target="_blank"}   
+
+-   [The 7 Habits of Highly Effective People by Franklin Covey](){:target="_blank"}   
+-   [Strengthening Governance By Leveraging the Outward Mindset For Non-Profit Organisations by The Arbinger Institute](https://arbingersea.com/ccf-2days/){:target="_blank"}   
+-   [Innovation and Change Management by Capelle Consulting](https://go.gov.sg/capelle-sep22){:target="_blank"}   
+-   [Design Thinking by Capelle Consulting](https://go.gov.sg/capelle-sep22){:target="_blank"}   
+
 
 For the full list of Management and Organisation Development courses, [search here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}  
 
