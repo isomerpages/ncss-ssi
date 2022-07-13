@@ -1,4 +1,5 @@
 collections:
   faq:
     output: true
-    order: []
+    order:
+      - Frequently Asked Questions (FAQs).md
