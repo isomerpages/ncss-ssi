@@ -6,7 +6,15 @@ description: SSI’s children, youth and family courses provides learners with t
 ---
 ![Social Service Institute (SSI) Singapore - Children & Youth Development, Family Therapy / Family Violence Courses](/images/training/CYF_SSI_header-banner-757-x-239px2.jpg)
 
-The featured courses are:  
+**Registration closing in September!**
+
+ - [Management of Family Violence: Talking to Children & Managing Abuse-related Disclosure](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5502){:target="_blank"}  
+
+ - [Apply development theories when working with children and youths](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF482){:target="_blank"}  
+ 
+ - [Mentoring and Coaching Youths Effectively](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF305){:target="_blank"}  
+
+**Other featured courses:**
 
  - [An Introduction to Family Therapy](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5646){:target="_blank"}  
  - [Certified User for Child & Adolescent Needs & Strengths (CANS)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5894){:target="_blank"}  
