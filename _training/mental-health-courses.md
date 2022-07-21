@@ -6,8 +6,16 @@ description: SSI's mental health courses provides social service professionals
 ---
 ![Social Service Institute (SSI) Singapore - Mental Health Conditions & Recovery Courses](/images/training/mental%20health%20SSI_header-banner-757-x-239px3.jpg)
 
+**Registration closing soon!**
+* [E.M.B.R.A.C.E. MENTAL HEALTH](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SMTH314){:target="_blank"}
+
+* [Mental Illness and Recovery](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS5911){:target="_blank"}
+
+* [Suicide Prevention 101](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SMTH92){:target="_blank"}
+
+**Other Featured Courses**
 -   [Applied Suicide Interventional Skills](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5709) [(ASIST)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5709){:target="_blank"}   
--   E.M.B.R.A.C.E Mental Health - Coming Soon!
+-   [E.M.B.R.A.C.E Mental Health](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SMTH314){:target="_blank"}
 -   [Management of Depression in Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5442){:target="_blank"}   
 -   [Mental Illness and Recovery](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS5911){:target="_blank"}   
 -   [Preparatory Training for Potential Peer Support Specialist](/training/cet-programmes/preparatory-training-for-potential-peer-support-specialist/){:target="_blank"}<sup>1</sup>   
