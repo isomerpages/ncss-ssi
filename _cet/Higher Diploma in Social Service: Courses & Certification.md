@@ -53,7 +53,7 @@ Learners may also apply for work as a Social Work Associate, Project Coordinator
 - **Cohort Size:** One cohort of 25 pax. 
 - **No of Modules:** Nine
 - **Programme Duration:** 16 months. This is a part time course with lessons being conducted two to three times a week.
-- **Programme Date:** Feb 2023 to Jun 2024
+- **Programme Date:** Feb 2023 - Jun 2024
 - **Course Timing:**  7.00pm to 10.00pm  
 - **Fees:** Full Fees: $10,800 (before GST).*  
 - **Estimated Nett Fees:** $3,240 (after SSG Subsidy)* 
@@ -78,10 +78,10 @@ Applicants to download and upload the completed [Application Form](/files/Files%
 
 | Description | Date | |
 | -------- | -------- | -------- |
-|Programme Dates| Feb 2023 – 30 Dec 2023 |
+|Programme Dates| Feb 2023 to Jun 2024|
 | Online Applications Open   | 1 Aug 2022 | 
 | Closing Date for Applications | 29 Aug 2022 before 23:59|
-| Conduct Written Aptitude Test¹| Mon, 26 & Tue, 27 Sep 2022 (10.30am-11.30am & 3.00pm-4.00pm)|
+| Conduct Written Aptitude Test¹| 26 Sep 2022 (Mon) & 27 Sep 2022 (Tues), 10.30am-11.30am & 3.00pm-4.00pm |
 |Interview Session | 12, 13, 17, & 19 Oct 2022*|
 
 ¹_Eligible HDSS applicants will be notified to sit for a compulsory Written Aptitude Test (WAT).
