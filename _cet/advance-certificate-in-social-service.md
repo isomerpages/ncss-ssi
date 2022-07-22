@@ -58,21 +58,21 @@ Learners must achieve at least 75% attendance per module and be certified compet
 
 
 ### Application Guidelines
-Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI_ACSS_Application_Form_22.pdf){:target="_blank"} , with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-1){:target="_blank"}  between 1 - 29 April 2022.
+Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI_ACSS_Application_Form_22.pdf){:target="_blank"} , with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-1){:target="_blank"}  between 1 - 29 Aug 2022.
 
 
 | Description | Date | |
 | -------- | -------- | -------- |
-|Programme Dates| 15 Aug 2022 – 29 Sep 2023 |
-| Online Applications Open   | 1 Apr 2022 | |
-| Closing Date for Applications | 29 April 2022 before 23:59|
-|Interview Session | 30 May, 1 Jun, 6 Jun & 8 Jun 2022|
+|Programme Dates| Feb 2023 – Mar 2024|
+| Online Applications Open   | 1 Aug 2022 | |
+| Closing Date for Applications | 29 Aug 2022 before 23:59|
+|Interview Session | 3, 5 & 10 Oct 2022*|
 
 Applicants may also be called to attend an online interview with the selection panel on the dates specified above. Applicants will receive an email from SSI informing them about the assigned interview date and time and are required to make themselves available for the interview accordingly. Requests for alternative arrangements will not be considered.
 
 ### Preview Session
-Date: 13 April 2022
-Time: 7pm
+Date: TBC (Mid/End Aug 2022)
+Time: TBC
 <br>Do register via this [link](https://form.gov.sg/62385ba121abcd00130fb13c){:target="_blank"}  to receive the Zoom link 3 days before the actual session. 
 
 
@@ -80,4 +80,4 @@ Time: 7pm
 
 Refer to this [link](/files/Files%20for%20Learners/FAQ-for-Advanced-Certificate-in-Social-Service-21Mar22.pdf){:target="_blank"} for FAQs relating to this programme.
 
-[Application Guide (ACSS)](/files/Files%20for%20Learners/Application%20Guide%20(ACSS).pdf){:target="_blank"} 
+[Application Guide (ACSS)](/files/Files%20for%20Learners/Application%20Guide%20(ACSS).pdf){:target="_blank"}
