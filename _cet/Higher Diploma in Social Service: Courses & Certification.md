@@ -4,7 +4,6 @@ permalink: /training/cet-programmes/higher-diploma-in-social-service/
 description: SSI offers a Higher Diploma in Social Service course for aspiring
   social workers, with an articulation pathway to SUSS.
 ---
-
 ### Overview
 
 SSI’s Higher Diploma in Social Service (HDSS) is a programme for new entrants and existing Social Service Professionals who aspire to be Social Work Associates. The programme aims to equip learners with the necessary skills and knowledge to be collaborative, client-centric, strategic and compassionate individuals who can work effectively with clients and stakeholders. 
@@ -37,7 +36,7 @@ Applicants should also possess any one of the following qualifications:
 - Diploma from local polytechnic.
 - Two GCE 'A' and two 'AO' levels passes.
  
-All shortlisted applicants will have to sit for a Written Aptitude Test (WAT), which will be conducted on **26 May 2022 at 10.30am/3.00pm or 27 May 2022 at 10.30am/3.00pm**. Only applicants who successfully pass the WAT will be considered for admission into the programme.
+All shortlisted applicants will have to sit for a Written Aptitude Test (WAT), which will be conducted on **26 Sep 2022 at 10.30am/3.00pm or 27 Sep 2022 at 10.30am/3.00pm**. Only applicants who successfully pass the WAT will be considered for admission into the programme.
 
 
 ### Qualifications & Career Prospects
@@ -54,7 +53,7 @@ Learners may also apply for work as a Social Work Associate, Project Coordinator
 - **Cohort Size:** One cohort of 25 pax. 
 - **No of Modules:** Nine
 - **Programme Duration:** 16 months. This is a part time course with lessons being conducted two to three times a week.
-- **Programme Date:** 15 Aug 2022 to 30 Dec 2023
+- **Programme Date:** Feb 2023 - Jun 2024
 - **Course Timing:**  7.00pm to 10.00pm  
 - **Fees:** Full Fees: $10,800 (before GST).*  
 - **Estimated Nett Fees:** $3,240 (after SSG Subsidy)* 
@@ -74,16 +73,19 @@ Learners must achieve at least 75% attendance per module and be certified compet
 
 ### Application Guidelines
 
-Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI_HDSS_Application_Form_22.pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-2){:target="_blank"}  between 1 - 29 April 2022. 
+Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI_HDSS_Application_Form_22.pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-2){:target="_blank"}  between 1 - 29 August 2022. 
 
 
 | Description | Date | |
 | -------- | -------- | -------- |
-|Programme Dates| 15 Aug 2022 – 30 Dec 2023 |
-| Online Applications Open   | 1 Apr 2022 | 
-| Closing Date for Applications | 29 April 2022 before 23:59|
-| Conduct Written Aptitude Test¹| Thu, 26 & Fri, 27 May 2022 (10.30am-11.30am & 3.00pm-4.00pm)|
-|Interview Session | 14, 16, 20, & 21 Jun 2022|
+|Programme Dates| Feb 2023 to Jun 2024|
+| Online Applications Open   | 1 Aug 2022 | 
+| Closing Date for Applications | 29 Aug 2022 before 23:59|
+| Conduct Written Aptitude Test¹| 26 Sep 2022 (Mon) & 27 Sep 2022 (Tues), 10.30am-11.30am & 3.00pm-4.00pm |
+|Interview Session | 12, 13, 17, & 19 Oct 2022*|
+
+¹_Eligible HDSS applicants will be notified to sit for a compulsory Written Aptitude Test (WAT).
+<br>*Subject to changes
 
 
 All shortlisted applicants will have to sit for a Written Aptitude Test (WAT), which will be conducted on the stipulated date indicated above. Only applicants who successfully pass the WAT will be considered for admission into the programme. 
@@ -92,8 +94,8 @@ Applicants may also be called to attend an online interview with the selection p
 
 
 ### Preview Session
-Date: 13 April 2022
-Time: 7pm
+Date: TBC (Mid/End Aug 2022)
+Time: TBC
 <br>Do register via this [Link](https://form.gov.sg/62385ba121abcd00130fb13c){:target="_blank"} to receive the Zoom link 3 days before the actual session. 
 
 ### FAQs

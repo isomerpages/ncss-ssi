@@ -6,13 +6,11 @@ description: SSI offers courses and training for social workers and the social
 ---
 ### **View our course schedule**
 
-#### 1) Registration closes in July
-[Course Schedule - July ](/files/Files%20for%20Learners/Course%20Schedule%20July%202022.pdf){:target="_blank"}
-(Registration closing soon)
+#### 1) Registration closes in August/September
+[Course Schedule - Oct and Nov](/files/Files%20for%20Learners/Course%20Schedule%20-%20Oct%20and%20Nov%20(Register%20by%20Sept).pdf){:target="_blank"} (Registration closing soon!)
 
-#### 2) Registration closes in August/September
-[Course Schedule - Aug/Sept](/files/Files%20for%20Learners/Course-Schedule-Aug-Sept.pdf){:target="_blank"}
-
+#### 2) Registration closes in October/November
+[Course Schedule - Nov and Dec](/files/Files%20for%20Learners/Course%20Schedule%20-%20Nov%20-%20Dec.pdf){:target="_blank"}
 
 
 <br>
