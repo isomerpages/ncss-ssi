@@ -75,7 +75,6 @@ Date: 18 Aug 2022
 Time: 7pm
 <br>Do register via this [link] (https://form.gov.sg/#!/62de68763074e40012a78cfc){:target="_blank"}  to receive the Zoom link 3 days before the actual session. 
 
-
 ### FAQs
 
 Refer to this [link](/files/Files%20for%20Learners/FAQ-for-Advanced-Certificate-in-Social-Service-21Mar22.pdf){:target="_blank"} for FAQs relating to this programme.
