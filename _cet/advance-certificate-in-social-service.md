@@ -71,10 +71,9 @@ Applicants to download and upload the completed [Application Form](/files/Files%
 Applicants may also be called to attend an online interview with the selection panel on the dates specified above. Applicants will receive an email from SSI informing them about the assigned interview date and time and are required to make themselves available for the interview accordingly. Requests for alternative arrangements will not be considered.
 
 ### Preview Session
-Date: TBC (Mid/End Aug 2022)
-Time: TBC
-<br>Do register via this [link](https://form.gov.sg/62385ba121abcd00130fb13c){:target="_blank"}  to receive the Zoom link 3 days before the actual session. 
-
+Date: 18 Aug 2022
+<br>Time: 7pm
+<br>Do register via this [link](https://form.gov.sg/#!/62de68763074e40012a78cfc){:target="_blank"}  to receive the Zoom link 3 days before the actual session. 
 
 ### FAQs
 
