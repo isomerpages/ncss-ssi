@@ -51,6 +51,7 @@ sections:
       button: Find out more
       url: "https://go.gov.sg/wu0chy "
       alt: Refreshed 4ST
+      image: /images/homepage/4STBanner.jpeg
   - infopic:
       title: Our Partners
       description: SSI is actively looking for partnerships with SSAs, NPOs, IHLs and
