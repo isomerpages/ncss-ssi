@@ -46,6 +46,16 @@ sections:
       alt: Social Service Institute SSI Singapore - Course Schedule,Course
         List,Training Calendar
   - infopic:
+      title: Refreshed 4ST (2022-2026)
+      subtitle: Roadmap for the Sector
+      button: Find out more
+      url: "https://go.gov.sg/wu0chy "
+      alt: Refreshed 4ST
+      image: /images/homepage/4STBanner.jpeg
+      description: Learn more about how the new recommendations put forth by the
+        refreshed Social Service Sector Strategic Thrusts (4ST) can empower our
+        sector.
+  - infopic:
       title: Our Partners
       description: SSI is actively looking for partnerships with SSAs, NPOs, IHLs and
         private training bodies to co-develop the capabilities of Singapore’s
