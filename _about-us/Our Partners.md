@@ -50,7 +50,7 @@ The Training Network Model refers to the network of partners that SSI engages to
     
 11.  [SG Enable](https://www.sgenable.sg/Pages/Home.aspx){:target="_blank"}   
     
-12.  [SkillsFuture Singapore](https://www.skillsfuture.sg/){:target="_blank"}   
+12.  [SkillsFuture Singapore](https://www.skillsfuture.gov.sg/){:target="_blank"}   
     
 13.  [Workforce Singapore](https://www.ssg-wsg.gov.sg/about.html){:target="_blank"}   
     
