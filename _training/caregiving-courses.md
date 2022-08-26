@@ -17,7 +17,7 @@ The featured courses under SSI are:
 
 The featured courses under the Agency for Integrated Care (AIC) can be found in the link below:
 
--   [AIC's Caregiving Courses for Healthcare Staff](https://partners.aic.sg/other-training-programmes){:target="_blank"}   
+-   [AIC's Caregiving Courses for Healthcare Staff](https://www.aic.sg/caregiving/caregiver-training-course){:target="_blank"}   
 
 ### News and Articles on Caregiving   
 
