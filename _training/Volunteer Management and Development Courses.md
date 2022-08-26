@@ -60,14 +60,6 @@ The LDR provides guidance on the skills and competencies required to perform eff
 ![](/images/training/volunteer/L_D%20Quote%20Banner_03.jpg)
 
 
-
-### LDR Self-assessment Tool
-
-The accompanying Self-assessment Tool (SAT) to the LDR helps VMPs to identify their proficiency gaps and relevant training courses (including Social Service Institutes’ (SSI) courses), to further strengthen their capabilities so as to perform effectively in their roles.
-
-Complete the Digital Self-Assessment Tool [here](https://go.gov.sg/ncssvro-ldrsat){:target="_blank"} and receive a personalised report!
-
-
 ###  NCSS Volunteer Management Community
 Be the first to receive updates on Volunteer Management related news and initiatives, [register here to be a part of the community](https://go.gov.sg/ncssvro-vmcommunity){:target="_blank"}! 
 
