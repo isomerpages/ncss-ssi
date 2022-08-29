@@ -11,7 +11,7 @@ SSI is a CET Centre that offers Workforce Skills Qualifications (WSQ) and non-WS
 
 ### SkillsFuture Course Fee Funding
 
-For more information on SkillsFuture Singapore (SSG) Course Fee Funding, click [here](https://www.ssg.gov.sg/programmes-and-initiatives/training-grants/self-sponsored-training-for-individuals.html?_ga=2.154182520.1749146116.1599791020-1989143907.1599791020){:target="_blank"}   .
+For more information on SkillsFuture Singapore (SSG) Course Fee Funding, click [here](https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html){:target="_blank"}   .
 
 ### For Volunteers
 

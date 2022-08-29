@@ -1,10 +1,9 @@
 ---
 title: Course Information
 permalink: /training/course-information/
-description: Find out more about SSI course application procedures for individuals and organisations as well as other course related details here.
-
+description: Find out more about SSI course application procedures for
+  individuals and organisations as well as other course related details here.
 ---
-
 ### Course Administration
 
 As part of SSI’s Education Innovation initiative, we will leverage on technology to enrich the learning experience of our learners. This includes equipping classrooms with smart technology facilities and adopting innovative teaching pedagogies through the use of online platforms. SSI will also be progressively converting our courses into a blended learning style to incorporate online components such as quizzes and supplementary reading materials before the classroom session. Some of the changes that our learners will experience are as shown below.
@@ -26,6 +25,6 @@ The estimated processing time for both individual and organisation course applic
   
 You can refer to this  [link](/images/faq/TraineeLogin.pdf){:target="_blank"}     for the user guide for individual course applications and this  [link](/images/faq/VWOLogin.pdf){:target="_blank"}   for the user guide for organisation course applications.
 
-### NCSS e-Services
+### View our courses
 
-To view the full suite of e-services offered by NCSS visit this  [link](http://www.ncss.gov.sg/e-services/Categories){:target="_blank"}   .
+To view the full suite of courses offered by the Social Service Institute visit this  [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   .

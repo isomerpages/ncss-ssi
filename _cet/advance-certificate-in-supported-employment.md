@@ -75,6 +75,4 @@ This module focuses on the role and responsibilities of a professional job coach
 
 ----------
 
-<sup>1</sup> Subject to successful completion and achievement of a ‘Competent’ grade for all in-class assessments/assignments. Learners eligible for SkillsFuture Singapore (SSG) funding, must achieve at least 75% attendance per module, and be certified ‘Competent’ in all the assessment components. Individuals or Organisations will have to bear the full course fees in the event that learners fail to meet the attendance/assessment requirements and terms and conditions for SSG funding eligibility. Please refer to [www.skillsconnect.gov.sg](http://www.skillsconnect.gov.sg/){:target="_blank"}    for more information on SSG funding.
-
-  
+<sup>1</sup> Subject to successful completion and achievement of a ‘Competent’ grade for all in-class assessments/assignments. Learners eligible for SkillsFuture Singapore (SSG) funding, must achieve at least 75% attendance per module, and be certified ‘Competent’ in all the assessment components. Individuals or Organisations will have to bear the full course fees in the event that learners fail to meet the attendance/assessment requirements and terms and conditions for SSG funding eligibility. For more information on SSG funding, [click here](https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html){:target="_blank"}.
