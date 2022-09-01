@@ -12,7 +12,7 @@ Cross Sector courses also cover a range of skills such as counselling, motivatio
   
 Some of the featured courses under this category are:
 
-##### **Registration Closing Soon:**
+##### **Registration Closing Soon!**
 -   [Solution Focused Brief Therapy: Introduction (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5279){:target="_blank"} <br> Register by: 11 Sep 2022
 
 -   [May I Help You? (Boleh Saya Bantu Anda?) - Conversational Malay for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5647){:target="_blank"} <br> Register by: 28 Sep 2022
