@@ -11,7 +11,7 @@ SSI offers a suite of Continuing Education and Training (CET) programmes which p
 
 -   [Advanced Certificate in Social Service](/training/cet-programmes/advanced-certificate-in-social-service/){:target="_blank"}<sup>1</sup>
 -   [Advanced Certificate in Supported Employment (ACSE)](/training/cet-programmes/advance-certificate-in-supported-employment/){:target="_blank"}   
--   [Certificate in Para-Counselling](/training/cet-programmes/certificate-in-para-counselling/){:target="_blank"}   
+-   [Certificate in Para-Counselling in Community Setting](/training/cet-programmes/certificate-in-para-counselling/){:target="_blank"}   
 -   [Certificate in Peer Support](/training/cet-programmes/certificate-in-peer-support/){:target="_blank"}   
 -   [Higher Diploma in Social Service (HDSS)](/training/cet-programmes/Higher-Diploma-in-Social-Service/){:target="_blank"} 
 -   [Professional Certificate in Casework (NSWCF Foundational)](/training/cet-programmes/professional-certificate-in-casework-(nswcf-foundational)/){:target="_blank"}   
