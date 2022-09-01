@@ -25,7 +25,7 @@ Some of the featured courses under this category are:
 
 -   [Qualitative Research Methods and Analysis](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NRES5053){:target="_blank"} <br> Register by: 24 Oct 2022
 
-##### **Short Courses:**
+##### **Featured Short Courses:**
 
 -   [Befriending Skills and Practice (For Volunteers)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311){:target="_blank"}   
 -   [Boleh Saya Anda? May I Help You? - Conversational Malay for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5647){:target="_blank"}   
