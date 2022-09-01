@@ -38,10 +38,10 @@ sections:
           url: /training/cet-programmes/advanced-certificate-in-social-service/
   - infopic:
       title: Start planning for your training needs today!
-      subtitle: Course schedule for 2022-2023
+      subtitle: Training Directory for 2022/23
       description: Download our training directory to learn more about the broad range
         of courses that SSI offers from 10 different categories.
-      button: Download our course schedule !
+      button: Download now
       url: /training/course-registration/
       image: /images/homepage/Training_Direc_Banner.jpg
       alt: Social Service Institute SSI Singapore - Course Schedule,Course
