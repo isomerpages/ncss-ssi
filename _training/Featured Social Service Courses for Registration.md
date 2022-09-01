@@ -4,14 +4,19 @@ permalink: /training/course-registration/
 description: SSI offers courses and training for social workers and the social
   service sector. Find out more about the available courses here.
 ---
-##### **Download our course schedule** <br>(Updated 1st September 2022)
+(Updated 1st September 2022)
+
+##### **(A) Download our Training Directory for 2022-2023**
+* ##### [Training Directory 2022-2023](/files/Files%20for%20Learners/FY22-Training-Directory-updated-1Sept22.pdf){:target="_blank"} 
+
+##### **(B) Download our Course Schedule (with registration dates)** <br>
 
 <br>
 
-1. ##### [Course Schedule - Oct and Nov](/files/Files%20for%20Learners/Course-Schedule-Oct-Nov.pdf){:target="_blank"} 
+* ##### [Course Schedule - Oct and Nov](/files/Files%20for%20Learners/Course-Schedule-Oct-Nov.pdf){:target="_blank"} 
 (Registration closing date: September 2022 - Oct 2022)
 <br> <br>
-2. ##### [Course Schedule - Dec to March](/files/Files%20for%20Learners/Course-Schedule-Dec-March.pdf){:target="_blank"}  <br>
+*  ##### [Course Schedule - Dec to March](/files/Files%20for%20Learners/Course-Schedule-Dec-March.pdf){:target="_blank"}  <br>
 (Registration closing date: October 2022 - January 2023)
 
 <br>
