@@ -15,11 +15,15 @@ Some of the featured courses under this category are:
 ##### **Registration Closing Soon:**
 -   [Solution Focused Brief Therapy: Introduction (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5279){:target="_blank"} <br> Register by: 11 Sep 2022
 
+-   [May I Help You? (Boleh Saya Bantu Anda?) - Conversational Malay for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5647){:target="_blank"} <br> Register by: 28 Sep 2022
+   
 -   [Deliver Evidence-Based Psychological Interventions](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS480){:target="_blank"} <br> Register by: 3 Oct 2022
 
 -   [Counselling Skills and Practice: Introduction (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5229){:target="_blank"} <br> Register by: 4 Oct 2022
 
 -   [Survey Research and Quantitative Analysis](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NRES5270){:target="_blank"} <br> Register by: 11 Oct 2022
+
+-   [Qualitative Research Methods and Analysis](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NRES5053){:target="_blank"} <br> Register by: 24 Oct 2022
 
 ##### **Short Courses:**
 
