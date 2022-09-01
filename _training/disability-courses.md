@@ -6,10 +6,14 @@ description: SSI provides short courses, certificates, diploma and degree
 ---
 ![Social Service Institute (SSI) Singapore - Disability Care / Special Needs Courses](/images/training/disability_SSI_header-banner-757-x-239px4.jpg)
 
-The featured courses are:
 
-### **Short Courses**
+#### **Registration Closing Soon!**
 
+-   [Strategies for Development of Hand Function, Pre-writing and Handwriting Skills for Children](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS5789){:target="_blank"} <br> (Register by 17 Oct 2022)
+
+-   [Working with Persons with Autism (NEW)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS87){:target="_blank"} <br> (Register by 6 Dec 2022)
+
+#### **Featured Short Courses**
 -   [WSQ Principles and Practices of Early Intervention for Children with Special Needs Module 1](https://iltms.ssi.gov.sg/registration/#/Course?coursecode= SDIS463){:target="_blank"}   
 -  [WSQ Principles and Practices of Early Intervention for Children with Special Needs Module 2](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS83){:target="_blank"}   
 -   Adapting Programmes for Persons with Disabilities (Available in Q4 2022. TBC) 
@@ -19,13 +23,13 @@ The featured courses are:
 -   Understanding Adolescents with Special Needs (Available in Q4 2022. TBC)   
 -   Understanding Children with Special Needs (Available in Q4 2022. TBC)
 
-### **Certificate/ Diploma/ Degree Programmes:**
+#### **Certificate/ Diploma/ Degree Programmes:**
 
 -  [Advanced Certificate in Supported Employment (ACSE)](/training/cet-programmes/advance-certificate-in-supported-employment/){:target="_blank"}   
 
 For the full list of Disability courses offered by SSI, follow this  [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   .
 
-### **Featured Adult Educators**
+#### **Featured Adult Educators**
 
 **Ms. June Tham-Toh Syn Yuen**  
 June was the Executive Director of Rainbow Centre before she retired in 2014. She holds a Master of Education, Diploma in Management Studies, Certification of Achievement in Outcome Management: Train-The-Trainer, Early Childhood Intervention, Treatment and Education of Autistic and Related Communication Handicapped Children (TEACCH) and Advanced Certification in Training and Assessment (ACTA). She was one of the two pioneer scholars from Singapore to have successfully completed the “Strategic Perspectives in Non-Profit Management” Programme in July 2008 at the Harvard Business School (HBS).  
