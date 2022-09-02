@@ -6,13 +6,18 @@ description: SSI’s children, youth and family courses provides learners with t
 ---
 ![Social Service Institute (SSI) Singapore - Children & Youth Development, Family Therapy / Family Violence Courses](/images/training/CYF_SSI_header-banner-757-x-239px2.jpg)
 
-**Registration closing in September!**
+**Registration closing soon!**
 
- - [Management of Family Violence: Talking to Children & Managing Abuse-related Disclosure](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5502){:target="_blank"}  
+ - [Management of Family Violence: Talking to Children & Managing Abuse-related Disclosure](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5502){:target="_blank"}  <br>(Register by: 26 Sep 2022)
 
- - [Apply development theories when working with children and youths](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF482){:target="_blank"}  
+ - [Apply Development Theories when Working with Children and Youths](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF482){:target="_blank"} <br>(Register by: 28 Sep 2022)  
+
+ - [Mentoring and Coaching Youths Effectively](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF305){:target="_blank"}  <br>(Register by: 28 Sep 2022)
  
- - [Mentoring and Coaching Youths Effectively](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF305){:target="_blank"}  
+ - [Management of Family Violence: Intervention in Family Violence Cases](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF279){:target="_blank"}  <br>(Register by: 2 Oct 2022)
+
+ - [Management of Family Violence: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF197){:target="_blank"}  <br>(Register by: 9 Oct 2022)
+
 
 **Other featured courses:**
 

@@ -8,10 +8,11 @@ description: SSI's mental health courses provides social service professionals
 
 **Registration closing soon!**
 * [E.M.B.R.A.C.E. MENTAL HEALTH](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SMTH314){:target="_blank"}
+<br>Register by: 4 Oct 2022
 
 * [Mental Illness and Recovery](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS5911){:target="_blank"}
+<br> Register by: 20 Oct 2022
 
-* [Suicide Prevention 101](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SMTH92){:target="_blank"}
 
 **Other Featured Courses**
 -   [Applied Suicide Interventional Skills](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5709) [(ASIST)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5709){:target="_blank"}   

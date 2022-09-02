@@ -1,11 +1,10 @@
 ---
-title: Certificate in Para Counselling
+title: Certificate in Para Counselling in Community Setting
 permalink: /training/cet-programmes/certificate-in-para-counselling/
-description: SSI's  Certificate in Para Counselling equips learners with basic
-  counselling skills needed to work with certified counselling professionals.
+description: SSI's  Certificate in Para Counselling in Community Setting equips
+  learners with basic counselling skills needed to work with certified
+  counselling professionals.
 ---
-
-
 ### **Overview**
 
 This course equips learners with the fundamental knowledge and skills in counselling that is required when working alongside certified counselling professionals.
@@ -73,4 +72,4 @@ Learners will be assessed for competence in this course through a written test a
 -   Assessment.
 -   Site visit.
 
-To find out about upcoming intakes  [click here](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Certificate+in+Para-Counselling){:target="_blank"}   .
+To find out about upcoming intakes  [click here](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET102){:target="_blank"}   .
