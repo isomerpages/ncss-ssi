@@ -8,15 +8,17 @@ description: SSI’s children, youth and family courses provides learners with t
 
 **Registration closing soon!**
 
- - [Management of Family Violence: Talking to Children & Managing Abuse-related Disclosure](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5502){:target="_blank"}  <br>(Register by: 26 Sep 2022)
-
- - [Apply Development Theories when Working with Children and Youths](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF482){:target="_blank"} <br>(Register by: 28 Sep 2022)  
-
- - [Mentoring and Coaching Youths Effectively](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF305){:target="_blank"}  <br>(Register by: 28 Sep 2022)
- 
- - [Management of Family Violence: Intervention in Family Violence Cases](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF279){:target="_blank"}  <br>(Register by: 2 Oct 2022)
-
  - [Management of Family Violence: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF197){:target="_blank"}  <br>(Register by: 9 Oct 2022)
+
+- [Management of Family Violence: Intervention in Family Violence Cases](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF279){:target="_blank"}  <br>(Register by: 27 Nov 2022)
+
+- [Mentoring and Coaching Youths Effectively (NEW)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF305){:target="_blank"}  <br>(Register by: 30 Nov 2022)
+
+- [Management of Family Violence: Talking to Children & Managing Abuse-related Disclosure](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5502){:target="_blank"}  <br>(Register by: 14 Dec 2022)
+
+- [Apply Therapeutic Techniques to Engage and Motivate Resistant Youths](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF486){:target="_blank"}  <br>(Register by: 23 Dec 2022)
+
+- [Working with Youths on Cyber-Wellness Issues](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF488){:target="_blank"}  <br>(Register by: 23 Dec 2022)
 
 
 **Other featured courses:**
