@@ -27,7 +27,10 @@ description: SSI provides courses that train learners in management, leadership,
 
 ##### **The featured SSI's partner courses are:**
 -   [Strategy Formulation by DPI Asia](https://www.dpi-asia.com/post/strategy-formulation-pure-simple){:target="_blank"}
--   [The 7 Habits of Highly Effective People by Franklin Covey](){:target="_blank"} 
+-   [The 7 Habits of Highly Effective People by Franklin Covey](){:target="_blank"}
+-   [Authentic Leadership Conversations by Erevna Leadership]([Authentic Leadership Conversations - Erevna Leadership](http://www.erevnaleadership.com/authentic-leadership-conversations.html)){:target="_blank"}
+-   [Group Excellence by Capelle Consulting](){:target="_blank"}
+-   
 
 For the full list of Management and Organisation Development courses, [search here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}  
 
