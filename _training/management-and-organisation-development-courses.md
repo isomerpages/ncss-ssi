@@ -29,7 +29,7 @@ description: SSI provides courses that train learners in management, leadership,
 -   [Strategy Formulation by DPI Asia](https://www.dpi-asia.com/post/strategy-formulation-pure-simple){:target="_blank"}
 -   [The 7 Habits of Highly Effective People by Franklin Covey](){:target="_blank"}
 -   [Authentic Leadership Conversations by Erevna Leadership]([Authentic Leadership Conversations - Erevna Leadership](http://www.erevnaleadership.com/authentic-leadership-conversations.html)){:target="_blank"}
--   [Group Excellence by Capelle Consulting]((https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&wdLOR=c02FF4AA9-A7A4-4B9C-B187-D439BDFDFC3C){:target="_blank"}
+-   [Group Excellence by Capelle Consulting](https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&wdLOR=c02FF4AA9-A7A4-4B9C-B187-D439BDFDFC3C){:target="_blank"}
 -   [3-D People Development by Capelle Consulting](https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&wdLOR=c02FF4AA9-A7A4-4B9C-B187-D439BDFDFC3C){:target="_blank"}
 
 For the full list of Management and Organisation Development courses, [search here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}  
