@@ -11,20 +11,22 @@ description: SSI provides courses that train learners in management, leadership,
 -   [Budgeting for Charities](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5450){:target="_blank"} <br>Register by: 31 Oct 2022
 -   [Charities Accounting Standard and its Application](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5652){:target="_blank"} <br>Register by: 31 Oct 2022
 -   [Making $ense I: An Introduction to Fund Raising](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5103){:target="_blank"} <br>Register by: 30 Nov 2022
--   [Strategy Formulation by DPI Asia ](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5103){:target="_blank"} <br>Register by: 31 Oct 2022   
+-   Strategy Formulation by DPI Asia <br> Register by: 31 Oct 2022
 
 ##### **The featured SSI's courses are:**   
+-   [Branding Non-profits: An Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCOF243){:target="_blank"} 
+- [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5073){:target="_blank"} 
+- [Teambuilding and leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT6014){:target="_blank"} 
 -   [Budgeting for Charities](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5450){:target="_blank"}   
 -   [Donor Outreach Through Social Media](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5508){:target="_blank"}   
 -   [Effective Supervisory Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5079){:target="_blank"}  
--   [Internal Controls for Management (I): An Introduction to Internal Controls](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5744){:target="_blank"}   
 -   [Manage Challenging Social Service and NPO Clients](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NPEF6032){:target="_blank"}   
 -   [Making $ense I: An Introduction to Fund-Raising](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5766){:target="_blank"}   
 -   [Plan New Facilities Development](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMMR5890){:target="_blank"}    
 -   [Teambuilding and leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT6014){:target="_blank"}   
 
 ##### **The featured SSI's partner courses are:**
--   [Tech for Good: Digitalization and Social Impact by INSEAD](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SLDD432){:target="_blank"}   
+
 
 -   [The 7 Habits of Highly Effective People by Franklin Covey](){:target="_blank"}   
 -   [Strengthening Governance By Leveraging the Outward Mindset For Non-Profit Organisations by The Arbinger Institute](https://arbingersea.com/ccf-2days/){:target="_blank"}   
