@@ -10,6 +10,8 @@ description: SSI provides courses that train learners in management, leadership,
 -   [Donor Outreach Through Social Media (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5508){:target="_blank"} <br>Register by: 24 Oct 2022
 -   [Budgeting for Charities](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5450){:target="_blank"} <br>Register by: 31 Oct 2022
 -   [Charities Accounting Standard and its Application](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5652){:target="_blank"} <br>Register by: 31 Oct 2022
+-   [Making $ense I: An Introduction to Fund Raising](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5103){:target="_blank"} <br>Register by: 30 Nov 2022
+-   [Strategy Formulation by DPI Asia ](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5103){:target="_blank"} <br>Register by: 31 Oct 2022   
 
 ##### **The featured SSI's courses are:**   
 -   [Budgeting for Charities](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5450){:target="_blank"}   
