@@ -11,7 +11,11 @@ description: SSI provides short courses, certificates, diploma and degree
 
 -   [Strategies for Development of Hand Function, Pre-writing and Handwriting Skills for Children](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS5789){:target="_blank"} <br> (Register by 17 Oct 2022)
 
+-   [Advanced Certificate in Supported Employment (ACSE)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS8){:target="_blank"} <br> (Register by 14 Nov 2022)
+
 -   [Working with Persons with Autism (NEW)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS87){:target="_blank"} <br> (Register by 6 Dec 2022)
+
+-   [Independent Travel Training for Professionals Supporting Persons with Disabilities](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS211){:target="_blank"} <br> (Register by 6 Dec 2022)
 
 #### **Featured Short Courses**
 -   [WSQ Principles and Practices of Early Intervention for Children with Special Needs Module 1](https://iltms.ssi.gov.sg/registration/#/Course?coursecode= SDIS463){:target="_blank"}   
