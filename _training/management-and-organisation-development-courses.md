@@ -26,13 +26,8 @@ description: SSI provides courses that train learners in management, leadership,
 -   [Teambuilding and leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT6014){:target="_blank"}   
 
 ##### **The featured SSI's partner courses are:**
-
-
--   [The 7 Habits of Highly Effective People by Franklin Covey](){:target="_blank"}   
--   [Strengthening Governance By Leveraging the Outward Mindset For Non-Profit Organisations by The Arbinger Institute](https://arbingersea.com/ccf-2days/){:target="_blank"}   
--   [Innovation and Change Management by Capelle Consulting](https://go.gov.sg/capelle-sep22){:target="_blank"}   
--   [Design Thinking by Capelle Consulting](https://go.gov.sg/capelle-sep22){:target="_blank"}   
-
+-   [Strategy Formulation by DPI Asia](https://www.dpi-asia.com/post/strategy-formulation-pure-simple){:target="_blank"}
+-   [The 7 Habits of Highly Effective People by Franklin Covey](){:target="_blank"} 
 
 For the full list of Management and Organisation Development courses, [search here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}  
 
