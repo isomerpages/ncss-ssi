@@ -24,7 +24,7 @@ Some of the featured courses under this category are:
 
 - [Understanding  and Working with Malay-Muslim Clients](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5570){:target="_blank"} <br> Register by: 12 Dec 2022
 
-- [May I Help You? (Boleh Saya Bantu Anda?) - Conversational Malay for Social Service Practitioners]https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5647){:target="_blank"} <br> Register by: 11 Jan 2023
+- [May I Help You? (Boleh Saya Bantu Anda?) - Conversational Malay for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5647){:target="_blank"} <br> Register by: 11 Jan 2023
 
 ##### **Featured Short Courses:**
 
