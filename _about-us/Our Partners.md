@@ -63,7 +63,7 @@ At SSI we believe in developing talents to shine with altruism. We encourage and
        
 **Why join the AE pool?**
 
-Adult Educators (AEs) who partner with SSI can look forward to opportunities to take on different roles. There are various engagement mediums and professional development opportunities in place to encourage AEs’ continuous professional growth, active engagements and interactions, and a providence of a quality feedback pool with SSI. We are looking to build long lasting relationship.
+Adult Educators (AEs) who partner with SSI can look forward to opportunities to take on different roles. There are various engagement mediums and professional development opportunities in place to encourage AEs’ continuous professional growth, active engagements and interactions, and a providence of a quality feedback pool with SSI.
 
 If you’re interested to join us, kindly submit the [application form](https://form.gov.sg/#!/607935eee0b9d9001179a50d){:target="_blank"} along with your documents (CV and credentials).
 
@@ -77,11 +77,10 @@ Our recognition system includes:
 
 **Growing Together to Impact As One**
 
-AE recognition is only a small fraction of what we do for our AEs. We also **partner, nurture, engage, impact and journey with them**. We have talent development schemes, various engagement opportunities, coaching sessions, a recognition system and more specially curated for our AEs.
+AE recognition is only a small fraction of what we do for our AEs. We also **partner, nurture, engage, impact and journey with them**.
 
 
-Find out how you can [join us as Adult Educators (AEs) now! Click here.](/files/AE_Resource_Kit.pdf){:target="_blank"}
-
+Find out how you can [join us as Adult Educators (AEs) now! Click here.](/files/AE_Resource_Kit_7Oct2022.pdf){:target="_blank"}
 
 ### **Partnership Opportunities**   
 
