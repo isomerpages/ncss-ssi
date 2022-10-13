@@ -9,7 +9,6 @@ description: SSI provides short courses, certificates, diploma and degree
 
 #### **Registration Closing Soon!**
 
--   [Strategies for Development of Hand Function, Pre-writing and Handwriting Skills for Children](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS5789){:target="_blank"} <br> (Register by 17 Oct 2022)
 
 -   [Advanced Certificate in Supported Employment (ACSE)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS8){:target="_blank"} <br> (Register by 14 Nov 2022)
 
