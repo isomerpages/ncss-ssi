@@ -23,9 +23,6 @@ The programme includes eight modules which are as shown below:
   
 Otherwise, for Management and Organisational Development courses, you may refer to our  [Management and Organisation Development](/training/management-and-Organisation-Development){:target="_blank"}    course page.
 
-### **News and Articles on Board Development**
-
-Continue receiving news and articles about developments in Non-Profit Board Development through GatherHere. If you are interested to join GatherHere, you can [sign up here](https://go.gov.sg/gh-signup){:target="_blank"}.
 
 ### **Subscribe to Our Board Development Mailing List**
 
