@@ -2,6 +2,7 @@ collections:
   training:
     output: true
     order:
+      - Test.md
       - training-overview.md
       - Featured Social Service Courses for Registration.md
       - continuing-education-training-cet-courses.md
