@@ -5,6 +5,8 @@ description: SSI provides courses that both empower volunteers and volunteer man
 ---
 ![Social Service Institute (SSI) Singapore - Volunteer Management & Development Courses](/images/training/Volunteer_SSI_header-banner-757-x-239px8.jpg)
 
+
+
 ##### **Registration closing soon!**
 - [Befriending Skills and Practice (For Volunteers) (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311){:target="_blank"} <br>Register by: 1 Nov 2022
 - [Volunteer Management Practices: Connect, Engage, Develop](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD313){:target="_blank"} <br>Register by: 29 Dec 2022
@@ -58,7 +60,7 @@ The LDR provides guidance on the skills and competencies required to perform eff
 
 ![](/images/training/volunteer/L_D%20Quote%20Banner_02.jpg)
 
-![](/images/training/volunteer/L_D%20Quote%20Banner_01.jpg)
+![](/images/training/volunteer/L_D%20Quote%20Banner_01_revised.jpg)
 
 ![](/images/training/volunteer/L_D%20Quote%20Banner_03.jpg)
 
