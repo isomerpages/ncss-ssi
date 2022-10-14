@@ -6,9 +6,8 @@ description: SSI provides courses that both empower volunteers and volunteer man
 ![Social Service Institute (SSI) Singapore - Volunteer Management & Development Courses](/images/training/Volunteer_SSI_header-banner-757-x-239px8.jpg)
 
 ##### **Registration closing soon!**
-- [Volunteer Management Practices: Connect, Engage, Develop](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD313){:target="_blank"} <br>Register by: 30 Sep 2022
-- [Plan and Strategise for an Effective Volunteer Engagement Programme](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NVOL5808){:target="_blank"} <br>Register by: 30 Sep 2022
 - [Befriending Skills and Practice (For Volunteers) (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311){:target="_blank"} <br>Register by: 1 Nov 2022
+- [Volunteer Management Practices: Connect, Engage, Develop](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD313){:target="_blank"} <br>Register by: 29 Dec 2022
 
 ##### **The featured courses are:**
 ###### **Volunteer Management**

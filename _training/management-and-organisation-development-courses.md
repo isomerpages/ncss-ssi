@@ -7,30 +7,29 @@ description: SSI provides courses that train learners in management, leadership,
 ![Social Service Institute (SSI) Singapore - Social Service / Nonprofit Leadership and Management Training Course](/images/training/Managemnt_and_organization_development_SSI_header-banner-757-x-239px6.jpg)
 
 ##### **Registration closing soon!**
--   [Internal Controls for Management (II): Safeguarding the Revenue and Procurement Processes against Fraud](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5631){:target="_blank"} <br>Register by: 3 Oct 2022
--   [Internal Controls (IV): General Accounting, Fixed Assets, Inventory and Human Resource Management (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5468){:target="_blank"} <br>Register by: 3 Oct 2022
--   [Donor Outreach Through Social Media (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5508){:target="_blank"} <br>Register by: 5 Oct 2022
--   [Budgeting for Charities](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5450){:target="_blank"} <br>Register by: 11 Oct 2022
--   [Charities Accounting Standard and its Application](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5652){:target="_blank"} <br>Register by: 11 Oct 2022
+-   [Donor Outreach Through Social Media (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5508){:target="_blank"} <br>Register by: 24 Oct 2022
+-   [Budgeting for Charities](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5450){:target="_blank"} <br>Register by: 31 Oct 2022
+-   [Charities Accounting Standard and its Application](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5652){:target="_blank"} <br>Register by: 31 Oct 2022
+-   [Strategy Formulation by DPI Asia](https://www.dpi-asia.com/post/strategy-formulation-pure-simple){:target="_blank"} <br> Register by: 31 Oct 2022
+-   [Making $ense I: An Introduction to Fund Raising](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5103){:target="_blank"} <br>Register by: 30 Nov 2022
 
 ##### **The featured SSI's courses are:**   
+-   [Branding Non-profits: An Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCOF243){:target="_blank"} 
+- [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5073){:target="_blank"} 
+- [Teambuilding and leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT6014){:target="_blank"} 
 -   [Budgeting for Charities](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5450){:target="_blank"}   
 -   [Donor Outreach Through Social Media](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5508){:target="_blank"}   
 -   [Effective Supervisory Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5079){:target="_blank"}  
--   [Internal Controls for Management (I): An Introduction to Internal Controls](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5744){:target="_blank"}   
 -   [Manage Challenging Social Service and NPO Clients](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NPEF6032){:target="_blank"}   
 -   [Making $ense I: An Introduction to Fund-Raising](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5766){:target="_blank"}   
 -   [Plan New Facilities Development](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMMR5890){:target="_blank"}    
--   [Teambuilding and leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT6014){:target="_blank"}   
 
 ##### **The featured SSI's partner courses are:**
--   [Tech for Good: Digitalization and Social Impact by INSEAD](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SLDD432){:target="_blank"}   
-
--   [The 7 Habits of Highly Effective People by Franklin Covey](){:target="_blank"}   
--   [Strengthening Governance By Leveraging the Outward Mindset For Non-Profit Organisations by The Arbinger Institute](https://arbingersea.com/ccf-2days/){:target="_blank"}   
--   [Innovation and Change Management by Capelle Consulting](https://go.gov.sg/capelle-sep22){:target="_blank"}   
--   [Design Thinking by Capelle Consulting](https://go.gov.sg/capelle-sep22){:target="_blank"}   
-
+-   [Strategy Formulation by DPI Asia](https://www.dpi-asia.com/post/strategy-formulation-pure-simple){:target="_blank"}
+-   [The 7 Habits of Highly Effective People by Franklin Covey](){:target="_blank"}
+-   [Authentic Leadership Conversations by Erevna Leadership](http://www.erevnaleadership.com/authentic-leadership-conversations.html){:target="_blank"}
+-   [Group Excellence by Capelle Consulting](https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&wdLOR=c02FF4AA9-A7A4-4B9C-B187-D439BDFDFC3C){:target="_blank"}
+-   [3-D People Development by Capelle Consulting](https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&wdLOR=c02FF4AA9-A7A4-4B9C-B187-D439BDFDFC3C){:target="_blank"}
 
 For the full list of Management and Organisation Development courses, [search here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}  
 
