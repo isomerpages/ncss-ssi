@@ -29,7 +29,7 @@ Protection of Data
 
 Contact Information
 
-7. Please contact [socialserviceinstitute@ncss.gov.sg] if you:
+7. Please contact [NCSS_QSM@ncss.gov.sg] if you:
 
    a. have any enquires or feedback on our data protection, policies and procedures; or
 
@@ -41,4 +41,4 @@ Definitions
 
 9. ”Non-Government entity” refers to a person other than a Government Agency.
 
-10. “Personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012 (No. 26 of 2012).”  
+10. “Personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012 (No. 26 of 2012).”
