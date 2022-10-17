@@ -1,11 +1,12 @@
 ---
-title: NEXLeaders Programme
-permalink: /training/nexleaders/
-description: NEXLeaders is a  leadership development programme for the social
-  service sector created by SSI & Meta Consulting. Learn more!
+title: Test NEXLeaders
+permalink: /training/test/
+description: Testing only
 ---
 
 ![Social Service Institute (SSI) Singapore - Nexleaders Leadership Development Programme Micro Learning Courses](/images/training/nexleaders_Ssi_header.png)
+
+#### ***The course is currently unavailable. ***
 
 ### Overview   
 _“NEXleader.com offers a unique experience – a mini-MBA content AND using the latest learning paradigms: micro-learning, action-learning, and social-learning. The next-gen leaders will greatly benefit from NEXleader.com"_ 
