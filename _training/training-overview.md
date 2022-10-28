@@ -36,7 +36,7 @@ Develop your knowledge and skills in supporting individuals with mental health c
 Support the physical, cognitive, social and emotional skills development in seniors.
 
 * [Board Development](https://www.ssi.gov.sg/training/board-development/){:target="_blank"}  
-Benefit from specialised courses designed to meet the needs of nonprofit board members.
+Benefit from specialised courses designed to meet the needs of non-profit board members.
 
 * [Management and Organisation Development](https://www.ssi.gov.sg/training/management-and-organisation-development/){:target="_blank"}  
 Be equipped with fundamental skillsets designed for industry leaders to meet management and organisational needs within the social service sector.
