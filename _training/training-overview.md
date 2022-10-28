@@ -45,4 +45,4 @@ Be equipped with fundamental skillsets designed for industry leaders to meet man
 Improve your competencies and proficiency in managing and collaborating with volunteers.
 
 * [Caregiving](https://www.ssi.gov.sg/training/caregiving/){:target="_blank"}
-Practice self-care and develop effective communication strategies to build stronger bond with care recipients.
+<br>Practice self-care and develop effective communication strategies to build stronger bond with care recipients.
