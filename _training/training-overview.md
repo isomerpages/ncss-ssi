@@ -42,7 +42,7 @@ Benefit from specialised courses designed to meet the needs of non-profit board 
 Be equipped with fundamental skillsets designed for industry leaders to meet management and organisational needs within the social service sector.
 
 * [Volunteer Management and Development Courses](https://www.ssi.gov.sg/training/volunteer-development-and-management/){:target="_blank"}  
-Enhance your competencies in volunteering and volunteer management.
+Enhance your competency and proficiency as volunteers and volunteer managers.
 
 * [Caregiving](https://www.ssi.gov.sg/training/caregiving/){:target="_blank"}
 <br>Practice self-care and develop effective communication strategies to build stronger bond with care recipients.
