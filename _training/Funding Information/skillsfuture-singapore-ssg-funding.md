@@ -5,15 +5,15 @@ third_nav_title: Funding Information
 description: Singaporeans & PRs are eligible for training grants and subsidies
   under the SkillsFuture Singapore (SSG) Funding Scheme. Learn more.
 ---
-### SSG Funding Principle
+## What is SSG Funding: SSG Funding Principle
 
 SSI is a CET Centre that offers Workforce Skills Qualifications (WSQ) and non-WSQ courses at subsidised rates. Both Singaporeans and PRs are eligible for course subsidies. Employers can also tap on absentee payroll support funding for employer-sponsored training.
 
-### SkillsFuture Course Fee Funding
+## SkillsFuture Course Fee Funding
 
-For more information on SkillsFuture Singapore (SSG) Course Fee Funding, click [here](https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html){:target="_blank"}   .
+If you are a self-sponsored trainee, you may visit [SSG Course Fee Funding page for more information](https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html){:target="_blank"}   .
 
-### For Volunteers
+## SSG Funding Scheme for Training of Organisation-Sponsored Volunteers
 
 If you are a volunteer, you can qualify for the SSG Funding Scheme for Training of Organisation-Sponsored Volunteers as long as you and your organisation fulfil all of the eligibility criteria stated below. Volunteers who are not Singaporeans, PRs or LTVP+ holders can apply directly to VCF for funding.
 
@@ -26,21 +26,17 @@ If you are a volunteer, you can qualify for the SSG Funding Scheme for Training 
 
  _<sup>1</sup>The definition of “regular basis” is subjective and differs according to the organisation. It can depend on the type of service and set-up. Volunteering commitments would be considered as regular if the volunteer serves for at least 4 hours a month for a minimum 3 month period._   
 
+## Absentee Payroll
 
-### Absentee Payroll
+Employers sponsoring employees who are Singapore Citizens or Permanent Residents can apply for [Absentee Payroll Funding](https://www.ssg.gov.sg/absentee-payroll-calculator.html){:target="_blank"}   .
 
-Employers sponsoring employees who are Singapore Citizens or Permanent Residents can apply for Absentee Payroll Funding.  
-  
-For more information on Absentee Payroll, please click [here](https://www.ssg.gov.sg/absentee-payroll-calculator.html){:target="_blank"}   .
+## Workfare Skills Support (WSS)
 
-### Workfare Skills Support (WSS)
+WSS encourages low wage workers to undertake training that leads to more impactful employment outcomes. [Find out more about the Workfare Skills Support](https://www.wsg.gov.sg/programmes-and-initiatives/workfare-skills-support-scheme-individuals.html){:target="_blank"}     
 
-For more information on the WSS for individuals, click [here.](https://www.wsg.gov.sg/programmes-and-initiatives/workfare-skills-support-scheme-individuals.html){:target="_blank"}     
+## Enhanced Training Support for SMEs (ETS)
+Enhanced Training Support for SMEs (ETSS) offers additional support for SMEs in the form of higher course fee subsidies. [Find out more about the Enhanced Training Support for SMEs.](http://www.ssg.gov.sg/programmes-and-initiatives/funding/enhanced-training-support-for-smes1.html){:target="_blank"}   
 
-### Enhanced Training Support for SMEs (ETS)
+## SkillsFuture Mid-career Enhanced Subsidy
 
-For more information on Enhanced Training Support for SMEs (ETS), click [here.](http://www.ssg.gov.sg/programmes-and-initiatives/funding/enhanced-training-support-for-smes1.html){:target="_blank"}   
-
-### SkillsFuture Mid-career Enhanced Subsidy
-
-For more information on SkillsFuture Mid-career Enhanced Subsidy, click [here.](https://www.skillsfuture.gov.sg/enhancedsubsidy){:target="_blank"}
+The SkillsFuture Mid-Career Enhanced Subsidy supports and encourages lifelong learning and helps Singaporeans stay responsive to a changing workplace. [Find out more about the Mid-Career Enhanced Subsidy.](https://www.skillsfuture.gov.sg/enhancedsubsidy){:target="_blank"}
