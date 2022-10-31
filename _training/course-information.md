@@ -27,6 +27,6 @@ The estimated processing time for both individual and organisation course applic
   
 You can refer to this  [link](/images/faq/TraineeLogin.pdf){:target="_blank"}     for the user guide for individual course applications and this  [link](/images/faq/VWOLogin.pdf){:target="_blank"}   for the user guide for organisation course applications.
 
-### View our courses
+## View all Social Service Institute Courses
 
 To view the full suite of courses offered by the Social Service Institute visit this  [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   .
