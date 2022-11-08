@@ -38,7 +38,7 @@ Learners are required to meet at least 75% attendance and deemed 'Competent' for
 **Fees:** Full fees of $4,280 (Inclusive of GST) and nett fees of $1,284 (Inclusive of GST, after SSG subsidy). A non-refundable application fee of SGD 53.50 (including GST) is applicable.  
   
 **Other subsidies available:**  
-Successful applicants to the ACSE may apply for the SkillsFuture Study Award <sup>1</sup> for Social Service Sector. You may visit [www.skillsfuture.gov.sg](http://www.skillsfuture.gov.sg){:target="_blank"}    to find out more.  
+Successful applicants to the ACSE may apply for the SkillsFuture Study Award <sup>1</sup> for Social Service Sector. You may visit [www.skillsfuture.gov.sg](https://www.skillsfuture.gov.sg/){:target="_blank"}    to find out more.  
   
 **Module 1: Supported Employment and Working with Clients of Different Disabilities**  
 (22 - 28 September 2022)
