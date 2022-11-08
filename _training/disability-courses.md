@@ -4,8 +4,7 @@ permalink: /training/disability/
 description: SSI provides short courses, certificates, diploma and degree
   programmes to help learners empower and help persons with disabilities.
 ---
-![Social Service Institute (SSI) Singapore - Disability Care / Special Needs Courses](/images/training/disability_SSI_header-banner-757-x-239px4.jpg)
-
+![Social Service Institute (SSI) Singapore - Disability Care / Special Needs Courses](/images/disability-minimized2.jpg)
 
 #### **Registration Closing Soon!**
 
