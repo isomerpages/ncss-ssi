@@ -4,8 +4,7 @@ permalink: /training/eldercare/
 description: SSI's eldercare courses provides social service professionals with
   the skills to work with seniors.
 ---
-![Social Service Institute (SSI) Singapore - Caring and communicating with dementia and senior persons courses](/images/training/Eldercare_SSI_header-banner-757-x-239px5.jpg)
-
+![Social Service Institute (SSI) Singapore - Caring and communicating with dementia and senior persons courses](/images/eldercare-minimized.jpg)
 ##### **Registration closing soon!**
 -   [Communicate Effectively with Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH6016){:target="_blank"} <br>Register by: 28 Nov 2022
 -   [Practising Person-Centred Care Approach (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5816){:target="_blank"} <br>Register by: 7 Dec 2022
