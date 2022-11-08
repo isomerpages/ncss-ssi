@@ -21,7 +21,7 @@ The programme includes eight modules which are as shown below:
 
 [Click here](https://www.sid.org.sg/Web/Professional_Development/Courses/Essentials/NPO/Governance_For_Outstanding_Organisation_Directors_Programme.aspx){:target="_blank"} for more information and to register for the programme.
   
-Otherwise, for Management and Organisational Development courses, you may refer to our  [Management and Organisation Development](/training/management-and-Organisation-Development){:target="_blank"}    course page.
+Otherwise, for Management and Organisational Development courses, you may refer to our  [Management and Organisation Development](/training/management-and-organisation-development/){:target="_blank"}    course page.
 
 
 ### **Subscribe to Our Board Development Mailing List**
