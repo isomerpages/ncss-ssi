@@ -3,9 +3,7 @@ title: Test NEXLeaders
 permalink: /training/test/
 description: Testing only
 ---
-
-![Social Service Institute (SSI) Singapore - Nexleaders Leadership Development Programme Micro Learning Courses](/images/training/nexleaders_Ssi_header.png)
-
+![Social Service Institute (SSI) Singapore - Nexleaders Leadership Development Programme Micro Learning Courses](/images/nex%20leaders-minimized.jpg)
 #### ***The course is currently unavailable. ***
 
 ### Overview   
