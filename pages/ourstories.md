@@ -1,8 +1,7 @@
 ---
 title: Learner Testimonials
 permalink: /stories/
-description: Read testimonials from learners who have benefited from SSI's courses. 
-
+description: Read testimonials from learners who have benefited from SSI's courses.
 ---
 <table width="300px">
 <tbody>
@@ -13,7 +12,7 @@ description: Read testimonials from learners who have benefited from SSI's cours
           <br /><br />
           <a href="/stories/mr-michael-kee-and-ms-irene-neo"><img src="/images/stories/mainpage/mr-michael-kee-and-ms-irene-neo.jpg" alt="Mr Michael Kee And Ms Irene Neo" title="View Story" /></a><br /><strong>Mr Michael Kee and Ms Irene Neo, Foster Parents</strong><br /><em>"I was tutoring underprivileged children every Saturday for about two hours, but it seemed inadequate. I wanted to do more. I was contemplating what else to do, to have to create a bigger impact on society…”</em>
           <br /><br />  
-          <a href="/stories/ms-tan-qiu-ling"><img src="/images/stories/mainpage/ms-tan-qiu-ling-1.jpg" alt="Ms Tan Qiu Ling" title="View Story" /></a><br /><strong>Ms Tan Qiu Ling, Social Worker, South Central Community Family Service Centre</strong><br /><em>“As long as I’m able to make a family or an individual empowered to believe in themselves, and use that empowerment to make themselves happy, I believe I’ve made an impact in this society.”</em>
+          <a href="https://www.ssi.gov.sg/stories/ms-tan-qiu-ling/"><img src="/images/stories/mainpage/ms-tan-qiu-ling-1.jpg" alt="Ms Tan Qiu Ling" title="View Story" /></a><br /><strong>Ms Tan Qiu Ling, Social Worker, South Central Community Family Service Centre</strong><br /><em>“As long as I’m able to make a family or an individual empowered to believe in themselves, and use that empowerment to make themselves happy, I believe I’ve made an impact in this society.”</em>
           <br /><br />
           <a href="/stories/ms-eleanor-wong"><img src="/images/stories/mainpage/ms-eleanor-wong.jpg" alt="Ms Eleanor Wong" title="View Story" /></a><br /><strong>Eleanor Wong, Community Executive, St Hilda’s Community Services Centre</strong><br /><em>“You could see his face light up with joy. It’s these moments that I treasure the most.”</em>
           <br /><br />
@@ -39,7 +38,7 @@ description: Read testimonials from learners who have benefited from SSI's cours
       <br /><br />
       <a href="/stories/ms-prathibah-pillai-d-o-pillai-parappa-karan"><img src="/images/stories/mainpage/ms-prathibah-pillai-d-o-pillai-parappa-karan.jpg" alt="Ms Prathibah Pillai D/O Pillai Parappa Karan" title="View Story" /></a><br /><strong>Ms Prathibah Pillai D/O Pillai Parappa Karan, Teacher, Grace Orchard School</strong><br /><em>Championing for the Voice</em>
       <br /><br />
-      <a href="/stories/ssi-inspiring-e-book"><img src="/images/stories/mainpage/inspiringbook.jpg" alt="Nurturing Careers, Inspiring Lives" title="View Story" /></a><br /><strong>Nurturing Careers, Inspiring Lives</strong><br /><em>‘Nurturing Careers, Inspiring Lives’ showcases the stories of individuals from different walks of life whose lives have been transformed by their desire to learn and grow.</em>    
+      <a href="https://www.ssi.gov.sg/stories/ssi-inspiring-e-book/"><img src="/images/stories/mainpage/inspiringbook.jpg" alt="Nurturing Careers, Inspiring Lives" title="View Story" /></a><br /><strong>Nurturing Careers, Inspiring Lives</strong><br /><em>‘Nurturing Careers, Inspiring Lives’ showcases the stories of individuals from different walks of life whose lives have been transformed by their desire to learn and grow.</em>    
       </td>
       <td width="100px">
       <a href="/stories/mr-timothy-chua-kim-seng"><img src="/images/stories/mainpage/mr-timothy-chua-kim-seng.jpg" alt="Mr Timothy Chua Kim Seng" title="View Story" /></a><br /><strong>Mr Timothy Chua Kim Seng, Youth Worker ,Gracehaven, Salvation Army</strong><br /><em>“Things have changed so quickly in a generation that if you don’t upgrade yourself, you will be unable to connect with the younger generation.”</em>     
@@ -54,7 +53,7 @@ description: Read testimonials from learners who have benefited from SSI's cours
       <br /><br />
       <a href="/stories/ms-evelyn-ng"><img src="/images/stories/mainpage/ms-evelyn-ng.jpg" alt="Ms Evelyn Ng" title="View Story" /></a><br /><strong>Ms Evelyn Ng, Senior Care Associate, TOUCH Community Services (TOUCH Home Care)</strong><br /><em>Love for the Elderly</em>
       <br /><br />
-      <a href="/stories/ms-suzanne-low"><img src="/images/stories/mainpage/ms-suzanne-low.jpg" alt="Ms Suzanne Low" title="View Story" /></a><br /><strong>Ms Suzanne Low, Social Worker, AWWA School</strong><br /><em>The Best Decision Made</em>
+      <a href="https://www.ssi.gov.sg/stories/ms-suzanne-low/"><img src="/images/stories/mainpage/ms-suzanne-low.jpg" alt="Ms Suzanne Low" title="View Story" /></a><br /><strong>Ms Suzanne Low, Social Worker, AWWA School</strong><br /><em>The Best Decision Made</em>
       <br /><br />
       <a href="/stories/ms-schutz-lee"><img src="/images/stories/mainpage/ms-schutz-lee.jpg" alt="Ms Schutz Lee" title="View Story" /></a><br /><strong>Ms Schutz Lee, Treasurer, Society for WINGS (Women’s Initiative for Ageing Successfully)</strong><br /><em>Just Do It</em> 
       </td>
