@@ -38,7 +38,7 @@ Upon successful completion of all five WSQ modules, learners will be awarded wit
   
 Upon completion of all ten modules, learners will be awarded an Advanced Certificate in Social Service.  
   
-With the qualification attained, learners can apply for jobs as a Social Service Assistant or as senior house parents, programme coordinators, senior home helpers and home care workers. Click  [here](http://www.ncss.gov.sg/Social-Service-Tribe/CareersDetail/Social-Work){:target="_blank"} to find out more.
+With the qualification attained, learners can apply for jobs as a Social Service Assistant or as senior house parents, programme coordinators, senior home helpers and home care workers. Click  [here](https://www.ncss.gov.sg/social-service-tribe/careerdetail/Social-Work){:target="_blank"} to find out more.
 
 ### Course Details
 
