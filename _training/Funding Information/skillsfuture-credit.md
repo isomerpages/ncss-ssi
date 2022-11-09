@@ -5,7 +5,7 @@ third_nav_title: Funding Information
 description: The SkillsFuture Credit encourages learners to take charge of their
   skills development. Find out about the guidelines here.
 ---
-The SkillsFuture Credit aims to encourage individuals to take ownership of their skills development and lifelong learning. All Singaporeans aged 25 and above can use their S$500 SkillsFuture Credit from the government to pay for a wide range of approved skills-related courses. Your credits will not expire and the government will provide periodic top-ups, allowing you to accumulate your credits. Visit the [SkillsFuture Credit website](https://www.skillsfuture.gov.sg/credit){:target="_blank"}     to choose from the courses available on the SkillsFuture Credit course directory.”  
+The SkillsFuture Credit aims to encourage individuals to take ownership of their skills development and lifelong learning. All Singaporeans aged 25 and above can use their S$500 SkillsFuture Credit from the government to pay for a wide range of approved skills-related courses. Your credits will not expire and the government will provide periodic top-ups, allowing you to accumulate your credits. Visit the [SkillsFuture Credit website](https://www.skillsfuture.gov.sg/credit) to choose from the courses available on the SkillsFuture Credit course directory.”  
   
 Self-funded individuals may utilise SkillsFuture Credit in addition to SkillsFuture Singapore (SSG) funding to offset the nett programme or course fee.  
   
