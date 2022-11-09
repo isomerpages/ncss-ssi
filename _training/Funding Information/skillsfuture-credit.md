@@ -11,4 +11,4 @@ Self-funded individuals may utilise SkillsFuture Credit in addition to SkillsFut
   
 Organisation-sponsored learners are not eligible to tap on the SkillsFuture Credit to offset the nett programme or course fee.
 
-For more information on the SkillsFuture Credit, click [here](http://www.skillsfuture.sg/credit){:target="_blank"}
+For more information on the SkillsFuture Credit, click [here](https://www.skillsfuture.gov.sg/credit).
