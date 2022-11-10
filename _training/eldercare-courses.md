@@ -7,7 +7,6 @@ description: SSI's eldercare courses provides social service professionals with
 ![Social Service Institute (SSI) Singapore - Caring and communicating with dementia and senior persons courses](/images/eldercare-minimized.jpg)
 ##### **Registration closing soon!**
 -   [Practising Person-Centred Care Approach (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5816){:target="_blank"} <br>Register by: 7 Dec 2022
--   [Communicate Effectively with Seniors (Synchronous E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH6016){:target="_blank"} <br>Register by: 22 Dec 2022
 -   [Communicate Effectively with Seniors (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH6016){:target="_blank"} <br>Register by: 22 Dec 2022
 -   [Communicate Effectively with Seniors (Mandarin) (Synchronous E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5525){:target="_blank"} <br>Register by: 25 Jan 2023
 -   [Case Management for Seniors Using Action Learning Approach](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5364){:target="_blank"} <br>Register by: 1 Feb 2023
