@@ -18,6 +18,14 @@ description: SSI’s children, youth and family courses provides learners with t
 
 - [Family & Adult Support Tool (FAST) - User](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5936){:target="blank"} <br> (Register by 23 Dec 2022)
 
+- [Helping Youths Cope with Anger](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5158){:target="blank"} <br> (Register by 3 Jan 2023)
+
+- [Management of Family Violence: Supporting Clients in their Trauma Recovery](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5938){:target="blank"} <br> (Register by 4 Jan 2023)
+
+- [Rehabilitation and Re-Integration Needs of Former Drug Offenders](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5437){:target="blank"} <br> (Register by 10 Jan 2023)
+
+- [Safety Planning and Monitoring – A 5.5-Step Model](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF233){:target="blank"} <br> (Register by 17 Jan 2023)
+
 
 ### **Other featured courses:**
 
