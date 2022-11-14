@@ -11,7 +11,7 @@ description: SSI provides courses that train learners in management, leadership,
 **Budgeting and Fundraising**
 - [Budgeting for Charities](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5450){:target="_blank"} <br>Register by: 6 Jan 2023
 - [Charities Accounting Standard and its Application](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5652){:target="_blank"} <br>Register by: 6 Jan 2023
-- [Making $ense I: An Introduction to Fund Raising](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5103){:target="_blank"} <br>Register by: 13 Jan 2023)
+- [Making $ense I: An Introduction to Fund Raising](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5103){:target="_blank"} <br>Register by: 13 Jan 2023
 
 **Branding**
 -   [Branding Non-profits: An Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCOF243){:target="_blank"}<br>Register by: 13 Jan 2023
