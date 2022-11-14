@@ -7,13 +7,27 @@ description: SSI provides courses that train learners in management, leadership,
 ![Social Service Institute (SSI) Singapore - Social Service / Nonprofit Leadership and Management Training Course](/images/management%20organisation%20development-minimized2.jpg)
 
 ##### **Registration closing soon!**
--   [Making $ense I: An Introduction to Fund Raising](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5103){:target="_blank"} <br>Register by: 30 Nov 2022
--   [3-D People Development by Capelle Consulting](https://www.capelleconsulting.com/3-d-people-development-sfw-synchronous-e-learning/){:target="_blank"} <br>Register by: 5 Dec 2022
+
+###### **Budgeting and Fundraising**
+- [Budgeting for Charities](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5450)){:target="_blank"} <br>Register by: 6 Jan 2023
+- [Charities Accounting Standard and its Application](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5652)){:target="_blank"} <br>Register by: 6 Jan 2023
+- [Making $ense I: An Introduction to Fund Raising](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5103){:target="_blank"} <br>Register by: 13 Jan 2023)
+
+###### **Branding**
 -   [Branding Non-profits: An Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCOF243){:target="_blank"}<br>Register by: 13 Jan 2023
+
+###### **Donor Outreach**
+- [Donor Outreach Through Social Media](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5508){:target="_blank"}<br>Register by: 13 Jan 2023
+
+###### **Strategy**
+- [Strategy Formulation by DPI Asia](https://www.dpi-asia.com/post/agility-is-strategy-outdated){:target="_blank"}<br>Register by: 11 Jan 2023
+
+###### **People Management and Leadership**
+-   [3-D People Development by Capelle Consulting](https://www.capelleconsulting.com/3-d-people-development-sfw-synchronous-e-learning/){:target="_blank"} <br>Register by: 5 Dec 2022
 -   [Teambuilding and Leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT6014){:target="_blank"}<br>Register by: 13 Jan 2023
 -   [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5073){:target="_blank"}<br>Register by 24 Feb 2023
 
-##### **The featured SSI's courses are:**   
+#### **The featured SSI's courses are:**
 -   [Branding Non-profits: An Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCOF243){:target="_blank"} 
 - [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5073){:target="_blank"} 
 - [Teambuilding and leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT6014){:target="_blank"} 
