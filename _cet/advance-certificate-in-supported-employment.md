@@ -66,7 +66,7 @@ This module focuses on the role and responsibilities of a professional job coach
 
 ### **Upcoming intake:**
 
-**Registration closing date:** Friday, 23 Dec 2023. Registrations will be re-open on 1 January 2023 - 12 January 2023
+**Registration closing date:** Friday, 23 Dec 2022. Registrations will be re-open on 1 January 2023 - 12 January 2023
 
 [Click here](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS8){:target="_blank"} to register online.
 
