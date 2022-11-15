@@ -4,10 +4,8 @@ permalink: /training/cyandf/
 description: SSI’s children, youth and family courses provides learners with the
   skills to work with children, youth and families.
 ---
-![Social Service Institute (SSI) Singapore - Children & Youth Development, Family Therapy / Family Violence Courses](/images/training/CYF_SSI_header-banner-757-x-239px2.jpg)
-
+![Social Service Institute (SSI) Singapore - Children & Youth Development, Family Therapy / Family Violence Courses](/images/children%20youth%20and%20family-minimized.jpg)
 ### **Registration closing soon!**
-
 - [Management of Family Violence: Intervention in Family Violence Cases](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF279){:target="_blank"}  <br>(Register by: 27 Nov 2022)
 
 - [Mentoring and Coaching Youths Effectively (NEW)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF305){:target="_blank"}  <br>(Register by: 30 Nov 2022)
@@ -19,6 +17,14 @@ description: SSI’s children, youth and family courses provides learners with t
 - [Working with Youths on Cyber-Wellness Issues](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF488){:target="_blank"}  <br>(Register by: 23 Dec 2022)
 
 - [Family & Adult Support Tool (FAST) - User](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5936){:target="blank"} <br> (Register by 23 Dec 2022)
+
+- [Helping Youths Cope with Anger](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5158){:target="blank"} <br> (Register by 3 Jan 2023)
+
+- [Management of Family Violence: Supporting Clients in their Trauma Recovery](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5938){:target="blank"} <br> (Register by 4 Jan 2023)
+
+- [Rehabilitation and Re-Integration Needs of Former Drug Offenders](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5437){:target="blank"} <br> (Register by 10 Jan 2023)
+
+- [Safety Planning and Monitoring – A 5.5-Step Model](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF233){:target="blank"} <br> (Register by 17 Jan 2023)
 
 
 ### **Other featured courses:**

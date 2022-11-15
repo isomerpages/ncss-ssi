@@ -43,7 +43,7 @@ sections:
         of courses that SSI offers from 10 different categories.
       button: Download now
       url: /training/course-registration/
-      image: /images/homepage/Training_Direc_Banner.jpg
+      image: /images/homepage training directory image-minimized.jpg
       alt: Social Service Institute SSI Singapore - Course Schedule,Course
         List,Training Calendar
   - infopic:

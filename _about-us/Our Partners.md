@@ -34,7 +34,7 @@ The Training Network Model refers to the network of partners that SSI engages to
     
 3.  [Agency for Integrated Care](https://www.aic.sg/?gclid=CjwKCAjwj975BRBUEiwA4whRB5kRfBiF67fiP1aHElfJkqLmVyiNrRNgw2KlpV9o9eTq3Aiby8cpCxoCA08QAvD_BwE&gclsrc=aw.ds){:target="_blank"}   
     
-4.  [Charity Council](https://www.charitycouncil.org.sg/){:target="_blank"}   
+4.  [Charity Council](https://www.charities.gov.sg/){:target="_blank"}   
     
 5.  [Early Childhood Development Agency](https://www.ecda.gov.sg/pages/default.aspx){:target="_blank"}   
     
@@ -54,7 +54,7 @@ The Training Network Model refers to the network of partners that SSI engages to
     
 13.  [Workforce Singapore](https://www.ssg-wsg.gov.sg/about.html){:target="_blank"}   
     
-14.  [Singapore Association of Social Workers](https://www.sasw.org.sg/){:target="_blank"}   
+14.  [Singapore Association of Social Workers](https://sasw.org.sg/){:target="_blank"}   
 
 ### **Our Adult Educators**
    

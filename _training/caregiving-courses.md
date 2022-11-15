@@ -4,8 +4,7 @@ permalink: /training/caregiving/
 description: SSI's caregiving courses provide learners with an understanding of
   caregiving while also training them in foundational skills.
 ---
-![Social Service Institute (SSI) Singapore - Caregiver Training Courses](/images/training/caregiving_SSI_header-banner-757-x-239px9.jpg) 
-
+![Social Service Institute (SSI) Singapore - Caregiver Training Courses](/images/Caregiving-minimized.jpg)
 **These courses will not be available until further notice.**
 
 The featured courses under SSI are:   

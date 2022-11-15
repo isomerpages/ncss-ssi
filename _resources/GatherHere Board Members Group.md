@@ -1,10 +1,9 @@
 ---
 title: GatherHere Board Members Group
-permalink: /resources/boardgroup
+permalink: /resources/boardgroup/
 description: SSI's GatherHere Board Members Group provides networking
   opportunities for board members from the non-profit & social service sector.
 ---
-
 The GatherHere's Board Members group is targeted at aspiring and current board members in the social service and non-profit sector. It provides a myriad of networking and collaboration opportunities.
 
 ### Objective
@@ -29,7 +28,7 @@ Thank you for joining us at the ‘Joining Forces: Fostering Strategic Collabora
 
 We were delighted to hear from our esteemed panelists, Robert Chew, Vice President of NCSS, Philip Heah,  Chair of Digital Trust Committee (SGTech) and Ronald Stride, President, Food from the Heart, who each shared their experiences and advice for SSAs and other organisations looking to collaborate. 
 
-Join us on [GatherHere](https://www.ssi.gov.sg/resources/gatherhere){:target="_blank"}, an online community platform for social service professionals and organisations to build their network, extend support, and access valuable resources much like this panel. Stay tuned for our next event! 
+Join us on [GatherHere](https://www.ssi.gov.sg/resources/gatherhere/){:target="_blank"}, an online community platform for social service professionals and organisations to build their network, extend support, and access valuable resources much like this panel. Stay tuned for our next event! 
  
 Here are some key takeaways from our panellist discussion:
 1. Understand key use cases of digitalisation (e.g. increase efficiency, uplift fundraising efforts)

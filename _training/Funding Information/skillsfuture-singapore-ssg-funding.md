@@ -35,7 +35,7 @@ Employers sponsoring employees who are Singapore Citizens or Permanent Residents
 WSS encourages low wage workers to undertake training that leads to more impactful employment outcomes. [Find out more about the Workfare Skills Support](https://www.wsg.gov.sg/programmes-and-initiatives/workfare-skills-support-scheme-individuals.html){:target="_blank"}     
 
 ## Enhanced Training Support for SMEs (ETS)
-Enhanced Training Support for SMEs (ETSS) offers additional support for SMEs in the form of higher course fee subsidies. [Find out more about the Enhanced Training Support for SMEs.](http://www.ssg.gov.sg/programmes-and-initiatives/funding/enhanced-training-support-for-smes1.html){:target="_blank"}   
+Enhanced Training Support for SMEs (ETSS) offers additional support for SMEs in the form of higher course fee subsidies. [Find out more about the Enhanced Training Support for SMEs.](https://www.ssg.gov.sg/programmes-and-initiatives/funding/enhanced-training-support-for-smes1.html){:target="_blank"}   
 
 ## SkillsFuture Mid-career Enhanced Subsidy
 
