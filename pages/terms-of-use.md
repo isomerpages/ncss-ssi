@@ -4,11 +4,11 @@ permalink: /terms-of-use/
 ---
 Thank you for visiting https://www.ssi.gov.sg. By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this website. 
 
-**General **
+**General**
 
 1. These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this website after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes. 
 
-**Proprietary Rights **
+**Proprietary Rights**
 
 2. This website is maintained by the Social Service Insitute (“SSI”). 
 
@@ -23,7 +23,7 @@ Thank you for visiting https://www.ssi.gov.sg. By accessing and using this websi
 5. Except as otherwise provided, the Contents of this website shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of SSI.
 6. Modification of any of the Contents or use of the Contents for any other purpose will be a violation of SSI's copyright and other intellectual property rights. Graphics and images on this website are protected by copyright and may not be reproduced or appropriated in any manner without written permission of SSI.
 
-**Disclaimers against Warranties, Representations and Liability **
+**Disclaimers against Warranties, Representations and Liability**
 
 7. The Contents of this website are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, SSI does not warrant and hereby disclaims any warranty:
 
@@ -33,7 +33,7 @@ b. that the Contents available through this website or any functions associated 
 
 8. SSI shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the website, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the website. 
 
-**Right of Access **
+**Right of Access**
 
 9. SSI reserves all rights to deny or restrict access to this website to any particular person, or to block access from a particular Internet address to this website, at any time, without ascribing any reasons whatsoever. 
 
