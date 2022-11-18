@@ -2,7 +2,7 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-Thank you for visiting http://www.ssi.gov.sg. By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this website. 
+Thank you for visiting https://www.ssi.gov.sg. By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this website. 
 
 **General **
 
