@@ -21,15 +21,16 @@ Thank you for visiting https://www.ssi.gov.sg. By accessing and using this websi
 **Restrictions on use of Materials**
 
 5\. Except as otherwise provided, the Contents of this website shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of SSI.
-6. Modification of any of the Contents or use of the Contents for any other purpose will be a violation of SSI's copyright and other intellectual property rights. Graphics and images on this website are protected by copyright and may not be reproduced or appropriated in any manner without written permission of SSI.
+
+6\. Modification of any of the Contents or use of the Contents for any other purpose will be a violation of SSI's copyright and other intellectual property rights. Graphics and images on this website are protected by copyright and may not be reproduced or appropriated in any manner without written permission of SSI.
 
 **Disclaimers against Warranties, Representations and Liability**
 
 7\. The Contents of this website are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, SSI does not warrant and hereby disclaims any warranty:
 
-	a. as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this website;
+a. as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this website;
 
-	b. that the Contents available through this website or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this website and the server is and will be free of all viruses and/or other harmful elements.
+b. that the Contents available through this website or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this website and the server is and will be free of all viruses and/or other harmful elements.
 
 8\. SSI shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the website, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the website. 
 
