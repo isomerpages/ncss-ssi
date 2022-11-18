@@ -29,7 +29,7 @@ description: ""
 
 **Contact Information**
 
-7\. Please contact [socialserviceinstitute@qsm.sg] if you:
+7\. Please contact [socialserviceinstitute@qsm.sg](mailto:socialserviceinstitute@qsm.sg) if you:
 
    a. have any enquires or feedback on our data protection, policies and procedures; or
 
