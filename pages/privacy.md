@@ -2,8 +2,7 @@
 title: Government Agency Privacy Statement
 permalink: /privacy/
 ---
-GOVERNMENT AGENCY PRIVACY STATEMENT
-<br>(updated 17 Oct 2022)
+PRIVACY STATEMENT
 
 1. This is a Government of Singapore digital service. 
  
