@@ -4,19 +4,19 @@ permalink: /terms-of-use/
 ---
 Thank you for visiting https://www.ssi.gov.sg. By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this website. 
 
-###### **General**
+**General**
 
-1. These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this website after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.
+1\. These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this website after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.
+    
+**Proprietary Rights**
 
-###### **Proprietary Rights**
+2\. This website is maintained by the Social Service Insitute (“SSI”). 
 
-2. This website is maintained by the Social Service Insitute (“SSI”). 
-
-3. The materials located on this website including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by SSI. 
+3\. The materials located on this website including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by SSI. 
 
 **Privacy Policy**
 
-4. Read more about our privacy policy on the [Privacy Statement](https://www.ssi.gov.sg/privacy/) page.
+4\. Read more about our privacy policy on the [Privacy Statement](https://www.ssi.gov.sg/privacy/) page.
 
 **Restrictions on use of Materials**
 
