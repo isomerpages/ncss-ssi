@@ -1,6 +1,6 @@
 ---
 title: Training Network Model
-permalink: /training/tnm
+permalink: /training/tnm/
 description: The Training Network Model 2.0 is a strategic project that aims to
   transform SSAs to become Centres of Excellence, and to build a sustainable
   learning ecosystem for the social service sector.
@@ -18,6 +18,8 @@ SSA Partners must select one Primary Training Area, based on their domain/traini
 ![TNM 2.0: Primary and Secondary Training Areas that can be selected by SSA Partners ](/images/training/TNM/TNM-Training-Areas.jpg)
 Table: Primary and Secondary Training Areas that can be selected by SSA Partners 
 
+![Training Network Model 2.0: Current SSA Partners](/images/training/TNM/TNM-partners.jpg)
+Table: Current SSA Partners
 
 ### **Target Audience of learners**
 SSA Partners must also be able to deliver courses across four target segments of learners to ensure a 360-degree learning aspect of courses run. The four target segments are: 
@@ -34,17 +36,6 @@ To further support SSA partners to kick-start their journey in becoming Centres 
 ![TNM 2.0: Support to SSA Partners](/images/training/TNM/Support-to-SSA-Partners.png)
 
 Course fee subsidies on approved courses developed and delivered by SSA Partners under TNM 2.0 will be provided by SkillFuture Singapore (SSG). 
-
-
-### **Interested to be part of this project?**
-**The Call-for-Proposal (CFP) briefing session** will be held virtually on the **24 May 2022, 2.30pm – 4pm**. 
-
-Interested parties, [please register your interest here](https://form.gov.sg/626a39651d657b001323d866){:target="_blank"} by **18 May 2022, 6pm** to receive an invitation for the session, as well as the CFP documentation. 
-
-The documents will be sent by **20 May 2022**, to all interested parties who have registered for the briefing. 
-
-The CFP will remain open from **20 May – 9 June 2022**.
-
 
 ### **Enquiries**
 If you have any queries relating to this project, you can reach out to us by emailing [sharon_tan@ncss.gov.sg](mailto:sharon_tan@ncss.gov.sg).
