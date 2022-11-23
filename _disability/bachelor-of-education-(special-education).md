@@ -4,8 +4,6 @@ permalink: /training/cet-programmes/bachelor-of-education-(special-education)/
 description: This programme helps learners who completed NIE’s Diploma in
   Special Education to attain a degree qualification in special education.
 ---
-
-
 ### Overview
 
 This course aims to produce graduates who:
@@ -44,7 +42,7 @@ Upon completion of the course, graduates will be able to:
 **Estimated Nett Fees:**  To be confirmed (Inclusive of GST, after SSG subsidy). A non-refundable application fee of SGD 53.50 (including GST) is applicable.  
   
 **Other subsidies available:**  
-Successful applicants to the Diploma of Community Services may apply for the SkillsFuture Study Award <sup>1</sup> for Social Service Sector. You may visit [www.skillsfuture.sg/studyawards/social-service](http://www.skillsfuture.sg/studyawards/social-service){:target="_blank"}    to find out more.  
+Successful applicants to the Diploma of Community Services may apply for the SkillsFuture Study Award <sup>1</sup> for Social Service Sector. You may visit [www.skillsfuture.sg/studyawards/social-service](http://www.skillsfuture.sg/studyawards/){:target="_blank"}    to find out more.  
   
 **Upcoming intake:**  
 Registration Opening Date: To be confirmed  
