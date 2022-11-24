@@ -4,8 +4,6 @@ permalink: /training/cet-programmes/diploma-of-community-services/
 description: The diploma of community services trains professionals in the
   disability subsector to deliver person-centred services.
 ---
-
-
 ### **Overview**
 
 The Diploma of Community Services is a qualification developed by the Centre for Disability Studies (CDS) with a specific focus on person-centred practice in the disability sector. It is developed based on the values of inclusion, and on John O'Brien's five valued experiences – community participation, promoting choice, supporting contribution, encouraging valued social roles and community presence. There are a total of six themed modules in this diploma programme.  
@@ -54,7 +52,7 @@ Lecturers from CDS will facilitate tutorials and conduct individual supervision 
 **Nett Fees:**  $3,276 (Inclusive of GST, after SSG subsidy1). A non-refundable application fee of $53.50 (including GST) is required.  
   
 **Other Subsidies Available:**  
-Successful applicants to the Diploma of Community Services may apply for the SkillsFuture Study Award<sup>1</sup>  for the Social Service Sector. You may visit this  [link](http://www.skillsfuture.sg/studyawards/social-service){:target="_blank"}     to find out more.  
+Successful applicants to the Diploma of Community Services may apply for the SkillsFuture Study Award<sup>1</sup>  for the Social Service Sector. You may visit this  [link](http://www.skillsfuture.sg/studyawards/){:target="_blank"}     to find out more.  
   
 **Module 1: Knowing Self - Becoming a Person-Centred, Responsive, Ethical, Reflective Practitioner**
   
@@ -79,4 +77,3 @@ Submit both forms to apply for the course.
 ----------
 
 <sup>1</sup>  This is subjected to successful completion and achievement of a “Competent” grade for all in-class assessments/assignments. Learners eligible for SkillsFuture Singapore (SSG) funding must achieve at least 75% attendance per module and be certified “Competent” in all the assessment components. Individuals or Organisations will have to bear the full course fees in the event that learners fail to meet the attendance/assessment requirements and terms and conditions for SSG funding eligibility. Please refer to this [link](http://www.skillsconnect.gov.sg/){:target="_blank"}    for more information on SSG funding.
-
