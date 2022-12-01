@@ -6,6 +6,8 @@ description: SSI's mental health courses provides social service professionals
 ---
 ![Social Service Institute (SSI) Singapore - Mental Health Conditions & Recovery Courses](/images/training/mental%20health%20SSI_header-banner-757-x-239px3.jpg)
 
+#### **Registration closing soon!**
+- [Foundations of Psycho-Social Rehabilitation and Recovery](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5437){:target="_blank"}<br>Register by: 5 Jan 2023
 
 **Other Featured Courses**
 -   [Applied Suicide Interventional Skills](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5709) [(ASIST)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5709){:target="_blank"}   
