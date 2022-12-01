@@ -8,6 +8,7 @@ description: SSI provides courses that train learners in management, leadership,
 
 ##### **Registration now open!**
 
+
 **Budgeting and Fundraising**
 - [Budgeting for Charities](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5450){:target="_blank"} <br>Register by: 6 Jan 2023
 - [Charities Accounting Standard and its Application](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5652){:target="_blank"} <br>Register by: 6 Jan 2023
@@ -23,7 +24,7 @@ description: SSI provides courses that train learners in management, leadership,
 - [Strategy Formulation by DPI Asia](https://www.dpi-asia.com/post/agility-is-strategy-outdated){:target="_blank"}<br>Register by: 11 Jan 2023
 
 **People Management and Leadership**
--   [3-D People Development by Capelle Consulting](https://www.capelleconsulting.com/3-d-people-development-sfw-synchronous-e-learning/){:target="_blank"} <br>Register by: 5 Dec 2022
+- [Evaluative Thinking for Successful Non-Profits](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5992){:target="_blank"} <br>Register by: 5 Jan 2023
 -   [Teambuilding and Leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT6014){:target="_blank"}<br>Register by: 13 Jan 2023
 -   [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5073){:target="_blank"}<br>Register by: 24 Feb 2023
 
