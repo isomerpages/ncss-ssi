@@ -38,7 +38,7 @@ Learners are required to meet at least 75% attendance and deemed 'Competent' for
 **Fees:** Full fees of $4,212 (Inclusive of 8% GST) and nett fees of $1,263.60 (Inclusive of 8% GST, after SSG subsidy). A non-refundable application fee of SGD 53.50 (including 7% GST) is applicable for registrations received by 23 December 2022. Registrations received between 1 January 2023 onwards until the registration closing date will be subjected to 8% GST.  
   
 **Module 1: Supported Employment and Working with Clients of Different Disabilities**  
-(9 - 16 February 2023)
+(8 - 21 February 2023)
 
 This module will equip learners with a better understanding of the concept and practices of Supported Employment, including techniques to provide guidance to clients with disabilities in their career planning, employment laws and grants available for employers and persons with disabilities.  
   
