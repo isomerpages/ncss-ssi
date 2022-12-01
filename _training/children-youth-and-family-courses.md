@@ -25,7 +25,7 @@ description: SSI’s children, youth and family courses provides learners with t
 - [Safety Planning and Monitoring – A 5.5-Step Model](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF233){:target="blank"} <br> Register by: 17 Jan 2023
 - [Engaging Youth-At-Risk Through Counselling Techniques](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF477){:target="blank"} <br> Register by: 20 Jan 2023
 - [Apply development theories when working with children and youths]( https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF482){:target="blank"} <br> Register by: 25 Jan 2023
-- [Helping Family Members Cope with Issues Arising from Incarceration of a Loved One](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5802) ){:target="blank"} <br> Register by: 30 Jan 2023
+- [Helping Family Members Cope with Issues Arising from Incarceration of a Loved One](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5802){:target="blank"} <br> Register by: 30 Jan 2023
 - [Management of Family Violence: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF197){:target="blank"} <br> Register by: 5 Feb 2023
 
 
