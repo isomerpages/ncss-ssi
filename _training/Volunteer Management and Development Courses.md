@@ -5,6 +5,7 @@ description: SSI provides courses that both empower volunteers and volunteer man
 ---
 ![Volunteer Management & Development Courses: Equip volunteers with knowledge, develop volunteer management capabilities](/images/volunteer%20development%20management-minimized.jpg)
 
+
 ##### **Registration closing soon: Volunteer Management & Development Courses**
 
 - [Volunteer Management Practices: Connect, Engage, Develop](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD313){:target="_blank"} <br>Register by: 29 Dec 2022
