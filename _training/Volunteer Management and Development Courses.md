@@ -5,12 +5,13 @@ description: SSI provides courses that both empower volunteers and volunteer man
 ---
 ![Volunteer Management & Development Courses: Equip volunteers with knowledge, develop volunteer management capabilities](/images/volunteer%20development%20management-minimized.jpg)
 
-### **Registration closing soon!**
+##### **Registration closing soon: Volunteer Management & Development Courses**
 
 - [Volunteer Management Practices: Connect, Engage, Develop](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD313){:target="_blank"} <br>Register by: 29 Dec 2022
 
-### **The featured courses are:**
-#### **Volunteer Management**
+### **Other Featured Volunteer Management and Development Courses**
+
+#### **Volunteer Management Training Courses**
 - [Volunteer Management Practices: Connect, Engage, Develop](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD313){:target="_blank"} 
 -   [Design and Develop an Effective Volunteer Work Programme](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NVOL5809){:target="_blank"} 
 -   [Introduction to Volunteerism (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD422){:target="_blank"} 
@@ -35,7 +36,8 @@ description: SSI provides courses that both empower volunteers and volunteer man
 
 For the full list of volunteer management and development courses click [here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}.  
 
-## Key Adult Educators
+## Key Adult Educators for Volunteer Management and Development Courses
+
 **Ms Alice Lee-Tok**   
 Alice is a family education consultant and trainer with more than 15 years of experience in education and counselling, specialising in children and families. She has an Advanced Diploma in Early Childhood Studies, Bachelor of Arts in Children & Family Education from Edith Cowan University (ECU) and Master in Counselling from the University of South Australia (UniSA). Over the years, Alice has acquired a vast experience in conducting interactive talks/workshops for singles, couples, parents and teachers as a family life resource speaker in various settings. She is also an experienced counsellor in personal developmental and family-related issues such as parenting and marital issues, both in Singapore and China.
 
@@ -48,7 +50,7 @@ Moy Yin has a Master of Arts in Education and Human Resource Development with th
 
 
 
-## Learning & Development Roadmap
+## Learning & Development Roadmap for Volunteer Management Practitioners
 Volunteer Management Practitioners (VMPs) are key enablers in engaging volunteers to augment the manpower capabilities of Social Service Agencies (SSAs). To play this vital role and prepare VMPs for the emerging trends in the social service sector’s transformation, NCSS developed the Learning & Development Roadmap (LDR) in consultation with the sector and endorsed by senior management of SSAs, to uplift the capabilities and increase ownership in the professional development of VMPs.
 
 The LDR provides guidance on the skills and competencies required to perform effectively and optimise volunteer resources in meeting the needs of service users. It shows potential development pathways and learning opportunities as VMPs plan towards the longer-term goal of serving and growing with the sector. Besides VMPs, SSAs’ management and human resource practitioners may also use the LDR as a guide to recruit and develop their VMPs.
