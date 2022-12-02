@@ -6,7 +6,7 @@ description: SSI provides courses that train learners in management, leadership,
 ---
 ![Social Service Institute (SSI) Singapore - Social Service / Nonprofit Leadership and Management Training Course](/images/mod-banner.png)
 
-##### **Registration now open!**
+##### **Registration now open: <br> Management and Organisation Development Training Courses**
 
 
 **Budgeting and Fundraising**
@@ -28,7 +28,7 @@ description: SSI provides courses that train learners in management, leadership,
 -   [Teambuilding and Leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT6014){:target="_blank"}<br>Register by: 13 Jan 2023
 -   [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5073){:target="_blank"}<br>Register by: 24 Feb 2023
 
-#### **The featured SSI's courses are:**
+#### **Featured SSI's courses in Leadership Development, Financial Management, Facilities Management and Branding for Non-Profit Organisations:**
 -   [Branding Non-profits: An Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCOF243){:target="_blank"} 
 - [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5073){:target="_blank"} 
 - [Teambuilding and leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT6014){:target="_blank"} 
@@ -48,7 +48,7 @@ description: SSI provides courses that train learners in management, leadership,
 
 For the full list of Management and Organisation Development courses, [search here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}  
 
-### Featured Adult Educators
+### Featured Adult Educators under Management and Organisation Development Training Courses
 
 **Ms Anita Yap**   
 Anita is the principal coach & facilitator of a boutique coaching, facilitation and training firm dedicated to helping individuals and organisations achieve their goals through dialogue, learning and inspired actions. When conducting workshops, Anita is an enthusiastic and lively trainer with a passion for helping her learners to transfer the skills and knowledge from the classroom to their work and personal life. Learners who have experienced Anita’s workshops have described her as “inspiring”, “professional” and “exuding passion and enthusiasm”. An energetic facilitator with international experience, Anita has worked with clients in Singapore, China, Cambodia, Laos, Macau, Myanmar and Vietnam. As a certified professional coach, Anita has been coaching executives in the areas of personal leadership, career transitions and life issues.
@@ -67,8 +67,6 @@ Suhaimi is the CEO of a consulting/accounting firm providing professional manage
 **Ms Usha Menon**   
 Usha is the founder of Usha Menon Management Consultancy (Asia), an international training and consultancy service working exclusively with social impact organisations across Asia. Her multi-country client list includes charities, arts/ health/ education institutions, think-tanks, UN entities, International NGOs, social enterprises, philanthropic foundations and capability building organisations. She brings a wealth of multi-country experience, expertise and insights on leadership, management and fundraising. In addition, Usha has helped charities to expand their programme and fundraising capabilities and has transformed charity income sources drastically through local resource mobilisation across Asia, especially in the areas of local private sector fundraising through individual giving, philanthropic investments and corporate engagement.
 
-### News and Articles on Management and Organisation Development
-Continue receiving news and articles about developments in Management and Organisation Development through GatherHere. If you are interested to join GatherHere, you can [sign up here](https://go.gov.sg/gh-signup){:target="_blank"}.
 
 ### Subscribe to Our Management and Organisation Development Mailing List
 Subscribe to SSI’s Management and Organisation Development Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
