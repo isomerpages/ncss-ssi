@@ -30,7 +30,7 @@ description: SSI’s children, youth and family courses provides learners with t
 
 
 
-### **Other Featured Children & Youth Development, Youth Counselling, Family Therapy Courses**
+### **Other Featured Courses in Children and Youth Development, Youth Counselling and Family Therapy**
 
  - [An Introduction to Family Therapy](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5646){:target="_blank"}  
  - [Certified User for Child & Adolescent Needs & Strengths (CANS)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5894){:target="_blank"}  
@@ -53,7 +53,7 @@ description: SSI’s children, youth and family courses provides learners with t
 
 For the full list of Children, Youth and Family courses offered by SSI, follow this [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   
 
-## Featured Adult Educators for Children, Youth and Family Training Courses
+## Featured Adult Educators under Children, Youth and Family Training Courses
 
 **Ms Alison Lim**   
 Alison started her career as a social worker but is now an accomplished human resource development practitioner and academic with over 30 years of global experience in the field of adult education and development. She is acclaimed for her use of experiential and hands-on methodologies in her programmes, which results in learning and change.
@@ -81,7 +81,7 @@ Tony has worked with children and families for more than 10 years, in both the p
 **Dr Quah Saw Han**   
 Saw Han previously worked with MSF as a clinical psychologist before heading a research and programme evaluation unit. As a clinical psychologist, she worked with children, young persons and their parents in relation to child protection, juvenile crime and family issues. She is a certified user and trainer for the Transformational and Collaborative Outcome Management (TCOM) implementation framework: Child and Adolescent Needs and Strengths (CANS) and Family and Adult Support Tool (FAST). She has been recognised by the original developer of TCOM, Dr. John Lyons, as one of the local trainers who can train trainers on the use of CANS. She is familiar with the process of TCOM implementation, and was in the pilot project and early phases of TCOM implementation in Singapore.
 
-### News and Articles About The Children, Youth & Family Sector
+### News and Articles From The Children, Youth & Family Sector
 Continue receiving news and articles about the Children, Youth & Family sub-sector through GatherHere. If you are interested to join GatherHere, [sign up here](https://go.gov.sg/gh-signup){:target="_blank"}.
 
 ## Subscribe to SSI’s Children, Youth & Family Mailing List   
