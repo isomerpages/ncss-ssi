@@ -3,8 +3,7 @@ title: Volunteer Management and Development Training Courses
 permalink: /training/volunteer-development-and-management/
 description: SSI provides courses that both empower volunteers and volunteer managers.
 ---
-
-![Volunteer Management & Development Courses: Equip volunteers with knowledge, develop volunteer management capabilities](/images/volunteer%20development%20management-minimized.jpg)
+![Volunteer Management & Development Courses: Equip volunteers with knowledge, develop volunteer management capabilities](/images/volunteer-banner.png)
 
 
 ##### **Registration closing soon: Volunteer Management & Development Courses**
