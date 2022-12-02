@@ -1,10 +1,10 @@
 ---
-title: Cross Sector Courses
+title: Cross Sector Training Courses
 permalink: /training/cross-sector/
 description: SSI’s cross sector courses provide an overview and understanding of
   each sub-sector and their unique social needs.
 ---
-![Social Service Institute (SSI) Singapore - Counselling, Motivational Interviewing & Behaviour Therapy Courses](/images/cross%20sector-minimized.jpg)
+![Social Service Institute (SSI) Singapore - Counselling, Motivational Interviewing & Behaviour Therapy Courses](/images/cross-sector-banner.png)
 
 These courses provide a deeper understanding about each sub-sector, their unique social needs and help learners to critically discern and analyse their own assumptions.  
   
@@ -12,23 +12,37 @@ Cross Sector courses also cover a range of skills such as counselling, motivatio
   
 Some of the featured courses under this category are:
 
-##### **Registration Closing Soon!**
+##### **Registration Closing Soon: <br> Cross Sector Training Courses**
 
-- [Certificate in Para-Counselling in Community Setting (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET102){:target="_blank"} <br> Register by: 23 Nov 2022
+- [Syariah Family Law for Social Service Professionals](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NLAW5336){:target="_blank"} <br> Register by: 5 Dec 2022
 
-- [Syariah Family Law for Social Service Professionals](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NLAW5336){:target="_blank"} <br> Register by: 12 Dec 2022
+- [Counselling Skills and Practice: Intermediate](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5446){:target="_blank"} <br> Register by: 6 Dec 2022
 
 - [Solution Focused Brief Therapy: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5279){:target="_blank"} <br> Register by: 13 Dec 2022
 
-- [Understanding  and Working with Malay-Muslim Clients](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5570){:target="_blank"} <br> Register by: 29 Dec 2022
+- [Rules of Engagement: Collaborating for Greater Productivity](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5762){:target="_blank"} <br> Register by: 14 Dec 2022
+
+- [Case Management in Practice: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5228){:target="_blank"} <br> Register by: 15 Dec 2022
+
+- [Relate Happiness to Self-Care at Work for Performance](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS6036){:target="_blank"} <br> Register by: 28 Dec 2022
+
+- [WSQ Enhancing Effectiveness of Social Service Programmes](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS484){:target="_blank"} <br> Register by: 28 Dec 2022
+
+- [Develop an Individualised Care Plan](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS209){:target="_blank"} <br> Register by: 2 Jan 2023
+
+- [Understanding and Supporting People in Journey of Loss and Grief](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5856){:target="_blank"} <br> Register by: 9 Jan 2023
 
 - [May I Help You? (Boleh Saya Bantu Anda?) - Conversational Malay for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5647){:target="_blank"} <br> Register by: 11 Jan 2023
 
 - [Qualitative Research Methods and Analysis](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NRES5053){:target="_blank"} <br> Register by: 11 Jan 2023
 
+- [Solution Focused Brief Therapy: Intermediate](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5447){:target="_blank"} <br> Register by: 19 Jan 2023
+
+- [Understanding the Social Service Sector](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET6-M){:target="_blank"} <br> Register by: 20 Jan 2023
+
 - [Survey Research and Quantitative Analysis](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NRES5270){:target="_blank"} <br> Register by: 31 Jan 2023
 
-##### **Featured Short Courses:**
+##### **Other Featured Short Courses in Befriending, Case Management, Counselling and more:**
 
 -   [Befriending Skills and Practice (For Volunteers)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311){:target="_blank"}   
 -   [Boleh Saya Anda? May I Help You? - Conversational Malay for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5647){:target="_blank"}   
@@ -57,7 +71,7 @@ The course, [Understanding the Social Service Sector](https://iltms.ssi.gov.sg/r
 
 [Motivational Interviewing: An Introduction for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5725){:target="_blank"}   , equips learners with the skills to engage and facilitate intrinsic motivation in their clients, in order to change behaviour and progress towards an improved well-being.
 
-### **Featured Adult Educators**
+### **Featured Adult Educators under Cross Sector Training Courses**
 
 **Ms Alice Lee-Tok**  
 Alice is the author of a parenting book titled ‘Building Bridges with your Teenagers’ and has more than 15 years of experience as a Family Education consultant and training specialist where she specialises in children and families. She is also a family counsellor, family life resource speaker and a certified behaviour analyst. Alice has conducted numerous interactive talks/workshops/trainings/supervisions for various client groups in different social service settings across Thailand, Malaysia and China. She has an Advanced Diploma in Early Childhood Studies, Bachelor of Arts in Children & Family Education from the Edith Cowan University (ECU) and Masters in Counselling with the University of South Australia (UniSA).  

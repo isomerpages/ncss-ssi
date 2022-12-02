@@ -1,33 +1,36 @@
 ---
-title: Children, Youth and Family Courses
+title: Children, Youth and Family Training Courses
 permalink: /training/cyandf/
 description: SSI’s children, youth and family courses provides learners with the
   skills to work with children, youth and families.
 ---
-![Social Service Institute (SSI) Singapore - Children & Youth Development, Family Therapy / Family Violence Courses](/images/children%20youth%20and%20family-minimized.jpg)
-### **Registration closing soon!**
-- [Management of Family Violence: Intervention in Family Violence Cases](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF279){:target="_blank"}  <br>(Register by: 27 Nov 2022)
+![Children & Youth Development, Family Therapy / Family Violence Courses: Equip volunteers with skills to work with children, youth and families.](/images/cyf-banner.png)
 
-- [Mentoring and Coaching Youths Effectively (NEW)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF305){:target="_blank"}  <br>(Register by: 30 Nov 2022)
+### **Registration closing soon: <br> Children, Youth and Family Training Courses**
 
-- [Management of Family Violence: Talking to Children & Managing Abuse-related Disclosure](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5502){:target="_blank"}  <br>(Register by: 14 Dec 2022)
+- [Management of Family Violence: Talking to Children & Managing Abuse-related Disclosure](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5502){:target="_blank"}  <br>Register by: 14 Dec 2022
 
-- [Apply Therapeutic Techniques to Engage and Motivate Resistant Youths](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF486){:target="_blank"}  <br>(Register by: 23 Dec 2022)
+- [Apply Therapeutic Techniques to Engage and Motivate Resistant Youths](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF486){:target="_blank"}  <br>Register by: 23 Dec 2022
 
-- [Working with Youths on Cyber-Wellness Issues](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF488){:target="_blank"}  <br>(Register by: 23 Dec 2022)
+- [Working with Youths on Cyber-Wellness Issues](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF488){:target="_blank"}  <br>Register by: 23 Dec 2022
 
-- [Family & Adult Support Tool (FAST) - User](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5936){:target="blank"} <br> (Register by 23 Dec 2022)
+- [Family & Adult Support Tool (FAST) - User](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5936){:target="blank"} <br> Register by: 23 Dec 2022
 
-- [Helping Youths Cope with Anger](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5158){:target="blank"} <br> (Register by 3 Jan 2023)
+- [Helping Youths Cope with Anger](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5158){:target="blank"} <br> Register by: 3 Jan 2023
 
-- [Management of Family Violence: Supporting Clients in their Trauma Recovery](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5938){:target="blank"} <br> (Register by 4 Jan 2023)
+- [Management of Family Violence: Supporting Clients in their Trauma Recovery](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5938){:target="blank"} <br> Register by: 4 Jan 2023
 
-- [Rehabilitation and Re-Integration Needs of Former Drug Offenders](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5437){:target="blank"} <br> (Register by 10 Jan 2023)
+- [Rehabilitation and Re-Integration Needs of Former Drug Offenders](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5437){:target="blank"} <br> Register by: 10 Jan 2023
 
-- [Safety Planning and Monitoring – A 5.5-Step Model](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF233){:target="blank"} <br> (Register by 17 Jan 2023)
+- [Safety Planning and Monitoring – A 5.5-Step Model](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF233){:target="blank"} <br> Register by: 17 Jan 2023
+- [Engaging Youth-At-Risk Through Counselling Techniques](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF477){:target="blank"} <br> Register by: 20 Jan 2023
+- [Apply development theories when working with children and youths]( https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF482){:target="blank"} <br> Register by: 25 Jan 2023
+- [Helping Family Members Cope with Issues Arising from Incarceration of a Loved One](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5802){:target="blank"} <br> Register by: 30 Jan 2023
+- [Management of Family Violence: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF197){:target="blank"} <br> Register by: 5 Feb 2023
 
 
-### **Other featured courses:**
+
+### **Other Featured Courses in Children and Youth Development, Youth Counselling and Family Therapy**
 
  - [An Introduction to Family Therapy](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5646){:target="_blank"}  
  - [Certified User for Child & Adolescent Needs & Strengths (CANS)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5894){:target="_blank"}  
@@ -50,7 +53,7 @@ description: SSI’s children, youth and family courses provides learners with t
 
 For the full list of Children, Youth and Family courses offered by SSI, follow this [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   
 
-### Featured Adult Educators
+## Featured Adult Educators under Children, Youth and Family Training Courses
 
 **Ms Alison Lim**   
 Alison started her career as a social worker but is now an accomplished human resource development practitioner and academic with over 30 years of global experience in the field of adult education and development. She is acclaimed for her use of experiential and hands-on methodologies in her programmes, which results in learning and change.
@@ -78,8 +81,8 @@ Tony has worked with children and families for more than 10 years, in both the p
 **Dr Quah Saw Han**   
 Saw Han previously worked with MSF as a clinical psychologist before heading a research and programme evaluation unit. As a clinical psychologist, she worked with children, young persons and their parents in relation to child protection, juvenile crime and family issues. She is a certified user and trainer for the Transformational and Collaborative Outcome Management (TCOM) implementation framework: Child and Adolescent Needs and Strengths (CANS) and Family and Adult Support Tool (FAST). She has been recognised by the original developer of TCOM, Dr. John Lyons, as one of the local trainers who can train trainers on the use of CANS. She is familiar with the process of TCOM implementation, and was in the pilot project and early phases of TCOM implementation in Singapore.
 
-### News and Articles   
+### News and Articles From The Children, Youth & Family Sector
 Continue receiving news and articles about the Children, Youth & Family sub-sector through GatherHere. If you are interested to join GatherHere, [sign up here](https://go.gov.sg/gh-signup){:target="_blank"}.
 
-### Subscribe to SSI’s Children, Youth & Family Mailing List   
+## Subscribe to SSI’s Children, Youth & Family Mailing List   
 Subscribe to SSI’s Children, Youth and Family Courses Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.

@@ -1,9 +1,10 @@
 ---
-title: Training Overview
+title: Social Service Courses and Training 2022
 permalink: /training/overview/
 description: SSI offers enriching training programmes in ten different course
   categories within the social service and non-profit sector.
 ---
+
 ## SSI's Learning Philosophy
 
 SSI'S learning philosophy is guided by the Education Innovation (EI) initiative. This initiative is based on the following beliefs:

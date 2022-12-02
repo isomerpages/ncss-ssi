@@ -1,10 +1,10 @@
 ---
-title: Board Development Courses
-permalink: training/board-development/
+title: Board Development Training Courses
+permalink: /training/board-development/
 description: SSI provides courses that develop learners' competencies to
   effectively lead Non-Profit Organisations.
 ---
-![Social Service Institute (SSI) Singapore - Board Development Courses](/images/board%20development-minimized.jpg)
+![Social Service Institute (SSI) Singapore - Board Development Courses](/images/board-development-banner.png)
 
 Developed in partnership with the Singapore Institute of Directors (SID), the Singapore Governance for Outstanding Organisation Directors Programme (S-GOOD), provides competencies to efficiently and effectively conduct Board functions.  
   

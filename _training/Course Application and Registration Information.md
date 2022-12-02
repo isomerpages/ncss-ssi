@@ -1,5 +1,5 @@
 ---
-title: Course Information
+title: Course Application and Registration Information
 permalink: /training/course-information/
 description: Find out more about SSI course application procedures for
   individuals and organisations as well as other course related details here.
@@ -12,7 +12,7 @@ As part of SSI’s Education Innovation initiative, we will leverage on technolo
     
 -   Learners will complete an online course evaluation.
     
--   Learners will receive an e-certificate after attending their SSI courses. For details on how to download your e-certification follow this  [link](/images/faq/Download eCertificate V3.pdf){:target="_blank"}   
+-   Learners will receive an e-certificate after attending their SSI courses. [Find out how to download your e-certification here](/images/faq/Download eCertificate V3.pdf){:target="_blank"}   
     
 
 ## Course Application and Registration Process

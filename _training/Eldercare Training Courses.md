@@ -1,17 +1,18 @@
 ---
-title: Eldercare Courses
+title: Eldercare Training Courses
 permalink: /training/eldercare/
 description: SSI's eldercare courses provides social service professionals with
   the skills to work with seniors.
 ---
-![Social Service Institute (SSI) Singapore - Caring and communicating with dementia and senior persons courses](/images/eldercare-minimized.jpg)
-##### **Registration closing soon!**
+![Social Service Institute (SSI) Singapore - Caring and communicating with dementia and senior persons courses](/images/eldercare-banner.png)
+
+##### **Registration closing soon: <br> Eldercare Training Courses**
 -   [Practising Person-Centred Care Approach (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5816){:target="_blank"} <br>Register by: 7 Dec 2022
 -   [Communicate Effectively with Seniors (Synchronous e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH6016){:target="_blank"} <br>Register by: 22 Dec 2022
 -   [Communicate Effectively with Seniors (Mandarin) (Synchronous E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5525){:target="_blank"} <br>Register by: 25 Jan 2023
 -   [Case Management for Seniors Using Action Learning Approach](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5364){:target="_blank"} <br>Register by: 1 Feb 2023
 
-##### **The featured courses are:**
+##### **Other featured courses in Eldercare, Communication and Counselling:**
 -   [Communicate Effectively with Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH6016){:target="_blank"}   
 -   [Communicate Effectively with Seniors (Mandarin)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5525){:target="_blank"}   
 -   Conversation Starter Toolkit (e-Learning)
@@ -30,7 +31,7 @@ The complimentary featured course under the Agency for Integrated Care (AIC) can
 -   [Dementia Awareness Foundation](https://ccmhdcomms.github.io/dementiaawareness20/){:target="_blank"}
 
 
-### Featured Adult Educators
+### Featured Adult Educators under Eldercare Training Courses
 **Ms Lim Hwee Er**   
 Hwee Er holds a Master of Health Service Management from the University of Sydney (USYD) and a Bachelor of Health Sciences (Hons) (OT) from the University of Teesside. As an occupational therapist, she has 14 years of clinical experience working with seniors of various geriatric/psychogeriatric conditions across a variety of settings. Her experience also includes being a consultant for the planning and implementation of specialised services and programmes such as early dementia programmes and social service based hostels.
 
@@ -46,9 +47,6 @@ In addition, Mei Ping has extensive experience in providing consultancy services
 Lit Soon’s career in the healthcare, social service and eldercare sector spans over 30 years. He was previously the executive director of SAGE Counselling Centre, Sunshine Welfare Action Mission (SWAMI) Home, manager of medical social services at Ren Ci Hospital (RCLA), a social worker/counsellor at the Singapore Association for Mental Health (SAMH) and a staff nurse at the National University Hospital (NUH) and Singapore General Hospital (SGH).
 
 He holds a Master of Arts degree in Applied Psychology from the Nanyang Technological University (NTU), a Bachelor of Arts in Psychology & Social Work from the National University of Singapore (NUS), a Post-Graduate Diploma in Art Psychotherapy from Goldsmiths, University of London, an Advanced Diploma in Fine Arts & Design from the Nanyang Academy of Fine Arts (NAFA) and a Certificate in General Nursing from the School of Nursing, Singapore.
-
-### News and Articles
-Continue receiving news and articles about developments in the Eldercare sub-sector through GatherHere. If you are interested to join GatherHere, you can [sign up here](https://go.gov.sg/gh-signup){:target="_blank"}.
 
 ### Subscribe to Our Eldercare Mailing List   
 Subscribe to SSI’s Eldercare Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.

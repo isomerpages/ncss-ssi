@@ -27,14 +27,14 @@ Applicants should possess the following criteria:
 
 Applicants should also possess any one of the following qualifications:
 
--	SSI Advanced Certificate in Social Service.
-- WSQ Advanced Certificate in Social Service.
+-	[SSI Advanced Certificate in Social Service](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-1){:target="_blank"}
+- WSQ Advanced Certificate in Social Service
 - SGUS Social Service Assistance Programme
-- SSI Diploma in Social Service.
-- SSI Diploma in Disability Studies.
-- SIM-SSTI Specialist Diploma in Human Services.
-- Diploma from local polytechnic.
-- Two GCE 'A' and two 'AO' levels passes.
+- SSI Diploma in Social Service
+- SSI Diploma in Disability Studies
+- SIM-SSTI Specialist Diploma in Human Services
+- Diploma from local polytechnic
+- Two GCE 'A' and two 'AO' levels passes
  
 All shortlisted applicants will have to sit for a Written Aptitude Test (WAT), which will be conducted on **26 Sep 2022 at 10.30am/3.00pm or 27 Sep 2022 at 10.30am/3.00pm**. Only applicants who successfully pass the WAT will be considered for admission into the programme.
 

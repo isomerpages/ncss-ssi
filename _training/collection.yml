@@ -2,20 +2,20 @@ collections:
   training:
     output: true
     order:
-      - training-overview.md
+      - Social Service Courses and Training 2022.md
       - Featured Social Service Courses for Registration.md
       - continuing-education-training-cet-courses.md
-      - cross-sector-courses.md
-      - children-youth-and-family-courses.md
-      - disability-courses.md
-      - mental-health-courses.md
-      - eldercare-courses.md
-      - board-development-courses.md
-      - management-and-organisation-development-courses.md
-      - Volunteer Management and Development Courses.md
-      - caregiving-courses.md
+      - Cross Sector Training Courses.md
+      - Children, Youth and Family Training Courses.md
+      - Disability Training Courses.md
+      - Mental Health Training Courses.md
+      - Eldercare Training Courses.md
+      - Board Development Training Courses.md
+      - Management and Organisation Development Training Courses.md
+      - Volunteer Management and Development Training Courses.md
+      - Caregiving Training Courses.md
       - sgunited-skills-programme.md
-      - course-information.md
+      - Course Application and Registration Information.md
       - Funding Information/.keep
       - Funding Information/training-grants.md
       - Funding Information/vwos-charities-capability-fund-vcf.md
