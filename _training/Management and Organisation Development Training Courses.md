@@ -4,8 +4,7 @@ permalink: /training/management-and-organisation-development/
 description: SSI provides courses that train learners in management, leadership,
   fundraising and corporate functions.
 ---
-
-![Social Service Institute (SSI) Singapore - Social Service / Nonprofit Leadership and Management Training Course](/images/management%20organisation%20development-minimized2.jpg)
+![Social Service Institute (SSI) Singapore - Social Service / Nonprofit Leadership and Management Training Course](/images/mod-banner.png)
 
 ##### **Registration now open!**
 
