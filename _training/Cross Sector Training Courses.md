@@ -12,7 +12,7 @@ Cross Sector courses also cover a range of skills such as counselling, motivatio
   
 Some of the featured courses under this category are:
 
-##### **Registration Closing Soon!**
+##### **Registration Closing Soon: <br> Cross Sector Training Courses**
 
 - [Syariah Family Law for Social Service Professionals](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NLAW5336){:target="_blank"} <br> Register by: 5 Dec 2022
 
@@ -42,7 +42,7 @@ Some of the featured courses under this category are:
 
 - [Survey Research and Quantitative Analysis](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NRES5270){:target="_blank"} <br> Register by: 31 Jan 2023
 
-##### **Featured Short Courses:**
+##### **Other Featured Short Courses in Befriending, Case Management, Counselling and more:**
 
 -   [Befriending Skills and Practice (For Volunteers)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311){:target="_blank"}   
 -   [Boleh Saya Anda? May I Help You? - Conversational Malay for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5647){:target="_blank"}   
@@ -71,7 +71,7 @@ The course, [Understanding the Social Service Sector](https://iltms.ssi.gov.sg/r
 
 [Motivational Interviewing: An Introduction for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5725){:target="_blank"}   , equips learners with the skills to engage and facilitate intrinsic motivation in their clients, in order to change behaviour and progress towards an improved well-being.
 
-### **Featured Adult Educators**
+### **Featured Adult Educators under Cross Sector Training Courses**
 
 **Ms Alice Lee-Tok**  
 Alice is the author of a parenting book titled ‘Building Bridges with your Teenagers’ and has more than 15 years of experience as a Family Education consultant and training specialist where she specialises in children and families. She is also a family counsellor, family life resource speaker and a certified behaviour analyst. Alice has conducted numerous interactive talks/workshops/trainings/supervisions for various client groups in different social service settings across Thailand, Malaysia and China. She has an Advanced Diploma in Early Childhood Studies, Bachelor of Arts in Children & Family Education from the Edith Cowan University (ECU) and Masters in Counselling with the University of South Australia (UniSA).  
