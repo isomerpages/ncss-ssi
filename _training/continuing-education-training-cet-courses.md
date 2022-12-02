@@ -20,9 +20,6 @@ SSI offers a suite of Continuing Education and Training (CET) programmes which p
 
 For the full list of CET programmes offered by SSI, follow this  [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   .
 
-### **News and Articles**
-
-Continue receiving news and articles on CET programmes through GatherHere. If you are interested to join GatherHere, [sign up here](https://go.gov.sg/gh-signup){:target="_blank"} .
 
 ### **Subscribe to SSI’s CET Programmes Mailing List**
 
