@@ -7,7 +7,7 @@ description: ""
 
 | [![](/images/website-grid.png)](https://www.ssi.gov.sg/training/cross-sector/){:target="_blank"} | # **Featured courses for Cross Sector** | course name
 
-    <table>
+<table>
       <tr> 
         <td>Column 1</td>
         <td>Column 2</td>
@@ -26,4 +26,4 @@ description: ""
         <td>Column 3</td>
         <td>Column 4</td>
       </tr>
-    </table>
+</table>
