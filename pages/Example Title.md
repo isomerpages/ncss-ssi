@@ -7,7 +7,6 @@ description: ""
 
 | [![](/images/website-grid.png)](https://www.ssi.gov.sg/training/cross-sector/){:target="_blank"} | # **Featured courses for Cross Sector** | course name
 
-```
 <table\>  
   <tr\>  
     <th\>Company</th\>  
@@ -25,4 +24,3 @@ description: ""
     <td\>Mexico</td\>  
   </tr\>  
 </table\>
-```
