@@ -2,7 +2,7 @@ collections:
   training:
     output: true
     order:
-      - Example Title.md
+      - Featured Social Service Courses for Registration Test.md
       - Social Service Courses and Training 2022.md
       - Featured Social Service Courses for Registration.md
       - continuing-education-training-cet-courses.md
