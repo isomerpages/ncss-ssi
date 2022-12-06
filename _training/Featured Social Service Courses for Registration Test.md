@@ -3,11 +3,14 @@ title: Featured Social Service Courses for Registration Test
 permalink: /test2/
 description: ""
 ---
-<style>
-div.b {
-  text-align: left;
-}
-</style>
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+			div.b {
+			text-align: left;
+			}
+		</style>
 
 ##### **(A) Download our Training Directory for 2022-2023**
 * ##### [Training Directory 2022-2023](/files/Files%20for%20Learners/FY22-Training-Directory-updated-1Sept22.pdf){:target="_blank"} 
