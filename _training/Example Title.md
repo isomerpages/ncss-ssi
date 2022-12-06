@@ -3,7 +3,7 @@ title: Example Title
 permalink: /test2/
 description: ""
 ---
-<h3><b>Explore our courses /</b></h3>
+<h3><b>Explore our courses A</b></h3>
 
 <table>
 	<tr>
