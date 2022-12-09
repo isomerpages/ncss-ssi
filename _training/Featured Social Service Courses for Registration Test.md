@@ -14,6 +14,7 @@ description: ""
 <h3><b>Explore our courses</b></h3>
 
 ![](/images/cyf-banner.png)
+Featured courses
 
 
 <table>
