@@ -14,8 +14,8 @@ description: ""
 <h3><b>Explore our courses</b></h3>
 
 ![](/images/cyf-banner.png)
-Featured courses
-
+**[Case Management for Seniors Using Action Learning Approach](https://www.ssi.gov.sg/training/eldercare)**
+*Register by 1 Feb 2023*
 
 <table>
 	<tbody><tr>
