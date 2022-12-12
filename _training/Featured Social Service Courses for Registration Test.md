@@ -13,6 +13,8 @@ description: ""
 
 <h3><b>Explore our courses</b></h3>
 
+<p style="text-align: center;"> Hello </p>
+
 ![](/images/training/eldercare-v2.png)
 **[Case Management for Seniors Using Action Learning Approach](https://www.ssi.gov.sg/training/eldercare)** <br>
 *Register by 1 Feb 2023*
@@ -25,6 +27,40 @@ description: ""
 **[Case Management for Seniors Using Action Learning Approach](https://www.ssi.gov.sg/training/eldercare)** <br>
 *Register by 1 Feb 2023*
 
-  
+<table>
+	<tbody><tr>
+	<th><img src="https://d33wubrfki0l68.cloudfront.net/e85eaca82bc23935d8f19586ce6f89f49020d0a2/e0cc2/images/website-grid.png" alt="Caring and communicating with dementia and senior persons courses"></th><th><h4>Case Management for Seniors Using Action Learning Approach</h4><p>Register by: 1 Feb 2023</p><p>Sign up now</p><br><a href="https://www.ssi.gov.sg/training/eldercare/">View other courses</a>
+</th></tr><tr>
+	<th><img src="https://d33wubrfki0l68.cloudfront.net/e85eaca82bc23935d8f19586ce6f89f49020d0a2/e0cc2/images/website-grid.png"></th><th><h4>Case Management for Seniors Using Action Learning Approach</h4><p>Register by: 1 Feb 2023</p><p>Sign up now</p><br><a href="https://www.ssi.gov.sg/training/eldercare/">View other courses</a>
+	</th></tr><tr>
+		</tr><tr>
+	<th><img src="https://d33wubrfki0l68.cloudfront.net/e85eaca82bc23935d8f19586ce6f89f49020d0a2/e0cc2/images/website-grid.png"></th><th><h4>Case Management for Seniors Using Action Learning Approach</h4><p>Register by: 1 Feb 2023</p><p>Sign up now</p><br><a href="https://www.ssi.gov.sg/training/eldercare/">View other courses</a>
+	</th></tr><tr>
+		</tr><tr>
+	<th><img src="https://d33wubrfki0l68.cloudfront.net/e85eaca82bc23935d8f19586ce6f89f49020d0a2/e0cc2/images/website-grid.png"></th><th><h4>Case Management for Seniors Using Action Learning Approach</h4><p>Register by: 1 Feb 2023</p><p>Sign up now</p><br><a href="https://www.ssi.gov.sg/training/eldercare/">View other courses</a>
+	</th></tr><tr>
+		</tr><tr>
+	<th><img src="https://d33wubrfki0l68.cloudfront.net/e85eaca82bc23935d8f19586ce6f89f49020d0a2/e0cc2/images/website-grid.png"></th><th><h4>Case Management for Seniors Using Action Learning Approach</h4><p>Register by: 1 Feb 2023</p><p>Sign up now</p><br><a href="https://www.ssi.gov.sg/training/eldercare/">View other courses</a>
+	</th></tr><tr>
+			</tr><tr>
+	<th><img src="https://d33wubrfki0l68.cloudfront.net/e85eaca82bc23935d8f19586ce6f89f49020d0a2/e0cc2/images/website-grid.png"></th><th><h4>Case Management for Seniors Using Action Learning Approach</h4><p>Register by: 1 Feb 2023</p><p>Sign up now</p><br><a href="https://www.ssi.gov.sg/training/eldercare/">View other courses</a>
+	</th></tr><tr>
+</tr><tr>
+	<th><img src="https://d33wubrfki0l68.cloudfront.net/e85eaca82bc23935d8f19586ce6f89f49020d0a2/e0cc2/images/website-grid.png"></th><th><h4>Case Management for Seniors Using Action Learning Approach</h4><p>Register by: 1 Feb 2023</p><p>Sign up now</p><br><a href="https://www.ssi.gov.sg/training/eldercare/">View other courses</a>
+	</th></tr><tr>
+		</tr><tr>
+	<th><img src="https://d33wubrfki0l68.cloudfront.net/e85eaca82bc23935d8f19586ce6f89f49020d0a2/e0cc2/images/website-grid.png"></th><th><h4>Case Management for Seniors Using Action Learning Approach</h4><p>Register by: 1 Feb 2023</p><p>Sign up now</p><br><a href="https://www.ssi.gov.sg/training/eldercare/">View other courses</a>
+	</th></tr><tr>
+		</tr><tr>
+	<th><img src="https://d33wubrfki0l68.cloudfront.net/e85eaca82bc23935d8f19586ce6f89f49020d0a2/e0cc2/images/website-grid.png"></th><th><h4>Case Management for Seniors Using Action Learning Approach</h4><p>Register by: 1 Feb 2023</p><p>Sign up now</p><br><a href="https://www.ssi.gov.sg/training/eldercare/">View other courses</a>
+	</th></tr><tr>
+		</tr><tr>
+	<th><img src="https://d33wubrfki0l68.cloudfront.net/e85eaca82bc23935d8f19586ce6f89f49020d0a2/e0cc2/images/website-grid.png"></th><th><h4>Case Management for Seniors Using Action Learning Approach</h4><p>Register by: 1 Feb 2023</p><p>Sign up now</p><br><a href="https://www.ssi.gov.sg/training/eldercare/">View other courses</a>
+	</th></tr><tr></tr></tbody></table>
 	
-		
+<br>
+
+\*\*Course funding is available!\*\*
+\* For Singapore Citizens, Permanent Residents and LTVP+ holders:\*\* \[SSG funding is available\](https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html){:target="\_blank"}  
+\* For foreigners who are staff of NCSS Member Social Service Agencies:\*\* \[VCF Professional Capability Grant (PCG) is available via Direct Training Application.\](https://www.ncss.gov.sg/grants-search/detail-page/VCFProfessionalCapabilityGrant-LocalTraining){:target="\_blank"} <br>
+Terms and conditions apply.
