@@ -13,7 +13,15 @@ description: ""
 
 <h3><b>Explore our courses</b></h3>
 
-![](/images/cyf-banner.png)
+![](/images/training/eldercare-v2.png)
+**[Case Management for Seniors Using Action Learning Approach](https://www.ssi.gov.sg/training/eldercare)** <br>
+*Register by 1 Feb 2023*
+
+![](/images/training/cyf-v2.png)
+**[Case Management for Seniors Using Action Learning Approach](https://www.ssi.gov.sg/training/eldercare)** <br>
+*Register by 1 Feb 2023*
+
+![](/images/training/cross-sector-v2.png)
 **[Case Management for Seniors Using Action Learning Approach](https://www.ssi.gov.sg/training/eldercare)** <br>
 *Register by 1 Feb 2023*
 
