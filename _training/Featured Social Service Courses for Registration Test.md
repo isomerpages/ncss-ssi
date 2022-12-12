@@ -22,7 +22,6 @@ Register by: 1 Feb 2023
 
 <p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/">View other courses<a>
 	
----
 ![](/images/training/eldercare-v2.png)
 ##### Case Management for Seniors Using Action Learning Approach <br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere dolor et mi aliquam, in eleifend tellus bibendum. Integer consequat quam et dolor egestas molestie. Sed eu volutpat purus, vel eleifend massa. <br>Register by: 1 Feb 2023<br>[Sign up now](https://www.ssi.gov.sg/training/eldercare/)
