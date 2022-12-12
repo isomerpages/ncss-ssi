@@ -11,10 +11,9 @@ description: ""
 
 <br>
 
-![](/images/training/cyf-v2.png)
 
 
-#### Explore our courses
+### Explore our courses
 
 <table>
   <tr>
