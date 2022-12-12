@@ -16,6 +16,6 @@ description: ""
 
 <table>
   <tr>
-    <th><img src="https://d33wubrfki0l68.cloudfront.net/d6719993354b3d02240e3a312a50bfdadcdbd8b6/44f07/images/training/eldercare-v2.png" alt="Caring and communicating with dementia and senior persons courses"><h4>Case Management for Seniors Using Action Learning Approach</h4><p>Register by: 1 Feb 2023<p><p>Sign up now</p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/">View other courses<a>
+    <td><img src="https://d33wubrfki0l68.cloudfront.net/d6719993354b3d02240e3a312a50bfdadcdbd8b6/44f07/images/training/eldercare-v2.png" alt="Caring and communicating with dementia and senior persons courses"><h4>Case Management for Seniors Using Action Learning Approach</h4><p>Register by: 1 Feb 2023<p><p>Sign up now</p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/">View other courses<a>
   <tr>
     <td><img src="/images/training/eldercare-v2.png" alt="Caring and communicating with dementia and senior persons courses"><h4>Case Management for Seniors Using Action Learning Approach</h4><p>Register by: 1 Feb 2023<p><p>Sign up now</p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/">View other courses<a>
