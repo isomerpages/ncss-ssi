@@ -13,6 +13,19 @@ description: ""
 
 <h3><b>Explore our courses</b></h3>
 
+<table>
+  <tr>
+    <th><img src="/images/training/eldercare-v2.png)" alt="Caring and communicating with dementia and senior persons courses"><h4>Case Management for Seniors Using Action Learning Approach</h4><p>Register by: 1 Feb 2023<p><p>Sign up now</p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/">View other courses<a></th>
+  </tr>
+  <tr>
+    <td><img src="/images/training/eldercare-v2.png)" alt="Caring and communicating with dementia and senior persons courses"><h4>Case Management for Seniors Using Action Learning Approach</h4><p>Register by: 1 Feb 2023<p><p>Sign up now</p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/">View other courses<a></td>
+  </tr>
+ 
+
+
+ 
+</table>
+
 ![](/images/training/eldercare-v2.png)
 #### Case Management for Seniors Using Action Learning Approach
 <p style="text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere dolor et mi aliquam, in eleifend tellus bibendum. Integer consequat quam et dolor egestas molestie. Sed eu volutpat purus, vel eleifend massa.<p> <p>Register by: 1 Feb 2023<p>
