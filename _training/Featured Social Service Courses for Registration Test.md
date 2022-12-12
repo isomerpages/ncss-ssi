@@ -11,6 +11,8 @@ description: ""
 
 <br>
 
+![](/images/training/eldercare-v2.png)
+
 <h3><b>Explore our courses</b></h3>
 
 <table>
