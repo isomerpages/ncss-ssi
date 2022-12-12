@@ -20,6 +20,8 @@ description: ""
   <tr>
     <td><img src="/images/training/eldercare-v2.png" alt="Caring and communicating with dementia and senior persons courses"><h4>Case Management for Seniors Using Action Learning Approach</h4><p style="text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere dolor et mi aliquam, in eleifend tellus bibendum. Integer consequat quam et dolor egestas molestie. Sed eu volutpat purus, vel eleifend massa.<p><p>Register by: 1 Feb 2023<p><p>Sign up now</p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/">View other Children, Youth and Family courses<a>
 <table>
+
+---
 		
 **Course funding is available!**
 
