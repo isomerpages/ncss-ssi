@@ -12,9 +12,6 @@ description: ""
 
 ### Explore our courses
 
-```
-
-
 <table>
 	<tr>
 		<td>
