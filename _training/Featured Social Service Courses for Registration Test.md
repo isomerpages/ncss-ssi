@@ -41,8 +41,6 @@ description: ""
 --- 
 <br>
 
-<b>Course funding is available!<b>
-
 
 **Course funding is available!**
 * For Singapore Citizens, Permanent Residents and LTVP+ holders:** [SSG funding is available](https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html){:target="_blank"}  
