@@ -9,7 +9,6 @@ description: ""
 ##### **(B) Download our Course Schedule (with registration dates)** <br>
 * ##### [Registration period: Dec - Feb 2023](/files/Files%20for%20Learners/Monthly%20Featured%20Courses%20-%20Dec%20to%20Mar%202023.pdf){:target="_blank"}
 
-<br>
 
 ### Explore our courses
 
