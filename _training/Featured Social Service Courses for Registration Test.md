@@ -5,7 +5,7 @@ description: ""
 ---
 ### 1) Download our course schedule
 
-##### **(A)Training Directory for 2022-2023**
+##### **(A) Training Directory for 2022-2023**
 * ##### [Training Directory 2022-2023](/files/Files%20for%20Learners/FY22-Training-Directory-updated-1Sept22.pdf){:target="_blank"} 
 
 ##### **(B) Course Schedule (with registration dates)** <br>
