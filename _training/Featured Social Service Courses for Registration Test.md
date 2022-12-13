@@ -12,6 +12,9 @@ description: ""
 
 ### Explore our courses
 
+```
+
+
 <table>
 	<tr>
 		<td>
@@ -19,7 +22,7 @@ description: ""
 			<tr>
 				<td>
 					<img src="/images/training/cyf-v2.png" alt="Caring and communicating with dementia and senior persons courses"><h4>Helping Youths Cope with Anger</h4><p>Register by: 3 Jan 2023<p><p>Sign up now<p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/">View other Children, Youth and Family courses<a><table>
-
+```
 ---
 **Course funding is available!**
 - For Singapore Citizens, Permanent Residents and LTVP+ holders:** [SSG funding is available](https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html){:target="_blank"}
