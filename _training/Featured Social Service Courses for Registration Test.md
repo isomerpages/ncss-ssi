@@ -23,9 +23,11 @@ description: ""
 					<img src="/images/training/cyf-v2.png" alt="Caring and communicating with dementia and senior persons courses"><h4>Helping Youths Cope with Anger</h4><p><a href="https://www.ssi.gov.sg/training/eldercare/">Register by 1 Feb 2023<p><p style="text-align: right;"><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/">View other Children, Youth and Family courses<a>
 					<tr>
 						<td>
-					</table>
+					<table>
 <br>
-**Course funding is available!**
-- For Singapore Citizens, Permanent Residents and LTVP+ holders:** [SSG funding is available](https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html){:target="_blank"}
-- For foreigners who are staff of NCSS Member Social Service Agencies:** [VCF Professional Capability Grant (PCG) is available via Direct Training Application.](https://www.ncss.gov.sg/grants-search/detail-page/VCFProfessionalCapabilityGrant-LocalTraining){:target="_blank"} <br>
-Terms and conditions apply.
+
+<b>Course funding is available!<b><br>
+<ul> <li>For Singapore Citizens, Permanent Residents and LTVP+ holders:** [SSG funding is available](https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html){:target="_blank"}
+	</li> <li>For foreigners who are staff of NCSS Member Social Service Agencies:** [VCF Professional Capability Grant (PCG) is available via Direct Training Application.](https://www.ncss.gov.sg/grants-search/detail-page/VCFProfessionalCapabilityGrant-LocalTraining){:target="_blank"}</li><br>
+Terms and conditions apply.	
+						
