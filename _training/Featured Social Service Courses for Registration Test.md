@@ -12,9 +12,11 @@ description: ""
 
 ### Explore our courses
 
-| ![](/images/training/eldercare-v2.png) | Ab | 
-| AB | C |
+![](/images/training/eldercare-v2.png)
+Case Management for Seniors Using Action Learning Approach<br>
+Register by 1 Feb 2023 
 
+<p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/">View other Eldercare courses<a>
 
 ---
 **Course funding is available!**
