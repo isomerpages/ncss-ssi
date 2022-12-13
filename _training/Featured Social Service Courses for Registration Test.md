@@ -12,12 +12,6 @@ description: ""
 
 ### Explore our courses
 
-![](/images/training/eldercare-v2.png)
-Case Management for Seniors Using Action Learning Approach<br>
-Register by 1 Feb 2023 
-
-<p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/">View other Eldercare courses<a><p><br>
-	
 ---
 **Course funding is available!**
 - For Singapore Citizens, Permanent Residents and LTVP+ holders:** [SSG funding is available](https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html){:target="_blank"}
@@ -27,7 +21,7 @@ Terms and conditions apply.
 <table>
 	<tr>
 		<td>
-			<img src="/images/training/eldercare-v2.png" alt="Caring and communicating with dementia and senior persons courses"><h4>Case Management for Seniors Using Action Learning Approach</h4><p><a href="https://www.ssi.gov.sg/training/eldercare/">Sign up now<p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/">View other Eldercare courses<a>
+			<img src="/images/training/eldercare-v2.png" alt="Caring and communicating with dementia and senior persons courses"><h4>Case Management for Seniors Using Action Learning Approach</h4><p><a href="https://www.ssi.gov.sg/training/eldercare/">Register by 1 Feb 2023<p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/">View other Eldercare courses<a>
 			<tr>
 				<td>
-					<img src="/images/training/cyf-v2.png" alt="Caring and communicating with dementia and senior persons courses"><h4>Helping Youths Cope with Anger</h4><p>Register by: 3 Jan 2023<p><p>Sign up now<p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/">View other Children, Youth and Family courses<a><table>
+					<img src="/images/training/cyf-v2.png" alt="Caring and communicating with dementia and senior persons courses"><h4>Helping Youths Cope with Anger</h4><p><a href="https://www.ssi.gov.sg/training/eldercare/">Register by 1 Feb 2023<p><p style="text-align: right;"><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/">View other Children, Youth and Family courses<a><table>
