@@ -30,6 +30,8 @@ description: ""
 
 <b>Course funding is available!<b><br>
 
-<ul><li>For Singapore Citizens, Permanent Residents and LTVP+ holders:** <a href ="https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html">SSG funding is available<a>
-<li>For foreigners who are staff of NCSS Member Social Service Agencies:** <a href = "https://www.ncss.gov.sg/grants-search/detail-page/VCFProfessionalCapabilityGrant-LocalTraining">VCF Professional Capability Grant (PCG) is available via Direct Training Application.<a>
+<ul>
+	<li>For Singapore Citizens, Permanent Residents and LTVP+ holders:** <a href ="https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html">SSG funding is available<a>
+	<li>For foreigners who are staff of NCSS Member Social Service Agencies:** <a href = "https://www.ncss.gov.sg/grants-search/detail-page/VCFProfessionalCapabilityGrant-LocalTraining">VCF Professional Capability Grant (PCG) is available via Direct Training Application.<a>
+<ul>
 <br>Terms and conditions apply.
