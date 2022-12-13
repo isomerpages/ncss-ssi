@@ -18,6 +18,18 @@ description: ""
 | --: |
 | [View other Eldercare courses](https://www.ssi.gov.sg/training/eldercare)
 
+![](/images/training/eldercare-v2.png)<br>
+**Case Management for Seniors Using Action Learning Approach**<br>[Sign up now](https://www.ssi.gov.sg/training/eldercare/)
+| |
+| --: |
+| [View other Eldercare courses](https://www.ssi.gov.sg/training/eldercare)
+
+![](/images/training/eldercare-v2.png)<br>
+**Case Management for Seniors Using Action Learning Approach**<br>[Sign up now](https://www.ssi.gov.sg/training/eldercare/)
+| |
+| --: |
+| [View other Eldercare courses](https://www.ssi.gov.sg/training/eldercare)
+
 ---
 **Course funding is available!**
 - For Singapore Citizens, Permanent Residents and LTVP+ holders:** [SSG funding is available](https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html){:target="_blank"}
