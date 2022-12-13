@@ -31,7 +31,7 @@ description: ""
 
 </tr><tr> <td><img src="/images/training/board-v2.png" alt="BOARD"><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/">View all Board Development courses</a></p></td>
 	
-</tr><tr> <td><img src="/images/training/mod-v2.png" alt="MOD"><h5>Strategy Formulation by DPI Asia</h5><a href=https://www.dpi-asia.com/post/agility-is-strategy-outdated">Register by 11 Jan 2023</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/">View other Management and Organisation Development courses</a></p></td>
+</tr><tr> <td><img src="/images/training/mod-v2.png" alt="MOD"><h5>Strategy Formulation by DPI Asia</h5><a href="https://www.dpi-asia.com/post/agility-is-strategy-outdated">Register by 11 Jan 2023</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/">View other Management and Organisation Development courses</a></p></td>
 
 </tr><tr> <td><img src="/images/training/volunteer-v2.png" alt="volunteering"><h5>Befriending Skills and Practice (For Volunteers)</h5><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311">Register by 31 Dec 2022</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/">View other Volunteering Management and Development courses</a></p></td>
 
