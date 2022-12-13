@@ -37,11 +37,13 @@ description: ""
 
 </tr><tr> <td><img src="/images/training/eldercare-v2.png" alt="caregiving"><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/caregiving/">View other Caregiving courses</a></p></td>
 	</tr></tbody></table>
-					
-<br><b>Course funding is available!<p><b>
 
-</b></p><ul><b>
+--- 
+<br>
+<b>Course funding is available!<b>
+
+<ul>
 	<li>For Singapore Citizens, Permanent Residents and LTVP+ holders:** <a href="">SSG funding is available</a><a>
 		</a></li><li><a>For foreigners who are staff of NCSS Member Social Service Agencies:** </a><a href="https://www.ncss.gov.sg/grants-search/detail-page/VCFProfessionalCapabilityGrant-LocalTraining">VCF Professional Capability Grant (PCG) is available via Direct Training Application.</a><a></a></li></b></ul><b><a>
 
-<p>Terms and conditions apply.</p><p></p></a></b></b>
+	<p>Terms and conditions apply.</p>
