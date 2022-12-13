@@ -12,8 +12,8 @@ description: ""
 
 ### Explore our courses
 
-![](/images/training/eldercare-v2.png)<br>
-**Case Management for Seniors Using Action Learning Approach**<br>[Sign up now](https://www.ssi.gov.sg/training/eldercare/)
+| ![](/images/training/eldercare-v2.png)<br>
+**Case Management for Seniors Using Action Learning Approach**<br>[Sign up now](https://www.ssi.gov.sg/training/eldercare/) |
 | |
 | --: |
 | [View other Eldercare courses](https://www.ssi.gov.sg/training/eldercare)
