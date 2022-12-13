@@ -3,16 +3,16 @@ title: Featured Social Service Courses for Registration Test
 permalink: /test2/
 description: ""
 ---
-### Download our course schedule
+### 1) Download our course schedule
 
-##### **(A) Download our Training Directory for 2022-2023**
+##### **(A)Training Directory for 2022-2023**
 * ##### [Training Directory 2022-2023](/files/Files%20for%20Learners/FY22-Training-Directory-updated-1Sept22.pdf){:target="_blank"} 
 
-##### **(B) Download our Course Schedule (with registration dates)** <br>
+##### **(B) Course Schedule (with registration dates)** <br>
 * ##### [Registration period: Dec - Feb 2023](/files/Files%20for%20Learners/Monthly%20Featured%20Courses%20-%20Dec%20to%20Mar%202023.pdf){:target="_blank"}
 
 
-### Explore our featured courses
+### 2) Explore our featured courses
 
 ---
 
