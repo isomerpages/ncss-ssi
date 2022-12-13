@@ -24,4 +24,7 @@ Terms and conditions apply.
 			<img src="/images/training/eldercare-v2.png" alt="Caring and communicating with dementia and senior persons courses"><h4>Case Management for Seniors Using Action Learning Approach</h4><p><a href="https://www.ssi.gov.sg/training/eldercare/">Register by 1 Feb 2023<p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/">View other Eldercare courses<a>
 			<tr>
 				<td>
-					<img src="/images/training/cyf-v2.png" alt="Caring and communicating with dementia and senior persons courses"><h4>Helping Youths Cope with Anger</h4><p><a href="https://www.ssi.gov.sg/training/eldercare/">Register by 1 Feb 2023<p><p style="text-align: right;"><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/">View other Children, Youth and Family courses<a><table>
+					<img src="/images/training/cyf-v2.png" alt="Caring and communicating with dementia and senior persons courses"><h4>Helping Youths Cope with Anger</h4><p><a href="https://www.ssi.gov.sg/training/eldercare/">Register by 1 Feb 2023<p><p style="text-align: right;"><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/">View other Children, Youth and Family courses<a>
+					<tr>
+						<td>
+					<table>
