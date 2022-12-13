@@ -17,19 +17,21 @@ description: ""
 ---
 
 <table>
-	<tr>
+	<tbody><tr>
 		<td>
-			<img src="/images/training/eldercare-v2.png" alt="Caring and communicating with dementia and senior persons courses"><h5>Case Management for Seniors Using Action Learning Approach</h5><p><a href="https://www.ssi.gov.sg/training/eldercare/">Register by 1 Feb 2023<p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/">View other Eldercare courses<a>
-			<tr>
+			<img alt="Caring and communicating with dementia and senior persons courses" src="/images/training/eldercare-v2.png"><h5>Case Management for Seniors Using Action Learning Approach</h5><p><a href="https://www.ssi.gov.sg/training/eldercare/">Register by 1 Feb 2023</a></p><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/">View other Eldercare courses</a><a>
+			</a></p></td></tr><tr>
 				<td>
-					<img src="/images/training/cyf-v2.png" alt="Caring and communicating with dementia and senior persons courses"><h5>Helping Youths Cope with Anger</h5><p><a href="https://www.ssi.gov.sg/training/eldercare/">Register by 1 Feb 2023<p><p style="text-align: right;"><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/">View other Children, Youth and Family courses<a>
-					<tr>
+					<img alt="Caring and communicating with dementia and senior persons courses" src="/images/training/cyf-v2.png"><h5>Helping Youths Cope with Anger</h5><p><a href="https://www.ssi.gov.sg/training/eldercare/">Register by 1 Feb 2023</a></p><p></p><p style="text-align: right;"></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/">View other Children, Youth and Family courses</a><a>
+					</a></p></td></tr><tr>
 						<td>
-					<table>
-<br>
+					<br><b>Course funding is available!<p><b>
 
-<b>Course funding is available!<b><br>
+</b></p><ul><b>
+	<li>For Singapore Citizens, Permanent Residents and LTVP+ holders:** <a href="">SSG funding is available</a><a>
+		</a></li><li><a>For foreigners who are staff of NCSS Member Social Service Agencies:** </a><a href="https://www.ncss.gov.sg/grants-search/detail-page/VCFProfessionalCapabilityGrant-LocalTraining">VCF Professional Capability Grant (PCG) is available via Direct Training Application.</a><a></a></li></b></ul><b><a>
 
-* For Singapore Citizens, Permanent Residents and LTVP+ holders:** [SSG funding is available](https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html){:target="_blank"}  
-* For foreigners who are staff of NCSS Member Social Service Agencies:** [VCF Professional Capability Grant (PCG) is available via Direct Training Application.](https://www.ncss.gov.sg/grants-search/detail-page/VCFProfessionalCapabilityGrant-LocalTraining){:target="_blank"} <br>
-Terms and conditions apply.
+<p>Terms and conditions apply.</p><p></p></a></b></b><table>
+
+
+</table></td></tr></tbody></table>
