@@ -44,6 +44,3 @@ description: ""
 * For Singapore Citizens, Permanent Residents and LTVP+ holders:** [SSG funding is available](https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html){:target="_blank"}  
 * For foreigners who are staff of NCSS Member Social Service Agencies:** [VCF Professional Capability Grant (PCG) is available via Direct Training Application.](https://www.ncss.gov.sg/grants-search/detail-page/VCFProfessionalCapabilityGrant-LocalTraining){:target="_blank"} <br>
 Terms and conditions apply.
-
-<h4>Alternative titles</h4>
-<h5>No featured courses at the moment<br>Coming Soon<br>New Course Coming Up<br>Look out for new courses openings<br>Check back again later</h5>
