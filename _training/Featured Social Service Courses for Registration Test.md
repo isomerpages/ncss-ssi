@@ -14,8 +14,6 @@ description: ""
 
 ### 2) Explore our featured courses
 
----
-
 <table>
 	<tbody><tr> <td><img src="/images/training/cet-v2.png" alt="Continuing"><h5>Advanced Certificate in Supported Employment (ACSE)</h5><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS8">Register by 23 Dec 2022</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/cet/">View other CET courses</a></p></td>
 		
