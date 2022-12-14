@@ -33,7 +33,7 @@ description: ""
 
 </tr><tr> <td><img src="/images/training/volunteer-v2.png" alt="Equip volunteers with knowledge, develop volunteer management capabilities"><h5>Befriending Skills and Practice (For Volunteers)</h5><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311" target="_blank">Register by 31 Dec 2022</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" target="_blank">View other Volunteering Management and Development courses</a></p></td>
 
-</tr><tr> <td><img src="/images/training/caregiving-v2.png" alt="Caregiver Training Courses"><h5>No featured courses at the moment<br>Coming Soon<br>New Course Coming Up<br>Look out for new courses openings<br>Check back again later</h5><a href="https://www.ssi.gov.sg/about-us/mailing-list/" target="_blank">Indicate your interest</a><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/caregiving/" target="_blank">View all Caregiving courses</a></p></td>
+</tr><tr> <td><img src="/images/training/caregiving-v2.png" alt="Caregiver Training Courses"><h5>No featured courses at the moment</h5><a href="https://www.ssi.gov.sg/about-us/mailing-list/" target="_blank">Indicate your interest for upcoming courses </a><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/caregiving/" target="_blank">View all Caregiving courses</a></p></td>
 	</tr></tbody></table>
 
 --- 
@@ -44,3 +44,6 @@ description: ""
 * For Singapore Citizens, Permanent Residents and LTVP+ holders:** [SSG funding is available](https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html){:target="_blank"}  
 * For foreigners who are staff of NCSS Member Social Service Agencies:** [VCF Professional Capability Grant (PCG) is available via Direct Training Application.](https://www.ncss.gov.sg/grants-search/detail-page/VCFProfessionalCapabilityGrant-LocalTraining){:target="_blank"} <br>
 Terms and conditions apply.
+
+<h4>Alternative titles</h4>
+<h5>No featured courses at the moment<br>Coming Soon<br>New Course Coming Up<br>Look out for new courses openings<br>Check back again later</h5>
