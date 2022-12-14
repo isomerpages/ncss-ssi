@@ -6,29 +6,26 @@ description: Find out more about SSI course application procedures for
 ---
 ## Course Administration
 
-As part of SSI’s Education Innovation initiative, we will leverage on technology to enrich the learning experience of our learners. This includes equipping classrooms with smart technology facilities and adopting innovative teaching pedagogies through the use of online platforms. SSI will also be progressively converting our courses into a blended learning style to incorporate online components such as quizzes and supplementary reading materials before the classroom session. Some of the changes that our learners will experience are as shown below.
+As part of SSI’s Education Innovation initiative, we leverage on technology to enrich the learning experience of our learners. This includes equipping classrooms with smart technology facilities and adopting innovative teaching pedagogies through the use of online platforms. SSI has also converted some of our courses into a blended learning style to incorporate online components such as quizzes and supplementary reading materials before the classroom session. Some of the changes that our learners will experience are as shown below.
 
 -   Learners will receive access to online courseware instead of printed materials.
     
 -   Learners will complete an online course evaluation.
     
--   Learners will receive an e-certificate after attending their SSI courses. [Find out how to download your e-certification here](/images/faq/Download eCertificate V3.pdf){:target="_blank"}   
+-   Learners will receive an e-certificate after attending their SSI courses. You may refer to the learners’ user guide on the downloading of e-certificates [here](https://www.ssi.gov.sg/resources/learnhere/){:target="_blank"} .
     
 
 ## Course Application and Registration Process
 
 ### Individual Course Application
-Individual course applications are for self paying individuals and employees who are funded by their organisations. For individual course applications use this  [link](https://e-services.ncss.gov.sg/Training/Trainee){:target="_blank"} to apply for your courses. Upon application, you will also be screened for suitability for SkillsFuture Singapore (SSG) funding although this is subjected to the terms and conditions of funding.  
+Individual course applications are for self-paying individuals. For individual course applications, you may apply for courses on the Online Registration portal via this [link](https://www.ssi.gov.sg/resources/learnhere/){:target="_blank"} . If you are new to SSI, click [here](https://iltms.ssi.gov.sg/registration#/SignUpforIndividual){:target="_blank"}  to register for an account. You also may refer to the user guide on Online Registration Portal [here](https://www.ssi.gov.sg/resources/learnhere/){:target="_blank"} . Upon application, you will also be screened for suitability for SkillsFuture Singapore (SSG) funding although this is subjected to the terms and conditions of funding.
   
 ### Organisation Course Application
-Organisation course applications are for employees who are funded by their organisations. You can use this [link](https://e-services.ncss.gov.sg/Training/TrainingManagement){:target="_blank"}     for organisation course applications. For new organisations that are not registered with us yet, click  [here](https://e-services.ncss.gov.sg/LoginRequest){:target="_blank"}     to request for your login ID and password. You also may refer to the user guide on organisation registration  [here](/images/faq/VWORegistration.pdf){:target="_blank"}   .  
+Organisation course applications are for employees who are funded by their organisations. Organisations’ administrators may apply for courses for their employees on the Online Registration portal via this [link](https://www.ssi.gov.sg/resources/learnhere/){:target="_blank"} . For new organisations which have not registered with us yet, click [here](https://iltms.ssi.gov.sg/registration#/SignUpforIndividual){:target="_blank"}  to request for your login ID and password. You also may refer to the client user guide for organisation-sponsored registrations [here](https://www.ssi.gov.sg/resources/learnhere/){:target="_blank"} .
 
 ### Course Application Processing Time
-The estimated processing time for both individual and organisation course applications are the same. The duration will be at least two weeks before the course start date.  
-  
-### Course Application User Guide
-You can refer to this  [link](/images/faq/TraineeLogin.pdf){:target="_blank"}     for the user guide for individual course applications and this  [link](/images/faq/VWOLogin.pdf){:target="_blank"}   for the user guide for organisation course applications.
+The estimated processing time for both individual and organisation course applications are the same.  The course registration will close 5-8 weeks before the course start date.
 
 ## View all Social Service Institute Courses
 
-To view the full suite of courses offered by the Social Service Institute visit this  [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   .
+To view the full suite of courses offered by the Social Service Institute visit this  [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}.
