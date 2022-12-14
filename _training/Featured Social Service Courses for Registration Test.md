@@ -27,13 +27,13 @@ description: ""
 
 </tr><tr> <td><img src="/images/training/eldercare-v2.png" alt="Caring and communicating with dementia and senior persons courses"><h5>Case Management for Seniors Using Action Learning Approach</h5><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5364/" target="_blank">Register by 1 Feb 2023</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/" target="_blank">View other Eldercare courses</a></p></td>
 
-</tr><tr> <td><img src="/images/training/board-v2.png" alt="Board Development Courses"><p></p><h5>No featured courses at the moment</h5><a href="https://www.ssi.gov.sg/about-us/mailing-list/" target="_blank">Indicate your interest for upcoming courses </a><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/" target="_blank">View all Board Development courses</a></p></td>
+</tr><tr> <td><img src="/images/training/board-v2.png" alt="Board Development Courses"><p></p><h5>No featured courses at the moment</h5><a href="https://www.ssi.gov.sg/about-us/mailing-list/" target="_blank">Subscribe to our mailing list for course updates</a><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/" target="_blank">View all Board Development courses</a></p></td>
 	
 </tr><tr> <td><img src="/images/training/mod-v2.png" alt="Social Service / Nonprofit Leadership and Management Training Course"><h5>Strategy Formulation by DPI Asia</h5><a href="https://www.dpi-asia.com/post/agility-is-strategy-outdated" target="_blank">Register by 11 Jan 2023</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/" target="_blank">View other Management and Organisation Development courses</a></p></td>
 
 </tr><tr> <td><img src="/images/training/volunteer-v2.png" alt="Equip volunteers with knowledge, develop volunteer management capabilities"><h5>Befriending Skills and Practice (For Volunteers)</h5><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311" target="_blank">Register by 31 Dec 2022</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" target="_blank">View other Volunteering Management and Development courses</a></p></td>
 
-</tr><tr> <td><img src="/images/training/caregiving-v2.png" alt="Caregiver Training Courses"><h5>No featured courses at the moment</h5><a href="https://www.ssi.gov.sg/about-us/mailing-list/" target="_blank">Indicate your interest for upcoming courses </a><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/caregiving/" target="_blank">View all Caregiving courses</a></p></td>
+</tr><tr> <td><img src="/images/training/caregiving-v2.png" alt="Caregiver Training Courses"><h5>No featured courses at the moment</h5><a href="https://www.ssi.gov.sg/about-us/mailing-list/" target="_blank">Subscribe to our mailing list for course updates </a><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/caregiving/" target="_blank">View all Caregiving courses</a></p></td>
 	</tr></tbody></table>
 
 --- 
