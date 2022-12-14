@@ -33,7 +33,7 @@ description: ""
 
 </tr><tr> <td><img src="/images/training/volunteer-v2.png" alt="Equip volunteers with knowledge, develop volunteer management capabilities"><h5>Befriending Skills and Practice (For Volunteers)</h5><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311" target="_blank">Register by 31 Dec 2022</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" target="_blank">View other Volunteering Management and Development courses</a></p></td>
 
-</tr><tr> <td><img src="/images/training/caregiving-v2.png" alt="Caregiver Training Courses"><h5>No featured courses at the moment<br>Coming Soon<br>New Course Coming Up<br>Look out for new courses openings<br></h5><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/caregiving/" target="_blank">View all Caregiving courses</a></p></td>
+</tr><tr> <td><img src="/images/training/caregiving-v2.png" alt="Caregiver Training Courses"><h5>No featured courses at the moment<br>Coming Soon<br>New Course Coming Up<br>Look out for new courses openings<br>Check back again later</h5><a href="https://www.ssi.gov.sg/about-us/mailing-list/" target="_blank">Indicate your interest</a><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/caregiving/" target="_blank">View all Caregiving courses</a></p></td>
 	</tr></tbody></table>
 
 --- 
