@@ -16,7 +16,7 @@ description: SSI offers courses and training for social workers and the social
 ### 2) Explore our featured courses
 
 <table>
-	<tbody><tr> <td><img src="/images/training/cet-v2.png" alt="Continuing Education & Training (CET) Courses"><h5>Advanced Certificate in Supported Employment (ACSE)</h5><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS8" target="_blank">Register by 23 Dec 2022</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/cet-programmes/" target="_blank">View other CET courses</a></p></td>
+	<tbody><tr> <td><a href ="" target="_blank"><img src="/images/training/cet-v2.png" alt="Continuing Education & Training (CET) Courses"></a><h5>Advanced Certificate in Supported Employment (ACSE)</h5><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS8" target="_blank">Register by 23 Dec 2022</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/cet-programmes/" target="_blank">View other CET courses</a></p></td>
 		
 </tr><tr> <td><img src="/images/training/cross-sector-v2.png" alt="Counselling, Motivational Interviewing & Behaviour Therapy Courses"><h5>Understanding the Social Service Sector</h5><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET6-M" target="_blank">Register by 1 Feb 2023</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/cross-sector/" target="_blank">View other Cross Sector courses</a></p></td>
 		
