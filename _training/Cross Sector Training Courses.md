@@ -92,10 +92,6 @@ Yeh Min holds a Bachelor in Social Sciences (Social Work Honours) from NUS. She 
 Terence is the divisional director of AMKFSC Community Services Ltd. (AMKFSC) and has more than 20 years of experience as a social worker supporting individuals and families in both the  
 healthcare and social service setting. He obtained his master’s and doctorate in Social Work from NUS and has also completed an advanced training in Family Therapy at the University of Calgary (UCalgary) in Canada. Terence has been lecturing in the Social Work undergraduate and post-graduate programmes at NUS and SUSS since 2008. He is an approved clinical supervisor with the University of Michigan, NUS, SUSS, Curtin and Swinburne University. His work had been published in professional journals and academic textbooks and he has presented in several local and international conferences.
 
-### **News and Articles**
-
-Continue receiving Cross Sector news and articles through GatherHere. If you are interested to join GatherHere, [sign up here](https://go.gov.sg/gh-signup){:target="_blank"}.
-
 ### **Subscribe to SSI’s Cross Sector Mailing List**
 
 Subscribe to SSI’s Cross Sector Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}
