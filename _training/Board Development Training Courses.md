@@ -19,7 +19,7 @@ The programme includes eight modules which are as shown below:
 7.  Fundraising, Outreach and Advocacy.
 8.  Social Trends.
 
-[Click here](https://www.sid.org.sg/Web/Professional_Development/Courses/Essentials/NPO/Governance_For_Outstanding_Organisation_Directors_Programme.aspx){:target="_blank"} for more information and to register for the programme.
+[Click here](https://www.sid.org.sg/Web/Professional_Development/Courses/Essentials/SGOOD_Essentials.aspx){:target="_blank"} for more information and to register for the programme.
   
 Otherwise, for Management and Organisational Development courses, you may refer to our  [Management and Organisation Development](/training/management-and-organisation-development/){:target="_blank"}    course page.
 

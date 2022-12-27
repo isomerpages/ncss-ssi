@@ -19,16 +19,16 @@ description: SSI's mental health courses provides social service professionals
 -   [Suicide Prevention and Management for Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5587){:target="_blank"}   
 -   [Tools and Skills for Supporting Youths with Mental Health Distress](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5408){:target="_blank"}   
 
-<sup>1</sup>This is the first module in the  [Peer Support Specialist Programme](/training/cet-programmes/peer-support-specialist-programme/){:target="_blank"}   .
+<sup>1</sup>This is the first module in the  [Peer Support Specialist Programme](/training/cet-programmes/peer-support-specialist-programme/){:target="_blank"} .
 
 ### Certificate/ Diploma/ Degree Programmes:
 
- - [Certificate in Peer Support](/training/cet-programmes/certificate-in-peer-support/){:target="_blank"}   <sup>2</sup>.
+ - [Certificate in Peer Support](/training/cet-programmes/certificate-in-peer-support/){:target="_blank"}   <sup>2</sup>
 
-<sup>2</sup>This is the second module in the  [Peer Support Specialist Programme](/training/cet-programmes/peer-support-specialist-programme/){:target="_blank"}   .
+<sup>2</sup>This is the second module in the  [Peer Support Specialist Programme](/training/cet-programmes/peer-support-specialist-programme/){:target="_blank"}.
 
 
-For the full list of Mental Health courses offered by SSI, follow this  [link](https://iltms.ssi.gov.sg/registration#/Course):target="_blank"}   .
+For the full list of Mental Health courses offered by SSI, follow this  [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   .
 
 The complimentary featured courses under the Agency for Integrated Care (AIC) can be found in the link below:
 

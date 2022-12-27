@@ -4,6 +4,7 @@ permalink: /resources/boardgroup/
 description: SSI's GatherHere Board Members Group provides networking
   opportunities for board members from the non-profit & social service sector.
 ---
+
 The GatherHere's Board Members group is targeted at aspiring and current board members in the social service and non-profit sector. It provides a myriad of networking and collaboration opportunities.
 
 ### Objective

@@ -11,7 +11,7 @@ notification: In view of the Budget 2022 announcement, the GST rate will
   href=https://www.ssi.gov.sg/training/course-registration/ target="_blank">
   Register for our courses now! </a> Please note that iLTMS will be undergoing
   the <a href=https://www.ssi.gov.sg/maintenance-schedule target="_blank">
-  scheduled maintenance on the following dates. </a> <br>Access to iLTMS may be
+  scheduled maintenance on the following dates. </a> <br> Access to iLTMS may be
   disrupted.
 sections:
   - hero:

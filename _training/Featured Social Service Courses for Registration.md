@@ -30,7 +30,7 @@ description: SSI offers courses and training for social workers and the social
 
 </tr><tr> <td><a href="https://www.ssi.gov.sg/training/board-development/" target="_blank"><img src="/images/training/board-v2.png" alt="Board Development Courses"></a><h5>No featured courses at the moment</h5><a href="https://www.ssi.gov.sg/about-us/mailing-list/" target="_blank">Subscribe to our mailing list for course updates</a><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/board-development/" target="_blank">View all Board Development courses</a></p></td>
 	
-</tr><tr> <td><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/" target="_blank"><img src="/images/training/mod-v2.png" alt="Social Service / Nonprofit Leadership and Management Training Course"></a><h5>Strategy Formulation by DPI Asia</h5><a href="https://www.dpi-asia.com/post/agility-is-strategy-outdated" target="_blank">Register by 11 Jan 2023</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/" target="_blank">View other Management and Organisation Development courses</a></p></td>
+</tr><tr> <td><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/" target="_blank"><img src="/images/training/mod-v2.png" alt="Social Service / Nonprofit Leadership and Management Training Course"></a><h5>The 7 Habits of Highly Effective People - Franklin Covey Singapore</h5><a href="https://go.gov.sg/franklincovey-ssi-seven-habits" target="_blank">Register by 11 Jan 2023</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/" target="_blank">View other Management and Organisation Development courses</a></p></td>
 
 </tr><tr> <td><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" target="_blank"><img src="/images/training/volunteer-v2.png" alt="Equip volunteers with knowledge, develop volunteer management capabilities"></a><h5>Befriending Skills and Practice (For Volunteers)</h5><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311" target="_blank">Register by 31 Dec 2022</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" target="_blank">View other Volunteering Management and Development courses</a></p></td>
 
@@ -43,6 +43,5 @@ description: SSI offers courses and training for social workers and the social
 
 **Course funding is available!**
 * For Singapore Citizens, Permanent Residents and LTVP+ holders:** [SSG funding is available](https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html){:target="_blank"}  
-* For foreigners who are staff of NCSS Member Social Service Agencies:** [VCF Professional Capability Grant (PCG) is available via Direct Training Application.](https://www.ncss.gov.sg/grants-search/detail-page/VCFProfessionalCapabilityGrant-LocalTraining){:target="_blank"} <br>
+* For foreigners who are staff of NCSS Member Social Service Agencies:** [VCF Professional Capability Grant (PCG) is available via Direct Training Application.](https://www.ncss.gov.sg/grants-search/detail-page/VCFProfessionalCapabilityGrant-LocalTraining){:target="_blank"} <br><br>
 Terms and conditions apply.
-
