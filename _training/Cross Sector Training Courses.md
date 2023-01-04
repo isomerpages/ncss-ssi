@@ -26,6 +26,8 @@ Some of the featured courses under this category are:
 
 - [Survey Research and Quantitative Analysis](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NRES5270){:target="_blank"} <br> Register by: 31 Jan 2023
 
+- [Inclusive Training Series: Understanding and Working with Persons Formerly Incarcerated (PFI) and LGBT](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SST0939){:target="_blank"} <br> Register by: 2 Feb 2023
+
 ##### **Other Featured Short Courses in Befriending, Case Management, Counselling and more:**
 
 -   [Befriending Skills and Practice (For Volunteers)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311){:target="_blank"}   
