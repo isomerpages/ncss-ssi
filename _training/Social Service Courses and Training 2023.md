@@ -1,9 +1,10 @@
 ---
-title: Social Service Courses and Training 2022
+title: Social Service Courses and Training 2023
 permalink: /training/overview/
 description: SSI offers enriching training programmes in ten different course
   categories within the social service and non-profit sector.
 ---
+
 
 ## SSI's Learning Philosophy
 

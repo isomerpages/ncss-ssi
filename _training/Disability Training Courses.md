@@ -8,10 +8,6 @@ description: SSI provides short courses, certificates, diploma and degree
 
 #### **Registration Closing Soon: <br> Disability Training Courses**
 
--   [Working with Persons with Autism (NEW)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS87){:target="_blank"} <br> Register by: 6 Dec 2022
-
--   [Independent Travel Training for Professionals Supporting Persons with Disabilities](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS211){:target="_blank"} <br> Register by: 6 Dec 2022
-
 -   [Advanced Certificate in Supported Employment (ACSE)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS8){:target="_blank"} <br> Registration for this run closes on 23 Dec 2022, and reopens 1-12 Jan 2023
 
 #### **Other Featured Short Courses in Early Childhood Interventions and Managing Disabilities**
