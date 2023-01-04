@@ -19,16 +19,16 @@ description: SSI provides courses that train learners in management, leadership,
 - [Donor Outreach Through Social Media](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5508){:target="_blank"}<br>Register by: 13 Jan 2023
 
  **Strategy**
-- [Strategy Formulation by DPI Asia](https://www.dpi-asia.com/post/agility-is-strategy-outdated){:target="_blank"}<br>Register by: 11 Jan 2023
+- [Strategy Formulation by DPI Asia](https://www.dpi-asia.com/post/agility-is-strategy-outdated){:target="_blank"}<br>Register by: 15 Mar 2023
 
 **People Management and Leadership**
 -   [Teambuilding and Leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT6014){:target="_blank"}<br>Register by: 13 Jan 2023
-
 -   [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5073){:target="_blank"}<br>Register by: 24 Feb 2023
-
-- Maintain Workplace Safety and Health (WSH) in Social Service Agencies - Singapore Institute of Technology (SIT)<br>Register by: 15 Mar 2023
-- [Strategy Formulation - DPI Asia]<br>Register by: 15 Mar 2023
 - [The 7 Habits of Highly Effective People - Franklin Covey Singapore](https://go.gov.sg/franklincovey-ssi-seven-habits){:target="_blank"}<br>Register by: 6 Apr 2023
+
+**Courses opening for registration soon**
+- Maintain Workplace Safety and Health (WSH) in Social Service Agencies - Singapore Institute of Technology (SIT)<br>Register by: 15 Mar 2023
+
 - Introduction to Occupational Health & Safety Management System - Singapore Institute of Technology (SIT)<br>Register by: 21 Apr 2023
 
 #### **Featured SSI's courses in Leadership Development, Financial Management, Facilities Management and Branding for Non-Profit Organisations:**
