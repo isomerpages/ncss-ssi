@@ -14,22 +14,6 @@ Some of the featured courses under this category are:
 
 ##### **Registration Closing Soon: <br> Cross Sector Training Courses**
 
-- [Syariah Family Law for Social Service Professionals](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NLAW5336){:target="_blank"} <br> Register by: 5 Dec 2022
-
-- [Counselling Skills and Practice: Intermediate](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5446){:target="_blank"} <br> Register by: 6 Dec 2022
-
-- [Solution Focused Brief Therapy: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5279){:target="_blank"} <br> Register by: 13 Dec 2022
-
-- [Rules of Engagement: Collaborating for Greater Productivity](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5762){:target="_blank"} <br> Register by: 14 Dec 2022
-
-- [Case Management in Practice: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5228){:target="_blank"} <br> Register by: 15 Dec 2022
-
-- [Relate Happiness to Self-Care at Work for Performance](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS6036){:target="_blank"} <br> Register by: 28 Dec 2022
-
-- [WSQ Enhancing Effectiveness of Social Service Programmes](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS484){:target="_blank"} <br> Register by: 28 Dec 2022
-
-- [Develop an Individualised Care Plan](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS209){:target="_blank"} <br> Register by: 2 Jan 2023
-
 - [Understanding and Supporting People in Journey of Loss and Grief](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5856){:target="_blank"} <br> Register by: 9 Jan 2023
 
 - [May I Help You? (Boleh Saya Bantu Anda?) - Conversational Malay for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5647){:target="_blank"} <br> Register by: 11 Jan 2023
