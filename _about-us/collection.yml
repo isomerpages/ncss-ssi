@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Training Network Model.md
       - About Social Service Institute (SSI).md
       - Our Audience.md
       - our-milestones.md
