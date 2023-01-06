@@ -29,7 +29,7 @@ Table: Selected SSAs and their respective Primary and Secondary Training Areas
 
 
 ### **TNM 2.0 Courses**
-[Click here to view courses](about-us/tnm/){:target="_blank"} developed by our 7 SSAs Partners. 
+[Click here to view courses](https://www.ssi.gov.sg/training/tnm-courses){:target="_blank"} developed by our 7 SSAs Partners. 
 
 
 
