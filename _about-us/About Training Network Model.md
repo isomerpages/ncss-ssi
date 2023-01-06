@@ -18,15 +18,11 @@ The objective of TNM 2.0 is to build a sustainable learning ecosystem for the so
 Details of each SSA are available on their websites.
 
 <table>
-<tr>
-
-<th>SSA TNM Parntners</th>
+<tr><th>SSA TNM Parntners</th>
 <th>Academy of Human Development (AHD)</th> <th>APSN Limited</th> <th>Dyslexia Association of Singapore Academy (DAS)</th> <th>Rainbow Centre Training and Consultancy (RCTC)</th> <th>Samaritans of Singapore (SOS)</th> <th>SHINE Children & Youth Services (SHINE)</th> <th>The Salvation Army Peacehaven (TSA) </th> </tr>
 
 <tr> <td>Primary Training Areas</td> <td>Family</td> <td>Disability, Mental Health & Wellness</td> <td>Disability</td> <td>Disability</td> <td>Mental Health & Wellness</td> <td>Children and Youth</td> <td>Eldercare</td> </tr>
 	<tr> <td>Secondary Training Areas</td> <td>Research & Programme Evaluation</td> <td>Social Inclusion</td> <td>Research & Programme Evaluation</td> <td>Social Inclusion & Community Assets</td> <td>Volunteer Management</td> <td>Volunteer Management</td> <td>Social Inclusion</td> </tr>
-</tr>
-
 </table>
 Table: Selected SSAs and their respective Primary and Secondary Training Areas 
 
