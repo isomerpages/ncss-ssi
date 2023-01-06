@@ -28,28 +28,14 @@ Details of each SSA are available on their websites.
 </tr>
 
 </table>
+Table: Selected SSAs and their respective Primary and Secondary Training Areas 
 
-![TNM 2.0: Primary and Secondary Training Areas that can be selected by SSA Partners ](/images/training/TNM/TNM-Training-Areas.jpg)
-Table: Primary and Secondary Training Areas that can be selected by SSA Partners 
 
-![Training Network Model 2.0: Current SSA Partners](/images/training/TNM/TNM-partners.jpg)
-Table: Current SSA Partners
 
-### **Target Audience of learners**
-SSA Partners must also be able to deliver courses across four target segments of learners to ensure a 360-degree learning aspect of courses run. The four target segments are: 
-* Sector Professionals 
-* Board Members & Volunteers 
-* Caregivers 
-* General Public & Corporates 
+### **TNM 2.0 Courses**
+[Click here to view courses](about-us/tnm/){:target="_blank"} developed by our 7 SSAs Partners. 
 
-### **Support to SSA Partners** 
-Together with SSI, an appointed consultant will help guide SSA partners through a series of advisory and consultancy workshops and structured trainings. SSI will collaborate closely and provide support to SSA Partners in Courseware Development, Marketing Outreach & Publicity, Learning Facilities & Infrastructure and Professional Development. 
 
-To further support SSA partners to kick-start their journey in becoming Centres of Excellence, seed funding has been secured to support SSA Partners in Capability Development in the following areas:  
-
-![TNM 2.0: Support to SSA Partners](/images/training/TNM/Support-to-SSA-Partners.png)
-
-Course fee subsidies on approved courses developed and delivered by SSA Partners under TNM 2.0 will be provided by SkillFuture Singapore (SSG). 
 
 ### **Enquiries**
 If you have any queries relating to this project, you can reach out to us by emailing [sharon_tan@ncss.gov.sg](mailto:sharon_tan@ncss.gov.sg).
