@@ -6,7 +6,7 @@ description: SSI provides short courses, certificates, diploma and degree
 ---
 ![Social Service Institute (SSI) Singapore - Disability Care / Special Needs Courses](/images/disability-banner.png)
 
-#### Registration Closing Soon: 
+#### **Registration Closing Soon:**
 
 -   [Independent Travel Training for Professionals Supporting Persons with Disabilities](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS211)<br> Register by 23 Jan 2023
 
