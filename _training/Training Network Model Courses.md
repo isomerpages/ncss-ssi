@@ -13,7 +13,6 @@ All courses listed here are offered by the 7 selected SSA partners onboard TNM 2
 
 #### Children & Youth
 
-
 | Course Title | Course Description | SSA Agency |
 | ------------ | -------------------- | ------------- | 
 | **Applying Theory of Change and Logic Model in Programme Planning (Classroom and Asynchronous E-learning)** | This one-day course is for social service professionals interested to learn and hone their skills in social service programme development, specifically in the Theory of Change and Logic Model. <br> <br> Social service professionals will learn how to effectively develop and integrate these methods of programme development into their practice while understanding, conceptualizing and appreciating  the usefulness of these methods throughout programme lifespan. | SHINE Children and Youth Services |
