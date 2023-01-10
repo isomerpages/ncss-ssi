@@ -74,6 +74,7 @@ All courses listed here are offered by the 7 selected SSA partners onboard TNM 2
 | Application of Mixed Methods Research in Social Service (Synchronous and Asynchronous E-learning) | Mixed methods research explores social issues and understand them more wholistically. <br> <br> Mixed methods research can be used in variety of ways including evidence syntheses, needs assessments, pre-programme/service problem assessment and post-programme/service evaluation. | Academy of Human Development Pte Ltd |
 
 #### Cross Sector
+
 | Course Title | Course Description | SSA Agency |
 | ------------ | -------------------- | ------------- |
 | Basics of Literacy Support for Children with Special Learning Needs (Classroom, Synchronous & Asynchronous E-learning) | This is a course to equip learners the knowledge, rationale, and strategies/skills to support children with dyslexia in literacy through conceptual teaching and instruction. | DAS Academy |
