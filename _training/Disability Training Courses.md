@@ -31,11 +31,7 @@ description: SSI provides short courses, certificates, diploma and degree
 
 For the full list of Disability courses offered by SSI, follow this  [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}.
 
-#### **Featured Adult Educators under Disability Training Courses**
-
-##### Meet our Featured Adult Educators!
-
-Keen to join our pool of Adult Educators? Find out more [here](https://safe.menlosecurity.com/https:/www.ssi.gov.sg/files/AE_Resource_Kit.pdf){:target="_blank"}.
+#### Meet our Featured Adult Educators!
 
 **Ms. June Tham-Toh Syn Yuen**  
 June was the Executive Director of Rainbow Centre before she retired in 2014. She holds a Master of Education, Diploma in Management Studies, Certification of Achievement in Outcome Management: Train-The-Trainer, Early Childhood Intervention, Treatment and Education of Autistic and Related Communication Handicapped Children (TEACCH) and Advanced Certification in Training and Assessment (ACTA). She was one of the two pioneer scholars from Singapore to have successfully completed the “Strategic Perspectives in Non-Profit Management” Programme in July 2008 at the Harvard Business School (HBS).  
@@ -45,6 +41,9 @@ Linda is a Principal Trainer & Consultant with Rainbow Centre Training and Consu
   
 **Prof. Emeritus Trevor R. Parmenter**  
 Trevor is the former Director of the Centre for Disability Studies (CDS). He held the position of Foundation Chair of Developmental Disabilities within the Faculty of Medicine and is an Honorary Professor in Education with the Faculty of Education and Social Work as well as an Honorary Professor in the Faculty of Health Science at the University of Sydney (UniSyd). He is an Adjunct Professor in the School of Rural Medicine at the University of New England (UNE). His international academic standing in the field of developmental disability is marked by his former appointment as President of the International Association for the Scientific Study of Intellectual and Developmental Disabilities (IASSIDD) as well as his role as a Board Member of the American Association on Intellectual and Developmental Disability (AAIDD).
+
+
+##### Keen to join our pool of Adult Educators? Find out more [here](https://safe.menlosecurity.com/https:/www.ssi.gov.sg/files/AE_Resource_Kit.pdf){:target="_blank"}.
 
 ### **Subscribe to SSI’s Disability Mailing List**
 
