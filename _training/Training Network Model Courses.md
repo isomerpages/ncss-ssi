@@ -70,7 +70,7 @@ All courses listed here are offered by the 7 selected SSA partners onboard TNM 2
 
 | Course Title | Course Description | SSA Agency |
 | ------------ | -------------------- | ------------- |
-| Programme Theory of Change and Logic Model: Uncovering the Blackbox of Social Programmes (Classroom and Synchronous E-learning) | To equip social service professionals with the knowledge and skills of theory of change and logic model which are transferable and scalable to any social programme development and evaluation. <br> <br> Practical step-by-step guide to creating a usable theory of change that is highly applicable to the social service setting. | Academy of Human Development Pte Ltd |
+| **Programme Theory of Change and Logic Model: Uncovering the Blackbox of Social Programmes (Classroom and Synchronous E-learning)** | To equip social service professionals with the knowledge and skills of theory of change and logic model which are transferable and scalable to any social programme development and evaluation. <br> <br> Practical step-by-step guide to creating a usable theory of change that is highly applicable to the social service setting. | Academy of Human Development Pte Ltd |
 | Application of Mixed Methods Research in Social Service (Synchronous and Asynchronous E-learning) | Mixed methods research explores social issues and understand them more wholistically. <br> <br> Mixed methods research can be used in variety of ways including evidence syntheses, needs assessments, pre-programme/service problem assessment and post-programme/service evaluation. | Academy of Human Development Pte Ltd |
 
 #### Cross Sector
