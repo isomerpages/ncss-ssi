@@ -17,15 +17,10 @@ The objective of TNM 2.0 is to build a sustainable learning ecosystem for the so
 
 Details of each SSA are available on their websites.
 
-<table>
-<tr><th>SSA TNM Parntners</th>
-<th>Academy of Human Development (AHD)</th> <th>APSN Limited</th> <th>Dyslexia Association of Singapore Academy (DAS)</th> <th>Rainbow Centre Training and Consultancy (RCTC)</th> <th>Samaritans of Singapore (SOS)</th> <th>SHINE Children & Youth Services (SHINE)</th> <th>The Salvation Army Peacehaven (TSA) </th> </tr>
-
-<tr> <th>Primary Training Areas</th> <td>Family</td> <td>Disability, Mental Health & Wellness</td> <td>Disability</td> <td>Disability</td> <td>Mental Health & Wellness</td> <td>Children and Youth</td> <td>Eldercare</td> </tr>
-<tr> <th>Secondary Training Areas</th> <td>Research & Programme Evaluation</td> <td>Social Inclusion</td> <td>Research & Programme Evaluation</td> <td>Social Inclusion & Community Assets</td> <td>Volunteer Management</td> <td>Volunteer Management</td> <td>Social Inclusion</td> </tr>
-</table>
-Table: Selected SSAs and their respective Primary and Secondary Training Areas 
-
+| SSA TNM Parntners | [Academy of Human Development (AHD)](https://www.ahd.com.sg/){:target="_blank"} | [APSN Limited](https://www.apsn.org.sg/){:target="_blank"} | [Dyslexia Association of Singapore Academy (DAS)](https://www.dasacademy.edu.sg/)){:target="_blank"} | [Rainbow Centre Training and Consultancy (RCTC)](https://www.rainbowcentre.org.sg/){:target="_blank"}	| [Samaritans of Singapore (SOS)](https://www.sos.org.sg/){:target="_blank"} | [SHINE Children & Youth Services (SHINE)](https://www.shine.org.sg/){:target="_blank"} | The Salvation Army Peacehaven (TSA) |
+| -- | -- | -- | -- | -- | -- | -- | -- |
+| **Primary Training Areas** | Family | Disability, Mental Health & Wellness	| Disability | Disability | Mental Health & Wellness | Children and Youth | Eldercare |
+| **Secondary Training Areas** | Research & Programme Evaluation	| Social Inclusion | Research & Programme Evaluation | Social Inclusion & Community Assets | Volunteer Management | Volunteer  Management | Social Inclusion |
 
 
 ### **TNM 2.0 Courses**
