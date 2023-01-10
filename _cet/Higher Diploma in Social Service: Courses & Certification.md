@@ -97,7 +97,7 @@ Applicants may also be called to attend an online interview with the selection p
 Date: 1 Mar 2023
 <br> Venue: SSI (Level 18 Auditorium), Tiong Bahru Plaza
 <br>Time: 7pm
-<br>Do register via this [link](https://go.gov.sg/ssipreviewregistration){:target="_blank"}  to receive the Zoom link 3 days before the actual session. 
+<br>Do register via this [link](https://go.gov.sg/ssipreviewregistration){:target="_blank"}  to receive a confirmation email 3 days before the actual session. 
 
 ### FAQs
 Refer to this [link](/files/Files%20for%20Learners/FAQ-for-Higher-Diploma-in-Social-Service_Jan%202023.pdf){:target="_blank"} for FAQs relating to this programme.
