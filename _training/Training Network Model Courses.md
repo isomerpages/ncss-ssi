@@ -16,10 +16,7 @@ All courses listed here are offered by the 7 selected SSA partners onboard TNM 2
 | Course Title | Course Description | SSA Agency |
 | ------------ | -------------------- | ------------- | 
 | **Applying Theory of Change and Logic Model in Programme Planning (Classroom and Asynchronous E-learning)** | This one-day course is for social service professionals interested to learn and hone their skills in social service programme development, specifically in the Theory of Change and Logic Model. <br> <br> Social service professionals will learn how to effectively develop and integrate these methods of programme development into their practice while understanding, conceptualizing and appreciating  the usefulness of these methods throughout programme lifespan. | SHINE Children and Youth Services |
-| **Working Systemically with School Systems (Classroom and Asynchronous E-learning)** | This 1.5-day course aims to equip social service professionals, who practice in or with the school systems, with knowledge and skills to enable students to gain the most benefits from their schooling experiences. | SHINE Children and Youth Services |
-| **Building Rapport with and Creating Supportive Environment for Children (Classroom and Asynchronous E-learning)** | The two half-day course aims to enhance the professional capability of the Student Care Officers who work in the student care centres (SCCs). <br> <br> It will cover practical ways to build a conducive and nurturing environment within the SCCs as well as to engage in positive communication with children. | SHINE Children and Youth Services|
-| **Facilitate Group Work Intervention** | This is a highly experiential course where participants will experience the group work processes as they learn to apply the secrets of effective group work facilitation. | SHINE Children and Youth Services |
-| **Supporting Students with Special Education Needs Through Collaborative Approach using Sensory Play (Classroom and Asynchronous E-learning)** | This two-day course is for Teachers/ Teacher-Aides / Beginning Allied Professionals in SPED Schools and Special Education Needs Officers from General Education Schools to learn a holistic approach to supporting students with special needs through the use of sensory play and activities for better self-regulation and participation in class. | APSN |
+
 
 #### Disability
 
