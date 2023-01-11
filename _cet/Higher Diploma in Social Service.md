@@ -82,9 +82,9 @@ Applicants to download and upload the completed [Application Form](/files/Files%
 | Online Applications Open   | 15 Feb 2023 | 
 | Closing Date for Applications | 29 Mar 2023 before 23:59|
 | Conduct Written Aptitude Test¹| 24 Apr 2023 (10.30am - 11.30am);<br>25 Apr 2023 (3.00pm - 4.00pm) |
-|Interview Session | 1, 18 or 22 May 2023* <br> (Subject to changes) | 
+|Interview Session | 15, 18 or 22 May 2023* <br> (Subject to changes) | 
 
-¹_Eligible HDSS applicants will be notified to sit for a compulsory Written Aptitude Test (WAT).
+¹Eligible HDSS applicants will be notified to sit for a compulsory Written Aptitude Test (WAT).
 <br>*Subject to changes
 
 
