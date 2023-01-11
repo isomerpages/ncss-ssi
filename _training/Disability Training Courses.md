@@ -16,14 +16,14 @@ description: SSI provides short courses, certificates, diploma and degree
 - [Managing Sexuality Issues of Adults with Intellectual Disabilities](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS6064){:target="_blank"}   
 - [Working with Persons with Autism](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS87){:target="_blank"}   
 
-##### New courses in 2023
+#### New courses in 2023
 - [WSQ Develop an Inclusive Lesson Plan in Early Intervention Teaching](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS85){:target="_blank"}   
 - [Reflexive Practice for Special Needs and Early Intervention Professionals](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS88){:target="_blank"}   
 - [Introduce Classroom and Behaviour Management Strategies in Early Intervention Teaching](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS86){:target="_blank"}   
 - [Strategies for Development of Hand Function, Pre-writing and Handwriting Skills for Children](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS5789){:target="_blank"}
 - [Guide the Implementation of Improved Approaches in early Intervention Teaching](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS84){:target="_blank"} 
 
-##### Coming soon!
+#### Coming soon!
 
 - Work with Early Intervention Teachers and other Professionals to provide a Safe and Secure Environment in Child-care setting. 
 - Implement Health, Safety, Nutritional and Hygiene Standards and Procedures in the Protection of Children in Child-care setting 
