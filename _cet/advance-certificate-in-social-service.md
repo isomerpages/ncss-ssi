@@ -45,12 +45,14 @@ With the qualification attained, learners can apply for jobs as a Social Service
 **Cohort Size:** 20 pax.  
 **Programme Duration:** 13 months. This is a part time course with lessons being conducted two to three times a week.  
 **Course Timing:**  7.00pm to 10.00pm  
-**Fees:** Full Fees: $9,100.  
-**Estimated Nett Fees:** $2,730 (excluding GST, after SSG subsidy).  
-**GST on Nett Fees:** $218.40<br>
-**Total Payable Course Fees after SSG Funding:** $2,948.40 (including GST)
+**Fees:** Full Fees: $9,100*  
+**Estimated Nett Fees:** $2,730* (excluding GST, after SSG subsidy).  
+**GST on Nett Fees:** $218.40*<br>
+**Total Payable Course Fees after SSG Funding:** $2,948.40* (including GST)
   
-Course fees must be paid prior to the course start date, upon the acceptance of offer and within the given timeline provided in the offer letter.  
+Course fees must be paid prior to the course start date, upon the acceptance of offer and within the given timeline provided in the offer letter.
+
+&ast; Please note that course fees are subjected to changes
 
 Learners must achieve at least 75% attendance per module and be certified competent in all the assessment components in order to be eligible for SkillsFuture Singapore (SSG) funding. Learners or their sponsoring organisations will have to pay the full course fees in the event that the learners fail to meet the attendance/ assessment requirements and/or any other terms and conditions for SSG funding eligibility. Please refer to this [link](https://www.ssg.gov.sg/programmes-and-initiatives/training-grants/self-sponsored-training-for-individuals.html){:target="_blank"}  for more information on the SSG funding eligibility requirement.
 
@@ -66,7 +68,7 @@ Applicants to download and upload the completed [Application Form](/files/Files%
 |Programme Dates| Aug 2023 – Sep 2024|
 | Online Applications Open   | 15 Feb 2022 | |
 | Closing Date for Applications | 29 Mar 2022 before 23:59|
-|Interview Session  | 24, 25, or 29 May 2023* <br> (subject to changes)|
+|Interview Session  | 24, 25, or 29 May 2023* <br> (Subject to changes)|
 
 *Applicants may also be called to attend an online interview with the selection panel on the dates specified above. Applicants will receive an email from SSI informing them about the assigned interview date and time and are required to make themselves available for the interview accordingly. Requests for alternative arrangements will not be considered.
 
