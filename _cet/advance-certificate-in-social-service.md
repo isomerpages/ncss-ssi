@@ -64,8 +64,8 @@ Applicants to download and upload the completed [Application Form](/files/Files%
 | Description | Date | |
 | -------- | -------- | -------- |
 |Programme Dates| Aug 2023 – Sep 2024|
-| Online Applications Open   | 15 Feb 2022 | |
-| Closing Date for Applications | 29 Mar 2022 before 23:59|
+| Online Applications Open   | 15 Feb 2023 | |
+| Closing Date for Applications | 29 Mar 2023 before 23:59|
 |Interview Session  | 8 or 10 May 2023* <br> (Subject to changes)|
 
 *Applicants may also be called to attend an online interview with the selection panel on the dates specified above. Applicants will receive an email from SSI informing them about the assigned interview date and time and are required to make themselves available for the interview accordingly. Requests for alternative arrangements will not be considered.
