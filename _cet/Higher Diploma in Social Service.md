@@ -4,7 +4,6 @@ permalink: /training/cet-programmes/higher-diploma-in-social-service/
 description: SSI offers a Higher Diploma in Social Service course for aspiring
   social workers, with an articulation pathway to SUSS.
 ---
-
 ### Overview
 
 SSI’s Higher Diploma in Social Service (HDSS) is a programme for new entrants and existing Social Service Professionals who aspire to be Social Work Associates. The programme aims to equip learners with the necessary skills and knowledge to be collaborative, client-centric, strategic and compassionate individuals who can work effectively with clients and stakeholders. 
@@ -37,7 +36,7 @@ Applicants should also possess any one of the following qualifications:
 - Diploma from local polytechnic
 - Two GCE 'A' and two 'AO' levels passes
  
-All shortlisted applicants will have to sit for a Written Aptitude Test (WAT), which will be conducted on **4 Apr 2023 at 10.30am or 25 Apr 2023 at 3.00pm.** Only applicants who successfully pass the WAT will be considered for admission into the programme.
+All shortlisted applicants will have to sit for a Written Aptitude Test (WAT), which will be conducted on **24 Apr 2023 at 10.30am or 25 Apr 2023 at 3.00pm.** Only applicants who successfully pass the WAT will be considered for admission into the programme.
 
 
 ### Qualifications & Career Prospects
