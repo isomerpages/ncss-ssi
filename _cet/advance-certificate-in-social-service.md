@@ -52,8 +52,6 @@ With the qualification attained, learners can apply for jobs as a Social Service
   
 Course fees must be paid prior to the course start date, upon the acceptance of offer and within the given timeline provided in the offer letter.
 
-&ast; Please note that course fees are subjected to changes
-
 Learners must achieve at least 75% attendance per module and be certified competent in all the assessment components in order to be eligible for SkillsFuture Singapore (SSG) funding. Learners or their sponsoring organisations will have to pay the full course fees in the event that the learners fail to meet the attendance/ assessment requirements and/or any other terms and conditions for SSG funding eligibility. Please refer to this [link](https://www.ssg.gov.sg/programmes-and-initiatives/training-grants/self-sponsored-training-for-individuals.html){:target="_blank"}  for more information on the SSG funding eligibility requirement.
 
 *Please note that course fees are subjected to changes.
