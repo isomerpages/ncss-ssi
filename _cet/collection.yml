@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - professional-certificate-in-group-work.md
-      - "Higher Diploma in Social Service: Courses & Certification.md"
+      - Higher Diploma in Social Service.md
       - Certificate in Para Counselling in Community Setting.md
       - advance-certificate-in-supported-employment.md
       - advance-certificate-in-social-service.md

@@ -45,12 +45,12 @@ With the qualification attained, learners can apply for jobs as a Social Service
 **Cohort Size:** 20 pax.  
 **Programme Duration:** 13 months. This is a part time course with lessons being conducted two to three times a week.  
 **Course Timing:**  7.00pm to 10.00pm  
-**Fees:** Full Fees: $9,100.  
-**Estimated Nett Fees:** $2,730 (excluding GST, after SSG subsidy).  
-**GST on Nett Fees:** $191.10<br>
-**Total Payable Course Fees after SSG Funding:** $2,921.10 (including GST)
+**Fees:** Full Fees: $9,100*  
+**Estimated Nett Fees:** $2,730* (excluding GST, after SSG subsidy).  
+**GST on Nett Fees:** $218.40* <br>
+**Total Payable Course Fees after SSG Funding:** $2,948.40* (including GST)
   
-Course fees must be paid prior to the course start date, upon the acceptance of offer and within the given timeline provided in the offer letter.  
+Course fees must be paid prior to the course start date, upon the acceptance of offer and within the given timeline provided in the offer letter.
 
 Learners must achieve at least 75% attendance per module and be certified competent in all the assessment components in order to be eligible for SkillsFuture Singapore (SSG) funding. Learners or their sponsoring organisations will have to pay the full course fees in the event that the learners fail to meet the attendance/ assessment requirements and/or any other terms and conditions for SSG funding eligibility. Please refer to this [link](https://www.ssg.gov.sg/programmes-and-initiatives/training-grants/self-sponsored-training-for-individuals.html){:target="_blank"}  for more information on the SSG funding eligibility requirement.
 
@@ -58,25 +58,26 @@ Learners must achieve at least 75% attendance per module and be certified compet
 
 
 ### Application Guidelines
-Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI_ACSS_Application_Form_22.pdf){:target="_blank"} , with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-1){:target="_blank"}  between 1 - 29 Aug 2022.
+Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI%20ACSS%20Application%20Form%20(Feb-Mar%202023).pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-1){:target="_blank"}  between 15- 29 Mar 2023.
 
 
 | Description | Date | |
 | -------- | -------- | -------- |
-|Programme Dates| Feb 2023 – Mar 2024|
-| Online Applications Open   | 1 Aug 2022 | |
-| Closing Date for Applications | 29 Aug 2022 before 23:59|
-|Interview Session | 3, 5 & 10 Oct 2022*|
+|Programme Dates| Aug 2023 – Sep 2024|
+| Online Applications Open   | 15 Feb 2023 | |
+| Closing Date for Applications | 29 Mar 2023 before 23:59|
+|Interview Session  | 8 or 10 May 2023* <br> (Subject to changes)|
 
-Applicants may also be called to attend an online interview with the selection panel on the dates specified above. Applicants will receive an email from SSI informing them about the assigned interview date and time and are required to make themselves available for the interview accordingly. Requests for alternative arrangements will not be considered.
+*Applicants may also be called to attend an online interview with the selection panel on the dates specified above. Applicants will receive an email from SSI informing them about the assigned interview date and time and are required to make themselves available for the interview accordingly. Requests for alternative arrangements will not be considered.
 
 ### Preview Session
-Date: 18 Aug 2022
-<br>Time: 7pm
-<br>Do register via this [link](https://form.gov.sg/#!/62de68763074e40012a78cfc){:target="_blank"}  to receive the Zoom link 3 days before the actual session. 
+Date: 1 Mar 2023
+<br>Venue: SSI (Level 18 Auditorium), Tiong Bahru Plaza
+<br> Time: 7pm
+<br>Do register via this [link](https://go.gov.sg/ssipreviewregistration){:target="_blank"}  to receive the a confirmation email 3 days before the actual session. 
 
 ### FAQs
 
-Refer to this [link](/files/Files%20for%20Learners/FAQ-for-Advanced-Certificate-in-Social-Service-21Mar22.pdf){:target="_blank"} for FAQs relating to this programme.
+Refer to this [link](/files/Files%20for%20Learners/FAQ-for-Advanced-Certificate-in-Social-Service%20_Jan%202023.pdf){:target="_blank"} for FAQs relating to this programme.
 
-[Application Guide (ACSS)](/files/Files%20for%20Learners/Application%20Guide%20(ACSS).pdf){:target="_blank"}
+[Application Guide (ACSS)](/files/Files%20for%20Learners/Application%20Guide%20(ACSS)%202023.pdf)

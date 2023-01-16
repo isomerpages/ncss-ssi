@@ -6,6 +6,7 @@ description: SSI offers enriching training programmes in ten different course
 ---
 
 
+
 ## SSI's Learning Philosophy
 
 SSI'S learning philosophy is guided by the Education Innovation (EI) initiative. This initiative is based on the following beliefs:

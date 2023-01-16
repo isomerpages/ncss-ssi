@@ -1,5 +1,5 @@
 ---
-title: "Higher Diploma in Social Service: Courses & Certification"
+title: Higher Diploma in Social Service
 permalink: /training/cet-programmes/higher-diploma-in-social-service/
 description: SSI offers a Higher Diploma in Social Service course for aspiring
   social workers, with an articulation pathway to SUSS.
@@ -36,7 +36,7 @@ Applicants should also possess any one of the following qualifications:
 - Diploma from local polytechnic
 - Two GCE 'A' and two 'AO' levels passes
  
-All shortlisted applicants will have to sit for a Written Aptitude Test (WAT), which will be conducted on **26 Sep 2022 at 10.30am/3.00pm or 27 Sep 2022 at 10.30am/3.00pm**. Only applicants who successfully pass the WAT will be considered for admission into the programme.
+All shortlisted applicants will have to sit for a Written Aptitude Test (WAT), which will be conducted on **24 Apr 2023 at 10.30am or 25 Apr 2023 at 3.00pm.** Only applicants who successfully pass the WAT will be considered for admission into the programme.
 
 
 ### Qualifications & Career Prospects
@@ -53,14 +53,14 @@ Learners may also apply for work as a Social Work Associate, Project Coordinator
 - **Cohort Size:** One cohort of 25 pax. 
 - **No of Modules:** Nine
 - **Programme Duration:** 16 months. This is a part time course with lessons being conducted two to three times a week.
-- **Programme Date:** Feb 2023 - Jun 2024
+- **Programme Date:** Aug 2023 - Dec 2024
 - **Course Timing:**  7.00pm to 10.00pm  
 - **Fees:** Full Fees: $10,800 (before GST).*  
 - **Estimated Nett Fees:** $3,240 (after SSG Subsidy)* 
-- **GST on Nett Fees:** $226.80* 
-- **Total Payable Course Fees after SSG Funding:** $3,466.80 (including GST)*   
+- **GST on Nett Fees:** $259.20* 
+- **Total Payable Course Fees after SSG Funding:** $3,499.20 (including GST)*   
 - **Assessment:** Written Assessment and Written Assignment 
-- **Mandatory Components:** Programme Orientation (date: TBC)
+- **Mandatory Components:** Programme Orientation (date: TBC in July 2023)
 
 All learners will also be required to undergo the Social Service Field Experience (except for learners who have undergone the Social Service Field experience in the WSQ ACSS or SSI ACSS programme). Eligible Learners will be provided with the details for the Social Service Field Experience registration and payment of S$360 (before GST) separately by the programme coordinator.
 
@@ -73,18 +73,18 @@ Learners must achieve at least 75% attendance per module and be certified compet
 
 ### Application Guidelines
 
-Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI_HDSS_Application_Form_22.pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-2){:target="_blank"}  between 1 - 29 August 2022. 
+Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI%20HDSS%20Application%20Form%20(Feb-Mar%202023).pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-2){:target="_blank"}  between 15 Feb - 29 Mar 2022. 
 
 
 | Description | Date | |
 | -------- | -------- | -------- |
-|Programme Dates| Feb 2023 to Jun 2024|
-| Online Applications Open   | 1 Aug 2022 | 
-| Closing Date for Applications | 29 Aug 2022 before 23:59|
-| Conduct Written Aptitude Test¹| 26 Sep 2022 (Mon) & 27 Sep 2022 (Tues), 10.30am-11.30am & 3.00pm-4.00pm |
-|Interview Session | 12, 13, 17, & 19 Oct 2022*|
+|Programme Dates| Aug 2023 to Dec 2024|
+| Online Applications Open   | 15 Feb 2023 | 
+| Closing Date for Applications | 29 Mar 2023 before 23:59|
+| Conduct Written Aptitude Test¹| 24 Apr 2023 (10.30am - 11.30am);<br>25 Apr 2023 (3.00pm - 4.00pm) |
+|Interview Session | 15, 18 or 22 May 2023* <br> (Subject to changes) | 
 
-¹_Eligible HDSS applicants will be notified to sit for a compulsory Written Aptitude Test (WAT).
+¹Eligible HDSS applicants will be notified to sit for a compulsory Written Aptitude Test (WAT).
 <br>*Subject to changes
 
 
@@ -94,11 +94,12 @@ Applicants may also be called to attend an online interview with the selection p
 
 
 ### Preview Session
-Date: 18 Aug 2022
+Date: 1 Mar 2023
+<br> Venue: SSI (Level 18 Auditorium), Tiong Bahru Plaza
 <br>Time: 7pm
-<br>Do register via this [link](https://form.gov.sg/#!/62de68763074e40012a78cfc){:target="_blank"}  to receive the Zoom link 3 days before the actual session. 
+<br>Do register via this [link](https://go.gov.sg/ssipreviewregistration){:target="_blank"}  to receive a confirmation email 3 days before the actual session. 
 
 ### FAQs
-[Refer to this link for FAQs relating to this programme.](/files/Files%20for%20Learners/FAQ-for-Higher-Diploma-in-Social-Service_21Mar22.pdf){:target="_blank"}
+Refer to this [link](/files/Files%20for%20Learners/FAQ-for-Higher-Diploma-in-Social-Service_Jan%202023.pdf){:target="_blank"} for FAQs relating to this programme.
 
-[Application Guide (HDSS)](/files/Files%20for%20Learners/Application%20Guide%20(HDSS).pdf){:target="_blank"}
+[Application Guide (HDSS)](/files/Files%20for%20Learners/Application%20Guide%20(HDSS)%202023.pdf){:target="_blank"}
