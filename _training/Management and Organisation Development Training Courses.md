@@ -19,7 +19,7 @@ description: SSI provides courses that train learners in management, leadership,
 - [Donor Outreach Through Social Media](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5508){:target="_blank"}<br>Register by: 13 Jan 2023
 
  **Strategy**
-- [Strategy Formulation by DPI Asia](https://www.dpi-asia.com/post/agility-is-strategy-outdated){:target="_blank"}<br>Register by: 15 Mar 2023
+- [Strategic Innovation by DPI Asia](https://www.dpi-asia.com/post/strategic-innovation-in-disruptive-times-18-august-workshop-for-registered-charities){:target="_blank"}<br>Register by: 10 Feb 2023
 
 **People Management and Leadership**
 -   [Teambuilding and Leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT6014){:target="_blank"}<br>Register by: 13 Jan 2023
