@@ -2,7 +2,7 @@ collections:
   training:
     output: true
     order:
-      - Social Service Courses and Training 2023.md
+      - Training Overview.md
       - Featured Social Service Courses for Registration.md
       - Training Network Model Courses.md
       - continuing-education-training-cet-courses.md
