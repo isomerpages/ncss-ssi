@@ -12,7 +12,7 @@ Preparatory Caregiver Training Programme (E-learning) provides existing and pote
 
 The training also provides the learners with knowledge, tips, information and resources to help them navigate their caregiving journey.
 
-Topics covered:
+##### Topics covered:
 - Understanding different aspects of caregiving
 - Knowing the Care Recipient and their challenges
 - Types of communication in caregiving
