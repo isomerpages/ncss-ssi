@@ -27,4 +27,4 @@ This is a self-paced e-learning course learners can complete at their convenienc
 
 ### Subscribe to Our Caregiving Mailing List   
 
-Subscribe to SSI’s Caregiving Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"} .
+Subscribe to SSI’s Caregiving Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
