@@ -27,7 +27,7 @@ description: SSI's mental health courses provides social service professionals
 <sup>2</sup>This is the second module in the  [Peer Support Specialist Programme](/training/cet-programmes/peer-support-specialist-programme/){:target="_blank"}.
 
 
-For the full list of Mental Health courses offered by SSI, follow this  [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   .
+For the full list of Mental Health courses offered by SSI, follow this  [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}.
 
 The complimentary featured courses under the Agency for Integrated Care (AIC) can be found in the link below:
 
