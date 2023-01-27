@@ -21,7 +21,7 @@ description: "SSI featured eldercare courses are: Effective Communication with
 -   [WSQ Support Seniors to Meet their Physical, Emotional, Psychological, Cognitive and Spiritual Needs](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5848){:target="_blank"}   
 
 
-For the full list of Eldercare courses offered by SSI, search [here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   .
+For the full list of Eldercare courses offered by SSI, search [here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}.
 
 The complimentary featured course under the Agency for Integrated Care (AIC) can be found in the link below:
 
