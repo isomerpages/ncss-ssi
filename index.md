@@ -89,4 +89,8 @@ sections:
       title: Be in the know
       subtitle: Media
       button: More Media
+  - infobar:
+      title: Change for Charity
+      description: Infobar description
+      button: Button Text
 ---
