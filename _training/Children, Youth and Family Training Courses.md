@@ -24,7 +24,6 @@ Register by: 30 Jan 2023
  - [Introduction to Sector-Specific Screening Guide](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF436){:target="_blank"} 
  - [Introduction to Child Protection Framework](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF435){:target="_blank"} 
  - [Introduction to Trauma Informed Positive Behaviour Interventions and Supports for Children and Young Persons in Residential Care](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF278){:target="_blank"}  
- - 
  - Management of Family Violence: Management of Elder Abuse and Neglect - Coming Soon!
  - [Management of Family Violence: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF197){:target="_blank"}  
  - [Management of Family Violence: Organisational Approaches to Child Safe Practices for Centre & Team Leads](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF257){:target="_blank"}  
