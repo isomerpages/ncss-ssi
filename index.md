@@ -38,10 +38,6 @@ sections:
             their roles effectively when working with clients, partners and
             stakeholders.
           url: /training/cet-programmes/advanced-certificate-in-social-service/
-  - infobar:
-      title: Change for Charity
-      description: Infobar description
-      button: Button Text
   - infopic:
       title: Start planning for your training needs today!
       subtitle: Training Directory for 2022/23
