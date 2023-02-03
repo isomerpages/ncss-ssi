@@ -38,12 +38,6 @@ sections:
             their roles effectively when working with clients, partners and
             stakeholders.
           url: /training/cet-programmes/advanced-certificate-in-social-service/
-  - infobar:
-      title: Change for Charity
-      description: Support Community Chest’s initiative by making a donation! 100% of
-        your donation will go towards helping the communities-in-need.
-      button: Donate now
-      url: https://ssi.gov.sg/
   - infopic:
       title: Start planning for your training needs today!
       subtitle: Training Directory for 2022/23
