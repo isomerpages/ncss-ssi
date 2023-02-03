@@ -8,7 +8,7 @@ description: SSI provides short courses, certificates, diploma and degree
 
 #### **Registration Closing Soon:<br>Disability Training Courses**
 
--   [Independent Travel Training for Professionals Supporting Persons with Disabilities](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS211)<br> Register by 23 Jan 2023
+-   No new courses at the moment
 
 #### **Other Featured Short Courses in Early Childhood Interventions and Managing Disabilities**
 -   [WSQ Principles and Practices of Early Intervention for Children with Special Needs Module 1](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS463){:target="_blank"}   
