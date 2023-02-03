@@ -40,8 +40,8 @@ sections:
           url: /training/cet-programmes/advanced-certificate-in-social-service/
   - infobar:
       title: Change for Charity
-      description: Support Community Chest’s initiative by clicking on this link to
-        make a donation! 100% of your donation will go towards helping the
+      description: Support Community Chest’s initiative by clicking on this link below
+        to make a donation! 100% of your donation will go towards helping the
         communities-in-need.
       button: Button Text
   - infopic:
