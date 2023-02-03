@@ -4,6 +4,7 @@ permalink: /training/course-information/
 description: Find out more about SSI course application procedures for
   individuals and organisations as well as other course related details here.
 ---
+
 ## Course Administration
 
 As part of SSI’s Education Innovation initiative, we leverage on technology to enrich the learning experience of our learners. This includes equipping classrooms with smart technology facilities and adopting innovative teaching pedagogies through the use of online platforms. SSI has also converted some of our courses into a blended learning style to incorporate online components such as quizzes and supplementary reading materials before the classroom session. Some of the changes that our learners will experience are as shown below.

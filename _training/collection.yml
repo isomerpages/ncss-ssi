@@ -2,20 +2,19 @@ collections:
   training:
     output: true
     order:
-      - Social Service Courses and Training 2023.md
+      - Training Overview.md
       - Featured Social Service Courses for Registration.md
       - Training Network Model Courses.md
-      - continuing-education-training-cet-courses.md
+      - Continuing Education & Training (CET) Courses.md
       - Cross Sector Training Courses.md
       - Children, Youth and Family Training Courses.md
-      - Disability Training Courses.md
+      - Disability & Special Needs Courses.md
       - Mental Health Training Courses.md
-      - Eldercare Training Courses.md
+      - "Caring for Elderly: Dementia, Empowering Seniors & More.md"
       - Board Development Training Courses.md
       - Management and Organisation Development Training Courses.md
       - Volunteer Management and Development Training Courses.md
       - Caregiving Training Courses.md
-      - sgunited-skills-programme.md
       - Course Application and Registration Information.md
       - Funding Information/.keep
       - Funding Information/training-grants.md

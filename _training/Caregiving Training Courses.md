@@ -5,16 +5,26 @@ description: SSI's caregiving courses provide learners with an understanding of
   caregiving while also training them in foundational skills.
 ---
 ![Social Service Institute (SSI) Singapore - Caregiver Training Courses](/images/caregiving-banner.png)
-**These courses will not be available until further notice.**
 
-The featured courses under SSI are:   
+Caregiving is a very demanding yet rewarding task. Being a caregiver requires stamina and good health.
 
--   [Preparatory Caregiver Training Programme:Understanding Caregiving   (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SELC417){:target="_blank"}
--   [Preparatory Caregiver Training Programme: Communication in Caregiving (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SELC419){:target="_blank"}
--   [Preparatory Caregiver Training Programme: Caregiver Stress and Management (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SELC420){:target="_blank"}
--   [Preparatory Caregiver Training Programme: Know the Care Recipient (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SELC418){:target="_blank"}
+Preparatory Caregiver Training Programme (E-learning) provides existing and potential caregivers a basic understanding of the meaning of caregiving, care issues the caregivers will face, and responsibilities involved in providing care for loved ones. 
+
+The training also provides the learners with knowledge, tips, information and resources to help them navigate their caregiving journey.
+
+##### Topics covered:
+- Understanding different aspects of caregiving
+- Knowing the Care Recipient and their challenges
+- Types of communication in caregiving
+- Managing caregiver stresses
+
+#### Registration is open throughout the year
+
+[Preparatory Caregiver Training Programme](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0002){:target="_blank"}
+
+This is a self-paced e-learning course learners can complete at their convenience.
 
 
 ### Subscribe to Our Caregiving Mailing List   
 
-Subscribe to SSI’s Caregiving Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"} .
+Subscribe to SSI’s Caregiving Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.

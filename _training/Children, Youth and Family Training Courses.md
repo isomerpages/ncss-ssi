@@ -8,12 +8,6 @@ description: SSI’s children, youth and family courses provides learners with t
 
 ### **Registration closing soon: <br> Children, Youth and Family Training Courses**
 
-- [Rehabilitation and Re-Integration Needs of Former Drug Offenders](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5437){:target="blank"} <br> Register by: 10 Jan 2023
-
-- [Safety Planning and Monitoring – A 5.5-Step Model](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF233){:target="blank"} <br> Register by: 17 Jan 2023
-- [Engaging Youth-At-Risk Through Counselling Techniques](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF477){:target="blank"} <br> Register by: 20 Jan 2023
-- [Apply development theories when working with children and youths]( https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF482){:target="blank"} <br> Register by: 25 Jan 2023
-- [Helping Family Members Cope with Issues Arising from Incarceration of a Loved One](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5802){:target="blank"} <br> Register by: 30 Jan 2023
 - [Management of Family Violence: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF197){:target="blank"} <br> Register by: 5 Feb 2023
 - [Management of Family Violence: Understanding Mental Health and Vulnerable Adult Issues in Protection Work](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF235){:target="blank"} <br> Register by: 26 Feb 2023
 
@@ -28,9 +22,11 @@ description: SSI’s children, youth and family courses provides learners with t
  - [Helping Youths Cope with Anger](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5158){:target="_blank"} 
  - [Introduction to Sector-Specific Screening Guide](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF436){:target="_blank"} 
  - [Introduction to Child Protection Framework](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF435){:target="_blank"} 
-  - Management of Family Violence: Management of Elder Abuse and Neglect - Coming Soon!
- - [Management of Family Violence: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF197){:target="_blank"}  
-  - [Management of Family Violence: Organisational Approaches to Child Safe Practices for Centre & Team Leads](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF257){:target="_blank"}  
+ - [Introduction to Trauma Informed Positive Behaviour Interventions and Supports for Children and Young Persons in Residential Care](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF278){:target="_blank"} 
+ - [Implementing Trauma Informed Positive Behavioural Interventions and Supports for Children and Young Persons in Residential Care](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF294){:target="_blank"}  
+ - Management of Family Violence: Management of Elder Abuse and Neglect - Coming Soon!
+ - [Management of Family Violence: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF197){:target="_blank"}
+ - [Management of Family Violence: Organisational Approaches to Child Safe Practices for Centre & Team Leads](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF257){:target="_blank"}  
  - [Management of Family Violence: Organisational Approaches to Child Safe Practices for Frontline Staff](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF258){:target="_blank"}   
   - [Safety Planning and Monitoring - A 5.5-Step Model](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF233){:target="_blank"} 
  - [Understanding Family Violence](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF437){:target="_blank"} 
@@ -38,7 +34,7 @@ description: SSI’s children, youth and family courses provides learners with t
  - [Youth Work: Introduction to an Evidence-Based Approach](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF79){:target="_blank"}  
  - [WSQ Mentoring and Coaching Youths Effectively](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF305){:target="_blank"}  
 
-For the full list of Children, Youth and Family courses offered by SSI, follow this [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   
+For the full list of Children, Youth and Family courses offered by SSI, follow this [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}.   
 
 ## Featured Adult Educators under Children, Youth and Family Training Courses
 

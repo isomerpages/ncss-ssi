@@ -8,21 +8,10 @@ description: SSI provides courses that train learners in management, leadership,
 
 ##### **Registration now open: <br> Management and Organisation Development Training Courses**
 
-
-**Budgeting and Fundraising**
-- [Making $ense I: An Introduction to Fund Raising](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5103){:target="_blank"} <br>Register by: 13 Jan 2023
-
-**Branding**
--   [Branding Non-profits: An Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCOF243){:target="_blank"}<br>Register by: 13 Jan 2023
-
-**Donor Outreach**
-- [Donor Outreach Through Social Media](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5508){:target="_blank"}<br>Register by: 13 Jan 2023
-
  **Strategy**
-- [Strategy Formulation by DPI Asia](https://www.dpi-asia.com/post/agility-is-strategy-outdated){:target="_blank"}<br>Register by: 15 Mar 2023
+- [Strategic Innovation by DPI Asia](https://www.dpi-asia.com/post/strategic-innovation-in-disruptive-times-18-august-workshop-for-registered-charities){:target="_blank"}<br>Register by: 10 Feb 2023
 
 **People Management and Leadership**
--   [Teambuilding and Leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT6014){:target="_blank"}<br>Register by: 13 Jan 2023
 -   [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5073){:target="_blank"}<br>Register by: 24 Feb 2023
 - [The 7 Habits of Highly Effective People - Franklin Covey Singapore](https://go.gov.sg/franklincovey-ssi-seven-habits){:target="_blank"}<br>Register by: 6 Feb 2023
 
@@ -49,7 +38,7 @@ description: SSI provides courses that train learners in management, leadership,
 -   [Group Excellence by Capelle Consulting](https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&wdLOR=c02FF4AA9-A7A4-4B9C-B187-D439BDFDFC3C){:target="_blank"}
 -   [3-D People Development by Capelle Consulting](https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&wdLOR=c02FF4AA9-A7A4-4B9C-B187-D439BDFDFC3C){:target="_blank"}
 
-For the full list of Management and Organisation Development courses, [search here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}  
+For the full list of Management and Organisation Development courses, [search here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}. 
 
 ### Featured Adult Educators under Management and Organisation Development Training Courses
 

@@ -14,19 +14,7 @@ Some of the featured courses under this category are:
 
 ##### **Registration Closing Soon: <br> Cross Sector Training Courses**
 
-- [Understanding and Supporting People in Journey of Loss and Grief](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5856){:target="_blank"} <br> Register by: 9 Jan 2023
-
-- [May I Help You? (Boleh Saya Bantu Anda?) - Conversational Malay for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5647){:target="_blank"} <br> Register by: 11 Jan 2023
-
-- [Qualitative Research Methods and Analysis](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NRES5053){:target="_blank"} <br> Register by: 11 Jan 2023
-
-- [Solution Focused Brief Therapy: Intermediate](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5447){:target="_blank"} <br> Register by: 19 Jan 2023
-
-- [Understanding the Social Service Sector](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET6-M){:target="_blank"} <br> Register by: 20 Jan 2023
-
-- [Survey Research and Quantitative Analysis](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NRES5270){:target="_blank"} <br> Register by: 31 Jan 2023
-
-- [Inclusive Training Series: Understanding and Working with Persons Formerly Incarcerated (PFI) and LGBT](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SST0939){:target="_blank"} <br> Register by: 2 Feb 2023
+- No new courses at the moment
 
 ##### **Other Featured Short Courses in Befriending, Case Management, Counselling and more:**
 
@@ -80,4 +68,4 @@ healthcare and social service setting. He obtained his master’s and doctorate 
 
 ### **Subscribe to SSI’s Cross Sector Mailing List**
 
-Subscribe to SSI’s Cross Sector Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}
+Subscribe to SSI’s Cross Sector Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.

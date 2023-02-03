@@ -1,5 +1,5 @@
 ---
-title: Disability Training Courses
+title: Disability & Special Needs Courses
 permalink: /training/disability/
 description: SSI provides short courses, certificates, diploma and degree
   programmes to help learners empower and help persons with disabilities.
@@ -8,7 +8,7 @@ description: SSI provides short courses, certificates, diploma and degree
 
 #### **Registration Closing Soon:<br>Disability Training Courses**
 
--   [Independent Travel Training for Professionals Supporting Persons with Disabilities](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS211)<br> Register by 23 Jan 2023
+-   No new courses at the moment
 
 #### **Other Featured Short Courses in Early Childhood Interventions and Managing Disabilities**
 -   [WSQ Principles and Practices of Early Intervention for Children with Special Needs Module 1](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS463){:target="_blank"}   
@@ -52,4 +52,4 @@ Trevor is the former Director of the Centre for Disability Studies (CDS). He hel
 
 ### **Subscribe to SSI’s Disability Mailing List**
 
-Subscribe to SSI’s Disability Courses Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}
+Subscribe to SSI’s Disability Courses Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.

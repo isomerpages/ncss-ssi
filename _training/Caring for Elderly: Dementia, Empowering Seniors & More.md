@@ -1,13 +1,12 @@
 ---
-title: Eldercare Training Courses
+title: "Caring for Elderly: Dementia, Empowering Seniors & More"
 permalink: /training/eldercare/
-description: SSI's eldercare courses provides social service professionals with
-  the skills to work with seniors.
+description: "SSI featured eldercare courses are: Effective Communication with
+  Elderly, Caring for Dementia, Counselling, Empowering Seniors & more."
 ---
 ![Social Service Institute (SSI) Singapore - Caring and communicating with dementia and senior persons courses](/images/eldercare-banner.png)
 
 ##### **Registration closing soon: <br> Eldercare Training Courses**
--   [Communicate Effectively with Seniors (Mandarin) (Synchronous E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5525){:target="_blank"} <br>Register by: 25 Jan 2023
 -   [Case Management for Seniors Using Action Learning Approach](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5364){:target="_blank"} <br>Register by: 1 Feb 2023
 
 ##### **Other featured courses in Eldercare, Communication and Counselling:**
@@ -22,7 +21,7 @@ description: SSI's eldercare courses provides social service professionals with
 -   [WSQ Support Seniors to Meet their Physical, Emotional, Psychological, Cognitive and Spiritual Needs](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5848){:target="_blank"}   
 
 
-For the full list of Eldercare courses offered by SSI, search [here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   .
+For the full list of Eldercare courses offered by SSI, search [here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}.
 
 The complimentary featured course under the Agency for Integrated Care (AIC) can be found in the link below:
 

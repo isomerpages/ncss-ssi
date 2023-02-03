@@ -52,7 +52,7 @@ Lecturers from CDS will facilitate tutorials and conduct individual supervision 
 **Nett Fees:**  $3,276 (Inclusive of GST, after SSG subsidy1). A non-refundable application fee of $53.50 (including GST) is required.  
   
 **Other Subsidies Available:**  
-Successful applicants to the Diploma of Community Services may apply for the SkillsFuture Study Award<sup>1</sup>  for the Social Service Sector. You may visit this  [link](http://www.skillsfuture.sg/studyawards/){:target="_blank"}     to find out more.  
+Successful applicants to the Diploma of Community Services may apply for the SkillsFuture Study Award<sup>1</sup>  for the Social Service Sector. You may visit this  [link](https://www.skillsfuture.gov.sg/studyawards/){:target="_blank"}     to find out more.  
   
 **Module 1: Knowing Self - Becoming a Person-Centred, Responsive, Ethical, Reflective Practitioner**
   
