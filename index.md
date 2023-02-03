@@ -40,10 +40,10 @@ sections:
           url: /training/cet-programmes/advanced-certificate-in-social-service/
   - infobar:
       title: Change for Charity
-      description: Support Community Chest’s initiative by clicking on this link below
-        to make a donation! 100% of your donation will go towards helping the
-        communities-in-need.
-      button: Button Text
+      description: Support Community Chest’s initiative by making a donation! 100% of
+        your donation will go towards helping the communities-in-need.
+      button: Donate now
+      url: https://ssi.gov.sg/
   - infopic:
       title: Start planning for your training needs today!
       subtitle: Training Directory for 2022/23
