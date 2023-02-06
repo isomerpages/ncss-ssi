@@ -12,7 +12,7 @@ description: SSI offers courses and training for social workers and the social
 ##### **(B) Course Schedule (with registration dates)** <br>
 * ##### [Registration period: Mar - Apr 2023](/files/Files%20for%20Learners/Monthly%20Featured%20Courses%20-%20Mar%20to%20Apr.pdf){:target="_blank"}
 
-
+[](/files/Monthly%20Featured%20Courses%20-%20Mar%20to%20Apr%20v2.pdf)
 
 
 ### 2) Explore our featured courses
