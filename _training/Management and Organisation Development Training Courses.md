@@ -6,14 +6,17 @@ description: SSI provides courses that train learners in management, leadership,
 ---
 ![Social Service Institute (SSI) Singapore - Social Service / Nonprofit Leadership and Management Training Course](/images/mod-banner.png)
 
-##### **Registration now open: <br> Management and Organisation Development Training Courses**
+##### **Registration now open: <br>Management and Organisation Development Training Courses**
 
  **Strategy**
 - [Strategic Innovation by DPI Asia](https://www.dpi-asia.com/post/strategic-innovation-in-disruptive-times-18-august-workshop-for-registered-charities){:target="_blank"}<br>Register by: 10 Feb 2023
 
 **People Management and Leadership**
--   [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5073){:target="_blank"}<br>Register by: 24 Feb 2023
+- [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5073){:target="_blank"}<br>Register by: 24 Feb 2023
 - [The 7 Habits of Highly Effective People - Franklin Covey Singapore](https://go.gov.sg/franklincovey-ssi-seven-habits){:target="_blank"}<br>Register by: 6 Feb 2023
+- [Innovation and Change Management - Capelle](https://www.capelleconsulting.com/innovation-and-change-management-sfw-synchronous-e-learning/){:target="_blank"}<br>Register by: 8 Mar 2023
+- [Critical Thinking - Capelle](https://www.capelleconsulting.com/critical-thinking/){:target="_blank"}<br>Register by: 10 Mar 2023
+- [Leveraging Diversity and Building Inclusivity - Capelle](https://www.capelleconsulting.com/diversity-inclusivity/){:target="_blank"}<br>Register by: 16 Mar 2023
 
 **Courses opening for registration soon**
 - Maintain Workplace Safety and Health (WSH) in Social Service Agencies - Singapore Institute of Technology (SIT)<br>Register by: 15 Mar 2023
