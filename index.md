@@ -59,14 +59,15 @@ sections:
         refreshed Social Service Sector Strategic Thrusts (4ST) can empower our
         sector.
   - infopic:
-      title: Change for Charity
+      title: Donate your Change for Charity
       description: Join us to build a caring nation, make small acts of giving part of
         your everyday life. Together we can make a meaningful impact to the
         lives of others.
-      button: Donate Now
+      button: Find out more
       url: https://go.gov.sg/ssi-cfc
       image: /images/CFC_Comchest_Standalone_logo.png
       alt: Change for Charity
+      subtitle: Community Chest
   - infopic:
       title: Our Partners
       description: SSI is actively looking for partnerships with SSAs, NPOs, IHLs and
