@@ -58,6 +58,13 @@ sections:
       description: Learn more about how the new recommendations put forth by the
         refreshed Social Service Sector Strategic Thrusts (4ST) can empower our
         sector.
+  - infobar:
+      title: Change for Charity
+      description: Support Community Chest’s Change for Charity initiative by making a
+        donation! 100% of your donation will go towards helping the
+        communities-in-need.
+      button: Donate Now
+      url: https://go.gov.sg/ssi-cfc
   - infopic:
       title: Our Partners
       description: SSI is actively looking for partnerships with SSAs, NPOs, IHLs and
@@ -89,11 +96,4 @@ sections:
       title: Be in the know
       subtitle: Media
       button: More Media
-  - infobar:
-      title: Change for Charity
-      description: Support Community Chest’s Change for Charity initiative by making a
-        donation! 100% of your donation will go towards helping the
-        communities-in-need.
-      button: Donate Now
-      url: https://go.gov.sg/ssi-cfc
 ---
