@@ -59,15 +59,6 @@ sections:
         refreshed Social Service Sector Strategic Thrusts (4ST) can empower our
         sector.
   - infopic:
-      title: Change for Charity
-      description: Support Community Chest’s Change for Charity initiative by making a
-        donation! 100% of your donation will go towards helping the
-        communities-in-need.
-      button: Donate Now
-      url: https://go.gov.sg/ssi-cfc
-      image: /images/Change-for-Charity.jpg
-      alt: Change for Charity
-  - infopic:
       title: Our Partners
       description: SSI is actively looking for partnerships with SSAs, NPOs, IHLs and
         private training bodies to co-develop the capabilities of Singapore’s
@@ -94,6 +85,15 @@ sections:
       image: images/homepage/mailing-list.jpg
       alt: Social Service Institute SSI Singapore - Mailing List, Newsletter
         Suscription
+  - infopic:
+      title: Change for Charity
+      description: Support Community Chest’s Change for Charity initiative by making a
+        donation! 100% of your donation will go towards helping the
+        communities-in-need.
+      button: Donate Now
+      url: https://go.gov.sg/ssi-cfc
+      image: /images/Change-for-Charity.jpg
+      alt: Change for Charity
   - resources:
       title: Be in the know
       subtitle: Media
