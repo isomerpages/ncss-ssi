@@ -87,12 +87,12 @@ sections:
         Suscription
   - infopic:
       title: Change for Charity
-      description: Support Community Chest’s Change for Charity initiative by making a
-        donation! 100% of your donation will go towards helping the
-        communities-in-need.
+      description: Join us to build a caring nation, make small acts of giving part of
+        your everyday life. Together we can make a meaningful impact to the
+        lives of others.
       button: Donate Now
       url: https://go.gov.sg/ssi-cfc
-      image: /images/Change-for-Charity.jpg
+      image: /images/CFC_Comchest_Standalone_logo.png
       alt: Change for Charity
   - resources:
       title: Be in the know
