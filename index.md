@@ -59,6 +59,15 @@ sections:
         refreshed Social Service Sector Strategic Thrusts (4ST) can empower our
         sector.
   - infopic:
+      title: Change for Charity
+      description: Join us to build a caring nation, make small acts of giving part of
+        your everyday life. Together we can make a meaningful impact to the
+        lives of others.
+      button: Donate Now
+      url: https://go.gov.sg/ssi-cfc
+      image: /images/CFC_Comchest_Standalone_logo.png
+      alt: Change for Charity
+  - infopic:
       title: Our Partners
       description: SSI is actively looking for partnerships with SSAs, NPOs, IHLs and
         private training bodies to co-develop the capabilities of Singapore’s
@@ -85,15 +94,6 @@ sections:
       image: images/homepage/mailing-list.jpg
       alt: Social Service Institute SSI Singapore - Mailing List, Newsletter
         Suscription
-  - infopic:
-      title: Change for Charity
-      description: Join us to build a caring nation, make small acts of giving part of
-        your everyday life. Together we can make a meaningful impact to the
-        lives of others.
-      button: Donate Now
-      url: https://go.gov.sg/ssi-cfc
-      image: /images/CFC_Comchest_Standalone_logo.png
-      alt: Change for Charity
   - resources:
       title: Be in the know
       subtitle: Media
