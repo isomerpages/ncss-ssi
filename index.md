@@ -89,4 +89,11 @@ sections:
       title: Be in the know
       subtitle: Media
       button: More Media
+  - infobar:
+      title: Change for Charity
+      description: Support Community Chest’s Change for Charity initiative by making a
+        donation! 100% of your donation will go towards helping the
+        communities-in-need.
+      button: Donate Now
+      url: https://go.gov.sg/ssi-cfc
 ---
