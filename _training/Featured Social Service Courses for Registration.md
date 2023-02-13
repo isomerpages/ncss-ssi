@@ -13,9 +13,9 @@ description: SSI offers courses and training for social workers and the social
 * ##### [Registration period: Mar - Apr 2023](/files/Monthly%20Featured%20Courses%20-%20Mar%20to%20Apr%20v2.pdf){:target="_blank"}
 
 ### 2) Explore our featured courses
-![TNM 2.0, an initiative brought to you by SSI](/images/training/TNM-banner.png)
+
 <table>
-	<tbody><tr> <td><a href="https://www.ssi.gov.sg/training/tnm-courses/" target="_blank"><img src="/images/training/TNM-banner.png" alt="TNM 2.0, an initiative brought to you by SSI"></a><h5>Advanced Certificate in Social Service</h5><a href="https://www.ssi.gov.sg/training/cet-programmes/advanced-certificate-in-social-service/" target="_blank">Register by 29 Mar 2023</a><h5>Higher Diploma in Social Service</h5><a href="https://www.ssi.gov.sg/training/cet-programmes/higher-diploma-in-social-service/" target="_blank">Register by 29 Mar 2023</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/cet-programmes/" target="_blank">View other CET courses</a></p></td>
+	<tbody><tr> <td><a href="https://www.ssi.gov.sg/training/tnm-courses/" target="_blank"><img src="/images/training/TNM-banner.png" alt="TNM 2.0, an initiative brought to you by SSI"></a><h5>Higher Diploma in Social Service</h5><a href="https://www.ssi.gov.sg/training/cet-programmes/higher-diploma-in-social-service/" target="_blank">Register by 29 Mar 2023</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/cet-programmes/" target="_blank">View other CET courses</a></p></td>
 		<tr> <td><a href="https://www.ssi.gov.sg/training/cet-programmes/" target="_blank"><img src="/images/training/cet-v2.png" alt="Continuing Education & Training (CET) Courses"></a><h5>Advanced Certificate in Social Service</h5><a href="https://www.ssi.gov.sg/training/cet-programmes/advanced-certificate-in-social-service/" target="_blank">Register by 29 Mar 2023</a><h5>Higher Diploma in Social Service</h5><a href="https://www.ssi.gov.sg/training/cet-programmes/higher-diploma-in-social-service/" target="_blank">Register by 29 Mar 2023</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/cet-programmes/" target="_blank">View other CET courses</a></p></td>
 		
 </tr>
