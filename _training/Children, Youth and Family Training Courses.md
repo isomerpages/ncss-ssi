@@ -8,7 +8,6 @@ description: SSI’s children, youth and family courses provides learners with t
 
 ### **Registration closing soon: <br> Children, Youth and Family Training Courses**
 
-- [Management of Family Violence: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF197){:target="blank"} <br> Register by: 5 Feb 2023
 - [Management of Family Violence: Understanding Mental Health and Vulnerable Adult Issues in Protection Work](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF235){:target="blank"} <br> Register by: 26 Feb 2023
 
 ### **Other Featured Courses in Children and Youth Development, Youth Counselling and Family Therapy**
