@@ -6,8 +6,8 @@ description: "SSI featured eldercare courses are: Effective Communication with
 ---
 ![Social Service Institute (SSI) Singapore - Caring and communicating with dementia and senior persons courses](/images/eldercare-banner.png)
 
-##### **Registration closing soon: <br> Eldercare Training Courses**
-- No new courses at the moment
+##### **Registration opening soon: <br> Eldercare Training Courses**
+- Counselling for Seniors
 
 ##### **Other featured courses in Eldercare, Communication and Counselling:**
 -   [Communicate Effectively with Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH6016){:target="_blank"}   
