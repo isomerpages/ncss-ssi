@@ -15,7 +15,7 @@ description: SSI offers courses and training for social workers and the social
 ### 2) Explore our featured courses
 
 <table>
-	<tbody><tr> <td><a href="https://www.ssi.gov.sg/training/tnm-courses/" target="\_blank"><img src="/images/training/TNM-banner.png" alt="TNM 2.0, an initiative brought to you by SSI"></a><h5>Training Network Model 2.0</h5><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/tnm-courses/" target="\_blank">View all TNM 2.0 courses</a></p></td>
+	<tbody>
 		<tr> <td><a href="https://www.ssi.gov.sg/training/cet-programmes/" target="\_blank"><img src="/images/training/cet-v2.png" alt="Continuing Education & Training (CET) Courses"></a><h5>Advanced Certificate in Social Service</h5><a href="https://www.ssi.gov.sg/training/cet-programmes/advanced-certificate-in-social-service/" target="\_blank">Register by 29 Mar 2023</a><h5>Higher Diploma in Social Service</h5><a href="https://www.ssi.gov.sg/training/cet-programmes/higher-diploma-in-social-service/" target="\_blank">Register by 29 Mar 2023</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/cet-programmes/" target="\_blank">View other CET courses</a></p></td>
 		
 </tr>
@@ -37,7 +37,8 @@ description: SSI offers courses and training for social workers and the social
 </tr><tr> <td><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" target="\_blank"><img src="/images/training/volunteer-v2.png" alt="Equip volunteers with knowledge, develop volunteer management capabilities"></a><h5>No featured courses at the moment</h5><a href="https://www.ssi.gov.sg/about-us/mailing-list/" target="\_blank">Subscribe to our mailing list for course updates</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" target="\_blank">View other Volunteering Management and Development courses</a></p></td>
 
 </tr><tr> <td><a href="https://www.ssi.gov.sg/training/caregiving/" target="\_blank"><img src="/images/training/caregiving-v2.png" alt="Caregiver Training Courses"></a><h5>No featured courses at the moment</h5><a href="https://www.ssi.gov.sg/about-us/mailing-list/" target="\_blank">Subscribe to our mailing list for course updates </a><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/caregiving/" target="\_blank">View all Caregiving courses</a></p></td>
-	</tr></tbody></table>
+	</tr>
+	<tr> <td><a href="https://www.ssi.gov.sg/training/tnm-courses/" target="\_blank"><img src="/images/training/TNM-banner.png" alt="TNM 2.0, an initiative brought to you by SSI"></a><h5>Training Network Model 2.0</h5><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/tnm-courses/" target="\_blank">View all TNM 2.0 courses</a></p></td></tbody></table>
 
 --- 
 <br>
