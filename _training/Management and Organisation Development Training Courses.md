@@ -17,10 +17,10 @@ description: SSI provides courses that train learners in management, leadership,
 - [Critical Thinking - Capelle](https://www.capelleconsulting.com/critical-thinking/){:target="_blank"}<br>Register by: 10 Mar 2023
 - [Leveraging Diversity and Building Inclusivity - Capelle](https://www.capelleconsulting.com/diversity-inclusivity/){:target="_blank"}<br>Register by: 16 Mar 2023
 
-**Courses opening for registration soon**
-- Maintain Workplace Safety and Health (WSH) in Social Service Agencies - Singapore Institute of Technology (SIT)<br>Register by: 15 Mar 2023
+**Workplace Safety**
+- [Maintain Workplace Safety and Health (WSH) in Social Service Agencies - Singapore Institute of Technology (SIT)](https://go.gov.sg/maintain-workplace-safety-health){:target="_blank"}<br>Register by: 15 Mar 2023
 
-- Introduction to Occupational Health & Safety Management System - Singapore Institute of Technology (SIT)<br>Register by: 21 Apr 2023
+- [Introduction to Occupational Health & Safety Management System - Singapore Institute of Technology (SIT)](https://go.gov.sg/occupational-health-safety){:target="_blank"}<br>Register by: 21 Apr 2023
 
 #### **Featured SSI's courses in Leadership Development, Financial Management, Facilities Management and Branding for Non-Profit Organisations:**
 -   [Branding Non-profits: An Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCOF243){:target="_blank"} 
