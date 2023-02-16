@@ -18,7 +18,7 @@ description: SSI provides courses that train learners in management, leadership,
 - [Leveraging Diversity and Building Inclusivity - Capelle](https://www.capelleconsulting.com/diversity-inclusivity/){:target="_blank"}<br>Register by: 16 Mar 2023
 - [The 7 Habits of Highly Effective People - Franklin Covey Singapore](https://go.gov.sg/franklincovey-ssi-7habits-apr){:target="_blank"}<br>Register by: 6 April 2023
 
-**Workplace Safety**
+**Workplace Safety and Health**
 - [Maintain Workplace Safety and Health (WSH) in Social Service Agencies - Singapore Institute of Technology (SIT)](https://go.gov.sg/maintain-workplace-safety-health){:target="_blank"}<br>Register by: 15 Mar 2023
 
 - [Introduction to Occupational Health & Safety Management System - Singapore Institute of Technology (SIT)](https://go.gov.sg/occupational-health-safety){:target="_blank"}<br>Register by: 21 Apr 2023
