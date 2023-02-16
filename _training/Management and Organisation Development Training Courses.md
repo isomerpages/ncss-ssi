@@ -9,7 +9,7 @@ description: SSI provides courses that train learners in management, leadership,
 ##### **Registration now open: <br>Management and Organisation Development Training Courses**
 
  **Strategy**
-- [Strategic Innovation by DPI Asia](https://www.dpi-asia.com/post/strategic-innovation-in-disruptive-times-18-august-workshop-for-registered-charities){:target="_blank"}<br>Register by: 10 Feb 2023
+- [Strategic Formulation by DPI Asia](https://www.dpi-asia.com/post/strategy-formulation-pure-simple){:target="_blank"}<br>Register by: 15 Mar 2023
 
 **People Management and Leadership**
 - [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5073){:target="_blank"}<br>Register by: 24 Feb 2023
