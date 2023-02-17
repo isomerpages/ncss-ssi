@@ -52,4 +52,4 @@ He holds a Master of Arts degree in Applied Psychology from the Nanyang Technolo
 
 
 ## Subscribe to SSI’s Mental Health Mailing List
-Click [here to join SSI’s Mental Health Mailing List](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
+Click [here to subscribe to SSI's Mental Health Mailing List now](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
