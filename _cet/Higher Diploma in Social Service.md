@@ -4,7 +4,7 @@ permalink: /training/cet-programmes/higher-diploma-in-social-service/
 description: SSI offers a Higher Diploma in Social Service course for aspiring
   social workers, with an articulation pathway to SUSS.
 ---
-### Overview
+## Overview
 
 SSI’s Higher Diploma in Social Service (HDSS) is a programme for new entrants and existing Social Service Professionals who aspire to be Social Work Associates. The programme aims to equip learners with the necessary skills and knowledge to be collaborative, client-centric, strategic and compassionate individuals who can work effectively with clients and stakeholders. 
 
@@ -14,20 +14,20 @@ Successful applicants will also be required to attend an Academic Integrity Work
 
 SSI’s HDSS programme also provides an articulation pathway into Bachelor in Social Work at the Singapore University of Social Services (SUSS), for learners who want to pursue a further education and their aspiration to become a Social Worker.
 
-### Entry Requirements
+## Entry Requirements
 
 Applicants should possess the following criteria:
 
 -	A minimum grade of C6 for GCE ‘O’ level English (or its equivalent). 
 -	At least two years of full-time working experience.
--	Complete a complimentary e-learning course “, [Singapore’s Social Compact](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS400){:target="_blank"} (download the e-certificate and submit it upon registration for this programme)<sup>1</sup>  . 
+-	Complete [the complimentary e-learning course: Singapore’s Social Compact](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS400){:target="_blank"} (download the e-certificate and submit it upon registration for this programme)<sup>1</sup>  . 
 
-
+### About The Singapore Social Compact Course
 <sup>1</sup>  This e-learning course provides learners with an overview of the development of Singapore’s social services over the years and introduces them to the principles behind its provision. It also covers the six areas of social service provision and the challenges that lay ahead.
 
-Applicants should also possess any one of the following qualifications:
+### Applicants should also possess any one of the following qualifications:
 
--	[SSI Advanced Certificate in Social Service](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-1){:target="_blank"}
+-	[SSI Advanced Certificate in Social Service](https://www.ssi.gov.sg/training/cet-programmes/advanced-certificate-in-social-service/){:target="_blank"}
 - WSQ Advanced Certificate in Social Service
 - SGUS Social Service Assistance Programme
 - SSI Diploma in Social Service
@@ -39,7 +39,7 @@ Applicants should also possess any one of the following qualifications:
 All shortlisted applicants will have to sit for a Written Aptitude Test (WAT), which will be conducted on **24 Apr 2023 at 10.30am or 25 Apr 2023 at 3.00pm.** Only applicants who successfully pass the WAT will be considered for admission into the programme.
 
 
-### Qualifications & Career Prospects
+### Qualifications & Career Prospects in Social Work
 
 Upon completion of SSI's HDSS, learners will be issued a:
 
@@ -48,7 +48,7 @@ Upon completion of SSI's HDSS, learners will be issued a:
 
 Learners may also apply for work as a Social Work Associate, Project Coordinator, Youth Worker or Volunteer Executive.  
 
-### Course Details
+## Course Details
 
 - **Cohort Size:** One cohort of 25 pax. 
 - **No of Modules:** Nine
@@ -66,12 +66,12 @@ All learners will also be required to undergo the Social Service Field Experienc
 
 Course fees for the programme have to be paid upon acceptance of the offer letter within the timeline provided in the ofter letter.
 
-Learners must achieve at least 75% attendance per module and be certified competent in all the assessment components in order to be eligible for SkillsFuture Singapore (SSG) funding. Learners or their sponsoring organisations will have to pay the full course fees in the event that the learners fail to meet the attendance/ assessment requirements and/or any other terms and conditions for SSG funding eligibility. Please refer to this [link](https://www.ssg.gov.sg/programmes-and-initiatives/training-grants/self-sponsored-training-for-individuals.html){:target="_blank"}  for more information on the SSG funding eligibility requirement.
+Learners must achieve at least 75% attendance per module and be certified competent in all the assessment components in order to be eligible for [SkillsFuture Singapore (SSG) funding](https://www.ssi.gov.sg/training/funding-information/skillsfuture-singapore-funding/){:target="_blank"} . Learners or their sponsoring organisations will have to pay the full course fees in the event that the learners fail to meet the attendance/ assessment requirements and/or any other terms and conditions for SSG funding eligibility. Please refer to this [link](https://www.ssg.gov.sg/programmes-and-initiatives/training-grants/self-sponsored-training-for-individuals.html){:target="_blank"}  for more information on the SSG funding eligibility requirement.
 
 *Please note that course fees are subjected to changes.
 
 
-### Application Guidelines
+## Application Guidelines
 
 Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI%20HDSS%20Application%20Form%20(Feb-Mar%202023).pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-2){:target="_blank"}  between 15 Feb - 29 Mar 2022. 
 
@@ -93,13 +93,13 @@ All shortlisted applicants will have to sit for a Written Aptitude Test (WAT), w
 Applicants may also be called to attend an online interview with the selection panel on the dates specified above. Applicants will receive an email from SSI informing them about the assigned interview date and time and are required to make themselves available for the interview accordingly. Requests for alternative arrangements will not be considered.
 
 
-### Preview Session
+## Register for a Free Preview Session
 Date: 1 Mar 2023
 <br> Venue: SSI (Level 18 Auditorium), Tiong Bahru Plaza
 <br>Time: 7pm
-<br>Do register via this [link](https://go.gov.sg/ssipreviewregistration){:target="_blank"}  to receive a confirmation email 3 days before the actual session. 
+<br>[Register for SSI's preview session for ACSS and HDSS here](https://go.gov.sg/ssipreviewregistration){:target="_blank"}  to receive a confirmation email 3 days before the actual session. 
 
-### FAQs
+## FAQs
 Refer to this [link](/files/Files%20for%20Learners/FAQ-for-Higher-Diploma-in-Social-Service_Jan%202023.pdf){:target="_blank"} for FAQs relating to this programme.
 
-[Application Guide (HDSS)](/files/Files%20for%20Learners/Application%20Guide%20(HDSS)%202023.pdf){:target="_blank"}
+[Learn more about the application procedure from the [HDSS Application Guide here](/files/Files%20for%20Learners/Application%20Guide%20(HDSS)%202023.pdf){:target="_blank"}
