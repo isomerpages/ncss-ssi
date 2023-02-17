@@ -6,16 +6,16 @@ description: SSI's mental health courses provides social service professionals
 ---
 ![Social Service Institute (SSI) Singapore - Mental Health Conditions & Recovery Courses](/images/mental-health-banner.png)
 
-#### **Registration closing soon: <br>Mental Health Training Courses**
+## **Registration closing soon: <br>Mental Health Training Courses**
 - No new courses at the moment <br>
-#### **Other Featured Courses in Mental Health, Suicide Prevention and Psychiatric Rehabilitation**
--   [Applied Suicide Interventional Skills](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5709) [(ASIST)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5709){:target="_blank"}   
+- 
+### **Other Featured Courses in Mental Health, Suicide Prevention and Psychiatric Rehabilitation**
+-   [Applied Suicide Interventional Skills (ASIST)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5709){:target="_blank"}   
 -   [E.M.B.R.A.C.E Mental Health](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SMTH314){:target="_blank"}
 -   [Management of Depression in Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5442){:target="_blank"}   
 -   [Mental Illness and Recovery](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS5911){:target="_blank"}   
 -   Psychiatric Rehabilitation in Welfare Homes - Coming Soon!
 -   [Suicide Prevention and Management for Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5587){:target="_blank"}   
--   [Tools and Skills for Supporting Youths with Mental Health Distress](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5408){:target="_blank"}   
 
 For the full list of Mental Health courses offered by SSI, follow this  [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}.
 
@@ -27,7 +27,7 @@ The complimentary featured courses under the Agency for Integrated Care (AIC) ca
 -   [Mental Health Awareness Basic 2](https://ccmhdcomms.github.io/mhalevel2comms20/){:target="_blank"}
 
 
-### Featured Adult Educators under Mental Health Training Courses 
+## Featured Adult Educators under Mental Health Training Courses 
 
 **Dr John K E Tan**  
 John holds a doctorate in ministry that he earned from Fuller Theological Seminary in Los Angeles, USA. He has spent 25 years in service to youths and adults who help youths succeed in life. In addition, he is also a certified adult educator, armed with both a Diploma in Adult and Continuing Education (DACE) as well as an Advanced Certificate in Training and Assessment (ACTA) under the Singapore Workforce Skills Qualifications (WSQ) framework. Currently, he serves as the Executive Director of Children-At-Risk Empowerment Association (CARE Singapore) in a full-time capacity.
@@ -51,5 +51,5 @@ Lit Soon’s career in the healthcare, social service and eldercare fields spans
 He holds a Master of Arts degree in Applied Psychology from the Nanyang Technological University (NTU), a Bachelor of Arts in Psychology & Social Work from NUS, a Post-Graduate Diploma in Art Psychotherapy from Goldsmiths, University of London, an Advanced Diploma in Fine Arts & Design from the Nanyang Academy of Fine Arts (NAFA) and a Certificate in General Nursing from the School of Nursing, Singapore.
 
 
-### Subscribe to SSI’s Mental Health Mailing List
+## Subscribe to SSI’s Mental Health Mailing List
 Click [here to join SSI’s Mental Health Mailing List](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
