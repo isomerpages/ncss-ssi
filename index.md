@@ -90,20 +90,11 @@ sections:
       description: Join us to build a caring nation, make small acts of giving part of
         your everyday life. Together we can make a meaningful impact to the
         lives of others.
-      button: Find out more
+      button: Donate Now
       url: https://go.gov.sg/ssi-cfc
       image: /images/CFC_Comchest_Standalone_logo.png
       alt: Change for Charity
       subtitle: Community Chest
-  - infopic:
-      title: Donate your Change for Charity
-      subtitle: Community Chest
-      description: Join us to build a caring nation, make small acts of giving part of
-        your everyday life. Together we can make a meaningful impact to the
-        lives of others.
-      button: Donate Now
-      url: https://go.gov.sg/ssi-cfc
-      alt: Image alt text
   - resources:
       title: Be in the know
       subtitle: Media
