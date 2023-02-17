@@ -32,7 +32,7 @@ For SSI WSQ certifiable courses, eligible SSAs may apply for funding, and will b
 |SSI governance and management courses.|Up to 60% of course fees capped at $700.|Submit your VCF application directly to SSI.|
 |--|--|--|
 
-
+<br>
 
 |For Example for a two-day “Building Emotional Resilience in Caregiving” course fee that equates to $650/pax (before funding)|
 |--|
