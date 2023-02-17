@@ -28,9 +28,6 @@ For SSI WSQ certifiable courses, eligible SSAs may apply for funding, and will b
 |**Type of Courses** |**VCF Funding**  |**Application Procedures**|
 |--|--|--|
 | SSI WSQ and certifiable courses. <br><br>* only applicable for Employment Pass/S Pass/Work Permit holders | Up to 60% of course fees capped at $700 per course or $192 per day. | Submit your PCG application online via [Fund Application  System (FAS)](https://app.ncss.gov.sg/?PartnerId=https%3a%2f%2fe-services.ncss.gov.sg%2fLogin%2fVLoginReturn&targeturl=%2f){:target="_blank"} in compliance with the PCG Evaluation Panel dates and submission deadlines. Applications must be submitted to NCSS at least **2 months** before the Panel evaluation date. |
-|--|--|--|
-|SSI governance and management courses.|Up to 60% of course fees capped at $700.|Submit your VCF application directly to SSI.|
-|--|--|--|
 
 <br>
 
