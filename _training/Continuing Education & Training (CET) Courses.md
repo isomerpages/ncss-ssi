@@ -12,12 +12,14 @@ SSI offers a suite of Continuing Education and Training (CET) programmes which p
 ## CET Programmes offered by SSI:
 
 -   [Advanced Certificate in Social Service](/training/cet-programmes/advanced-certificate-in-social-service/){:target="_blank"}<sup>1</sup>
--   [Advanced Certificate in Supported Employment (ACSE)](/training/cet-programmes/advance-certificate-in-supported-employment/){:target="_blank"}   
--   [Certificate in Para-Counselling in Community Setting](/training/cet-programmes/certificate-in-para-counselling/){:target="_blank"}   
--   [Certificate in Peer Support](/training/cet-programmes/certificate-in-peer-support/){:target="_blank"}   
--   [Higher Diploma in Social Service (HDSS)](/training/cet-programmes/higher-diploma-in-social-service/){:target="_blank"} 
--   [Professional Certificate in Casework (NSWCF Foundational)](/training/cet-programmes/professional-certificate-in-casework-(nswcf-foundational)/){:target="_blank"}   
--   [Professional Certificate in Group Work (NSWCF Foundational)](/training/cet-programmes/professional-certificate-in-group-work-(nswcf-foundational)/){:target="_blank"}   
+<br> This foundational course will provide social service professionals with the necessary knowledge and skillsets required to carry out their roles effectively when working with clients, partners and stakeholders. 
+
+-   [Advanced Certificate in Supported Employment (ACSE)](/training/cet-programmes/advance-certificate-in-supported-employment/){:target="_blank"}  <br>The Advanced Certificate in Supported Employment (ACSE) aims to build capabilities of job coaches in providing employment and employability support for persons with disabilities.
+
+-   [Certificate in Para-Counselling in Community Setting](/training/cet-programmes/certificate-in-para-counselling/){:target="_blank"}  <br>This course equips learners with the fundamental knowledge and skills in counselling that is required when working alongside certified counselling professionals.
+
+-   [Higher Diploma in Social Service (HDSS)](/training/cet-programmes/higher-diploma-in-social-service/){:target="_blank"}
+The programme provides an articulation pathway into Bachelor in Social Work at the Singapore University of Social Services (SUSS). This is ideal for learners who wish to pursue a career in Social Work. 
 
 <sup>1</sup>This programme name may be subjected to further changes.
 
