@@ -34,7 +34,8 @@ description: SSI provides short courses, certificates, diploma and degree
 
 #### **Certificate/ Diploma/ Degree Programmes:**
 
--  [Advanced Certificate in Supported Employment (ACSE)](/training/cet-programmes/advance-certificate-in-supported-employment/){:target="_blank"}   
+-  [Advanced Certificate in Supported Employment (ACSE)](/training/cet-programmes/advance-certificate-in-supported-employment/){:target="_blank"} 
+<br>The Advanced Certificate in Supported Employment (ACSE) aims to build capabilities of job coaches in providing employment and employability support for persons with disabilities.  
 
 For the full list of Disability courses offered by SSI, follow this  [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}.
 
@@ -54,4 +55,4 @@ Trevor is the former Director of the Centre for Disability Studies (CDS). He hel
 
 ### **Subscribe to SSI’s Disability Mailing List**
 
-Subscribe to SSI’s Disability Courses Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
+Click [here to subscribe to SSI's Disability Mailing List now](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
