@@ -19,7 +19,7 @@ SSI offers a suite of Continuing Education and Training (CET) programmes which p
 -   [Certificate in Para-Counselling in Community Setting](/training/cet-programmes/certificate-in-para-counselling/){:target="_blank"}  <br>This course equips learners with the fundamental knowledge and skills in counselling that is required when working alongside certified counselling professionals.
 
 -   [Higher Diploma in Social Service (HDSS)](/training/cet-programmes/higher-diploma-in-social-service/){:target="_blank"}
-The programme provides an articulation pathway into Bachelor in Social Work at the Singapore University of Social Services (SUSS). This is ideal for learners who wish to pursue a career in Social Work. 
+<br>The programme provides an articulation pathway into Bachelor in Social Work at the Singapore University of Social Services (SUSS). This is ideal for learners who wish to pursue a career in Social Work. 
 
 <sup>1</sup>This programme name may be subjected to further changes.
 
