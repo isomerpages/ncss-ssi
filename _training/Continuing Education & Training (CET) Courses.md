@@ -28,4 +28,4 @@ Click [here to find out more about the full list of CET programmes](https://iltm
 
 ## **Subscribe to SSI’s CET Programmes Mailing List**
 
-Click [here to join SSI’s CET Programmes Mailing List](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
+Click [here to subscribe to SSI's CET Programmes Mailing List](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
