@@ -51,7 +51,7 @@ Linda is a Principal Trainer & Consultant with Rainbow Centre Training and Consu
 Trevor is the former Director of the Centre for Disability Studies (CDS). He held the position of Foundation Chair of Developmental Disabilities within the Faculty of Medicine and is an Honorary Professor in Education with the Faculty of Education and Social Work as well as an Honorary Professor in the Faculty of Health Science at the University of Sydney (UniSyd). He is an Adjunct Professor in the School of Rural Medicine at the University of New England (UNE). His international academic standing in the field of developmental disability is marked by his former appointment as President of the International Association for the Scientific Study of Intellectual and Developmental Disabilities (IASSIDD) as well as his role as a Board Member of the American Association on Intellectual and Developmental Disability (AAIDD).
 
 
-##### Keen to join our pool of Adult Educators? Find out more [here](https://safe.menlosecurity.com/https:/www.ssi.gov.sg/files/AE_Resource_Kit.pdf){:target="_blank"}.
+##### Keen to join our pool of Adult Educators? [Learn more about joining SSI via our Adult Educator Resource Kit](https:/www.ssi.gov.sg/files/AE_Resource_Kit.pdf){:target="_blank"}.
 
 ### **Subscribe to SSI’s Disability Mailing List**
 
