@@ -37,7 +37,7 @@ description: SSI provides short courses, certificates, diploma and degree
 -  [Advanced Certificate in Supported Employment (ACSE)](/training/cet-programmes/advance-certificate-in-supported-employment/){:target="_blank"} 
 <br>The Advanced Certificate in Supported Employment (ACSE) aims to build capabilities of job coaches in providing employment and employability support for persons with disabilities.  
 
-For the full list of Disability courses offered by SSI, follow this  [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}.
+Check out the [full list of SSI's Disability courses here.](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}.
 
 #### Meet our Featured Adult Educators!
 
