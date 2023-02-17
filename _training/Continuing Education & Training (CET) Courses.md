@@ -23,7 +23,7 @@ The programme provides an articulation pathway into Bachelor in Social Work at t
 
 <sup>1</sup>This programme name may be subjected to further changes.
 
-For the full list of CET programmes offered by SSI, follow this  [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}.
+Click [here to find out more about the full list of CET programmes](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"} offered by SSI.
 
 
 ## **Subscribe to SSI’s CET Programmes Mailing List**
