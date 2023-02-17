@@ -9,7 +9,7 @@ description: SSI offers Continuing Education and Training (CET) programmes to
 
 SSI offers a suite of Continuing Education and Training (CET) programmes which provide learners with certificate, diploma and degree based qualifications. 
 
-## List of CET Programmes offered:
+## CET Programmes offered by SSI:
 
 -   [Advanced Certificate in Social Service](/training/cet-programmes/advanced-certificate-in-social-service/){:target="_blank"}<sup>1</sup>
 -   [Advanced Certificate in Supported Employment (ACSE)](/training/cet-programmes/advance-certificate-in-supported-employment/){:target="_blank"}   
