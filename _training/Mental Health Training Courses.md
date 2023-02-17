@@ -13,19 +13,9 @@ description: SSI's mental health courses provides social service professionals
 -   [E.M.B.R.A.C.E Mental Health](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SMTH314){:target="_blank"}
 -   [Management of Depression in Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5442){:target="_blank"}   
 -   [Mental Illness and Recovery](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS5911){:target="_blank"}   
--   [Preparatory Training for Potential Peer Support Specialist](/training/cet-programmes/preparatory-training-for-potential-peer-support-specialist/){:target="_blank"}<sup>1</sup>   
 -   Psychiatric Rehabilitation in Welfare Homes - Coming Soon!
 -   [Suicide Prevention and Management for Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5587){:target="_blank"}   
 -   [Tools and Skills for Supporting Youths with Mental Health Distress](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5408){:target="_blank"}   
-
-<sup>1</sup>This is the first module in the  [Peer Support Specialist Programme](/training/cet-programmes/peer-support-specialist-programme/){:target="_blank"} .
-
-### Certificate/ Diploma/ Degree Programmes:
-
- - [Certificate in Peer Support](/training/cet-programmes/certificate-in-peer-support/){:target="_blank"}   <sup>2</sup>
-
-<sup>2</sup>This is the second module in the  [Peer Support Specialist Programme](/training/cet-programmes/peer-support-specialist-programme/){:target="_blank"}.
-
 
 For the full list of Mental Health courses offered by SSI, follow this  [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}.
 
@@ -62,4 +52,4 @@ He holds a Master of Arts degree in Applied Psychology from the Nanyang Technolo
 
 
 ### Subscribe to SSI’s Mental Health Mailing List
-Subscribe to SSI’s Mental Health Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
+Click [here to join SSI’s Mental Health Mailing List](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
