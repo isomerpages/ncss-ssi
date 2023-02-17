@@ -21,7 +21,7 @@ SSI offers a suite of Continuing Education and Training (CET) programmes which p
 -   [Higher Diploma in Social Service (HDSS)](/training/cet-programmes/higher-diploma-in-social-service/){:target="_blank"}
 <br>The programme provides an articulation pathway into Bachelor in Social Work at the Singapore University of Social Services (SUSS). This is ideal for learners who wish to pursue a career in Social Work. 
 
-<sup>1</sup>This programme name may be subjected to further changes.
+<sup>1</sup>The programme name may be subject to further changes.
 
 Click [here to find out more about the full list of CET programmes](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"} offered by SSI.
 
