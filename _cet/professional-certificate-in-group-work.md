@@ -4,9 +4,6 @@ permalink: /training/cet-programmes/professional-certificate-in-group-work-(nswc
 description: This course equips learners to assess the need for group work in a
   social service setting and to plan appropriate group intervention.
 ---
-
-
-
 ### **Overview**
 
 Jointly developed with the Ministry of Social and Family Development (MSF) and Ministry of Health (MOH), 'Professional Certificate in Group Work (NSWCF Foundational)' consists of two integrated modules that will provide social workers with foundation-level practice competencies. Learners will be equipped with the competencies to assess the need for group work in a social work setting and plan appropriate interventions in a group setting.  
@@ -48,4 +45,4 @@ Note:
 This course qualifies for CPE credits, with the renewal of accreditation at one credit per one training hour.  
 For enquiries, please contact the SASW Accreditation Secretariat at Tel: 6778 7922 or email: <accreditation@sasw.org.sg> 
   
-To find out about upcoming intakes, please  [click here](https://e-services.ncss.gov.sg/Training/Course/TemplateSearch?Keyword=Professional+Certificate+in+Group+Work){:target="_blank"}   .
+To find out about upcoming intakes, please  [click here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   .

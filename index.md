@@ -85,16 +85,6 @@ sections:
       image: images/homepage/mailing-list.jpg
       alt: Social Service Institute SSI Singapore - Mailing List, Newsletter
         Suscription
-  - infopic:
-      title: Donate your Change for Charity
-      description: Join us to build a caring nation, make small acts of giving part of
-        your everyday life. Together we can make a meaningful impact to the
-        lives of others.
-      button: Find out more
-      url: https://go.gov.sg/ssi-cfc
-      image: /images/CFC_Comchest_Standalone_logo.png
-      alt: Change for Charity
-      subtitle: Community Chest
   - resources:
       title: Be in the know
       subtitle: Media

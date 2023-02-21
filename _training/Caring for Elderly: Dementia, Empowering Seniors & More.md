@@ -6,10 +6,10 @@ description: "SSI featured eldercare courses are: Effective Communication with
 ---
 ![Social Service Institute (SSI) Singapore - Caring and communicating with dementia and senior persons courses](/images/eldercare-banner.png)
 
-##### **Registration opening soon: <br> Eldercare Training Courses**
+## Registration opening soon: Eldercare Training Courses
 - Counselling for Seniors<br> Register by 30 April 2023
 
-##### **Other featured courses in Eldercare, Communication and Counselling:**
+### **Other featured courses in Eldercare, Communication and Counselling:**
 -   [Communicate Effectively with Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH6016){:target="_blank"}   
 -   [Communicate Effectively with Seniors (Mandarin)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5525){:target="_blank"}   
 -   Conversation Starter Toolkit (e-Learning)
@@ -21,11 +21,11 @@ description: "SSI featured eldercare courses are: Effective Communication with
 -   [WSQ Support Seniors to Meet their Physical, Emotional, Psychological, Cognitive and Spiritual Needs](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5848){:target="_blank"}   
 
 
-For the full list of Eldercare courses offered by SSI, search [here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}.
+Check out the [the full list of SSI's Eldercare courses here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}.
 
 The complimentary featured course under the Agency for Integrated Care (AIC) can be found in the link below:
 
--   [Dementia Awareness Foundation](https://ccmhdcomms.github.io/dementiaawareness20/){:target="_blank"}
+-   Take AIC's complimentary [Dementia Awareness Foundation online course here](https://ccmhdcomms.github.io/dementiaawareness20/){:target="_blank"}
 
 
 ### Featured Adult Educators under Eldercare Training Courses
@@ -45,5 +45,5 @@ Lit Soon’s career in the healthcare, social service and eldercare sector spans
 
 He holds a Master of Arts degree in Applied Psychology from the Nanyang Technological University (NTU), a Bachelor of Arts in Psychology & Social Work from the National University of Singapore (NUS), a Post-Graduate Diploma in Art Psychotherapy from Goldsmiths, University of London, an Advanced Diploma in Fine Arts & Design from the Nanyang Academy of Fine Arts (NAFA) and a Certificate in General Nursing from the School of Nursing, Singapore.
 
-### Subscribe to Our Eldercare Mailing List   
-Subscribe to SSI’s Eldercare Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
+## Subscribe to Our Eldercare Mailing List   
+Click [here to subscribe to SSI's Eldercare Mailing List now](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
