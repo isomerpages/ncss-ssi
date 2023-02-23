@@ -49,16 +49,6 @@ sections:
       alt: Social Service Institute SSI Singapore - Course Schedule,Course
         List,Training Calendar
   - infopic:
-      title: Donate your Change for Charity
-      subtitle: COMMUNITY CHEST
-      description: Join us to build a caring nation, where giving becomes a part of
-        everyday life. 100% of your donation goes towards supporting the
-        communities in need.
-      button: Donate Now
-      url: https://go.gov.sg/ssi-cfc
-      image: /images/CFC_Comchest_Standalone_logo.png
-      alt: Donate your Change for Charity
-  - infopic:
       title: Refreshed 4ST (2022-2026)
       subtitle: Roadmap for the Sector
       button: Find out more
