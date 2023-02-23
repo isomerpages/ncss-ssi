@@ -34,7 +34,7 @@ sections:
           url: /training/cet-programmes/higher-diploma-in-social-service/
         - title: Advanced Certificate in Social Service
           description: This foundational course will provide social service professionals
-            with the necessary knowledge and skills sets required to carry out
+            with the necessary knowledge and skillsets required to carry out
             their roles effectively when working with clients, partners and
             stakeholders.
           url: /training/cet-programmes/advanced-certificate-in-social-service/
