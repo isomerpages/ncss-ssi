@@ -21,10 +21,10 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: THE FUTURE OF GLOBAL SOCIAL WORK
-          description: Join us on 23 March 2023 at 9:30am for the GSW Talk organised by
-            GISW <a href= https://www.thegisw.org/ target="_blank"> , where Dr
-            Darla Coffey, former President and CEO of CSWE will discuss trends
-            in social work education and the future of the field from a global
+          description: Join us on 23 March 2023 at 9:30am for the GSW Talk organised
+            by  the Global Institute of Social Work (GISW) where Dr Darla
+            Coffey, former President and CEO of CSWE will discuss trends in
+            social work education and the future of the field from a global
             perspective. Register now for this event held at Social Service
             Institute (SSI)!
           url: https://forms.gle/Xdwt9ahaou2mLhb47
