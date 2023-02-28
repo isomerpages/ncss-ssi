@@ -29,10 +29,10 @@ sections:
             Institute (SSI)!
           url: https://forms.gle/Xdwt9ahaou2mLhb47
         - title: Higher Diploma in Social Service
-          description: The programme provides an articulation pathway into Bachelor in
-            Social Work at the Singapore University of Social Services (SUSS).
-            This is ideal for learners who wish to further their studies and
-            pursue a career in Social Work.
+          description: The HDSS provides an articulation pathway into the Bachelor of
+            Social Work at Singapore University of Social Services (SUSS). This
+            is ideal for learners who wish to further their studies and pursue a
+            career in Social Work.
           url: /training/cet-programmes/higher-diploma-in-social-service/
         - title: Advanced Certificate in Social Service
           description: This foundational course will provide social service professionals
