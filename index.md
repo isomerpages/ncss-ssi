@@ -56,7 +56,7 @@ sections:
       description: Join us to build a caring nation, where giving becomes a part of
         everyday life. 100% of your donation goes towards supporting the
         communities in need.
-      button: Donate Noe
+      button: Donate Now
       url: https://go.gov.sg/ssi-cfc
       image: /images/CFC_Comchest_Standalone_logo.png
       alt: Image alt text
