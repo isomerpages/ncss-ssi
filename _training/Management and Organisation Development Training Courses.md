@@ -8,17 +8,17 @@ description: SSI provides courses that train learners in management, leadership,
 
 ## **Registration now open: <br>Management and Organisation Development Training Courses**
 
- **Strategy**
+ ### **Strategy**
 - [Strategic Formulation by DPI Asia](https://www.dpi-asia.com/post/strategy-formulation-pure-simple){:target="_blank"}<br>Register by: 15 Mar 2023
 
-**People Management and Leadership**
+### **People Management and Leadership**
 - [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5073){:target="_blank"}<br>Register by: 24 Feb 2023
 - [Innovation and Change Management - Capelle](https://www.capelleconsulting.com/innovation-and-change-management-sfw-synchronous-e-learning/){:target="_blank"}<br>Register by: 8 Mar 2023
 - [Critical Thinking - Capelle](https://www.capelleconsulting.com/critical-thinking/){:target="_blank"}<br>Register by: 10 Mar 2023
 - [Leveraging Diversity and Building Inclusivity - Capelle](https://www.capelleconsulting.com/diversity-inclusivity/){:target="_blank"}<br>Register by: 16 Mar 2023
 - [The 7 Habits of Highly Effective People - Franklin Covey Singapore](https://go.gov.sg/franklincovey-ssi-7habits-april-23){:target="_blank"}<br>Register by: 6 April 2023
 
-**Workplace Safety and Health**
+### **Workplace Safety and Health**
 - [Maintain Workplace Safety and Health (WSH) in Social Service Agencies - Singapore Institute of Technology (SIT)](https://go.gov.sg/maintain-workplace-safety-health){:target="_blank"}<br>Register by: 15 Mar 2023
 
 - [Introduction to Occupational Health & Safety Management System - Singapore Institute of Technology (SIT)](https://go.gov.sg/occupational-health-safety){:target="_blank"}<br>Register by: 21 Apr 2023
@@ -41,7 +41,7 @@ description: SSI provides courses that train learners in management, leadership,
 -   [Group Excellence by Capelle Consulting](https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&wdLOR=c02FF4AA9-A7A4-4B9C-B187-D439BDFDFC3C){:target="_blank"}
 -   [3-D People Development by Capelle Consulting](https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&wdLOR=c02FF4AA9-A7A4-4B9C-B187-D439BDFDFC3C){:target="_blank"}
 
-For the full list of Management and Organisation Development courses, [search here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}. 
+Search for more Management and Organisation Development courses on [our iLTMS course portal here].(https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}. 
 
 ### Featured Adult Educators under Management and Organisation Development Training Courses
 
