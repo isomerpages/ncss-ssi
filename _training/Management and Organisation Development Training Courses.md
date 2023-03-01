@@ -6,7 +6,7 @@ description: SSI provides courses that train learners in management, leadership,
 ---
 ![Social Service Institute (SSI) Singapore - Social Service / Nonprofit Leadership and Management Training Course](/images/mod-banner.png)
 
-##### **Registration now open: <br>Management and Organisation Development Training Courses**
+## **Registration now open: <br>Management and Organisation Development Training Courses**
 
  **Strategy**
 - [Strategic Formulation by DPI Asia](https://www.dpi-asia.com/post/strategy-formulation-pure-simple){:target="_blank"}<br>Register by: 15 Mar 2023
@@ -23,7 +23,7 @@ description: SSI provides courses that train learners in management, leadership,
 
 - [Introduction to Occupational Health & Safety Management System - Singapore Institute of Technology (SIT)](https://go.gov.sg/occupational-health-safety){:target="_blank"}<br>Register by: 21 Apr 2023
 
-#### **Featured SSI's courses in Leadership Development, Financial Management, Facilities Management and Branding for Non-Profit Organisations:**
+## **Featured Courses: Leadership Development & Management For Non-Profit OrganisationsFeatured SSI's courses in Leadership Development, Financial Management, Facilities Management and Branding for Non-Profit Organisations:**
 -   [Branding Non-profits: An Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCOF243){:target="_blank"} 
 - [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5073){:target="_blank"} 
 - [Teambuilding and leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT6014){:target="_blank"} 
@@ -34,7 +34,7 @@ description: SSI provides courses that train learners in management, leadership,
 -   [Making $ense I: An Introduction to Fund-Raising](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5766){:target="_blank"}   
 -   [Plan New Facilities Development](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMMR5890){:target="_blank"}    
 
-##### **The featured SSI's partner courses are:**
+### **The featured SSI's partner courses are:**
 -   [Strategy Formulation by DPI Asia](https://www.dpi-asia.com/post/strategy-formulation-pure-simple){:target="_blank"}
 -   [The 7 Habits of Highly Effective People by Franklin Covey](){:target="_blank"}
 -   [Authentic Leadership Conversations by Erevna Leadership](http://www.erevnaleadership.com/authentic-leadership-conversations.html){:target="_blank"}
@@ -63,5 +63,5 @@ Suhaimi is the CEO of a consulting/accounting firm providing professional manage
 Usha is the founder of Usha Menon Management Consultancy (Asia), an international training and consultancy service working exclusively with social impact organisations across Asia. Her multi-country client list includes charities, arts/ health/ education institutions, think-tanks, UN entities, International NGOs, social enterprises, philanthropic foundations and capability building organisations. She brings a wealth of multi-country experience, expertise and insights on leadership, management and fundraising. In addition, Usha has helped charities to expand their programme and fundraising capabilities and has transformed charity income sources drastically through local resource mobilisation across Asia, especially in the areas of local private sector fundraising through individual giving, philanthropic investments and corporate engagement.
 
 
-### Subscribe to Our Management and Organisation Development Mailing List
-Subscribe to SSI’s Management and Organisation Development Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
+## Subscribe to Our Management and Organisation Development Mailing List
+Click [here to join SSI’s Management and Organisation Development Mailing List](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
