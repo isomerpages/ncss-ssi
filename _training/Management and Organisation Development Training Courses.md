@@ -23,7 +23,7 @@ description: SSI provides courses that train learners in management, leadership,
 
 - [Introduction to Occupational Health & Safety Management System - Singapore Institute of Technology (SIT)](https://go.gov.sg/occupational-health-safety){:target="_blank"}<br>Register by: 21 Apr 2023
 
-## **Featured Courses: Leadership Development & Management For Non-Profit OrganisationsFeatured SSI's courses in Leadership Development, Financial Management, Facilities Management and Branding for Non-Profit Organisations:**
+### **Featured Courses: Leadership Development & Management For Non-Profit OrganisationsFeatured SSI's courses in Leadership Development, Financial Management, Facilities Management and Branding for Non-Profit Organisations:**
 -   [Branding Non-profits: An Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCOF243){:target="_blank"} 
 - [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5073){:target="_blank"} 
 - [Teambuilding and leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT6014){:target="_blank"} 
@@ -41,7 +41,7 @@ description: SSI provides courses that train learners in management, leadership,
 -   [Group Excellence by Capelle Consulting](https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&wdLOR=c02FF4AA9-A7A4-4B9C-B187-D439BDFDFC3C){:target="_blank"}
 -   [3-D People Development by Capelle Consulting](https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&wdLOR=c02FF4AA9-A7A4-4B9C-B187-D439BDFDFC3C){:target="_blank"}
 
-Search for more Management and Organisation Development courses on [our iLTMS course portal here].(https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}. 
+Search for more Management and Organisation Development courses on [our iLTMS course portal here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}. 
 
 ### Featured Adult Educators under Management and Organisation Development Training Courses
 
