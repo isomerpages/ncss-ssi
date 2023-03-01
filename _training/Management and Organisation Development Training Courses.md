@@ -8,7 +8,7 @@ description: SSI provides courses that train learners in management, leadership,
 
 ## **Registration now open: <br>Management and Organisation Development Training Courses**
 
- ### **Strategy**
+### **Strategy**
 - [Strategic Formulation by DPI Asia](https://www.dpi-asia.com/post/strategy-formulation-pure-simple){:target="_blank"}<br>Register by: 15 Mar 2023
 
 ### **People Management and Leadership**
