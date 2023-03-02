@@ -12,7 +12,6 @@ description: SSI provides courses that train learners in management, leadership,
 - [Strategic Formulation by DPI Asia](https://www.dpi-asia.com/post/strategy-formulation-pure-simple){:target="_blank"}<br>Register by: 15 Mar 2023
 
 ### **People Management and Leadership**
-- [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5073){:target="_blank"}<br>Register by: 24 Feb 2023
 - [Innovation and Change Management - Capelle](https://www.capelleconsulting.com/innovation-and-change-management-sfw-synchronous-e-learning/){:target="_blank"}<br>Register by: 8 Mar 2023
 - [Critical Thinking - Capelle](https://www.capelleconsulting.com/critical-thinking/){:target="_blank"}<br>Register by: 10 Mar 2023
 - [Leveraging Diversity and Building Inclusivity - Capelle](https://www.capelleconsulting.com/diversity-inclusivity/){:target="_blank"}<br>Register by: 16 Mar 2023
