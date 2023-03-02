@@ -28,13 +28,7 @@ description: SSI provides courses that both empower volunteers and volunteer man
 #### **Volunteer Development Training Courses**
 -   [Introduction to Youth Mentoring (For Volunteers)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD227){:target="_blank"}
 -   [Befriending Skills and Practice (For Volunteers)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311){:target="_blank"}   
--   [Working Effectively with Youths (e-Learning)<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS402){:target="_blank"}  
--   [Befriending Seniors (e-Learning)<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS403){:target="_blank"}   
--   [Overview to Disabilities (e-Learning)<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS401){:target="_blank"}   
--   [Understanding Persons with Developmental Disabilities (e-Learning)<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS404){:target="_blank"} 
--   [Understanding Persons with Intellectual Disabilities (e-Learning)<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS405){:target="_blank"} 
--   [Understanding Persons with Physical Disabilities (e-Learning)<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS412){:target="_blank"}   
--   [Understanding Persons with Sensory Disabilities (e-Learning)<sup>1</sup>](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS408){:target="_blank"}    
+
 
 For the full list of volunteer management and development courses click [here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}.  
 
