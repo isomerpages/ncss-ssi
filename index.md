@@ -20,17 +20,19 @@ sections:
       background: /images/homepage/Home_Banner.jpg
       url: /contact-us/
       key_highlights:
-        - title: LEAVE US YOUR FEEDBACK
-          description: "SSI is gathering feedback on our training and courses. If you are
-            an aspiring or current Social Service Professional, we want to hear
-            from you! Leave us your feedback to help us improve our training and
-            course offerings. "
-          url: https://go.gov.sg/ssi-feedbackform
+        - title: THE FUTURE OF GLOBAL SOCIAL WORK
+          description: Join us on 23 March 2023 at 9:30am for the GSW Talk organised
+            by  the Global Institute of Social Work (GISW) where Dr Darla
+            Coffey, former President and CEO of CSWE will discuss trends in
+            social work education and the future of the field from a global
+            perspective. Register now for this event held at Social Service
+            Institute (SSI)!
+          url: https://forms.gle/Xdwt9ahaou2mLhb47
         - title: Higher Diploma in Social Service
-          description: The programme provides an articulation pathway into Bachelor in
-            Social Work at the Singapore University of Social Services (SUSS).
-            This is ideal for learners who wish to further their studies and
-            pursue a career in Social Work.
+          description: The HDSS provides an articulation pathway into the Bachelor of
+            Social Work at Singapore University of Social Services (SUSS). This
+            is ideal for learners who wish to further their studies and pursue a
+            career in Social Work.
           url: /training/cet-programmes/higher-diploma-in-social-service/
         - title: Advanced Certificate in Social Service
           description: This foundational course will provide social service professionals
@@ -40,7 +42,7 @@ sections:
           url: /training/cet-programmes/advanced-certificate-in-social-service/
   - infopic:
       title: Start planning for your training needs today!
-      subtitle: Training Directory for 2022/23
+      subtitle: Training Directory for 2023/24
       description: Download our training directory to learn more about the broad range
         of courses that SSI offers from 10 different categories.
       button: Download now

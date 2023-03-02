@@ -5,7 +5,6 @@ description: The Training Network Model 2.0 is a strategic project that aims to
   transform SSAs to become Centres of Excellence, and to build a sustainable
   learning ecosystem for the social service sector.
 ---
-
 TNM 2.0 aims to transform 7 selected SSAs to become Centres of Excellence. These SSA partners were selected based on specific criteria to offer training to the sector. For more information on TNM 2.0, please click [here](https://www.ssi.gov.sg/about-us/tnm/){:target="_blank"}.
 
 All courses listed here are offered by the 7 selected SSA partners onboard TNM 2.0.
@@ -14,7 +13,7 @@ All courses listed here are offered by the 7 selected SSA partners onboard TNM 2
 
 | Course Title | Course Description | SSA Agency |
 | ------------ | -------------------- | ------------- | 
-| **Applying Theory of Change and Logic Model in Programme Planning (Classroom and Asynchronous E-learning)** | During this 1 day course, social service professionals will learn how to effectively develop and integrate these methods of programme development into their practice while understanding, conceptualizing and appreciating  the usefulness of these methods throughout programme lifespan. | [SHINE Children and Youth Services](https://www.shine.org.sg/training){:target="_blank"} |
+| **[Applying Theory of Change and Logic Model in Programme Planning (Classroom and Asynchronous E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0077){:target="_blank"}**<br>Register by 13 Mar 2023 | During this 1 day course, social service professionals will learn how to effectively develop and integrate these methods of programme development into their practice while understanding, conceptualizing and appreciating  the usefulness of these methods throughout programme lifespan. | [SHINE Children and Youth Services](https://www.shine.org.sg/training){:target="_blank"} |
 | **Understanding & supporting Children with Learning & behavioural needs (Classroom and Asynchronous E-learning)** | This two-half day course equips those in care services, such as student care officers, with basic knowledge in identifying types of learning and behavioural needs and knowledge on relevant support strategies and activities. The course will also introduce the ecological framework that can be practically applied in the care setting, and increase professional capability to systematically review needs of children, and provide relevant support services based on needs. |  [SHINE Children and Youth Services](https://www.shine.org.sg/training){:target="_blank"} |  
 | **Working Systemically with School Systems (Classroom and Asynchronous E-learning)** | This 1.5-day course aims to equip social service professionals, who practice in or with the school systems, with knowledge and skills to enable students to gain the most benefits from their schooling experiences. |  [SHINE Children and Youth Services](https://www.shine.org.sg/training){:target="_blank"} | 
 | **Building Rapport with and Creating Supportive Environment for Children (Classroom and Asynchronous E-learning)** | The two half-day course aims to enhance the professional capability of the Student Care Officers who work in the student care centres (SCCs). |  [SHINE Children and Youth Services](https://www.shine.org.sg/training){:target="_blank"} | 
@@ -102,5 +101,5 @@ All courses listed here are offered by the 7 selected SSA partners onboard TNM 2
 
 | Course Title | Course Description | SSA Agency |
 | ------------ | -------------------- | ------------- |
-| **Strategic Volunteer Partnerships for Impact (Classroom)** | This course equips Volunteer Management Practioners with the critical frameworks, practical skills, perspectives, and principles for effective volunteer partnerships. | [SHINE Children and Youth Services](https://www.shine.org.sg/training){:target="_blank"} |  
+| **[Strategic Volunteer Partnerships for Impact (Classroom)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0074){:target="_blank"}**<br>Register by 16 Mar 2023 | This course equips Volunteer Management Practioners with the critical frameworks, practical skills, perspectives, and principles for effective volunteer partnerships. | [SHINE Children and Youth Services](https://www.shine.org.sg/training){:target="_blank"} |  
 | **Support the Implementation of Volunteer Programmes (Classroom and Asynchronous E-learning)** | This course/module aims to equip learners with the knowledge and skills to implement volunteer programmes and manage conflicts according to organizational policies and code of practice. | [Samaritans of Singapore (SOS)](https://www.sos.org.sg/){:target="_blank"} |
