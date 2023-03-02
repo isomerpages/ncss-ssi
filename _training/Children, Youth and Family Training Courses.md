@@ -14,16 +14,16 @@ description: SSI’s children, youth and family courses provides learners with t
 - [Integrated Structured Decision Making 
 (SDM) and Partnering for Safety (PFS) for Out-of-Home Care (OHC) Case Management](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF485){:target="blank"}<br>Register by 26 May 2023
 
-### Indicate your interest for upcoming Children, Youth and Family Training Courses
+### **Indicate your interest for upcoming Children, Youth and Family Training Courses**
 
-##### Engagement
+##### **Engagement**
 - [Certified User for Child and Adolescents Needs and Strengths (CANS)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5894)
 - [Certified User for Youth Level of Services/Case Management Inventory (YLS/CMI) (Synchronous & Asynchronous E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5858)
 - [Introduction to Trauma informed Positive Behavioural Interventions and Supports for Children and Young Persons in Residential Care](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF278)
 
-##### Intervention & Treatment
+##### **Intervention & Treatment**
 
--[Family & Adult Support Tool (FAST) - User (Synchronous & Ascynchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5936)
+- [Family & Adult Support Tool (FAST) - User (Synchronous & Ascynchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5936)
 
 
 ### **Other Featured Courses in Children and Youth Development, Youth Counselling and Family Therapy**
