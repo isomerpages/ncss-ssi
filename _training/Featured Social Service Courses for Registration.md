@@ -12,8 +12,7 @@ description: SSI offers courses and training for social workers and the social
 ### **Course Schedule & Registration Dates** <br>
 * ##### [Registration period: Mar - May 2023](/files/Files%20for%20Learners/Monthly%20Featured%20Courses%20-%20Mar%20to%20May.pdf){:target="_blank"}
 
-## Featured Professional Certification Courses In Social Service
-
+## **Featured Professional Certification Courses In Social Service**
 <table>
 	<tbody><tr><td><a href="https://www.ssi.gov.sg/training/cet-programmes/" target="\_blank"><img src="/images/training/cet-v2.png" alt="Continuing Education & Training (CET) Courses"></a><h3>Advanced Certificate in Social Service</h3><a href="https://www.ssi.gov.sg/training/cet-programmes/advanced-certificate-in-social-service/" target="\_blank">Register by 29 Mar 2023</a><h3>Higher Diploma in Social Service</h3><a href="https://www.ssi.gov.sg/training/cet-programmes/higher-diploma-in-social-service/" target="\_blank">Register by 29 Mar 2023</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/cet-programmes/" target="\_blank">View other CET courses</a></p></td>
 		
