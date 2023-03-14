@@ -52,7 +52,7 @@ With the qualification attained, learners can apply for jobs as a Social Service
   
 Course fees must be paid prior to the course start date, upon the acceptance of offer and within the given timeline provided in the offer letter.
 
-Learners must achieve at least 75% attendance per module and be certified competent in all the assessment components in order to be eligible for SkillsFuture Singapore (SSG) funding. Learners or their sponsoring organisations will have to pay the full course fees in the event that the learners fail to meet the attendance/ assessment requirements and/or any other terms and conditions for SSG funding eligibility. Please refer to this [link](https://www.ssg.gov.sg/programmes-and-initiatives/training-grants/self-sponsored-training-for-individuals.html){:target="_blank"}  for more information on the SSG funding eligibility requirement.
+Learners must achieve at least 75% attendance per module and be certified competent in all the assessment components in order to be eligible for [SkillsFuture Singapore (SSG) funding](   https://www.ssi.gov.sg/training/funding-information/skillsfuture-singapore-funding/){:target="_blank"}. Learners or their sponsoring organisations will have to pay the full course fees in the event that the learners fail to meet the attendance/ assessment requirements and/or any other terms and conditions for SSG funding eligibility. 
 
 *Please note that course fees are subjected to changes.
 
@@ -74,10 +74,10 @@ Applicants to download and upload the completed [Application Form](/files/Files%
 Date: 1 Mar 2023
 <br>Venue: SSI (Level 18 Auditorium), Tiong Bahru Plaza
 <br> Time: 7pm
-<br>Do register via this [link](https://go.gov.sg/ssipreviewregistration){:target="_blank"}  to receive the a confirmation email 3 days before the actual session. 
+<br>[Register here for the preview session of SSI's ACSS course](https://go.gov.sg/ssipreviewregistration){:target="_blank"}. A confirmation email 3 days before the actual session. 
 
 ### Frequently Asked Questions (FAQs): ACSS
 
 Refer to this [link](/files/Files%20for%20Learners/FAQ-for-Advanced-Certificate-in-Social-Service%20_Jan%202023.pdf){:target="_blank"} for FAQs relating to this programme.
 
-[Application Guide (ACSS)](/files/Files%20for%20Learners/Application%20Guide%20(ACSS)%202023.pdf)
+Learn more about the application procedure from the [ACSS Application Guide (ACSS) here](/files/Files%20for%20Learners/Application%20Guide%20(ACSS)%202023.pdf)
