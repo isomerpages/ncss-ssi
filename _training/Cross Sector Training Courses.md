@@ -12,12 +12,12 @@ Cross Sector courses also cover a range of skills such as counselling, motivatio
   
 Some of the featured courses under this category are:
 
-##### **Registration Closing Soon: <br> Cross Sector Training Courses**
+##**Registration Closing Soon: <br> Cross Sector Training Courses**
 
 - [Understanding and Supporting People in Journey of Loss and Grief](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5856){:target="_blank"}<br>Register by 27 April 2023
 - [Family Law for Social Service Professionals](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NLAW5089){:target="_blank"}<br>Register by 25 May 2023
 
-##### **Other Featured Short Courses in Befriending, Case Management, Counselling and more:**
+### **Other Featured Short Courses in Befriending, Case Management, Counselling and more:**
 
 -   [Befriending Skills and Practice (For Volunteers)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311){:target="_blank"}   
 -   [Boleh Saya Anda? May I Help You? - Conversational Malay for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5647){:target="_blank"}   
@@ -30,7 +30,7 @@ Some of the featured courses under this category are:
 -   [Understanding the Social Service Sector](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET6-M){:target="_blank"} 
 -  [Understanding Singapore's Social Compact and Social Policies](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS400)
 
-### **Certificate/ Diploma/ Degree Programmes:**
+## **Cross Sector Certificate/ Diploma/ Degree Programmes:**
 
 -   [Advanced Certificate in Social Service](/training/cet-programmes/advanced-certificate-in-social-service/){:target="_blank"}  
 -   [Certificate in Para-Counselling](/training/cet-programmes/certificate-in-para-counselling/){:target="_blank"}     
@@ -46,7 +46,7 @@ The course, [Understanding the Social Service Sector](https://iltms.ssi.gov.sg/r
 
 [Motivational Interviewing: An Introduction for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5725){:target="_blank"}   , equips learners with the skills to engage and facilitate intrinsic motivation in their clients, in order to change behaviour and progress towards an improved well-being.
 
-### **Featured Adult Educators under Cross Sector Training Courses**
+## **Featured Adult Educators under Cross Sector Training Courses**
 
 **Ms Alice Lee-Tok**  
 Alice is the author of a parenting book titled ‘Building Bridges with your Teenagers’ and has more than 15 years of experience as a Family Education consultant and training specialist where she specialises in children and families. She is also a family counsellor, family life resource speaker and a certified behaviour analyst. Alice has conducted numerous interactive talks/workshops/trainings/supervisions for various client groups in different social service settings across Thailand, Malaysia and China. She has an Advanced Diploma in Early Childhood Studies, Bachelor of Arts in Children & Family Education from the Edith Cowan University (ECU) and Masters in Counselling with the University of South Australia (UniSA).  
@@ -67,6 +67,6 @@ Yeh Min holds a Bachelor in Social Sciences (Social Work Honours) from NUS. She 
 Terence is the divisional director of AMKFSC Community Services Ltd. (AMKFSC) and has more than 20 years of experience as a social worker supporting individuals and families in both the  
 healthcare and social service setting. He obtained his master’s and doctorate in Social Work from NUS and has also completed an advanced training in Family Therapy at the University of Calgary (UCalgary) in Canada. Terence has been lecturing in the Social Work undergraduate and post-graduate programmes at NUS and SUSS since 2008. He is an approved clinical supervisor with the University of Michigan, NUS, SUSS, Curtin and Swinburne University. His work had been published in professional journals and academic textbooks and he has presented in several local and international conferences.
 
-### **Subscribe to SSI’s Cross Sector Mailing List**
+## **Subscribe to SSI’s Cross Sector Mailing List**
 
-Subscribe to SSI’s Cross Sector Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
+Click [here to join SSI’s Cross Sector Mailing List SSI's](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
