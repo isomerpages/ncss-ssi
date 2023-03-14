@@ -35,7 +35,6 @@ The skills and knowledge for this course, which the learner is assumed to posses
 Learners will be assessed for competence in this course through a written test and role play exercise. They will need to be graded 'Competent' in both the written test and role play exercise in order to successfully complete the course.
 
 ## **Course Details**
-
 ### **Module 1: Introduction to Counselling**
 
 -   Introduction to counselling & the role of para-counsellors.
