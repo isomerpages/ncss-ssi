@@ -12,7 +12,7 @@ Cross Sector courses also cover a range of skills such as counselling, motivatio
   
 Some of the featured courses under this category are:
 
-##**Registration Closing Soon: <br> Cross Sector Training Courses**
+## **Registration Closing Soon: <br> Cross Sector Training Courses**
 
 - [Understanding and Supporting People in Journey of Loss and Grief](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5856){:target="_blank"}<br>Register by 27 April 2023
 - [Family Law for Social Service Professionals](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NLAW5089){:target="_blank"}<br>Register by 25 May 2023
