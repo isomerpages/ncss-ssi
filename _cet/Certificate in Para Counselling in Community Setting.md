@@ -4,7 +4,7 @@ permalink: /training/cet-programmes/certificate-in-para-counselling/
 description: SSI paracounselling course equips you with basic counselling skills
   needed to work with certified counselling professionals.
 ---
-## **Overview: Certificate in Para Counselling in Community Setting **
+## **Overview: Certificate in Para Counselling in Community Setting**
 
 This course equips learners with the fundamental knowledge and skills in counselling that is required when working alongside certified counselling professionals.
 
