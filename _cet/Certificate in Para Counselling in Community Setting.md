@@ -8,7 +8,7 @@ description: SSI paracounselling course equips you with basic counselling skills
 
 This course equips learners with the fundamental knowledge and skills in counselling that is required when working alongside certified counselling professionals.
 
-## **Learning Outcomes: Paea Counselling**
+## **Learning Outcomes: Para Counselling**
 
 By the end of the course, learners will be able to:
 
