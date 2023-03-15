@@ -68,7 +68,7 @@ This module focuses on the role and responsibilities of a professional job coach
 
 **Registration closing date:** Friday, 23 Dec 2022. Registration for this run closes on 23 Dec 2022, and reopens 1-12 Jan 2023.
 
-[Click here](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS8){:target="_blank"} to register online.
+[Register for the ACSE Course here](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS8){:target="_blank"}.
 
 ----------
 
