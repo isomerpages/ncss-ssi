@@ -4,7 +4,7 @@ permalink: /training/cet-programmes/advanced-certificate-in-social-service/
 description: SSI's Advanced Certificate in Social Service equips learners with
   the horizontal skills necessary to be a Social Service Assistant.
 ---
-## Overview: Advanced Certificate in Social Services Course
+## Overview: Advanced Certificate in Social Service Course
 
 The Advanced Certificate in Social Service is a foundational programme that aims to equip learners with the necessary knowledge and skills to be collaborative, client-centric, compassionate and resilient individuals who are able to carry out their roles effectively when working with clients, partners and stakeholders. The programme further equips learners with the knowledge, skills and attitudes required in para-counselling. This allows them to provide service support to various clients and when working with volunteers in social service agencies (SSAs), communities and institutional settings.  
   
@@ -70,7 +70,7 @@ Applicants to download and upload the completed [Application Form](/files/Files%
 
 *Applicants may also be called to attend an online interview with the selection panel on the dates specified above. Applicants will receive an email from SSI informing them about the assigned interview date and time and are required to make themselves available for the interview accordingly. Requests for alternative arrangements will not be considered.
 
-## Preview Session
+## Register for a Free Preview Session Here
 Date: 1 Mar 2023
 <br>Venue: SSI (Level 18 Auditorium), Tiong Bahru Plaza
 <br> Time: 7pm
