@@ -71,6 +71,9 @@ Applicants to download and upload the completed [Application Form](/files/Files%
 *Applicants may also be called to attend an online interview with the selection panel on the dates specified above. Applicants will receive an email from SSI informing them about the assigned interview date and time and are required to make themselves available for the interview accordingly. Requests for alternative arrangements will not be considered.
 
 ## Register for a Free Preview Session Here
+
+*Watch this space for the next preview session*
+
 Date: 1 Mar 2023
 <br>Venue: SSI (Level 18 Auditorium), Tiong Bahru Plaza
 <br> Time: 7pm
