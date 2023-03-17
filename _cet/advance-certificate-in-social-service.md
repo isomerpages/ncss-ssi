@@ -4,13 +4,13 @@ permalink: /training/cet-programmes/advanced-certificate-in-social-service/
 description: SSI's Advanced Certificate in Social Service equips learners with
   the horizontal skills necessary to be a Social Service Assistant.
 ---
-### Overview
+## Overview: Advanced Certificate in Social Service Course
 
 The Advanced Certificate in Social Service is a foundational programme that aims to equip learners with the necessary knowledge and skills to be collaborative, client-centric, compassionate and resilient individuals who are able to carry out their roles effectively when working with clients, partners and stakeholders. The programme further equips learners with the knowledge, skills and attitudes required in para-counselling. This allows them to provide service support to various clients and when working with volunteers in social service agencies (SSAs), communities and institutional settings.  
   
 The qualification obtained from completing this foundational programme will promote the development and enhancement of horizontal skills necessary to perform the role of a Social Service Assistant. There are five WSQ modules and five non-WSQ modules in this programme. Successful completion of the programme will provide learners with the academic/qualification pathway to progress further in their journey to upskill themselves. Graduands from this programme will be eligible to apply for the SSI Higher Diploma in Social Service (HDSS), which articulates to the Bachelor of Social Work programme offered by the Singapore University of Social Sciences (SUSS).  
   
-### Entry Requirements
+## Course Requirements and Eligibility
 
 Applicants must:
 
@@ -32,15 +32,15 @@ Learners will be assessed through a combination of written assessments, written 
 
 Mandatory Components: Programme Orientation (date: TBC)
 
-### Qualifications Awarded and Career Prospects
+## Social Service Course: Certificates and Career Prospects
 
 Upon successful completion of all five WSQ modules, learners will be awarded with an individual Statement of Attainment (SOA) for the five modules.  
   
 Upon completion of all ten modules, learners will be awarded an Advanced Certificate in Social Service.  
   
-With the qualification attained, learners can apply for jobs as a Social Service Assistant or as senior house parents, programme coordinators, senior home helpers and home care workers. Click  [here](https://www.ncss.gov.sg/social-service-tribe/careerdetail/Social-Work){:target="_blank"} to find out more.
+With the qualification attained, learners can apply for jobs as a Social Service Assistant or as senior house parents, programme coordinators, senior home helpers and home care workers. [Learn more about Social Work jobs](https://www.ncss.gov.sg/social-service-tribe/careerdetail/Social-Work){:target="_blank"}  and their required qualifications. 
 
-### Course Details
+## Course Details
 
 **Cohort Size:** 20 pax.  
 **Programme Duration:** 13 months. This is a part time course with lessons being conducted two to three times a week.  
@@ -52,12 +52,12 @@ With the qualification attained, learners can apply for jobs as a Social Service
   
 Course fees must be paid prior to the course start date, upon the acceptance of offer and within the given timeline provided in the offer letter.
 
-Learners must achieve at least 75% attendance per module and be certified competent in all the assessment components in order to be eligible for SkillsFuture Singapore (SSG) funding. Learners or their sponsoring organisations will have to pay the full course fees in the event that the learners fail to meet the attendance/ assessment requirements and/or any other terms and conditions for SSG funding eligibility. Please refer to this [link](https://www.ssg.gov.sg/programmes-and-initiatives/training-grants/self-sponsored-training-for-individuals.html){:target="_blank"}  for more information on the SSG funding eligibility requirement.
+Learners must achieve at least 75% attendance per module and be certified competent in all the assessment components in order to be eligible for [SkillsFuture Singapore (SSG) funding](   https://www.ssi.gov.sg/training/funding-information/skillsfuture-singapore-funding/){:target="_blank"}. Learners or their sponsoring organisations will have to pay the full course fees in the event that the learners fail to meet the attendance/ assessment requirements and/or any other terms and conditions for SSG funding eligibility. 
 
 *Please note that course fees are subjected to changes.
 
 
-### Application Guidelines
+## Course Application Guidelines & Dates
 Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI%20ACSS%20Application%20Form%20(Feb-Mar%202023).pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-1){:target="_blank"}  between 15 Feb - 29 Mar 2023.
 
 
@@ -70,14 +70,17 @@ Applicants to download and upload the completed [Application Form](/files/Files%
 
 *Applicants may also be called to attend an online interview with the selection panel on the dates specified above. Applicants will receive an email from SSI informing them about the assigned interview date and time and are required to make themselves available for the interview accordingly. Requests for alternative arrangements will not be considered.
 
-### Preview Session
+## Register for a Free Preview Session Here
+
+*Watch this space for the next preview session*
+
 Date: 1 Mar 2023
 <br>Venue: SSI (Level 18 Auditorium), Tiong Bahru Plaza
 <br> Time: 7pm
-<br>Do register via this [link](https://go.gov.sg/ssipreviewregistration){:target="_blank"}  to receive the a confirmation email 3 days before the actual session. 
+<br>[Register here for the preview session of SSI's ACSS course](https://go.gov.sg/ssipreviewregistration){:target="_blank"}. A confirmation email 3 days before the actual session. 
 
-### FAQs
+### Frequently Asked Questions (FAQs): ACSS
 
 Refer to this [link](/files/Files%20for%20Learners/FAQ-for-Advanced-Certificate-in-Social-Service%20_Jan%202023.pdf){:target="_blank"} for FAQs relating to this programme.
 
-[Application Guide (ACSS)](/files/Files%20for%20Learners/Application%20Guide%20(ACSS)%202023.pdf)
+Learn more about the application procedure from the [ACSS Application Guide (ACSS) here](/files/Files%20for%20Learners/Application%20Guide%20(ACSS)%202023.pdf)
