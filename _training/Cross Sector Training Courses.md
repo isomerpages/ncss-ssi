@@ -4,7 +4,7 @@ permalink: /training/cross-sector/
 description: SSI’s cross sector courses provide an overview and understanding of
   each sub-sector and their unique social needs.
 ---
-![Social Service Institute (SSI) Singapore - Counselling, Motivational Interviewing & Behaviour Therapy Courses](/images/cross-sector-banner.png)
+![Social Service Institute (SSI) Singapore - Counselling, Motivational Interviewing &amp; Behaviour Therapy Courses](/images/cross-sector-banner.png)
 
 These courses provide a deeper understanding about each sub-sector, their unique social needs and help learners to critically discern and analyse their own assumptions.  
   
@@ -16,6 +16,10 @@ Some of the featured courses under this category are:
 
 - [Understanding and Supporting People in Journey of Loss and Grief](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5856){:target="_blank"}<br>Register by 27 April 2023
 - [Family Law for Social Service Professionals](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NLAW5089){:target="_blank"}<br>Register by 25 May 2023
+- [Building Emotional Resilience in Caregiving](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5451){:target="_blank"}<br>Register by 23 Jul 2023
+- [Enhancing Effectiveness of Social Service Programmes](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS484){:target="_blank"}<br>Register by 2 Aug 2023
+- [Professional Certificate in Group Work (NSWCF Foundational)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS28){:target="_blank"}<br>Register by 3 Aug 2023
+- [Resilience and Self-Care for Social Service Professionals](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS453){:target="_blank"}<br>Register by 5 Aug 2023
 
 ### **Other Featured Short Courses in Befriending, Case Management, Counselling and more:**
 
@@ -49,7 +53,7 @@ The course, [Understanding the Social Service Sector](https://iltms.ssi.gov.sg/r
 ## **Featured Adult Educators under Cross Sector Training Courses**
 
 **Ms Alice Lee-Tok**  
-Alice is the author of a parenting book titled ‘Building Bridges with your Teenagers’ and has more than 15 years of experience as a Family Education consultant and training specialist where she specialises in children and families. She is also a family counsellor, family life resource speaker and a certified behaviour analyst. Alice has conducted numerous interactive talks/workshops/trainings/supervisions for various client groups in different social service settings across Thailand, Malaysia and China. She has an Advanced Diploma in Early Childhood Studies, Bachelor of Arts in Children & Family Education from the Edith Cowan University (ECU) and Masters in Counselling with the University of South Australia (UniSA).  
+Alice is the author of a parenting book titled ‘Building Bridges with your Teenagers’ and has more than 15 years of experience as a Family Education consultant and training specialist where she specialises in children and families. She is also a family counsellor, family life resource speaker and a certified behaviour analyst. Alice has conducted numerous interactive talks/workshops/trainings/supervisions for various client groups in different social service settings across Thailand, Malaysia and China. She has an Advanced Diploma in Early Childhood Studies, Bachelor of Arts in Children &amp; Family Education from the Edith Cowan University (ECU) and Masters in Counselling with the University of South Australia (UniSA).  
   
 **Mr. Edwin Sam**  
 Edwin holds a Master in Public Administration from the Lee Kuan Yew School of Public Policy at the National University of Singapore (NUS). He has an Advanced Certificate in Training and Assessment (ACTA) and is also a certified administrator of both the Myers-Briggs Type Indicator (MBTI) and DISC. Edwin has experience with working with the government and civil society in close to ten Asia-Pacific countries in the areas of consulting, training, capacity building and volunteer management. He was the executive director of a regional NGO and has designed and managed training programmes in the healthcare and education sectors in South Asia, namely India and Sri Lanka.  
