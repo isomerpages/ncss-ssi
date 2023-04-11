@@ -15,7 +15,7 @@ description: SSI’s children, youth and family courses provides learners with t
 (SDM) and Partnering for Safety (PFS) for Out-of-Home Care (OHC) Case Management](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF485){:target="blank"}<br>Register by 26 May 2023
 - [Helping Youths Cope with Anger](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5158){:target="blank"}<br>Register by 17 Jun 2023
 - [Helping youth with sexuality issues through casework implementation](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SST0494){:target="blank"}<br>Register by 21 Jun 2023
-- Support the implementation of youth outreach plans to work with clients in social service sectors - Coming soon
+- Support the implementation of youth outreach plans to work with clients in social service sectors - *Coming soon*
 
 ### **Other Featured Courses in Children and Youth Development, Youth Counselling and Family Therapy**
 
