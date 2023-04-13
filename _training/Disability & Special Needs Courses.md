@@ -1,5 +1,5 @@
 ---
-title: Disability & Special Needs Courses
+title: Disability &amp; Special Needs Courses
 permalink: /training/disability/
 description: SSI provides short courses, certificates, diploma and degree
   programmes to help learners empower and help persons with disabilities.
@@ -8,9 +8,11 @@ description: SSI provides short courses, certificates, diploma and degree
 
 ## Registration Closing Soon: Disability Training Courses
 
-- [Principles and Practices of Early Intervention for Children with Special Needs – Module 1](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS463){:target="_blank"}<br>Register by 17 April 2023
 -   [Reflexive Practice for Special Needs and Early Intervention Professionals](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS88){:target="_blank"}<br>Register by 27 April 2023
 -   [Working with Persons with Autism](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS87){:target="_blank"}<br>Register by 3 May 2023
+-   [Guide the implementation of improved approaches in Early Intervention Teaching](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS84){:target="_blank"}<br>Register by 12 May 2023
+-   [Introduce Classroom and Behaviour Management Strategies in Early Intervention Teaching](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS86){:target="_blank"}<br>Register by 12 Jul 2023
+-   [Develop an Inclusive Lesson Plan in Early Intervention Teaching](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS85){:target="_blank"}<br>Register by 9 Aug 2023
 
 ### **Other Featured Short Courses in Early Childhood Interventions and Managing Disabilities**
 -   [WSQ Principles and Practices of Early Intervention for Children with Special Needs Module 1](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS463){:target="_blank"}   
@@ -45,7 +47,7 @@ Check out the [full list of SSI's Disability courses here.](https://iltms.ssi.go
 June was the Executive Director of Rainbow Centre before she retired in 2014. She holds a Master of Education, Diploma in Management Studies, Certification of Achievement in Outcome Management: Train-The-Trainer, Early Childhood Intervention, Treatment and Education of Autistic and Related Communication Handicapped Children (TEACCH) and Advanced Certification in Training and Assessment (ACTA). She was one of the two pioneer scholars from Singapore to have successfully completed the “Strategic Perspectives in Non-Profit Management” Programme in July 2008 at the Harvard Business School (HBS).  
   
 **Ms. Linda Prebhash**  
-Linda is a Principal Trainer & Consultant with Rainbow Centre Training and Consultancy (RCTC). She has been in the special education sector since 1988 and her experience in various capacities enables her to provide a holistic perspective in conferences at Singapore and the Asia-Pacific region. She is trained in the Treatment and Education of Autistic and other Related Communication handicapped Children (TEACCH). Besides this, she also serves as a volunteer on the Board of Special Olympics (Singapore) which she has been actively involved in for over 22 years. She believes that through sports, persons with special needs can learn life skills that goes beyond the achievement of athletic abilities.  
+Linda is a Principal Trainer &amp; Consultant with Rainbow Centre Training and Consultancy (RCTC). She has been in the special education sector since 1988 and her experience in various capacities enables her to provide a holistic perspective in conferences at Singapore and the Asia-Pacific region. She is trained in the Treatment and Education of Autistic and other Related Communication handicapped Children (TEACCH). Besides this, she also serves as a volunteer on the Board of Special Olympics (Singapore) which she has been actively involved in for over 22 years. She believes that through sports, persons with special needs can learn life skills that goes beyond the achievement of athletic abilities.  
   
 **Prof. Emeritus Trevor R. Parmenter**  
 Trevor is the former Director of the Centre for Disability Studies (CDS). He held the position of Foundation Chair of Developmental Disabilities within the Faculty of Medicine and is an Honorary Professor in Education with the Faculty of Education and Social Work as well as an Honorary Professor in the Faculty of Health Science at the University of Sydney (UniSyd). He is an Adjunct Professor in the School of Rural Medicine at the University of New England (UNE). His international academic standing in the field of developmental disability is marked by his former appointment as President of the International Association for the Scientific Study of Intellectual and Developmental Disabilities (IASSIDD) as well as his role as a Board Member of the American Association on Intellectual and Developmental Disability (AAIDD).
