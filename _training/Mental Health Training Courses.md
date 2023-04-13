@@ -4,7 +4,13 @@ permalink: /training/mental-health/
 description: SSI's mental health courses provides social service professionals
   with the skills to work with persons with mental health conditions.
 ---
-![Social Service Institute (SSI) Singapore - Mental Health Conditions & Recovery Courses](/images/mental-health-banner.png)
+![Social Service Institute (SSI) Singapore - Mental Health Conditions &amp; Recovery Courses](/images/mental-health-banner.png)
+
+### **Registration closing soon: <br> Mental Health Training Courses**
+
+- [Foundations of Psycho-Social Rehabilitation and Recovery](https://iltms.ssi.gov.sg/registration#/Course?coursecode=SMTH387){:target="blank"}<br>Register by 13 Jun 2023
+- [Mental Illness and Family](https://iltms.ssi.gov.sg/registration#/Course?coursecode=SDIS5501){:target="blank"}<br>Register by 6 Jul 2023
+- [Embrace Mental Health](https://iltms.ssi.gov.sg/registration#/Course?coursecode=SMTH314){:target="blank"}<br>Register by 13 Jul 2023
 
 ### **Other Featured Courses in Mental Health, Suicide Prevention and Psychiatric Rehabilitation**
 -   [Applied Suicide Interventional Skills (ASIST)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5709){:target="_blank"}   
@@ -45,7 +51,7 @@ Terence is the divisional director of AMKFSC and has more than 17 years of exper
 
 **Mr Wong Lit Shoon**  
 Lit Soon’s career in the healthcare, social service and eldercare fields spans over 30 years. He was previously the executive director of SAGE Counselling Centre, Sunshine Welfare Action Mission (SWAMI) Home, manager of medical social services at Ren Ci Hospital (RCLA), a social worker/counsellor at the Singapore Association for Mental Health (SAMH) and a staff nurse at the National University Hospital (NUH) and Singapore General Hospital (SGH).
-He holds a Master of Arts degree in Applied Psychology from the Nanyang Technological University (NTU), a Bachelor of Arts in Psychology & Social Work from NUS, a Post-Graduate Diploma in Art Psychotherapy from Goldsmiths, University of London, an Advanced Diploma in Fine Arts & Design from the Nanyang Academy of Fine Arts (NAFA) and a Certificate in General Nursing from the School of Nursing, Singapore.
+He holds a Master of Arts degree in Applied Psychology from the Nanyang Technological University (NTU), a Bachelor of Arts in Psychology &amp; Social Work from NUS, a Post-Graduate Diploma in Art Psychotherapy from Goldsmiths, University of London, an Advanced Diploma in Fine Arts &amp; Design from the Nanyang Academy of Fine Arts (NAFA) and a Certificate in General Nursing from the School of Nursing, Singapore.
 
 
 ## Subscribe to SSI’s Mental Health Mailing List

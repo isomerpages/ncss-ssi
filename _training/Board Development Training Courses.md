@@ -6,6 +6,10 @@ description: SSI provides courses that develop learners' competencies to
 ---
 ![Social Service Institute (SSI) Singapore - Board Development Courses](/images/board-development-banner.png)
 
+### **Registration closing soon: <br> Board Development Training Courses**
+
+- [Multipliers: How The Best Leaders Ignite Everyone's Intelligence -  Franklin Covey Singapore] - *Coming soon*
+
 Developed in partnership with the Singapore Institute of Directors (SID), the Singapore Governance for Outstanding Organisation Directors Programme (S-GOOD), provides competencies to efficiently and effectively conduct Board functions.  
   
 The programme includes eight modules which are as shown below:

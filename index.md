@@ -20,14 +20,12 @@ sections:
       background: /images/homepage/Home_Banner.jpg
       url: /contact-us/
       key_highlights:
-        - title: THE FUTURE OF GLOBAL SOCIAL WORK
-          description: Join us on 23 March 2023 at 9:30am for the GSW Talk organised
-            by  the Global Institute of Social Work (GISW) where Dr Darla
-            Coffey, former President and CEO of CSWE will discuss trends in
-            social work education and the future of the field from a global
-            perspective. Register now for this event held at Social Service
-            Institute (SSI)!
-          url: https://forms.gle/Xdwt9ahaou2mLhb47
+        - title: LEAVE US YOUR FEEDBACK
+          description: "SSI is gathering feedback on our training and courses. If you are
+            an aspiring or current Social Service Professional, we want to hear
+            from you! Leave us your feedback to help us improve our training and
+            course offerings. "
+          url: https://form.gov.sg/62c3df59e2dadd0011ca3cbf
         - title: Higher Diploma in Social Service
           description: The HDSS provides an articulation pathway into the Bachelor of
             Social Work at Singapore University of Social Services (SUSS). This

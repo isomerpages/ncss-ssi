@@ -4,7 +4,7 @@ permalink: /training/cyandf/
 description: SSI’s children, youth and family courses provides learners with the
   skills to work with children, youth and families.
 ---
-![Children & Youth Development, Family Therapy / Family Violence Courses: Equip volunteers with skills to work with children, youth and families.](/images/cyf-banner.png)
+![Children &amp; Youth Development, Family Therapy / Family Violence Courses: Equip volunteers with skills to work with children, youth and families.](/images/cyf-banner.png)
 
 ### **Registration closing soon: <br> Children, Youth and Family Training Courses**
 
@@ -13,11 +13,14 @@ description: SSI’s children, youth and family courses provides learners with t
 - [Management of Family Violence: Talking to Children and Managing Abuse-Related Disclosure](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5502){:target="blank"}<br>Register by 20 May 2023
 - [Integrated Structured Decision Making 
 (SDM) and Partnering for Safety (PFS) for Out-of-Home Care (OHC) Case Management](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF485){:target="blank"}<br>Register by 26 May 2023
+- [Helping Youths Cope with Anger](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5158){:target="blank"}<br>Register by 17 Jun 2023
+- [Helping youth with sexuality issues through casework implementation](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SST0494){:target="blank"}<br>Register by 21 Jun 2023
+- Support the implementation of youth outreach plans to work with clients in social service sectors - *Coming soon*
 
 ### **Other Featured Courses in Children and Youth Development, Youth Counselling and Family Therapy**
 
  - [An Introduction to Family Therapy](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5646){:target="_blank"}  
- - [Certified User for Child & Adolescent Needs & Strengths (CANS)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5894){:target="_blank"}  
+ - [Certified User for Child &amp; Adolescent Needs &amp; Strengths (CANS)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5894){:target="_blank"}  
  - [Certified User for Youth Level of Service/ Case Management (YLS/CMI)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5858){:target="_blank"}   
  - [Child Abuse Reporting Guide](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF434){:target="_blank"} 
  - [Delivering Impactful Training to Youths](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5340){:target="_blank"} 
@@ -29,7 +32,7 @@ description: SSI’s children, youth and family courses provides learners with t
  - [Implementing Trauma Informed Positive Behavioural Interventions and Supports for Children and Young Persons in Residential Care](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF294){:target="_blank"}  
  - Management of Family Violence: Management of Elder Abuse and Neglect - Coming Soon!
  - [Management of Family Violence: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF197){:target="_blank"}
- - [Management of Family Violence: Organisational Approaches to Child Safe Practices for Centre & Team Leads](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF257){:target="_blank"}  
+ - [Management of Family Violence: Organisational Approaches to Child Safe Practices for Centre &amp; Team Leads](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF257){:target="_blank"}  
  - [Management of Family Violence: Organisational Approaches to Child Safe Practices for Frontline Staff](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF258){:target="_blank"}   
   - [Safety Planning and Monitoring - A 5.5-Step Model](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF233){:target="_blank"} 
  - [Understanding Family Violence](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF437){:target="_blank"} 
@@ -67,5 +70,5 @@ Tony has worked with children and families for more than 10 years, in both the p
 **Dr Quah Saw Han**   
 Saw Han previously worked with MSF as a clinical psychologist before heading a research and programme evaluation unit. As a clinical psychologist, she worked with children, young persons and their parents in relation to child protection, juvenile crime and family issues. She is a certified user and trainer for the Transformational and Collaborative Outcome Management (TCOM) implementation framework: Child and Adolescent Needs and Strengths (CANS) and Family and Adult Support Tool (FAST). She has been recognised by the original developer of TCOM, Dr. John Lyons, as one of the local trainers who can train trainers on the use of CANS. She is familiar with the process of TCOM implementation, and was in the pilot project and early phases of TCOM implementation in Singapore.
 
-## Subscribe to SSI’s Children, Youth & Family Mailing List   
+## Subscribe to SSI’s Children, Youth &amp; Family Mailing List   
 Subscribe to SSI’s Children, Youth and Family Courses Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
