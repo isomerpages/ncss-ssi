@@ -9,20 +9,18 @@ description: SSI provides courses that train learners in management, leadership,
 ## **Registration now open: <br>Management and Organisation Development Training Courses**
 
 ### **Strategy**
-- [Strategic Formulation by DPI Asia](https://www.dpi-asia.com/post/strategy-formulation-pure-simple){:target="_blank"}<br>Register by: 15 Mar 2023
+- [Strategic Formulation - DPI Asia](https://www.dpi-asia.com/post/strategy-formulation-pure-simple){:target="_blank"}<br>Register by: 15 Mar 2023
 
 ### **People Management and Leadership**
-- [Innovation and Change Management - Capelle](https://www.capelleconsulting.com/innovation-and-change-management-sfw-synchronous-e-learning/){:target="_blank"}<br>Register by: 8 Mar 2023
-- [Critical Thinking - Capelle](https://www.capelleconsulting.com/critical-thinking/){:target="_blank"}<br>Register by: 10 Mar 2023
-- [Leveraging Diversity and Building Inclusivity - Capelle](https://www.capelleconsulting.com/diversity-inclusivity/){:target="_blank"}<br>Register by: 16 Mar 2023
-- [The 7 Habits of Highly Effective People - Franklin Covey Singapore](https://go.gov.sg/franklincovey-ssi-7habits-april-23){:target="_blank"}<br>Register by: 24 March 2023
+- [Group Excellence - Capelle](https://www.capelleconsulting.com/group-excellence-sfw/){:target="_blank"}<br>Register by: 30 Apr 2023
+- [Emotional Intelligence: Let’s get to the same page - Capelle](https://www.capelleconsulting.com/emotional-intelligence-same-page/){:target="_blank"}<br>Register by: 8 May 2023
+- [Multipliers: How the Best Leaders Ignite Everyone's Intelligence - Franklin Covey Singapore](https://forms.zohopublic.com/zohoone1624341499424/form/RegistrationformforMultipliersHowtheBestLeadersIgn/formperma/BMBdtjip0PX1lQHU69BREVt4H_M_H7iD6wgkl6uJi8U){:target="_blank"}<br>Register by: 17 May 2023
+- [Critical Thinking - Capelle](https://www.capelleconsulting.com/critical-thinking/){:target="_blank"}<br>Register by: 29 May 2023
+- [Leveraging Diversity and Building Inclusivity - Capelle](https://www.capelleconsulting.com/diversity-inclusivity/){:target="_blank"}<br>Register by: 31 May 2023
+- [Innovation and Change Management - Capelle](https://www.capelleconsulting.com/innovation-and-change-management-sfw-synchronous-e-learning/){:target="_blank"}<br>Register by: 7 Jun 2023
 
-### **Workplace Safety and Health**
-- [Maintain Workplace Safety and Health (WSH) in Social Service Agencies - Singapore Institute of Technology (SIT)](https://go.gov.sg/maintain-workplace-safety-health){:target="_blank"}<br>Register by: 15 Mar 2023
 
-- [Introduction to Occupational Health & Safety Management System - Singapore Institute of Technology (SIT)](https://go.gov.sg/occupational-health-safety){:target="_blank"}<br>Register by: 21 Apr 2023
-
-### **Featured Courses: Leadership Development & Management For Non-Profit OrganisationsFeatured SSI's courses in Leadership Development, Financial Management, Facilities Management and Branding for Non-Profit Organisations:**
+### **Featured Courses: Leadership Development &amp; Management For Non-Profit OrganisationsFeatured SSI's courses in Leadership Development, Financial Management, Facilities Management and Branding for Non-Profit Organisations:**
 -   [Branding Non-profits: An Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCOF243){:target="_blank"} 
 - [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5073){:target="_blank"} 
 - [Teambuilding and leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT6014){:target="_blank"} 
@@ -37,18 +35,15 @@ description: SSI provides courses that train learners in management, leadership,
 -   [Strategy Formulation by DPI Asia](https://www.dpi-asia.com/post/strategy-formulation-pure-simple){:target="_blank"}
 -   [The 7 Habits of Highly Effective People by Franklin Covey](){:target="_blank"}
 -   [Authentic Leadership Conversations by Erevna Leadership](http://www.erevnaleadership.com/authentic-leadership-conversations.html){:target="_blank"}
--   [Group Excellence by Capelle Consulting](https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&wdLOR=c02FF4AA9-A7A4-4B9C-B187-D439BDFDFC3C){:target="_blank"}
--   [3-D People Development by Capelle Consulting](https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&wdLOR=c02FF4AA9-A7A4-4B9C-B187-D439BDFDFC3C){:target="_blank"}
+-   [Group Excellence by Capelle Consulting](https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&amp;wdLOR=c02FF4AA9-A7A4-4B9C-B187-D439BDFDFC3C){:target="_blank"}
+-   [3-D People Development by Capelle Consulting](https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&amp;wdLOR=c02FF4AA9-A7A4-4B9C-B187-D439BDFDFC3C){:target="_blank"}
 
 Search for more Management and Organisation Development courses on [our iLTMS course portal here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}. 
 
 ### Featured Adult Educators under Management and Organisation Development Training Courses
 
 **Ms Anita Yap**   
-Anita is the principal coach & facilitator of a boutique coaching, facilitation and training firm dedicated to helping individuals and organisations achieve their goals through dialogue, learning and inspired actions. When conducting workshops, Anita is an enthusiastic and lively trainer with a passion for helping her learners to transfer the skills and knowledge from the classroom to their work and personal life. Learners who have experienced Anita’s workshops have described her as “inspiring”, “professional” and “exuding passion and enthusiasm”. An energetic facilitator with international experience, Anita has worked with clients in Singapore, China, Cambodia, Laos, Macau, Myanmar and Vietnam. As a certified professional coach, Anita has been coaching executives in the areas of personal leadership, career transitions and life issues.
-
-**Dr Christopher Fong**   
-Christopher brings a wealth of knowledge and experience from both the concert hall and the corporate boardroom. Recognised as one of Singapore’s thought leaders in people innovation and creativity, he currently coaches and mentor business leaders on leadership, talent strategy and development. Prior to this, he was a clinical psychologist specialising in personality profiling and multicultural research in the health and pharmaceutical industries and was engaged by the singapore government both in the education and manpower ministries as a consultant.
+Anita is the principal coach &amp; facilitator of a boutique coaching, facilitation and training firm dedicated to helping individuals and organisations achieve their goals through dialogue, learning and inspired actions. When conducting workshops, Anita is an enthusiastic and lively trainer with a passion for helping her learners to transfer the skills and knowledge from the classroom to their work and personal life. Learners who have experienced Anita’s workshops have described her as “inspiring”, “professional” and “exuding passion and enthusiasm”. An energetic facilitator with international experience, Anita has worked with clients in Singapore, China, Cambodia, Laos, Macau, Myanmar and Vietnam. As a certified professional coach, Anita has been coaching executives in the areas of personal leadership, career transitions and life issues.
 
 **Ms Jessica Hong**   
 Jessica is a chartered accountant and holds a Bachelor of Accountancy from the University of Malaya. She completed her post-graduate studies in a management development programme at INSEAD, Singapore. Her career with PricewaterhouseCoopers (PwC) has given her invaluable experience in areas such as system assurance, management assurance, audit, fraud investigations, system implementations and due diligence.
