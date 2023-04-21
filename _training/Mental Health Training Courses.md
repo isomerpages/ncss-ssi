@@ -17,7 +17,7 @@ description: SSI's mental health courses provides social service professionals
 -   [E.M.B.R.A.C.E Mental Health](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SMTH314){:target="_blank"}
 -   [Management of Depression in Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5442){:target="_blank"}   
 -   [Mental Illness and Recovery](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS5911){:target="_blank"}   
--   Psychiatric Rehabilitation in Welfare Homes - Coming Soon!
+-   [Skills-Based Psychiatric Rehabilitation](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS6109){:target="_blank"} 
 -   [Suicide Prevention and Management for Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5587){:target="_blank"}   
 
 For the full list of Mental Health courses offered by SSI, follow this  [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}.
