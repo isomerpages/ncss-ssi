@@ -1,5 +1,5 @@
 ---
-title: Disability &amp; Special Needs Courses
+title: Disability & Special Needs Courses
 permalink: /training/disability/
 description: SSI provides short courses, certificates, diploma and degree
   programmes to help learners empower and help persons with disabilities.
@@ -8,9 +8,7 @@ description: SSI provides short courses, certificates, diploma and degree
 
 ## Registration Closing Soon: Disability Training Courses
 
--   [Reflexive Practice for Special Needs and Early Intervention Professionals](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS88){:target="_blank"}<br>Register by 27 April 2023
--   [Working with Persons with Autism](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS87){:target="_blank"}<br>Register by 3 May 2023
--   [Guide the implementation of improved approaches in Early Intervention Teaching](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS84){:target="_blank"}<br>Register by 12 May 2023
+-   [Principles and Practices of Early Intervention for Children with Special Needs – Module 1](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS463){:target="_blank"}<br>Register by 23 Jun 2023
 -   [Introduce Classroom and Behaviour Management Strategies in Early Intervention Teaching](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS86){:target="_blank"}<br>Register by 12 Jul 2023
 -   [Develop an Inclusive Lesson Plan in Early Intervention Teaching](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS85){:target="_blank"}<br>Register by 9 Aug 2023
 
