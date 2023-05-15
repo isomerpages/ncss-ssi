@@ -47,7 +47,6 @@ This module provides social workers with the knowledge and skills to analyse, mo
 -   Prepare social reports in accordance to organisational practices.
 
 Note:  
-This course qualifies for CPE credits with the renewal of accreditation at one credit per one training hour.  
-For enquiries, please contact the SASW Accreditation Secretariat at Tel: 6778 7922 or email: <accreditation@sasw.org.sg>  
+This course qualifies for CPE credits, with the renewal of accreditation at one credit per one training hour. (For further enquiries on accreditation matters with SASW, please contact the Accreditation Secretariat at [6778 7922](tel:6778 7922) or email: [accreditation@sasw.org.sg](mailto:accreditation@sasw.org.sg))
   
 To find out about upcoming intakes, please  [click here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   .
