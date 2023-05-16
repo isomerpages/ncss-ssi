@@ -15,8 +15,9 @@ description: SSI provides courses that train learners in management, leadership,
 - [Innovation and Change Management - Capelle](https://www.capelleconsulting.com/innovation-and-change-management-sfw-synchronous-e-learning/){:target="_blank"}<br>Register by: 7 Jun 2023
 - [Donor Outreach Through Social Media](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5508){:target="_blank"}<br>Register by 10 Jun 2023
 - [Effective Supervisory Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5079){:target="_blank"}<br>Register by 27 Jul 2023
-- [Manage Challenging Social Service and NPO Clients](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NPEF6032){:target="_blank"}<br>Register by 7 Oct 2023
 - [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5073){:target="_blank"}<br>Register by 6 Oct 2023
+- [Manage Challenging Social Service and NPO Clients](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NPEF6032){:target="_blank"}<br>Register by 7 Oct 2023
+
 
 ### **Financial Management**
 - [Making $ense I: An Introduction to Fund Raising](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5103){:target="_blank"}<br>Register by 2 Aug 2023
