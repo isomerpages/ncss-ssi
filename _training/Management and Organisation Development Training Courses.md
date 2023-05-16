@@ -8,16 +8,20 @@ description: SSI provides courses that train learners in management, leadership,
 
 ## **Registration now open: <br>Management and Organisation Development Training Courses**
 
-### **Strategy**
-- [Strategic Formulation - DPI Asia](https://www.dpi-asia.com/post/strategy-formulation-timeliness-rigour-clarity-distinction){:target="_blank"}<br>Register by: 5 May 2023
-
 ### **People Management and Leadership**
-- [Group Excellence - Capelle](https://www.capelleconsulting.com/group-excellence-sfw/){:target="_blank"}<br>Register by: 30 Apr 2023
-- [Emotional Intelligence: Let’s get to the same page - Capelle](https://www.capelleconsulting.com/emotional-intelligence-same-page/){:target="_blank"}<br>Register by: 8 May 2023
 - [Multipliers: How the Best Leaders Ignite Everyone's Intelligence - Franklin Covey Singapore](https://forms.zohopublic.com/zohoone1624341499424/form/RegistrationformforMultipliersHowtheBestLeadersIgn/formperma/BMBdtjip0PX1lQHU69BREVt4H_M_H7iD6wgkl6uJi8U){:target="_blank"}<br>Register by: 17 May 2023
 - [Critical Thinking - Capelle](https://www.capelleconsulting.com/critical-thinking/){:target="_blank"}<br>Register by: 29 May 2023
 - [Leveraging Diversity and Building Inclusivity - Capelle](https://www.capelleconsulting.com/diversity-inclusivity/){:target="_blank"}<br>Register by: 31 May 2023
 - [Innovation and Change Management - Capelle](https://www.capelleconsulting.com/innovation-and-change-management-sfw-synchronous-e-learning/){:target="_blank"}<br>Register by: 7 Jun 2023
+- [Donor Outreach Through Social Media](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5508){:target="_blank"}<br>Register by 10 Jun 2023
+- [Effective Supervisory Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5079){:target="_blank"}<br>Register by 27 Jul 2023
+- [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5073){:target="_blank"}<br>Register by 6 Oct 2023
+- [Manage Challenging Social Service and NPO Clients](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NPEF6032){:target="_blank"}<br>Register by 7 Oct 2023
+
+
+### **Financial Management**
+- [Making $ense I: An Introduction to Fund Raising](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5103){:target="_blank"}<br>Register by 2 Aug 2023
+- [Internal Controls (I): An Introduction to its Guidelines and Applications](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5466){:target="_blank"}<br>Register by 3 Sep 2023
 
 
 ### **Featured Courses: Leadership Development &amp; Management For Non-Profit OrganisationsFeatured SSI's courses in Leadership Development, Financial Management, Facilities Management and Branding for Non-Profit Organisations:**

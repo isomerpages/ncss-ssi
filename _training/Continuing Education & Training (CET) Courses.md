@@ -5,7 +5,7 @@ description: SSI offers Continuing Education and Training (CET) programmes to
   help professionals and new social service entrants gain the relevant
   certification and diploma accreditation needed in social service.
 ---
-![Social Service Institute (SSI) Singapore - Continuing Education & Training (CET) Courses](/images/cet-programmes-banner.png)
+![Social Service Institute (SSI) Singapore - Continuing Education &amp; Training (CET) Courses](/images/cet-programmes-banner.png)
 
 SSI offers a suite of Continuing Education and Training (CET) programmes which provide learners with certificate, diploma and degree based qualifications. 
 
@@ -21,9 +21,9 @@ SSI offers a suite of Continuing Education and Training (CET) programmes which p
 -   [Higher Diploma in Social Service (HDSS)](/training/cet-programmes/higher-diploma-in-social-service/){:target="_blank"}
 <br>The programme provides an articulation pathway into Bachelor in Social Work at the Singapore University of Social Services (SUSS). This is ideal for learners who wish to pursue a career in Social Work. 
 
-- [Professional Certificate in Casework (NSWCF Foundational)](https://www.ssi.gov.sg/training/cet-programmes/professional-certificate-in-casework-(nswcf-foundational)/){:target="_blank"}
+- [Professional Certificate in Casework](https://www.ssi.gov.sg/training/cet-programmes/professional-certificate-in-casework-(nswcf-foundational)/){:target="_blank"}
 
-- [Professional Certificate in Groupwork (NSWCF Foundational)](https://www.ssi.gov.sg/training/cet-programmes/professional-certificate-in-group-work-(nswcf-foundational)/){:target="_blank"}
+- [Professional Certificate in Groupwork](https://www.ssi.gov.sg/training/cet-programmes/professional-certificate-in-group-work-(nswcf-foundational)/){:target="_blank"}
 
 <sup>1</sup>The programme name may be subject to further changes.
 

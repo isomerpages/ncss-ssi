@@ -1,6 +1,6 @@
 ---
-title: Professional Certificate in Casework (NSWCF Foundational)
-permalink: /training/cet-programmes/professional-certificate-in-casework-(nswcf-foundational)/
+title: Professional Certificate in Casework
+permalink: /training/cet-programmes/professional-certificate-in-casework/
 description: This casework certification course equips learners with the
   competencies to provide quality casework intervention services.
 ---
@@ -47,7 +47,6 @@ This module provides social workers with the knowledge and skills to analyse, mo
 -   Prepare social reports in accordance to organisational practices.
 
 Note:  
-This course qualifies for CPE credits with the renewal of accreditation at one credit per one training hour.  
-For enquiries, please contact the SASW Accreditation Secretariat at Tel: 6778 7922 or email: <accreditation@sasw.org.sg>  
+This course qualifies for CPE credits, with the renewal of accreditation at one credit per one training hour. (For further enquiries on accreditation matters with SASW, please contact the Accreditation Secretariat at [6778 7922](tel:6778 7922) or email: [accreditation@sasw.org.sg](mailto:accreditation@sasw.org.sg))
   
 To find out about upcoming intakes, please  [click here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   .

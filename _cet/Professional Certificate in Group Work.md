@@ -1,12 +1,12 @@
 ---
-title: Professional Certificate in Group Work (NSWCF Foundational)
-permalink: /training/cet-programmes/professional-certificate-in-group-work-(nswcf-foundational)/
+title: Professional Certificate in Group Work
+permalink: /training/cet-programmes/professional-certificate-in-group-work/
 description: This course equips learners to assess the need for group work in a
   social service setting and to plan appropriate group intervention.
 ---
 ### **Overview**
 
-Jointly developed with the Ministry of Social and Family Development (MSF) and Ministry of Health (MOH), 'Professional Certificate in Group Work (NSWCF Foundational)' consists of two integrated modules that will provide social workers with foundation-level practice competencies. Learners will be equipped with the competencies to assess the need for group work in a social work setting and plan appropriate interventions in a group setting.  
+Jointly developed with the Ministry of Social and Family Development (MSF) and Ministry of Health (MOH), 'Professional Certificate in Group Work' consists of two integrated modules that will provide social workers with foundation-level practice competencies. Learners will be equipped with the competencies to assess the need for group work in a social work setting and plan appropriate interventions in a group setting.  
 
 Social workers can embark on this course as part of a competency-based training roadmap to deepen their skills and knowledge and plan their career progression pathway based on competencies and job roles.  
   
@@ -42,7 +42,6 @@ This module will provide learners with the competencies to administer group work
 
 Note:    
 
-This course qualifies for CPE credits, with the renewal of accreditation at one credit per one training hour.  
-For enquiries, please contact the SASW Accreditation Secretariat at Tel: 6778 7922 or email: <accreditation@sasw.org.sg> 
+This course qualifies for CPE credits, with the renewal of accreditation at one credit per one training hour. (For further enquiries on accreditation matters with SASW, please contact the Accreditation Secretariat at [6778 7922](tel:6778 7922) or email: [accreditation@sasw.org.sg](mailto:accreditation@sasw.org.sg))  
   
 To find out about upcoming intakes, please  [click here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   .
