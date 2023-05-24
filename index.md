@@ -7,12 +7,9 @@ image: /images/SSILogoFullColour_large_fullwidth.png
 permalink: /
 notification: In view of the Budget 2022 announcement, the GST rate will
   increase from 7% to 8% from 1 Jan 2023 and to 9% from 1 Jan 2024.
-  <br><br>iLTMS is now live! <a
-  href=https://www.ssi.gov.sg/training/course-registration/ target="_blank">
-  Register for our courses now! </a> Please note that iLTMS will be undergoing
-  the <a href=https://www.ssi.gov.sg/maintenance-schedule target="_blank">
-  scheduled maintenance on the following dates. </a> <br> Access to iLTMS may be
-  disrupted.
+  <br><br>Please note that iLTMS will be undergoing maintenance from <b>25th to
+  26th April (10pm - 2 am)</b>. Access to iLTMS will be disrupted during this
+  period.
 sections:
   - hero:
       title: Social Service Institute
@@ -21,10 +18,10 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: LEAVE US YOUR FEEDBACK
-          description: "SSI is gathering feedback on our training and courses. If you are
+          description: SSI is gathering feedback on our training and courses. If you are
             an aspiring or current Social Service Professional, we want to hear
             from you! Leave us your feedback to help us improve our training and
-            course offerings. "
+            course offerings.
           url: https://form.gov.sg/62c3df59e2dadd0011ca3cbf
         - title: Higher Diploma in Social Service
           description: The HDSS provides an articulation pathway into the Bachelor of
@@ -62,7 +59,7 @@ sections:
       title: Refreshed 4ST (2022-2026)
       subtitle: Roadmap for the Sector
       button: Find out more
-      url: "https://go.gov.sg/wu0chy "
+      url: https://go.gov.sg/wu0chy
       alt: Refreshed 4ST
       image: /images/homepage/4STBanner.jpeg
       description: Learn more about how the new recommendations put forth by the
