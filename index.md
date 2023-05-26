@@ -5,11 +5,7 @@ description: The Social Service Institute (SSI) is a CET centre that supports
   the training needs of the social service sector.
 image: /images/SSILogoFullColour_large_fullwidth.png
 permalink: /
-notification: "In view of the Budget 2022 announcement, the GST rate will
-  increase from 7% to 8% from 1<sup>st</sup> Jan 2023 and to 9% from
-  1<sup>st</sup> Jan 2024. <br><br>Please note that iLTMS will be undergoing
-  maintenance from <b>1<sup>st</sup> to 2<sup>nd</sup> June (10pm - 2am)</b>.
-  Access to iLTMS will be disrupted during this period. "
+notification: ""
 sections:
   - hero:
       title: Social Service Institute
