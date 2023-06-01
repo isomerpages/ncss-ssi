@@ -56,3 +56,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 facebook-pixel: "45425198902598"
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics_ga4: "379541788"
+linkedin-insights: ""
