@@ -8,19 +8,19 @@ description: SSI's mental health courses provides social service professionals
 
 ### **Registration closing soon: <br> Mental Health Training Courses**
 
-- [Foundations of Psycho-Social Rehabilitation and Recovery](https://iltms.ssi.gov.sg/registration#/Course?coursecode=SMTH387){:target="blank"}<br>Register by 13 Jun 2023
-- [Mental Illness and Family (Synchronous E-learning)](https://iltms.ssi.gov.sg/registration#/Course?coursecode=SDIS5501){:target="blank"}<br>Register by 6 Jul 2023
-- [Embrace Mental Health](https://iltms.ssi.gov.sg/registration#/Course?coursecode=SMTH314){:target="blank"}<br>Register by 13 Jul 2023
+- [Foundations of Psycho-Social Rehabilitation and Recovery](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SMTH387){:target="blank"}<br>Register by 13 Jun 2023
+- [Mental Illness and Family (Synchronous E-learning)](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SDIS5501){:target="blank"}<br>Register by 6 Jul 2023
+- [Embrace Mental Health](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SMTH314){:target="blank"}<br>Register by 13 Jul 2023
 
 ### **Other Featured Courses in Mental Health, Suicide Prevention and Psychiatric Rehabilitation**
--   [Applied Suicide Interventional Skills (ASIST)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5709){:target="_blank"}   
--   [E.M.B.R.A.C.E Mental Health](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SMTH314){:target="_blank"}
--   [Management of Depression in Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5442){:target="_blank"}   
--   [Mental Illness and Recovery](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS5911){:target="_blank"}   
--   [Skills-Based Psychiatric Rehabilitation](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS6109){:target="_blank"} 
--   [Suicide Prevention and Management for Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5587){:target="_blank"}   
+-   [Applied Suicide Interventional Skills (ASIST)](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCRS5709){:target="_blank"}   
+-   [E.M.B.R.A.C.E Mental Health](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SMTH314){:target="_blank"}
+-   [Management of Depression in Seniors](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SECH5442){:target="_blank"}   
+-   [Mental Illness and Recovery](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SDIS5911){:target="_blank"}   
+-   [Skills-Based Psychiatric Rehabilitation](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SDIS6109){:target="_blank"} 
+-   [Suicide Prevention and Management for Seniors](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SECH5587){:target="_blank"}   
 
-For the full list of Mental Health courses offered by SSI, follow this  [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}.
+For the full list of Mental Health courses offered by SSI, follow this  [link](https://iltms.ssi.gov.sg/registration/Schedule){:target="_blank"}.
 
 The complimentary featured courses under the Agency for Integrated Care (AIC) can be found in the link below:
 
