@@ -15,7 +15,7 @@ The qualification obtained from completing this foundational programme will prom
 Applicants must:
 
 -   Have a Grade of C6 for GCE 'O' level English (or equivalent).
--   Complete a complimentary e-learning course “, [Singapore’s Social Compact](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS400){:target="_blank"} (download the e-certificate and submit it upon registration for this programme).
+-   Complete a complimentary e-learning course “, [Singapore’s Social Compact](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCRS400){:target="_blank"} (download the e-certificate and submit it upon registration for this programme).
 
 Applicants should also possess at least one of the following criteria:
 
@@ -57,8 +57,8 @@ Learners must achieve at least 75% attendance per module and be certified compet
 *Please note that course fees are subjected to changes.
 
 
-## Course Application Guidelines & Dates
-Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI%20ACSS%20Application%20Form%20(Feb-Mar%202023).pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-1){:target="_blank"}  between 15 Feb - 29 Mar 2023.
+## Course Application Guidelines &amp; Dates
+Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI%20ACSS%20Application%20Form%20(Feb-Mar%202023).pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCET21-1){:target="_blank"}  between 15 Feb - 29 Mar 2023.
 
 
 | Description | Date | |
