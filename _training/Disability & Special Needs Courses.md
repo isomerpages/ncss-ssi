@@ -8,22 +8,22 @@ description: SSI provides short courses, certificates, diploma and degree
 
 ## Registration Closing Soon: Disability Training Courses
 
--   [Principles and Practices of Early Intervention for Children with Special Needs – Module 1](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS463){:target="_blank"}<br>Register by 23 Jun 2023
--   [Introduce Classroom and Behaviour Management Strategies in Early Intervention Teaching](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS86){:target="_blank"}<br>Register by 12 Jul 2023
--   [Develop an Inclusive Lesson Plan in Early Intervention Teaching](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS85){:target="_blank"}<br>Register by 9 Aug 2023
+-   [Principles and Practices of Early Intervention for Children with Special Needs – Module 1](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SDIS463){:target="_blank"}<br>Register by 23 Jun 2023
+-   [Introduce Classroom and Behaviour Management Strategies in Early Intervention Teaching](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SDIS86){:target="_blank"}<br>Register by 12 Jul 2023
+-   [Develop an Inclusive Lesson Plan in Early Intervention Teaching](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SDIS85){:target="_blank"}<br>Register by 9 Aug 2023
 
 ### **Other Featured Short Courses in Early Childhood Interventions and Managing Disabilities**
--   [WSQ Principles and Practices of Early Intervention for Children with Special Needs Module 1](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS463){:target="_blank"}   
--  [WSQ Principles and Practices of Early Intervention for Children with Special Needs Module 2](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS83){:target="_blank"}
-- [Managing Sexuality Issues of Adults with Intellectual Disabilities](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS6064){:target="_blank"}   
-- [Working with Persons with Autism](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS87){:target="_blank"}   
+-   [WSQ Principles and Practices of Early Intervention for Children with Special Needs Module 1](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SDIS463){:target="_blank"}   
+-  [WSQ Principles and Practices of Early Intervention for Children with Special Needs Module 2](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SDIS83){:target="_blank"}
+- [Managing Sexuality Issues of Adults with Intellectual Disabilities](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SDIS6064){:target="_blank"}   
+- [Working with Persons with Autism](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SDIS87){:target="_blank"}   
 
 ### New courses in 2023
-- [WSQ Develop an Inclusive Lesson Plan in Early Intervention Teaching](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS85){:target="_blank"}   
-- [Reflexive Practice for Special Needs and Early Intervention Professionals](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS88){:target="_blank"}   
-- [Introduce Classroom and Behaviour Management Strategies in Early Intervention Teaching](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS86){:target="_blank"}   
-- [Strategies for Development of Hand Function, Pre-writing and Handwriting Skills for Children](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS5789){:target="_blank"}
-- [Guide the Implementation of Improved Approaches in early Intervention Teaching](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS84){:target="_blank"} 
+- [WSQ Develop an Inclusive Lesson Plan in Early Intervention Teaching](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SDIS85){:target="_blank"}   
+- [Reflexive Practice for Special Needs and Early Intervention Professionals](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SDIS88){:target="_blank"}   
+- [Introduce Classroom and Behaviour Management Strategies in Early Intervention Teaching](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SDIS86){:target="_blank"}   
+- [Strategies for Development of Hand Function, Pre-writing and Handwriting Skills for Children](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SDIS5789){:target="_blank"}
+- [Guide the Implementation of Improved Approaches in early Intervention Teaching](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SDIS84){:target="_blank"} 
 
 ### Coming soon!
 
