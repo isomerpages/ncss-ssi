@@ -70,4 +70,4 @@ Learners will be assessed for competence in this course through a written test a
 -   Assessment.
 -   Site visit.
 
-Find out more about the [upcoming para counselling course intake here](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET102){:target="_blank"}.
+Find out more about the [upcoming para counselling course intake here](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCET102){:target="_blank"}.
