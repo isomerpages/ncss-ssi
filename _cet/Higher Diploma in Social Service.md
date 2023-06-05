@@ -20,7 +20,7 @@ Applicants should possess the following criteria:
 
 -	A minimum grade of C6 for GCE ‘O’ level English (or its equivalent). 
 -	At least two years of full-time working experience.
--	Complete [the complimentary e-learning course: Singapore’s Social Compact](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS400){:target="_blank"} (download the e-certificate and submit it upon registration for this programme)<sup>1</sup>  . 
+-	Complete [the complimentary e-learning course: Singapore’s Social Compact](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCRS400){:target="_blank"} (download the e-certificate and submit it upon registration for this programme)<sup>1</sup>  . 
 
 ### About The Singapore Social Compact Course
 <sup>1</sup>  This e-learning course provides learners with an overview of the development of Singapore’s social services over the years and introduces them to the principles behind its provision. It also covers the six areas of social service provision and the challenges that lay ahead.
@@ -39,7 +39,7 @@ Applicants should possess the following criteria:
 All shortlisted applicants will have to sit for a Written Aptitude Test (WAT), which will be conducted on **24 Apr 2023 at 10.30am or 25 Apr 2023 at 3.00pm.** Only applicants who successfully pass the WAT will be considered for admission into the programme.
 
 
-### Qualifications & Career Prospects in Social Work
+### Qualifications &amp; Career Prospects in Social Work
 
 Upon completion of SSI's HDSS, learners will be issued a:
 
@@ -73,7 +73,7 @@ Learners must achieve at least 75% attendance per module and be certified compet
 
 ## Application Guidelines
 
-Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI%20HDSS%20Application%20Form%20(Feb-Mar%202023).pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-2){:target="_blank"}  between 15 Feb - 29 Mar 2023. 
+Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI%20HDSS%20Application%20Form%20(Feb-Mar%202023).pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCET21-2){:target="_blank"}  between 15 Feb - 29 Mar 2023. 
 
 
 | Description | Date | |
