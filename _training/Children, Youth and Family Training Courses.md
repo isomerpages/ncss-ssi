@@ -8,38 +8,38 @@ description: SSI’s children, youth and family courses provides learners with t
 
 ### **Registration closing soon: <br> Children, Youth and Family Training Courses**
 
-- [Management of Family Violence: Talking to Children and Managing Abuse-Related Disclosure](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5502){:target="blank"}<br>Register by 20 May 2023
+- [Management of Family Violence: Talking to Children and Managing Abuse-Related Disclosure](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF5502){:target="blank"}<br>Register by 20 May 2023
 - [Integrated Structured Decision Making 
-(SDM) and Partnering for Safety (PFS) for Out-of-Home Care (OHC) Case Management](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF485){:target="blank"}<br>Register by 26 May 2023
-- [Helping Youths Cope with Anger](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5158){:target="blank"}<br>Register by 17 Jun 2023
-- [Helping youth with sexuality issues through casework implementation](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SST0494){:target="blank"}<br>Register by 21 Jun 2023
-- [Helping Family Members Cope with Issues Arising from Incarceration of a Loved One](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5802){:target="blank"}<br>Register by 27 Jun 2023
-- [Support the implementation of youth outreach plans to work with clients in social service sectors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF507){:target="blank"}<br>Register by 5 Jul 2023
-- [Developing Youth Outreach Plans](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF508){:target="blank"}<br>Register by 12 Jul 2023
-- [Family &amp; Adult Support Tool (FAST) - User (Synchronous &amp; Asynchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5936){:target="blank"}<br>Register by 24 Jul 2023
+(SDM) and Partnering for Safety (PFS) for Out-of-Home Care (OHC) Case Management](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF485){:target="blank"}<br>Register by 26 May 2023
+- [Helping Youths Cope with Anger](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF5158){:target="blank"}<br>Register by 17 Jun 2023
+- [Helping youth with sexuality issues through casework implementation](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SST0494){:target="blank"}<br>Register by 21 Jun 2023
+- [Helping Family Members Cope with Issues Arising from Incarceration of a Loved One](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF5802){:target="blank"}<br>Register by 27 Jun 2023
+- [Support the implementation of youth outreach plans to work with clients in social service sectors](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF507){:target="blank"}<br>Register by 5 Jul 2023
+- [Developing Youth Outreach Plans](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF508){:target="blank"}<br>Register by 12 Jul 2023
+- [Family &amp; Adult Support Tool (FAST) - User (Synchronous &amp; Asynchronous)](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF5936){:target="blank"}<br>Register by 24 Jul 2023
 
 ### **Other Featured Courses in Children and Youth Development, Youth Counselling and Family Therapy**
 
- - [An Introduction to Family Therapy](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5646){:target="_blank"}  
- - [Certified User for Child &amp; Adolescent Needs &amp; Strengths (CANS)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5894){:target="_blank"}  
- - [Certified User for Youth Level of Service/ Case Management (YLS/CMI)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5858){:target="_blank"}   
- - [Child Abuse Reporting Guide](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF434){:target="_blank"} 
- - [Delivering Impactful Training to Youths](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5340){:target="_blank"} 
- - [Family and Adult Support Tool (FAST) - User](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5936){:target="_blank"}  
- - [Helping Youths Cope with Anger](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5158){:target="_blank"} 
- - [Introduction to Sector-Specific Screening Guide](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF436){:target="_blank"} 
- - [Introduction to Child Protection Framework](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF435){:target="_blank"} 
- - [Introduction to Trauma Informed Positive Behaviour Interventions and Supports for Children and Young Persons in Residential Care](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF278){:target="_blank"} 
- - [Implementing Trauma Informed Positive Behavioural Interventions and Supports for Children and Young Persons in Residential Care](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF294){:target="_blank"}  
+ - [An Introduction to Family Therapy](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF5646){:target="_blank"}  
+ - [Certified User for Child &amp; Adolescent Needs &amp; Strengths (CANS)](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF5894){:target="_blank"}  
+ - [Certified User for Youth Level of Service/ Case Management (YLS/CMI)](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF5858){:target="_blank"}   
+ - [Child Abuse Reporting Guide](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF434){:target="_blank"} 
+ - [Delivering Impactful Training to Youths](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF5340){:target="_blank"} 
+ - [Family and Adult Support Tool (FAST) - User](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF5936){:target="_blank"}  
+ - [Helping Youths Cope with Anger](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF5158){:target="_blank"} 
+ - [Introduction to Sector-Specific Screening Guide](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF436){:target="_blank"} 
+ - [Introduction to Child Protection Framework](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF435){:target="_blank"} 
+ - [Introduction to Trauma Informed Positive Behaviour Interventions and Supports for Children and Young Persons in Residential Care](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF278){:target="_blank"} 
+ - [Implementing Trauma Informed Positive Behavioural Interventions and Supports for Children and Young Persons in Residential Care](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF294){:target="_blank"}  
  - Management of Family Violence: Management of Elder Abuse and Neglect - Coming Soon!
- - [Management of Family Violence: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF197){:target="_blank"}
- - [Management of Family Violence: Organisational Approaches to Child Safe Practices for Centre &amp; Team Leads](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF257){:target="_blank"}  
- - [Management of Family Violence: Organisational Approaches to Child Safe Practices for Frontline Staff](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF258){:target="_blank"}   
-  - [Safety Planning and Monitoring - A 5.5-Step Model](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF233){:target="_blank"} 
- - [Understanding Family Violence](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF437){:target="_blank"} 
- - [Youth Work: Identify and Apply Effective Intervention Programme](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF80){:target="_blank"}  
- - [Youth Work: Introduction to an Evidence-Based Approach](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF79){:target="_blank"}  
- - [WSQ Mentoring and Coaching Youths Effectively](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF305){:target="_blank"}  
+ - [Management of Family Violence: Introduction](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF197){:target="_blank"}
+ - [Management of Family Violence: Organisational Approaches to Child Safe Practices for Centre &amp; Team Leads](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF257){:target="_blank"}  
+ - [Management of Family Violence: Organisational Approaches to Child Safe Practices for Frontline Staff](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF258){:target="_blank"}   
+  - [Safety Planning and Monitoring - A 5.5-Step Model](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF233){:target="_blank"} 
+ - [Understanding Family Violence](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF437){:target="_blank"} 
+ - [Youth Work: Identify and Apply Effective Intervention Programme](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF80){:target="_blank"}  
+ - [Youth Work: Introduction to an Evidence-Based Approach](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF79){:target="_blank"}  
+ - [WSQ Mentoring and Coaching Youths Effectively](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF305){:target="_blank"}  
 
 For the full list of Children, Youth and Family courses offered by SSI, follow this [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}.   
 
