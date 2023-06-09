@@ -6,10 +6,6 @@ description: SSI offers courses and training for social workers and the social
 ---
 ## **Social Service Courses: Course Schedules (2023)**
 
-### **Training Course Directory 2023**
-* ##### [Training Directory 2023-2024](/files/Files%20for%20Learners/FY23%20Training%20Directory.pdf){:target="_blank"} 
-
-
 ### **Course Schedule &amp; Registration Dates** <br>
 * ##### [Registration period: Jun - Sep 2023](/files/Monthly%20Featured%20Courses/monthly%20featured%20courses%205%20may%2023.pdf){:target="_blank"}
 
