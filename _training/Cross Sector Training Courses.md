@@ -22,8 +22,8 @@ Some of the featured courses under this category are:
 - [Resilience and Self-Care for Social Service Professionals](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCRS453){:target="_blank"}<br>Register by 5 Aug 2023
 - [Juvenile Law for Social Service Professionals](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=NLAW5097){:target="blank"}<br>Register by 5 Sep 2023
 - [Deliver Evidence-based Psychological Interventions](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCRS480){:target="blank"}<br>Register by 18 Sep 2023
-- [Advanced Certificate in Social Service](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCET21-1){:target="blank"}<br>Register by TBC
-- [Higher Diploma in Social Service](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCET21-2){:target="blank"}<br>Register by TBC
+- [Advanced Certificate in Social Service](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCET21-1){:target="blank"}
+- [Higher Diploma in Social Service](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCET21-2){:target="blank"}
 
 ### **Other Featured Short Courses in Befriending, Case Management, Counselling and more:**
 
