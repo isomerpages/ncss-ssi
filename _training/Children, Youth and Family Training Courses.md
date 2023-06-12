@@ -8,15 +8,14 @@ description: SSI’s children, youth and family courses provides learners with t
 
 ### **Registration closing soon: <br> Children, Youth and Family Training Courses**
 
-- [Management of Family Violence: Talking to Children and Managing Abuse-Related Disclosure](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF5502){:target="blank"}<br>Register by 20 May 2023
-- [Integrated Structured Decision Making 
-(SDM) and Partnering for Safety (PFS) for Out-of-Home Care (OHC) Case Management](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF485){:target="blank"}<br>Register by 26 May 2023
 - [Helping Youths Cope with Anger](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF5158){:target="blank"}<br>Register by 17 Jun 2023
 - [Helping youth with sexuality issues through casework implementation](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SST0494){:target="blank"}<br>Register by 21 Jun 2023
 - [Helping Family Members Cope with Issues Arising from Incarceration of a Loved One](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF5802){:target="blank"}<br>Register by 27 Jun 2023
 - [Support the implementation of youth outreach plans to work with clients in social service sectors](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF507){:target="blank"}<br>Register by 5 Jul 2023
 - [Developing Youth Outreach Plans](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF508){:target="blank"}<br>Register by 12 Jul 2023
 - [Family &amp; Adult Support Tool (FAST) - User (Synchronous &amp; Asynchronous)](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF5936){:target="blank"}<br>Register by 24 Jul 2023
+- [Delivering Impactful Training to Youths](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF5340){:target="blank"}<br>Register by 2 Aug 2023
+- [Working with Youths on Cyber-Wellness Issues](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF488){:target="blank"}<br>Register by 29 Sep 2023
 
 ### **Other Featured Courses in Children and Youth Development, Youth Counselling and Family Therapy**
 
