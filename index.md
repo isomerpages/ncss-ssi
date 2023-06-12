@@ -16,7 +16,7 @@ notification: In view of the Budget 2022 announcement, the GST rate will
 sections:
   - hero:
       title: Social Service Institute
-      subtitle: Growing with People
+      subtitle: Developing Social Service Professionals – 20 Years and Beyond
       background: /images/homepage/Home_Banner.jpg
       url: /contact-us/
       key_highlights:
