@@ -9,11 +9,6 @@ description: SSI provides courses that train learners in management, leadership,
 ## **Registration now open: <br>Management and Organisation Development Training Courses**
 
 ### **People Management and Leadership**
-- [Multipliers: How the Best Leaders Ignite Everyone's Intelligence - Franklin Covey Singapore](https://forms.zohopublic.com/zohoone1624341499424/form/RegistrationformforMultipliersHowtheBestLeadersIgn/formperma/BMBdtjip0PX1lQHU69BREVt4H_M_H7iD6wgkl6uJi8U){:target="_blank"}<br>Register by: 17 May 2023
-- [Critical Thinking - Capelle](https://www.capelleconsulting.com/critical-thinking/){:target="_blank"}<br>Register by: 29 May 2023
-- [Leveraging Diversity and Building Inclusivity - Capelle](https://www.capelleconsulting.com/diversity-inclusivity/){:target="_blank"}<br>Register by: 31 May 2023
-- [Innovation and Change Management - Capelle](https://www.capelleconsulting.com/innovation-and-change-management-sfw-synchronous-e-learning/){:target="_blank"}<br>Register by: 7 Jun 2023
-- [Donor Outreach Through Social Media](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=NFRE5508){:target="_blank"}<br>Register by 10 Jun 2023
 - [Effective Supervisory Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=NMGT5079){:target="_blank"}<br>Register by 27 Jul 2023
 - [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=NMGT5073){:target="_blank"}<br>Register by 6 Oct 2023
 - [Manage Challenging Social Service and NPO Clients](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=NPEF6032){:target="_blank"}<br>Register by 7 Oct 2023
