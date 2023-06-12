@@ -8,8 +8,8 @@ description: SSI provides courses that develop learners' competencies to
 
 ### **Registration closing soon: <br> Board Development Training Courses**
 
-- [Donor Outreach Through Social Media](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5508){:target="_blank"}<br>Register by 10 Jun 2023
 - [Making $ense I: An Introduction to Fund Raising](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5103){:target="_blank"}<br>Register by 2 Aug 2023
+- [Branding Non-profits: An Introduction](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCOF243){:target="_blank"}<br>Register by 26 Sep 2023
 - [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5073){:target="_blank"}<br>Register by 6 Oct 2023
 - [Manage Challenging Social Service and NPO Clients](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NPEF6032){:target="_blank"}<br>Register by 7 Oct 2023
 
