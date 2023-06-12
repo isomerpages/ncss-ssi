@@ -11,6 +11,8 @@ description: SSI provides short courses, certificates, diploma and degree
 -   [Principles and Practices of Early Intervention for Children with Special Needs – Module 1](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SDIS463){:target="_blank"}<br>Register by 23 Jun 2023
 -   [Introduce Classroom and Behaviour Management Strategies in Early Intervention Teaching](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SDIS86){:target="_blank"}<br>Register by 12 Jul 2023
 -   [Develop an Inclusive Lesson Plan in Early Intervention Teaching](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SDIS85){:target="_blank"}<br>Register by 9 Aug 2023
+-   [Independent Travel Training for Professionals Supporting Persons with Disabilities](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SDIS211){:target="blank"}<br>Register by 23 Aug 2023
+
 
 ### **Other Featured Short Courses in Early Childhood Interventions and Managing Disabilities**
 -   [WSQ Principles and Practices of Early Intervention for Children with Special Needs Module 1](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SDIS463){:target="_blank"}   
