@@ -14,15 +14,16 @@ Some of the featured courses under this category are:
 
 ## **Registration Closing Soon: <br> Cross Sector Training Courses**
 
-- [Family Law for Social Service Professionals](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=NLAW5089){:target="_blank"}<br>Register by 25 May 2023
 - [Boleh Saya Bantu Anda? (May I Help You?): Conversational Malay for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=NLAW5089){:target="_blank"}<br>Register by 13 Jul 2023
 - [Building Emotional Resilience in Caregiving](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCRS5451){:target="_blank"}<br>Register by 23 Jul 2023
 - [Enhancing Effectiveness of Social Service Programmes](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCRS484){:target="_blank"}<br>Register by 2 Aug 2023
 - [Counselling Skills and Practice: Introduction](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCRS5229){:target="_blank"}<br>Register by 1 Aug 2023
-
 - [Professional Certificate in Group Work (NSWCF Foundational)](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCRS28){:target="_blank"}<br>Register by 3 Aug 2023
 - [Resilience and Self-Care for Social Service Professionals](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCRS453){:target="_blank"}<br>Register by 5 Aug 2023
-- [Deliver Evidence-based Psychological Interventions](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCRS480){:target="_blank"}<br>Register by 18 Sep 2023
+- [Juvenile Law for Social Service Professionals](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=NLAW5097){:target="blank"}<br>Register by 5 Sep 2023
+- [Deliver Evidence-based Psychological Interventions](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCRS480){:target="blank"}<br>Register by 18 Sep 2023
+- [Advanced Certificate in Social Service](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCET21-1){:target="blank"}<br>Register by TBC
+- [Higher Diploma in Social Service](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCET21-2){:target="blank"}<br>Register by TBC
 
 ### **Other Featured Short Courses in Befriending, Case Management, Counselling and more:**
 
