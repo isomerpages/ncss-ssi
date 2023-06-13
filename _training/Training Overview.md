@@ -4,10 +4,6 @@ permalink: /training/overview/
 description: SSI offers enriching training programmes in ten different course
   categories within the social service and non-profit sector.
 ---
-
-
-
-
 ## SSI's Learning Philosophy
 
 SSI'S learning philosophy is guided by the Education Innovation (EI) initiative. This initiative is based on the following beliefs:
@@ -18,10 +14,10 @@ SSI'S learning philosophy is guided by the Education Innovation (EI) initiative.
 As part of this initiative, SSI is transforming learning in the social service and non-profit sector through the use of various new learning methodologies that have been made possible by technology. This has resulted in the creation of new and enriching learning experiences.
 
 ## Social Service Training Programmes
-The [training programmes](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}  offered by SSI can be segregated into ten course categories. Although each course category is segregated into specific sub-sectors or fields within the social service sector, learners should adopt a horizontal learning approach and undertake relevant courses across different course categories to have a well balanced set of skills for their job role. 
+The [training programmes](https://iltms.ssi.gov.sg/registration/Course){:target="_blank"}  offered by SSI can be segregated into ten course categories. Although each course category is segregated into specific sub-sectors or fields within the social service sector, learners should adopt a horizontal learning approach and undertake relevant courses across different course categories to have a well balanced set of skills for their job role. 
 
 ## Course Categories offered by SSI
-* [Continuing Education & Training (CET)](https://www.ssi.gov.sg/training/cet-programmes){:target="_blank"}  
+* [Continuing Education &amp; Training (CET)](https://www.ssi.gov.sg/training/cet-programmes){:target="_blank"}  
 Gain professional certification and diploma accreditation in social service.
 
 * [Cross Sector](https://www.ssi.gov.sg/training/cross-sector/){:target="_blank"} 
