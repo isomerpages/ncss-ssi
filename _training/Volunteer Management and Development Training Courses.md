@@ -8,32 +8,32 @@ description: SSI provides courses that both empower volunteers and volunteer man
 
 ##### **Registration closing soon: Volunteer Management &amp; Development Courses**
 
-- [Introduction to Youth Mentoring (for Volunteers)](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SVLD227){:target="_blank"}<br>Register by: 10 Jul 2023
-- [Plan and Strategise for an Effective Volunteer Engagement Programme](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=NVOL5808){:target="_blank"}<br>Register by: 13 Jul 2023
-- [Befriending 101 for Volunteers (eLearning)](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SSI0035){:target="_blank"}
-- [Design and Develop an Effective Volunteer Work Programme](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=NVOL5809){:target="blank"}
-- [Volunteer Management Practices: Connect, Engage, Develop](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SVLD313){:target="blank"}
+- [Introduction to Youth Mentoring (for Volunteers)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD227){:target="_blank"}<br>Register by: 10 Jul 2023
+- [Plan and Strategise for an Effective Volunteer Engagement Programme](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NVOL5808){:target="_blank"}<br>Register by: 13 Jul 2023
+- [Befriending 101 for Volunteers (eLearning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0035){:target="_blank"}
+- [Design and Develop an Effective Volunteer Work Programme](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NVOL5809){:target="blank"}
+- [Volunteer Management Practices: Connect, Engage, Develop](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD313){:target="blank"}
 
 ### **Other Featured Volunteer Management and Development Courses**
 
 #### **Volunteer Management Training Courses**
-- [Volunteer Management Practices: Connect, Engage, Develop](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SVLD313){:target="_blank"} 
--   [Design and Develop an Effective Volunteer Work Programme](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=NVOL5809){:target="_blank"} 
--   [Introduction to Volunteerism (e-Learning)](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SVLD422){:target="_blank"} 
--   [Getting your Social Agency Volunteer-Ready (e-Learning)](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SVLD423){:target="_blank"} 
--   [Conducting a Needs Assessment (e-Learning)](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SVLD424){:target="_blank"} 
--   [Recruiting and Selecting Volunteers (e-Learning)](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SVLD425){:target="_blank"} 
--   [On-boarding and Training Volunteers (e-Learning)](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SVLD426){:target="_blank"} 
--   [Supporting and Recognising Volunteers (e-Learning)](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SVLD427){:target="_blank"} 
--   [Reviewing Volunteer Management (e-Learning)](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SVLD428){:target="_blank"}  
--   [Plan and Strategise for an Effective Volunteer Engagement Programme](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=NVOL5808){:target="_blank"} 
+- [Volunteer Management Practices: Connect, Engage, Develop](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD313){:target="_blank"} 
+-   [Design and Develop an Effective Volunteer Work Programme](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NVOL5809){:target="_blank"} 
+-   [Introduction to Volunteerism (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD422){:target="_blank"} 
+-   [Getting your Social Agency Volunteer-Ready (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD423){:target="_blank"} 
+-   [Conducting a Needs Assessment (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD424){:target="_blank"} 
+-   [Recruiting and Selecting Volunteers (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD425){:target="_blank"} 
+-   [On-boarding and Training Volunteers (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD426){:target="_blank"} 
+-   [Supporting and Recognising Volunteers (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD427){:target="_blank"} 
+-   [Reviewing Volunteer Management (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD428){:target="_blank"}  
+-   [Plan and Strategise for an Effective Volunteer Engagement Programme](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NVOL5808){:target="_blank"} 
 
 #### **Volunteer Development Training Courses**
--   [Introduction to Youth Mentoring (For Volunteers)](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SVLD227){:target="_blank"}
--   [Befriending Skills and Practice (For Volunteers)](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SVDM5311){:target="_blank"}   
+-   [Introduction to Youth Mentoring (For Volunteers)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD227){:target="_blank"}
+-   [Befriending Skills and Practice (For Volunteers)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311){:target="_blank"}   
 
 
-For the full list of volunteer management and development courses click [here](https://iltms.ssi.gov.sg/registration/Schedule){:target="_blank"}.  
+For the full list of volunteer management and development courses click [here](https://iltms.ssi.gov.sg/registration/#/Course){:target="_blank"}.  
 
 ## Key Adult Educators for Volunteer Management and Development Courses
 
