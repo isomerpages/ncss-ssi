@@ -14,29 +14,29 @@ Some of the featured courses under this category are:
 
 ## **Registration Closing Soon: <br> Cross Sector Training Courses**
 
-- [Boleh Saya Bantu Anda? (May I Help You?): Conversational Malay for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=NLAW5089){:target="_blank"}<br>Register by 13 Jul 2023
-- [Building Emotional Resilience in Caregiving](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCRS5451){:target="_blank"}<br>Register by 23 Jul 2023
-- [Enhancing Effectiveness of Social Service Programmes](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCRS484){:target="_blank"}<br>Register by 2 Aug 2023
-- [Counselling Skills and Practice: Introduction](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCRS5229){:target="_blank"}<br>Register by 1 Aug 2023
-- [Professional Certificate in Group Work (NSWCF Foundational)](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCRS28){:target="_blank"}<br>Register by 3 Aug 2023
-- [Resilience and Self-Care for Social Service Professionals](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCRS453){:target="_blank"}<br>Register by 5 Aug 2023
-- [Juvenile Law for Social Service Professionals](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=NLAW5097){:target="blank"}<br>Register by 5 Sep 2023
-- [Deliver Evidence-based Psychological Interventions](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCRS480){:target="blank"}<br>Register by 18 Sep 2023
-- [Advanced Certificate in Social Service](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCET21-1){:target="blank"}
-- [Higher Diploma in Social Service](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCET21-2){:target="blank"}
+- [Boleh Saya Bantu Anda? (May I Help You?): Conversational Malay for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NLAW5089){:target="_blank"}<br>Register by 13 Jul 2023
+- [Building Emotional Resilience in Caregiving](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5451){:target="_blank"}<br>Register by 23 Jul 2023
+- [Enhancing Effectiveness of Social Service Programmes](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS484){:target="_blank"}<br>Register by 2 Aug 2023
+- [Counselling Skills and Practice: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5229){:target="_blank"}<br>Register by 1 Aug 2023
+- [Professional Certificate in Group Work (NSWCF Foundational)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS28){:target="_blank"}<br>Register by 3 Aug 2023
+- [Resilience and Self-Care for Social Service Professionals](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS453){:target="_blank"}<br>Register by 5 Aug 2023
+- [Juvenile Law for Social Service Professionals](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NLAW5097){:target="blank"}<br>Register by 5 Sep 2023
+- [Deliver Evidence-based Psychological Interventions](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS480){:target="blank"}<br>Register by 18 Sep 2023
+- [Advanced Certificate in Social Service](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-1){:target="blank"}
+- [Higher Diploma in Social Service](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-2){:target="blank"}
 
 ### **Other Featured Short Courses in Befriending, Case Management, Counselling and more:**
 
--   [Befriending Skills and Practice (For Volunteers)](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SVDM5311){:target="_blank"}   
--   [Boleh Saya Anda? May I Help You? - Conversational Malay for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCRS5647){:target="_blank"}   
--   [Case Management in Practice: Introduction](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCRS5228){:target="_blank"}   
--   [Cognitive Behaviour Therapy: Introduction](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF5141){:target="_blank"}   
--   [Counselling Skills and Practice: Introduction](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCRS5229){:target="_blank"}   
--   [Fundamentals in Developing Community Work Programme (NSFWCF Foundational)](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCET159){:target="_blank"}   
--   [Motivational Interviewing: An Introduction for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF5725){:target="_blank"}   
--   [Solution Focused Brief Therapy: Introduction](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCRS5279){:target="_blank"}   
--   [Understanding the Social Service Sector](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCET6-M){:target="_blank"} 
--  [Understanding Singapore's Social Compact and Social Policies](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCRS400)
+-   [Befriending Skills and Practice (For Volunteers)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311){:target="_blank"}   
+-   [Boleh Saya Anda? May I Help You? - Conversational Malay for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5647){:target="_blank"}   
+-   [Case Management in Practice: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5228){:target="_blank"}   
+-   [Cognitive Behaviour Therapy: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5141){:target="_blank"}   
+-   [Counselling Skills and Practice: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5229){:target="_blank"}   
+-   [Fundamentals in Developing Community Work Programme (NSFWCF Foundational)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET159){:target="_blank"}   
+-   [Motivational Interviewing: An Introduction for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5725){:target="_blank"}   
+-   [Solution Focused Brief Therapy: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5279){:target="_blank"}   
+-   [Understanding the Social Service Sector](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET6-M){:target="_blank"} 
+-  [Understanding Singapore's Social Compact and Social Policies](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS400)
 
 ## **Cross Sector Certificate/ Diploma/ Degree Programmes:**
 
@@ -48,11 +48,11 @@ Some of the featured courses under this category are:
 
 For the full list of Cross Sector courses offered by SSI, follow this [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   .  
   
-The course, [Understanding the Social Service Sector](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCET6-M){:target="_blank"}   , provides an appreciation and understanding of Singapore's social needs, key stakeholders in the sector and social service initiatives and schemes. [Understanding Singapore's Social Compact and Social Policies](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCRS400){:target="_blank"} , is an e-Learning course that provides an overview of the development of Singapore’s social services over the years and introduces the principles behind its provision. It covers six areas of social service provision which include trends and challenges in the future.  
+The course, [Understanding the Social Service Sector](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET6-M){:target="_blank"}   , provides an appreciation and understanding of Singapore's social needs, key stakeholders in the sector and social service initiatives and schemes. [Understanding Singapore's Social Compact and Social Policies](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS400){:target="_blank"} , is an e-Learning course that provides an overview of the development of Singapore’s social services over the years and introduces the principles behind its provision. It covers six areas of social service provision which include trends and challenges in the future.  
   
-[Counselling Skills and Practice: Introduction](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCRS5229){:target="_blank"}    and [Cognitive Behaviour Therapy: Introduction](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF5141){:target="_blank"}    provide foundational skills in counselling and therapy. It exposes learners to ethical considerations and self-care practices needed in the counselling profession. The course, [Solution Focused Brief Therapy: Introduction](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCRS5279){:target="_blank"}   , trains learners to apply Solutions Focused Brief Therapy (SFBT) when interacting with difficult clients.
+[Counselling Skills and Practice: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5229){:target="_blank"}    and [Cognitive Behaviour Therapy: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5141){:target="_blank"}    provide foundational skills in counselling and therapy. It exposes learners to ethical considerations and self-care practices needed in the counselling profession. The course, [Solution Focused Brief Therapy: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5279){:target="_blank"}   , trains learners to apply Solutions Focused Brief Therapy (SFBT) when interacting with difficult clients.
 
-[Motivational Interviewing: An Introduction for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCYF5725){:target="_blank"}   , equips learners with the skills to engage and facilitate intrinsic motivation in their clients, in order to change behaviour and progress towards an improved well-being.
+[Motivational Interviewing: An Introduction for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5725){:target="_blank"}   , equips learners with the skills to engage and facilitate intrinsic motivation in their clients, in order to change behaviour and progress towards an improved well-being.
 
 ## **Featured Adult Educators under Cross Sector Training Courses**
 
