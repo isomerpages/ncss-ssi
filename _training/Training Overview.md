@@ -14,7 +14,7 @@ SSI'S learning philosophy is guided by the Education Innovation (EI) initiative.
 As part of this initiative, SSI is transforming learning in the social service and non-profit sector through the use of various new learning methodologies that have been made possible by technology. This has resulted in the creation of new and enriching learning experiences.
 
 ## Social Service Training Programmes
-The [training programmes](https://iltms.ssi.gov.sg/registration/Course){:target="_blank"}  offered by SSI can be segregated into ten course categories. Although each course category is segregated into specific sub-sectors or fields within the social service sector, learners should adopt a horizontal learning approach and undertake relevant courses across different course categories to have a well balanced set of skills for their job role. 
+The [training programmes](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}  offered by SSI can be segregated into ten course categories. Although each course category is segregated into specific sub-sectors or fields within the social service sector, learners should adopt a horizontal learning approach and undertake relevant courses across different course categories to have a well balanced set of skills for their job role. 
 
 ## Course Categories offered by SSI
 * [Continuing Education &amp; Training (CET)](https://www.ssi.gov.sg/training/cet-programmes){:target="_blank"}  
