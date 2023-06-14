@@ -22,7 +22,7 @@ The training also provides the learners with knowledge, tips, information and re
 
 #### Registration is open throughout the year
 
-[Register for SSI's online Preparatory Caregiver Training Programme here](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SSI0002){:target="_blank"}
+[Register for SSI's online Preparatory Caregiver Training Programme here](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0002){:target="_blank"}
 
 This is a self-paced e-learning course learners can complete at their convenience.
 
