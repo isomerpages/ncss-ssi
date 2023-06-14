@@ -4,74 +4,89 @@ permalink: /training/cet-programmes/advanced-certificate-in-social-service/
 description: SSI's Advanced Certificate in Social Service equips learners with
   the horizontal skills necessary to be a Social Service Assistant.
 ---
-## Overview: Advanced Certificate in Supported Employment (ACSE) Course
+---
+title: Advanced Certificate in Social Service
+permalink: /training/cet-programmes/advanced-certificate-in-social-service/
+description: SSI's Advanced Certificate in Social Service equips learners with
+  the horizontal skills necessary to be a Social Service Assistant.
+---
+## Overview: Advanced Certificate in Social Service Course
 
-The Advanced Certificate in Supported Employment (ACSE) aims to build capabilities of job coaches in providing employment and employability support for persons with disabilities.
-
+The Advanced Certificate in Social Service is a foundational programme that aims to equip learners with the necessary knowledge and skills to be collaborative, client-centric, compassionate and resilient individuals who are able to carry out their roles effectively when working with clients, partners and stakeholders. The programme further equips learners with the knowledge, skills and attitudes required in para-counselling. This allows them to provide service support to various clients and when working with volunteers in social service agencies (SSAs), communities and institutional settings.  
+  
+The qualification obtained from completing this foundational programme will promote the development and enhancement of horizontal skills necessary to perform the role of a Social Service Assistant. There are five WSQ modules and five non-WSQ modules in this programme. Successful completion of the programme will provide learners with the academic/qualification pathway to progress further in their journey to upskill themselves. Graduands from this programme will be eligible to apply for the SSI Higher Diploma in Social Service (HDSS), which articulates to the Bachelor of Social Work programme offered by the Singapore University of Social Sciences (SUSS).  
+  
 ## Course Requirements and Eligibility
 
-Target audience includes job coaches and other professionals working with persons with disabilities in supported employment. This programme is also useful for those considering entry into this area of work. 
+Applicants must:
+
+-   Have a Grade of C6 for GCE 'O' level English (or equivalent).
+-   Complete a complimentary e-learning course “, [Singapore’s Social Compact](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS400){:target="_blank"} (download the e-certificate and submit it upon registration for this programme).
+
+Applicants should also possess at least one of the following criteria:
+
+-   At least 2 years of working experience (for applicants with a minimum of 3 GCE 'O' level credits).
+-   NITEC in Community Care and Social Services with at least 1.5 years of full-time working experience (including Industry Attachment)
+
+### Target Audience
+
+New entrants and existing Social Service Professionals in the Social Service Sector
+
+### Assessment Criteria
+
+Learners will be assessed through a combination of written assessments, written assignments, role playing and/or oral interviews.
+
+Mandatory Components: Programme Orientation (date: TBC)
+
+## Social Service Course: Certificates and Career Prospects
+
+Upon successful completion of all five WSQ modules, learners will be awarded with an individual Statement of Attainment (SOA) for the five modules.  
   
-A minimum of three GCE ‘O’ Level credits and a minimum English Language (speaking, reading, writing and listening) proficiency level equivalent to C6 GCE ‘O’ level or Employability Skills System Workplace Literacy (WPL) Level 6 is required. Applicants are required to upload their GCE 'O' Level or any higher Certification during the online registration process.
-
-## Learning Outcomes: Supported Employment Training
-
-Upon completion of the course, graduates will be able to:
-
-*   Describe the roles and responsibilities of a job coach in supported employment
-*   Apply appropriate employment and job development theories in assisting persons with disabilities in their career planning
-*   Apply basic counselling skills and techniques when working with clients with disabilities
-*   Demonstrate understanding of the case management process
-*   Apply appropriate negotiation strategies to resolve conflicts in the context of supported employment
-*   Conduct a job analysis of a specific job position identified for a person with a disability
+Upon completion of all ten modules, learners will be awarded an Advanced Certificate in Social Service.  
+  
+With the qualification attained, learners can apply for jobs as a Social Service Assistant or as senior house parents, programme coordinators, senior home helpers and home care workers. [Learn more about Social Work jobs](https://www.ncss.gov.sg/social-service-tribe/careerdetail/Social-Work){:target="_blank"}  and their required qualifications. 
 
 ## Course Details
 
-### Assessment Requirements
-
-Learners are required to meet at least 75% attendance and deemed 'Competent' for each module's assessment/assignment.
-
-**Programme Duration:** This course is offered on a part time basis and has a total duration of 115 hours.  Trainings will be delivered online via Zoom. Where applicable, assessments will be conducted physically in SSI on a separate day. Details will be shared with successful learners and/or in class.
-
-**Lesson Timings:**  9.30am to 5.30pm
-
-**Fees:** Full fees of $4,212 (Inclusive of 8% GST) and nett fees of $1,263.60 (Inclusive of 8% GST, after SSG subsidy). A non-refundable application fee of SGD 53.50 (including 7% GST) is applicable for registrations received by 23 December 2022. Registrations received between 1 January 2023 onwards until the registration closing date will be subjected to 8% GST.  
+**Cohort Size:** 20 pax.  
+**Programme Duration:** 13 months. This is a part time course with lessons being conducted two to three times a week.  
+**Course Timing:**  7.00pm to 10.00pm  
+**Fees:** Full Fees: $9,100*  
+**Estimated Nett Fees:** $2,730* (excluding GST, after SSG subsidy).  
+**GST on Nett Fees:** $218.40* <br>
+**Total Payable Course Fees after SSG Funding:** $2,948.40* (including GST)
   
-### **Module 1: Supported Employment and Working with Clients of Different Disabilities**  
-(8 - 21 February 2023)
+Course fees must be paid prior to the course start date, upon the acceptance of offer and within the given timeline provided in the offer letter.
 
-This module will equip learners with a better understanding of the concept and practices of Supported Employment, including techniques to provide guidance to clients with disabilities in their career planning, employment laws and grants available for employers and persons with disabilities.  
-  
-### **Module 2: Basic Counselling Skills and Practice for Job Coaches**  
-(16 - 18 May 2023)
+Learners must achieve at least 75% attendance per module and be certified competent in all the assessment components in order to be eligible for [SkillsFuture Singapore (SSG) funding](   https://www.ssi.gov.sg/training/funding-information/skillsfuture-singapore-funding/){:target="_blank"}. Learners or their sponsoring organisations will have to pay the full course fees in the event that the learners fail to meet the attendance/ assessment requirements and/or any other terms and conditions for SSG funding eligibility. 
 
-This module provides an overview of the counselling process, the different roles performed by the job coach-counsellor, basic counselling skills, goals of counselling, values and ethics in counselling and approaches in problem management.  In addition, this module will also cover barriers of communication in the counselling process and ways to prevent communication breakdown when working with clients.   
-  
-### **Module 3: Introduction to Case Management**  
- (2 - 3 March 2023)
-	
-This module will equip learners with the necessary skills and knowledge of case management in practice. It provides learners with a broad understanding of how case management serves as a means for achieving client wellness and autonomy through advocacy, dialogue, identification of service resources and direction. Additionally, the workshop also helps learners in forming the connections between job coach, client, service personnel and other stakeholders in order to optimize the assistance rendered.  
-  
-### **Module 4: Conflict, Leadership and People Management**  
-(10 - 11 April 2023)
+*Please note that course fees are subjected to changes.
 
-Conflict is an issue that people have to manage regularly. Any efforts in equalising and normalising persons with disabilities at workplace would have to recognise and accept that potential conflicts may be inevitable. If conflict is not effectively managed and resolved, it can be detrimental because it can cause uncertainty, lower morale and hurt long-term working efficiency and effectiveness. This module will discuss conflict resolution, the art of negotiation in reaching an agreement between different stakeholders as well as how to apply the principles of leadership and people management. 
-  
-### **Module 5: Client and Employer Engagement**  
-(24 April 2023 - 3 May 2023)
 
-This module focuses on the role and responsibilities of a professional job coach and coaching techniques for persons with disabilities (PWDs) within a supported employment framework. In contrast to the traditional train-and-place approach, job coaching in supported employment embraces a ‘place, train and sustain’ model which requires job coaches to work closely with clients with disabilities and employers throughout the job coaching process. Learners will acquire specific knowledge and skills to engage and support clients and employers in supported employment which includes the development of client profile, job development and placement, job site training and support, and fading out and follow-up.  
-  
-**Compulsory Visit to Enabling Village – This will be conducted after the completion of the last Module. More details will be advised in class**
+## Course Application Guidelines &amp; Dates
+Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI%20ACSS%20Application%20Form%20(Feb-Mar%202023).pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-1){:target="_blank"}  between 15 Feb - 29 Mar 2023.
 
-## **Upcoming intake 2023**
 
-**Registration closing date:** Friday, 23 Dec 2022. Registration for this run closes on 23 Dec 2022, and reopens 1-12 Jan 2023.
+| Description | Date | |
+| -------- | -------- | -------- |
+|Programme Dates| Aug 2023 – Sep 2024|
+| Online Applications Open   | 15 Feb 2023 | |
+| Closing Date for Applications | 29 Mar 2023 before 23:59|
+|Interview Session  | 8 or 10 May 2023* <br> (Subject to changes)|
 
-[Register for the ACSE Course here](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS8){:target="_blank"}.
+*Applicants may also be called to attend an online interview with the selection panel on the dates specified above. Applicants will receive an email from SSI informing them about the assigned interview date and time and are required to make themselves available for the interview accordingly. Requests for alternative arrangements will not be considered.
 
-----------
+## Register for a Free Preview Session Here
 
-<sup>1</sup> Subject to successful completion and achievement of a ‘Competent’ grade for all in-class assessments/assignments. Learners eligible for SkillsFuture Singapore (SSG) funding, must achieve at least 75% attendance per module, and be certified ‘Competent’ in all the assessment components. Individuals or Organisations will have to bear the full course fees in the event that learners fail to meet the attendance/assessment requirements and terms and conditions for SSG funding eligibility. <br>
+*Watch this space for the next preview session*
 
-[Click here to learn more about SSG funding](https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html){:target="_blank"}.
+Date: 1 Mar 2023
+<br>Venue: SSI (Level 18 Auditorium), Tiong Bahru Plaza
+<br> Time: 7pm
+<br>[Register here for the preview session of SSI's ACSS course](https://go.gov.sg/ssipreviewregistration){:target="_blank"}. A confirmation email 3 days before the actual session. 
+
+### Frequently Asked Questions (FAQs): ACSS
+
+Refer to this [link](/files/Files%20for%20Learners/FAQ-for-Advanced-Certificate-in-Social-Service%20_Jan%202023.pdf){:target="_blank"} for FAQs relating to this programme.
+
+Learn more about the application procedure from the [ACSS Application Guide (ACSS) here](/files/Files%20for%20Learners/Application%20Guide%20(ACSS)%202023.pdf)
