@@ -6,13 +6,6 @@ description: SSI provides courses that develop learners' competencies to
 ---
 ![Social Service Institute (SSI) Singapore - Board Development Courses](/images/board-development-banner.png)
 
-### **Registration closing soon: <br> Board Development Training Courses**
-
-- [Making $ense I: An Introduction to Fund Raising](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5103){:target="_blank"}<br>Register by 2 Aug 2023
-- [Branding Non-profits: An Introduction](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SCOF243){:target="_blank"}<br>Register by 26 Sep 2023
-- [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5073){:target="_blank"}<br>Register by 6 Oct 2023
-- [Manage Challenging Social Service and NPO Clients](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NPEF6032){:target="_blank"}<br>Register by 7 Oct 2023
-
 Developed in partnership with the Singapore Institute of Directors (SID), the Singapore Governance for Outstanding Organisation Directors Programme (S-GOOD), provides competencies to efficiently and effectively conduct Board functions.  
   
 The programme includes eight modules which are as shown below:
