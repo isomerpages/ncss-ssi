@@ -7,21 +7,21 @@ description: "SSI featured eldercare courses are: Effective Communication with
 ![Social Service Institute (SSI) Singapore - Caring and communicating with dementia and senior persons courses](/images/eldercare-banner.png)
 
 ## Registration opening soon: Eldercare Training Courses
-- [Counselling for Seniors](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SECH5958){:target="_blank"}  <br> Register by 5 Oct 2023
+- [Counselling for Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5958){:target="_blank"}  <br> Register by 5 Oct 2023
 
 ### **Other featured courses in Eldercare, Communication and Counselling:**
--   [Communicate Effectively with Seniors](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SECH6016){:target="_blank"}   
--   [Communicate Effectively with Seniors (Mandarin)](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SECH5525){:target="_blank"}   
+-   [Communicate Effectively with Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH6016){:target="_blank"}   
+-   [Communicate Effectively with Seniors (Mandarin)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5525){:target="_blank"}   
 -   Conversation Starter Toolkit (e-Learning)
--   [Counselling for Seniors](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SECH5958){:target="_blank"}   
--   [Empowering Seniors](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SELC433){:target="_blank"}
--  [Interacting Effectively with Persons with Dementia](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SELC429){:target="_blank"}
--   [Seniors’ Life Review through the Arts](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SELC219){:target="_blank"}
--   [Organise and Implement Group Activities and Recreation Programmes](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SECH5813){:target="_blank"}   
--   [WSQ Support Seniors to Meet their Physical, Emotional, Psychological, Cognitive and Spiritual Needs](https://iltms.ssi.gov.sg/registration/Schedule?coursecode=SECH5848){:target="_blank"}   
+-   [Counselling for Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5958){:target="_blank"}   
+-   [Empowering Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SELC433){:target="_blank"}
+-  [Interacting Effectively with Persons with Dementia](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SELC429){:target="_blank"}
+-   [Seniors’ Life Review through the Arts](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SELC219){:target="_blank"}
+-   [Organise and Implement Group Activities and Recreation Programmes](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5813){:target="_blank"}   
+-   [WSQ Support Seniors to Meet their Physical, Emotional, Psychological, Cognitive and Spiritual Needs](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5848){:target="_blank"}   
 
 
-Check out the [the full list of SSI's Eldercare courses here](https://iltms.ssi.gov.sg/registration/Schedule){:target="_blank"}.
+Check out the [the full list of SSI's Eldercare courses here](https://iltms.ssi.gov.sg/registration/#/Course){:target="_blank"}.
 
 The complimentary featured course under the Agency for Integrated Care (AIC) can be found in the link below:
 
