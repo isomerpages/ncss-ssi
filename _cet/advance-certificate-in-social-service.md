@@ -4,6 +4,12 @@ permalink: /training/cet-programmes/advanced-certificate-in-social-service/
 description: SSI's Advanced Certificate in Social Service equips learners with
   the horizontal skills necessary to be a Social Service Assistant.
 ---
+---
+title: Advanced Certificate in Social Service
+permalink: /training/cet-programmes/advanced-certificate-in-social-service/
+description: SSI's Advanced Certificate in Social Service equips learners with
+  the horizontal skills necessary to be a Social Service Assistant.
+---
 ## Overview: Advanced Certificate in Social Service Course
 
 The Advanced Certificate in Social Service is a foundational programme that aims to equip learners with the necessary knowledge and skills to be collaborative, client-centric, compassionate and resilient individuals who are able to carry out their roles effectively when working with clients, partners and stakeholders. The programme further equips learners with the knowledge, skills and attitudes required in para-counselling. This allows them to provide service support to various clients and when working with volunteers in social service agencies (SSAs), communities and institutional settings.  
@@ -57,7 +63,7 @@ Learners must achieve at least 75% attendance per module and be certified compet
 *Please note that course fees are subjected to changes.
 
 
-## Course Application Guidelines & Dates
+## Course Application Guidelines &amp; Dates
 Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI%20ACSS%20Application%20Form%20(Feb-Mar%202023).pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-1){:target="_blank"}  between 15 Feb - 29 Mar 2023.
 
 

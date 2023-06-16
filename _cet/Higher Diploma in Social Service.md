@@ -39,7 +39,7 @@ Applicants should possess the following criteria:
 All shortlisted applicants will have to sit for a Written Aptitude Test (WAT), which will be conducted on **24 Apr 2023 at 10.30am or 25 Apr 2023 at 3.00pm.** Only applicants who successfully pass the WAT will be considered for admission into the programme.
 
 
-### Qualifications & Career Prospects in Social Work
+### Qualifications &amp; Career Prospects in Social Work
 
 Upon completion of SSI's HDSS, learners will be issued a:
 
