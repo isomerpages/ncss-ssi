@@ -10,7 +10,7 @@ notification: In view of the Budget 2022 announcement, the GST rate will
   1<sup>st</sup> Jan 2024. <br><br>Please note that the login/sign up link on
   our iLTMS course finder page is currently down for maintenance. <a
   href="https://iltms.ssi.gov.sg/registration/#/Login<target=">Please login/
-  sign up for an account on iLTMS here</a>
+  sign up for an account on iLTMS here.</a>
 sections:
   - hero:
       title: Social Service Institute
