@@ -7,10 +7,12 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: In view of the Budget 2022 announcement, the GST rate will
   increase from 7% to 8% from 1<sup>st</sup> Jan 2023 and to 9% from
-  1<sup>st</sup> Jan 2024. <br><br>Please note that the login/sign up link on
-  our iLTMS course finder page is down.  <a
-  href="https://iltms.ssi.gov.sg/registration/#/Login<target=">Please login/
-  sign up for an account on iLTMS here</a>
+  1<sup>st</sup> Jan 2024. <br><br>iLTMS is now live! <a target="_blank"
+  href="https://www.ssi.gov.sg/training/course-registration/">   Register for
+  our courses now! </a> Please note that iLTMS will be undergoing   the <a
+  target="_blank"
+  href="https://www.ssi.gov.sg/maintenance-schedule">   scheduled maintenance on
+  the following dates. </a> <br> Access to iLTMS may be disrupted.
 sections:
   - hero:
       title: Social Service Institute
