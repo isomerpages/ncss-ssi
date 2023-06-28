@@ -14,7 +14,9 @@ description: SSI's Advanced Certificate in Social Service equips learners with
 
 The Advanced Certificate in Social Service is a foundational programme that aims to equip learners with the necessary knowledge and skills to be collaborative, client-centric, compassionate and resilient individuals who are able to carry out their roles effectively when working with clients, partners and stakeholders. The programme further equips learners with the knowledge, skills and attitudes required in para-counselling. This allows them to provide service support to various clients and when working with volunteers in social service agencies (SSAs), communities and institutional settings.  
   
-The qualification obtained from completing this foundational programme will promote the development and enhancement of horizontal skills necessary to perform the role of a Social Service Assistant. There are five WSQ modules and five non-WSQ modules in this programme. Successful completion of the programme will provide learners with the academic/qualification pathway to progress further in their journey to upskill themselves. Graduands from this programme will be eligible to apply for the SSI Higher Diploma in Social Service (HDSS), which articulates to the Bachelor of Social Work programme offered by the Singapore University of Social Sciences (SUSS).  
+The qualification obtained from completing this foundational programme will promote the development and enhancement of horizontal skills necessary to perform the role of a Social Service Assistant. There are five WSQ modules and five non-WSQ modules in this programme. Successful completion of the programme will provide learners with the academic/qualification pathway to progress further in their journey to upskill themselves. Graduands from this programme will be eligible to apply for the SSI Higher Diploma in Social Service (HDSS), which articulates to the Bachelor of Social Work programme offered by the Singapore University of Social Sciences (SUSS).
+
+![](/images/training/ACSS/ssi%20-%20programme%20cirriculum%20-%20advanced%20certificate%20in%20social%20service%20(jun%202023).png)
   
 ## Course Requirements and Eligibility
 
@@ -64,15 +66,14 @@ Learners must achieve at least 75% attendance per module and be certified compet
 
 
 ## Course Application Guidelines &amp; Dates
-Applicants to download and upload the completed [Application Form](/files/Files%20for%20Learners/SSI%20ACSS%20Application%20Form%20(Feb-Mar%202023).pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-1){:target="_blank"}  between 15 Feb - 29 Mar 2023.
-
+Applicants to download and upload the completed [Application Form](/files/ACSS/ssi%20-%20application%20form%20-%20advanced%20certificate%20in%20social%20service%20(jun%202023).pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-1){:target="_blank"}  between 17 Jul – 31 Aug 2023.
 
 | Description | Date | |
 | -------- | -------- | -------- |
-|Programme Dates| Aug 2023 – Sep 2024|
-| Online Applications Open   | 15 Feb 2023 | |
-| Closing Date for Applications | 29 Mar 2023 before 23:59|
-|Interview Session  | 8 or 10 May 2023* <br> (Subject to changes)|
+|Programme Dates| Feb 2024 - March 2025|
+| Online Applications Open   | 17 July 2023 | |
+| Closing Date for Applications | 31 August 2023 before 23:59|
+|Interview Session  | Oct 2023* <br> (Subject to changes)|
 
 *Applicants may also be called to attend an online interview with the selection panel on the dates specified above. Applicants will receive an email from SSI informing them about the assigned interview date and time and are required to make themselves available for the interview accordingly. Requests for alternative arrangements will not be considered.
 
