@@ -4,7 +4,7 @@ permalink: /training/cet-programmes/higher-diploma-in-social-service/
 description: SSI offers a Higher Diploma in Social Service course for aspiring
   social workers, with an articulation pathway to SUSS.
 ---
-## Overview
+## Overview: Higher Diploma in Social Service
 
 SSI’s Higher Diploma in Social Service (HDSS) is a programme for new entrants and existing Social Service Professionals who aspire to be Social Work Associates. The programme aims to equip learners with the necessary skills and knowledge to be collaborative, client-centric, strategic and compassionate individuals who can work effectively with clients and stakeholders. 
 
