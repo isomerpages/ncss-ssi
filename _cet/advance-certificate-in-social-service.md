@@ -66,14 +66,14 @@ Learners must achieve at least 75% attendance per module and be certified compet
 
 
 ## Course Application Guidelines &amp; Dates
-Applicants to download and upload the completed [Application Form](/files/ACSS/ssi%20-%20application%20form%20-%20advanced%20certificate%20in%20social%20service%20(jun%202023).pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-1){:target="_blank"}  between 17 Jul – 31 Aug 2023.
+Applicants to download and upload the completed [Application Form](/files/ACSS/ssi%20-%20application%20form%20-%20advanced%20certificate%20in%20social%20service%20(jun%202023).pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-1){:target="_blank"}  between 17 July – 31 August 2023.
 
 | Description | Date | |
 | -------- | -------- | -------- |
-|Programme Dates| Feb 2024 - March 2025|
+|Programme Dates| February 2024 - March 2025|
 | Online Applications Open   | 17 July 2023 | |
 | Closing Date for Applications | 31 August 2023 before 23:59|
-|Interview Session  | Oct 2023* <br> (Subject to changes)|
+|Interview Session  | October 2023* <br> (Subject to changes)|
 
 *Applicants may also be called to attend an online interview with the selection panel on the dates specified above. Applicants will receive an email from SSI informing them about the assigned interview date and time and are required to make themselves available for the interview accordingly. Requests for alternative arrangements will not be considered.
 
@@ -81,13 +81,13 @@ Applicants to download and upload the completed [Application Form](/files/ACSS/s
 
 *Watch this space for the next preview session*
 
-Date: 1 Mar 2023
+Date: 1 August 2023
 <br>Venue: SSI (Level 18 Auditorium), Tiong Bahru Plaza
 <br> Time: 7pm
-<br>[Register here for the preview session of SSI's ACSS course](https://go.gov.sg/ssipreviewregistration){:target="_blank"}. A confirmation email 3 days before the actual session. 
+<br>[Register for the preview session of SSI's ACSS course](https://go.gov.sg/ssipreviewregistration-aug2023){:target="_blank"}. A confirmation email will be sent to you 3 days before the actual session. 
 
 ### Frequently Asked Questions (FAQs): ACSS
 
-Refer to this [link](/files/Files%20for%20Learners/FAQ-for-Advanced-Certificate-in-Social-Service%20_Jan%202023.pdf){:target="_blank"} for FAQs relating to this programme.
+Download the [FAQs](/files/ACSS/ssi%20-%20faqs%20-%20advanced%20certificate%20in%20social%20service%20(jun%202023).pdf){:target="_blank"} relating to this programme.
 
-Learn more about the application procedure from the [ACSS Application Guide (ACSS) here](/files/Files%20for%20Learners/Application%20Guide%20(ACSS)%202023.pdf)
+Learn more about the application procedure from the [ACSS Application Guide (ACSS)](/files/ACSS/ssi%20-%20application%20guide%20-%20advanced%20certificate%20in%20social%20service%20(jun%202023).pdf).
