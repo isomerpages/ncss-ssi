@@ -10,11 +10,6 @@ Please note that iLTMS will be undergoing the scheduled maintenance on the follo
 
 |Date, Start time (SGT)	|Date, End time (SGT)| 
 | -------- | -------- |
-| 27-Jan-23 22:00 |	28-Jan-23 7:00 |
-| 24-Feb-23 22:00 |	25-Feb-23 7:00 |
-| 24-Mar-23 22:00 |	25-Mar-23 7:00 |
-| 21-Apr-23 22:00	| 22-Apr-23 7:00 |
-| 26-May-23 22:00 |	27-May-23 7:00 |
 | 28-Jun-23 22:00	| 29-Jun-23 7:00 |
 | 29-Jul-23 22:00	| 30-Jul-23 7:00 |
 | 18-Aug-23 22:00 |	19-Aug-23 7:00 |
