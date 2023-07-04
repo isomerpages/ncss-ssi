@@ -14,7 +14,7 @@ Successful applicants will also be required to attend an Academic Integrity Work
 
 SSI’s HDSS programme also provides an articulation pathway into Bachelor in Social Work at the Singapore University of Social Services (SUSS), for learners who want to pursue a further education and their aspiration to become a Social Worker.
 
-![](/images/training/HDSS/ssi%20-%20programme%20cirriculum%20-%20higher%20diploma%20in%20social%20services.png)
+![Higher Diploma in Social Services - Programme Curriculum](/images/training/HDSS/ssi%20-%20programme%20cirriculum%20-%20higher%20diploma%20in%20social%20services%20(july%202023).png)
 
 ## Entry Requirements
 
