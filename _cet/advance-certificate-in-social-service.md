@@ -10,7 +10,7 @@ The Advanced Certificate in Social Service is a foundational programme that aims
   
 The qualification obtained from completing this foundational programme will promote the development and enhancement of horizontal skills necessary to perform the role of a Social Service Assistant. There are five WSQ modules and five non-WSQ modules in this programme. Successful completion of the programme will provide learners with the academic/qualification pathway to progress further in their journey to upskill themselves. Graduands from this programme will be eligible to apply for the SSI Higher Diploma in Social Service (HDSS), which articulates to the Bachelor of Social Work programme offered by the Singapore University of Social Sciences (SUSS).
 
-![](/images/training/ACSS/ssi%20-%20programme%20cirriculum%20-%20advanced%20certificate%20in%20social%20service%20(jun%202023).png)
+![Advanced Certificate In Social Service - Programme Curriculum](/images/training/ACSS/ssi%20-%20programme%20cirriculum%20-%20advanced%20certificate%20in%20social%20service%20(july%202023).png)
   
 ## Course Requirements and Eligibility
 
@@ -49,8 +49,8 @@ With the qualification attained, learners can apply for jobs as a Social Service
 **Course Timing:**  7.00pm to 10.00pm  
 **Fees:** Full Fees: $9,100*  
 **Estimated Nett Fees:** $2,730* (excluding GST, after SSG subsidy).  
-**GST on Nett Fees:** $218.40* <br>
-**Total Payable Course Fees after SSG Funding:** $2,948.40* (including GST)
+**GST on Nett Fees:** $245.70* <br>
+**Total Payable Course Fees after SSG Funding:** $2,975.70* (including GST)
   
 Course fees must be paid prior to the course start date, upon the acceptance of offer and within the given timeline provided in the offer letter.
 
@@ -71,7 +71,7 @@ Applicants to download and upload the completed [Application Form](/files/ACSS/s
 
 *Applicants may also be called to attend an online interview with the selection panel on the dates specified above. Applicants will receive an email from SSI informing them about the assigned interview date and time and are required to make themselves available for the interview accordingly. Requests for alternative arrangements will not be considered.
 
-## Register for a Free Preview Session Here
+## Register for a Course Preview Session Here
 
 *Watch this space for the next preview session*
 

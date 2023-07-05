@@ -14,7 +14,7 @@ Successful applicants will also be required to attend an Academic Integrity Work
 
 SSI’s HDSS programme also provides an articulation pathway into Bachelor in Social Work at the Singapore University of Social Services (SUSS), for learners who want to pursue a further education and their aspiration to become a Social Worker.
 
-![](/images/training/HDSS/ssi%20-%20programme%20cirriculum%20-%20higher%20diploma%20in%20social%20services.png)
+![Higher Diploma in Social Services - Programme Curriculum](/images/training/HDSS/ssi%20-%20programme%20cirriculum%20-%20higher%20diploma%20in%20social%20services%20(july%202023).png)
 
 ## Entry Requirements
 
@@ -93,7 +93,7 @@ All shortlisted applicants will have to sit for a Written Aptitude Test (WAT), w
 Applicants may also be called to attend an online interview with the selection panel on the dates specified above. Applicants will receive an email from SSI informing them about the assigned interview date and time and are required to make themselves available for the interview accordingly. Requests for alternative arrangements will not be considered.
 
 
-## Register for a Free Preview Session
+## Register for a Course Preview Session
 Date: 1 August 2023
 <br> Venue: SSI (Level 18 Auditorium), Tiong Bahru Plaza
 <br>Time: 7pm
