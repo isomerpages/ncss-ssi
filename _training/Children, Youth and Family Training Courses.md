@@ -8,8 +8,6 @@ description: SSI’s children, youth and family courses provides learners with t
 
 ### **Registration closing soon: <br> Children, Youth and Family Training Courses**
 
-- [Developing Youth Outreach Plans](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF508){:target="blank"}<br>Register by 12 Jul 2023
-- [Family &amp; Adult Support Tool (FAST) - User (Synchronous &amp; Asynchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5936){:target="blank"}<br>Register by 24 Jul 2023
 - [Delivering Impactful Training to Youths](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5340){:target="blank"}<br>Register by 2 Aug 2023
 - [Working with Youths on Cyber-Wellness Issues](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF488){:target="blank"}<br>Register by 29 Sep 2023
 - [Management of Family Violence: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF197){:target="blank"}<br>Register by 2 Oct 2023
