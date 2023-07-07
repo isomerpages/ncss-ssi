@@ -57,6 +57,6 @@ plugins:
   - jekyll-remote-theme
 facebook-pixel: ""
 shareicon: /images/isomer-logo.svg
-is_government: false
+is_government: true
 google_analytics_ga4: G-6VSGK9FM1W
 linkedin-insights: ""
