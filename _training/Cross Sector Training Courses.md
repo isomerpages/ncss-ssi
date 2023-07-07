@@ -14,16 +14,16 @@ Some of the featured courses under this category are:
 
 ## **Registration Closing Soon: <br> Cross Sector Training Courses**
 
-- [Enhancing Effectiveness of Social Service Programmes](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS484){:target="_blank"}<br>Register by 2 Aug 2023
 - [Counselling Skills and Practice: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5229){:target="_blank"}<br>Register by 1 Aug 2023
+- [Enhancing Effectiveness of Social Service Programmes](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS484){:target="_blank"}<br>Register by 2 Aug 2023
 - [Professional Certificate in Group Work (NSWCF Foundational)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS28){:target="_blank"}<br>Register by 3 Aug 2023
 - [Resilience and Self-Care for Social Service Professionals](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS453){:target="_blank"}<br>Register by 5 Aug 2023
-- [Advanced Certificate in Social Service](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-1){:target="blank"}<br>31 Aug 2023
-- [Higher Diploma in Social Service](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-2){:target="blank"}<br>31 Aug 2023
+- [Advanced Certificate in Social Service](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-1){:target="blank"}<br>Register by 31 Aug 2023
+- [Higher Diploma in Social Service](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-2){:target="blank"}<br>Register by 31 Aug 2023
 - [Juvenile Law for Social Service Professionals](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NLAW5097){:target="blank"}<br>Register by 5 Sep 2023
 - [Deliver Evidence-based Psychological Interventions](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS480){:target="blank"}<br>Register by 18 Sep 2023
-- [A Spotlight on Palliative Care Approach](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0013){:target="blank"}<br>27 Oct 2023
-- [Counselling Skills and Practice: Intermediate](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5446){:target="blank"}<br>30 Oct 2023
+- [A Spotlight on Palliative Care Approach](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0013){:target="blank"}<br>Register by 27 Oct 2023
+- [Counselling Skills and Practice: Intermediate](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5446){:target="blank"}<br>Register by 30 Oct 2023
 
 ### **Other Featured Short Courses in Befriending, Case Management, Counselling and more:**
 
