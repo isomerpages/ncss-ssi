@@ -36,7 +36,7 @@ The Training Network Model refers to the network of partners that SSI engages to
     
 4.  [Charity Council](https://www.charities.gov.sg/){:target="_blank"}   
     
-5.  [Early Childhood Development Agency](https://www.ecda.gov.sg/home){:target="_blank"}   
+5.  [Early Childhood Development Agency](https://www.ecda.gov.sg/){:target="_blank"}   
     
 6.  [National Arts Council](https://www.nac.gov.sg/){:target="_blank"}   
     
