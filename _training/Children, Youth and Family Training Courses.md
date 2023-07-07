@@ -8,14 +8,14 @@ description: SSI’s children, youth and family courses provides learners with t
 
 ### **Registration closing soon: <br> Children, Youth and Family Training Courses**
 
-- [Helping Youths Cope with Anger](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5158){:target="blank"}<br>Register by 17 Jun 2023
-- [Helping youth with sexuality issues through casework implementation](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SST0494){:target="blank"}<br>Register by 21 Jun 2023
-- [Helping Family Members Cope with Issues Arising from Incarceration of a Loved One](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5802){:target="blank"}<br>Register by 27 Jun 2023
-- [Support the implementation of youth outreach plans to work with clients in social service sectors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF507){:target="blank"}<br>Register by 5 Jul 2023
 - [Developing Youth Outreach Plans](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF508){:target="blank"}<br>Register by 12 Jul 2023
 - [Family &amp; Adult Support Tool (FAST) - User (Synchronous &amp; Asynchronous)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5936){:target="blank"}<br>Register by 24 Jul 2023
 - [Delivering Impactful Training to Youths](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5340){:target="blank"}<br>Register by 2 Aug 2023
 - [Working with Youths on Cyber-Wellness Issues](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF488){:target="blank"}<br>Register by 29 Sep 2023
+- [Management of Family Violence: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF197){:target="blank"}<br>Register by 2 Oct 2023
+- [Rehabilitation and Re-Integration Needs of Former Drug Offenders](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5437){:target="blank"}<br>Register by 3 Oct 2023
+- [Support the implementation of youth outreach plans to work with clients in social service sectors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF507){:target="blank"}<br>Register by 4 Oct 2023
+- [Certified User for Youth Level of Service/Case Management Inventory (YLS/CMI)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCYF5858){:target="blank"}<br>Register by 16 Oct 2023
 
 ### **Other Featured Courses in Children and Youth Development, Youth Counselling and Family Therapy**
 
