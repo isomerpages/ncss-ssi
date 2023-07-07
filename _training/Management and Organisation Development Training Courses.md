@@ -9,8 +9,8 @@ description: SSI provides courses that train learners in management, leadership,
 ## **Registration now open: <br>Management and Organisation Development Training Courses**
 
 ### **People Management and Leadership**
-- [Effective Supervisory Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5079){:target="_blank"}<br>Register by 27 Jul 2023
 - [Branding Non-profits: An Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCOF243){:target="_blank"}<br>Register by 26 Sep 2023
+- [Teambuilding and Leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT6014){:target="_blank"}<br>2 Oct 2023
 - [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5073){:target="_blank"}<br>Register by 6 Oct 2023
 - [Manage Challenging Social Service and NPO Clients](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NPEF6032){:target="_blank"}<br>Register by 7 Oct 2023
 
@@ -18,7 +18,7 @@ description: SSI provides courses that train learners in management, leadership,
 ### **Financial Management**
 - [Making $ense I: An Introduction to Fund Raising](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5103){:target="_blank"}<br>Register by 2 Aug 2023
 - [Internal Controls (I): An Introduction to its Guidelines and Applications](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5466){:target="_blank"}<br>Register by 3 Sep 2023
-
+- [Making $ense II: Fund-Raising Strategy Development](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5766){:target="_blank"}<br>24-Sep-23
 
 ### **Featured Courses: Leadership Development &amp; Management For Non-Profit OrganisationsFeatured SSI's courses in Leadership Development, Financial Management, Facilities Management and Branding for Non-Profit Organisations:**
 -   [Branding Non-profits: An Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCOF243){:target="_blank"} 
