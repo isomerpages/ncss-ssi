@@ -8,8 +8,6 @@ description: SSI's mental health courses provides social service professionals
 
 ### **Registration closing soon: <br> Mental Health Training Courses**
 
-- [Foundations of Psycho-Social Rehabilitation and Recovery](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SMTH387){:target="blank"}<br>Register by 13 Jun 2023
-- [Mental Illness and Family (Synchronous E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS5501){:target="blank"}<br>Register by 6 Jul 2023
 - [Embrace Mental Health](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SMTH314){:target="blank"}<br>Register by 13 Jul 2023
 - [Management of Depression in Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5442){:target="blank"}<br>Register by 3 Aug 2023
 - [Suicide Prevention and Management for Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5587){:target="blank"}<br>Register by 31 Aug 2023
