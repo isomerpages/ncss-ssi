@@ -14,16 +14,16 @@ Some of the featured courses under this category are:
 
 ## **Registration Closing Soon: <br> Cross Sector Training Courses**
 
-- [Boleh Saya Bantu Anda? (May I Help You?): Conversational Malay for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NLAW5089){:target="_blank"}<br>Register by 13 Jul 2023
-- [Building Emotional Resilience in Caregiving](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5451){:target="_blank"}<br>Register by 23 Jul 2023
-- [Enhancing Effectiveness of Social Service Programmes](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS484){:target="_blank"}<br>Register by 2 Aug 2023
 - [Counselling Skills and Practice: Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5229){:target="_blank"}<br>Register by 1 Aug 2023
+- [Enhancing Effectiveness of Social Service Programmes](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS484){:target="_blank"}<br>Register by 2 Aug 2023
 - [Professional Certificate in Group Work (NSWCF Foundational)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS28){:target="_blank"}<br>Register by 3 Aug 2023
 - [Resilience and Self-Care for Social Service Professionals](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS453){:target="_blank"}<br>Register by 5 Aug 2023
+- [Advanced Certificate in Social Service](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-1){:target="blank"}<br>Register by 31 Aug 2023
+- [Higher Diploma in Social Service](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-2){:target="blank"}<br>Register by 31 Aug 2023
 - [Juvenile Law for Social Service Professionals](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NLAW5097){:target="blank"}<br>Register by 5 Sep 2023
 - [Deliver Evidence-based Psychological Interventions](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS480){:target="blank"}<br>Register by 18 Sep 2023
-- [Advanced Certificate in Social Service](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-1){:target="blank"}
-- [Higher Diploma in Social Service](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-2){:target="blank"}
+- [A Spotlight on Palliative Care Approach](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0013){:target="blank"}<br>Register by 27 Oct 2023
+- [Counselling Skills and Practice: Intermediate](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5446){:target="blank"}<br>Register by 30 Oct 2023
 
 ### **Other Featured Short Courses in Befriending, Case Management, Counselling and more:**
 
@@ -43,8 +43,8 @@ Some of the featured courses under this category are:
 -   [Advanced Certificate in Social Service](/training/cet-programmes/advanced-certificate-in-social-service/){:target="_blank"}  
 -   [Certificate in Para-Counselling](/training/cet-programmes/certificate-in-para-counselling/){:target="_blank"}     
 -   [Higher Diploma in Social Service (HDSS)](/training/cet-programmes/higher-diploma-in-social-service/){:target="_blank"} 
--   [Professional Certificate in Casework (NSWCF Foundational)](/training/cet-programmes/professional-certificate-in-casework-(nswcf-foundational)/){:target="_blank"}   
--   [Professional Certificate in Group Work (NSWCF Foundational)](/training/cet-programmes/professional-certificate-in-group-work-(nswcf-foundational)/){:target="_blank"}   
+-   [Professional Certificate in Casework](/training/cet-programmes/professional-certificate-in-casework/){:target="_blank"}   
+-   [Professional Certificate in Group Work](/training/cet-programmes/professional-certificate-in-group-work/){:target="_blank"}   
 
 For the full list of Cross Sector courses offered by SSI, follow this [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   .  
   

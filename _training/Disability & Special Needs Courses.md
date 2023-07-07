@@ -8,11 +8,11 @@ description: SSI provides short courses, certificates, diploma and degree
 
 ## Registration Closing Soon: Disability Training Courses
 
--   [Principles and Practices of Early Intervention for Children with Special Needs – Module 1](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS463){:target="_blank"}<br>Register by 23 Jun 2023
--   [Introduce Classroom and Behaviour Management Strategies in Early Intervention Teaching](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS86){:target="_blank"}<br>Register by 12 Jul 2023
 -   [Develop an Inclusive Lesson Plan in Early Intervention Teaching](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS85){:target="_blank"}<br>Register by 9 Aug 2023
 -   [Independent Travel Training for Professionals Supporting Persons with Disabilities](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS211){:target="blank"}<br>Register by 23 Aug 2023
-
+- [Independent Travel Training for Professionals Supporting Persons with Disabilities](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS211){:target="blank"}<br>Register by 23 Aug 2023
+- [WSQ Principles and Practices of Early Intervention for Children with Special Needs – Module 2](https://iltms.ssi.gov.sg/registration#/Course?coursecode=SDIS83){:target="blank"}<br>Register by 27 Sep 2023
+- [Reflexive Practice for Special Needs and Early Intervention Professionals](https://iltms.ssi.gov.sg/registration#/Course?coursecode=SDIS88){:target="blank"}<br>Register by 27 Oct 2023
 
 ### **Other Featured Short Courses in Early Childhood Interventions and Managing Disabilities**
 -   [WSQ Principles and Practices of Early Intervention for Children with Special Needs Module 1](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS463){:target="_blank"}   

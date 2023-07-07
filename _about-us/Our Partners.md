@@ -21,28 +21,28 @@ The Training Network Model refers to the network of partners that SSI engages to
     
 5.  [Decision Processes International](http://decisionprocesses.com/){:target="_blank"}   
     
-6.  [Singapore University of Social Sciences](https://www.suss.edu.sg/programme-finder?utm_campaign=adm-jan21-intake&utm_source=Google&utm_medium=search&utm_content=SUSS&gclid=CjwKCAjwj975BRBUEiwA4whRBzypLKKo3UFBgUXHjEGgkdiYREwF_Aff8O4cRiWMGzCYV0QeUHRDGRoCqp4QAvD_BwE){:target="_blank"}   
+6.  [Singapore University of Social Sciences](https://www.suss.edu.sg/programme-finder?utm_campaign=adm-jan21-intake&amp;utm_source=Google&amp;utm_medium=search&amp;utm_content=SUSS&amp;gclid=CjwKCAjwj975BRBUEiwA4whRBzypLKKo3UFBgUXHjEGgkdiYREwF_Aff8O4cRiWMGzCYV0QeUHRDGRoCqp4QAvD_BwE){:target="_blank"}   
     
-7.  [Ngee Ann Polytechnic](https://www.np.edu.sg/Pages/default.aspx){:target="_blank"}   
+7.  [Ngee Ann Polytechnic](https://www.np.edu.sg/){:target="_blank"}   
     
 
 ### **Our Agency Partners**
 
-1.  [Ministry of Social and Family Development](https://www.msf.gov.sg/Pages/default.aspx){:target="_blank"}   
+1.  [Ministry of Social and Family Development](https://www.msf.gov.sg/){:target="_blank"}   
     
 2.  [Singapore Prison Service](https://www.sps.gov.sg/){:target="_blank"}   
     
-3.  [Agency for Integrated Care](https://www.aic.sg/?gclid=CjwKCAjwj975BRBUEiwA4whRB5kRfBiF67fiP1aHElfJkqLmVyiNrRNgw2KlpV9o9eTq3Aiby8cpCxoCA08QAvD_BwE&gclsrc=aw.ds){:target="_blank"}   
+3.  [Agency for Integrated Care](https://www.aic.sg/?gclid=CjwKCAjwj975BRBUEiwA4whRB5kRfBiF67fiP1aHElfJkqLmVyiNrRNgw2KlpV9o9eTq3Aiby8cpCxoCA08QAvD_BwE&amp;gclsrc=aw.ds){:target="_blank"}   
     
 4.  [Charity Council](https://www.charities.gov.sg/){:target="_blank"}   
     
-5.  [Early Childhood Development Agency](https://www.ecda.gov.sg/pages/default.aspx){:target="_blank"}   
+5.  [Early Childhood Development Agency](https://www.ecda.gov.sg/){:target="_blank"}   
     
 6.  [National Arts Council](https://www.nac.gov.sg/){:target="_blank"}   
     
 7.  [Tote Board](https://www.toteboard.gov.sg/){:target="_blank"}   
     
-8.  [National Volunteer & Philanthropy Centre](https://cityofgood.sg/){:target="_blank"}   
+8.  [National Volunteer &amp; Philanthropy Centre](https://cityofgood.sg/){:target="_blank"}   
     
 9.  [Ministry of Education](https://www.moe.gov.sg/){:target="_blank"}   
     
@@ -58,14 +58,14 @@ The Training Network Model refers to the network of partners that SSI engages to
 
 ### **Our Adult Educators**
    
-At SSI we believe in developing talents to shine with altruism. We encourage and facilitate professional growth for our Adult Educators (AEs) and continuously build a solid and lasting partnership with them.  We stand committed to evolve stronger as a family. In mind with our prime mission to create trends, explore possibilities and inspire compassion.
+At SSI we believe in developing talents to shine with altruism. We encourage and facilitate professional growth for our Adult Educators (AEs) and continuously build a solid and lasting partnership with them.&nbsp; We stand committed to evolve stronger as a family. In mind with our prime mission to create trends, explore possibilities and inspire compassion.
 
        
 **Why join the AE pool?**
 
 Adult Educators (AEs) who partner with SSI can look forward to opportunities to take on different roles. There are various engagement mediums and professional development opportunities in place to encourage AEs’ continuous professional growth, active engagements and interactions, and a providence of a quality feedback pool with SSI.
 
-If you’re interested to join us, kindly submit the [application form](https://form.gov.sg/#!/607935eee0b9d9001179a50d){:target="_blank"} along with your documents (CV and credentials).
+If you’re interested to join us, kindly submit the&nbsp;[application form](https://form.gov.sg/#!/607935eee0b9d9001179a50d){:target="_blank"}&nbsp;along with your documents (CV and credentials).
 
 **AE Recognition** 
 
@@ -104,4 +104,4 @@ The capability interventions could be through training, workplace learning, cons
   
 The partner should have the relevant expertise in the domain, management readiness and buy in to understand the needs of the sector. They partner should be able to devise strategies to develop capability solutions and have a readiness to deploy these initiatives and projects.  
   
-Please write to us at  <socialserviceinstitute@ncss.gov.sg>  for partnership opportunities.
+Please write to us at    for partnership opportunities.
