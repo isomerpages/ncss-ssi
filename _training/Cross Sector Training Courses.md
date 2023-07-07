@@ -43,8 +43,8 @@ Some of the featured courses under this category are:
 -   [Advanced Certificate in Social Service](/training/cet-programmes/advanced-certificate-in-social-service/){:target="_blank"}  
 -   [Certificate in Para-Counselling](/training/cet-programmes/certificate-in-para-counselling/){:target="_blank"}     
 -   [Higher Diploma in Social Service (HDSS)](/training/cet-programmes/higher-diploma-in-social-service/){:target="_blank"} 
--   [Professional Certificate in Casework (NSWCF Foundational)](/training/cet-programmes/professional-certificate-in-casework-(nswcf-foundational)/){:target="_blank"}   
--   [Professional Certificate in Group Work (NSWCF Foundational)](/training/cet-programmes/professional-certificate-in-group-work-(nswcf-foundational)/){:target="_blank"}   
+-   [Professional Certificate in Casework](/training/cet-programmes/professional-certificate-in-casework/){:target="_blank"}   
+-   [Professional Certificate in Group Work](/training/cet-programmes/professional-certificate-in-group-work/){:target="_blank"}   
 
 For the full list of Cross Sector courses offered by SSI, follow this [link](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   .  
   
