@@ -5,7 +5,6 @@ description: Maintenance schedule for iLTMS
 ---
 Please note that iLTMS will be undergoing the scheduled maintenance on the following dates. Access to iLTMS may be disrupted during this period. 
 
-<br>
 
 
 |Date, Start time (SGT)	|Date, End time (SGT)| 
