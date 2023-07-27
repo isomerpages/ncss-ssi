@@ -59,8 +59,8 @@ Learners may also apply for work as a Social Work Associate, Project Coordinator
 - **Course Timing:**  7.00pm to 10.00pm  
 - **Fees:** Full Fees: $10,800 (before GST).*  
 - **Estimated Nett Fees:** $3,240 (after SSG Subsidy)* 
-- **GST on Nett Fees:** $259.20* 
-- **Total Payable Course Fees after SSG Funding:** $3,499.20 (including GST)*   
+- **GST on Nett Fees:** $291.60* 
+- **Total Payable Course Fees after SSG Funding:** $3,531.60 (including 9% GST for courses commencing 2024 onwards)*   
 - **Assessment:** Written Assessment and Written Assignment 
 - **Mandatory Components:** Programme Orientation in January 2024 (exact date TBC)
 
@@ -75,14 +75,14 @@ Learners must achieve at least 75% attendance per module and be certified compet
 
 ## Application Guidelines
 
-Applicants to download and upload the completed [Application Form](/files/HDSS/ssi%20-%20application%20form%20-%20higher%20diploma%20in%20social%20service%20(jun%202023).pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-2){:target="_blank"}  between 17 July – 31 August 2023. 
+Applicants to download and upload the completed [Application Form](/files/HDSS/ssi%20-%20application%20form%20-%20higher%20diploma%20in%20social%20service%20(jun%202023).pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=scet21-2){:target="_blank"}  between 17 July – 31 August 2023. 
 
 | Description | Date | |
 | -------- | -------- | -------- |
 |Programme Dates| February 2024 to June 2024|
 | Online Applications Open   | 17 July 2023 | 
 | Closing Date for Applications | 31 August 2023 before 23:59|
-| Conduct Written Aptitude Test¹| 26 &amp; 27 September 2023<br> (10.30 am - 11.30 am);<br>(3.00 pm - 4.00 pm) |
+| Conduct Written Aptitude Test¹| 25 &amp; 26 September 2023<br> (10.30 am - 11.30 am);<br>(3.00 pm - 4.00 pm) |
 |Interview Session | October 2023 <br> (Subject to changes) | 
 
 ¹Eligible HDSS applicants will be notified to sit for a compulsory Written Aptitude Test (WAT).
