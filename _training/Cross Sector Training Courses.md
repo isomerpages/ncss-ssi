@@ -22,7 +22,8 @@ Some of the featured courses under this category are:
 - [Counselling Skills and Practice: Intermediate](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5446){:target="blank"}<br>Register by 30 Oct 2023
 - [Provide Support to Social Service Staff in Managing Stress and Burnout](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0106){:target="blank"}<br>Register by 31 Oct 2023
 - [Implement Emergency Response and Crisis Management Plans](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0113){:target="blank"}<br>Register by 6 Nov 2023
-
+- [Develop a Social Service Programme](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0070){:target="blank"}<br>Register by 13 Dec 2023
+- [Implement a Social Service Programme](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0099){:target="blank"}<br>Register by 31 Jan 2024
 
 ### **Other Featured Short Courses in Befriending, Case Management, Counselling and more:**
 
