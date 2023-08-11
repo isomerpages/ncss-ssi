@@ -8,11 +8,14 @@ description: SSI provides courses that both empower volunteers and volunteer man
 
 ##### **Registration closing soon: Volunteer Management &amp; Development Courses**
 
-- [Befriending 101 for Volunteers (eLearning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0035){:target="_blank"}
+- [Introduction to Youth Mentoring (For Volunteers)](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SVLD227){:target="_blank"}Register by 6 Oct 2023
+- [Befriending Skills and Practice (For Volunteers)](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SVDM5311){:target="_blank"}Register by 10 Oct 2023
+- [Volunteer Management Practices: Connect, Engage, Develop](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SVLD313){:target="_blank"}Register by 12 Oct 2023
+
 
 ##### **Coming Soon!**
-- [Design and Develop an Effective Volunteer Work Programme](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NVOL5809){:target="blank"}
-- [Volunteer Management Practices: Connect, Engage, Develop](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD313){:target="blank"}
+- [Plan and Strategise for an Effective Volunteer Engagement Programme](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NVOL5808){:target="blank"}
+
 
 ### **Other Featured Volunteer Management and Development Courses**
 
