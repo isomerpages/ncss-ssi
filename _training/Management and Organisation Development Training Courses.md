@@ -13,7 +13,7 @@ description: SSI provides courses that train learners in management, leadership,
 - [Branding Non-profits: An Introduction](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCOF243){:target="_blank"}<br>Register by 26 Sep 2023
 - [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT5073){:target="_blank"}<br>Register by 26 Sep 2023
 - [Manage Challenging Social Service and NPO Clients](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NPEF6032){:target="_blank"}<br>Register by 30 Sep 2023
-- [Teambuilding and Leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT6014){:target="_blank"}<br>2 Oct 2023
+- [Teambuilding and Leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT6014){:target="_blank"}<br>Register by 2 Oct 2023
 
 ### **Financial Management**
 
