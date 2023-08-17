@@ -15,8 +15,8 @@ description: SSI offers courses and training for social workers and the social
 
 ## **Featured Professional Certification Courses In Social Service**
 <table>
-	<tbody><tr><td><a href="https://www.ssi.gov.sg/training/cet-programmes/" target="\_blank"><img src="/images/training/cet-v2.png" alt="Continuing Education &amp; Training (CET) Courses"></a><h3>Advanced Certificate in Social Service Course</h3><a href="https://www.ssi.gov.sg/training/cet-programmes/advanced-certificate-in-social-service/" target="\_blank">Apply 31 Aug 2023</a>
-<h3>Higher Diploma in Social Service</h3><a href="https://www.ssi.gov.sg/training/cet-programmes/higher-diploma-in-social-service/" target="\_blank">Apply by 27 Jul 2023</a>
+	<tbody><tr><td><a href="https://www.ssi.gov.sg/training/cet-programmes/" target="\_blank"><img src="/images/training/cet-v2.png" alt="Continuing Education &amp; Training (CET) Courses"></a><h3>Advanced Certificate in Social Service Course</h3><a href="https://www.ssi.gov.sg/training/cet-programmes/advanced-certificate-in-social-service/" target="\_blank">Register 31 Aug 2023</a>
+<h3>Higher Diploma in Social Service</h3><a href="https://www.ssi.gov.sg/training/cet-programmes/higher-diploma-in-social-service/" target="\_blank">Register by 27 Jul 2023</a>
 <p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/cet-programmes/" target="\_blank">View other CET courses</a></p></td>
 		
 </tr><tr> <td><a href="https://www.ssi.gov.sg/training/cross-sector/" target="\_blank"><img src="/images/training/cross-sector-v2.png" alt="Counselling, Motivational Interviewing &amp; Behaviour Therapy Courses"></a><h3>
