@@ -9,27 +9,28 @@ description: SSI provides courses that train learners in management, leadership,
 ## **Registration now open: <br>Management and Organisation Development Training Courses**
 
 ### **People Management and Leadership**
-- [Branding Non-profits: An Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCOF243){:target="_blank"}<br>Register by 26 Sep 2023
-- [Teambuilding and Leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT6014){:target="_blank"}<br>2 Oct 2023
-- [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5073){:target="_blank"}<br>Register by 6 Oct 2023
-- [Manage Challenging Social Service and NPO Clients](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NPEF6032){:target="_blank"}<br>Register by 7 Oct 2023
-
+- [Donor Outreach Through Social Media](https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFRE5508){:target="_blank"}<br>Register by 22 Sep 2023
+- [Branding Non-profits: An Introduction](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCOF243){:target="_blank"}<br>Register by 26 Sep 2023
+- [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT5073){:target="_blank"}<br>Register by 26 Sep 2023
+- [Manage Challenging Social Service and NPO Clients](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NPEF6032){:target="_blank"}<br>Register by 30 Sep 2023
+- [Teambuilding and Leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT6014){:target="_blank"}<br>Register by 2 Oct 2023
 
 ### **Financial Management**
-- [Making $ense I: An Introduction to Fund Raising](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5103){:target="_blank"}<br>Register by 2 Aug 2023
-- [Internal Controls (I): An Introduction to its Guidelines and Applications](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5466){:target="_blank"}<br>Register by 3 Sep 2023
-- [Making $ense II: Fund-Raising Strategy Development](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5766){:target="_blank"}<br>24-Sep-23
+
+- [Internal Controls (I): An Introduction to its Guidelines and Applications](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NFIN5466){:target="_blank"}<br>Register by 3 Sep 2023
+- [Making $ense II: Fund-Raising Strategy Development](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NFRE5766){:target="_blank"}<br>Register by 24 Sep 2023
+- [Internal Controls (II): Implementing Internal Controls for Revenue to Receivable Process, including Fund-raising](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NFIN5629){:target="_blank"}<br>Register by 7 Oct 2023
 
 ### **Featured Courses: Leadership Development &amp; Management For Non-Profit OrganisationsFeatured SSI's courses in Leadership Development, Financial Management, Facilities Management and Branding for Non-Profit Organisations:**
--   [Branding Non-profits: An Introduction](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCOF243){:target="_blank"} 
-- [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5073){:target="_blank"} 
-- [Teambuilding and leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT6014){:target="_blank"} 
--   [Budgeting for Charities](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFIN5450){:target="_blank"}   
--   [Donor Outreach Through Social Media](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5508){:target="_blank"}   
--   [Effective Supervisory Skills for NPO Managers](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMGT5079){:target="_blank"}  
--   [Manage Challenging Social Service and NPO Clients](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NPEF6032){:target="_blank"}   
--   [Making $ense I: An Introduction to Fund-Raising](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NFRE5766){:target="_blank"}   
--   [Plan New Facilities Development](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NMMR5890){:target="_blank"}    
+-   [Branding Non-profits: An Introduction](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCOF243){:target="_blank"} 
+- [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT5073){:target="_blank"} 
+- [Teambuilding and leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT6014){:target="_blank"} 
+-   [Budgeting for Charities](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NFIN5450){:target="_blank"}   
+-   [Donor Outreach Through Social Media](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NFRE5508){:target="_blank"}   
+-   [Effective Supervisory Skills for NPO Managers](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT5079){:target="_blank"}  
+-   [Manage Challenging Social Service and NPO Clients](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NPEF6032){:target="_blank"}   
+-   [Making $ense I: An Introduction to Fund-Raising](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NFRE5766){:target="_blank"}   
+-   [Plan New Facilities Development](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMMR5890){:target="_blank"}    
 
 ### **The featured SSI's partner courses are:**
 -   [Strategy Formulation by DPI Asia](https://www.dpi-asia.com/post/strategy-formulation-pure-simple){:target="_blank"}
@@ -38,7 +39,7 @@ description: SSI provides courses that train learners in management, leadership,
 -   [Group Excellence by Capelle Consulting](https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&amp;wdLOR=c02FF4AA9-A7A4-4B9C-B187-D439BDFDFC3C){:target="_blank"}
 -   [3-D People Development by Capelle Consulting](https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&amp;wdLOR=c02FF4AA9-A7A4-4B9C-B187-D439BDFDFC3C){:target="_blank"}
 
-Search for more Management and Organisation Development courses on [our iLTMS course portal here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}. 
+Search for more Management and Organisation Development courses on [our iLTMS course portal here](https://iltms.ssi.gov.sg/Registration/Course){:target="_blank"}. 
 
 ### Featured Adult Educators under Management and Organisation Development Training Courses
 
