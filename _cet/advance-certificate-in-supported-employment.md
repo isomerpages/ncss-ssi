@@ -63,7 +63,7 @@ Conflict is an issue that people have to manage regularly. Any efforts in equali
   
 ### **Module 5: Client and Employer Engagement**  
 **Training dates:** 2, 5, 6, 16, 19 Feb 2024<br>
-**Assessment date(s):** 29 Mar 2024 or 1 Apr 2024 (TBC)
+**Assessment date(s):** 1-2 April 2024
 
 This module focuses on the role and responsibilities of a professional job coach and coaching techniques for persons with disabilities (PWDs) within a supported employment framework. In contrast to the traditional train-and-place approach, job coaching in supported employment embraces a ‘place, train and sustain’ model which requires job coaches to work closely with clients with disabilities and employers throughout the job coaching process. Learners will acquire specific knowledge and skills to engage and support clients and employers in supported employment which includes the development of client profile, job development and placement, job site training and support, and fading out and follow-up.  
   
