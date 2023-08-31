@@ -42,10 +42,8 @@ Learners will be assessed through a mid-term written assessment, a practical ass
 ### Course Schedule
 
 
-- The trainer led sessions: To Be Confirmed
-
+- Trainer Led Sessions: To Be Confirmed
 - Practicum Workshop: To Be Confirmed
-
 - Practicum (To be allocated upon successful enrolment and completion of classroom training): To Be Confirmed
 
 _Note:_
