@@ -4,7 +4,6 @@ permalink: /training/cet-programmes/preparatory-training-for-potential-peer-supp
 description: SSI's Peer Support Specialist Programme empowers learners to
   leverage on their lived experiences to support their peers.
 ---
-
 ### **Overview**
 
 This is the first module of the ‘Peer Support Specialist Programme’. It provides learners with an awareness and introduction to the role of a Peer Support Specialist, and the significance of sharing their lived experiences in order to support others on their recovery journeys. The module will be conducted over two days in a classroom. 
@@ -42,9 +41,7 @@ At the end of the module, participants will be assessed based on a written asses
 
 ### **Course Schedule**
 
-The trainer led sessions are expected to run from 12 – 13 Sep 2022*.
-
-*The proposed dates may be subjected to further changes. 
+- Trainer Led Sessions: To Be Confirmed
   
 _Note:_
 
@@ -53,6 +50,5 @@ _Note:_
 3.  _The module is fully sponsored for Singaporeans and permanent residents if they fulfill a 100% attendance requirement and complete all assessments. Learners who do not meet the 100% attendance requirement would need to provide a valid reason with supporting documents (e.g. a medical certificate). In such events, learners should at least meet a 75% attendance requirement._
 4. For consistency of terminology, the term “Peer Support Specialist” refers to persons with mental health conditions who have been trained and certified to work in multi-disciplinary teams. They are able to leverage on their lived experiences to provide formalised and structured support to others on their recovery journeys. 
 
-**Application Form**
-
-Click [here](https://form.gov.sg/6283a6b6c27fbc00121ed3ec){:target="_blank"} to access the application form for both the ‘Preparatory Training for Potential Peer Support Specialist’ and ‘Certificate in Peer Support.
+**Application Form**<br>
+[Register your interest](https://form.gov.sg/64ef65027fc1090011942941){:target="_blank"} for ‘Preparatory Training for Potential Peer Support Specialist’ and ‘Certificate in Peer Support.

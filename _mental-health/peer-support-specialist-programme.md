@@ -8,13 +8,13 @@ The ‘Peer Support Specialist Programme’ was launched in 2016 by the National
 
 ### Module 1
 
-This module is called the 'Preparatory Training for Potential Peer Support Specialist'. More details can be found [here](https://www.ssi.gov.sg/training/cet-programmes/preparatory-training-for-potential-peer-support-specialist/){:target="_blank"}   .
+This module is called the ['Preparatory Training for Potential Peer Support Specialist'](https://www.ssi.gov.sg/training/cet-programmes/preparatory-training-for-potential-peer-support-specialist/){:target="_blank"}.
 
 ### Module 2
 
-This module is called the 'Certificate in Peer Support'. More details can be found [here.](https://www.ssi.gov.sg/training/cet-programmes/certificate-in-peer-support/){:target="_blank"}   
+This module is called the ['Certificate in Peer Support'](https://www.ssi.gov.sg/training/cet-programmes/certificate-in-peer-support/){:target="_blank"}.
 
 
 ### Application Details
 
-Submit your application [here](https://form.gov.sg/6283a6b6c27fbc00121ed3ec){:target="_blank"}(for Module 1 and/or Module 2).
+[Register your interest](https://form.gov.sg/64ef65027fc1090011942941){:target="_blank"} for Module 1 and/or Module 2.
