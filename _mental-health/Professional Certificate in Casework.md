@@ -49,4 +49,4 @@ This module provides social workers with the knowledge and skills to analyse, mo
 Note:  
 This course qualifies for CPE credits, with the renewal of accreditation at one credit per one training hour. (For further enquiries on accreditation matters with SASW, please contact the Accreditation Secretariat at [6778 7922](tel:6778 7922) or email: [accreditation@sasw.org.sg](mailto:accreditation@sasw.org.sg))
   
-To find out about upcoming intakes, please  [click here](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}   .
+Find out more about [upcoming intakes](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}.
