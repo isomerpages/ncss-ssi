@@ -35,7 +35,7 @@ Learners are required to meet at least 75% attendance for every module’s train
 
 **Lesson Timings:**  9.30am to 5.30pm
 
-**Fees:** Full fees of $4,212 (Inclusive of 8% GST) and nett fees of $1,263.60 (Inclusive of 8% GST, after SSG subsidy<sup>1</sup>). A non-refundable application fee of SGD 54 (including 8% GST) is applicable for registrations received by 6 Oct 2023. Registrations received between 1 January 2023 onwards until the registration closing date will be subjected to 8% GST.  
+**Fees:** Full fees of $4,212 (Inclusive of 8% GST) and nett fees of $1,263.60 (Inclusive of 8% GST, after SSG subsidy<sup>1</sup>). A non-refundable application fee of SGD 54 (including 8% GST) is applicable for registrations received by 6 Oct 2023.
   
 ### **Module 1: Supported Employment and Working with Clients of Different Disabilities**  
 **Training dates:** 8, 15, 20, 28, 29 Nov 2023<br>

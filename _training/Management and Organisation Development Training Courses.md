@@ -17,11 +17,10 @@ description: SSI provides courses that train learners in management, leadership,
 
 ### **Financial Management**
 
-- [Internal Controls (I): An Introduction to its Guidelines and Applications](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NFIN5466){:target="_blank"}<br>Register by 3 Sep 2023
 - [Making $ense II: Fund-Raising Strategy Development](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NFRE5766){:target="_blank"}<br>Register by 24 Sep 2023
 - [Internal Controls (II): Implementing Internal Controls for Revenue to Receivable Process, including Fund-raising](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NFIN5629){:target="_blank"}<br>Register by 7 Oct 2023
 
-### **Featured Courses: Leadership Development &amp; Management For Non-Profit OrganisationsFeatured SSI's courses in Leadership Development, Financial Management, Facilities Management and Branding for Non-Profit Organisations:**
+### **Featured Courses: Leadership Development &amp; Management For Non-Profit Organisations**
 -   [Branding Non-profits: An Introduction](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCOF243){:target="_blank"} 
 - [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT5073){:target="_blank"} 
 - [Teambuilding and leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT6014){:target="_blank"} 

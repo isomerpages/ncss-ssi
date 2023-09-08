@@ -14,15 +14,13 @@ Some of the featured courses under this category are:
 
 ## **Registration Closing Soon: <br> Cross Sector Training Courses**
 
-- [Advanced Certificate in Social Service](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCET21-1){:target="blank"}<br>Register by 31 Aug 2023
-- [Higher Diploma in Social Service](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCET21-2){:target="blank"}<br>Register by 31 Aug 2023
-- [Juvenile Law for Social Service Professionals](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NLAW5097){:target="blank"}<br>Register by 5 Sep 2023
-- [Deliver Evidence-based Psychological Interventions](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS480){:target="blank"}<br>Register by 18 Sep 2023
 - [A Spotlight on Palliative Care Approach](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0013){:target="blank"}<br>Register by 27 Oct 2023
 - [Counselling Skills and Practice: Intermediate](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5446){:target="blank"}<br>Register by 30 Oct 2023
 - [Provide Support to Social Service Staff in Managing Stress and Burnout](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0106){:target="blank"}<br>Register by 31 Oct 2023
 - [Implement Emergency Response and Crisis Management Plans](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0113){:target="blank"}<br>Register by 6 Nov 2023
-- [Develop a Social Service Programme](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0070){:target="blank"}<br>Register by 13 Dec 2023
+- [Identify Learning Needs for Personal and Professional Development](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SST0929){:target="blank"}<br>Register by	18 Dec 2023
+- [Building Emotional Resilience in Caregiving](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5451){:target="blank"}<br>Register by 25 Dec 2023
+- [Develop a Social Service Programme](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0070){:target="blank"}<br>Register by 31 Jan 2024
 - [Implement a Social Service Programme](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0099){:target="blank"}<br>Register by 31 Jan 2024
 
 ### **Other Featured Short Courses in Befriending, Case Management, Counselling and more:**
