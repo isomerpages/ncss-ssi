@@ -8,7 +8,7 @@ description: SSI's mental health courses provides social service professionals
 
 ### **Registration closing soon: <br> Mental Health Training Courses**
 
-- [Suicide Prevention and Management for Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5587){:target="blank"}<br>Register by 31 Aug 2023
+- No new courses at the moment.
 
 
 ### **Other Featured Courses in Mental Health, Suicide Prevention and Psychiatric Rehabilitation**
