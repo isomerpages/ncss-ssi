@@ -9,16 +9,15 @@ description: SSI provides courses that train learners in management, leadership,
 ## **Registration now open: <br>Management and Organisation Development Training Courses**
 
 ### **People Management and Leadership**
-- [Donor Outreach Through Social Media](https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFRE5508){:target="_blank"}<br>Register by 22 Sep 2023
-- [Branding Non-profits: An Introduction](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCOF243){:target="_blank"}<br>Register by 26 Sep 2023
-- [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT5073){:target="_blank"}<br>Register by 26 Sep 2023
-- [Manage Challenging Social Service and NPO Clients](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NPEF6032){:target="_blank"}<br>Register by 30 Sep 2023
-- [Teambuilding and Leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT6014){:target="_blank"}<br>Register by 2 Oct 2023
+- [Charities Accounting Standard and its Application](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NFIN5652){:target="blank"}<br>Register by 4 Dec 2023
+- [Effective Supervisory Skills for NPO Managers](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT5079){:target="blank"}<br>Register by 21 Jan 2024
+
 
 ### **Financial Management**
 
-- [Making $ense II: Fund-Raising Strategy Development](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NFRE5766){:target="_blank"}<br>Register by 24 Sep 2023
 - [Internal Controls (II): Implementing Internal Controls for Revenue to Receivable Process, including Fund-raising](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NFIN5629){:target="_blank"}<br>Register by 7 Oct 2023
+- [Internal Controls (III): Implementing Internal Controls for Procurement to Payable Process](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NFIN5630){:target="blank"}<br>Register by 10 Dec 2023
+- [Budgeting for Charities](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NFIN5450){:target="blank"}<br>Register by 15 Dec 2023
 
 ### **Featured Courses: Leadership Development &amp; Management For Non-Profit Organisations**
 -   [Branding Non-profits: An Introduction](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCOF243){:target="_blank"} 
