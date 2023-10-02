@@ -8,15 +8,22 @@ description: SSI’s children, youth and family courses provides learners with t
 
 ### **Registration closing soon: <br> Children, Youth and Family Training Courses**
 
-- [Management of Family Violence: Working with Couples in Violent Relationships](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5583){:target="blank"}<br>Register by 17 Sep 2023
-- [An Introduction to Family Therapy](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5646){:target="blank"}<br>Register by 24 Sep 2023
-- [Working with Youths on Cyber-Wellness Issues](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF488){:target="blank"}<br>Register by 29 Sep 2023
-- [Rehabilitation and Re-Integration Needs of Former Drug Offenders](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5437){:target="blank"}<br>Register by 3 Oct 2023
-- [Support the implementation of youth outreach plans to work with clients in social service sectors](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF507){:target="blank"}<br>Register by 4 Oct 2023
 - [Family Therapy: Intermediate](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5879){:target="blank"}<br>Register by 10 Oct 2023
+
 - [Certified User for Youth Level of Service/Case Management Inventory (YLS/CMI)](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5858){:target="blank"}<br>Register by 16 Oct 2023
+
 - [Helping Youths Cope with Anger](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5158){:target="blank"}<br>Register by 7 Nov 2023
+
 - [Management of Family Violence: Introduction](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF197){:target="blank"}<br>Register by 8 Nov 2023
+
+- [Techniques in Couple Counselling](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5316){:target="blank"}<br>Register by 6 Dec 2023
+
+- [Management of Family Violence: Working with Couples in Violent Relationships](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5583){:target="blank"}<br>Register by 3 Jan 2024
+
+- [An Introduction to Family Therapy](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5646){:target="blank"}<br>Register by 17 Jan 2024
+
+- [Family Therapy: Intermediate](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5879){:target="blank"}<br>Register by 31 Jan 2024
+
 
 
 ### **Other Featured Courses in Children and Youth Development, Youth Counselling and Family Therapy**
