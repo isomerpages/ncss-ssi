@@ -20,6 +20,9 @@ Some of the featured courses under this category are:
 - [Implement Emergency Response and Crisis Management Plans](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0113){:target="blank"}<br>Register by 6 Nov 2023
 - [Identify Learning Needs for Personal and Professional Development](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SST0929){:target="blank"}<br>Register by	18 Dec 2023
 - [Building Emotional Resilience in Caregiving](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5451){:target="blank"}<br>Register by 25 Dec 2023
+- [Motivational Interviewing: An Introduction for Social Service Practitioners](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5725){:target="blank"}<br>Register by 1 Jan 2024
+- [Understanding and Working with Malay-Muslim Clients](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5570){:target="blank"}<br>Register by 1 Jan 2024
+- [Cognitive Behaviour Therapy: Introduction](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5141){:target="blank"}<br>Register by 22 Jan 2024
 - [Develop a Social Service Programme](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0070){:target="blank"}<br>Register by 31 Jan 2024
 - [Implement a Social Service Programme](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0099){:target="blank"}<br>Register by 31 Jan 2024
 
