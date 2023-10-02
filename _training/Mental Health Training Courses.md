@@ -10,7 +10,6 @@ description: SSI's mental health courses provides social service professionals
 
 - No new courses at the moment.
 
-
 ### **Other Featured Courses in Mental Health, Suicide Prevention and Psychiatric Rehabilitation**
 -   [Applied Suicide Interventional Skills (ASIST)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5709){:target="_blank"}   
 -   [E.M.B.R.A.C.E Mental Health](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SMTH314){:target="_blank"}
