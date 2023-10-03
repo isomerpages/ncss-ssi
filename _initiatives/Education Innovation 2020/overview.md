@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /initiatives/education-innovation-2020/overview
+permalink: /initiatives/education-innovation-2020/overview/
 third_nav_title: Education Innovation 2020
 ---
 <iframe id="ytplayer" type="text/html" width="860" height="575"

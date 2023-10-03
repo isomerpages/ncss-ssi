@@ -1,6 +1,6 @@
 ---
 title: SMART Learning
-permalink: /initiatives/education-innovation-2020/smart-learning
+permalink: /initiatives/education-innovation-2020/smart-learning/
 third_nav_title: Education Innovation 2020
 ---
 

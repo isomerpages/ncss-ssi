@@ -1,6 +1,6 @@
 ---
 title: Blended Learning
-permalink: /initiatives/education-innovation-2020/blended-learning
+permalink: /initiatives/education-innovation-2020/blended-learning/
 third_nav_title: Education Innovation 2020
 ---
 

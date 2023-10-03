@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions (FAQs)
-permalink: /FAQS/
+permalink: /faqs/
 description: Frequently Asked Questions (FAQs) - Social Service Institute
 ---
 Updated on 10th July 2023

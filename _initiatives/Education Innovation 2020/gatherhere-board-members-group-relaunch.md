@@ -1,6 +1,6 @@
 ---
 title: GatherHere Board Members Group Relaunch
-permalink: /initiatives/education-innovation-2020/gather-here
+permalink: /initiatives/education-innovation-2020/gather-here/
 third_nav_title: Education Innovation 2020
 ---
 ![GatherHere](/images/initiatives/education-innovation/GatherHere-mainpage.png)
