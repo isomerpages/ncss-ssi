@@ -12,7 +12,7 @@ The goal for the near future is to introduce online components to complement for
 
 For most of our learners, managing a full-time job in the social service sector is already a challenge, let alone adding education to the equation. Despite this, part of being a social worker or a therapist in the social service sector involves constant self-improvement, learning and development. To better serve the needs of their clients and to hone their expertise in their respective fields, our learners need to learn from professional trainers. Thus, SSI has embarked on blended learning to ensure more effective use of classroom time for deeper discussions with the adult educators and their peers.
 
-Read more about [Blended Learning 'Out with the Old, In with the New'](/images/initiatives/education-innovation/Blended_Learning.pdf).
+Read more about [Blended Learning 'Out with the Old, In with the New'](/images/initiatives/education-innovation/blended_learning.pdf).
 
 |  |  |
 |--|--|

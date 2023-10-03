@@ -7,11 +7,11 @@ description: SSI offers courses and training for social workers and the social
 ## **Social Service Courses: Course Schedules (2023)**
 
 ### **Training Course Directory 2023**
-* ##### [Training Directory 2023-2024](/files/Training%20Courses/ssi%20training%20directory%20fy23%20-%20updated%204%20jul%202023.pdf){:target="_blank"} 
+* ##### [Training Directory 2023-2024](/files/training%20courses/ssi%20training%20directory%20fy23%20-%20updated%204%20jul%202023.pdf){:target="_blank"} 
 
 
 ### **Course Schedule &amp; Registration Dates** <br>
-* ##### [Registration period: Sep 2023 - Jan 2024](/files/Training%20Courses/monthly%20featured%20courses%20-%20updated%2031%20aug%202023.pdf){:target="_blank"}
+* ##### [Registration period: Sep 2023 - Jan 2024](/files/training%20courses/monthly%20featured%20courses%20-%20updated%2031%20aug%202023.pdf){:target="_blank"}
 
 ## **Featured Professional Certification Courses In Social Service**
 <table>
@@ -38,7 +38,7 @@ Provide Support to Social Service Staff in Managing Stress and Burnout</h3><a hr
 </tr><tr> <td><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" target="\_blank"><img src="/images/training/volunteer-v2.png" alt="Equip volunteers with knowledge, develop volunteer management capabilities"></a><h3>Befriending 101 for Volunteers (e-learning)</h3><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0035" target="\_blank">Registration is open throughout the year</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" target="\_blank">View other Volunteering Management and Development courses</a></p></td>
 
 </tr><tr> <td><a href="https://www.ssi.gov.sg/training/caregiving/" target="\_blank"><img src="/images/training/caregiving-v2.png" alt="Caregiver Training Courses"></a><h3>Preparatory Caregiver Training Programme</h3><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0002" target="\_blank">Registration is open throughout the year</a><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/caregiving/" target="\_blank">View all Caregiving courses</a></p></td>
-	</tr><tr> <td><a href="https://www.ssi.gov.sg/training/tnm-courses/" target="\_blank"><img src="/images/training/TNM-banner.png" alt="TNM 2.0, an initiative brought to you by SSI"></a><h3>Supporting Students with Special Education Needs Through Collaborative Approach using Sensory Play
+	</tr><tr> <td><a href="https://www.ssi.gov.sg/training/tnm-courses/" target="\_blank"><img src="/images/training/tnm-banner.png" alt="TNM 2.0, an initiative brought to you by SSI"></a><h3>Supporting Students with Special Education Needs Through Collaborative Approach using Sensory Play
 </h3><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0081" target="\_blank">Register by 28 Sep 2023</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/tnm-courses/" target="\_blank">View all TNM 2.0 courses</a></p></td></tr></tbody></table>
 
 --- 

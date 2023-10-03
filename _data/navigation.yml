@@ -1,4 +1,4 @@
-logo: /images/SSI%20New%20Logo.jpg
+logo: /images/ssi%20new%20logo.jpg
 links:
   - title: About Us
     collection: about-us
@@ -11,4 +11,4 @@ links:
   - title: Media Centre
     resource_room: true
   - title: Course Search
-    url: https://iltms.ssi.gov.sg/Registration/Course
+    url: https://iltms.ssi.gov.sg/registration/course

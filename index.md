@@ -16,7 +16,7 @@ sections:
   - hero:
       title: Social Service Institute
       subtitle: Developing Social Service Professionals – 20 Years and Beyond
-      background: /images/homepage/Home_Banner.jpg
+      background: /images/homepage/home_banner.jpg
       url: /contact-us/
       key_highlights:
         - title: LEAVE US YOUR FEEDBACK
@@ -55,7 +55,7 @@ sections:
         communities in need.
       button: Donate Now
       url: https://go.gov.sg/ssi-cfc
-      image: /images/CFC_Comchest_Standalone_logo.png
+      image: /images/cfc_comchest_standalone_logo.png
       alt: Image alt text
   - infopic:
       title: Refreshed 4ST (2022-2026)
@@ -63,7 +63,7 @@ sections:
       button: Find out more
       url: https://go.gov.sg/wu0chy
       alt: Refreshed 4ST
-      image: /images/homepage/4STBanner.jpeg
+      image: /images/homepage/4stbanner.jpeg
       description: Learn more about how the new recommendations put forth by the
         refreshed Social Service Sector Strategic Thrusts (4ST) can empower our
         sector.

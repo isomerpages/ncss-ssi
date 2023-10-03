@@ -3,7 +3,7 @@ title: GatherHere Board Members Group Relaunch
 permalink: /initiatives/education-innovation-2020/gather-here/
 third_nav_title: Education Innovation 2020
 ---
-![GatherHere](/images/initiatives/education-innovation/GatherHere-mainpage.png)
+![GatherHere](/images/initiatives/education-innovation/gatherhere-mainpage.png)
 
 **GatherHere Board Members Group Relaunch**
 <br>Upcoming webinar exclusively for the GatherHere's Board Members Group. This webinar will be held on 27 May 2021 via Zoom. Click [here](/training/cet-programmes/peer-support-specialist-programme/){:target="_blank"} to find out more. Zoom details will be provided nearer to the event date.

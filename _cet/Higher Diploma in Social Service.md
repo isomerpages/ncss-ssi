@@ -14,7 +14,7 @@ Successful applicants will also be required to attend an Academic Integrity Work
 
 SSI’s HDSS programme also provides an articulation pathway into Bachelor in Social Work at the Singapore University of Social Services (SUSS), for learners who want to pursue a further education and their aspiration to become a Social Worker.
 
-![Higher Diploma in Social Services - Programme Curriculum](/images/training/HDSS/ssi%20-%20programme%20cirriculum%20-%20higher%20diploma%20in%20social%20services%20(july%202023).png)
+![Higher Diploma in Social Services - Programme Curriculum](/images/training/hdss/ssi%20-%20programme%20cirriculum%20-%20higher%20diploma%20in%20social%20services%20(july%202023).png)
 
 ## Entry Requirements
 
@@ -75,7 +75,7 @@ Learners must achieve at least 75% attendance per module and be certified compet
 
 ## Application Guidelines
 
-Applicants to download and upload the completed [Application Form](/files/HDSS/ssi%20-%20application%20form%20-%20higher%20diploma%20in%20social%20service%20(jun%202023).pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=scet21-2){:target="_blank"}  between 17 July – 31 August 2023. 
+Applicants to download and upload the completed [Application Form](/files/hdss/ssi%20-%20application%20form%20-%20higher%20diploma%20in%20social%20service%20(jun%202023).pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=scet21-2){:target="_blank"}  between 17 July – 31 August 2023. 
 
 | Description | Date | |
 | -------- | -------- | -------- |
@@ -100,6 +100,6 @@ Date: 1 August 2023
 <br>[Register for the preview session of SSI's HDSS course](https://go.gov.sg/ssipreviewregistration-aug2023){:target="_blank"}. A confirmation email will be sent to you 3 days before the actual session. 
 
 ## FAQs
-Download the [FAQs](/files/HDSS/ssi%20-%20faqs%20-%20higher%20diploma%20in%20social%20service%20(jun%202023).pdf){:target="blank"} relating to this programme.
+Download the [FAQs](/files/hdss/ssi%20-%20faqs%20-%20higher%20diploma%20in%20social%20service%20(jun%202023).pdf){:target="blank"} relating to this programme.
 
-Learn more about the application procedure from the [HDSS Application Guide](/files/HDSS/ssi%20-%20application%20guide%20-%20higher%20diploma%20in%20social%20service%20(jun%202023).pdf){:target="blank"}.
+Learn more about the application procedure from the [HDSS Application Guide](/files/hdss/ssi%20-%20application%20guide%20-%20higher%20diploma%20in%20social%20service%20(jun%202023).pdf){:target="blank"}.

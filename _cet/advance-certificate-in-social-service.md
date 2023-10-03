@@ -10,7 +10,7 @@ The Advanced Certificate in Social Service is a foundational programme that aims
   
 The qualification obtained from completing this foundational programme will promote the development and enhancement of horizontal skills necessary to perform the role of a Social Service Assistant. There are five WSQ modules and five non-WSQ modules in this programme. Successful completion of the programme will provide learners with the academic/qualification pathway to progress further in their journey to upskill themselves. Graduands from this programme will be eligible to apply for the SSI Higher Diploma in Social Service (HDSS), which articulates to the Bachelor of Social Work programme offered by the Singapore University of Social Sciences (SUSS).
 
-![Advanced Certificate In Social Service - Programme Curriculum](/images/training/ACSS/ssi%20-%20programme%20cirriculum%20-%20advanced%20certificate%20in%20social%20service%20(july%202023).png)
+![Advanced Certificate In Social Service - Programme Curriculum](/images/training/acss/ssi%20-%20programme%20cirriculum%20-%20advanced%20certificate%20in%20social%20service%20(july%202023).png)
   
 ## Course Requirements and Eligibility
 
@@ -60,7 +60,7 @@ Learners must achieve at least 75% attendance per module and be certified compet
 
 
 ## Course Application Guidelines &amp; Dates
-Applicants to download and upload the completed [Application Form](/files/ACSS/ssi%20-%20application%20form%20-%20advanced%20certificate%20in%20social%20service%20(jun%202023).pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-1){:target="_blank"}  between 17 July – 31 August 2023.
+Applicants to download and upload the completed [Application Form](/files/acss/ssi%20-%20application%20form%20-%20advanced%20certificate%20in%20social%20service%20(jun%202023).pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-1){:target="_blank"}  between 17 July – 31 August 2023.
 
 | Description | Date | |
 | -------- | -------- | -------- |
@@ -82,6 +82,6 @@ Date: 1 August 2023
 
 ### Frequently Asked Questions (FAQs): ACSS
 
-Download the [FAQs](/files/ACSS/ssi%20-%20faqs%20-%20advanced%20certificate%20in%20social%20service%20(jun%202023).pdf){:target="_blank"} relating to this programme.
+Download the [FAQs](/files/acss/ssi%20-%20faqs%20-%20advanced%20certificate%20in%20social%20service%20(jun%202023).pdf){:target="_blank"} relating to this programme.
 
-Learn more about the application procedure from the [ACSS Application Guide (ACSS)](/files/ACSS/ssi%20-%20application%20guide%20-%20advanced%20certificate%20in%20social%20service%20(jun%202023).pdf).
+Learn more about the application procedure from the [ACSS Application Guide (ACSS)](/files/acss/ssi%20-%20application%20guide%20-%20advanced%20certificate%20in%20social%20service%20(jun%202023).pdf).

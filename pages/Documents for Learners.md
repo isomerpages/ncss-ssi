@@ -3,4 +3,4 @@ title: Documents for Learners
 permalink: /learners-documents/
 description: ""
 ---
-[Annex A - MAPA Training](/files/Files%20for%20Learners/Annex_A_MAPA_Training.pdf)
+[Annex A - MAPA Training](/files/files%20for%20learners/annex_a_mapa_training.pdf)
