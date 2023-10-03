@@ -3,6 +3,6 @@ title: Frequently Asked Questions (FAQs)
 permalink: /faqs/
 description: Frequently Asked Questions (FAQs) - Social Service Institute
 ---
-Updated on 10th July 2023
+Updated on 2 October 2023
 
-[Click here to view our list of Frequently Asked Questions (FAQs)](/files/ssi%20-%20faqs%20on%20website_10%20jul%202023.pdf)
+[Click here to view our list of Frequently Asked Questions (FAQs)](/files/ssi%20faqs_oct%202023.pdf)
