@@ -5,6 +5,5 @@ date: 2022-11-12
 layout: file
 description: ""
 image: ""
-file_url: /files/OPENING ADDRESS BY ASSOC PROF KEVIN LIM, VP, NCSS AT THE SSI’S
-  GRADUATION CEREMONY 2022.pdf
+file_url: /files/opening address by assoc prof kevin lim, vp, ncss at the ssi’s graduation ceremony 2022.pdf
 ---
