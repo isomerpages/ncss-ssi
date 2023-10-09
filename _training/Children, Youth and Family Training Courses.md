@@ -8,10 +8,6 @@ description: SSI’s children, youth and family courses provides learners with t
 
 ### **Registration closing soon: <br> Children, Youth and Family Training Courses**
 
-- [Family Therapy: Intermediate](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5879){:target="blank"}<br>Register by 10 Oct 2023
-
-- [Certified User for Youth Level of Service/Case Management Inventory (YLS/CMI)](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5858){:target="blank"}<br>Register by 16 Oct 2023
-
 - [Helping Youths Cope with Anger](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5158){:target="blank"}<br>Register by 7 Nov 2023
 
 - [Management of Family Violence: Introduction](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF197){:target="blank"}<br>Register by 8 Nov 2023
