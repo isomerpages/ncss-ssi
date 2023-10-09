@@ -9,7 +9,7 @@ description: SSI provides short courses, certificates, diploma and degree
 ## Registration Closing Soon: Disability Training Courses
 
 - [Reflexive Practice for Special Needs and Early Intervention Professionals](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS88){:target="blank"}<br>Register by 27 Oct 2023
-- - [Working with Persons with Autism](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS87){:target="blank"}<br>Register by 5 Dec 2023
+- [Working with Persons with Autism](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS87){:target="blank"}<br>Register by 5 Dec 2023
 - [Independent Travel Training for Professionals Supporting Persons with Disabilities](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS211){:target="blank"}<br>Register by 17 Jan 2024
 
 
