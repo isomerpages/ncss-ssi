@@ -47,8 +47,8 @@ safe: false
 description: The Social Service Institute (SSI) is a CET centre that supports
   the training needs of the social service sector.
 vica: true
-staging: https://ncss-ssi-staging.netlify.app
-prod: https://ncss-ssi-prod.netlify.app
+staging: https://staging.diy6854tbsm8b.amplifyapp.com/
+prod: https://master.diy6854tbsm8b.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets

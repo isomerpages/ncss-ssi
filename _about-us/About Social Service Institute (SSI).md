@@ -8,4 +8,4 @@ The Social Service Institute (SSI) is a key division under the Sector Capability
 
 It is a Continuing Education and Training (CET) centre for social service by  [SkillsFuture Singapore (SSG)](https://www.skillsfuture.gov.sg/){:target="_blank"}     and aligns to the Social Service Sector Strategic Thrust (4ST) by developing skilled professionals and the capability of the sector. This is achieved through SSI’s leadership and partnership with stakeholders, agility in providing relevant and quality training and spirit of innovation and entrepreneurship.
 
-<!--![Organization Chart](/images/Organisation-Chart.png)-->
+<!--![Organization Chart](/images/organisation-chart.png)-->

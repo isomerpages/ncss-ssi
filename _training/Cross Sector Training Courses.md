@@ -14,13 +14,15 @@ Some of the featured courses under this category are:
 
 ## **Registration Closing Soon: <br> Cross Sector Training Courses**
 
-- [A Spotlight on Palliative Care Approach](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0013){:target="blank"}<br>Register by 27 Oct 2023
 - [Counselling Skills and Practice: Intermediate](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5446){:target="blank"}<br>Register by 30 Oct 2023
 - [Provide Support to Social Service Staff in Managing Stress and Burnout](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0106){:target="blank"}<br>Register by 31 Oct 2023
 - [Implement Emergency Response and Crisis Management Plans](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0113){:target="blank"}<br>Register by 6 Nov 2023
+- [Develop a Social Service Programme](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0070){:target="blank"}<br>Register by 13 Dec 2024
 - [Identify Learning Needs for Personal and Professional Development](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SST0929){:target="blank"}<br>Register by	18 Dec 2023
 - [Building Emotional Resilience in Caregiving](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5451){:target="blank"}<br>Register by 25 Dec 2023
-- [Develop a Social Service Programme](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0070){:target="blank"}<br>Register by 31 Jan 2024
+- [Motivational Interviewing: An Introduction for Social Service Practitioners](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5725){:target="blank"}<br>Register by 1 Jan 2024
+- [Understanding and Working with Malay-Muslim Clients](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5570){:target="blank"}<br>Register by 1 Jan 2024
+- [Cognitive Behaviour Therapy: Introduction](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5141){:target="blank"}<br>Register by 22 Jan 2024
 - [Implement a Social Service Programme](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0099){:target="blank"}<br>Register by 31 Jan 2024
 
 ### **Other Featured Short Courses in Befriending, Case Management, Counselling and more:**

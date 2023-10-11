@@ -8,14 +8,11 @@ description: SSI provides courses that both empower volunteers and volunteer man
 
 ##### **Registration closing soon: Volunteer Management &amp; Development Courses**
 
-- [Introduction to Youth Mentoring (For Volunteers)](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SVLD227){:target="_blank"}<br>Register by 6 Oct 2023
 - [Volunteer Management Practices: Connect, Engage, Develop](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SVLD313){:target="_blank"}<br>Register by 12 Oct 2023
+- [Plan and Strategise for an Effective Volunteer Engagement Programme](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NVOL5808){:target="blank"}<br>Register by 30 Nov 2023
+
+##### **Registration is open throughout the year**
 - [Befriending Skills and Practice (For Volunteers)](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SVDM5311){:target="_blank"}<br>Register for e-learning course
-
-
-##### **Coming Soon!**
-- [Plan and Strategise for an Effective Volunteer Engagement Programme](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NVOL5808){:target="blank"}
-
 
 ### **Other Featured Volunteer Management and Development Courses**
 
@@ -58,13 +55,13 @@ Volunteer Management Practitioners (VMPs) are key enablers in engaging volunteer
 The LDR provides guidance on the skills and competencies required to perform effectively and optimise volunteer resources in meeting the needs of service users. It shows potential development pathways and learning opportunities as VMPs plan towards the longer-term goal of serving and growing with the sector. Besides VMPs, SSAs’ management and human resource practitioners may also use the LDR as a guide to recruit and develop their VMPs.
 
 **Click on below image to download the LDR publication:**
-[![Learning and Development Roadmap - Volunteer Management Practitioners](/images/Learning%20and%20Development%20Roadmap.png)](https://www.ncss.gov.sg/docs/default-source/default-document-library/l-d-roadmap-for-vmps-(final).pdf){:target="_blank"}
+[![Learning and Development Roadmap - Volunteer Management Practitioners](/images/learning%20and%20development%20roadmap.png)](https://www.ncss.gov.sg/docs/default-source/default-document-library/l-d-roadmap-for-vmps-(final).pdf){:target="_blank"}
 
-![A comment about Learning &amp; Development Roadmap by CEO of PPIS, Ms Tuminah Supawi, "This guide is useful for supervisors and HR professionals from social service agencies, who plan and conduct learning and development conversations with volunteer management practitioners (VMP)."](/images/training/volunteer/L_D%20Quote%20Banner_02.jpg)
+![A comment about Learning &amp; Development Roadmap by CEO of PPIS, Ms Tuminah Supawi, "This guide is useful for supervisors and HR professionals from social service agencies, who plan and conduct learning and development conversations with volunteer management practitioners (VMP)."](/images/training/volunteer/l_d%20quote%20banner_02.jpg)
 
-![A comment about Learning &amp; Development Roadmap by Senior director of People from Care Corner Singapore Ltd, Mr Christian Chao, "The Learning and development roadmap for volunteer management practitioners (vmp) serves as an informative and practical guide for HR professionals who would like to develop their volunteers by equipping them with relevant capabilities and providing pathways for their progression."](/images/training/volunteer/L_D%20Quote%20Banner_01_revised.jpg)
+![A comment about Learning &amp; Development Roadmap by Senior director of People from Care Corner Singapore Ltd, Mr Christian Chao, "The Learning and development roadmap for volunteer management practitioners (vmp) serves as an informative and practical guide for HR professionals who would like to develop their volunteers by equipping them with relevant capabilities and providing pathways for their progression."](/images/training/volunteer/l_d%20quote%20banner_01_revised.jpg)
 
-![A comment about Learning &amp; Development Roadmap by president of loving heart multi service centre and volunteer centre, Assoc Prof Teng Su Ching, "Social service sector transformation comes fast and furious. Emerging trends quickly become the current practice especially in social service. volunteer management practitioners (VMP) must be equipped not just with the right skills and knowledge to help guide this transformation, but also with core skills that enable them to take a transdisciplinary view of social service."](/images/training/volunteer/L_D%20Quote%20Banner_03.jpg)
+![A comment about Learning &amp; Development Roadmap by president of loving heart multi service centre and volunteer centre, Assoc Prof Teng Su Ching, "Social service sector transformation comes fast and furious. Emerging trends quickly become the current practice especially in social service. volunteer management practitioners (VMP) must be equipped not just with the right skills and knowledge to help guide this transformation, but also with core skills that enable them to take a transdisciplinary view of social service."](/images/training/volunteer/l_d%20quote%20banner_03.jpg)
 
 ## LDR Self-assessment Tool 
 The accompanying Self-assessment Tool (SAT) to the LDR helps VMPs to identify their proficiency gaps and relevant training courses (including Social Service Institutes’ (SSI) courses), to further strengthen their capabilities so as to perform effectively in their roles. 

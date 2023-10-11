@@ -11,7 +11,7 @@ Training Network Model 2.0 (TNM 2.0) is a 5-year strategic project that aims to 
 
 The objective of TNM 2.0 is to build a sustainable learning ecosystem for the social service sector, while helping enhance the capabilities and capacity of the 7 SSAs so that they, as domain experts, can offer training and consultancy services to the sector as well. 
 
-![Training Network Model 2.0 (TNM 2.0)](/images/training/TNM/TNM%202.png)
+![Training Network Model 2.0 (TNM 2.0)](/images/training/tnm/tnm%202.png)
 
 ### **Selected SSA as Partners for TNM 2.0**
 7 SSA partners were selected based on their domain expertise, proven track record, buy-in from management and board, as well as their readiness to conduct training. SSA partners select one Primary Training Area, based on their domain expertise, to specialise in. SSA partners were encouraged to offer training in secondary training areas as well.
