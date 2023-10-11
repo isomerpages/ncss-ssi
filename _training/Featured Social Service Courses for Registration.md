@@ -12,7 +12,7 @@ description: SSI offers courses and training for social workers and the social
 
 ### **Course Schedule &amp; Registration Dates** <br>
 * ##### [Registration period: Oct 2023 - Jan 2024](/files/training%20courses/monthly%20featured%20courses%20-%20oct%202023.pdf){:target="_blank"}
-[]()
+
 
 ## **Featured Professional Certification Courses In Social Service**
 <table>
