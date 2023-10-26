@@ -12,20 +12,13 @@ description: SSI provides courses that both empower volunteers and volunteer man
 - [Plan and Strategise for an Effective Volunteer Engagement Programme](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NVOL5808){:target="blank"}<br>Register by 30 Nov 2023
 
 ##### **Registration is open throughout the year**
-- [Befriending Skills and Practice (For Volunteers)](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SVDM5311){:target="_blank"}<br>Register for e-learning course
+- [Befriending 101 (For Volunteers)](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0035){:target="_blank"}<br>Register for e-learning course
 
 ### **Other Featured Volunteer Management and Development Courses**
 
 #### **Volunteer Management Training Courses**
 - [Volunteer Management Practices: Connect, Engage, Develop](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD313){:target="_blank"} 
 -   [Design and Develop an Effective Volunteer Work Programme](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NVOL5809){:target="_blank"} 
--   [Introduction to Volunteerism (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD422){:target="_blank"} 
--   [Getting your Social Agency Volunteer-Ready (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD423){:target="_blank"} 
--   [Conducting a Needs Assessment (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD424){:target="_blank"} 
--   [Recruiting and Selecting Volunteers (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD425){:target="_blank"} 
--   [On-boarding and Training Volunteers (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD426){:target="_blank"} 
--   [Supporting and Recognising Volunteers (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD427){:target="_blank"} 
--   [Reviewing Volunteer Management (e-Learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD428){:target="_blank"}  
 -   [Plan and Strategise for an Effective Volunteer Engagement Programme](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NVOL5808){:target="_blank"} 
 
 #### **Volunteer Development Training Courses**
