@@ -94,10 +94,7 @@ Applicants may also be called to attend an online interview with the selection p
 
 
 ## Register for a Course Preview Session
-Date: 1 August 2023
-<br> Venue: SSI (Level 18 Auditorium), Tiong Bahru Plaza
-<br>Time: 7pm
-<br>[Register for the preview session of SSI's HDSS course](https://go.gov.sg/ssipreviewregistration-aug2023){:target="_blank"}. A confirmation email will be sent to you 3 days before the actual session. 
+*Watch this space for the next preview session.*
 
 ## FAQs
 Download the [FAQs](/files/hdss/ssi%20-%20faqs%20-%20higher%20diploma%20in%20social%20service%20(jun%202023).pdf){:target="blank"} relating to this programme.

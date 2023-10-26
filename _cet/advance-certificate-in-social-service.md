@@ -75,11 +75,6 @@ Applicants to download and upload the completed [Application Form](/files/acss/s
 
 *Watch this space for the next preview session*
 
-Date: 1 August 2023
-<br>Venue: SSI (Level 18 Auditorium), Tiong Bahru Plaza
-<br> Time: 7pm
-<br>[Register for the preview session of SSI's ACSS course](https://go.gov.sg/ssipreviewregistration-aug2023){:target="_blank"}. A confirmation email will be sent to you 3 days before the actual session. 
-
 ### Frequently Asked Questions (FAQs): ACSS
 
 Download the [FAQs](/files/acss/ssi%20-%20faqs%20-%20advanced%20certificate%20in%20social%20service%20(jun%202023).pdf){:target="_blank"} relating to this programme.
