@@ -3,12 +3,15 @@ title: "Caring for Elderly: Dementia, Empowering Seniors & More"
 permalink: /training/eldercare/
 description: "SSI featured eldercare courses are: Effective Communication with
   Elderly, Caring for Dementia, Counselling, Empowering Seniors & more."
+variant: markdown
 ---
 ![Social Service Institute (SSI) Singapore - Caring and communicating with dementia and senior persons courses](/images/eldercare-banner.png)
 
 ## Registration opening soon: Eldercare Training Courses
 
-- No new courses at the moment.
+- [Case Management for Seniors Using Action Learning Approach](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SECH5364){:target="blank"}<br>Register by 22 Jan 2024
+- [Introduction to Art Therapy for Seniors - 老年艺术治疗：应用与策划](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SECH5299){:target="blank"}<br>Register by	29 Jan 2024
+
 
 ### **Other featured courses in Eldercare, Communication and Counselling:**
 -   [Communicate Effectively with Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH6016){:target="_blank"}   
