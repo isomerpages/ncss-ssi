@@ -3,12 +3,15 @@ title: Mental Health Training Courses
 permalink: /training/mental-health/
 description: SSI's mental health courses provides social service professionals
   with the skills to work with persons with mental health conditions.
+variant: markdown
 ---
 ![Social Service Institute (SSI) Singapore - Mental Health Conditions &amp; Recovery Courses](/images/mental-health-banner.png)
 
 ### **Registration closing soon: <br> Mental Health Training Courses**
 
-- No new courses at the moment.
+- [Introduction to Trends and Approaches for Youth Mental Health](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0001){:target="blank"}<br>Register by	24 Jan 2024
+- [Foundations of Psycho-Social Rehabilitation and Recovery](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SMTH387){:target="blank"}<br>Regsiter by 24 Jan 2024
+
 
 ### **Other Featured Courses in Mental Health, Suicide Prevention and Psychiatric Rehabilitation**
 -   [Applied Suicide Interventional Skills (ASIST)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS5709){:target="_blank"}   
