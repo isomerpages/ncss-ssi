@@ -3,6 +3,7 @@ title: Cross Sector Training Courses
 permalink: /training/cross-sector/
 description: SSI’s cross sector courses provide an overview and understanding of
   each sub-sector and their unique social needs.
+variant: markdown
 ---
 ![Social Service Institute (SSI) Singapore - Counselling, Motivational Interviewing &amp; Behaviour Therapy Courses](/images/cross-sector-banner.png)
 
@@ -14,9 +15,6 @@ Some of the featured courses under this category are:
 
 ## **Registration Closing Soon: <br> Cross Sector Training Courses**
 
-- [Counselling Skills and Practice: Intermediate](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5446){:target="blank"}<br>Register by 30 Oct 2023
-- [Provide Support to Social Service Staff in Managing Stress and Burnout](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0106){:target="blank"}<br>Register by 31 Oct 2023
-- [Implement Emergency Response and Crisis Management Plans](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0113){:target="blank"}<br>Register by 6 Nov 2023
 - [Develop a Social Service Programme](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0070){:target="blank"}<br>Register by 13 Dec 2024
 - [Identify Learning Needs for Personal and Professional Development](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SST0929){:target="blank"}<br>Register by	18 Dec 2023
 - [Building Emotional Resilience in Caregiving](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5451){:target="blank"}<br>Register by 25 Dec 2023
