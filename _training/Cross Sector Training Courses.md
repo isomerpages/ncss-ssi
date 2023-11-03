@@ -22,6 +22,9 @@ Some of the featured courses under this category are:
 - [Understanding and Working with Malay-Muslim Clients](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5570){:target="blank"}<br>Register by 1 Jan 2024
 - [Cognitive Behaviour Therapy: Introduction](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5141){:target="blank"}<br>Register by 22 Jan 2024
 - [Implement a Social Service Programme](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0099){:target="blank"}<br>Register by 31 Jan 2024
+- [Deliver Evidence-based Psychological Interventions](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS480){:target="blank"}<br>Register by 5 Feb 2024
+- [Solution Focused Brief Therapy: Intermediate](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5447){:target="blank"}<br>Register by 21 Feb 2024
+
 
 ### **Other Featured Short Courses in Befriending, Case Management, Counselling and more:**
 
