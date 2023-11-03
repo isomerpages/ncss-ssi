@@ -2,13 +2,15 @@
 title: Volunteer Management and Development Training Courses
 permalink: /training/volunteer-development-and-management/
 description: SSI provides courses that both empower volunteers and volunteer managers.
+variant: markdown
 ---
 ![Volunteer Management &amp; Development Courses: Equip volunteers with knowledge, develop volunteer management capabilities](/images/volunteer-banner.png)
 
 
 ##### **Registration closing soon: Volunteer Management &amp; Development Courses**
 
-- [Plan and Strategise for an Effective Volunteer Engagement Programme](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NVOL5808){:target="blank"}<br>Register by 30 Nov 2023
+- [Introduction to Youth Mentoring (For Volunteers)](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SVLD227){:target="blank"}<br>Register by	25 Jan 2024
+
 
 ##### **Registration is open throughout the year**
 - [Befriending 101 (For Volunteers)](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0035){:target="_blank"}<br>Register for e-learning course
