@@ -4,6 +4,7 @@ permalink: /about-us/tnm/
 description: Training Network Model 2.0 (TNM 2.0) is a 5-year strategic project
   that aims to transform Social Service Agencies (SSAs) to become Centres of
   Excellence.
+variant: markdown
 ---
 ### **Overview**
 Training Network Model 2.0 (TNM 2.0) is a 5-year strategic project that aims to transform up to 7 SSAs to become Centres of Excellence.
@@ -17,7 +18,7 @@ The objective of TNM 2.0 is to build a sustainable learning ecosystem for the so
 
 Details of each SSA are available on their websites.
 
-| SSA TNM Parntners | [Academy of Human Development (AHD)](https://ahd.com.sg/training-network-model-courses){:target="_blank"} | [APSN Limited](https://www.apsn.org.sg/apsn-learning-hub/){:target="_blank"} | [Dyslexia Association of Singapore Academy (DAS)](https://www.dasacademy.edu.sg/skillsfuture-courses/){:target="_blank"} | [Rainbow Centre Training and Consultancy (RCTC)](https://rainbowcentre.org.sg/training/){:target="_blank"}	| [Samaritans of Singapore (SOS)](https://www.sos.org.sg/outreach/training){:target="_blank"} | [SHINE Children & Youth Services (SHINE)](https://www.shine.org.sg/training){:target="_blank"} | [The Salvation Army Peacehaven (TSA)](https://acaredemy.salvationarmy.org.sg/courses/) |
+| SSA TNM Parntners | [Academy of Human Development (AHD)](https://ahd.com.sg/training-network-model-courses){:target="_blank"} | [APSN Limited](https://www.apsn.org.sg/apsn-learning-hub/){:target="_blank"} | [Dyslexia Association of Singapore Academy (DAS)](https://www.dasacademy.edu.sg/skillsfuture-courses/){:target="_blank"} | [Rainbow Centre Training and Consultancy (RCTC)](https://rainbowcentre.org.sg/training/){:target="_blank"}	| [Samaritans of Singapore (SOS)](https://www.sos.org.sg/outreach/training){:target="_blank"} | [SHINE Children & Youth Services (SHINE)](https://www.shine.org.sg/training){:target="_blank"} | [The Salvation Army Peacehaven (TSA)](https://acaredemy.salvationarmy.org.sg/courses/){:target="_blank"} |
 | -- | -- | -- | -- | -- | -- | -- | -- |
 | **Primary Training Areas** | Family | Disability, Mental Health & Wellness	| Disability | Disability | Mental Health & Wellness | Children and Youth | Eldercare |
 | **Secondary Training Areas** | Research & Programme Evaluation	| Social Inclusion | Research & Programme Evaluation | Social Inclusion & Community Assets | Volunteer Management | Volunteer  Management | Social Inclusion |
