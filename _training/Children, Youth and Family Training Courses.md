@@ -3,14 +3,11 @@ title: Children, Youth and Family Training Courses
 permalink: /training/cyandf/
 description: SSI’s children, youth and family courses provides learners with the
   skills to work with children, youth and families.
+variant: markdown
 ---
 ![Children &amp; Youth Development, Family Therapy / Family Violence Courses: Equip volunteers with skills to work with children, youth and families.](/images/cyf-banner.png)
 
 ### **Registration closing soon: <br> Children, Youth and Family Training Courses**
-
-- [Helping Youths Cope with Anger](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5158){:target="blank"}<br>Register by 7 Nov 2023
-
-- [Management of Family Violence: Introduction](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF197){:target="blank"}<br>Register by 8 Nov 2023
 
 - [Techniques in Couple Counselling](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5316){:target="blank"}<br>Register by 6 Dec 2023
 
