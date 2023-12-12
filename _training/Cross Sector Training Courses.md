@@ -7,13 +7,11 @@ variant: markdown
 ---
 ![Social Service Institute (SSI) Singapore - Counselling, Motivational Interviewing &amp; Behaviour Therapy Courses](/images/cross-sector-banner.png)
 
-## **Cross Sector Training Courses**
-
 These courses provide a deeper understanding about each sub-sector, their unique social needs and help learners to critically discern and analyse their own assumptions.  
   
 Cross Sector courses also cover a range of skills such as counselling, motivational interviewing and behaviour therapy which social service professionals can apply while working with different client groups such as children, youth, adults and seniors.  
   
-### **Registration Closing Soon:**
+### **Registration Closing Soon**
 - [Identify Learning Needs for Personal and Professional Development](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SST0929){:target="blank"}<br>Register by	18 Dec 2023
 - [Building Emotional Resilience in Caregiving](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5451){:target="blank"}<br>Register by 25 Dec 2023
 - [Motivational Interviewing: An Introduction for Social Service Practitioners](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5725){:target="blank"}<br>Register by 1 Jan 2024
@@ -24,7 +22,7 @@ Cross Sector courses also cover a range of skills such as counselling, motivatio
 - [Solution Focused Brief Therapy: Intermediate](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5447){:target="blank"}<br>Register by 21 Feb 2024
 
 
-### **Other Featured Short Courses in Befriending, Case Management, Counselling and more:**
+### **Other Featured Short Courses in Befriending, Case Management, Counselling and more**
 
 -   [Befriending Skills and Practice (For Volunteers)](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SVDM5311){:target="_blank"}   
 -   [Boleh Saya Anda? May I Help You? - Conversational Malay for Social Service Practitioners](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5647){:target="_blank"}   
@@ -37,7 +35,7 @@ Cross Sector courses also cover a range of skills such as counselling, motivatio
 -   [Understanding the Social Service Sector](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCET6-M){:target="_blank"}<br>The course provides an appreciation and understanding of Singapore's social needs, key stakeholders in the sector and social service initiatives and schemes. It is an e-Learning course that provides an overview of the development of Singapore’s social services over the years and introduces the principles behind its provision. It covers six areas of social service provision which include trends and challenges in the future.  
 -  [Understanding Singapore's Social Compact and Social Policies](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS400)
 
-### **Cross Sector Certificate/ Diploma/ Degree Programmes:**
+### **Cross Sector Certificate/ Diploma/ Degree Programmes**
 
 -   [Advanced Certificate in Social Service](/training/cet-programmes/advanced-certificate-in-social-service/){:target="_blank"}  
 -   [Certificate in Para-Counselling](/training/cet-programmes/certificate-in-para-counselling/){:target="_blank"}     
