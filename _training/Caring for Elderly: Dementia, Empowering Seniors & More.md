@@ -6,14 +6,14 @@ description: "SSI featured eldercare courses are: Effective Communication with
 variant: markdown
 ---
 ![Social Service Institute (SSI) Singapore - Caring and communicating with dementia and senior persons courses](/images/eldercare-banner.png)
-
-## Registration opening soon: Eldercare Training Courses
+## **Eldercare Training Courses offered by SSI**
+### **Registration Closing soon**
 
 - [Case Management for Seniors Using Action Learning Approach](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SECH5364){:target="blank"}<br>Register by 22 Jan 2024
 - [Introduction to Art Therapy for Seniors - 老年艺术治疗：应用与策划](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SECH5299){:target="blank"}<br>Register by	29 Jan 2024
 
 
-### **Other featured courses in Eldercare, Communication and Counselling:**
+### **Other featured courses in Eldercare, Communication and Counselling**
 -   [Communicate Effectively with Seniors](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH6016){:target="_blank"}   
 -   [Communicate Effectively with Seniors (Mandarin)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5525){:target="_blank"}   
 -   Conversation Starter Toolkit (e-Learning)
@@ -24,15 +24,14 @@ variant: markdown
 -   [Organise and Implement Group Activities and Recreation Programmes](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5813){:target="_blank"}   
 -   [WSQ Support Seniors to Meet their Physical, Emotional, Psychological, Cognitive and Spiritual Needs](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5848){:target="_blank"}   
 
+View the [full list of SSI's Eldercare courses](https://iltms.ssi.gov.sg/registration/#/Course){:target="_blank"}.
 
-Check out the [the full list of SSI's Eldercare courses here](https://iltms.ssi.gov.sg/registration/#/Course){:target="_blank"}.
+##### Complimentary Featured Course Under the Agency for Integrated Care (AIC)
 
-The complimentary featured course under the Agency for Integrated Care (AIC) can be found in the link below:
-
--   Take AIC's complimentary [Dementia Awareness Foundation online course here](https://ccmhdcomms.github.io/dementiaawareness20/){:target="_blank"}
+-   [Dementia Awareness Foundation online course](https://ccmhdcomms.github.io/dementiaawareness20/){:target="_blank"}
 
 
-### Featured Adult Educators under Eldercare Training Courses
+### **Featured Adult Educators under Eldercare Training Courses**
 **Ms Lim Hwee Er**   
 Hwee Er holds a Master of Health Service Management from the University of Sydney (USYD) and a Bachelor of Health Sciences (Hons) (OT) from the University of Teesside. As an occupational therapist, she has 14 years of clinical experience working with seniors of various geriatric/psychogeriatric conditions across a variety of settings. Her experience also includes being a consultant for the planning and implementation of specialised services and programmes such as early dementia programmes and social service based hostels.
 
@@ -49,5 +48,5 @@ Lit Soon’s career in the healthcare, social service and eldercare sector spans
 
 He holds a Master of Arts degree in Applied Psychology from the Nanyang Technological University (NTU), a Bachelor of Arts in Psychology &amp; Social Work from the National University of Singapore (NUS), a Post-Graduate Diploma in Art Psychotherapy from Goldsmiths, University of London, an Advanced Diploma in Fine Arts &amp; Design from the Nanyang Academy of Fine Arts (NAFA) and a Certificate in General Nursing from the School of Nursing, Singapore.
 
-## Subscribe to Our Eldercare Mailing List   
-Click [here to subscribe to SSI's Eldercare Mailing List now](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
+#### Subscribe to Mailing List   
+Subscribe to [SSI's Eldercare Mailing List](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"} for latest updates!
