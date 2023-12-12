@@ -7,9 +7,10 @@ variant: markdown
 ---
 ![Social Service Institute (SSI) Singapore - Disability Care / Special Needs Courses](/images/disability-banner.png)
 
-## Registration Closing Soon: Disability Training Courses
+## **Disability Training Courses offered by SSI**
 
-- [Working with Persons with Autism](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS87){:target="blank"}<br>Register by 5 Dec 2023
+### **Registration Closing Soon**
+
 - [Independent Travel Training for Professionals Supporting Persons with Disabilities](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS211){:target="blank"}<br>Register by 17 Jan 2024
 
 
@@ -19,28 +20,28 @@ variant: markdown
 - [Managing Sexuality Issues of Adults with Intellectual Disabilities](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS6064){:target="_blank"}   
 - [Working with Persons with Autism](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS87){:target="_blank"}   
 
-### New courses in 2023
+### **New courses in 2023**
 - [WSQ Develop an Inclusive Lesson Plan in Early Intervention Teaching](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS85){:target="_blank"}   
 - [Reflexive Practice for Special Needs and Early Intervention Professionals](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS88){:target="_blank"}   
 - [Introduce Classroom and Behaviour Management Strategies in Early Intervention Teaching](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS86){:target="_blank"}   
 - [Strategies for Development of Hand Function, Pre-writing and Handwriting Skills for Children](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS5789){:target="_blank"}
 - [Guide the Implementation of Improved Approaches in early Intervention Teaching](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS84){:target="_blank"} 
 
-### Coming soon!
+#### Courses Coming soon!
 
 - Work with Early Intervention Teachers and other Professionals to provide a Safe and Secure Environment in Child-care setting. 
 - Implement Health, Safety, Nutritional and Hygiene Standards and Procedures in the Protection of Children in Child-care setting 
 - Provide a Safe and Healthy Physical Environment for Children in Child-care Setting 
 - Use of Client-Assessment Form (CAF-R) for Adult Disability Services 
 
-## **Certificate/ Diploma/ Degree Programmes:**
+### **Certificate/ Diploma/ Degree Programmes**
 
 -  [Advanced Certificate in Supported Employment (ACSE)](/training/cet-programmes/advance-certificate-in-supported-employment/){:target="_blank"} 
 <br>The Advanced Certificate in Supported Employment (ACSE) aims to build capabilities of job coaches in providing employment and employability support for persons with disabilities.  
 
 Check out the [full list of SSI's Disability courses here.](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"}.
 
-## Meet our Featured Adult Educators!
+### **Meet our Featured Adult Educators**
 
 **Ms. June Tham-Toh Syn Yuen**  
 June was the Executive Director of Rainbow Centre before she retired in 2014. She holds a Master of Education, Diploma in Management Studies, Certification of Achievement in Outcome Management: Train-The-Trainer, Early Childhood Intervention, Treatment and Education of Autistic and Related Communication Handicapped Children (TEACCH) and Advanced Certification in Training and Assessment (ACTA). She was one of the two pioneer scholars from Singapore to have successfully completed the “Strategic Perspectives in Non-Profit Management” Programme in July 2008 at the Harvard Business School (HBS).  
@@ -52,8 +53,8 @@ Linda is a Principal Trainer &amp; Consultant with Rainbow Centre Training and C
 Trevor is the former Director of the Centre for Disability Studies (CDS). He held the position of Foundation Chair of Developmental Disabilities within the Faculty of Medicine and is an Honorary Professor in Education with the Faculty of Education and Social Work as well as an Honorary Professor in the Faculty of Health Science at the University of Sydney (UniSyd). He is an Adjunct Professor in the School of Rural Medicine at the University of New England (UNE). His international academic standing in the field of developmental disability is marked by his former appointment as President of the International Association for the Scientific Study of Intellectual and Developmental Disabilities (IASSIDD) as well as his role as a Board Member of the American Association on Intellectual and Developmental Disability (AAIDD).
 
 
-##### Keen to join our pool of Adult Educators? [Learn more about joining SSI via our Adult Educator Resource Kit](https:/www.ssi.gov.sg/files/AE_Resource_Kit.pdf){:target="_blank"}.
+**Keen to join our pool of Adult Educators?** Learn more about joining SSI via our [Adult Educator Resource Kit](https:/www.ssi.gov.sg/files/AE_Resource_Kit.pdf){:target="_blank"}.
 
-## **Subscribe to SSI’s Disability Mailing List**
+#### **Subscribe to Mailing List**
 
-Click [here to subscribe to SSI's Disability Mailing List now](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
+Subscribe to [SSI's Disability Mailing List](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="blank"} for latest updates!
