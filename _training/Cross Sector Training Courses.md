@@ -7,7 +7,7 @@ variant: markdown
 ---
 ![Social Service Institute (SSI) Singapore - Counselling, Motivational Interviewing &amp; Behaviour Therapy Courses](/images/cross-sector-banner.png)
 
-## **Cross Sector Courses Offered by SSI**
+## **Cross Sector Courses offered by SSI**
 
 These courses provide a deeper understanding about each sub-sector, their unique social needs and help learners to critically discern and analyse their own assumptions.  
   
