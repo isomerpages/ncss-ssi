@@ -8,11 +8,11 @@ variant: markdown
 ## **Social Service Courses: Course Schedules (2023)**
 
 ### **Training Course Directory 2023**
-* ##### [Training Directory 2023-2024](/files/training%20courses/ssi%20training%20directory%20fy23%20-%20updated%204%20jul%202023.pdf){:target="_blank"} 
-
+* ##### [Training Directory 2023-2024](/files/training%20courses/ssi%20fy23%20training%20directory%20-%2012dec2023.pdf){:target="_blank"}
 
 ### **Course Schedule &amp; Registration Dates** <br>
-* ##### [Registration period: Nov 2023 to Feb 2024](/files/training%20courses/monthly%20featured%20courses%20-%20updated%201%20nov%2023.pdf){:target="_blank"}
+* ##### [Registration period: Nov 2023 to Feb 2024](/files/training%20courses/ssi%20monthly%20featured%20courses%20-%2029nov2023.pdf){:target="_blank"}
+
 
 ## **Featured Professional Certification Courses In Social Service**
 <table>
