@@ -51,7 +51,6 @@ variant: markdown
 		<p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/tnm-courses/" target="\_blank">View all TNM 2.0 courses</a></p></td></tr></tbody></table>
 
 --- 
-<br>
 
 
 ## **Social Service Course Funding Options**
