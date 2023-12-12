@@ -4,12 +4,13 @@ permalink: /training/tnm-courses/
 description: SSI's Training Network Model 2.0 (TNM 2.0) courses provide social
   service training opportunities for aspiring and existing social service
   professionals.
+variant: markdown
 ---
 TNM 2.0 aims to transform 7 selected SSAs to become Centres of Excellence. These SSA partners were selected based on specific criteria to offer training to the sector. For more information on TNM 2.0, please click [here](https://www.ssi.gov.sg/about-us/tnm/){:target="_blank"}.
 
 All courses listed here are offered by the 7 selected SSA partners onboard TNM 2.0.
 
-#### Children &amp; Youth
+### Children &amp; Youth
 
 | Course Title | Course Description | SSA Agency |
 | ------------ | -------------------- | ------------- | 
@@ -26,7 +27,7 @@ All courses listed here are offered by the 7 selected SSA partners onboard TNM 2
 | **[Supporting Children with Attentional and Hyperactivity Issues (Classroom, Synchronous &amp; Asynchronous E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0096){:target="_blank"}** | This course makes accessible the management of ADHD, typically the role of psychologists, to other stakeholders such as educators, counsellors and caregivers. Participants who support children with ADHD can look forward to a multimodal management of ADHD. | [DAS Academy](https://www.dasacademy.edu.sg/skillsfuture-courses/){:target="_blank"} | 
 
 
-#### Disability
+### Disability
 
 | Course Title | Course Description | SSA Agency |
 | ------------ | -------------------- | ------------- | 
@@ -45,7 +46,7 @@ All courses listed here are offered by the 7 selected SSA partners onboard TNM 2
 | **[Interpreting Quality of Life for Persons with Disabilities](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0092)**  | The course examines the importance of quality of life and the framework of five service accomplishments and is targeted at social service professionals who work with persons with disabilities. Participants will walk away from the course understanding how they can support the empowerment and quality of life of persons with disabilities. | [Rainbow Centre](https://rainbowcentre.org.sg/training/){:target="_blank"}  |
 | **[Interpreting Disability in Social Work Practice](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0093)** | This course is designed for social workers and social work associates to equip them with knowledge of legislation, trends and issues that impact persons with disabilities. Participants will be guided on how they can apply models of care and person-centred palnning approach when working with persons with disabilities. | [Rainbow Centre](https://rainbowcentre.org.sg/training/){:target="_blank"}  |
 
-#### Eldercare
+### Eldercare
 
 | Course Title | Course Description | SSA Agency |
 | ------------ | -------------------- | ------------- |
@@ -57,7 +58,7 @@ All courses listed here are offered by the 7 selected SSA partners onboard TNM 2
 | **[Leadership and Management for Dementia Care Services (Classroom and Asynchronous E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0017){:target="_blank"}** | This programme is designed with the overall aim of preparing staff to lead and manage dementia care services successfully. <br> <br> The programme also covers managing the quality of Dementia Care services, motivation of employees and conflict management. | [The Salvation Army Peacehaven](https://acaredemy.salvationarmy.org.sg/courses/){:target="_blank"} |
 | **[Leadership and Management for Community Care Services (Classroom and Asynchronous E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0018){:target="_blank"}** | This programme is designed with the overall aim of preparing individuals to lead and manage community care services successfully. <br> <br> The programme also covers managing the quality of Community Care services, motivation of employees and conflict management. | [The Salvation Army Peacehaven](https://acaredemy.salvationarmy.org.sg/courses/){:target="_blank"} |
 
-#### Family
+### Family
 
 | Course Title | Course Description | SSA Agency |
 | ------------ | -------------------- | ------------- |
@@ -65,7 +66,7 @@ All courses listed here are offered by the 7 selected SSA partners onboard TNM 2
 | **[Engaging Victims of Intimate Partner Violence (Classroom and Synchronous E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0023){:target="_blank"}** | This course aims to equip the social workers with the knowledge about the dynamics of intimate partner violence and skills competency on how to engage and empower the victims to bring about changes.  | [Academy of Human Development Pte Ltd](https://ahd.com.sg/training-network-model-courses/){:target="_blank"} |
 | **[Strengthen Family Relationships using the Satir Model (Classroom and Synchronous E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0026){:target="_blank"}** | To help clients/ individuals recognise their own personal iceberg and with that, lead them to have better communication and connection with family members, thereby strengthen the relationships in the family. | [Academy of Human Development Pte Ltd](https://ahd.com.sg/training-network-model-courses){:target="_blank"} |
 
-#### Mental Health &amp; Wellness
+### Mental Health &amp; Wellness
 
 | Course Title | Course Description | SSA Agency |
 | ------------ | -------------------- | ------------- |
@@ -77,7 +78,7 @@ All courses listed here are offered by the 7 selected SSA partners onboard TNM 2
 | **[Suicide Loss: post-crisis management (Level 2) (Classroom and Asynchronous E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0084){:target="_blank"}** | This course/module aims to equip participants with the knowledge and skills necessary to provide longer term psychological interventions to support the grief and healing journey of suicide survivors. | [Samaritans of Singapore (SOS)](https://www.sos.org.sg/outreach/training){:target="_blank"} |
 
 
-#### Research &amp; Programme Evaluation
+### Research &amp; Programme Evaluation
 
 | Course Title | Course Description | SSA Agency |
 | ------------ | -------------------- | ------------- |
@@ -86,7 +87,7 @@ All courses listed here are offered by the 7 selected SSA partners onboard TNM 2
 | **[Application of Mixed Methods Research in Social Service (Synchronous and Asynchronous E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0025){:target="_blank"}** | Mixed methods research explores social issues and understand them more wholistically. <br> <br> Mixed methods research can be used in variety of ways including evidence syntheses, needs assessments, pre-programme/service problem assessment and post-programme/service evaluation. | [Academy of Human Development Pte Ltd](https://ahd.com.sg/training-network-model-courses){:target="_blank"} |
 | **[Conducting Effective Programme Evaluation for SSAs (Classroom, Synchronous &amp; Asynchronous E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0094){:target="_blank"}** | This course will provide participants the theoretical perspectives and methodological approaches which underpin the process of quantitative, qualitative, and blended research. Participants will learn about the research process and draw on relevant literature to positively impact on their professional practice. The course will deepen their knowledge and skills to apply research methodologies in their own professional context and carry out extended professional research. | [DAS Academy](https://www.dasacademy.edu.sg/skillsfuture-courses/){:target="_blank"} |
 
-#### Cross Sector
+### Cross Sector
 
 | Course Title | Course Description | SSA Agency |
 | ------------ | -------------------- | ------------- |
@@ -98,7 +99,7 @@ All courses listed here are offered by the 7 selected SSA partners onboard TNM 2
 | **[Solution-Focused Brief Therapy Practice (Classroom and Synchronous E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0020){:target="_blank"}** | This course aims to provide participants with a fundamental overview of solution focused brief therapy practices. | [Academy of Human Development Pte Ltd](https://ahd.com.sg/training-network-model-courses){:target="_blank"} |
 | **[Practical Counselling (Intermediate) (Classroom and Synchronous E-learning)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0021){:target="_blank"}**| This course is designed for learners who are keen to further equipped themselves with concepts and skills pertaining to effective interviews and counselling to have a more complete understanding in counselling. | [Academy of Human Development Pte Ltd](https://ahd.com.sg/training-network-model-courses){:target="_blank"} |
 
-#### Volunteer Management
+### Volunteer Management
 
 | Course Title | Course Description | SSA Agency |
 | ------------ | -------------------- | ------------- |

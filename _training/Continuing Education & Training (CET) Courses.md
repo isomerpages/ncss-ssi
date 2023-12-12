@@ -4,12 +4,13 @@ permalink: /training/cet-programmes/
 description: SSI offers Continuing Education and Training (CET) programmes to
   help professionals and new social service entrants gain the relevant
   certification and diploma accreditation needed in social service.
+variant: markdown
 ---
 ![Social Service Institute (SSI) Singapore - Continuing Education &amp; Training (CET) Courses](/images/cet-programmes-banner.png)
 
 SSI offers a suite of Continuing Education and Training (CET) programmes which provide learners with certificate, diploma and degree based qualifications. 
 
-## CET Programmes offered by SSI:
+## **CET Programmes offered by SSI**
 
 -   [Advanced Certificate in Social Service](/training/cet-programmes/advanced-certificate-in-social-service/){:target="_blank"}<sup>1</sup>
 <br> This foundational course will provide social service professionals with the necessary knowledge and skillsets required to carry out their roles effectively when working with clients, partners and stakeholders. 
@@ -27,9 +28,9 @@ SSI offers a suite of Continuing Education and Training (CET) programmes which p
 
 <sup>1</sup>The programme name may be subject to further changes.
 
-Click [here to find out more about the full list of CET programmes](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"} offered by SSI.
+View the [full list of CET programmes](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"} offered by SSI.
 
 
-## **Subscribe to SSI’s CET Programmes Mailing List**
+#### **Subscribe to Mailing List**
 
-Click [here to subscribe to SSI's CET Programmes Mailing List](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
+[Subscribe to SSI’s CET Programmes](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="blank"} Mailing List for latest updates!

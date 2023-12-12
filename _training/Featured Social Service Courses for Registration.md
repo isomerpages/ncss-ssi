@@ -8,11 +8,11 @@ variant: markdown
 ## **Social Service Courses: Course Schedules (2023)**
 
 ### **Training Course Directory 2023**
-* ##### [Training Directory 2023-2024](/files/training%20courses/ssi%20training%20directory%20fy23%20-%20updated%204%20jul%202023.pdf){:target="_blank"} 
-
+- [Training Directory 2023-2024](/files/training%20courses/ssi%20fy23%20training%20directory%20-%2012dec2023.pdf){:target="_blank"}
 
 ### **Course Schedule &amp; Registration Dates** <br>
-* ##### [Registration period: Nov 2023 to Feb 2024](/files/training%20courses/monthly%20featured%20courses%20-%20updated%201%20nov%2023.pdf){:target="_blank"}
+- [Registration period: Dec 2023 to Feb 2024](/files/training%20courses/ssi%20monthly%20featured%20courses%20-%2029nov2023.pdf){:target="_blank"}
+
 
 ## **Featured Professional Certification Courses In Social Service**
 <table>
@@ -20,31 +20,37 @@ variant: markdown
 
 <p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/cet-programmes/" target="\_blank">View other CET courses</a></p></td>
 		
-</tr><tr> <td><a href="https://www.ssi.gov.sg/training/cross-sector/" target="\_blank"><img src="/images/training/cross-sector-v2.png" alt="Counselling, Motivational Interviewing &amp; Behaviour Therapy Courses"></a><h3>
-Motivational Interviewing: An Introduction for Social Service Practitioners</h3><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5725" target="\_blank">Register by 1 Jan 2024</a>
-<h3>Understanding and Working with Malay-Muslim Clients</h3><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5570" target="\_blank">Register by 1 Jan 2024</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/cross-sector/" target="\_blank">View other Cross Sector courses</a></p></td>
+</tr><tr> <td><a href="https://www.ssi.gov.sg/training/cross-sector/" target="\_blank"><img src="/images/training/cross-sector-v2.png" alt="Counselling, Motivational Interviewing &amp; Behaviour Therapy Courses"></a>
+<h3>Understanding and Working with Malay-Muslim Clients</h3><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5570" target="\_blank">Register by 1 Jan 2024</a>
+<p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/cross-sector/" target="\_blank">View other Cross Sector courses</a></p></td>
 		
 </tr><tr> <td><a href="https://www.ssi.gov.sg/training/cyandf" target="\_blank"><img src="/images/training/cyf-v2.png" alt="Children &amp; Youth Development, Family Therapy / Family Violence Courses: Equip volunteers with skills to work with children, youth and families."></a><h3>Management of Family Violence: Working with Couples in Violent Relationships</h3><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5583" target="\_blank">Register by 3 Jan 2024</a>
-<h3>An Introduction to Family Therapy</h3><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5646" target="\_blank">Register by 17 Jan 2024</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/cyandf/" target="\_blank">View other Children, Youth and Family courses</a></p></td>
+<p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/cyandf/" target="\_blank">View other Children, Youth and Family courses</a></p></td>
 
-</tr><tr> <td><a href="https://www.ssi.gov.sg/training/disability/" target="\_blank"><img src="/images/training/disability-v2.png" alt="Disability Care / Special Needs Courses"></a><h3>Working with Persons with Autism	</h3><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS87" target="\_blank">Register by 5 Dec 2023 </a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/disability/" target="\_blank">View other Disability courses</a></p></td>
+</tr><tr> <td><a href="https://www.ssi.gov.sg/training/disability/" target="\_blank"><img src="/images/training/disability-v2.png" alt="Disability Care / Special Needs Courses"></a>
+<h3>Independent Travel Training for Professionals Supporting Persons with Disabilities</h3><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS211" target="\_blank">Register by	17 Jan 2024</a>
+<p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/disability/" target="\_blank">View other Disability courses</a></p></td>
 
-</tr><tr> <td><a href="https://www.ssi.gov.sg/training/mental-health/" target="\_blank"><img src="/images/training/mental-health-v2.png" alt="Mental Health Conditions &amp; Recovery Courses"></a><h3>Independent Travel Training for Professionals Supporting Persons with Disabilities</h3><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS211" target="\_blank">Register by 17 Jan 2024</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/mental-health" target="\_blank">View other Mental Health courses</a></p></td>
+</tr><tr> <td><a href="https://www.ssi.gov.sg/training/mental-health/" target="\_blank"><img src="/images/training/mental-health-v2.png" alt="Mental Health Conditions &amp; Recovery Courses"></a>
+		<h3>Foundations of Psycho-Social Rehabilitation and Recovery</h3><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SMTH387" target="\_blank">Register by	24 Jan 2024</a>
+		<p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/mental-health" target="\_blank">View other Mental Health courses</a></p></td>
 
-</tr><tr> <td><a href="https://www.ssi.gov.sg/training/eldercare/" target="\_blank"><img src="/images/training/eldercare-v2.png" alt="Caring and communicating with dementia and senior persons courses"></a><h3>Case Management for Seniors Using Action Learning Approach</h3><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SECH5364" target="\_blank">Register by 22 Jan 2024</a><h3>Introduction to Art Therapy for Seniors - 老年艺术治疗：应用与策划</h3><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SECH5299" target="\_blank">Register by 29 Jan 2024</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/" target="\_blank">View other Eldercare courses</a></p></td>
+</tr><tr> <td><a href="https://www.ssi.gov.sg/training/eldercare/" target="\_blank"><img src="/images/training/eldercare-v2.png" alt="Caring and communicating with dementia and senior persons courses"></a><h3>Case Management for Seniors Using Action Learning Approach</h3><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SECH5364" target="\_blank">Register by 22 Jan 2024</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/eldercare/" target="\_blank">View other Eldercare courses</a></p></td>
 
 </tr><tr> <td><a target="\\\_blank" href="https://www.ssi.gov.sg/training/board-development/"><img alt="Board Development Courses" src="/images/training/board-v2.png"></a><h3>Coming soon!</h3><a target="\\\_blank" href="https://www.ssi.gov.sg/about-us/mailing-list/">Subscribe to our mailing list for course updates</a><p style="text-align: right;"><a target="\\\_blank" href="https://www.ssi.gov.sg/training/board-development/">View all Board Development courses</a></p></td>
 	
-</tr><tr> <td><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/" target="\_blank"><img src="/images/training/mod-v2.png" alt="Social Service / Nonprofit Leadership and Management Training Course"></a><h3>Charities Accounting Standard and its Application</h3><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NFIN5652" target="\_blank">Register by 4 Dec 2023</a>
-		<h3>Internal Controls (III): Implementing Internal Controls for Procurement to Payable Process	</h3><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NFIN5630" target="\_blank">Register by 10 Dec 2023</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/" target="\_blank">View other Management and Organisation Development courses</a></p></td>
+</tr><tr> <td><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/" target="\_blank"><img src="/images/training/mod-v2.png" alt="Social Service / Nonprofit Leadership and Management Training Course"></a>
+		<h3>Internal Controls (IV): General Accounting, Fixed Assets, Inventory and Human Resource Management	</h3><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5468" target="\_blank">Register by 21 Jan 2024</a>
+		<p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/" target="\_blank">View other Management and Organisation Development courses</a></p></td>
 
-</tr><tr> <td><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" target="\_blank"><img src="/images/training/volunteer-v2.png" alt="Equip volunteers with knowledge, develop volunteer management capabilities"></a><h3>Befriending 101 for Volunteers (e-learning)</h3><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0035" target="\_blank">Registration is open throughout the year</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" target="\_blank">View other Volunteering Management and Development courses</a></p></td>
+</tr><tr> <td><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" target="\_blank"><img src="/images/training/volunteer-v2.png" alt="Equip volunteers with knowledge, develop volunteer management capabilities"></a><h3>Introduction to Youth Mentoring (For Volunteers)	</h3><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SVLD227" target="\_blank">Register by	25 Jan 2024</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" target="\_blank">View other Volunteering Management and Development courses</a></p></td>
 
 </tr><tr> <td><a href="https://www.ssi.gov.sg/training/caregiving/" target="\_blank"><img src="/images/training/caregiving-v2.png" alt="Caregiver Training Courses"></a><h3>Preparatory Caregiver Training Programme</h3><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0002" target="\_blank">Registration is open throughout the year</a><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/caregiving/" target="\_blank">View all Caregiving courses</a></p></td>
-	</tr><tr> <td><a href="https://www.ssi.gov.sg/training/tnm-courses/" target="\_blank"><img src="/images/training/tnm-banner.png" alt="TNM 2.0, an initiative brought to you by SSI"></a><h3>Suicide Loss: Psychological Interventions (Level 2)</h3><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0084" target="\_blank">Register by 16 Jan 2024</a><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/tnm-courses/" target="\_blank">View all TNM 2.0 courses</a></p></td></tr></tbody></table>
+	</tr><tr> <td><a href="https://www.ssi.gov.sg/training/tnm-courses/" target="\_blank"><img src="/images/training/tnm-banner.png" alt="TNM 2.0, an initiative brought to you by SSI"></a>
+		<h3>Enhancing work outcome together for Person with Mild Intellectual Disability (MID)</h3><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0033" target="\_blank">Register by	22 Jan 2024</a>
+		<p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/tnm-courses/" target="\_blank">View all TNM 2.0 courses</a></p></td></tr></tbody></table>
 
 --- 
-<br>
 
 
 ## **Social Service Course Funding Options**

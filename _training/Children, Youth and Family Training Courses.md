@@ -7,17 +7,15 @@ variant: markdown
 ---
 ![Children &amp; Youth Development, Family Therapy / Family Violence Courses: Equip volunteers with skills to work with children, youth and families.](/images/cyf-banner.png)
 
-### **Registration closing soon: <br> Children, Youth and Family Training Courses**
+## **Children, Youth and Family Courses offered by SSI**
 
-- [Techniques in Couple Counselling](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5316){:target="blank"}<br>Register by 6 Dec 2023
+### **Registration closing soon**
 
-- [Management of Family Violence: Working with Couples in Violent Relationships](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5583){:target="blank"}<br>Register by 3 Jan 2024
-
-- [An Introduction to Family Therapy](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5646){:target="blank"}<br>Register by 17 Jan 2024
-
+- [Developing Youth Outreach Plans](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF508){:target="blank"}<br>Register by 18 Dec 2023
+- [Integrated Structured Decision Making (SDM) and Partnering for Safety (PFS) for Out-of-Home Care (OHC) Case Management](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF485){:target="blank"}<br>Register by 20 Dec 2023
+- [Mentoring and Coaching Youths Effectively](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF305){:target="blank"}<br>Register by 28 Dec 2023
+- [Apply development theories when working with children and youths](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF482){:target="blank"}<br>Register by 16 Jan 2024
 - [Family Therapy: Intermediate](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5879){:target="blank"}<br>Register by 31 Jan 2024
-
-
 
 ### **Other Featured Courses in Children and Youth Development, Youth Counselling and Family Therapy**
 
@@ -42,9 +40,9 @@ variant: markdown
  - [Youth Work: Introduction to an Evidence-Based Approach](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF79){:target="_blank"}  
  - [WSQ Mentoring and Coaching Youths Effectively](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF305){:target="_blank"}  
 
-For the full list of Children, Youth and Family courses offered by SSI, follow this [link](https://iltms.ssi.gov.sg/Registration/Course){:target="_blank"}.   
+View our full list of [Children, Youth and Family courses](https://iltms.ssi.gov.sg/Registration/Course){:target="_blank"}.   
 
-## Featured Adult Educators under Children, Youth and Family Training Courses
+### **Featured Adult Educators under Children, Youth and Family Training Courses**
 
 **Ms Alison Lim**   
 Alison started her career as a social worker but is now an accomplished human resource development practitioner and academic with over 30 years of global experience in the field of adult education and development. She is acclaimed for her use of experiential and hands-on methodologies in her programmes, which results in learning and change.
@@ -72,5 +70,5 @@ Tony has worked with children and families for more than 10 years, in both the p
 **Dr Quah Saw Han**   
 Saw Han previously worked with MSF as a clinical psychologist before heading a research and programme evaluation unit. As a clinical psychologist, she worked with children, young persons and their parents in relation to child protection, juvenile crime and family issues. She is a certified user and trainer for the Transformational and Collaborative Outcome Management (TCOM) implementation framework: Child and Adolescent Needs and Strengths (CANS) and Family and Adult Support Tool (FAST). She has been recognised by the original developer of TCOM, Dr. John Lyons, as one of the local trainers who can train trainers on the use of CANS. She is familiar with the process of TCOM implementation, and was in the pilot project and early phases of TCOM implementation in Singapore.
 
-## Subscribe to SSI’s Children, Youth &amp; Family Mailing List   
-Subscribe to SSI’s Children, Youth and Family Courses Mailing List through this [link](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
+#### **Subscribe to Mailing List**   
+[Subscribe to SSI’s Children, Youth and Family Courses](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"} Mailing List for latest updates!
