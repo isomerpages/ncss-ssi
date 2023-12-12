@@ -10,7 +10,7 @@ variant: markdown
 
 SSI offers a suite of Continuing Education and Training (CET) programmes which provide learners with certificate, diploma and degree based qualifications. 
 
-# **CET Programmes offered by SSI**
+## **CET Programmes offered by SSI**
 
 -   [Advanced Certificate in Social Service](/training/cet-programmes/advanced-certificate-in-social-service/){:target="_blank"}<sup>1</sup>
 <br> This foundational course will provide social service professionals with the necessary knowledge and skillsets required to carry out their roles effectively when working with clients, partners and stakeholders. 
@@ -28,7 +28,7 @@ SSI offers a suite of Continuing Education and Training (CET) programmes which p
 
 <sup>1</sup>The programme name may be subject to further changes.
 
-Click [here to find out more about the full list of CET programmes](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"} offered by SSI.
+View the [full list of CET programmes](https://iltms.ssi.gov.sg/registration#/Course){:target="_blank"} offered by SSI.
 
 
 #### **Subscribe to Mailing List**
