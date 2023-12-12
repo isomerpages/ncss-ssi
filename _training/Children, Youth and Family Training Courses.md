@@ -7,9 +7,9 @@ variant: markdown
 ---
 ![Children &amp; Youth Development, Family Therapy / Family Violence Courses: Equip volunteers with skills to work with children, youth and families.](/images/cyf-banner.png)
 
-# **Children, Youth and Family Training Courses**
+## **Children, Youth and Family Courses offered by SSI**
 
-## **Registration closing soon:**
+### **Registration closing soon**
 
 - [Developing Youth Outreach Plans](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF508){:target="blank"}<br>Register by 18 Dec 2023
 - [Integrated Structured Decision Making (SDM) and Partnering for Safety (PFS) for Out-of-Home Care (OHC) Case Management](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF485){:target="blank"}<br>Register by 20 Dec 2023
@@ -42,7 +42,7 @@ variant: markdown
 
 View our full list of [Children, Youth and Family courses](https://iltms.ssi.gov.sg/Registration/Course){:target="_blank"}.   
 
-## **Featured Adult Educators under Children, Youth and Family Training Courses**
+### **Featured Adult Educators under Children, Youth and Family Training Courses**
 
 **Ms Alison Lim**   
 Alison started her career as a social worker but is now an accomplished human resource development practitioner and academic with over 30 years of global experience in the field of adult education and development. She is acclaimed for her use of experiential and hands-on methodologies in her programmes, which results in learning and change.
