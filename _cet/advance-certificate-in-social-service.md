@@ -3,6 +3,7 @@ title: Advanced Certificate in Social Service
 permalink: /training/cet-programmes/advanced-certificate-in-social-service/
 description: SSI's Advanced Certificate in Social Service equips learners with
   the horizontal skills necessary to be a Social Service Assistant.
+variant: markdown
 ---
 ## Overview: Advanced Certificate in Social Service Course
 
@@ -17,7 +18,7 @@ The qualification obtained from completing this foundational programme will prom
 Applicants must:
 
 -   Have a Grade of C6 for GCE 'O' level English (or equivalent).
--   Complete a complimentary e-learning course “, [Singapore’s Social Compact](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS400){:target="_blank"} (download the e-certificate and submit it upon registration for this programme).
+-   Complete a complimentary e-learning course “, [Singapore’s Social Compact](https://iltms.ssi.gov.sg/Registration/Login?scheduleno=S2300747){:target="_blank"} (download the e-certificate and submit it upon registration for this programme).
 
 Applicants should also possess at least one of the following criteria:
 
@@ -60,20 +61,26 @@ Learners must achieve at least 75% attendance per module and be certified compet
 
 
 ## Course Application Guidelines &amp; Dates
-Applicants to download and upload the completed [Application Form](/files/acss/ssi%20-%20application%20form%20-%20advanced%20certificate%20in%20social%20service%20(jun%202023).pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-1){:target="_blank"}  between 17 July – 31 August 2023.
+Applicants to download and upload the completed [Application Form](/files/acss/ssi%20-%20application%20form%20-%20advanced%20certificate%20in%20social%20service%20(jun%202023).pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-1){:target="_blank"}  between 15 February 2024 to 31 March 2024.
 
 | Description | Date | |
 | -------- | -------- | -------- |
-|Programme Dates| February 2024 - March 2025|
-| Online Applications Open   | 17 July 2023 | |
-| Closing Date for Applications | 31 August 2023 before 23:59|
-|Interview Session  | October 2023* <br> (Subject to changes)|
+|Programme Dates| August 2024 – September 2025|
+| Online Applications Open   | 15 February 2024 | 
+| Closing Date for Applications | 31 March 2024, before 23:59|
+|Interview Session  | 25 &amp; 30 April 2024 <br>(Subject to changes)|
 
 *Applicants may also be called to attend an online interview with the selection panel on the dates specified above. Applicants will receive an email from SSI informing them about the assigned interview date and time and are required to make themselves available for the interview accordingly. Requests for alternative arrangements will not be considered.
 
-## Register for a Course Preview Session Here
+## Register for a Course Preview Session
 
-*Watch this space for the next preview session*
+**Date**: 4 March 2024<br>
+**Time**: 7pm<br>
+**Venue**: SSI Auditorium (Level 18), Tiong Bahru Plaza
+
+[Register Now!](https://go.gov.sg/ssi-preview-registration){:target="_blank"}
+
+*Note: A confirmation email will be sent to all registered participants 3 days before the actual session. We look forward to your attendance.*
 
 ### Frequently Asked Questions (FAQs): ACSS
 
