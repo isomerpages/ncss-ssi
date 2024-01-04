@@ -3,6 +3,7 @@ title: Higher Diploma in Social Service
 permalink: /training/cet-programmes/higher-diploma-in-social-service/
 description: SSI offers a Higher Diploma in Social Service course for aspiring
   social workers, with an articulation pathway to SUSS.
+variant: markdown
 ---
 ## Overview: Higher Diploma in Social Service
 
@@ -22,7 +23,7 @@ Applicants should possess the following criteria:
 
 -	A minimum grade of C6 for GCE ‘O’ level English (or its equivalent). 
 -	At least two years of full-time working experience.
--	Complete [the complimentary e-learning course: Singapore’s Social Compact](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCRS400){:target="_blank"} (download the e-certificate and submit it upon registration for this programme)<sup>1</sup>  . 
+-	Complete [the complimentary e-learning course: Singapore’s Social Compact](https://iltms.ssi.gov.sg/Registration/Login?scheduleno=S2300747){:target="_blank"} (download the e-certificate and submit it upon registration for this programme)<sup>1</sup>  . 
 
 ### About The Singapore Social Compact Course
 <sup>1</sup>  This e-learning course provides learners with an overview of the development of Singapore’s social services over the years and introduces them to the principles behind its provision. It also covers the six areas of social service provision and the challenges that lay ahead.
@@ -38,7 +39,7 @@ Applicants should possess the following criteria:
 - Diploma from local polytechnic
 - Two GCE 'A' and two 'AO' levels passes
  
-All shortlisted applicants will have to sit for a Written Aptitude Test (WAT), which will be conducted on **25 &amp; 26 September  2023 at 10.30am or 3.00pm.** Only applicants who successfully pass the WAT will be considered for admission into the programme.
+All shortlisted applicants will have to sit for a Written Aptitude Test (WAT). Only applicants who successfully pass the WAT will be considered for admission into the programme.
 
 
 ### Qualifications &amp; Career Prospects in Social Work
@@ -75,15 +76,15 @@ Learners must achieve at least 75% attendance per module and be certified compet
 
 ## Application Guidelines
 
-Applicants to download and upload the completed [Application Form](/files/hdss/ssi%20-%20application%20form%20-%20higher%20diploma%20in%20social%20service%20(jun%202023).pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=scet21-2){:target="_blank"}  between 17 July – 31 August 2023. 
+Applicants to download and upload the completed [Application Form](/files/hdss/ssi%20-%20application%20form%20-%20higher%20diploma%20in%20social%20service%20(jun%202023).pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=scet21-2){:target="_blank"}  between 15 February 2024 to 31 March 2024. 
 
 | Description | Date | |
 | -------- | -------- | -------- |
-|Programme Dates| February 2024 to June 2024|
-| Online Applications Open   | 17 July 2023 | 
-| Closing Date for Applications | 31 August 2023 before 23:59|
-| Conduct Written Aptitude Test¹| 25 &amp; 26 September 2023<br> (10.30 am - 11.30 am);<br>(3.00 pm - 4.00 pm) |
-|Interview Session | October 2023 <br> (Subject to changes) | 
+|Programme Dates| August 2024 – December 2025|
+| Online Applications Open   | 15 February 2024 | 
+| Closing Date for Applications | 31 March 2024, before 23:59|
+| Conduct Written Aptitude Test¹| 22 &amp; 23 April 2024<br> (10.30 am - 11.30 am;<br>3.00 pm - 4.00 pm)|
+|Interview Session | 7, 9 &amp; 13 May 2024 <br> (Subject to changes) | 
 
 ¹Eligible HDSS applicants will be notified to sit for a compulsory Written Aptitude Test (WAT).
 
@@ -94,7 +95,14 @@ Applicants may also be called to attend an online interview with the selection p
 
 
 ## Register for a Course Preview Session
-*Watch this space for the next preview session.*
+**Date:** 4 March 2024<br>
+**Time:** 7pm<br>
+**Venue:** SSI Auditorium (Level 18), Tiong Bahru Plaza
+
+[Register Now!](https://go.gov.sg/ssi-preview-registration){:target="_blank"}
+
+*Note: A confirmation email will be sent to all registered participants 3 days before the actual session. We look forward to your attendance.*
+
 
 ## FAQs
 Download the [FAQs](/files/hdss/ssi%20-%20faqs%20-%20higher%20diploma%20in%20social%20service%20(jun%202023).pdf){:target="blank"} relating to this programme.
