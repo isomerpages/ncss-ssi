@@ -18,7 +18,6 @@ variant: markdown
 
 #### Financial Management
 
-- [Budgeting for Charities](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NFIN5450){:target="blank"}<br>Register by 15 Dec 2023
 - [Internal Controls (IV): General Accounting, Fixed Assets, Inventory and Human Resource Management](https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5468){:target="blank"}<br>Register by 21 Jan 2024
 
 ### **Featured Courses: Leadership Development &amp; Management For Non-Profit Organisations**
