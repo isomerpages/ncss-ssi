@@ -11,11 +11,10 @@ variant: markdown
 
 ### **Registration closing soon**
 
-- [Developing Youth Outreach Plans](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF508){:target="blank"}<br>Register by 18 Dec 2023
-- [Integrated Structured Decision Making (SDM) and Partnering for Safety (PFS) for Out-of-Home Care (OHC) Case Management](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF485){:target="blank"}<br>Register by 20 Dec 2023
-- [Mentoring and Coaching Youths Effectively](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF305){:target="blank"}<br>Register by 28 Dec 2023
+- [Certified User for Youth Level of Service / Case Management Inventory (YLS/CMI)](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5858){:target="blank"}<br>Register by 15 Jan 2024
 - [Apply development theories when working with children and youths](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF482){:target="blank"}<br>Register by 16 Jan 2024
 - [Family Therapy: Intermediate](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5879){:target="blank"}<br>Register by 31 Jan 2024
+
 
 ### **Other Featured Courses in Children and Youth Development, Youth Counselling and Family Therapy**
 
