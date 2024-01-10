@@ -15,10 +15,13 @@ variant: markdown
 - [Developing Effective Supervisory Skills](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT5079){:target="blank"}<br>Register by 21 Jan 2024
 - [Developing Your Coaching and Mentoring Skills](https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5073){:target="blank"}<br>Register by 21 Jan 2024
 - [Internal Controls (IV): General Accounting, Fixed Assets, Inventory and Human Resource Management](https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5468){:target="blank"}<br>Register by 21 Jan 2024
+- [From Problem Solving to Breakthrough Innovation by DPI Asia](https://www.dpi-asia.com/post/where-does-problem-solving-end-and-strategic-innovation-begin){:target="blank"}<br>Register by 7 Feb 2024
+- [People Management: Driving Results Through Engagement](https://www.sim.edu.sg/professional-development/courses/course-listing/people-management-driving-results-through-engagement-in-collaboration-with-franklincovey-l3-sfw-sync){:target="blank"}<br>Register by 24 Apr 2024
+- [Resource Management and Strategy Implementation](https://www.sim.edu.sg/professional-development/courses/course-listing/resource-management-and-strategy-implementation-in-collaboration-with-franklincovey-l4-sfw-synchrono){:target="blank"}<br>Register by 2 May 2024
+
 
 #### Financial Management
 
-- [Budgeting for Charities](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NFIN5450){:target="blank"}<br>Register by 15 Dec 2023
 - [Internal Controls (IV): General Accounting, Fixed Assets, Inventory and Human Resource Management](https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5468){:target="blank"}<br>Register by 21 Jan 2024
 
 ### **Featured Courses: Leadership Development &amp; Management For Non-Profit Organisations**
