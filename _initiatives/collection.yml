@@ -1,0 +1,13 @@
+collections:
+  initiatives:
+    output: false
+    order:
+      - Education Innovation 2020/.keep
+      - Education Innovation 2020/overview.md
+      - Education Innovation 2020/blended-learning.md
+      - Education Innovation 2020/smart-learning.md
+      - Education Innovation 2020/gatherhere-board-members-group-relaunch.md
+      - Education Innovation 2020/resources.md
+      - tote-board-ssi.md
+      - communities-of-practice.md
+      - board-members-network-sessions.md

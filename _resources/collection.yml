@@ -1,0 +1,9 @@
+collections:
+  resources:
+    output: true
+    order:
+      - resources-overview.md
+      - smart-environment.md
+      - learnhere.md
+      - venue-booking.md
+      - toolkits-frameworks.md
