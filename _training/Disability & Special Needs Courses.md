@@ -11,28 +11,21 @@ variant: markdown
 
 ### **Registration Closing Soon**
 
-- [Independent Travel Training for Professionals Supporting Persons with Disabilities](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS211){:target="blank"}<br>Register by 17 Jan 2024
+- [Develop an Inclusive Lesson Plan in Early Intervention Teaching](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS85){:target="blank"}<br>Register by 4 Mar 2024
+- [Introduce Classroom and Behaviour Management Strategies in Early Intervention Teaching](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS86){:target="blank"}<br>Register by 12 Mar 2024
+- [WSQ Principles and Practices of Early Intervention for Children with Special Needs Module 1](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS463){:target="blank"}<br>Register by 13 Mar 2024
 
 
 ### **Other Featured Short Courses in Early Childhood Interventions and Managing Disabilities**
--   [WSQ Principles and Practices of Early Intervention for Children with Special Needs Module 1](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS463){:target="_blank"}   
--  [WSQ Principles and Practices of Early Intervention for Children with Special Needs Module 2](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS83){:target="_blank"}
-- [Managing Sexuality Issues of Adults with Intellectual Disabilities](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS6064){:target="_blank"}   
-- [Working with Persons with Autism](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS87){:target="_blank"}   
+-   [Independent Travel Training for Professionals Supporting Persons with Disabilities](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS211){:target="_blank"}
+-   [Use of Client-Assessment Form (CAF-R) for Adult Disability Services](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS251){:target="_blank"}
+-   [Working with Persons with Autism](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS87){:target="_blank"} 
 
-### **New courses in 2023**
-- [WSQ Develop an Inclusive Lesson Plan in Early Intervention Teaching](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS85){:target="_blank"}   
-- [Reflexive Practice for Special Needs and Early Intervention Professionals](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS88){:target="_blank"}   
-- [Introduce Classroom and Behaviour Management Strategies in Early Intervention Teaching](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS86){:target="_blank"}   
-- [Strategies for Development of Hand Function, Pre-writing and Handwriting Skills for Children](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS5789){:target="_blank"}
-- [Guide the Implementation of Improved Approaches in early Intervention Teaching](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS84){:target="_blank"} 
+
 
 #### Courses Coming soon!
 
-- Work with Early Intervention Teachers and other Professionals to provide a Safe and Secure Environment in Child-care setting. 
-- Implement Health, Safety, Nutritional and Hygiene Standards and Procedures in the Protection of Children in Child-care setting 
-- Provide a Safe and Healthy Physical Environment for Children in Child-care Setting 
-- Use of Client-Assessment Form (CAF-R) for Adult Disability Services 
+- [WSQ Principles and Practices of Early Intervention for Children with Special Needs Module 2](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS83){:target="_blank"} 
 
 ### **Certificate/ Diploma/ Degree Programmes**
 
@@ -43,14 +36,14 @@ Check out the [full list of SSI's Disability courses here.](https://iltms.ssi.go
 
 ### **Meet our Featured Adult Educators**
 
-**Ms. June Tham-Toh Syn Yuen**  
+**Ms June Tham-Toh Syn Yuen**  
 June was the Executive Director of Rainbow Centre before she retired in 2014. She holds a Master of Education, Diploma in Management Studies, Certification of Achievement in Outcome Management: Train-The-Trainer, Early Childhood Intervention, Treatment and Education of Autistic and Related Communication Handicapped Children (TEACCH) and Advanced Certification in Training and Assessment (ACTA). She was one of the two pioneer scholars from Singapore to have successfully completed the “Strategic Perspectives in Non-Profit Management” Programme in July 2008 at the Harvard Business School (HBS).  
   
-**Ms. Linda Prebhash**  
-Linda is a Principal Trainer &amp; Consultant with Rainbow Centre Training and Consultancy (RCTC). She has been in the special education sector since 1988 and her experience in various capacities enables her to provide a holistic perspective in conferences at Singapore and the Asia-Pacific region. She is trained in the Treatment and Education of Autistic and other Related Communication handicapped Children (TEACCH). Besides this, she also serves as a volunteer on the Board of Special Olympics (Singapore) which she has been actively involved in for over 22 years. She believes that through sports, persons with special needs can learn life skills that goes beyond the achievement of athletic abilities.  
-  
-**Prof. Emeritus Trevor R. Parmenter**  
-Trevor is the former Director of the Centre for Disability Studies (CDS). He held the position of Foundation Chair of Developmental Disabilities within the Faculty of Medicine and is an Honorary Professor in Education with the Faculty of Education and Social Work as well as an Honorary Professor in the Faculty of Health Science at the University of Sydney (UniSyd). He is an Adjunct Professor in the School of Rural Medicine at the University of New England (UNE). His international academic standing in the field of developmental disability is marked by his former appointment as President of the International Association for the Scientific Study of Intellectual and Developmental Disabilities (IASSIDD) as well as his role as a Board Member of the American Association on Intellectual and Developmental Disability (AAIDD).
+**Ms Clara Lim**
+Clara is an accomplished Special Education Teacher. She has many years of experience in special needs and education. Her areas of expertise include inclusive practices and early childhood development. She has the ability to assess children’s educational needs, develop and implement educational strategies and programmes to maximise the abilities and potential of clients with special needs. She has worked with children with Cerebral Palsy, Global Developmental delay, Autism, Developmental delay and other related disabilities. As an adult educator, she is able to motivate her learners with her lively facilitation and sharing of relevant experience. Clara is a believer of continuing professional development and has acquired a Master’s Degree in Education in Educational Psychology. 
+
+**Ms Nicole Wong**
+Nicole holds a Masters in Social Work Degree from the National University of Singapore.  She has been a social work practitioner for more than 20 years working in different sectors such as organizations that serve persons with disabilities, acute and community hospitals, as well as social development work in China.  Her work experiences has given her the opportunities to develop knowledge and expertise in working with persons and families in acute and chronic health conditions; psychiatric illnesses; mental health challenges; persons with disabilities; challenging social situations such as extreme poverty; geriatric issues as well as crisis and traumatic situations such as family violence, suicide, sexual assault and refugees seeking asylum. 
 
 
 #### **Keen to join our pool of Adult Educators?**
