@@ -9,8 +9,9 @@ variant: markdown
 ## **Mental Health Training Courses offered by SSI**
 ### **Registration closing soon**
 
-- [Introduction to Trends and Approaches for Youth Mental Health](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0001){:target="blank"}<br>Register by	24 Jan 2024
-- [Foundations of Psycho-Social Rehabilitation and Recovery](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SMTH387){:target="blank"}<br>Regsiter by 24 Jan 2024
+Coming soon!<br>
+[Subscribe to our Mailing List for latest updates.](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"} 
+
 
 
 ### **Other Featured Courses in Mental Health, Suicide Prevention and Psychiatric Rehabilitation**
