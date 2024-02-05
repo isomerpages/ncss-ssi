@@ -28,7 +28,7 @@ variant: markdown
 <p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/cyandf/" target="\_blank">View other Children, Youth and Family courses</a></p></td>
 
 </tr><tr> <td><a href="https://www.ssi.gov.sg/training/disability/" target="\_blank"><img src="/images/training/disability-v2.png" alt="Disability Care / Special Needs Courses"></a>
-<h3>Coming Soon!</h3>
+<h3>WSQ Principles and Practices of Early Intervention for Children with Special Needs Module 1</h3><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS463" target="\_blank">Register by 13 Mar 2024</a>
 <p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/disability/" target="\_blank">View other Disability courses</a></p></td>
 
 </tr><tr> <td><a href="https://www.ssi.gov.sg/training/mental-health/" target="\_blank"><img src="/images/training/mental-health-v2.png" alt="Mental Health Conditions &amp; Recovery Courses"></a>
@@ -47,7 +47,8 @@ variant: markdown
 
 </tr><tr> <td><a href="https://www.ssi.gov.sg/training/caregiving/" target="\_blank"><img src="/images/training/caregiving-v2.png" alt="Caregiver Training Courses"></a><h3>Preparatory Caregiver Training Programme</h3><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0002" target="\_blank">Registration is open throughout the year</a><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/caregiving/" target="\_blank">View all Caregiving courses</a></p></td>
 	</tr><tr> <td><a href="https://www.ssi.gov.sg/training/tnm-courses/" target="\_blank"><img src="/images/training/tnm-banner.png" alt="TNM 2.0, an initiative brought to you by SSI"></a>
-		<h3>Enhancing work outcome together for Person with Mild Intellectual Disability (MID)</h3><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0033" target="\_blank">Register by	22 Jan 2024</a>
+		<h3>Support the Implementation of Volunteer Programmes 
+</h3><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0080" target="\_blank">Register by 12 Feb 2024</a>
 		<p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/tnm-courses/" target="\_blank">View all TNM 2.0 courses</a></p></td></tr></tbody></table>
 
 --- 
