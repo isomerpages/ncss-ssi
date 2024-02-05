@@ -12,6 +12,8 @@ variant: markdown
 
 #### People Management and Leadership
 - [From Problem Solving to Breakthrough Innovation by DPI Asia](https://www.dpi-asia.com/post/where-does-problem-solving-end-and-strategic-innovation-begin){:target="blank"}<br>Register by 7 Feb 2024
+- [Strategy Alignment and Execution - by DPI Asia](https://www.dpi-asia.com/post/strategy-alignment-and-execution){:target="blank"}<br>Register by 8 Mar 2024
+- [Strategy Formulation - by DPI Asia](https://www.dpi-asia.com/post/strategic-human-thinking-in-the-age-of-ai){:target="blank"}<br>Register by 29 Mar 2024
 - [People Management: Driving Results Through Engagement](https://www.sim.edu.sg/professional-development/courses/course-listing/people-management-driving-results-through-engagement-in-collaboration-with-franklincovey-l3-sfw-sync){:target="blank"}<br>Register by 24 Apr 2024
 - [Resource Management and Strategy Implementation](https://www.sim.edu.sg/professional-development/courses/course-listing/resource-management-and-strategy-implementation-in-collaboration-with-franklincovey-l4-sfw-synchrono){:target="blank"}<br>Register by 2 May 2024
 
