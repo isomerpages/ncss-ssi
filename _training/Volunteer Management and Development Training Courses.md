@@ -7,9 +7,6 @@ variant: markdown
 ![Volunteer Management &amp; Development Courses: Equip volunteers with knowledge, develop volunteer management capabilities](/images/volunteer-banner.png)
 
 ## **Volunteer Management &amp; Development Courses offered by SSI**
-### **Registration closing soon**
-
-- [Introduction to Youth Mentoring (For Volunteers)](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SVLD227){:target="blank"}<br>Register by	25 Jan 2024
 
 
 ### **Registration Open Throughout the Year**
