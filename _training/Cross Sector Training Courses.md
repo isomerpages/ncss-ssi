@@ -14,9 +14,6 @@ These courses provide a deeper understanding about each sub-sector, their unique
 Cross Sector courses also cover a range of skills such as counselling, motivational interviewing and behaviour therapy which social service professionals can apply while working with different client groups such as children, youth, adults and seniors.  
   
 ### **Registration Closing Soon**
-- [Cognitive Behaviour Therapy: Introduction](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5141){:target="blank"}<br>Register by 22 Jan 2024
-- [Implement a Social Service Programme](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0099){:target="blank"}<br>Register by 31 Jan 2024
-- [Deliver Evidence-based Psychological Interventions](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS480){:target="blank"}<br>Register by 5 Feb 2024
 - [Solution Focused Brief Therapy: Intermediate](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5447){:target="blank"}<br>Register by 21 Feb 2024
 
 
@@ -48,16 +45,16 @@ View the full list of [Cross Sector courses offered by SSI](https://iltms.ssi.go
 **Ms Alice Lee-Tok**  
 Alice is the author of a parenting book titled ‘Building Bridges with your Teenagers’ and has more than 15 years of experience as a Family Education consultant and training specialist where she specialises in children and families. She is also a family counsellor, family life resource speaker and a certified behaviour analyst. Alice has conducted numerous interactive talks/workshops/trainings/supervisions for various client groups in different social service settings across Thailand, Malaysia and China. She has an Advanced Diploma in Early Childhood Studies, Bachelor of Arts in Children &amp; Family Education from the Edith Cowan University (ECU) and Masters in Counselling with the University of South Australia (UniSA).  
   
-**Mr. Edwin Sam**  
+**Mr Edwin Sam**  
 Edwin holds a Master in Public Administration from the Lee Kuan Yew School of Public Policy at the National University of Singapore (NUS). He has an Advanced Certificate in Training and Assessment (ACTA) and is also a certified administrator of both the Myers-Briggs Type Indicator (MBTI) and DISC. Edwin has experience with working with the government and civil society in close to ten Asia-Pacific countries in the areas of consulting, training, capacity building and volunteer management. He was the executive director of a regional NGO and has designed and managed training programmes in the healthcare and education sectors in South Asia, namely India and Sri Lanka.  
   
-**Dr. Joel Yang**  
+**Dr Joel Yang**  
 Joel is a clinical psychologist by training and a full member of the Singapore Psychological Society (SPS) as well as a chartered psychologist with the British Psychological Society (BPS). Since 2006, he has worked in general and psychiatric hospitals, as well as in community mental health settings in Australia with various institutions under Queensland Health and in Khoo Teck Puat Hospital in Singapore. Formerly head of the counselling programme at Singapore Institute of Management (SIM) University, he currently holds an appointment with Yale-NUS College, and maintains an independent private practice, Mind What Matters. He works from a Cognitive-Behavioural and Solution-Focused approach, incorporating mindfulness, motivational interviewing and positive psychology in his therapeutic approaches.  
   
-**Dr. Roland Yeow**  
+**Dr Roland Yeow**  
 Roland is the executive director of Boys’ Town and has been a corporate trainer since 2001. He has published several research papers on organisational learning and development needs and developed several successful programmes in leadership and team-building. Among his many accolades are several new initiatives in outreach, research and therapy services. He is an appointed member of the New Media Taskforce by the National Youth Committee on Youth Guidance and Rehabilitation (NYGR). Roland has an ACTA, Master’s in Engineering Management, Bachelor’s of Engineering Management and a Ph.D. (Management). He has also obtained certifications in non-profit management and executive leadership training in managing non-profit agencies.  
   
-**Ms. Tan Yeh Min**  
+**Ms Tan Yeh Min**  
 Yeh Min holds a Bachelor in Social Sciences (Social Work Honours) from NUS. She has an Advanced Certificate in Training and Assessment (ACTA) and a WSQ Diploma in Adult and Continuing Education (DACE). She was the winner of the TSAO Ng Yu Shun Award for Excellence in Ageing Study in 2004 and brings with her diverse experience from providing direct services to the seniors, service development of eldercare programmes as well as training and development in courses relevant to the eldercare sector. She is a registered social worker under the Social Work Accreditation and Advisory Board (SWAAB).  
   
 **Dr Terence Yow**  
