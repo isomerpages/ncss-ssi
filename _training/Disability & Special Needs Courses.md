@@ -49,6 +49,6 @@ Nicole holds a Masters in Social Work Degree from the National University of Sin
 #### **Keen to join our pool of Adult Educators?**
 Learn more about joining SSI via our [Adult Educator Resource Kit](https:/www.ssi.gov.sg/files/AE_Resource_Kit.pdf){:target="_blank"}.
 
-#### **Subscribe to Mailing List**
+#### **Subscribe and Stay Connected!**
 
 Subscribe to [SSI's Disability Mailing List](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="blank"} for latest updates!
