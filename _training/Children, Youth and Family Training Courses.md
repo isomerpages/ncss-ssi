@@ -11,7 +11,7 @@ variant: markdown
 
 ### **Coming Soon**
 
-- [Certified User for Youth Level of Service / Case Management Inventory (YLS/CMI)](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5858){:target=blank}<br>Register your interest
+- [Certified User for Youth Level of Service / Case Management Inventory (YLS/CMI)](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5858){:target="_blank"} <br>Register your interest
 
 
 
