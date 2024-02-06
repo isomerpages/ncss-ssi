@@ -18,13 +18,13 @@ variant: markdown
 <table>
 	<tbody><tr><td><a href="https://www.ssi.gov.sg/training/cet-programmes/" target="\_blank"><img src="/images/training/cet-v2.png" alt="Continuing Education &amp; Training (CET) Courses"></a><h3>Advanced Certificate in Social Service (ACSS)</h3><a href="https://www.ssi.gov.sg/training/cet-programmes/advanced-certificate-in-social-service/" target="\_blank">Registration period: 15 Feb 2024  to 31 Mar 2024</a>
 		<h3>Higher Diploma in Social Service (HDSS)</h3><a href="https://www.ssi.gov.sg/training/cet-programmes/higher-diploma-in-social-service/" target="\_blank">Registration period: 15 Feb 2024  to 31 Mar 2024</a>
-		<h3>Course Preview for ACSS &amp; HDSS</h3><a href="https://go.gov.sg/ssi-preview-registration" target="\_blank">Regsiter by 29 Feb 2024</a>
+		<h3>Course Preview for ACSS &amp; HDSS</h3><a href="https://go.gov.sg/ssi-preview-registration" target="\_blank">Register by 29 Feb 2024</a>
 <p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/cet-programmes/" target="\_blank">View other CET courses</a></p></td>
 		
 </tr><tr> <td><a href="https://www.ssi.gov.sg/training/cross-sector/" target="\_blank"><img src="/images/training/cross-sector-v2.png" alt="Counselling, Motivational Interviewing &amp; Behaviour Therapy Courses"></a><h3>Solution Focused Brief Therapy: Intermediate</h3><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5447" target="\_blank">Register by 21 Feb 2024</a>
 <p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/cross-sector/" target="\_blank">View other Cross Sector courses</a></p></td>
 		
-</tr><tr> <td><a href="https://www.ssi.gov.sg/training/cyandf" target="\_blank"><img src="/images/training/cyf-v2.png" alt="Children &amp; Youth Development, Family Therapy / Family Violence Courses: Equip volunteers with skills to work with children, youth and families."></a><h3>Certified User for Youth Level of Service / Case Management Inventory (YLS/CMI)</h3><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5858" target="\_blank">Register Now</a>
+</tr><tr> <td><a href="https://www.ssi.gov.sg/training/cyandf" target="\_blank"><img src="/images/training/cyf-v2.png" alt="Children &amp; Youth Development, Family Therapy / Family Violence Courses: Equip volunteers with skills to work with children, youth and families."></a><h3>Coming Soon!</h3>
 <p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/cyandf/" target="\_blank">View other Children, Youth and Family courses</a></p></td>
 
 </tr><tr> <td><a href="https://www.ssi.gov.sg/training/disability/" target="\_blank"><img src="/images/training/disability-v2.png" alt="Disability Care / Special Needs Courses"></a>
