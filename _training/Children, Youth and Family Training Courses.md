@@ -11,7 +11,8 @@ variant: markdown
 
 ### **Registration closing soon**
 
-- [Certified User for Youth Level of Service / Case Management Inventory (YLS/CMI)](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5858){:target="blank"}<br>Register Now
+Coming soon!<br>
+[Subscribe to our Mailing List for latest updates.](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"} 
 
 
 ### **Other Featured Courses in Children and Youth Development, Youth Counselling and Family Therapy**
