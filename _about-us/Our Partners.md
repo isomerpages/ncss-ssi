@@ -3,6 +3,7 @@ title: Our Partners
 permalink: /about-us/our-partners/
 description: The Training Network Model refers to our network of industry
   professionals and organisations that have partnered with SSI.
+variant: markdown
 ---
 ### **Overview**
 
@@ -79,8 +80,7 @@ Our recognition system includes:
 
 AE recognition is only a small fraction of what we do for our AEs. We also **partner, nurture, engage, impact and journey with them**.
 
-Read more about our various talent development schemes and initiatives, engagements and all things Adult Educator-related [here](/files/ae_resource_kit_7oct2022.pdf){:target="_blank"}.
-
+Read more about our various talent development schemes and initiatives, engagements and all things [Adult Educator-related](/files/AE_Resource_Kit_2024.pdf){:target="_blank"}.
 ### **Partnership Opportunities**   
 
 SSI is constantly looking for partnerships with local or international Social Service Agencies (SSAs), Non-Profit Organisations (NPOs), Institute of Higher Learning (IHLs) and Private Training Organisations to develop the capabilities of Singapore’s SSAs in the areas of:
