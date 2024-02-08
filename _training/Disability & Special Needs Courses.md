@@ -23,7 +23,7 @@ variant: markdown
 
 
 
-#### Courses Coming soon!
+#### **Courses Coming Soon**
 
 - [WSQ Principles and Practices of Early Intervention for Children with Special Needs Module 2](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS83){:target="_blank"} 
 
