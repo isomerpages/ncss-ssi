@@ -9,8 +9,8 @@ variant: markdown
 ## **Eldercare Training Courses offered by SSI**
 ### **Registration Closing soon**
 
-- [Case Management for Seniors Using Action Learning Approach](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SECH5364){:target="blank"}<br>Register by 22 Jan 2024
-- [Introduction to Art Therapy for Seniors - 老年艺术治疗：应用与策划](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SECH5299){:target="blank"}<br>Register by	29 Jan 2024
+Coming soon!<br>
+[Subscribe to our Mailing List for latest updates.](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"} 
 
 
 ### **Other featured courses in Eldercare, Communication and Counselling**

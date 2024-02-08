@@ -11,18 +11,17 @@ variant: markdown
 ### **Registration now open**
 
 #### People Management and Leadership
-- [Effective Supervisory Skills for NPO Managers](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT5079){:target="blank"}<br>Register by 21 Jan 2024
-- [Developing Effective Supervisory Skills](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT5079){:target="blank"}<br>Register by 21 Jan 2024
-- [Developing Your Coaching and Mentoring Skills](https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5073){:target="blank"}<br>Register by 21 Jan 2024
-- [Internal Controls (IV): General Accounting, Fixed Assets, Inventory and Human Resource Management](https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5468){:target="blank"}<br>Register by 21 Jan 2024
 - [From Problem Solving to Breakthrough Innovation by DPI Asia](https://www.dpi-asia.com/post/where-does-problem-solving-end-and-strategic-innovation-begin){:target="blank"}<br>Register by 7 Feb 2024
+- [Strategy Alignment and Execution - by DPI Asia](https://www.dpi-asia.com/post/strategy-alignment-and-execution){:target="blank"}<br>Register by 8 Mar 2024
+- [Strategy Formulation - by DPI Asia](https://www.dpi-asia.com/post/strategic-human-thinking-in-the-age-of-ai){:target="blank"}<br>Register by 29 Mar 2024
 - [People Management: Driving Results Through Engagement](https://www.sim.edu.sg/professional-development/courses/course-listing/people-management-driving-results-through-engagement-in-collaboration-with-franklincovey-l3-sfw-sync){:target="blank"}<br>Register by 24 Apr 2024
 - [Resource Management and Strategy Implementation](https://www.sim.edu.sg/professional-development/courses/course-listing/resource-management-and-strategy-implementation-in-collaboration-with-franklincovey-l4-sfw-synchrono){:target="blank"}<br>Register by 2 May 2024
 
 
 #### Financial Management
 
-- [Internal Controls (IV): General Accounting, Fixed Assets, Inventory and Human Resource Management](https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5468){:target="blank"}<br>Register by 21 Jan 2024
+Coming soon!<br>
+[Subscribe to our Mailing List for latest updates.](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"} 
 
 ### **Featured Courses: Leadership Development &amp; Management For Non-Profit Organisations**
 -   [Branding Non-profits: An Introduction](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCOF243){:target="_blank"} 

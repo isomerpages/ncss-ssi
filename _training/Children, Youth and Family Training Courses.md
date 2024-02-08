@@ -9,11 +9,10 @@ variant: markdown
 
 ## **Children, Youth and Family Courses offered by SSI**
 
-### **Registration closing soon**
+### **Coming Soon**
 
-- [Certified User for Youth Level of Service / Case Management Inventory (YLS/CMI)](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5858){:target="blank"}<br>Register by 15 Jan 2024
-- [Apply development theories when working with children and youths](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF482){:target="blank"}<br>Register by 16 Jan 2024
-- [Family Therapy: Intermediate](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5879){:target="blank"}<br>Register by 31 Jan 2024
+- [Certified User for Youth Level of Service / Case Management Inventory (YLS/CMI)](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5858){:target="_blank"} <br>Register your interest
+
 
 
 ### **Other Featured Courses in Children and Youth Development, Youth Counselling and Family Therapy**
