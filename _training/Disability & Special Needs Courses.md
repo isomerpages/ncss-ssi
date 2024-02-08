@@ -46,9 +46,6 @@ Clara is an accomplished Special Education Teacher. She has many years of experi
 Nicole holds a Masters in Social Work Degree from the National University of Singapore.  She has been a social work practitioner for more than 20 years working in different sectors such as organizations that serve persons with disabilities, acute and community hospitals, as well as social development work in China.  Her work experiences has given her the opportunities to develop knowledge and expertise in working with persons and families in acute and chronic health conditions; psychiatric illnesses; mental health challenges; persons with disabilities; challenging social situations such as extreme poverty; geriatric issues as well as crisis and traumatic situations such as family violence, suicide, sexual assault and refugees seeking asylum. 
 
 
-#### **Keen to join our pool of Adult Educators?**
-Learn more about joining SSI via our [Adult Educator Resource Kit](https:/www.ssi.gov.sg/files/AE_Resource_Kit.pdf){:target="_blank"}.
-
 #### **Subscribe and Stay Connected!**
 
 Subscribe to [SSI's Disability Mailing List](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="blank"} for latest updates!
