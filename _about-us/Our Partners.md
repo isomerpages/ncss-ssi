@@ -5,12 +5,12 @@ description: The Training Network Model refers to our network of industry
   professionals and organisations that have partnered with SSI.
 variant: markdown
 ---
-### **Overview**
+## **Our Partners Overview**
 
 The Training Network Model refers to the network of partners that SSI engages to champion training in their area of expertise. This leads to an increased number of skilled and enterprising professionals in the sector, greater capacity and capability of social purpose entities and the development of innovative solutions.
 
 
-### **Our Programme Partners**
+## **Our Programme Partners**
 
 1.  [Flinders University](https://www.flinders.edu.au/){:target="_blank"}   
     
@@ -27,7 +27,7 @@ The Training Network Model refers to the network of partners that SSI engages to
 7.  [Ngee Ann Polytechnic](https://www.np.edu.sg/){:target="_blank"}   
     
 
-### **Our Agency Partners**
+## **Our Agency Partners**
 
 1.  [Ministry of Social and Family Development](https://www.msf.gov.sg/){:target="_blank"}   
     
@@ -57,18 +57,26 @@ The Training Network Model refers to the network of partners that SSI engages to
     
 14.  [Singapore Association of Social Workers](https://sasw.org.sg/){:target="_blank"}   
 
-### **Our Adult Educators**
+## **Our Adult Educators**
    
 At SSI we believe in developing talents to shine with altruism. We encourage and facilitate professional growth for our Adult Educators (AEs) and continuously build a solid and lasting partnership with them.&nbsp; We stand committed to evolve stronger as a family. In mind with our prime mission to create trends, explore possibilities and inspire compassion.
 
        
-**Why join the AE pool?**
+### **Why join the Adult Educators pool?**
 
-Adult Educators (AEs) who partner with SSI can look forward to opportunities to take on different roles. There are various engagement mediums and professional development opportunities in place to encourage AEs’ continuous professional growth, active engagements and interactions, and a providence of a quality feedback pool with SSI.
+AEs who partner with SSI can look forward to opportunities to take on different roles. There are various engagement mediums and professional development opportunities in place to encourage AEs’ continuous professional growth, active engagements and interactions, and a providence of a quality feedback pool with SSI.
+
+#### **Apply to be our Adult Educator**
 
 If you’re interested to join us, kindly submit the&nbsp;[application form](https://form.gov.sg/#!/607935eee0b9d9001179a50d){:target="_blank"}&nbsp;along with your documents (CV and credentials).
 
-**AE Recognition** 
+Our annual recruitment drive for AEs will open for 2 windows; in **April** and **October**. Each window will open for a month.
+| Application Window	|If short listed, you will be contacted by| 
+| -------- | -------- |
+| 1 to 30 April | First working day of May |
+| 1 to 31 October | First working day of November |
+
+### **Adult Educators Recognition** 
 
 SSI values the contribution of our AEs in the social service sector and have a system in place to honour their efforts.
 
@@ -76,32 +84,26 @@ Our recognition system includes:
 * STAR Adult Educator Awards
 * Long Service Award
 
-**Growing Together to Impact As One**
+#### **Growing Together to Impact As One**
 
 AE recognition is only a small fraction of what we do for our AEs. We also **partner, nurture, engage, impact and journey with them**.
 
 Read more about our various talent development schemes and initiatives, engagements and all things [Adult Educator-related](/files/AE_Resource_Kit_2024.pdf){:target="_blank"}.
-### **Partnership Opportunities**   
+
+## **Partnership Opportunities**   
 
 SSI is constantly looking for partnerships with local or international Social Service Agencies (SSAs), Non-Profit Organisations (NPOs), Institute of Higher Learning (IHLs) and Private Training Organisations to develop the capabilities of Singapore’s SSAs in the areas of:
 
--   Social Service Practice and Future trends   
-    
+-   Social Service Practice and Future trends
 -   Leadership and Management   
-    
 -   Technology Adoption and Digitalisation   
-    
 -   Emerging Skills   
-    
 -   Outcome Measurement and Management   
-    
 -   Financial management   
-    
 -   Fundraising   
     
-
 The capability interventions could be through training, workplace learning, consultancy, coaching, digital learning solutions etc. SSI will be able to assist you with the sector insights, reaching out to the sector and intervention design inputs. Where possible, SSI will assist with the course fee funding and administration of learning and development interventions.  
   
 The partner should have the relevant expertise in the domain, management readiness and buy in to understand the needs of the sector. They partner should be able to devise strategies to develop capability solutions and have a readiness to deploy these initiatives and projects.  
   
-Please write to us at    for partnership opportunities.
+Please write to us at [socialserviceinstitute@ncss.gov.sg](mailto:socialserviceinstitute@ncss.gov.sg) for partnership opportunities.
