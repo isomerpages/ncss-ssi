@@ -5,7 +5,7 @@ description: The Training Network Model refers to our network of industry
   professionals and organisations that have partnered with SSI.
 variant: markdown
 ---
-## **Our Partners Overview**
+## **SSI Partners Overview**
 
 The Training Network Model refers to the network of partners that SSI engages to champion training in their area of expertise. This leads to an increased number of skilled and enterprising professionals in the sector, greater capacity and capability of social purpose entities and the development of innovative solutions.
 
@@ -88,7 +88,7 @@ Our recognition system includes:
 
 AE recognition is only a small fraction of what we do for our AEs. We also **partner, nurture, engage, impact and journey with them**.
 
-Read more about our various talent development schemes and initiatives, engagements and all things [Adult Educator-related](/files/AE_Resource_Kit_2024.pdf){:target="_blank"}.
+Read more about our various talent development schemes and initiatives, engagements and all things [Adult Educator-related](/files/AE_Resource_Kit_Feb2024.pdf){:target="_blank"}.
 
 ## **Partnership Opportunities**   
 
