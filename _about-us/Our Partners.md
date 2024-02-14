@@ -14,70 +14,91 @@ of innovative solutions.</p>
 <h2><strong>Our Programme Partners</strong></h2>
 <ol>
 <li>
-<p><a href="https://www.flinders.edu.au/" rel="noopener noreferrer nofollow" target="_blank">Flinders University</a>{:target="_blank"}</p>
+<p><a href="https://www.flinders.edu.au/" rel="noopener noreferrer nofollow" target="_blank">Flinders University</a>
+</p>
 </li>
 <li>
-<p><a href="https://www.sid.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Institute of Directors</a>{:target="_blank"}</p>
+<p><a href="https://www.sid.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Institute of Directors</a>
+</p>
 </li>
 <li>
-<p><a href="https://cds.org.au/" rel="noopener noreferrer nofollow" target="_blank">Centre for Disability Studies</a>{:target="_blank"}</p>
+<p><a href="https://cds.org.au/" rel="noopener noreferrer nofollow" target="_blank">Centre for Disability Studies</a>
+</p>
 </li>
 <li>
-<p><a href="https://www.franklincovey.com/" rel="noopener noreferrer nofollow" target="_blank">Franklin Covey</a>{:target="_blank"}</p>
+<p><a href="https://www.franklincovey.com/" rel="noopener noreferrer nofollow" target="_blank">Franklin Covey</a>
+</p>
 </li>
 <li>
-<p><a href="http://decisionprocesses.com/" rel="noopener noreferrer nofollow" target="_blank">Decision Processes International</a>{:target="_blank"}</p>
+<p><a href="http://decisionprocesses.com/" rel="noopener noreferrer nofollow" target="_blank">Decision Processes International</a>
+</p>
 </li>
 <li>
-<p><a href="https://www.suss.edu.sg/programme-finder?utm_campaign=adm-jan21-intake&amp;utm_source=Google&amp;utm_medium=search&amp;utm_content=SUSS&amp;gclid=CjwKCAjwj975BRBUEiwA4whRBzypLKKo3UFBgUXHjEGgkdiYREwF_Aff8O4cRiWMGzCYV0QeUHRDGRoCqp4QAvD_BwE" rel="noopener noreferrer nofollow" target="_blank">Singapore University of Social Sciences</a>{:target="_blank"}</p>
+<p><a href="https://www.suss.edu.sg/programme-finder?utm_campaign=adm-jan21-intake&amp;utm_source=Google&amp;utm_medium=search&amp;utm_content=SUSS&amp;gclid=CjwKCAjwj975BRBUEiwA4whRBzypLKKo3UFBgUXHjEGgkdiYREwF_Aff8O4cRiWMGzCYV0QeUHRDGRoCqp4QAvD_BwE" rel="noopener noreferrer nofollow" target="_blank">Singapore University of Social Sciences</a>
+</p>
 </li>
 <li>
-<p><a href="https://www.np.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Ngee Ann Polytechnic</a>{:target="_blank"}</p>
+<p><a href="https://www.np.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Ngee Ann Polytechnic</a>
+</p>
 </li>
 </ol>
 <h2><strong>Our Agency Partners</strong></h2>
 <ol>
 <li>
-<p><a href="https://www.msf.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Social and Family Development</a>{:target="_blank"}</p>
+<p><a href="https://www.msf.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Social and Family Development</a>
+</p>
 </li>
 <li>
-<p><a href="https://www.sps.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Prison Service</a>{:target="_blank"}</p>
+<p><a href="https://www.sps.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Prison Service</a>
+</p>
 </li>
 <li>
-<p><a href="https://www.aic.sg/?gclid=CjwKCAjwj975BRBUEiwA4whRB5kRfBiF67fiP1aHElfJkqLmVyiNrRNgw2KlpV9o9eTq3Aiby8cpCxoCA08QAvD_BwE&amp;gclsrc=aw.ds" rel="noopener noreferrer nofollow" target="_blank">Agency for Integrated Care</a>{:target="_blank"}</p>
+<p><a href="https://www.aic.sg/?gclid=CjwKCAjwj975BRBUEiwA4whRB5kRfBiF67fiP1aHElfJkqLmVyiNrRNgw2KlpV9o9eTq3Aiby8cpCxoCA08QAvD_BwE&amp;gclsrc=aw.ds" rel="noopener noreferrer nofollow" target="_blank">Agency for Integrated Care</a>
+</p>
 </li>
 <li>
-<p><a href="https://www.charities.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Charity Council</a>{:target="_blank"}</p>
+<p><a href="https://www.charities.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Charity Council</a>
+</p>
 </li>
 <li>
-<p><a href="https://www.ecda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Early Childhood Development Agency</a>{:target="_blank"}</p>
+<p><a href="https://www.ecda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Early Childhood Development Agency</a>
+</p>
 </li>
 <li>
-<p><a href="https://www.nac.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Arts Council</a>{:target="_blank"}</p>
+<p><a href="https://www.nac.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Arts Council</a>
+</p>
 </li>
 <li>
-<p><a href="https://www.toteboard.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Tote Board</a>{:target="_blank"}</p>
+<p><a href="https://www.toteboard.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Tote Board</a>
+</p>
 </li>
 <li>
-<p><a href="https://cityofgood.sg/" rel="noopener noreferrer nofollow" target="_blank">National Volunteer &amp; Philanthropy Centre</a>{:target="_blank"}</p>
+<p><a href="https://cityofgood.sg/" rel="noopener noreferrer nofollow" target="_blank">National Volunteer &amp; Philanthropy Centre</a>
+</p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Education</a>{:target="_blank"}</p>
+<p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Education</a>
+</p>
 </li>
 <li>
-<p><a href="https://www.mccy.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Culture, Coommunity and Youth</a>{:target="_blank"}</p>
+<p><a href="https://www.mccy.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Culture, Coommunity and Youth</a>
+</p>
 </li>
 <li>
-<p><a href="https://www.sgenable.sg/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">SG Enable</a>{:target="_blank"}</p>
+<p><a href="https://www.sgenable.sg/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">SG Enable</a>
+</p>
 </li>
 <li>
-<p><a href="https://www.skillsfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">SkillsFuture Singapore</a>{:target="_blank"}</p>
+<p><a href="https://www.skillsfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">SkillsFuture Singapore</a>
+</p>
 </li>
 <li>
-<p><a href="https://www.ssg-wsg.gov.sg/about.html" rel="noopener noreferrer nofollow" target="_blank">Workforce Singapore</a>{:target="_blank"}</p>
+<p><a href="https://www.ssg-wsg.gov.sg/about.html" rel="noopener noreferrer nofollow" target="_blank">Workforce Singapore</a>
+</p>
 </li>
 <li>
-<p><a href="https://sasw.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Association of Social Workers</a>{:target="_blank"}</p>
+<p><a href="https://sasw.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Association of Social Workers</a>
+</p>
 </li>
 </ol>
 <h2><strong>Our Adult Educators</strong></h2>
@@ -93,7 +114,7 @@ development opportunities in place to encourage AEs’ continuous professional
 growth, active engagements and interactions, and a providence of a quality
 feedback pool with SSI.</p>
 <h4><strong>Apply to be our Adult Educator</strong></h4>
-<p>If you’re interested to join us, kindly submit the&nbsp;<a href="https://form.gov.sg/#!/607935eee0b9d9001179a50d" rel="noopener noreferrer nofollow" target="_blank">application form</a>{:target="_blank"}&nbsp;along
+<p>If you’re interested to join us, kindly submit the&nbsp;<a href="https://form.gov.sg/#!/607935eee0b9d9001179a50d" rel="noopener noreferrer nofollow" target="_blank">application form</a>&nbsp;along
 with your documents (CV and credentials).</p>
 <p>Our annual recruitment drive for AEs will open for 2 windows; in <strong>April</strong> and <strong>October</strong>.
 Each window will open for a month.</p>
@@ -141,7 +162,7 @@ have a system in place to honour their efforts.</p>
 <p>AE recognition is only a small fraction of what we do for our AEs. We
 also <strong>partner, nurture, engage, impact and journey with them</strong>.</p>
 <p>Read more about our various talent development schemes and initiatives,
-engagements and all things <a href="/files/AE_Resource_Kit_Feb2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Adult Educator-related</a>{:target="_blank"}.</p>
+engagements and all things <a href="/files/AE_Resource_Kit_Feb2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Adult Educator-related</a>.</p>
 <h2><strong>Partnership Opportunities</strong></h2>
 <p>SSI is constantly looking for partnerships with local or international
 Social Service Agencies (SSAs), Non-Profit Organisations (NPOs), Institute
