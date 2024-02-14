@@ -197,8 +197,8 @@ to assist you with the sector insights, reaching out to the sector and
 intervention design inputs. Where possible, SSI will assist with the course
 fee funding and administration of learning and development interventions.</p>
 <p>The partner should have the relevant expertise in the domain, management
-readiness and buy in to understand the needs of the sector. They partner
-should be able to devise strategies to develop capability solutions and
-have a readiness to deploy these initiatives and projects.</p>
+readiness and buy in to understand the needs of the sector. They should
+also be able to devise strategies to develop capability solutions and have
+a readiness to deploy these initiatives and projects.</p>
 <p>Please write to us at <a href="mailto:socialserviceinstitute@ncss.gov.sg" rel="noopener noreferrer nofollow" target="_blank">socialserviceinstitute@ncss.gov.sg</a> for
 partnership opportunities.</p>
