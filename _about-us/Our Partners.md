@@ -71,7 +71,7 @@ AEs who partner with SSI can look forward to opportunities to take on different 
 If you’re interested to join us, kindly submit the&nbsp;[application form](https://form.gov.sg/#!/607935eee0b9d9001179a50d){:target="_blank"}&nbsp;along with your documents (CV and credentials).
 
 Our annual recruitment drive for AEs will open for 2 windows; in **April** and **October**. Each window will open for a month.
-| Application Window	|If short listed, you will be contacted by| 
+| Application Window	| If short listed, you will be contacted by| 
 | -------- | -------- |
 | 1 to 30 April | First working day of May |
 | 1 to 31 October | First working day of November |
