@@ -61,7 +61,7 @@ Learners must achieve at least 75% attendance per module and be certified compet
 
 
 ## Course Application Guidelines &amp; Dates
-Applicants to download and upload the completed [Application Form](/files/acss/ssi%20-%20application%20form%20-%20advanced%20certificate%20in%20social%20service%20(jun%202023).pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-1){:target="_blank"}  between 15 February 2024 to 31 March 2024.
+Applicants to download and upload the completed [Application Form](/files/acss/SSI_ACSS_Application_Form__Feb_Mar_2024_.pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-1){:target="_blank"}  between 15 February 2024 to 31 March 2024.
 
 | Description | Date | |
 | -------- | -------- | -------- |
