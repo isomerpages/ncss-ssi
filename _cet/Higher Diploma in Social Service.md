@@ -56,7 +56,7 @@ Learners may also apply for work as a Social Work Associate, Project Coordinator
 - **Cohort Size:** One cohort of 25 pax. 
 - **No of Modules:** Nine
 - **Programme Duration:** 16 months. This is a part time course with lessons being conducted two to three times a week.
-- **Programme Date:** February 2024 - June 2025
+- **Programme Date:** August 2024 - December 2025
 - **Course Timing:**  7.00pm to 10.00pm  
 - **Fees:** Full Fees: $10,800 (before GST).*  
 - **Estimated Nett Fees:** $3,240 (after SSG Subsidy)* 
@@ -76,7 +76,7 @@ Learners must achieve at least 75% attendance per module and be certified compet
 
 ## Application Guidelines
 
-Applicants to download and upload the completed [Application Form](/files/hdss/ssi%20-%20application%20form%20-%20higher%20diploma%20in%20social%20service%20(jun%202023).pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=scet21-2){:target="_blank"}  between 15 February 2024 to 31 March 2024. 
+Applicants to download and upload the completed [Application Form](/files/hdss/SSI_HDSS_Application_Form__Feb_Mar_2024_.pdf){:target="_blank"}, with all relevant supporting documents via the [Registration Portal](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=scet21-2){:target="_blank"}  between 15 February 2024 to 31 March 2024. 
 
 | Description | Date | |
 | -------- | -------- | -------- |
