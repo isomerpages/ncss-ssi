@@ -7,9 +7,8 @@ variant: markdown
 ---
 ![Social Service Institute (SSI) Singapore - Mental Health Conditions &amp; Recovery Courses](/images/mental-health-banner.png)
 ## **Mental Health Training Courses offered by SSI**
-### **Registration closing soon**
+### **Coming soon!**
 
-Coming soon!<br>
 [Subscribe to our Mailing List for latest updates.](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"} 
 
 
