@@ -14,7 +14,6 @@ These courses provide a deeper understanding about each sub-sector, their unique
 Cross Sector courses also cover a range of skills such as counselling, motivational interviewing and behaviour therapy which social service professionals can apply while working with different client groups such as children, youth, adults and seniors.  
   
 ### **Registration Closing Soon**
-- [Solution Focused Brief Therapy: Intermediate](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5447){:target="blank"}<br>Register by 21 Feb 2024
 - [Motivational Interviewing: An Introduction for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5725){:target="blank"}<br>Register by 30 May 2024
 - [Case Management in Practice: Introduction](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5228){:target="blank"}<br>Register by 6 Jun 2024
 
