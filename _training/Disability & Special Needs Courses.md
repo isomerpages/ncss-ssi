@@ -11,7 +11,6 @@ variant: markdown
 
 ### **Registration Closing Soon**
 
-- [Develop an Inclusive Lesson Plan in Early Intervention Teaching](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS85){:target="blank"}<br>Register by 4 Mar 2024
 - [Introduce Classroom and Behaviour Management Strategies in Early Intervention Teaching](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS86){:target="blank"}<br>Register by 12 Mar 2024
 - [WSQ Principles and Practices of Early Intervention for Children with Special Needs Module 1](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS463){:target="blank"}<br>Register by 13 Mar 2024
 
