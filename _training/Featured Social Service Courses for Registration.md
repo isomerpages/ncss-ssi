@@ -20,8 +20,7 @@ variant: markdown
 		<h3>Higher Diploma in Social Service (HDSS)</h3><a href="https://www.ssi.gov.sg/training/cet-programmes/higher-diploma-in-social-service/" target="\_blank">Registration period: 15 Feb 2024  to 31 Mar 2024</a>
 <p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/cet-programmes/" target="\_blank">View other CET courses</a></p></td>
 		
-</tr><tr> <td><a href="https://www.ssi.gov.sg/training/cross-sector/" target="\_blank"><img src="/images/training/cross-sector-v2.png" alt="Counselling, Motivational Interviewing &amp; Behaviour Therapy Courses"></a><h3>Motivational Interviewing: An Introduction for Social Service Practitioners</h3><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5725" target="\_blank">Register by 30 May 2024</a>
-<p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/cross-sector/" target="\_blank">View other Cross Sector courses</a></p></td>
+</tr><tr> <td><a href="https://www.ssi.gov.sg/training/cross-sector/" target="\_blank"><img src="/images/training/cross-sector-v2.png" alt="Counselling, Motivational Interviewing &amp; Behaviour Therapy Courses"></a><h3>Coming Soon!</h3><p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/cross-sector/" target="\_blank">View other Cross Sector courses</a></p></td>
 		
 </tr><tr> <td><a href="https://www.ssi.gov.sg/training/cyandf" target="\_blank"><img src="/images/training/cyf-v2.png" alt="Children &amp; Youth Development, Family Therapy / Family Violence Courses: Equip volunteers with skills to work with children, youth and families."></a><h3>Coming Soon!</h3>
 <p></p><p style="text-align: right;"><a href="https://www.ssi.gov.sg/training/cyandf/" target="\_blank">View other Children, Youth and Family courses</a></p></td>
