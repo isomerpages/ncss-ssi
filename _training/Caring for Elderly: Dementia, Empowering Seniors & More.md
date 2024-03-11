@@ -7,9 +7,8 @@ variant: markdown
 ---
 ![Social Service Institute (SSI) Singapore - Caring and communicating with dementia and senior persons courses](/images/eldercare-banner.png)
 ## **Eldercare Training Courses offered by SSI**
-### **Registration Closing soon**
+### **Coming Soon!**
 
-Coming soon!<br>
 [Subscribe to our Mailing List for latest updates.](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"} 
 
 

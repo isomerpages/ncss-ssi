@@ -12,11 +12,8 @@ variant: markdown
 These courses provide a deeper understanding about each sub-sector, their unique social needs and help learners to critically discern and analyse their own assumptions.  
   
 Cross Sector courses also cover a range of skills such as counselling, motivational interviewing and behaviour therapy which social service professionals can apply while working with different client groups such as children, youth, adults and seniors.  
-  
-### **Registration Closing Soon**
-- [Solution Focused Brief Therapy: Intermediate](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5447){:target="blank"}<br>Register by 21 Feb 2024
-- [Motivational Interviewing: An Introduction for Social Service Practitioners](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5725){:target="blank"}<br>Register by 30 May 2024
-- [Case Management in Practice: Introduction](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5228){:target="blank"}<br>Register by 6 Jun 2024
+
+### Coming Soon!
 
 
 ### **Other Featured Short Courses in Befriending, Case Management, Counselling and more**
@@ -42,7 +39,7 @@ Cross Sector courses also cover a range of skills such as counselling, motivatio
 
 View the full list of [Cross Sector courses offered by SSI](https://iltms.ssi.gov.sg/Registration/Course){:target="_blank"}.  
  
-### **Featured Adult Educators under Cross Sector Training Courses**
+## **Featured Adult Educators under Cross Sector Training Courses**
 
 **Ms Alice Lee-Tok**  
 Alice is the author of a parenting book titled ‘Building Bridges with your Teenagers’ and has more than 15 years of experience as a Family Education consultant and training specialist where she specialises in children and families. She is also a family counsellor, family life resource speaker and a certified behaviour analyst. Alice has conducted numerous interactive talks/workshops/trainings/supervisions for various client groups in different social service settings across Thailand, Malaysia and China. She has an Advanced Diploma in Early Childhood Studies, Bachelor of Arts in Children &amp; Family Education from the Edith Cowan University (ECU) and Masters in Counselling with the University of South Australia (UniSA).  
@@ -65,4 +62,4 @@ healthcare and social service setting. He obtained his master’s and doctorate 
 
 #### **Subscribe to SSI’s Cross Sector Mailing List**
 
-Click [here to join SSI’s Cross Sector Mailing List SSI's](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
+Join [SSI’s Cross Sector Mailing List](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"}.
