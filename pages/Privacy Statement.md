@@ -4,13 +4,11 @@ permalink: /privacy/
 description: ""
 variant: tiptap
 ---
-<p><strong>Privacy Statement</strong>
-</p>
+<h4><strong>Privacy Statement</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>This is a Government of Singapore digital service.
-<br>
-</p>
+<p>This is a Government of Singapore digital service.</p>
+<p></p>
 </li>
 <li>
 <p>We may use "cookies", where a small data file is sent to your browser
@@ -20,6 +18,7 @@ their frequency of use, profiles of users and their preferred digital services.
 While this cookie can tell us when you enter our digital services and which
 pages you visit, it cannot read data off your hard disk.
 <br>
+<br>
 </p>
 </li>
 <li>
@@ -28,7 +27,7 @@ accept cookies, but you can usually modify your browser setting to decline
 cookies if you prefer. This may prevent you from taking full advantage
 of the digital service.
 <br>
-<br><strong>Use of Data</strong>
+<br><strong>Use of Data</strong> 
 <br>
 </p>
 </li>
@@ -61,13 +60,14 @@ data be out-of-date, please supply us the latest data.</p>
 <p></p>
 </li>
 </ol>
-<p><strong>Protection of Data</strong>
+<p><strong>Protection of Data</strong> 
 <br>
 </p>
 </li>
 <li>
 <p>To safeguard your personal data, all electronic storage and transmission
 of personal data is secured with appropriate security technologies.
+<br>
 <br>
 </p>
 </li>
@@ -99,7 +99,7 @@ or
 to us in the past.
 <br>
 </p>
-<p><strong>Definitions</strong>
+<p><strong>Definitions</strong> 
 <br>
 </p>
 </li>
@@ -107,8 +107,9 @@ to us in the past.
 </li>
 <li>
 <p>"Government Agency” refers to an Organ of State, Ministry, Department
-or Statutory Board.</p>
-<p></p>
+or Statutory Board.
+<br>
+</p>
 </li>
 <li>
 <p>”Non-Government entity” refers to a person other than a Government Agency.
