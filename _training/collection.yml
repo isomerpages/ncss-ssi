@@ -4,7 +4,6 @@ collections:
     order:
       - Training Overview.md
       - Featured Social Service Courses for Registration.md
-      - Complimentary Courses.md
       - Training Network Model Courses.md
       - Continuing Education & Training (CET) Courses.md
       - Cross Sector Training Courses.md
@@ -16,6 +15,7 @@ collections:
       - Management and Organisation Development Training Courses.md
       - Volunteer Management and Development Training Courses.md
       - Caregiving Training Courses.md
+      - Complimentary Courses.md
       - Course Application and Registration Information.md
       - Funding Information/.keep
       - Funding Information/training-grants.md
