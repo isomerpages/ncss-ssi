@@ -13,7 +13,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h3>Course Schedule &amp; Registration Dates </h3>
+<h3>Course Schedule &amp; Registration Dates</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/training%20courses/ssi%20monthly%20featured%20courses%20-%2029jan2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Registration period: Mar 2024 to May 2024</a>
