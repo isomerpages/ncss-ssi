@@ -2,6 +2,7 @@ collections:
   training:
     output: true
     order:
+      - Complimentary Courses.md
       - Training Overview.md
       - Featured Social Service Courses for Registration.md
       - Training Network Model Courses.md
