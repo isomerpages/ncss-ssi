@@ -23,11 +23,11 @@ have requested for more support on.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF434" rel="noopener noreferrer nofollow" target="_blank">Child Abuse Reporting Guide (CARG) </a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF434" rel="noopener noreferrer nofollow" target="_blank">Child Abuse Reporting Guide (CARG)</a>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF435" rel="noopener noreferrer nofollow" target="_blank">Introduction to Child Protection Framework </a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF435" rel="noopener noreferrer nofollow" target="_blank">Introduction to Child Protection Framework</a>
 </p>
 </li>
 <li>
