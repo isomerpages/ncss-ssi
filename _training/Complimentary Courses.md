@@ -64,4 +64,7 @@ have requested for more support on.</p>
 </p>
 </li>
 </ol>
+<h4><strong>Subscribe to Mailing List</strong></h4>
+<p>Subscribe to&nbsp;<a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank"><u>SSI’s Caregiving Mailing List</u></a>&nbsp;for
+latest updates!</p>
 <p></p>
