@@ -9,6 +9,7 @@ description: SSI Complimentary Courses
 than 100 hours from April 2024. These courses are carefully curated to
 provide resources on competency areas that social service professionals
 have requested for more support on.</p>
+<h3>Complimentary Training Courses by SSI</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS400" rel="noopener noreferrer nofollow" target="_blank">Singapore’s Social Compact</a>
