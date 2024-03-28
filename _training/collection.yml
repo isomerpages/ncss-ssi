@@ -2,9 +2,9 @@ collections:
   training:
     output: true
     order:
-      - Complimentary Courses.md
       - Training Overview.md
       - Featured Social Service Courses for Registration.md
+      - Complimentary Courses.md
       - Training Network Model Courses.md
       - Continuing Education & Training (CET) Courses.md
       - Cross Sector Training Courses.md
