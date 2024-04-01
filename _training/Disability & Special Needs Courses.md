@@ -10,6 +10,8 @@ variant: tiptap
 </div>
 <h2><strong>Disability Training Courses offered by SSI</strong></h2>
 <h3>Coming Soon!</h3>
+<p><a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe to our Mailing List for latest updates.</u></a>
+</p>
 <h3><strong>Other Featured Short Courses in Early Childhood Interventions and Managing Disabilities</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -35,7 +37,7 @@ variant: tiptap
 <h3><strong>Certificate/ Diploma/ Degree Programmes</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/training/cet-programmes/advance-certificate-in-supported-employment/" rel="noopener noreferrer nofollow" target="_blank">Advanced Certificate in Supported Employment (ACSE)</a>
+<p><a href="/training/cet-programmes/advance-certificate-in-supported-employment/" rel="noopener noreferrer nofollow" target="_blank">Advanced Certificate in Supported Employment (ACSE)</a> 
 <br>The Advanced Certificate in Supported Employment (ACSE) aims to build
 capabilities of job coaches in providing employment and employability support
 for persons with disabilities.</p>
@@ -43,7 +45,7 @@ for persons with disabilities.</p>
 </ul>
 <p>Check out the <a href="https://iltms.ssi.gov.sg/registration#/Course" rel="noopener noreferrer nofollow" target="_blank">full list of SSI's Disability courses</a>.</p>
 <h3><strong>Meet our Featured Adult Educators</strong></h3>
-<p><strong>Ms June Tham-Toh Syn Yuen</strong>
+<p><strong>Ms June Tham-Toh Syn Yuen</strong> 
 <br>June was the Executive Director of Rainbow Centre before she retired in
 2014. She holds a Master of Education, Diploma in Management Studies, Certification
 of Achievement in Outcome Management: Train-The-Trainer, Early Childhood
@@ -52,7 +54,7 @@ Handicapped Children (TEACCH) and Advanced Certification in Training and
 Assessment (ACTA). She was one of the two pioneer scholars from Singapore
 to have successfully completed the “Strategic Perspectives in Non-Profit
 Management” Programme in July 2008 at the Harvard Business School (HBS).</p>
-<p><strong>Ms Clara Lim</strong>
+<p><strong>Ms Clara Lim</strong> 
 <br>Clara is an accomplished Special Education Teacher. She has many years
 of experience in special needs and education. Her areas of expertise include
 inclusive practices and early childhood development. She has the ability
@@ -64,7 +66,7 @@ As an adult educator, she is able to motivate her learners with her lively
 facilitation and sharing of relevant experience. Clara is a believer of
 continuing professional development and has acquired a Master’s Degree
 in Education in Educational Psychology.</p>
-<p><strong>Ms Nicole Wong</strong>
+<p><strong>Ms Nicole Wong</strong> 
 <br>Nicole holds a Masters in Social Work Degree from the National University
 of Singapore. She has been a social work practitioner for more than 20
 years working in different sectors such as organizations that serve persons
