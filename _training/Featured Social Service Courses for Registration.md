@@ -95,7 +95,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Board Development Courses" src="/images/training/board-v2.png">
 </div>
 <h3>Resource Management and Strategy Implementation</h3>
-<p><a href="https://www.sim.edu.sg/professional-development/courses/course-listing/resource-management-and-strategy-implementation-in-collaboration-with-franklincovey-l4-sfw-synchrono" rel="noopener noreferrer nofollow" target="\_blank">Register by 2 May 2024</a>
+<p><a href="https://www.sim.edu.sg/professional-development/courses/course-listing/resource-management-and-strategy-implementation-in-collaboration-with-franklincovey-l4-sfw-synchrono" rel="noopener noreferrer nofollow" target="\_blank">Register by 2 May 2024</a> 
 <br>
 </p>
 <p><a href="https://www.ssi.gov.sg/training/board-development/" rel="noopener noreferrer nofollow" target="\_blank">View all Board Development courses</a>
@@ -134,7 +134,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Caregiver Training Courses" src="/images/training/caregiving-v2.png">
 </div>
 <h3>Preparatory Caregiver Training Programme</h3>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0002" rel="noopener noreferrer nofollow" target="\_blank">Registration is open throughout the year</a>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0002" rel="noopener noreferrer nofollow" target="\_blank">Registration is open throughout the year</a> 
 <br>
 </p>
 <p><a href="https://www.ssi.gov.sg/training/caregiving/" rel="noopener noreferrer nofollow" target="\_blank">View all Caregiving courses</a>
