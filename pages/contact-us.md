@@ -2,27 +2,31 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Social Service Institute   
+agency_name: Social Service Institute
 locations:
-  - title: Main Office
-    address:
-        - Social Service Institute
-        - 298 Tiong Bahru Road
-        - #18-01
-        - Central Plaza
-        - Singapore 168730
-    maps_link: https://goo.gl/maps/CjZbdfdefPKTszgN8
+  - address:
+      - "298 Tiong Bahru Road #18-01 "
+      - Central Plaza
+      - Singapore 168730
     operating_hours:
       - days: Mon - Fri
         time: 9:00am - 6.00pm
         description: Closed on Weekends and Public Holidays
+    maps_link: https://goo.gl/maps/CjZbdfdefPKTszgN8
+    title: Social Service Institute
 contacts:
-  - title: All SSI services remain accessible online. You may contact us via
-    content:
-    - other: Telephone- (65) 6589 5555
-    - other: Fax- (65) 6589 5540
-    - other: Email- <a href="mailto:socialserviceinstitute@ncss.gov.sg">socialserviceinstitute@ncss.gov.sg</a>
-  - title: Join Our Mailing Lists
-    content:
-    - other: Receive the latest learning and development updates from SSI by signing up for our various mailing lists. <a href="https://www.ssi.gov.sg/about-us/mailing-list/"> Sign up here!</a>
+  - content:
+      - phone: +65 6589 5555
+      - email: socialserviceinstitute@ncss.gov.sg
+      - other: Fax - (65) 6589 5540
+    title: "You may contact us via:"
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Receive the latest learning and development updates from SSI by signing
+          up for our various <a
+          href="https://www.ssi.gov.sg/about-us/mailing-list/">mailing
+          lists</a>.
+    title: Join Our Mailing Lists
+feedback: ""
 ---
