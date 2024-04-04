@@ -53,7 +53,20 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Children &amp; Youth Development, Family Therapy / Family Violence Courses: Equip volunteers with skills to work with children, youth and families." src="/images/training/cyf-v2.png">
 </div>
-<h3>Child Abuse Reporting Guide (CARG) - E-Learning<br>Introduction to Child Protection Framework<br>Introduction to Sector-Specific Screening Guide (SSSG)</h3>
+<h3>Child Abuse Reporting Guide (CARG) - E-Learning</h3>
+<p>
+<br><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF434" rel="noopener noreferrer nofollow" target="_blank">Registration is open throughout the year</a>
+</p>
+<p></p>
+<h3>Introduction to Child Protection Framework</h3>
+<p></p>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF435" rel="noopener noreferrer nofollow" target="_blank">Registration is open throughout the year</a>
+</p>
+<p></p>
+<h3>Introduction to Sector-Specific Screening Guide (SSSG)</h3>
+<p>
+<br><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF436" rel="noopener noreferrer nofollow" target="_blank">Registration is open throughout the year</a>
+</p>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/cyandf/" rel="noopener noreferrer nofollow" target="\_blank">View other Children, Youth and Family courses</a>
 </p>
