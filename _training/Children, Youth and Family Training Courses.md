@@ -12,7 +12,7 @@ variant: tiptap
 <h3><strong>Coming Soon</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5858" rel="noopener noreferrer nofollow" target="_blank">Certified User for Youth Level of Service / Case Management Inventory (YLS/CMI)</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5858" rel="noopener noreferrer nofollow" target="_blank">Certified User for Youth Level of Service / Case Management Inventory (YLS/CMI)</a> 
 <br>Register your interest</p>
 </li>
 </ul>
@@ -112,7 +112,7 @@ Coming Soon!</p>
 </ul>
 <p>View our full list of <a href="https://iltms.ssi.gov.sg/Registration/Course" rel="noopener noreferrer nofollow" target="_blank">Children, Youth and Family courses</a>.</p>
 <h3><strong>Featured Adult Educators under Children, Youth and Family Training Courses</strong></h3>
-<p><strong>Ms Alison Lim</strong>
+<p><strong>Ms Alison Lim</strong> 
 <br>Alison started her career as a social worker but is now an accomplished
 human resource development practitioner and academic with over 30 years
 of global experience in the field of adult education and development. She
@@ -124,7 +124,7 @@ University (NTU) and the Singapore Training and Development Association
 is a volunteer trainer with several agencies and carries a Master of Arts
 in Education and Human Resources from George Washington University (GW)
 among other academic and professional certifications.</p>
-<p><strong>Mr Benny Bong</strong>
+<p><strong>Mr Benny Bong</strong> 
 <br>Benny has a Master of Social Work from McGill University and a Bachelor
 of Arts. He is the director and family and marital therapist at The Family
 Therapist and has over 35 years of experience as a therapist, trainer and
@@ -134,7 +134,7 @@ and the National Institute of Education (NIE). In 2013, he was appointed
 by the National Council of Social Service (NCSS) as a master social worker
 and is currently a master practice leader after being appointed by the
 Ministry of Social and Family Development (MSF).</p>
-<p><strong>Mr Praveen Nair</strong>
+<p><strong>Mr Praveen Nair</strong> 
 <br>Praveen is currently a lecturer and senior consultant with more than 20
 years of clinical, supervisory and management experience across the civil
 service, non-profit and the private sector. Apart from being the first
@@ -149,7 +149,7 @@ a mainstream school and to the staff of ‘high-risk’ schools. He is a member
 of the Golden Key International Honour Society, Singapore Psychological
 Society (SPS and is a MSF Certified Practitioner for the Management of
 Family Violence.</p>
-<p><strong>Ms Seah Kheng Yeow</strong>
+<p><strong>Ms Seah Kheng Yeow</strong> 
 <br>Kheng Yeow graduated with a degree in social work and master’s in counselling.
 She was formerly the head, family development and community relations with
 Promoting Alternatives to Violence (PAVE) and executive director with Fei
@@ -165,7 +165,7 @@ supervision to social service agencies (SSAs) as well as training to SSI
 and other organisations. She has been certified as a Master Practice Leader
 by MSF and has been working to build the capability of Family Service Centres
 (FSCs) in Singapore.</p>
-<p><strong>Mr Tony Leong</strong>
+<p><strong>Mr Tony Leong</strong> 
 <br>Tony has worked with children and families for more than 10 years, in
 both the private and social service sector. He is certified in the WSQ
 Advanced Certificate in Training and Assessment (ACTA) and has developed
@@ -179,7 +179,7 @@ Reality Therapy (CTRT) as overarching modalities in his work with them.
 His interventions are formulated with reference to strategic and narrative
 storytelling, adventure-based therapeutic interventions and strengths-based
 concepts.</p>
-<p><strong>Dr Quah Saw Han</strong>
+<p><strong>Dr Quah Saw Han</strong> 
 <br>Saw Han previously worked with MSF as a clinical psychologist before heading
 a research and programme evaluation unit. As a clinical psychologist, she
 worked with children, young persons and their parents in relation to child
