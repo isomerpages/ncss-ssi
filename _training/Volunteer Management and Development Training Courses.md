@@ -2,71 +2,117 @@
 title: Volunteer Management and Development Training Courses
 permalink: /training/volunteer-development-and-management/
 description: SSI provides courses that both empower volunteers and volunteer managers.
-variant: markdown
+variant: tiptap
 ---
-![Volunteer Management &amp; Development Courses: Equip volunteers with knowledge, develop volunteer management capabilities](/images/volunteer-banner.png)
-
-## **Volunteer Management &amp; Development Courses offered by SSI**
-
-
-### **Registration Open Throughout the Year**
-- [Befriending 101 (For Volunteers)](https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0035){:target="_blank"}<br>Register for e-learning course
-
-### **Other Featured Volunteer Management and Development Courses**
-
-#### Volunteer Management Training Courses
-- [Volunteer Management Practices: Connect, Engage, Develop](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD313){:target="_blank"} 
--   [Design and Develop an Effective Volunteer Work Programme](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NVOL5809){:target="_blank"} 
--   [Plan and Strategise for an Effective Volunteer Engagement Programme](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NVOL5808){:target="_blank"} 
-
-#### Volunteer Development Training Courses
--   [Introduction to Youth Mentoring (For Volunteers)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD227){:target="_blank"}
--   [Befriending Skills and Practice (For Volunteers)](https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311){:target="_blank"}   
-
-View the [full list of volunteer management and development courses](https://iltms.ssi.gov.sg/registration/#/Course){:target="_blank"}.  
-
-### **Key Adult Educators for Volunteer Management and Development Courses**
-
-**Ms Alice Lee-Tok**   
-Alice is a family education consultant and trainer with more than 15 years of experience in education and counselling, specialising in children and families. She has an Advanced Diploma in Early Childhood Studies, Bachelor of Arts in Children &amp; Family Education from Edith Cowan University (ECU) and Master in Counselling from the University of South Australia (UniSA). Over the years, Alice has acquired a vast experience in conducting interactive talks/workshops for singles, couples, parents and teachers as a family life resource speaker in various settings. She is also an experienced counsellor in personal developmental and family-related issues such as parenting and marital issues, both in Singapore and China.
-
-**Ms Anne Marie Gutierrez**   
-Anne Marie holds a master’s degree in social work and psychology and a bachelor’s degree in english literature and political science from the University of Hong Kong (HKU). She currently trains individuals on volunteerism and social policy at the NUS-YMCA-Citibank Youth for Causes Programme. In addition, she lectures in the areas of counselling, volunteer management, educational psychology, community services management and business communications in local polytechnics. She also serves as a volunteer in several Family Service Centres (FSCs) and schools.
-
-
-**Ms Lam Moy Yin**   
-Moy Yin has a Master of Arts in Education and Human Resource Development with the George Washington University (GW). She is also a graduate of the National University of Singapore (NUS) and has a diploma in human resource development (gold medal) from the Singapore Institute of Management (SIM). Moy Yin has more than 12 years of experience in human resources specialising in volunteer management and has provided consultancy services for the Singapore Sports Council (SSC) and the National Arts Council (NAC). Moy Yin is also the co-founder and vice president of Managing &amp; Organising Volunteer Efforts (MOVE), which isthe national professional body for volunteer programme managers.
-
-
-
-### **Learning &amp; Development Roadmap for Volunteer Management Practitioners**
-Volunteer Management Practitioners (VMPs) are key enablers in engaging volunteers to augment the manpower capabilities of Social Service Agencies (SSAs). To play this vital role and prepare VMPs for the emerging trends in the social service sector’s transformation, NCSS developed the Learning &amp; Development Roadmap (LDR) in consultation with the sector and endorsed by senior management of SSAs, to uplift the capabilities and increase ownership in the professional development of VMPs.
-
-The LDR provides guidance on the skills and competencies required to perform effectively and optimise volunteer resources in meeting the needs of service users. It shows potential development pathways and learning opportunities as VMPs plan towards the longer-term goal of serving and growing with the sector. Besides VMPs, SSAs’ management and human resource practitioners may also use the LDR as a guide to recruit and develop their VMPs.
-
-**Click on below image to download the LDR publication:**
-[![Learning and Development Roadmap - Volunteer Management Practitioners](/images/learning%20and%20development%20roadmap.png)](https://www.ncss.gov.sg/docs/default-source/default-document-library/l-d-roadmap-for-vmps-(final).pdf){:target="_blank"}
-
-![A comment about Learning &amp; Development Roadmap by CEO of PPIS, Ms Tuminah Supawi, "This guide is useful for supervisors and HR professionals from social service agencies, who plan and conduct learning and development conversations with volunteer management practitioners (VMP)."](/images/training/volunteer/l_d%20quote%20banner_02.jpg)
-
-![A comment about Learning &amp; Development Roadmap by Senior director of People from Care Corner Singapore Ltd, Mr Christian Chao, "The Learning and development roadmap for volunteer management practitioners (vmp) serves as an informative and practical guide for HR professionals who would like to develop their volunteers by equipping them with relevant capabilities and providing pathways for their progression."](/images/training/volunteer/l_d%20quote%20banner_01_revised.jpg)
-
-![A comment about Learning &amp; Development Roadmap by president of loving heart multi service centre and volunteer centre, Assoc Prof Teng Su Ching, "Social service sector transformation comes fast and furious. Emerging trends quickly become the current practice especially in social service. volunteer management practitioners (VMP) must be equipped not just with the right skills and knowledge to help guide this transformation, but also with core skills that enable them to take a transdisciplinary view of social service."](/images/training/volunteer/l_d%20quote%20banner_03.jpg)
-
-#### LDR Self-assessment Tool 
-The accompanying Self-assessment Tool (SAT) to the LDR helps VMPs to identify their proficiency gaps and relevant training courses (including Social Service Institutes’ (SSI) courses), to further strengthen their capabilities so as to perform effectively in their roles. 
-
-Complete the [Digital Self-Assessment Tool](https://go.gov.sg/ncssvro-ldrsat){:target="_blank"} and receive a personalised report!
-
-
-####  NCSS Volunteer Management Community
-Be the first to receive updates on Volunteer Management related news and initiatives, [register here to be a part of the community](https://go.gov.sg/ncssvro-vmcommunity){:target="_blank"}! 
-
-Alternatively, if you have any Volunteer Management related questions, feel free to drop us an email at .
-
-Visit the [NCSS Volunteer Resource Hub](https://go.gov.sg/ncssvmprofessionaldevelopment){:target="_blank"}
-
-
-
-#### **Subscribe to Mailing List**
-Subscribe to [SSI’s Volunteer Management and Development Training Courses Mailing List](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"} for latest updates!
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Volunteer Management  Development Courses: Equip volunteers with knowledge, develop volunteer management capabilities" src="/images/volunteer-banner.png">
+</div>
+<h2><strong>Volunteer Management &amp; Development Courses offered by SSI</strong></h2>
+<h3><strong>Registration Open Throughout the Year</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0035" rel="noopener noreferrer nofollow" target="_blank">Befriending 101 (For Volunteers)</a>
+<br>Register for e-learning course</p>
+</li>
+</ul>
+<h3><strong>Other Featured Volunteer Management and Development Courses</strong></h3>
+<h4>Volunteer Management Training Courses</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD313" rel="noopener noreferrer nofollow" target="_blank">Volunteer Management Practices: Connect, Engage, Develop</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NVOL5809" rel="noopener noreferrer nofollow" target="_blank">Design and Develop an Effective Volunteer Work Programme</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NVOL5808" rel="noopener noreferrer nofollow" target="_blank">Plan and Strategise for an Effective Volunteer Engagement Programme</a>
+</p>
+</li>
+</ul>
+<h4>Volunteer Development Training Courses</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD227" rel="noopener noreferrer nofollow" target="_blank">Introduction to Youth Mentoring (For Volunteers)</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311" rel="noopener noreferrer nofollow" target="_blank">Befriending Skills and Practice (For Volunteers)</a>
+</p>
+</li>
+</ul>
+<p>View the <a href="https://iltms.ssi.gov.sg/registration/#/Course" rel="noopener noreferrer nofollow" target="_blank">full list of volunteer management and development courses</a>.</p>
+<h3><strong>Key Adult Educators for Volunteer Management and Development Courses</strong></h3>
+<p><strong>Ms Alice Lee-Tok</strong>
+<br>Alice is a family education consultant and trainer with more than 15 years
+of experience in education and counselling, specialising in children and
+families. She has an Advanced Diploma in Early Childhood Studies, Bachelor
+of Arts in Children &amp; Family Education from Edith Cowan University
+(ECU) and Master in Counselling from the University of South Australia
+(UniSA). Over the years, Alice has acquired a vast experience in conducting
+interactive talks/workshops for singles, couples, parents and teachers
+as a family life resource speaker in various settings. She is also an experienced
+counsellor in personal developmental and family-related issues such as
+parenting and marital issues, both in Singapore and China.</p>
+<p><strong>Ms Anne Marie Gutierrez</strong>
+<br>Anne Marie holds a master’s degree in social work and psychology and a
+bachelor’s degree in english literature and political science from the
+University of Hong Kong (HKU). She currently trains individuals on volunteerism
+and social policy at the NUS-YMCA-Citibank Youth for Causes Programme.
+In addition, she lectures in the areas of counselling, volunteer management,
+educational psychology, community services management and business communications
+in local polytechnics. She also serves as a volunteer in several Family
+Service Centres (FSCs) and schools.</p>
+<p><strong>Ms Lam Moy Yin</strong>
+<br>Moy Yin has a Master of Arts in Education and Human Resource Development
+with the George Washington University (GW). She is also a graduate of the
+National University of Singapore (NUS) and has a diploma in human resource
+development (gold medal) from the Singapore Institute of Management (SIM).
+Moy Yin has more than 12 years of experience in human resources specialising
+in volunteer management and has provided consultancy services for the Singapore
+Sports Council (SSC) and the National Arts Council (NAC). Moy Yin is also
+the co-founder and vice president of Managing &amp; Organising Volunteer
+Efforts (MOVE), which isthe national professional body for volunteer programme
+managers.</p>
+<h3><strong>Learning &amp; Development Roadmap for Volunteer Management Practitioners</strong></h3>
+<p>Volunteer Management Practitioners (VMPs) are key enablers in engaging
+volunteers to augment the manpower capabilities of Social Service Agencies
+(SSAs). To play this vital role and prepare VMPs for the emerging trends
+in the social service sector’s transformation, NCSS developed the Learning
+&amp; Development Roadmap (LDR) in consultation with the sector and endorsed
+by senior management of SSAs, to uplift the capabilities and increase ownership
+in the professional development of VMPs.</p>
+<p>The LDR provides guidance on the skills and competencies required to perform
+effectively and optimise volunteer resources in meeting the needs of service
+users. It shows potential development pathways and learning opportunities
+as VMPs plan towards the longer-term goal of serving and growing with the
+sector. Besides VMPs, SSAs’ management and human resource practitioners
+may also use the LDR as a guide to recruit and develop their VMPs.</p>
+<p><strong>Click on below image to download the LDR publication:</strong> {:target="_blank"}</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A comment about Learning  Development Roadmap by CEO of PPIS, Ms Tuminah Supawi, &quot;This guide is useful for supervisors and HR professionals from social service agencies, who plan and conduct learning and development conversations with volunteer management practitioners (VMP).&quot;" src="/images/training/volunteer/l_d%20quote%20banner_02.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A comment about Learning  Development Roadmap by Senior director of People from Care Corner Singapore Ltd, Mr Christian Chao, &quot;The Learning and development roadmap for volunteer management practitioners (vmp) serves as an informative and practical guide for HR professionals who would like to develop their volunteers by equipping them with relevant capabilities and providing pathways for their progression.&quot;" src="/images/training/volunteer/l_d%20quote%20banner_01_revised.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A comment about Learning  Development Roadmap by president of loving heart multi service centre and volunteer centre, Assoc Prof Teng Su Ching, &quot;Social service sector transformation comes fast and furious. Emerging trends quickly become the current practice especially in social service. volunteer management practitioners (VMP) must be equipped not just with the right skills and knowledge to help guide this transformation, but also with core skills that enable them to take a transdisciplinary view of social service.&quot;" src="/images/training/volunteer/l_d%20quote%20banner_03.jpg">
+</div>
+<h4>LDR Self-assessment Tool</h4>
+<p>The accompanying Self-assessment Tool (SAT) to the LDR helps VMPs to identify
+their proficiency gaps and relevant training courses (including Social
+Service Institutes’ (SSI) courses), to further strengthen their capabilities
+so as to perform effectively in their roles.</p>
+<p>Complete the <a href="https://go.gov.sg/ncssvro-ldrsat" rel="noopener noreferrer nofollow" target="_blank">Digital Self-Assessment Tool</a> and
+receive a personalised report!</p>
+<h4>NCSS Volunteer Management Community</h4>
+<p>Be the first to receive updates on Volunteer Management related news and
+initiatives, <a href="https://go.gov.sg/ncssvro-vmcommunity" rel="noopener noreferrer nofollow" target="_blank">register here to be a part of the community</a>!</p>
+<p>Alternatively, if you have any Volunteer Management related questions,
+feel free to drop us an email at <a href="mailto:matthew_leung@ncss.gov.sg" rel="noopener noreferrer nofollow" target="_blank">matthew_leung@ncss.gov.sg</a>.
+<br>
+<br>Visit the <a href="https://go.gov.sg/ncssvmprofessionaldevelopment" rel="noopener noreferrer nofollow" target="_blank">NCSS Volunteer Resource Hub</a>.</p>
+<h4><strong>Subscribe to Mailing List</strong></h4>
+<p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Volunteer Management and Development Training Courses Mailing List</a>{:target="_blank"}
+for latest updates!</p>
