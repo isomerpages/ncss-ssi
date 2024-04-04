@@ -13,11 +13,16 @@ variant: tiptap
 <h4>People Management and Leadership</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.sim.edu.sg/professional-development/courses/course-listing/people-management-driving-results-through-engagement-in-collaboration-with-franklincovey-l3-sfw-sync" rel="noopener noreferrer nofollow" target="_blank">People Management: Driving Results Through Engagement</a>
+<p><a href="https://www.dpi-asia.com/post/where-does-problem-solving-end-and-strategic-innovation-begin" rel="noopener noreferrer nofollow" target="_blank">From Problem Solving to Breakthrough Innovation - by DPI Asia </a>
+</p>
+<p>Register by 17 Apr 2024</p>
+</li>
+<li>
+<p><a href="https://www.sim.edu.sg/professional-development/courses/course-listing/people-management-driving-results-through-engagement-in-collaboration-with-franklincovey-l3-sfw-sync" rel="noopener noreferrer nofollow" target="_blank">People Management: Driving Results Through Engagement</a> 
 <br>Register by 24 Apr 2024</p>
 </li>
 <li>
-<p><a href="https://www.sim.edu.sg/professional-development/courses/course-listing/resource-management-and-strategy-implementation-in-collaboration-with-franklincovey-l4-sfw-synchrono" rel="noopener noreferrer nofollow" target="_blank">Resource Management and Strategy Implementation</a>
+<p><a href="https://www.sim.edu.sg/professional-development/courses/course-listing/resource-management-and-strategy-implementation-in-collaboration-with-franklincovey-l4-sfw-synchrono" rel="noopener noreferrer nofollow" target="_blank">Resource Management and Strategy Implementation</a> 
 <br>Register by 2 May 2024</p>
 </li>
 </ul>
@@ -89,7 +94,7 @@ variant: tiptap
 <p>Search for more Management and Organisation Development courses on our
 <a href="https://iltms.ssi.gov.sg/Registration/Course" rel="noopener noreferrer nofollow" target="_blank">iLTMS course portal</a>.</p>
 <h3><strong>Featured Adult Educators under Management and Organisation Development Training Courses</strong></h3>
-<p><strong>Ms Anita Yap</strong>
+<p><strong>Ms Anita Yap</strong> 
 <br>Anita is the principal coach &amp; facilitator of a boutique coaching,
 facilitation and training firm dedicated to helping individuals and organisations
 achieve their goals through dialogue, learning and inspired actions. When
@@ -102,7 +107,7 @@ experience, Anita has worked with clients in Singapore, China, Cambodia,
 Laos, Macau, Myanmar and Vietnam. As a certified professional coach, Anita
 has been coaching executives in the areas of personal leadership, career
 transitions and life issues.</p>
-<p><strong>Ms Jessica Hong</strong>
+<p><strong>Ms Jessica Hong</strong> 
 <br>Jessica is a chartered accountant and holds a Bachelor of Accountancy
 from the University of Malaya. She completed her post-graduate studies
 in a management development programme at INSEAD, Singapore. Her career
@@ -113,7 +118,7 @@ system implementations and due diligence.</p>
 Accountants (ISCA) Business Ethics and Conduct. She specialises in Anti
 Money Laundering and Anti Terrorism Financing topics, and Financial Reporting
 Standards.</p>
-<p><strong>Mr Suhaimi Salleh</strong>
+<p><strong>Mr Suhaimi Salleh</strong> 
 <br>Suhaimi is the CEO of a consulting/accounting firm providing professional
 management consulting, training, auditing and accounting services to corporate
 and individual clients. He has more than 30 years of post-graduate experience
@@ -126,7 +131,7 @@ achievements, he is also active in the non-profit organisation and charity
 sector, serving in government, academic and non-profit organisation committees
 such as the Charity Council, Ngee Ann Polytechnic (NP), Institute of Management
 Consultants (IMC) Singapore and PMBM Scholarship Fund Board.</p>
-<p><strong>Ms Usha Menon</strong>
+<p><strong>Ms Usha Menon</strong> 
 <br>Usha is the founder of Usha Menon Management Consultancy (Asia), an international
 training and consultancy service working exclusively with social impact
 organisations across Asia. Her multi-country client list includes charities,
