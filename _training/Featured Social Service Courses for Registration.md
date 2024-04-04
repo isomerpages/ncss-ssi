@@ -43,7 +43,10 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Counselling, Motivational Interviewing &amp; Behaviour Therapy Courses" src="/images/training/cross-sector-v2.png">
 </div>
 <h3>Singapore’s Social Compact</h3>
-<p></p>
+<p>
+<br><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS400" rel="noopener noreferrer nofollow" target="_blank">Registration is open throughout the year</a>
+<br>
+</p>
 <p><a href="https://www.ssi.gov.sg/training/cross-sector/" rel="noopener noreferrer nofollow" target="\_blank">View other Cross Sector courses</a>
 </p>
 </td>
