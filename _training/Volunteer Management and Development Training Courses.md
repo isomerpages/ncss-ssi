@@ -11,7 +11,7 @@ variant: tiptap
 <h3><strong>Registration Open Throughout the Year</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0035" rel="noopener noreferrer nofollow" target="_blank">Befriending 101 (For Volunteers)</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0035" rel="noopener noreferrer nofollow" target="_blank">Befriending 101 (For Volunteers)</a> 
 <br>Register for e-learning course</p>
 </li>
 </ul>
@@ -44,7 +44,7 @@ variant: tiptap
 </ul>
 <p>View the <a href="https://iltms.ssi.gov.sg/registration/#/Course" rel="noopener noreferrer nofollow" target="_blank">full list of volunteer management and development courses</a>.</p>
 <h3><strong>Key Adult Educators for Volunteer Management and Development Courses</strong></h3>
-<p><strong>Ms Alice Lee-Tok</strong>
+<p><strong>Ms Alice Lee-Tok</strong> 
 <br>Alice is a family education consultant and trainer with more than 15 years
 of experience in education and counselling, specialising in children and
 families. She has an Advanced Diploma in Early Childhood Studies, Bachelor
@@ -55,7 +55,7 @@ interactive talks/workshops for singles, couples, parents and teachers
 as a family life resource speaker in various settings. She is also an experienced
 counsellor in personal developmental and family-related issues such as
 parenting and marital issues, both in Singapore and China.</p>
-<p><strong>Ms Anne Marie Gutierrez</strong>
+<p><strong>Ms Anne Marie Gutierrez</strong> 
 <br>Anne Marie holds a master’s degree in social work and psychology and a
 bachelor’s degree in english literature and political science from the
 University of Hong Kong (HKU). She currently trains individuals on volunteerism
@@ -64,7 +64,7 @@ In addition, she lectures in the areas of counselling, volunteer management,
 educational psychology, community services management and business communications
 in local polytechnics. She also serves as a volunteer in several Family
 Service Centres (FSCs) and schools.</p>
-<p><strong>Ms Lam Moy Yin</strong>
+<p><strong>Ms Lam Moy Yin</strong> 
 <br>Moy Yin has a Master of Arts in Education and Human Resource Development
 with the George Washington University (GW). She is also a graduate of the
 National University of Singapore (NUS) and has a diploma in human resource
