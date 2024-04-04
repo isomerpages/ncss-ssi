@@ -16,7 +16,8 @@ variant: tiptap
 <h3>Course Schedule &amp; Registration Dates</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Registration period: Apr 2024 to July 2024</p>
+<p><a href="/files/training courses/ssi monthly featured courses - 01apr2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Registration period: Apr 2024 to July 2024</a>
+</p>
 </li>
 </ul>
 <h2><strong>Featured Professional Certification Courses In Social Service</strong></h2>
@@ -41,15 +42,6 @@ variant: tiptap
 <p></p>
 <h3>Case Management in Practice: Introduction</h3>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5228" rel="noopener noreferrer nofollow" target="_blank">Register by 6 Jun 2024</a>
-</p>
-<p></p>
-<h3>Motivational Interviewing: An Introduction for Social Service Practitioners</h3>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5725" rel="noopener noreferrer nofollow" target="_blank">Register by 30 May 2024</a>
-</p>
-<p></p>
-<h3>Singapore’s Social Compact</h3>
-<p>
-<br><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS400" rel="noopener noreferrer nofollow" target="_blank">Registration is open throughout the year</a> 
 <br>
 </p>
 <p><a href="https://www.ssi.gov.sg/training/cross-sector/" rel="noopener noreferrer nofollow" target="\_blank">View other Cross Sector courses</a>
@@ -61,19 +53,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Children &amp; Youth Development, Family Therapy / Family Violence Courses: Equip volunteers with skills to work with children, youth and families." src="/images/training/cyf-v2.png">
 </div>
-<h3>Child Abuse Reporting Guide (CARG) - E-Learning</h3>
-<p>
-<br><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF434" rel="noopener noreferrer nofollow" target="_blank">Registration is open throughout the year</a>
-</p>
-<p></p>
 <h3>Introduction to Child Protection Framework</h3>
 <p></p>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF435" rel="noopener noreferrer nofollow" target="_blank">Registration is open throughout the year</a>
-</p>
-<p></p>
-<h3>Introduction to Sector-Specific Screening Guide (SSSG)</h3>
-<p>
-<br><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF436" rel="noopener noreferrer nofollow" target="_blank">Registration is open throughout the year</a>
 </p>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/cyandf/" rel="noopener noreferrer nofollow" target="\_blank">View other Children, Youth and Family courses</a>
@@ -131,10 +113,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Social Service / Nonprofit Leadership and Management Training Course" src="/images/training/mod-v2.png">
 </div>
-<h3>From Problem Solving to Breakthrough Innovation - by DPI Asia</h3>
-<p><a href="https://www.dpi-asia.com/post/where-does-problem-solving-end-and-strategic-innovation-begin" rel="noopener noreferrer nofollow" target="_blank">Register by 17 Apr 2024</a>
-</p>
-<p></p>
 <h3>People Management: Driving Results Through Engagement</h3>
 <p><a href="https://www.sim.edu.sg/professional-development/courses/course-listing/people-management-driving-results-through-engagement-in-collaboration-with-franklincovey-l3-sfw-sync" rel="noopener noreferrer nofollow" target="\_blank">Register by 24 Apr 2024</a>
 </p>
