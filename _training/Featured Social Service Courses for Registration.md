@@ -19,6 +19,9 @@ variant: tiptap
 <p><a href="/files/training%20courses/ssi%20monthly%20featured%20courses%20-%2029jan2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Registration period: Mar 2024 to May 2024</a>
 </p>
 </li>
+<li>
+<p>Registration period: Apr 2024 to Jun 2024</p>
+</li>
 </ul>
 <h2><strong>Featured Professional Certification Courses In Social Service</strong></h2>
 <table>
