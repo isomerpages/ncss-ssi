@@ -13,9 +13,8 @@ variant: tiptap
 <h4>People Management and Leadership</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.dpi-asia.com/post/where-does-problem-solving-end-and-strategic-innovation-begin" rel="noopener noreferrer nofollow" target="_blank">From Problem Solving to Breakthrough Innovation - by DPI Asia </a>
-</p>
-<p>Register by 17 Apr 2024</p>
+<p><a href="https://www.dpi-asia.com/post/where-does-problem-solving-end-and-strategic-innovation-begin" rel="noopener noreferrer nofollow" target="_blank">From Problem Solving to Breakthrough Innovation - by DPI Asia</a>
+<br>Register by 17 Apr 2024</p>
 </li>
 <li>
 <p><a href="https://www.sim.edu.sg/professional-development/courses/course-listing/people-management-driving-results-through-engagement-in-collaboration-with-franklincovey-l3-sfw-sync" rel="noopener noreferrer nofollow" target="_blank">People Management: Driving Results Through Engagement</a> 
