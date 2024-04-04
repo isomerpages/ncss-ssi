@@ -131,7 +131,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Social Service / Nonprofit Leadership and Management Training Course" src="/images/training/mod-v2.png">
 </div>
-<h3>From Problem Solving to Breakthrough Innovation - by DPI Asia </h3>
+<h3>From Problem Solving to Breakthrough Innovation - by DPI Asia</h3>
 <p><a href="https://www.dpi-asia.com/post/where-does-problem-solving-end-and-strategic-innovation-begin" rel="noopener noreferrer nofollow" target="_blank">Register by 17 Apr 2024</a>
 </p>
 <p></p>
