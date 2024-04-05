@@ -40,11 +40,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Counselling, Motivational Interviewing &amp; Behaviour Therapy Courses" src="/images/training/cross-sector-v2.png">
 </div>
 <p></p>
-<h3>Case Management in Practice: Introduction</h3>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5228" rel="noopener noreferrer nofollow" target="_blank">Register by 6 Jun 2024</a> 
-<br>
-</p>
-<p><a href="https://www.ssi.gov.sg/training/cross-sector/" rel="noopener noreferrer nofollow" target="\_blank">View other Cross Sector courses</a>
+<h3>Coming Soon!</h3>
+<p>
+<br><a href="https://www.ssi.gov.sg/training/cross-sector/" rel="noopener noreferrer nofollow" target="\_blank">View other Cross Sector courses</a>
 </p>
 </td>
 </tr>
