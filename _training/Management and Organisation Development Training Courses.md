@@ -3,60 +3,146 @@ title: Management and Organisation Development Training Courses
 permalink: /training/management-and-organisation-development/
 description: SSI provides courses that train learners in management, leadership,
   fundraising and corporate functions.
-variant: markdown
+variant: tiptap
 ---
-![Social Service Institute (SSI) Singapore - Social Service / Nonprofit Leadership and Management Training Course](/images/mod-banner.png)
-
-## **Management and Organisation Development Training Courses offered by SSI**
-### **Registration now open**
-
-#### People Management and Leadership
-- [Strategy Formulation - by DPI Asia](https://www.dpi-asia.com/post/strategic-human-thinking-in-the-age-of-ai){:target="blank"}<br>Register by 29 Mar 2024
-- [People Management: Driving Results Through Engagement](https://www.sim.edu.sg/professional-development/courses/course-listing/people-management-driving-results-through-engagement-in-collaboration-with-franklincovey-l3-sfw-sync){:target="blank"}<br>Register by 24 Apr 2024
-- [Resource Management and Strategy Implementation](https://www.sim.edu.sg/professional-development/courses/course-listing/resource-management-and-strategy-implementation-in-collaboration-with-franklincovey-l4-sfw-synchrono){:target="blank"}<br>Register by 2 May 2024
-
-
-#### Financial Management
-
-Coming soon!<br>
-[Subscribe to our Mailing List for latest updates.](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"} 
-
-### **Featured Courses: Leadership Development &amp; Management For Non-Profit Organisations**
--   [Branding Non-profits: An Introduction](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCOF243){:target="_blank"} 
-- [Developing Your Coaching and Mentoring Skills for NPO Managers](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT5073){:target="_blank"} 
-- [Teambuilding and leadership Development for NPO Leaders](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT6014){:target="_blank"} 
--   [Budgeting for Charities](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NFIN5450){:target="_blank"}   
--   [Donor Outreach Through Social Media](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NFRE5508){:target="_blank"}   
--   [Effective Supervisory Skills for NPO Managers](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT5079){:target="_blank"}  
--   [Manage Challenging Social Service and NPO Clients](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NPEF6032){:target="_blank"}   
--   [Making $ense I: An Introduction to Fund-Raising](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NFRE5766){:target="_blank"}   
--   [Plan New Facilities Development](https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMMR5890){:target="_blank"}    
-
-#### Featured SSI's partner courses
--   [Strategy Formulation by DPI Asia](https://www.dpi-asia.com/post/strategy-formulation-pure-simple){:target="_blank"}
--   [The 7 Habits of Highly Effective People by Franklin Covey](){:target="_blank"}
--   [Authentic Leadership Conversations by Erevna Leadership](http://www.erevnaleadership.com/authentic-leadership-conversations.html){:target="_blank"}
--   [Group Excellence by Capelle Consulting](https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&amp;wdLOR=c02FF4AA9-A7A4-4B9C-B187-D439BDFDFC3C){:target="_blank"}
--   [3-D People Development by Capelle Consulting](https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&amp;wdLOR=c02FF4AA9-A7A4-4B9C-B187-D439BDFDFC3C){:target="_blank"}
-
-Search for more Management and Organisation Development courses on our [iLTMS course portal](https://iltms.ssi.gov.sg/Registration/Course){:target="_blank"}. 
-
-### **Featured Adult Educators under Management and Organisation Development Training Courses**
-
-**Ms Anita Yap**   
-Anita is the principal coach &amp; facilitator of a boutique coaching, facilitation and training firm dedicated to helping individuals and organisations achieve their goals through dialogue, learning and inspired actions. When conducting workshops, Anita is an enthusiastic and lively trainer with a passion for helping her learners to transfer the skills and knowledge from the classroom to their work and personal life. Learners who have experienced Anita’s workshops have described her as “inspiring”, “professional” and “exuding passion and enthusiasm”. An energetic facilitator with international experience, Anita has worked with clients in Singapore, China, Cambodia, Laos, Macau, Myanmar and Vietnam. As a certified professional coach, Anita has been coaching executives in the areas of personal leadership, career transitions and life issues.
-
-**Ms Jessica Hong**   
-Jessica is a chartered accountant and holds a Bachelor of Accountancy from the University of Malaya. She completed her post-graduate studies in a management development programme at INSEAD, Singapore. Her career with PricewaterhouseCoopers (PwC) has given her invaluable experience in areas such as system assurance, management assurance, audit, fraud investigations, system implementations and due diligence.
-
-She is on the panel of trainers for the Institute of Singapore Chartered Accountants (ISCA) Business Ethics and Conduct. She specialises in Anti Money Laundering and Anti Terrorism Financing topics, and Financial Reporting Standards.
-
-**Mr Suhaimi Salleh**   
-Suhaimi is the CEO of a consulting/accounting firm providing professional management consulting, training, auditing and accounting services to corporate and individual clients. He has more than 30 years of post-graduate experience in audit, accounting, financial management, corporate planning and human resource management. In addition, Suhaimi has vast experience in conducting training and consulting assignments for major private and public sector organisations and he is a facilitator for the SSI course: “Financial Accounting and Application for Non-Finance Professionals for NPOs”. Besides his professional achievements, he is also active in the non-profit organisation and charity sector, serving in government, academic and non-profit organisation committees such as the Charity Council, Ngee Ann Polytechnic (NP), Institute of Management Consultants (IMC) Singapore and PMBM Scholarship Fund Board.
-
-**Ms Usha Menon**   
-Usha is the founder of Usha Menon Management Consultancy (Asia), an international training and consultancy service working exclusively with social impact organisations across Asia. Her multi-country client list includes charities, arts/ health/ education institutions, think-tanks, UN entities, International NGOs, social enterprises, philanthropic foundations and capability building organisations. She brings a wealth of multi-country experience, expertise and insights on leadership, management and fundraising. In addition, Usha has helped charities to expand their programme and fundraising capabilities and has transformed charity income sources drastically through local resource mobilisation across Asia, especially in the areas of local private sector fundraising through individual giving, philanthropic investments and corporate engagement.
-
-
-#### **Subscribe to Mailing List**
-Subscribe to [SSI’s Management and Organisation Development Mailing List](https://form.gov.sg/#!/62062a0f8cb95c001235e55d){:target="_blank"} for latest updates!
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Social Service / Nonprofit Leadership and Management Training Course" src="/images/mod-banner.png">
+</div>
+<h2><strong>Management and Organisation Development Training Courses offered by SSI</strong></h2>
+<h3><strong>Registration now open</strong></h3>
+<h4>People Management and Leadership</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.dpi-asia.com/post/where-does-problem-solving-end-and-strategic-innovation-begin" rel="noopener noreferrer nofollow" target="_blank">From Problem Solving to Breakthrough Innovation - by DPI Asia</a>
+<br>Register by 17 Apr 2024</p>
+</li>
+<li>
+<p><a href="https://www.sim.edu.sg/professional-development/courses/course-listing/people-management-driving-results-through-engagement-in-collaboration-with-franklincovey-l3-sfw-sync" rel="noopener noreferrer nofollow" target="_blank">People Management: Driving Results Through Engagement</a> 
+<br>Register by 24 Apr 2024</p>
+</li>
+<li>
+<p><a href="https://www.sim.edu.sg/professional-development/courses/course-listing/resource-management-and-strategy-implementation-in-collaboration-with-franklincovey-l4-sfw-synchrono" rel="noopener noreferrer nofollow" target="_blank">Resource Management and Strategy Implementation</a> 
+<br>Register by 2 May 2024</p>
+</li>
+</ul>
+<h4>Financial Management</h4>
+<p>Coming soon!
+<br><a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">Subscribe to our Mailing List for latest updates</a>.</p>
+<h3><strong>Featured Courses: Leadership Development &amp; Management For Non-Profit Organisations</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCOF243" rel="noopener noreferrer nofollow" target="_blank">Branding Non-profits: An Introduction</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT5073" rel="noopener noreferrer nofollow" target="_blank">Developing Your Coaching and Mentoring Skills for NPO Managers</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT6014" rel="noopener noreferrer nofollow" target="_blank">Teambuilding and leadership Development for NPO Leaders</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NFIN5450" rel="noopener noreferrer nofollow" target="_blank">Budgeting for Charities</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NFRE5508" rel="noopener noreferrer nofollow" target="_blank">Donor Outreach Through Social Media</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT5079" rel="noopener noreferrer nofollow" target="_blank">Effective Supervisory Skills for NPO Managers</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NPEF6032" rel="noopener noreferrer nofollow" target="_blank">Manage Challenging Social Service and NPO Clients</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NFRE5766" rel="noopener noreferrer nofollow" target="_blank">Making $ense I: An Introduction to Fund-Raising</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMMR5890" rel="noopener noreferrer nofollow" target="_blank">Plan New Facilities Development</a>
+</p>
+</li>
+</ul>
+<h4>Featured SSI's partner courses</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.dpi-asia.com/post/strategy-formulation-pure-simple" rel="noopener noreferrer nofollow" target="_blank">Strategy Formulation by DPI Asia</a>
+</p>
+</li>
+<li>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">The 7 Habits of Highly Effective People by Franklin Covey</a>
+</p>
+</li>
+<li>
+<p><a href="http://www.erevnaleadership.com/authentic-leadership-conversations.html" rel="noopener noreferrer nofollow" target="_blank">Authentic Leadership Conversations by Erevna Leadership</a>
+</p>
+</li>
+<li>
+<p><a href="https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&amp;wdLOR=c02FF4AA9-A7A4-4B9C-B187-D439BDFDFC3C" rel="noopener noreferrer nofollow" target="_blank">Group Excellence by Capelle Consulting</a>
+</p>
+</li>
+<li>
+<p><a href="https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&amp;wdLOR=c02FF4AA9-A7A4-4B9C-B187-D439BDFDFC3C" rel="noopener noreferrer nofollow" target="_blank">3-D People Development by Capelle Consulting</a>
+</p>
+</li>
+</ul>
+<p>Search for more Management and Organisation Development courses on our
+<a href="https://iltms.ssi.gov.sg/Registration/Course" rel="noopener noreferrer nofollow" target="_blank">iLTMS course portal</a>.</p>
+<h3><strong>Featured Adult Educators under Management and Organisation Development Training Courses</strong></h3>
+<p><strong>Ms Anita Yap</strong> 
+<br>Anita is the principal coach &amp; facilitator of a boutique coaching,
+facilitation and training firm dedicated to helping individuals and organisations
+achieve their goals through dialogue, learning and inspired actions. When
+conducting workshops, Anita is an enthusiastic and lively trainer with
+a passion for helping her learners to transfer the skills and knowledge
+from the classroom to their work and personal life. Learners who have experienced
+Anita’s workshops have described her as “inspiring”, “professional” and
+“exuding passion and enthusiasm”. An energetic facilitator with international
+experience, Anita has worked with clients in Singapore, China, Cambodia,
+Laos, Macau, Myanmar and Vietnam. As a certified professional coach, Anita
+has been coaching executives in the areas of personal leadership, career
+transitions and life issues.</p>
+<p><strong>Ms Jessica Hong</strong> 
+<br>Jessica is a chartered accountant and holds a Bachelor of Accountancy
+from the University of Malaya. She completed her post-graduate studies
+in a management development programme at INSEAD, Singapore. Her career
+with PricewaterhouseCoopers (PwC) has given her invaluable experience in
+areas such as system assurance, management assurance, audit, fraud investigations,
+system implementations and due diligence.</p>
+<p>She is on the panel of trainers for the Institute of Singapore Chartered
+Accountants (ISCA) Business Ethics and Conduct. She specialises in Anti
+Money Laundering and Anti Terrorism Financing topics, and Financial Reporting
+Standards.</p>
+<p><strong>Mr Suhaimi Salleh</strong> 
+<br>Suhaimi is the CEO of a consulting/accounting firm providing professional
+management consulting, training, auditing and accounting services to corporate
+and individual clients. He has more than 30 years of post-graduate experience
+in audit, accounting, financial management, corporate planning and human
+resource management. In addition, Suhaimi has vast experience in conducting
+training and consulting assignments for major private and public sector
+organisations and he is a facilitator for the SSI course: “Financial Accounting
+and Application for Non-Finance Professionals for NPOs”. Besides his professional
+achievements, he is also active in the non-profit organisation and charity
+sector, serving in government, academic and non-profit organisation committees
+such as the Charity Council, Ngee Ann Polytechnic (NP), Institute of Management
+Consultants (IMC) Singapore and PMBM Scholarship Fund Board.</p>
+<p><strong>Ms Usha Menon</strong> 
+<br>Usha is the founder of Usha Menon Management Consultancy (Asia), an international
+training and consultancy service working exclusively with social impact
+organisations across Asia. Her multi-country client list includes charities,
+arts/ health/ education institutions, think-tanks, UN entities, International
+NGOs, social enterprises, philanthropic foundations and capability building
+organisations. She brings a wealth of multi-country experience, expertise
+and insights on leadership, management and fundraising. In addition, Usha
+has helped charities to expand their programme and fundraising capabilities
+and has transformed charity income sources drastically through local resource
+mobilisation across Asia, especially in the areas of local private sector
+fundraising through individual giving, philanthropic investments and corporate
+engagement.</p>
+<h4><strong>Subscribe to Mailing List</strong></h4>
+<p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Management and Organisation Development Mailing List</a> for
+latest updates!</p>

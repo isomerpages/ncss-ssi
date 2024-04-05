@@ -16,7 +16,7 @@ variant: tiptap
 <h3>Course Schedule &amp; Registration Dates</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/training%20courses/ssi%20monthly%20featured%20courses%20-%2029jan2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Registration period: Mar 2024 to May 2024</a>
+<p><a href="/files/training courses/ssi monthly featured courses - 01apr2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Registration period: Apr 2024 to July 2024</a>
 </p>
 </li>
 </ul>
@@ -28,13 +28,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Continuing Education &amp; Training (CET) Courses" src="/images/training/cet-v2.png">
 </div>
-<h3>Advanced Certificate in Social Service (ACSS)</h3>
-<p><a href="https://www.ssi.gov.sg/training/cet-programmes/advanced-certificate-in-social-service/" rel="noopener noreferrer nofollow" target="\_blank">Registration period: 15 Feb 2024 to 31 Mar 2024</a>
-</p>
-<h3>Higher Diploma in Social Service (HDSS)</h3>
-<p><a href="https://www.ssi.gov.sg/training/cet-programmes/higher-diploma-in-social-service/" rel="noopener noreferrer nofollow" target="\_blank">Registration period: 15 Feb 2024 to 31 Mar 2024</a>
-</p>
-<p><a href="https://www.ssi.gov.sg/training/cet-programmes/" rel="noopener noreferrer nofollow" target="\_blank">View other CET courses</a>
+<h3>Coming Soon!</h3>
+<p>
+<br><a href="https://www.ssi.gov.sg/training/cet-programmes/" rel="noopener noreferrer nofollow" target="\_blank">View other CET courses</a>
 </p>
 </td>
 </tr>
@@ -43,9 +39,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Counselling, Motivational Interviewing &amp; Behaviour Therapy Courses" src="/images/training/cross-sector-v2.png">
 </div>
-<h3>Coming Soon!</h3>
 <p></p>
-<p><a href="https://www.ssi.gov.sg/training/cross-sector/" rel="noopener noreferrer nofollow" target="\_blank">View other Cross Sector courses</a>
+<h3>Coming Soon!</h3>
+<p>
+<br><a href="https://www.ssi.gov.sg/training/cross-sector/" rel="noopener noreferrer nofollow" target="\_blank">View other Cross Sector courses</a>
 </p>
 </td>
 </tr>
@@ -54,7 +51,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Children &amp; Youth Development, Family Therapy / Family Violence Courses: Equip volunteers with skills to work with children, youth and families." src="/images/training/cyf-v2.png">
 </div>
-<h3>Coming Soon!</h3>
+<h3>Introduction to Child Protection Framework</h3>
+<p></p>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF435" rel="noopener noreferrer nofollow" target="_blank">Registration is open throughout the year</a>
+</p>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/cyandf/" rel="noopener noreferrer nofollow" target="\_blank">View other Children, Youth and Family courses</a>
 </p>
@@ -65,9 +65,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Disability Care / Special Needs Courses" src="/images/training/disability-v2.png">
 </div>
-<h3>WSQ Principles and Practices of Early Intervention for Children with Special Needs Module 1</h3>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS463" rel="noopener noreferrer nofollow" target="\_blank">Register by 13 Mar 2024</a>
-</p>
+<h3>Coming Soon!</h3>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/disability/" rel="noopener noreferrer nofollow" target="\_blank">View other Disability courses</a>
 </p>
@@ -101,7 +99,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Board Development Courses" src="/images/training/board-v2.png">
 </div>
 <h3>Resource Management and Strategy Implementation</h3>
-<p><a href="https://www.sim.edu.sg/professional-development/courses/course-listing/resource-management-and-strategy-implementation-in-collaboration-with-franklincovey-l4-sfw-synchrono" rel="noopener noreferrer nofollow" target="\_blank">Register by 2 May 2024</a>
+<p><a href="https://www.sim.edu.sg/professional-development/courses/course-listing/resource-management-and-strategy-implementation-in-collaboration-with-franklincovey-l4-sfw-synchrono" rel="noopener noreferrer nofollow" target="\_blank">Register by 2 May 2024</a> 
+<br>
 </p>
 <p><a href="https://www.ssi.gov.sg/training/board-development/" rel="noopener noreferrer nofollow" target="\_blank">View all Board Development courses</a>
 </p>
@@ -139,7 +138,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Caregiver Training Courses" src="/images/training/caregiving-v2.png">
 </div>
 <h3>Preparatory Caregiver Training Programme</h3>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0002" rel="noopener noreferrer nofollow" target="\_blank">Registration is open throughout the year</a>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0002" rel="noopener noreferrer nofollow" target="\_blank">Registration is open throughout the year</a> 
+<br>
 </p>
 <p><a href="https://www.ssi.gov.sg/training/caregiving/" rel="noopener noreferrer nofollow" target="\_blank">View all Caregiving courses</a>
 </p>
