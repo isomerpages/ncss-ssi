@@ -22,10 +22,6 @@ youth, adults and seniors.</p>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5725" rel="noopener noreferrer nofollow" target="_blank">Motivational Interviewing: An Introduction for Social Service Practitioners</a> 
 <br>Register by 30 May 2024</p>
 </li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5228" rel="noopener noreferrer nofollow" target="_blank">Case Management in Practice: Introduction</a> 
-<br>Register by 6 Jun 2024</p>
-</li>
 </ul>
 <h3><strong>Other Featured Short Courses in Befriending, Case Management, Counselling and more</strong></h3>
 <ul data-tight="true" class="tight">
