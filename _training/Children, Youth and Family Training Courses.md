@@ -13,7 +13,7 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5858" rel="noopener noreferrer nofollow" target="_blank">Certified User for Youth Level of Service / Case Management Inventory (YLS/CMI)</a> 
-<br>Register your interest</p>
+<br>Register your interest.</p>
 </li>
 </ul>
 <h3><strong>Registration Open Throughout the Year</strong></h3>
@@ -135,20 +135,26 @@ by the National Council of Social Service (NCSS) as a master social worker
 and is currently a master practice leader after being appointed by the
 Ministry of Social and Family Development (MSF).</p>
 <p><strong>Mr Praveen Nair</strong> 
-<br>Praveen is currently a lecturer and senior consultant with more than 20
-years of clinical, supervisory and management experience across the civil
-service, non-profit and the private sector. Apart from being the first
-practitioner in Singapore to have developed an intervention programme that
-is contextualised for local ‘at-risk’ youth, Praveen is also the first
-local practitioner to conduct the Workforce Development Agency (WDA) and
-university accredited training programmes in ‘Advanced Counselling Skills’
-and ‘Understanding Criminality in Singapore Youth’.</p>
-<p>Additionally, he was the first clinician in Singapore to have provided
-full-time consultation services on the ‘Responsible Thinking Process’ for
-a mainstream school and to the staff of ‘high-risk’ schools. He is a member
-of the Golden Key International Honour Society, Singapore Psychological
-Society (SPS and is a MSF Certified Practitioner for the Management of
-Family Violence.</p>
+<br>Dr Praveen Nair is currently a director at Raven Counselling &amp; Consultancy
+and has more than 20 years of clinical, supervisory and management experience
+from 3 sectors (the Civil Service, the Non-Profit Sector, &amp; the Private
+Sector). He presently serves as a Consultant &amp; Clinical Supervisor
+for a myriad of organisations that include SSAs, schools, and law firms.
+Apart from being the first practitioner-researcher in Singapore to have
+developed a peer-reviewed &amp; published intervention model specifically
+for local ‘at-risk’ youth, Praveen is also the first practitioner to conduct
+the WDA and university accredited training programmes of ‘<em>Advanced Counselling Skills’</em> and
+‘<em>Understanding Criminality in Singapore Youth’</em>. Similarly, he
+was the first clinician in Singapore to have provided full-time consultation
+services on the ‘Responsible Thinking Process’ for a mainstream school.</p>
+<p>A Chartered Psychologist with the British Psychological Society, and a
+Full Member with the Singapore Psychological Society, Praveen is also an
+MSF-Certified Practitioner for the management of family violence and an
+adjunct faculty member at the Singapore University of Social Sciences &amp;
+James Cook University Singapore. Furthermore, Praveen was a Clinical Supervisor
+for the New School of Psychotherapy’s Doctorate Programme (UK), and is
+currently a Clinical Supervisor for Monash University’s Master of Counselling
+course in Singapore.</p>
 <p><strong>Ms Seah Kheng Yeow</strong> 
 <br>Kheng Yeow graduated with a degree in social work and master’s in counselling.
 She was formerly the head, family development and community relations with
@@ -189,8 +195,9 @@ implementation framework: Child and Adolescent Needs and Strengths (CANS)
 and Family and Adult Support Tool (FAST). She has been recognised by the
 original developer of TCOM, Dr. John Lyons, as one of the local trainers
 who can train trainers on the use of CANS. She is familiar with the process
-of TCOM implementation, and was in the pilot project and early phases of
+of TCOM implementation and was in the pilot project and early phases of
 TCOM implementation in Singapore.</p>
 <h4><strong>Subscribe to Mailing List</strong></h4>
-<p><a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">Subscribe to SSI’s Children, Youth and Family Courses</a> Mailing
+<p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Children, Youth and Family Courses</a> mailing
 List for latest updates!</p>
+<p></p>
