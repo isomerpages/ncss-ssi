@@ -107,12 +107,13 @@ so as to perform effectively in their roles.</p>
 <p>Complete the <a href="https://go.gov.sg/ncssvro-ldrsat" rel="noopener noreferrer nofollow" target="_blank">Digital Self-Assessment Tool</a> and
 receive a personalised report!</p>
 <h4>NCSS Volunteer Management Community</h4>
-<p>Be the first to receive updates on Volunteer Management related news and
-initiatives, <a href="https://go.gov.sg/ncssvro-vmcommunity" rel="noopener noreferrer nofollow" target="_blank">register here to be a part of the community</a>!</p>
+<p><a href="https://go.gov.sg/ncssvro-vmcommunity" rel="noopener noreferrer nofollow" target="_blank">Register to be a part of the community</a> and
+be the first to receive updates on Volunteer Management related news and
+initiatives!</p>
 <p>Alternatively, if you have any Volunteer Management related questions,
 feel free to drop us an email at <a href="mailto:matthew_leung@ncss.gov.sg" rel="noopener noreferrer nofollow" target="_blank">matthew_leung@ncss.gov.sg</a>.
 <br>
 <br>Visit the <a href="https://go.gov.sg/ncssvmprofessionaldevelopment" rel="noopener noreferrer nofollow" target="_blank">NCSS Volunteer Resource Hub</a>.</p>
 <h4><strong>Subscribe to Mailing List</strong></h4>
-<p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Volunteer Management and Development Training Courses Mailing List</a>{:target="_blank"}
-for latest updates!</p>
+<p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Volunteer Management and Development Training Courses Mailing List</a> for
+latest updates!</p>
