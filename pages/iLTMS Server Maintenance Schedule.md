@@ -28,6 +28,14 @@ the following dates. Access to iLTMS may be disrupted during this period.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>18 Apr 2024, 22:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19 Apr 2024, 12:00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>26 Apr 2024, 22:00</p>
 </td>
 <td rowspan="1" colspan="1">
