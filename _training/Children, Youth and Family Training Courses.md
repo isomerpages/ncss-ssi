@@ -138,7 +138,7 @@ Ministry of Social and Family Development (MSF).</p>
 <br>Dr Praveen Nair is currently a director at Raven Counselling &amp; Consultancy
 and has more than 20 years of clinical, supervisory and management experience
 from 3 sectors (the Civil Service, the Non-Profit Sector, &amp; the Private
-Sector). He presently serves as a Consultant &amp; Clinical Supervisor
+Sector). He presently serves as a consultant &amp; clinical supervisor
 for a myriad of organisations that include SSAs, schools, and law firms.
 Apart from being the first practitioner-researcher in Singapore to have
 developed a peer-reviewed &amp; published intervention model specifically
@@ -147,13 +147,13 @@ the WDA and university accredited training programmes of ‘<em>Advanced Counsel
 ‘<em>Understanding Criminality in Singapore Youth’</em>. Similarly, he
 was the first clinician in Singapore to have provided full-time consultation
 services on the ‘Responsible Thinking Process’ for a mainstream school.</p>
-<p>A Chartered Psychologist with the British Psychological Society, and a
-Full Member with the Singapore Psychological Society, Praveen is also an
-MSF-Certified Practitioner for the management of family violence and an
+<p>A chartered psychologist with the British Psychological Society, and a
+full member with the Singapore Psychological Society, Praveen is also an
+MSF-certified practitioner for the management of family violence and an
 adjunct faculty member at the Singapore University of Social Sciences &amp;
-James Cook University Singapore. Furthermore, Praveen was a Clinical Supervisor
+James Cook University Singapore. Furthermore, Praveen was a clinical supervisor
 for the New School of Psychotherapy’s Doctorate Programme (UK), and is
-currently a Clinical Supervisor for Monash University’s Master of Counselling
+currently a clinical supervisor for Monash University’s Master of Counselling
 course in Singapore.</p>
 <p><strong>Ms Seah Kheng Yeow</strong> 
 <br>Kheng Yeow graduated with a degree in social work and master’s in counselling.
