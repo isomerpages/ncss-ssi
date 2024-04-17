@@ -11,7 +11,6 @@ for conducting trainings, networking events or organisational retreats.</p>
 <p>Refer to the table below to obtain the latest booking rates for SSI’s
 rooms.
 <br>
-<br>
 </p>
 <table>
 <tbody>
@@ -174,8 +173,7 @@ Agencies only.</p>
 <p>The fees shown above exclude GST costs.</p>
 </li>
 </ul>
-<p><a href="/images/resources/terms-and-conditions-(revised-2019)-.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a> to
-view the full set of Terms and Conditions.</p>
+<p>View the full set of <a href="/files/Resources/Terms_and_Conditions.pdf" rel="noopener noreferrer nofollow" target="_blank">terms and conditions</a>.</p>
 <h3>Complementary Equipment and Resources</h3>
 <p>Booking of each room comes with the following complementary equipment
 and resources:</p>
