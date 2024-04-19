@@ -2,7 +2,7 @@
 title: Frequently Asked Questions (FAQs)
 permalink: /faqs/
 description: Frequently Asked Questions (FAQs) - Social Service Institute
+variant: tiptap
 ---
-Updated on 11 October 2023
-
-[Click here to view our list of Frequently Asked Questions (FAQs)](/files/ssi%20faqs%20-%20oct%202023.pdf)
+<p><a href="https://www.ssi.gov.sg/files/ssi%20faqs%20apr%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">List of Frequently Asked Questions</a> (Updated
+on 10 April 2024)</p>
