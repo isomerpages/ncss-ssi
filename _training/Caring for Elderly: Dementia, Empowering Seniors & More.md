@@ -54,12 +54,11 @@ latest updates.</p>
 <h5>Complimentary Featured Course Under the Agency for Integrated Care (AIC)</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://ccmhdcomms.github.io/dementiaawareness20/" rel="noopener noreferrer nofollow" target="_blank">Dementia Awareness Foundation online course</a>
-</p>
+<p>Dementia Awareness Foundation online course</p>
 </li>
 </ul>
 <h3><strong>Featured Adult Educators under Eldercare Training Courses</strong></h3>
-<p><strong>Ms Lim Hwee Er</strong>
+<p><strong>Ms Lim Hwee Er</strong> 
 <br>Hwee Er holds a Master of Health Service Management from the University
 of Sydney (USYD) and a Bachelor of Health Sciences (Hons) (OT) from the
 University of Teesside. As an occupational therapist, she has 14 years
@@ -90,7 +89,7 @@ organisations including nursing homes, mental health service providers
 and community hospitals. She currently leads the Person-Centred Communities
 of Practice with a team of 15 practitioners from various eldercare service
 providers.</p>
-<p><strong>Mr Wong Lit Shoon</strong>
+<p><strong>Mr Wong Lit Shoon</strong> 
 <br>Lit Soon’s career in the healthcare, social service and eldercare sector
 spans over 30 years. He was previously the executive director of SAGE Counselling
 Centre, Sunshine Welfare Action Mission (SWAMI) Home, manager of medical
