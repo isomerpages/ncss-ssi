@@ -16,12 +16,14 @@ variant: tiptap
 <h3>Course Schedule &amp; Registration Dates</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/training courses/ssi monthly featured courses - 01apr2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Registration period: Apr 2024 to July 2024</a>
-</p>
+<p>Registration period: May 2024 to Aug 2024</p>
 </li>
 </ul>
 <h2><strong>Featured Professional Certification Courses In Social Service</strong></h2>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
