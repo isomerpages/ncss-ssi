@@ -16,7 +16,8 @@ variant: tiptap
 <h3>Course Schedule &amp; Registration Dates</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Registration period: May 2024 to Aug 2024</p>
+<p><a href="https://www.ssi.gov.sg/files/training%20courses/ssi_monthly_featured_courses___29apr2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Registration period: May 2024 to Aug 2024</a>
+</p>
 </li>
 </ul>
 <h2><strong>Featured Professional Certification Courses In Social Service</strong></h2>
