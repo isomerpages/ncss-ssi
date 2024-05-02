@@ -9,14 +9,13 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Children  Youth Development, Family Therapy / Family Violence Courses: Equip volunteers with skills to work with children, youth and families." src="/images/cyf-banner.png">
 </div>
 <h2><strong>Children, Youth and Family Courses offered by SSI</strong></h2>
-<h3><strong>Coming Soon</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5858" rel="noopener noreferrer nofollow" target="_blank">Certified User for Youth Level of Service / Case Management Inventory (YLS/CMI)</a> 
 <br>Register your interest.</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5879" rel="noopener noreferrer nofollow" target="_blank">Family Therapy: Intermediate</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5879" rel="noopener noreferrer nofollow" target="_blank">Family Therapy: Intermediate</a> 
 <br>Register by 17 Jul 2024</p>
 </li>
 </ul>
