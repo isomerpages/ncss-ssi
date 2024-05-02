@@ -41,7 +41,7 @@ variant: tiptap
 </div>
 <p></p>
 <h3>Case Management in Practice: Introduction</h3>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5228" rel="noopener noreferrer nofollow" target="_blank">Register by 8 Aug 2024</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5228" rel="noopener noreferrer nofollow" target="_blank">Register by 8 Aug 2024</a> 
 <br>
 <br><a href="https://www.ssi.gov.sg/training/cross-sector/" rel="noopener noreferrer nofollow" target="\_blank">View other Cross Sector courses</a>
 </p>
