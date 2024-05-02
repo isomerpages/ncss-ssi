@@ -40,7 +40,8 @@ to offer training in secondary training areas as well.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Academy of Human Development (AHD)</p>
+<p><a href="https://www.ahd.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Academy of Human Development (AHD)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Family</p>
