@@ -11,12 +11,12 @@ variant: tiptap
 <h2><strong>Children, Youth and Family Courses offered by SSI</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5858" rel="noopener noreferrer nofollow" target="_blank">Certified User for Youth Level of Service / Case Management Inventory (YLS/CMI)</a> 
-<br>Register your interest.</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5879" rel="noopener noreferrer nofollow" target="_blank">Family Therapy: Intermediate</a> 
 <br>Register by 17 Jul 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5858" rel="noopener noreferrer nofollow" target="_blank">Certified User for Youth Level of Service / Case Management Inventory (YLS/CMI)</a> 
+<br>Register your interest.</p>
 </li>
 </ul>
 <h3><strong>Registration Open Throughout the Year</strong></h3>
