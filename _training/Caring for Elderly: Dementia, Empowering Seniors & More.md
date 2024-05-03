@@ -23,9 +23,6 @@ latest updates.</p>
 </p>
 </li>
 <li>
-<p>Conversation Starter Toolkit (e-Learning)</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5958" rel="noopener noreferrer nofollow" target="_blank">Counselling for Seniors</a>
 </p>
 </li>
@@ -54,7 +51,8 @@ latest updates.</p>
 <h5>Complimentary Featured Course Under the Agency for Integrated Care (AIC)</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Dementia Awareness Foundation online course</p>
+<p><a href="https://for.sg/understand-dementia-2023" rel="noopener noreferrer nofollow" target="_blank">Understanding Dementia</a>
+</p>
 </li>
 </ul>
 <h3><strong>Featured Adult Educators under Eldercare Training Courses</strong></h3>
