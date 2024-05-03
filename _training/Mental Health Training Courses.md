@@ -48,7 +48,7 @@ by SSI.</p>
 </p>
 </li>
 <li>
-<p><a href="https://for.sg/mha-2-2023" rel="noopener noreferrer nofollow" target="_blank">Mental Health Awareness 2: Supporting Persons with Mental Health Issues </a>
+<p><a href="https://for.sg/mha-2-2023" rel="noopener noreferrer nofollow" target="_blank">Mental Health Awareness 2: Supporting Persons with Mental Health Issues</a>
 </p>
 </li>
 </ul>
