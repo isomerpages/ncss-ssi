@@ -14,10 +14,6 @@ variant: tiptap
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5879" rel="noopener noreferrer nofollow" target="_blank">Family Therapy: Intermediate</a> 
 <br>Register by 17 Jul 2024</p>
 </li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5858" rel="noopener noreferrer nofollow" target="_blank">Certified User for Youth Level of Service / Case Management Inventory (YLS/CMI)</a> 
-<br>Register your interest.</p>
-</li>
 </ul>
 <h3><strong>Registration Open Throughout the Year</strong></h3>
 <ul data-tight="true" class="tight">
@@ -45,10 +41,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5858" rel="noopener noreferrer nofollow" target="_blank">Certified User for Youth Level of Service/ Case Management (YLS/CMI)</a>
-</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF434" rel="noopener noreferrer nofollow" target="_blank">Child Abuse Reporting Guide</a>
 </p>
 </li>
@@ -62,10 +54,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5158" rel="noopener noreferrer nofollow" target="_blank">Helping Youths Cope with Anger</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF435" rel="noopener noreferrer nofollow" target="_blank">Introduction to Child Protection Framework</a>
 </p>
 </li>
 <li>
