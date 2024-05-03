@@ -44,16 +44,12 @@ by SSI.</p>
 <h5>Complimentary Featured Courses under the Agency for Integrated Care (AIC)</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mental Health Awareness Foundation 1</p>
+<p><a href="https://for.sg/mha-1-2023" rel="noopener noreferrer nofollow" target="_blank">Mental Health Awareness 1: Understanding the Signs and Symptoms of Mental Health Issues</a>
+</p>
 </li>
 <li>
-<p>Mental Health Awareness Foundation</p>
-</li>
-<li>
-<p>Mental Health Awareness Basic 1</p>
-</li>
-<li>
-<p>Mental Health Awareness Basic 2</p>
+<p><a href="https://for.sg/mha-2-2023" rel="noopener noreferrer nofollow" target="_blank">Mental Health Awareness 2: Supporting Persons with Mental Health Issues </a>
+</p>
 </li>
 </ul>
 <h3><strong>Featured Adult Educators under Mental Health Training Courses</strong></h3>
