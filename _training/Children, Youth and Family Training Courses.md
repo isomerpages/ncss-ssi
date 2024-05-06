@@ -26,7 +26,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF436" rel="noopener noreferrer nofollow" target="_blank">Introduction to Sector-Specific Screening Guide</a>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF436" rel="noopener noreferrer nofollow" target="_blank">Introduction to Sector-Specific Screening Guide</a> 
 <br>Registration open throughout the year.</p>
 </li>
 </ul>
