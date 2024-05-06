@@ -11,7 +11,9 @@ variant: tiptap
 <h2><strong>Management and Organisation Development Training Courses offered by SSI</strong></h2>
 <h3><strong>Registration now open</strong></h3>
 <h4>People Management and Leadership</h4>
-<p>Coming soon!</p>
+<p>Coming soon!
+<br>Subscribe to our <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">Mailing List</a> for
+latest updates.</p>
 <h4>Financial Management</h4>
 <p>Coming soon!
 <br>Subscribe to our <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">Mailing List</a> for
