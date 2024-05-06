@@ -36,6 +36,7 @@ the elderly tend to neglect the importance of a nutritional diet.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 200px; height: 279px;" height="auto" width="100%" alt="Mr Willy Ho" src="/images/stories/pages/mr-willy-ho.jpg">
 </div>
+<p></p>
 <hr>
 <p><strong>“I would say my best attribute is my pair of listening ears. Through active listening, I get to truly understand them, their lives and dreams, and that is how we build the relationship and rapport.”</strong>
 </p>
