@@ -11,23 +11,13 @@ variant: tiptap
 <h2><strong>Management and Organisation Development Training Courses offered by SSI</strong></h2>
 <h3><strong>Registration now open</strong></h3>
 <h4>People Management and Leadership</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.dpi-asia.com/post/where-does-problem-solving-end-and-strategic-innovation-begin" rel="noopener noreferrer nofollow" target="_blank">From Problem Solving to Breakthrough Innovation - by DPI Asia</a>
-<br>Register by 17 Apr 2024</p>
-</li>
-<li>
-<p><a href="https://www.sim.edu.sg/professional-development/courses/course-listing/people-management-driving-results-through-engagement-in-collaboration-with-franklincovey-l3-sfw-sync" rel="noopener noreferrer nofollow" target="_blank">People Management: Driving Results Through Engagement</a> 
-<br>Register by 24 Apr 2024</p>
-</li>
-<li>
-<p><a href="https://www.sim.edu.sg/professional-development/courses/course-listing/resource-management-and-strategy-implementation-in-collaboration-with-franklincovey-l4-sfw-synchrono" rel="noopener noreferrer nofollow" target="_blank">Resource Management and Strategy Implementation</a> 
-<br>Register by 2 May 2024</p>
-</li>
-</ul>
+<p>Coming soon!
+<br>Subscribe to our <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">Mailing List</a> for
+latest updates.</p>
 <h4>Financial Management</h4>
 <p>Coming soon!
-<br><a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">Subscribe to our Mailing List for latest updates</a>.</p>
+<br>Subscribe to our <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">Mailing List</a> for
+latest updates.</p>
 <h3><strong>Featured Courses: Leadership Development &amp; Management For Non-Profit Organisations</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
