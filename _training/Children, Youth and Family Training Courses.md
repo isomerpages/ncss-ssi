@@ -15,7 +15,7 @@ variant: tiptap
 <br>Register by 17 Jul 2024</p>
 </li>
 </ul>
-<h3><strong>Registration Open Throughout the Year</strong></h3>
+<h3><strong>Complimentary e-Learning Courses</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF434" rel="noopener noreferrer nofollow" target="_blank">Child Abuse Reporting Guide (CARG) - E-Learning</a>
@@ -27,7 +27,7 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF436" rel="noopener noreferrer nofollow" target="_blank">Introduction to Sector-Specific Screening Guide</a>
-</p>
+<br>Registration open throughout the year.</p>
 </li>
 </ul>
 <h3><strong>Other Featured Courses in Children and Youth Development, Youth Counselling and Family Therapy</strong></h3>
