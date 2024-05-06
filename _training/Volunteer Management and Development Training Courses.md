@@ -12,7 +12,11 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0035" rel="noopener noreferrer nofollow" target="_blank">Befriending 101 (For Volunteers)</a> 
-<br>Register for e-learning course</p>
+<br>Register for e-learning course.</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0125" rel="noopener noreferrer nofollow" target="_blank"><u>Volunteer Management 101</u></a>
+<br>Register for e-learning course.</p>
 </li>
 </ul>
 <h3><strong>Other Featured Volunteer Management and Development Courses</strong></h3>

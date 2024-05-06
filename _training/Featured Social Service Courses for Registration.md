@@ -16,12 +16,15 @@ variant: tiptap
 <h3>Course Schedule &amp; Registration Dates</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/training courses/ssi monthly featured courses - 01apr2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Registration period: Apr 2024 to July 2024</a>
+<p><a href="https://www.ssi.gov.sg/files/training%20courses/ssi_monthly_featured_courses___29apr2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Registration period: May 2024 to Aug 2024</a>
 </p>
 </li>
 </ul>
 <h2><strong>Featured Professional Certification Courses In Social Service</strong></h2>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -40,8 +43,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Counselling, Motivational Interviewing &amp; Behaviour Therapy Courses" src="/images/training/cross-sector-v2.png">
 </div>
 <p></p>
-<h3>Coming Soon!</h3>
-<p>
+<h3>Case Management in Practice: Introduction</h3>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5228" rel="noopener noreferrer nofollow" target="_blank">Register by 8 Aug 2024</a> 
+<br>
 <br><a href="https://www.ssi.gov.sg/training/cross-sector/" rel="noopener noreferrer nofollow" target="\_blank">View other Cross Sector courses</a>
 </p>
 </td>
@@ -51,9 +55,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Children &amp; Youth Development, Family Therapy / Family Violence Courses: Equip volunteers with skills to work with children, youth and families." src="/images/training/cyf-v2.png">
 </div>
-<h3>Introduction to Child Protection Framework</h3>
-<p></p>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF435" rel="noopener noreferrer nofollow" target="_blank">Registration is open throughout the year</a>
+<h3>Family Therapy: Intermediate</h3>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5879" rel="noopener noreferrer nofollow" target="_blank">Register by 17 Jul 2024</a>
 </p>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/cyandf/" rel="noopener noreferrer nofollow" target="\_blank">View other Children, Youth and Family courses</a>
@@ -98,10 +101,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Board Development Courses" src="/images/training/board-v2.png">
 </div>
-<h3>Resource Management and Strategy Implementation</h3>
-<p><a href="https://www.sim.edu.sg/professional-development/courses/course-listing/resource-management-and-strategy-implementation-in-collaboration-with-franklincovey-l4-sfw-synchrono" rel="noopener noreferrer nofollow" target="\_blank">Register by 2 May 2024</a> 
-<br>
-</p>
+<h3>Coming Soon!<br></h3>
 <p><a href="https://www.ssi.gov.sg/training/board-development/" rel="noopener noreferrer nofollow" target="\_blank">View all Board Development courses</a>
 </p>
 </td>
@@ -111,9 +111,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Social Service / Nonprofit Leadership and Management Training Course" src="/images/training/mod-v2.png">
 </div>
-<h3>People Management: Driving Results Through Engagement</h3>
-<p><a href="https://www.sim.edu.sg/professional-development/courses/course-listing/people-management-driving-results-through-engagement-in-collaboration-with-franklincovey-l3-sfw-sync" rel="noopener noreferrer nofollow" target="\_blank">Register by 24 Apr 2024</a>
-</p>
+<h3>Coming Soon!</h3>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/" rel="noopener noreferrer nofollow" target="\_blank">View other Management and Organisation Development courses</a>
 </p>
@@ -124,7 +122,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Equip volunteers with knowledge, develop volunteer management capabilities" src="/images/training/volunteer-v2.png">
 </div>
-<h3>Befriending 101 (for Volunteers) e-learning</h3>
+<h3>Befriending 101 (for Volunteers)</h3>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0035" rel="noopener noreferrer nofollow" target="\_blank">Registration is open throughout the year</a>
 </p>
 <p></p>

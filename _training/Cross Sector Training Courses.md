@@ -19,8 +19,16 @@ youth, adults and seniors.</p>
 <h3><strong>Registration now open</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5725" rel="noopener noreferrer nofollow" target="_blank">Motivational Interviewing: An Introduction for Social Service Practitioners</a> 
-<br>Register by 30 May 2024</p>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS400" rel="noopener noreferrer nofollow" target="_blank">Understanding Singapore's Social Compact and Social Policies</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5228" rel="noopener noreferrer nofollow" target="_blank">Case Management in Practice: Introduction</a>
+<br>Register by 8 Aug 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5570" rel="noopener noreferrer nofollow" target="_blank">Understanding and Working with the Malay-Muslim Clients</a>
+<br>Register by 1 Aug 2024</p>
 </li>
 </ul>
 <h3><strong>Other Featured Short Courses in Befriending, Case Management, Counselling and more</strong></h3>
@@ -31,10 +39,6 @@ youth, adults and seniors.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5647" rel="noopener noreferrer nofollow" target="_blank">Boleh Saya Anda? May I Help You? - Conversational Malay for Social Service Practitioners</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5228" rel="noopener noreferrer nofollow" target="_blank">Case Management in Practice: Introduction</a>
 </p>
 </li>
 <li>
@@ -72,10 +76,6 @@ schemes. It is an e-Learning course that provides an overview of the development
 of Singapore’s social services over the years and introduces the principles
 behind its provision. It covers six areas of social service provision which
 include trends and challenges in the future.</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS400" rel="noopener noreferrer nofollow" target="_blank">Understanding Singapore's Social Compact and Social Policies</a>
-</p>
 </li>
 </ul>
 <h3><strong>Cross Sector Certificate/ Diploma/ Degree Programmes</strong></h3>

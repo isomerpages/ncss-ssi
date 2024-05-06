@@ -9,14 +9,13 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Children  Youth Development, Family Therapy / Family Violence Courses: Equip volunteers with skills to work with children, youth and families." src="/images/cyf-banner.png">
 </div>
 <h2><strong>Children, Youth and Family Courses offered by SSI</strong></h2>
-<h3><strong>Coming Soon</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5858" rel="noopener noreferrer nofollow" target="_blank">Certified User for Youth Level of Service / Case Management Inventory (YLS/CMI)</a> 
-<br>Register your interest.</p>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5879" rel="noopener noreferrer nofollow" target="_blank">Family Therapy: Intermediate</a> 
+<br>Register by 17 Jul 2024</p>
 </li>
 </ul>
-<h3><strong>Registration Open Throughout the Year</strong></h3>
+<h3><strong>Complimentary e-Learning Courses</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF434" rel="noopener noreferrer nofollow" target="_blank">Child Abuse Reporting Guide (CARG) - E-Learning</a>
@@ -27,8 +26,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF436" rel="noopener noreferrer nofollow" target="_blank">Introduction to Sector-Specific Screening Guide</a>
-</p>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF436" rel="noopener noreferrer nofollow" target="_blank">Introduction to Sector-Specific Screening Guide</a> 
+<br>Registration open throughout the year.</p>
 </li>
 </ul>
 <h3><strong>Other Featured Courses in Children and Youth Development, Youth Counselling and Family Therapy</strong></h3>
@@ -39,10 +38,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5894" rel="noopener noreferrer nofollow" target="_blank">Certified User for Child &amp; Adolescent Needs &amp; Strengths (CANS)</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5858" rel="noopener noreferrer nofollow" target="_blank">Certified User for Youth Level of Service/ Case Management (YLS/CMI)</a>
 </p>
 </li>
 <li>
@@ -59,10 +54,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5158" rel="noopener noreferrer nofollow" target="_blank">Helping Youths Cope with Anger</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF435" rel="noopener noreferrer nofollow" target="_blank">Introduction to Child Protection Framework</a>
 </p>
 </li>
 <li>
