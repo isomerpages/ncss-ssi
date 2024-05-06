@@ -20,19 +20,19 @@ the necessary knowledge and skillsets required to carry out their roles
 effectively when working with clients, partners and stakeholders.</p>
 </li>
 <li>
-<p><a href="/training/cet-programmes/advance-certificate-in-supported-employment/" rel="noopener noreferrer nofollow" target="_blank">Advanced Certificate in Supported Employment (ACSE)</a>
+<p><a href="/training/cet-programmes/advance-certificate-in-supported-employment/" rel="noopener noreferrer nofollow" target="_blank">Advanced Certificate in Supported Employment (ACSE)</a> 
 <br>The Advanced Certificate in Supported Employment (ACSE) aims to build
 capabilities of job coaches in providing employment and employability support
 for persons with disabilities.</p>
 </li>
 <li>
-<p><a href="/training/cet-programmes/certificate-in-para-counselling/" rel="noopener noreferrer nofollow" target="_blank">Certificate in Para-Counselling in Community Setting</a>
+<p><a href="/training/cet-programmes/certificate-in-para-counselling/" rel="noopener noreferrer nofollow" target="_blank">Certificate in Para-Counselling in Community Setting</a> 
 <br>This course equips learners with the fundamental knowledge and skills
 in counselling that is required when working alongside certified counselling
 professionals.</p>
 </li>
 <li>
-<p><a href="/training/cet-programmes/higher-diploma-in-social-service/" rel="noopener noreferrer nofollow" target="_blank">Higher Diploma in Social Service (HDSS)</a>
+<p><a href="/training/cet-programmes/higher-diploma-in-social-service/" rel="noopener noreferrer nofollow" target="_blank">Higher Diploma in Social Service (HDSS)</a> 
 <br>The programme provides an articulation pathway into Bachelor in Social
 Work at the Singapore University of Social Services (SUSS). This is ideal
 for learners who wish to pursue a career in Social Work.</p>
