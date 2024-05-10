@@ -27,13 +27,5 @@ contacts:
       - email: socialserviceinstitute@ncss.gov.sg
       - other: <br><b>Fax</b><br>+65 6589 5540
     title: Email
-  - content:
-      - phone: ""
-      - email: ""
-      - other: Receive the latest learning and development updates from SSI by signing
-          up for our various <a
-          href="https://www.ssi.gov.sg/about-us/mailing-list/">mailing
-          lists</a>.
-    title: Join Our Mailing Lists
 feedback: ""
 ---
