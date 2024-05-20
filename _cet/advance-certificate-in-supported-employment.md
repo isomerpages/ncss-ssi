@@ -57,7 +57,7 @@ learners and/or in class.</p>
 <p><strong>Fees:</strong> Full fees of $4,212 (Inclusive of 8% GST) and nett
 fees of $1,263.60 (Inclusive of 8% GST, after SSG subsidy<sup>1</sup>).
 A non-refundable application fee of SGD 54 (including 8% GST) is applicable
-for registrations received by 6 July 2024.
+for registrations received by 16 July 2024.
 <br>
 </p>
 <hr>
@@ -100,8 +100,20 @@ efficiency and effectiveness. This module will discuss conflict resolution,
 the art of negotiation in reaching an agreement between different stakeholders
 as well as how to apply the principles of leadership and people management.</p>
 <h4><strong>Module 5: Client and Employer Engagement</strong></h4>
-<p><strong>Training dates:</strong> 2, 5, 6, 16, 19 Feb 2024
-<br><strong>Assessment date(s):</strong> 1-2 April 2024</p>
+<p><strong>Training dates:</strong> 
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>14 and 24 October 2024</p>
+</li>
+<li>
+<p>1, 7 and 15 November 2024 and</p>
+</li>
+<li>
+<p>2 and 3 January 2025</p>
+</li>
+</ul>
+<p><strong>Assessment date(s):</strong> 2 and 3 January 2025</p>
 <p>This module focuses on the role and responsibilities of a professional
 job coach and coaching techniques for persons with disabilities (PWDs)
 within a supported employment framework. In contrast to the traditional
@@ -116,8 +128,8 @@ training and support, and fading out and follow-up.</p>
 </p>
 <p><strong>Compulsory Visit to Enabling Village</strong> – 14 Mar 2024, 2.00-5.00pm
 (TBC)</p>
-<h3><strong>Upcoming intake 2023</strong></h3>
-<p><strong>Registration closing date:</strong> Friday, 6 Oct 2023.
+<h3><strong>Upcoming intake 2024</strong></h3>
+<p><strong>Registration closing date:</strong> Tuesday, 16 July 2024.
 <br>Register for the <a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS8" rel="noopener noreferrer nofollow" target="_blank">ACSE Course</a> now.</p>
 <hr>
 <p><sup>1</sup> Subject to successful completion and achievement of a ‘Competent’
