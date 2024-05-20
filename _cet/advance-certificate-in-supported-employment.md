@@ -63,8 +63,8 @@ for registrations received by 6 July 2024.
 <hr>
 <p></p>
 <h4><strong>Module 1: Supported Employment and Working with Clients of Different Disabilities</strong></h4>
-<p><strong>Training dates:</strong> 8, 15, 20, 28, 29 Nov 2023
-<br><strong>Assessment date:</strong> 29 Nov 2023</p>
+<p><strong>Training dates:</strong> 20 to 22 August, 23 and 26 August 2024
+<br><strong>Assessment date:</strong> 26 August 2024</p>
 <p>This module will equip learners with a better understanding of the concept
 and practices of Supported Employment, including techniques to provide
 guidance to clients with disabilities in their career planning, employment
