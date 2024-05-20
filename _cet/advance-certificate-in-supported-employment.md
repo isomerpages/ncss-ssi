@@ -70,8 +70,8 @@ and practices of Supported Employment, including techniques to provide
 guidance to clients with disabilities in their career planning, employment
 laws and grants available for employers and persons with disabilities.</p>
 <h4><strong>Module 2: Basic Counselling Skills and Practice for Job Coaches</strong></h4>
-<p><strong>Training dates:</strong> 7 – 8 Dec 2023
-<br><strong>Assessment date:</strong> 8 Dec 2023</p>
+<p><strong>Training dates:</strong> 4 to 5 September 2024
+<br><strong>Assessment date:</strong> 15 August 2024</p>
 <p>This module provides an overview of the counselling process, the different
 roles performed by the job coach-counsellor, basic counselling skills,
 goals of counselling, values and ethics in counselling and approaches in
@@ -79,8 +79,8 @@ problem management. In addition, this module will also cover barriers of
 communication in the counselling process and ways to prevent communication
 breakdown when working with clients.</p>
 <h4><strong>Module 3: Introduction to Case Management</strong></h4>
-<p><strong>Training dates:</strong> 15 – 16 Jan 2024
-<br><strong>Assessment date:</strong> 16 Jan 2024</p>
+<p><strong>Training dates:</strong> 12 to 13 September 2024
+<br><strong>Assessment date:</strong> 13 September 2024</p>
 <p>This module will equip learners with the necessary skills and knowledge
 of case management in practice. It provides learners with a broad understanding
 of how case management serves as a means for achieving client wellness
@@ -89,8 +89,8 @@ and direction. Additionally, the workshop also helps learners in forming
 the connections between job coach, client, service personnel and other
 stakeholders in order to optimize the assistance rendered.</p>
 <h4><strong>Module 4: Conflict, Leadership and People Management</strong></h4>
-<p><strong>Training dates:</strong> 29 Feb 2024 – 1 Mar 2024
-<br><strong>Assessment date:</strong> 1 Mar 2024</p>
+<p><strong>Training dates:</strong> 26 to 27 September 2024
+<br><strong>Assessment date:</strong> 27 September 2024</p>
 <p>Conflict is an issue that people have to manage regularly. Any efforts
 in equalising and normalising persons with disabilities at workplace would
 have to recognise and accept that potential conflicts may be inevitable.
