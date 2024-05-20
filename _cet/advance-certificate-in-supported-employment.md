@@ -100,7 +100,7 @@ efficiency and effectiveness. This module will discuss conflict resolution,
 the art of negotiation in reaching an agreement between different stakeholders
 as well as how to apply the principles of leadership and people management.</p>
 <h4><strong>Module 5: Client and Employer Engagement</strong></h4>
-<p><strong>Training dates:</strong> 
+<p><strong>Training dates:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
