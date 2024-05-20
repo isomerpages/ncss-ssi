@@ -54,7 +54,7 @@ in-person in SSI’s classrooms. Where applicable, assessments will be conducted
 physically in SSI on a separate day. Details will be shared with successful
 learners and/or in class.</p>
 <p><strong>Lesson Timings:</strong> 9.30am to 5.30pm</p>
-<p><strong>Fees:</strong> 
+<p><strong>Fees:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -87,7 +87,7 @@ learners and/or in class.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fee&nbsp;(After SSG Funding)</p>
+<p>Fee&nbsp;(After <a href="https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html" rel="noopener noreferrer nofollow" target="_blank">SSG funding</a><sup>1</sup>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$1,170.00</p>
@@ -179,7 +179,4 @@ Singapore (SSG) funding, must achieve at least 75% attendance per module,
 and be certified ‘Competent’ in all the assessment components. Individuals
 or Organisations will have to bear the full course fees in the event that
 learners fail to meet the attendance/assessment requirements and terms
-and conditions for SSG funding eligibility.
-<br>
-</p>
-<p>Click here to learn more about <a href="https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html" rel="noopener noreferrer nofollow" target="_blank">SSG funding</a>.</p>
+and conditions for SSG funding eligibility. Learn more about <a href="https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html" rel="noopener noreferrer nofollow" target="_blank">SSG funding</a>.</p>
