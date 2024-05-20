@@ -54,10 +54,52 @@ in-person in SSI’s classrooms. Where applicable, assessments will be conducted
 physically in SSI on a separate day. Details will be shared with successful
 learners and/or in class.</p>
 <p><strong>Lesson Timings:</strong> 9.30am to 5.30pm</p>
-<p><strong>Fees:</strong> Full fees of $4,212 (Inclusive of 8% GST) and nett
-fees of $1,263.60 (Inclusive of 8% GST, after SSG subsidy<sup>1</sup>).
-A non-refundable application fee of SGD 54 (including 8% GST) is applicable
-for registrations received by 16 July 2024.
+<p><strong>Fees:</strong> 
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Item</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Amount (before GST)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Amount after 9% GST</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Full Course Fee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$3,900.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$4,251.00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fee&nbsp;(After SSG Funding)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1,170.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1,275.30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>A non-refundable application fee of SGD 54.50 (including 9% GST) is applicable
+for registrations received.
 <br>
 </p>
 <hr>
