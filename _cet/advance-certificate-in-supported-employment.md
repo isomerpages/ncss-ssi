@@ -87,7 +87,7 @@ learners and/or in class.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fee&nbsp;(After <a href="https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html" rel="noopener noreferrer nofollow" target="_blank">SSG funding</a><sup>1</sup>)</p>
+<p>Fee&nbsp;(After <a href="/training/funding-information/skillsfuture-singapore-funding/" rel="noopener noreferrer nofollow" target="_blank">SSG Funding</a><sup>1</sup>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$1,170.00</p>
@@ -179,4 +179,4 @@ Singapore (SSG) funding, must achieve at least 75% attendance per module,
 and be certified ‘Competent’ in all the assessment components. Individuals
 or Organisations will have to bear the full course fees in the event that
 learners fail to meet the attendance/assessment requirements and terms
-and conditions for SSG funding eligibility. Learn more about <a href="https://www.ssg-wsg.gov.sg/individuals/training-grants-incentives.html" rel="noopener noreferrer nofollow" target="_blank">SSG funding</a>.</p>
+and conditions for SSG funding eligibility. Learn more about <a href="/training/funding-information/skillsfuture-singapore-funding/" rel="noopener noreferrer nofollow" target="_blank">SSG Funding</a>.</p>
