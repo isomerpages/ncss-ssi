@@ -71,7 +71,7 @@ guidance to clients with disabilities in their career planning, employment
 laws and grants available for employers and persons with disabilities.</p>
 <h4><strong>Module 2: Basic Counselling Skills and Practice for Job Coaches</strong></h4>
 <p><strong>Training dates:</strong> 4 to 5 September 2024
-<br><strong>Assessment date:</strong> 15 August 2024</p>
+<br><strong>Assessment date:</strong> 5 September 2024</p>
 <p>This module provides an overview of the counselling process, the different
 roles performed by the job coach-counsellor, basic counselling skills,
 goals of counselling, values and ethics in counselling and approaches in
