@@ -57,7 +57,7 @@ learners and/or in class.</p>
 <p><strong>Fees:</strong> Full fees of $4,212 (Inclusive of 8% GST) and nett
 fees of $1,263.60 (Inclusive of 8% GST, after SSG subsidy<sup>1</sup>).
 A non-refundable application fee of SGD 54 (including 8% GST) is applicable
-for registrations received by 6 Oct 2023.
+for registrations received by 6 July 2024.
 <br>
 </p>
 <hr>
