@@ -166,8 +166,6 @@ process. Learners will acquire specific knowledge and skills to engage
 and support clients and employers in supported employment which includes
 the development of client profile, job development and placement, job site
 training and support, and fading out and follow-up.</p>
-<p><strong>Note: Module 5 is offered before Module 4 due to scheduling conflicts.</strong>
-</p>
 <p><strong>Compulsory Visit to Enabling Village</strong> – To be confirmed</p>
 <h3><strong>Upcoming intake 2024</strong></h3>
 <p><strong>Registration closing date:</strong> Tuesday, 16 July 2024.
