@@ -14,6 +14,24 @@ variant: tiptap
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5879" rel="noopener noreferrer nofollow" target="_blank">Family Therapy: Intermediate</a> 
 <br>Register by 17 Jul 2024</p>
 </li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF305" rel="noopener noreferrer nofollow" target="_blank">Mentoring and Coaching Youths Effectively (Classroom &amp; Asynchronous)</a> -
+TGS-2021009573
+<br>Register by 1 August 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0126" rel="noopener noreferrer nofollow" target="_blank">Counselling Guidelines Training: Working with Youth with Sexual Orientation and Gender Issues</a> 
+<br>Register by 5 August 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5158" rel="noopener noreferrer nofollow" target="_blank">Helping Youths Cope with Anger</a>
+<br>Register by 6 August 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5340" rel="noopener noreferrer nofollow" target="_blank">Delivering Impactful Training to Youths </a>-
+TGS-2020500657
+<br>Register by 14 August 2024</p>
+</li>
 </ul>
 <h3><strong>Complimentary e-Learning Courses</strong></h3>
 <ul data-tight="true" class="tight">
@@ -45,15 +63,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5340" rel="noopener noreferrer nofollow" target="_blank">Delivering Impactful Training to Youths</a>
-</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5936" rel="noopener noreferrer nofollow" target="_blank">Family and Adult Support Tool (FAST) - User</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5158" rel="noopener noreferrer nofollow" target="_blank">Helping Youths Cope with Anger</a>
 </p>
 </li>
 <li>
@@ -95,10 +105,7 @@ Coming Soon!</p>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF79" rel="noopener noreferrer nofollow" target="_blank">Youth Work: Introduction to an Evidence-Based Approach</a>
 </p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF305" rel="noopener noreferrer nofollow" target="_blank">WSQ Mentoring and Coaching Youths Effectively</a>
-</p>
+<p></p>
 </li>
 </ul>
 <p>View our full list of <a href="https://iltms.ssi.gov.sg/Registration/Course" rel="noopener noreferrer nofollow" target="_blank">Children, Youth and Family courses</a>.</p>
