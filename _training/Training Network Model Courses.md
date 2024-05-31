@@ -32,7 +32,7 @@ the sector.</p>
 </ul>
 <p>All courses listed here are offered by the 7 selected SSA partners onboard
 TNM 2.0.</p>
-<h3><strong>Children &amp; Youth Courses</strong></h3>
+<h4><strong>Children &amp; Youth Courses</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -229,7 +229,7 @@ to a multimodal management of ADHD.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Disability Courses</strong></h3>
+<h4><strong>Disability Courses</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -473,7 +473,7 @@ with persons with disabilities.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Eldercare Courses</strong></h3>
+<h4><strong>Eldercare Courses</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -603,7 +603,7 @@ motivation of employees and conflict management.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Family Courses</strong></h3>
+<h4><strong>Family Courses</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -669,7 +669,7 @@ members, thereby strengthen the relationships in the family.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Mental Health &amp; Wellness Courses</strong></h3>
+<h4><strong>Mental Health &amp; Wellness Courses</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -778,7 +778,7 @@ the grief and healing journey of suicide survivors.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Research &amp; Programme Evaluation Courses</strong></h3>
+<h4><strong>Research &amp; Programme Evaluation Courses</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -868,7 +868,7 @@ professional research.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Cross Sector Courses</strong></h3>
+<h4><strong>Cross Sector Courses</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -997,7 +997,7 @@ and counselling to have a more complete understanding in counselling.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Volunteer Management Courses</strong></h3>
+<h4><strong>Volunteer Management Courses</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
