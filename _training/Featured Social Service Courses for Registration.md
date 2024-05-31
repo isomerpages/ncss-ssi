@@ -31,87 +31,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Continuing Education &amp; Training (CET) Courses" src="/images/training/cet-v2.png">
 </div>
-<h3>Coming Soon!</h3>
-<p>
-<br><a href="https://www.ssi.gov.sg/training/cet-programmes/" rel="noopener noreferrer nofollow" target="\_blank">View other CET courses</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT6014" rel="noopener noreferrer nofollow" target="_blank">Teambuilding and Leadership Development</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Counselling, Motivational Interviewing &amp; Behaviour Therapy Courses" src="/images/training/cross-sector-v2.png">
-</div>
-<p></p>
-<h3>Case Management in Practice: Introduction</h3>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5228" rel="noopener noreferrer nofollow" target="_blank">Register by 8 Aug 2024</a> 
-<br>
-<br><a href="https://www.ssi.gov.sg/training/cross-sector/" rel="noopener noreferrer nofollow" target="\_blank">View other Cross Sector courses</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Children &amp; Youth Development, Family Therapy / Family Violence Courses: Equip volunteers with skills to work with children, youth and families." src="/images/training/cyf-v2.png">
-</div>
-<h3>Family Therapy: Intermediate</h3>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5879" rel="noopener noreferrer nofollow" target="_blank">Register by 17 Jul 2024</a>
-</p>
-<p></p>
-<p><a href="https://www.ssi.gov.sg/training/cyandf/" rel="noopener noreferrer nofollow" target="\_blank">View other Children, Youth and Family courses</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Disability Care / Special Needs Courses" src="/images/training/disability-v2.png">
-</div>
-<h3>Coming Soon!</h3>
-<p></p>
-<p><a href="https://www.ssi.gov.sg/training/disability/" rel="noopener noreferrer nofollow" target="\_blank">View other Disability courses</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mental Health Conditions &amp; Recovery Courses" src="/images/training/mental-health-v2.png">
-</div>
-<h3>Coming Soon!</h3>
-<p></p>
-<p><a href="https://www.ssi.gov.sg/training/mental-health" rel="noopener noreferrer nofollow" target="\_blank">View other Mental Health courses</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Caring and communicating with dementia and senior persons courses" src="/images/training/eldercare-v2.png">
-</div>
-<h3>Coming Soon!</h3>
-<p></p>
-<p><a href="https://www.ssi.gov.sg/training/eldercare/" rel="noopener noreferrer nofollow" target="\_blank">View other Eldercare courses</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Board Development Courses" src="/images/training/board-v2.png">
-</div>
-<h3>Coming Soon!<br></h3>
-<p><a href="https://www.ssi.gov.sg/training/board-development/" rel="noopener noreferrer nofollow" target="\_blank">View all Board Development courses</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Social Service / Nonprofit Leadership and Management Training Course" src="/images/training/mod-v2.png">
-</div>
-<h3>Coming Soon!</h3>
+<p>Register by 18 August 2024</p>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/" rel="noopener noreferrer nofollow" target="\_blank">View other Management and Organisation Development courses</a>
 </p>
@@ -148,7 +70,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TNM 2.0, an initiative brought to you by SSI" src="/images/training/tnm-banner.png">
 </div>
-<h3>Coming Soon!</h3>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0012" rel="noopener noreferrer nofollow" target="_blank">A Spotlight on Dementia</a> - <em>TGS-2023019206</em>
+</p>
+<p>Register by 17 September 2024
+<br>
+</p>
 <p><a href="https://www.ssi.gov.sg/training/tnm-courses/" rel="noopener noreferrer nofollow" target="\_blank">View all TNM 2.0 courses</a>
 </p>
 </td>
