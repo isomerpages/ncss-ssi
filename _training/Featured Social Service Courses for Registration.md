@@ -31,13 +31,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Continuing Education &amp; Training (CET) Courses" src="/images/training/cet-v2.png">
 </div>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT6014" rel="noopener noreferrer nofollow" target="_blank">Teambuilding and Leadership Development</a>
-<br>Register by 18 August 2024</p>
-</li>
-</ul>
-<p></p>
+<h4>Teambuilding and Leadership Development</h4>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT6014" rel="noopener noreferrer nofollow" target="_blank">Register by 18 August 2024</a>
+<br>
+</p>
 <p><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/" rel="noopener noreferrer nofollow" target="\_blank">View other Management and Organisation Development courses</a>
 </p>
 </td>
