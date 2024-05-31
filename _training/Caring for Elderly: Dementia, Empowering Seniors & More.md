@@ -8,8 +8,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Caring and communicating with dementia and senior persons courses" src="/images/eldercare-banner.png">
 </div>
-<h2><strong>Eldercare Training Courses offered by SSI</strong></h2>
-<h3><strong>Coming Soon!</strong></h3>
+<h3><strong>Eldercare Training Courses offered by SSI</strong></h3>
+<h4><strong>Coming Soon!</strong></h4>
 <p>Subscribe to our <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">Mailing List</a> for
 latest updates.</p>
 <h3><strong>Other featured courses in Eldercare, Communication and Counselling</strong></h3>
@@ -48,7 +48,7 @@ latest updates.</p>
 </li>
 </ul>
 <p>View the <a href="https://iltms.ssi.gov.sg/registration/#/Course" rel="noopener noreferrer nofollow" target="_blank">full list of SSI's Eldercare courses</a>.</p>
-<h5>Complimentary Featured Course Under the Agency for Integrated Care (AIC)</h5>
+<h3><strong>Complimentary Featured Course Under the Agency for Integrated Care (AIC)</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://for.sg/understand-dementia-2023" rel="noopener noreferrer nofollow" target="_blank">Understanding Dementia</a>
