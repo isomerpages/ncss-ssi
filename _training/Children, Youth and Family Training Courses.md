@@ -35,6 +35,11 @@ variant: tiptap
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5340" rel="noopener noreferrer nofollow" target="_blank">Delivering Impactful Training to Youths </a>- <em>TGS-2020500657 </em>
 <br>Register by 14 August 2024</p>
 </li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5583" rel="noopener noreferrer nofollow" target="_blank">Management of Family Violence: Working with Couples in Violent Relationships </a>
+</p>
+<p>Register by 18 September 2024</p>
+</li>
 </ul>
 <h3><strong>Complimentary e-Learning Courses</strong></h3>
 <ul data-tight="true" class="tight">
