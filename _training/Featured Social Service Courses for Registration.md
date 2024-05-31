@@ -42,6 +42,32 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Counselling, Motivational Interviewing &amp; Behaviour Therapy Courses" src="https://www.ssi.gov.sg/images/training/cross-sector-v2.png">
+</div>
+<p></p>
+<h3>Case Management in Practice: Introduction</h3>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5228" rel="noopener noreferrer nofollow" target="_blank"><u>Register by 8 Aug 2024</u></a>
+<br>
+<br><a href="https://www.ssi.gov.sg/training/cross-sector/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Cross Sector courses</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Children &amp; Youth Development, Family Therapy / Family Violence Courses: Equip volunteers with skills to work with children, youth and families." src="https://www.ssi.gov.sg/images/training/cyf-v2.png">
+</div>
+<h3>Family Therapy: Intermediate</h3>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5879" rel="noopener noreferrer nofollow" target="_blank"><u>Register by 17 Jul 2024</u></a>
+</p>
+<p></p>
+<p><a href="https://www.ssi.gov.sg/training/cyandf/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Children, Youth and Family courses</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Equip volunteers with knowledge, develop volunteer management capabilities" src="/images/training/volunteer-v2.png">
 </div>
 <h4>Volunteer Management Practices: Connect, Engage, Develop</h4>
@@ -49,6 +75,60 @@ variant: tiptap
 </p>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" rel="noopener noreferrer nofollow" target="\_blank">View other Volunteering Management and Development courses</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Disability Care / Special Needs Courses" src="https://www.ssi.gov.sg/images/training/disability-v2.png">
+</div>
+<h3>Coming Soon!</h3>
+<p></p>
+<p><a href="https://www.ssi.gov.sg/training/disability/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Disability courses</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Mental Health Conditions &amp; Recovery Courses" src="https://www.ssi.gov.sg/images/training/mental-health-v2.png">
+</div>
+<h3>Coming Soon!</h3>
+<p></p>
+<p><a href="https://www.ssi.gov.sg/training/mental-health" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Mental Health courses</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Caring and communicating with dementia and senior persons courses" src="https://www.ssi.gov.sg/images/training/eldercare-v2.png">
+</div>
+<h3>Coming Soon!</h3>
+<p></p>
+<p><a href="https://www.ssi.gov.sg/training/eldercare/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Eldercare courses</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Board Development Courses" src="https://www.ssi.gov.sg/images/training/board-v2.png">
+</div>
+<h3>Coming Soon!</h3>
+<p><a href="https://www.ssi.gov.sg/training/board-development/" rel="noopener noreferrer nofollow" target="\_blank"><u>View all Board Development courses</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Social Service / Nonprofit Leadership and Management Training Course" src="https://www.ssi.gov.sg/images/training/mod-v2.png">
+</div>
+<h3>Coming Soon!</h3>
+<p></p>
+<p><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Management and Organisation Development courses</u></a>
 </p>
 </td>
 </tr>
