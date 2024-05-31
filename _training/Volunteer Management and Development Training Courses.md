@@ -30,9 +30,6 @@ variant: tiptap
 <h4>Volunteer Management Training Courses</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NVOL5809" rel="noopener noreferrer nofollow" target="_blank">Design and Develop an Effective Volunteer Work Programme</a>
 </p>
 </li>
@@ -99,7 +96,8 @@ users. It shows potential development pathways and learning opportunities
 as VMPs plan towards the longer-term goal of serving and growing with the
 sector. Besides VMPs, SSAs’ management and human resource practitioners
 may also use the LDR as a guide to recruit and develop their VMPs.</p>
-<p><strong>Click on below image to download the LDR publication:</strong> {:target="_blank"}</p>
+<p><strong>Click on below image to download the LDR publication</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A comment about Learning  Development Roadmap by CEO of PPIS, Ms Tuminah Supawi, &quot;This guide is useful for supervisors and HR professionals from social service agencies, who plan and conduct learning and development conversations with volunteer management practitioners (VMP).&quot;" src="/images/training/volunteer/l_d%20quote%20banner_02.jpg">
 </div>
