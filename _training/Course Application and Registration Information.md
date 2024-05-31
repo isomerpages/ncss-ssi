@@ -47,5 +47,5 @@ us yet, signup for login ID and password. You also may refer to the client
 <p>The estimated processing time for both individual and organisation course
 applications are the same. The course registration will close 5-8 weeks
 before the course start date.</p>
-<h3>View all Social Service Institute Courses</h3>
+<h4><strong>View all Social Service Institute Courses</strong></h4>
 <p>To view the full suite of <a href="https://iltms.ssi.gov.sg/registration#/Course" rel="noopener noreferrer nofollow" target="_blank">courses offered by the Social Service Institute</a>.</p>
