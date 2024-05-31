@@ -31,10 +31,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Continuing Education &amp; Training (CET) Courses" src="/images/training/cet-v2.png">
 </div>
-<h4>Teambuilding and Leadership Development</h4>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT6014" rel="noopener noreferrer nofollow" target="_blank">Register by 18 August 2024</a>
-<br>
-</p>
+<h4>Coming Soon!<br></h4>
 <p><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/" rel="noopener noreferrer nofollow" target="\_blank">View other Management and Organisation Development courses</a>
 </p>
 </td>
@@ -117,7 +114,7 @@ variant: tiptap
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Social Service / Nonprofit Leadership and Management Training Course" src="https://www.ssi.gov.sg/images/training/mod-v2.png">
 </div>
 <h4>Teambuilding and leadership Development for NPO Leaders</h4>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT6014" rel="noopener noreferrer nofollow" target="_blank">Register by 8 August 2024</a>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT6014" rel="noopener noreferrer nofollow" target="_blank">Register by 1 August 2024</a>
 </p>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Management and Organisation Development courses</u></a>
