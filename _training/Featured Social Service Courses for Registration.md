@@ -44,9 +44,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Equip volunteers with knowledge, develop volunteer management capabilities" src="/images/training/volunteer-v2.png">
 </div>
-<h3>Befriending 101 (for Volunteers)</h3>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0035" rel="noopener noreferrer nofollow" target="\_blank">Registration is open throughout the year</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SVLD313" rel="noopener noreferrer nofollow" target="_blank">Volunteer Management Practices: Connect, Engage, Develop</a>
 </p>
+<p>Register by 25 July 2024</p>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" rel="noopener noreferrer nofollow" target="\_blank">View other Volunteering Management and Development courses</a>
 </p>
@@ -57,10 +57,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Caregiver Training Courses" src="/images/training/caregiving-v2.png">
 </div>
-<h3>Preparatory Caregiver Training Programme</h3>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0002" rel="noopener noreferrer nofollow" target="\_blank">Registration is open throughout the year</a> 
-<br>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0002" rel="noopener noreferrer nofollow" target="_blank">Preparatory Caregiver Training Programme</a>
 </p>
+<p>Registration is open throughout the year</p>
+<p></p>
 <p><a href="https://www.ssi.gov.sg/training/caregiving/" rel="noopener noreferrer nofollow" target="\_blank">View all Caregiving courses</a>
 </p>
 </td>
