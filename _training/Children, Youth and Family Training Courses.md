@@ -8,7 +8,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Children  Youth Development, Family Therapy / Family Violence Courses: Equip volunteers with skills to work with children, youth and families." src="/images/cyf-banner.png">
 </div>
-<h2><strong>Children, Youth and Family Courses offered by SSI</strong></h2>
+<h3><strong>Children, Youth and Family Courses offered by SSI</strong></h3>
+<h4><strong>Registration now open</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5879" rel="noopener noreferrer nofollow" target="_blank">Family Therapy: Intermediate</a> 
@@ -28,20 +29,18 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5938" rel="noopener noreferrer nofollow" target="_blank">Management of Family Violence: Supporting Clients in Their Trauma Recovery (Synchronous e-learning)</a> - <em>TGS-2020500752</em>
-</p>
-<p>Register by 13 August 2024</p>
+<br>Register by 13 August 2024</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5340" rel="noopener noreferrer nofollow" target="_blank">Delivering Impactful Training to Youths </a>- <em>TGS-2020500657 </em>
 <br>Register by 14 August 2024</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5583" rel="noopener noreferrer nofollow" target="_blank">Management of Family Violence: Working with Couples in Violent Relationships </a>
-</p>
-<p>Register by 18 September 2024</p>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5583" rel="noopener noreferrer nofollow" target="_blank">Management of Family Violence: Working with Couples in Violent Relationships</a>
+<br>Register by 18 September 2024</p>
 </li>
 </ul>
-<h3><strong>Complimentary e-Learning Courses</strong></h3>
+<h4><strong>Complimentary e-Learning Courses</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF434" rel="noopener noreferrer nofollow" target="_blank">Child Abuse Reporting Guide (CARG) - E-Learning</a>
