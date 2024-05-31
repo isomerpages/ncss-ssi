@@ -45,7 +45,7 @@ variant: tiptap
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Counselling, Motivational Interviewing &amp; Behaviour Therapy Courses" src="https://www.ssi.gov.sg/images/training/cross-sector-v2.png">
 </div>
 <p></p>
-<h3>Case Management in Practice: Introduction</h3>
+<h4>Case Management in Practice: Introduction</h4>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5228" rel="noopener noreferrer nofollow" target="_blank"><u>Register by 8 Aug 2024</u></a>
 <br>
 <br><a href="https://www.ssi.gov.sg/training/cross-sector/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Cross Sector courses</u></a>
@@ -57,7 +57,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Children &amp; Youth Development, Family Therapy / Family Violence Courses: Equip volunteers with skills to work with children, youth and families." src="https://www.ssi.gov.sg/images/training/cyf-v2.png">
 </div>
-<h3>Management of Family Violence: Working with Couples in Violent Relationships</h3>
+<h4>Management of Family Violence: Working with Couples in Violent Relationships</h4>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5583" rel="noopener noreferrer nofollow" target="_blank">Register by 18 September 2024</a>
 </p>
 <p></p>
