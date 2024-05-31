@@ -116,7 +116,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Social Service / Nonprofit Leadership and Management Training Course" src="https://www.ssi.gov.sg/images/training/mod-v2.png">
 </div>
-<h4>Teambuilding and leadership Development for NPO Leaders </h4>
+<h4>Teambuilding and leadership Development for NPO Leaders</h4>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT6014" rel="noopener noreferrer nofollow" target="_blank">Register by 8 August 2024</a>
 </p>
 <p></p>
@@ -157,7 +157,7 @@ variant: tiptap
 </div>
 <h4>A Spotlight on Dementia</h4>
 <p>TGS-2023019206
-<br><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0012" rel="noopener noreferrer nofollow" target="_blank">Register by 17 September 2024 </a>
+<br><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0012" rel="noopener noreferrer nofollow" target="_blank">Register by 17 September 2024</a>
 </p>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/tnm-courses/" rel="noopener noreferrer nofollow" target="\_blank">View all TNM 2.0 courses</a>
