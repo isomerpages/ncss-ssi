@@ -8,10 +8,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Disability Care / Special Needs Courses" src="/images/disability-banner.png">
 </div>
-<h2><strong>Disability Training Courses offered by SSI</strong></h2>
+<h3><strong>Disability Training Courses offered by SSI</strong></h3>
+<h4><strong>Registration now open</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS211" rel="noopener noreferrer nofollow" target="_blank">Independent Travel Training for Professionals Supporting Persons with Disabilities </a> -
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS211" rel="noopener noreferrer nofollow" target="_blank">Independent Travel Training for Professionals Supporting Persons with Disabilities </a>-
 TGS-2020502149
 <br>Register by 22 July 2024</p>
 </li>
@@ -41,7 +42,7 @@ TGS-2022013917
 </p>
 </li>
 </ul>
-<h3><strong>Certificate/ Diploma/ Degree Programmes</strong></h3>
+<h4><strong>Certificate/ Diploma/ Degree Programmes</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/training/cet-programmes/advance-certificate-in-supported-employment/" rel="noopener noreferrer nofollow" target="_blank">Advanced Certificate in Supported Employment (ACSE)</a> 
@@ -85,5 +86,5 @@ challenges; persons with disabilities; challenging social situations such
 as extreme poverty; geriatric issues as well as crisis and traumatic situations
 such as family violence, suicide, sexual assault and refugees seeking asylum.</p>
 <h4><strong>Subscribe and Stay Connected!</strong></h4>
-<p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI's Disability Mailing List</a> for
-latest updates!</p>
+<p>Subscribe to SSI's Disability Mailing List for latest updates!</p>
+<p></p>
