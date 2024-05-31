@@ -21,7 +21,7 @@ variant: tiptap
 <h3>Course Schedule &amp; Registration Dates</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/training courses/SSI_Monthly_Featured_Courses_27_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Registration period: July to September 2024</a>
+<p><a href="/files/training courses/SSI_Monthly_Featured_Courses_27_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Registration period: July to October 2024</a>
 </p>
 </li>
 </ul>
