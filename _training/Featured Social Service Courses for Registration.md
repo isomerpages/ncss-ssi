@@ -68,19 +68,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Equip volunteers with knowledge, develop volunteer management capabilities" src="/images/training/volunteer-v2.png">
-</div>
-<h4>Volunteer Management Practices: Connect, Engage, Develop</h4>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SVLD313" rel="noopener noreferrer nofollow" target="_blank">Register by 25 July 2024</a>
-</p>
-<p></p>
-<p><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" rel="noopener noreferrer nofollow" target="\_blank">View other Volunteering Management and Development courses</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Disability Care / Special Needs Courses" src="https://www.ssi.gov.sg/images/training/disability-v2.png">
 </div>
 <h3>Coming Soon!</h3>
@@ -129,6 +116,19 @@ variant: tiptap
 <h3>Coming Soon!</h3>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Management and Organisation Development courses</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Equip volunteers with knowledge, develop volunteer management capabilities" src="/images/training/volunteer-v2.png">
+</div>
+<h4>Volunteer Management Practices: Connect, Engage, Develop</h4>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SVLD313" rel="noopener noreferrer nofollow" target="_blank">Register by 25 July 2024</a>
+</p>
+<p></p>
+<p><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" rel="noopener noreferrer nofollow" target="\_blank">View other Volunteering Management and Development courses</a>
 </p>
 </td>
 </tr>
