@@ -26,7 +26,7 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT6014" rel="noopener noreferrer nofollow" target="_blank">Teambuilding and leadership Development for NPO Leaders</a>
-<br>Register by 8 August 2024
+<br>Register by 1 August 2024
 <br>
 <br>Subscribe to our <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">Mailing List</a> for
 latest updates.</p>
