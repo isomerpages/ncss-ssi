@@ -6,15 +6,40 @@ description: SSI's Training Network Model 2.0 (TNM 2.0) courses provide social
   professionals.
 variant: tiptap
 ---
-<h2><strong>Training Network Model Courses</strong></h2>
+<h2><strong>Training Network Model Courses offered by SSI</strong></h2>
 <p><a href="https://www.ssi.gov.sg/about-us/tnm" rel="noopener noreferrer nofollow" target="_blank">TNM 2.0</a> aims
 to transform 7 selected SSAs to become Centres of Excellence. These SSA
 partners were selected based on specific criteria to offer training to
 the sector.</p>
 <p>All courses listed here are offered by the 7 selected SSA partners onboard
 TNM 2.0.</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0103" rel="noopener noreferrer nofollow" target="_blank">Basic Therapeutic Skills</a> - <em>TGS-2023036063 </em>
+<br>Register by 25 Jul 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0032" rel="noopener noreferrer nofollow" target="_blank">Executive Function Skills for Children with SEN</a> - <em>TGS-2023019843</em>
+<br>Register by 30 August 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0077" rel="noopener noreferrer nofollow" target="_blank">Applying Theory of Change and Logic Model in Programme Planning</a> - <em>TGS-2023019733</em>
+<br>Register by 4 September 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0012" rel="noopener noreferrer nofollow" target="_blank">A Spotlight on Dementia</a> -<em> TGS-2023019206</em>
+<br>Register by 17 September 2024</p>
+</li>
+</ul>
+<p></p>
 <h3><strong>Children &amp; Youth Courses</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -205,7 +230,12 @@ to a multimodal management of ADHD.</p>
 </tbody>
 </table>
 <h3><strong>Disability Courses</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -444,7 +474,12 @@ with persons with disabilities.</p>
 </tbody>
 </table>
 <h3><strong>Eldercare Courses</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -568,7 +603,12 @@ motivation of employees and conflict management.</p>
 </tbody>
 </table>
 <h3><strong>Family Courses</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -629,7 +669,12 @@ members, thereby strengthen the relationships in the family.</p>
 </tbody>
 </table>
 <h3><strong>Mental Health &amp; Wellness Courses</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -733,7 +778,12 @@ the grief and healing journey of suicide survivors.</p>
 </tbody>
 </table>
 <h3><strong>Research &amp; Programme Evaluation Courses</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -817,7 +867,12 @@ professional research.</p>
 </tbody>
 </table>
 <h3><strong>Cross Sector Courses</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -940,7 +995,12 @@ and counselling to have a more complete understanding in counselling.</p>
 </tbody>
 </table>
 <h3><strong>Volunteer Management Courses</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
