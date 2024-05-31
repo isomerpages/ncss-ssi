@@ -11,9 +11,7 @@ variant: tiptap
 to transform 7 selected SSAs to become Centres of Excellence. These SSA
 partners were selected based on specific criteria to offer training to
 the sector.</p>
-<p>All courses listed here are offered by the 7 selected SSA partners onboard
-TNM 2.0.</p>
-<p></p>
+<h4><strong>Registration now open</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0103" rel="noopener noreferrer nofollow" target="_blank">Basic Therapeutic Skills</a> - <em>TGS-2023036063 </em>
@@ -32,7 +30,8 @@ TNM 2.0.</p>
 <br>Register by 17 September 2024</p>
 </li>
 </ul>
-<p></p>
+<p>All courses listed here are offered by the 7 selected SSA partners onboard
+TNM 2.0.</p>
 <h3><strong>Children &amp; Youth Courses</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -69,7 +68,8 @@ and instruction.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0032" rel="noopener noreferrer nofollow" target="_blank">Executive Function Skills for Children with SEN (Classroom, Synchronous &amp; Asynchronous E-learning)</a></strong>
+<p><strong><em><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0032" rel="noopener noreferrer nofollow" target="_blank">Executive Function Skills for Children with SEN (Classroom, Synchronous &amp; Asynchronous E-learning)</a></em></strong>
+<br><em>TGS-2023019843</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -495,6 +495,7 @@ with persons with disabilities.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0012" rel="noopener noreferrer nofollow" target="_blank">A Spotlight on Dementia (Classroom and Asynchronous E-learning)</a></strong>
+<br><em>TGS-2023019206</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -799,6 +800,7 @@ the grief and healing journey of suicide survivors.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0077" rel="noopener noreferrer nofollow" target="_blank">Applying Theory of Change and Logic Model in Programme Planning (Classroom and Asynchronous E-learning)</a></strong>
+<br><em>TGS-2023019733</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -887,7 +889,8 @@ professional research.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0103" rel="noopener noreferrer nofollow" target="_blank">Basic Therapeutic Skills (Classroom and Asynchronous)</a></strong>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0103" rel="noopener noreferrer nofollow" target="_blank">Basic Therapeutic Skills (Classroom and Asynchronous) </a></strong>
+<br><em>TGS-2023036063</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
