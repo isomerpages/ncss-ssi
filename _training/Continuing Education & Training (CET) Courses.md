@@ -11,7 +11,7 @@ variant: tiptap
 </div>
 <p>SSI offers a suite of Continuing Education and Training (CET) programmes
 which provide learners with certificate, diploma and degree based qualifications.</p>
-<h2><strong>CET Programmes offered by SSI</strong></h2>
+<h3><strong>CET Programmes offered by SSI</strong></h3>
 <ul>
 <li>
 <p><a href="/training/cet-programmes/advanced-certificate-in-social-service/" rel="noopener noreferrer nofollow" target="_blank">Advanced Certificate in Social Service</a><sup>1</sup> 

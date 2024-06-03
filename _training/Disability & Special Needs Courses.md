@@ -8,16 +8,24 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Disability Care / Special Needs Courses" src="/images/disability-banner.png">
 </div>
-<h2><strong>Disability Training Courses offered by SSI</strong></h2>
-<h3>Coming Soon!</h3>
+<h3><strong>Disability Training Courses offered by SSI</strong></h3>
+<h4><strong>Registration now open</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS211" rel="noopener noreferrer nofollow" target="_blank">Independent Travel Training for Professionals Supporting Persons with Disabilities </a>-
+TGS-2020502149
+<br>Register by 22 July 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS84" rel="noopener noreferrer nofollow" target="_blank">Guide the implementation of improved approaches in Early Intervention Teaching</a> -
+TGS-2022013917
+<br>Register by 8 August 2024</p>
+</li>
+</ul>
 <p><a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe to our Mailing List for latest updates.</u></a>
 </p>
 <h3><strong>Other Featured Short Courses in Early Childhood Interventions and Managing Disabilities</strong></h3>
 <ul data-tight="true" class="tight">
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS211" rel="noopener noreferrer nofollow" target="_blank">Independent Travel Training for Professionals Supporting Persons with Disabilities</a>
-</p>
-</li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS251" rel="noopener noreferrer nofollow" target="_blank">Use of Client-Assessment Form (CAF-R) for Adult Disability Services</a>
 </p>
@@ -34,7 +42,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h3><strong>Certificate/ Diploma/ Degree Programmes</strong></h3>
+<h4><strong>Certificate/ Diploma/ Degree Programmes</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/training/cet-programmes/advance-certificate-in-supported-employment/" rel="noopener noreferrer nofollow" target="_blank">Advanced Certificate in Supported Employment (ACSE)</a> 
@@ -78,5 +86,5 @@ challenges; persons with disabilities; challenging social situations such
 as extreme poverty; geriatric issues as well as crisis and traumatic situations
 such as family violence, suicide, sexual assault and refugees seeking asylum.</p>
 <h4><strong>Subscribe and Stay Connected!</strong></h4>
-<p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI's Disability Mailing List</a> for
-latest updates!</p>
+<p>Subscribe to SSI's Disability Mailing List for latest updates!</p>
+<p></p>

@@ -6,15 +6,39 @@ description: SSI's Training Network Model 2.0 (TNM 2.0) courses provide social
   professionals.
 variant: tiptap
 ---
-<h2><strong>Training Network Model Courses</strong></h2>
+<h2><strong>Training Network Model Courses offered by SSI</strong></h2>
 <p><a href="https://www.ssi.gov.sg/about-us/tnm" rel="noopener noreferrer nofollow" target="_blank">TNM 2.0</a> aims
 to transform 7 selected SSAs to become Centres of Excellence. These SSA
 partners were selected based on specific criteria to offer training to
 the sector.</p>
+<h4><strong>Registration now open</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0103" rel="noopener noreferrer nofollow" target="_blank">Basic Therapeutic Skills</a> - <em>TGS-2023036063 </em>
+<br>Register by 25 Jul 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0032" rel="noopener noreferrer nofollow" target="_blank">Executive Function Skills for Children with SEN</a> - <em>TGS-2023019843</em>
+<br>Register by 30 August 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0077" rel="noopener noreferrer nofollow" target="_blank">Applying Theory of Change and Logic Model in Programme Planning</a> - <em>TGS-2023019733</em>
+<br>Register by 4 September 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0012" rel="noopener noreferrer nofollow" target="_blank">A Spotlight on Dementia</a> -<em> TGS-2023019206</em>
+<br>Register by 12 September 2024</p>
+</li>
+</ul>
 <p>All courses listed here are offered by the 7 selected SSA partners onboard
 TNM 2.0.</p>
-<h3><strong>Children &amp; Youth Courses</strong></h3>
-<table>
+<h4><strong>Children &amp; Youth Courses</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -44,7 +68,8 @@ and instruction.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0032" rel="noopener noreferrer nofollow" target="_blank">Executive Function Skills for Children with SEN (Classroom, Synchronous &amp; Asynchronous E-learning)</a></strong>
+<p><strong><em><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0032" rel="noopener noreferrer nofollow" target="_blank">Executive Function Skills for Children with SEN (Classroom, Synchronous &amp; Asynchronous E-learning)</a></em></strong>
+<br><em>TGS-2023019843</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -204,8 +229,13 @@ to a multimodal management of ADHD.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Disability Courses</strong></h3>
-<table>
+<h4><strong>Disability Courses</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -443,8 +473,13 @@ with persons with disabilities.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Eldercare Courses</strong></h3>
-<table>
+<h4><strong>Eldercare Courses</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -460,6 +495,7 @@ with persons with disabilities.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0012" rel="noopener noreferrer nofollow" target="_blank">A Spotlight on Dementia (Classroom and Asynchronous E-learning)</a></strong>
+<br><em>TGS-2023019206</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -567,8 +603,13 @@ motivation of employees and conflict management.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Family Courses</strong></h3>
-<table>
+<h4><strong>Family Courses</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -628,8 +669,13 @@ members, thereby strengthen the relationships in the family.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Mental Health &amp; Wellness Courses</strong></h3>
-<table>
+<h4><strong>Mental Health &amp; Wellness Courses</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -732,8 +778,13 @@ the grief and healing journey of suicide survivors.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Research &amp; Programme Evaluation Courses</strong></h3>
-<table>
+<h4><strong>Research &amp; Programme Evaluation Courses</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -749,6 +800,7 @@ the grief and healing journey of suicide survivors.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0077" rel="noopener noreferrer nofollow" target="_blank">Applying Theory of Change and Logic Model in Programme Planning (Classroom and Asynchronous E-learning)</a></strong>
+<br><em>TGS-2023019733</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -816,8 +868,13 @@ professional research.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Cross Sector Courses</strong></h3>
-<table>
+<h4><strong>Cross Sector Courses</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -832,7 +889,8 @@ professional research.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0103" rel="noopener noreferrer nofollow" target="_blank">Basic Therapeutic Skills (Classroom and Asynchronous)</a></strong>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0103" rel="noopener noreferrer nofollow" target="_blank">Basic Therapeutic Skills (Classroom and Asynchronous) </a></strong>
+<br><em>TGS-2023036063</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -939,8 +997,13 @@ and counselling to have a more complete understanding in counselling.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Volunteer Management Courses</strong></h3>
-<table>
+<h4><strong>Volunteer Management Courses</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

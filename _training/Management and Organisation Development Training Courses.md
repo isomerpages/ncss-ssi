@@ -8,12 +8,30 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Social Service / Nonprofit Leadership and Management Training Course" src="/images/mod-banner.png">
 </div>
-<h2><strong>Management and Organisation Development Training Courses offered by SSI</strong></h2>
-<h3><strong>Registration now open</strong></h3>
+<h3><strong>Management and Organisation Development Training Courses offered by SSI</strong></h3>
+<h4><strong>Registration now open</strong></h4>
 <h4>People Management and Leadership</h4>
-<p>Coming soon!
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.singaporetech.edu.sg/sitlearn/courses/health-social-sciences/introduction-occupational-health-safety-ohs-management-system" rel="noopener noreferrer nofollow" target="_blank">Introduction to Occupational Health and Safety (OH&amp;S) Management System</a> - <em>TGS-2022014111</em>
+<br>Register by 14 July 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFRE5103" rel="noopener noreferrer nofollow" target="_blank">Making $ense I: An Introduction to Fund Raising</a>
+<br>Register by 30 July 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener noreferrer nofollow" target="_blank">Developing Effective Supervisory Skills</a>
+<br>Register by 8 August 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT6014" rel="noopener noreferrer nofollow" target="_blank">Teambuilding and leadership Development for NPO Leaders</a>
+<br>Register by 1 August 2024
+<br>
 <br>Subscribe to our <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">Mailing List</a> for
 latest updates.</p>
+</li>
+</ul>
 <h4>Financial Management</h4>
 <p>Coming soon!
 <br>Subscribe to our <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">Mailing List</a> for
@@ -26,10 +44,6 @@ latest updates.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT5073" rel="noopener noreferrer nofollow" target="_blank">Developing Your Coaching and Mentoring Skills for NPO Managers</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT6014" rel="noopener noreferrer nofollow" target="_blank">Teambuilding and leadership Development for NPO Leaders</a>
 </p>
 </li>
 <li>
@@ -46,10 +60,6 @@ latest updates.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NPEF6032" rel="noopener noreferrer nofollow" target="_blank">Manage Challenging Social Service and NPO Clients</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NFRE5766" rel="noopener noreferrer nofollow" target="_blank">Making $ense I: An Introduction to Fund-Raising</a>
 </p>
 </li>
 <li>

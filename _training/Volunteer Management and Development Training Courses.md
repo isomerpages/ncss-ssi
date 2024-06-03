@@ -7,8 +7,15 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Volunteer Management  Development Courses: Equip volunteers with knowledge, develop volunteer management capabilities" src="/images/volunteer-banner.png">
 </div>
-<h2><strong>Volunteer Management &amp; Development Courses offered by SSI</strong></h2>
-<h3><strong>Registration Open Throughout the Year</strong></h3>
+<h3><strong>Volunteer Management &amp; Development Courses offered by SSI</strong></h3>
+<h4><strong>Registration now open</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD313" rel="noopener noreferrer nofollow" target="_blank">Volunteer Management Practices: Connect, Engage, Develop</a>
+<br>Register by 25 July 2024</p>
+</li>
+</ul>
+<h4><strong>Registration Open Throughout the Year</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0035" rel="noopener noreferrer nofollow" target="_blank">Befriending 101 (For Volunteers)</a> 
@@ -23,10 +30,6 @@ variant: tiptap
 <h4>Volunteer Management Training Courses</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD313" rel="noopener noreferrer nofollow" target="_blank">Volunteer Management Practices: Connect, Engage, Develop</a>
-</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NVOL5809" rel="noopener noreferrer nofollow" target="_blank">Design and Develop an Effective Volunteer Work Programme</a>
 </p>
 </li>
@@ -35,7 +38,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4>Volunteer Development Training Courses</h4>
+<h4><strong>Volunteer Development Training Courses</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD227" rel="noopener noreferrer nofollow" target="_blank">Introduction to Youth Mentoring (For Volunteers)</a>
@@ -93,7 +96,8 @@ users. It shows potential development pathways and learning opportunities
 as VMPs plan towards the longer-term goal of serving and growing with the
 sector. Besides VMPs, SSAs’ management and human resource practitioners
 may also use the LDR as a guide to recruit and develop their VMPs.</p>
-<p><strong>Click on below image to download the LDR publication:</strong> {:target="_blank"}</p>
+<p><strong>Click on below image to download the LDR publication</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A comment about Learning  Development Roadmap by CEO of PPIS, Ms Tuminah Supawi, &quot;This guide is useful for supervisors and HR professionals from social service agencies, who plan and conduct learning and development conversations with volunteer management practitioners (VMP).&quot;" src="/images/training/volunteer/l_d%20quote%20banner_02.jpg">
 </div>
@@ -103,14 +107,14 @@ may also use the LDR as a guide to recruit and develop their VMPs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A comment about Learning  Development Roadmap by president of loving heart multi service centre and volunteer centre, Assoc Prof Teng Su Ching, &quot;Social service sector transformation comes fast and furious. Emerging trends quickly become the current practice especially in social service. volunteer management practitioners (VMP) must be equipped not just with the right skills and knowledge to help guide this transformation, but also with core skills that enable them to take a transdisciplinary view of social service.&quot;" src="/images/training/volunteer/l_d%20quote%20banner_03.jpg">
 </div>
-<h4>LDR Self-assessment Tool</h4>
+<h4><strong>LDR Self-assessment Tool</strong></h4>
 <p>The accompanying Self-assessment Tool (SAT) to the LDR helps VMPs to identify
 their proficiency gaps and relevant training courses (including Social
 Service Institutes’ (SSI) courses), to further strengthen their capabilities
 so as to perform effectively in their roles.</p>
 <p>Complete the <a href="https://go.gov.sg/ncssvro-ldrsat" rel="noopener noreferrer nofollow" target="_blank">Digital Self-Assessment Tool</a> and
 receive a personalised report!</p>
-<h4>NCSS Volunteer Management Community</h4>
+<h4><strong>NCSS Volunteer Management Community</strong></h4>
 <p><a href="https://go.gov.sg/ncssvro-vmcommunity" rel="noopener noreferrer nofollow" target="_blank">Register to be a part of the community</a> and
 be the first to receive updates on Volunteer Management related news and
 initiatives!</p>
