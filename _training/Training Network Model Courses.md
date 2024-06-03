@@ -633,7 +633,7 @@ and skills in managing conflictual couples during a session and stabilising
 their marital relationships.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://ahd.com.sg/training-network-model-courses" rel="noopener noreferrer nofollow" target="_blank">Academy of Human Development Pte Ltd</a>
+<p><a href="https://www.ahd.com.sg" rel="noopener noreferrer nofollow" target="_blank">Academy of Human Development Pte Ltd</a>
 </p>
 </td>
 </tr>
@@ -648,7 +648,7 @@ the dynamics of intimate partner violence and skills competency on how
 to engage and empower the victims to bring about changes.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ahd.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Academy of Human Development Pte Ltd</a>
+<p><a href="https://www.ahd.com.sg" rel="noopener noreferrer nofollow" target="_blank">Academy of Human Development Pte Ltd</a>
 </p>
 </td>
 </tr>
@@ -663,7 +663,7 @@ with that, lead them to have better communication and connection with family
 members, thereby strengthen the relationships in the family.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://ahd.com.sg/training-network-model-courses" rel="noopener noreferrer nofollow" target="_blank">Academy of Human Development Pte Ltd</a>
+<p><a href="https://www.ahd.com.sg" rel="noopener noreferrer nofollow" target="_blank">Academy of Human Development Pte Ltd</a>
 </p>
 </td>
 </tr>
@@ -825,7 +825,7 @@ theory of change and logic model which are transferable and scalable to
 any social programme development and evaluation.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ahd.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Academy of Human Development Pte Ltd</a>
+<p><a href="https://www.ahd.com.sg" rel="noopener noreferrer nofollow" target="_blank">Academy of Human Development Pte Ltd</a>
 </p>
 </td>
 </tr>
@@ -843,7 +843,7 @@ syntheses, needs assessments, pre-programme/service problem assessment
 and post-programme/service evaluation.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ahd.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Academy of Human Development Pte Ltd</a>
+<p><a href="https://www.ahd.com.sg" rel="noopener noreferrer nofollow" target="_blank">Academy of Human Development Pte Ltd</a>
 </p>
 </td>
 </tr>
@@ -976,7 +976,7 @@ well-being of adolescents with ID.</p>
 solution focused brief therapy practices.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ahd.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Academy of Human Development Pte Ltd</a>
+<p><a href="https://www.ahd.com.sg" rel="noopener noreferrer nofollow" target="_blank">Academy of Human Development Pte Ltd</a>
 </p>
 </td>
 </tr>
@@ -991,7 +991,7 @@ themselves with concepts and skills pertaining to effective interviews
 and counselling to have a more complete understanding in counselling.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ahd.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Academy of Human Development Pte Ltd</a>
+<p><a href="https://www.ahd.com.sg" rel="noopener noreferrer nofollow" target="_blank">Academy of Human Development Pte Ltd</a>
 </p>
 </td>
 </tr>
