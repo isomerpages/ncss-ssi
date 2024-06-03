@@ -27,7 +27,7 @@ the sector.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0012" rel="noopener noreferrer nofollow" target="_blank">A Spotlight on Dementia</a> -<em> TGS-2023019206</em>
-<br>Register by 17 September 2024</p>
+<br>Register by 12 September 2024</p>
 </li>
 </ul>
 <p>All courses listed here are offered by the 7 selected SSA partners onboard
