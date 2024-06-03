@@ -21,8 +21,8 @@ variant: tiptap
 <br>Register by 30 July 2024</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT6014" rel="noopener noreferrer nofollow" target="_blank">Developing Effective Supervisory Skills</a>
-<br>Register by 1 August 2024</p>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener noreferrer nofollow" target="_blank">Developing Effective Supervisory Skills</a>
+<br>Register by 8 August 2024</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT6014" rel="noopener noreferrer nofollow" target="_blank">Teambuilding and leadership Development for NPO Leaders</a>
