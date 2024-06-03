@@ -154,7 +154,7 @@ variant: tiptap
 </div>
 <h4>A Spotlight on Dementia</h4>
 <p>TGS-2023019206
-<br><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0012" rel="noopener noreferrer nofollow" target="_blank">Register by 17 September 2024</a>
+<br><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0012" rel="noopener noreferrer nofollow" target="_blank">Register by 12 September 2024</a>
 </p>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/tnm-courses/" rel="noopener noreferrer nofollow" target="\_blank">View all TNM 2.0 courses</a>
