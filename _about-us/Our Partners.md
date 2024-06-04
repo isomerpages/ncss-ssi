@@ -93,7 +93,7 @@ of innovative solutions.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.ssg-wsg.gov.sg/about.html" rel="noopener noreferrer nofollow" target="_blank">Workforce Singapore</a>
+<p><a href="Workforce Singapore" rel="noopener noreferrer nofollow" target="_blank">Workforce Singapore</a>
 </p>
 </li>
 <li>
@@ -118,7 +118,11 @@ feedback pool with SSI.</p>
 with your documents (CV and credentials).</p>
 <p>Our annual recruitment drive for AEs will open for 2 windows; in <strong>April</strong> and <strong>October</strong>.
 Each window will open for a month.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
