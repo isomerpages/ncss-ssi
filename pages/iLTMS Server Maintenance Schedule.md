@@ -6,7 +6,11 @@ variant: tiptap
 ---
 <p>Please note that iLTMS will be undergoing the scheduled maintenance on
 the following dates. Access to iLTMS may be disrupted during this period.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -56,6 +60,14 @@ the following dates. Access to iLTMS may be disrupted during this period.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>29 Jun 2024, 7:00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Jul 2024, 22:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 July 2024, 2:00</p>
 </td>
 </tr>
 <tr>
