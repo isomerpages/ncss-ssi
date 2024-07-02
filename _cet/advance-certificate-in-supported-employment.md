@@ -47,7 +47,7 @@ with a disability</p>
 <h3>Course Details</h3>
 <h4>Assessment Requirements</h4>
 <p>Learners are required to meet at least 75% attendance for every module’s
-training hours to be eligible to sit for the respective assessment.</p>
+training hour to be eligible to sit for the respective assessment.</p>
 <p><strong>Programme Duration:</strong> This course is offered on a part time
 basis and has a total duration of 115 hours. Trainings will be conducted
 in-person in SSI’s classrooms. Where applicable, assessments will be conducted
@@ -155,7 +155,7 @@ as well as how to apply the principles of leadership and people management.</p>
 <p>2 and 3 January 2025</p>
 </li>
 </ul>
-<p><strong>Assessment date(s):</strong> 2 and 3 January 2025</p>
+<p><strong>Assessment date(s):</strong> 7 and 8 January 2025</p>
 <p>This module focuses on the role and responsibilities of a professional
 job coach and coaching techniques for persons with disabilities (PWDs)
 within a supported employment framework. In contrast to the traditional
