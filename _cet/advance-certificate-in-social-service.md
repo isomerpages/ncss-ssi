@@ -31,7 +31,7 @@ programme offered by the Singapore University of Social Sciences (SUSS).</p>
 <p>Applicants must:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Have a Grade of C6 for GCE 'O' level English (or equivalent).</p>
+<p>Have a Grade of C6 for GCE 'O' Level English (or equivalent).</p>
 </li>
 <li>
 <p>Complete a complimentary e-learning course “, <a href="https://iltms.ssi.gov.sg/Registration/Login?scheduleno=S2300747" rel="noopener noreferrer nofollow" target="_blank">Singapore’s Social Compact</a> (download
@@ -42,20 +42,20 @@ the e-certificate and submit it upon registration for this programme).</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>At least 2 years of working experience (for applicants with a minimum
-of 3 GCE 'O' level credits).</p>
+of 3 GCE 'O' Level credits).</p>
 </li>
 <li>
 <p>NITEC in Community Care and Social Services with at least 1.5 years of
-full-time working experience (including Industry Attachment)</p>
+full-time working experience (including industry attachment)</p>
 </li>
 </ul>
-<p>Target Audience</p>
+<h4>Target Audience</h4>
 <p>New entrants and existing Social Service Professionals in the Social Service
-Sector</p>
-<p>Assessment Criteria</p>
+Sector.</p>
+<h4>Assessment Criteria</h4>
 <p>Learners will be assessed through a combination of written assessments,
 written assignments, role playing and/or oral interviews.</p>
-<p>Mandatory Components: Programme Orientation (date: TBC)</p>
+<p>Mandatory Components: Programme Orientation (Date: TBC)</p>
 <h3>Social Service Course: Certificates and Career Prospects</h3>
 <p>Upon successful completion of all five WSQ modules, learners will be awarded
 with an individual Statement of Attainment (SOA) for the five modules.</p>
@@ -63,13 +63,12 @@ with an individual Statement of Attainment (SOA) for the five modules.</p>
 Certificate in Social Service.</p>
 <p>With the qualification attained, learners can apply for jobs as a Social
 Service Assistant or as senior house parents, programme coordinators, senior
-home helpers and home care workers. <a href="https://www.ncss.gov.sg/social-service-tribe/careerdetail/Social-Work" rel="noopener noreferrer nofollow" target="_blank">Learn more about Social Work jobs</a> and
-their required qualifications.</p>
-<h3>Course Details</h3>
-<p><strong>Cohort Size:</strong> 20 pax.
+home helpers and home care workers. Learn more about <a href="https://www.ncss.gov.sg/social-service-tribe/careerdetail/Social-Work" rel="noopener noreferrer nofollow" target="_blank">social work jobs and their required qualifications</a>.</p>
+<h4>Course Details</h4>
+<p><strong>Cohort Size:</strong> 20 pax
 <br><strong>Programme Duration:</strong> 13 months. This is a part time course
 with lessons being conducted two to three times a week.
-<br><strong>Course Timing:</strong> 7.00pm to 10.00pm
+<br><strong>Course Timing:</strong> 7 pm to 10 pm
 <br><strong>Fees:</strong> Full Fees: $9,100*
 <br><strong>Estimated Nett Fees:</strong> $2,730* (excluding GST, after SSG
 subsidy).
@@ -85,69 +84,6 @@ organisations will have to pay the full course fees in the event that the
 learners fail to meet the attendance/ assessment requirements and/or any
 other terms and conditions for SSG funding eligibility.</p>
 <p><em>*Please note that course fees are subjected to changes.</em>
-</p>
-<h3>Course Application Guidelines &amp; Dates</h3>
-<p>Applicants to download and upload the completed <a href="/files/acss/SSI_ACSS_Application_Form__Feb_Mar_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>{:target="_blank"},
-with all relevant supporting documents via the <a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SCET21-1" rel="noopener noreferrer nofollow" target="_blank">Registration Portal</a>{:target="_blank"}
-between 15 February 2024 to 31 March 2024.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Description</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Date</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Programme Dates</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>August 2024 – September 2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Online Applications Open</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 February 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Closing Date for Applications</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>31 March 2024, before 23:59</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Interview Session</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>25 &amp; 30 April 2024
-<br>(Subject to changes)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><em>*Applicants may also be called to attend an online interview with the selection panel on the dates specified above. Applicants will receive an email from SSI informing them about the assigned interview date and time and are required to make themselves available for the interview accordingly. Requests for alternative arrangements will not be considered.</em>
-</p>
-<h3>Register for a Course Preview Session</h3>
-<p><strong>Date</strong>: 4 March 2024
-<br><strong>Time</strong>: 7pm
-<br><strong>Venue</strong>: SSI Auditorium (Level 18), Tiong Bahru Plaza</p>
-<p><a href="https://go.gov.sg/ssi-preview-registration" rel="noopener noreferrer nofollow" target="_blank">Register Now!</a>
-</p>
-<p><em>Note: A confirmation email will be sent to all registered participants 3 days before the actual session. We look forward to your attendance.</em>
 </p>
 <h3>Frequently Asked Questions (FAQs): ACSS</h3>
 <p>Download the <a href="/files/acss/ssi%20-%20faqs%20-%20advanced%20certificate%20in%20social%20service%20(jun%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs</a> relating
