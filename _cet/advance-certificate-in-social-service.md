@@ -23,8 +23,9 @@ programme will provide learners with the academic/qualification pathway
 to progress further in their journey to upskill themselves. Graduands from
 this programme will be eligible to apply for the SSI Higher Diploma in
 Social Service (HDSS), which articulates to the Bachelor of Social Work
-programme offered by the Singapore University of Social Sciences (SUSS).</p>
-<h4></h4>
+programme offered by the Singapore University of Social Sciences (SUSS).
+<br>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -33,12 +34,8 @@ programme offered by the Singapore University of Social Sciences (SUSS).</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
-<h4>10 Modules </h4>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="3">
+<h4>10 Modules</h4>
 <p>Upon completion of the programme learners will be able to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -74,16 +71,13 @@ programme offered by the Singapore University of Social Sciences (SUSS).</p>
 </li>
 </ul>
 <p></p>
-<p><em>*WSQ Modules</em> 
+<p><em>*WSQ Modules</em>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Upon</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Advanced Certificate In Social Service - Programme Curriculum" src="/images/training/acss/ssi%20-%20programme%20cirriculum%20-%20advanced%20certificate%20in%20social%20service%20(july%202023).png">
-</div>
+<hr>
 <h3>Course Requirements and Eligibility</h3>
 <p>Applicants must:</p>
 <ul data-tight="true" class="tight">
@@ -113,6 +107,7 @@ Sector.</p>
 <p>Learners will be assessed through a combination of written assessments,
 written assignments, role playing and/or oral interviews.</p>
 <p>Mandatory Components: Programme Orientation (Date: TBC)</p>
+<hr>
 <h3>Social Service Course: Certificates and Career Prospects</h3>
 <p>Upon successful completion of all five WSQ modules, learners will be awarded
 with an individual Statement of Attainment (SOA) for the five modules.</p>
@@ -142,6 +137,7 @@ learners fail to meet the attendance/ assessment requirements and/or any
 other terms and conditions for SSG funding eligibility.</p>
 <p><em>*Please note that course fees are subjected to changes.</em>
 </p>
+<hr>
 <h3>Frequently Asked Questions (FAQs): ACSS</h3>
 <p>Download the <a href="/files/acss/ssi%20-%20faqs%20-%20advanced%20certificate%20in%20social%20service%20(jun%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs</a> relating
 to this programme.</p>
