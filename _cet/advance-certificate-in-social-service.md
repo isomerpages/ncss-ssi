@@ -24,6 +24,63 @@ to progress further in their journey to upskill themselves. Graduands from
 this programme will be eligible to apply for the SSI Higher Diploma in
 Social Service (HDSS), which articulates to the Bachelor of Social Work
 programme offered by the Singapore University of Social Sciences (SUSS).</p>
+<h4></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4>10 Modules </h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Upon completion of the programme learners will be able to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Relate the service types and functions of key players in social services
+(Care &amp; programme)</p>
+</li>
+<li>
+<p>Understand legal provision in social service (C&amp;P)</p>
+</li>
+<li>
+<p>Apply relationship building skills in social service practice (C&amp;P)*</p>
+</li>
+<li>
+<p>Work with volunteers(C&amp;P)*</p>
+</li>
+<li>
+<p>Provide support level service to Children and Youths (C&amp;P)*</p>
+</li>
+<li>
+<p>Provide support level service to Seniors (C&amp;P)*</p>
+</li>
+<li>
+<p>Provide support level service to Persons with Disabilities (C&amp;P)*</p>
+</li>
+<li>
+<p>Provide support level service to Families (C&amp;P)*</p>
+</li>
+<li>
+<p>Demonstrate understanding of group dynamics in social service (C&amp;P)</p>
+</li>
+<li>
+<p>Organise and implement basic socio-recreational activities (C&amp;P)</p>
+</li>
+</ul>
+<p></p>
+<p><em>*WSQ Modules</em> 
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Upon</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Advanced Certificate In Social Service - Programme Curriculum" src="/images/training/acss/ssi%20-%20programme%20cirriculum%20-%20advanced%20certificate%20in%20social%20service%20(july%202023).png">
 </div>
