@@ -36,7 +36,7 @@ variant: tiptap
 <br>Register by 23 August 2024</p>
 </li>
 <li>
-<p><a href="-https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5802" rel="noopener noreferrer nofollow" target="_blank">Helping Family Members Cope with Issues Arising from Incarceration of a Loved One</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5802" rel="noopener noreferrer nofollow" target="_blank">Helping Family Members Cope with Issues Arising from Incarceration of a Loved One</a>
 <br>Register by 3 September 2024</p>
 </li>
 <li>
