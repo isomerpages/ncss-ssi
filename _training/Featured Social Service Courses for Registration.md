@@ -43,7 +43,7 @@ variant: tiptap
 </div>
 <p></p>
 <h4>Case Management in Practice: Introduction</h4>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5228" rel="noopener noreferrer nofollow" target="_blank"><u>Register by 8 Aug 2024</u></a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5228" rel="noopener noreferrer nofollow" target="_blank"><u>Register by 8 August 2024</u></a>
 <br>
 <br><a href="https://www.ssi.gov.sg/training/cross-sector/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Cross Sector courses</u></a>
 </p>
@@ -126,8 +126,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Equip volunteers with knowledge, develop volunteer management capabilities" src="/images/training/volunteer-v2.png">
 </div>
-<h4>Volunteer Management Practices: Connect, Engage, Develop</h4>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SVLD313" rel="noopener noreferrer nofollow" target="_blank">Register by 25 July 2024</a>
+<h4>Design &amp; Develop: Crafting Volunteers Roles for Maximum Impact</h4>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0134" rel="noopener noreferrer nofollow" target="_blank">Register by 17 October 2024</a>
 </p>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" rel="noopener noreferrer nofollow" target="\_blank">View other Volunteering Management and Development courses</a>
@@ -152,9 +152,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TNM 2.0, an initiative brought to you by SSI" src="/images/training/tnm-banner.png">
 </div>
-<h4>A Spotlight on Dementia</h4>
-<p>TGS-2023019206
-<br><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0012" rel="noopener noreferrer nofollow" target="_blank">Register by 12 September 2024</a>
+<h4>Support the Implementation of Volunteer Programmes</h4>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0080" rel="noopener noreferrer nofollow" target="_blank">Register by 19 September 2024</a>
 </p>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/tnm-courses/" rel="noopener noreferrer nofollow" target="\_blank">View all TNM 2.0 courses</a>
