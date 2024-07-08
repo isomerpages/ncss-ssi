@@ -31,8 +31,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Continuing Education &amp; Training (CET) Courses" src="/images/training/cet-v2.png">
 </div>
-<h4>Coming Soon!<br></h4>
-<p><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/" rel="noopener noreferrer nofollow" target="\_blank">View other Management and Organisation Development courses</a>
+<h4>Higher Diploma in Social Service (HDSS)</h4>
+<p><a href="https://www.ssi.gov.sg/training/cet-programmes/higher-diploma-in-social-service/" rel="noopener noreferrer nofollow" target="_blank">Register between 1 August – 31 August 2024</a>
+<br>
+</p>
+<p><a href="https://www.ssi.gov.sg/training/cet-programmes/" rel="noopener noreferrer nofollow" target="_blank">View other Continuing Education &amp; Training (CET) courses</a>
 </p>
 </td>
 </tr>
@@ -81,7 +84,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Mental Health Conditions &amp; Recovery Courses" src="https://www.ssi.gov.sg/images/training/mental-health-v2.png">
 </div>
-<h4>Teambuilding and leadership Development for NPO Leaders</h4>
+<h4>Suicide Intervention Skills Workshop</h4>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0109" rel="noopener noreferrer nofollow" target="_blank">Register by 29 August 2024</a>
 </p>
 <p></p>
@@ -128,8 +131,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Equip volunteers with knowledge, develop volunteer management capabilities" src="/images/training/volunteer-v2.png">
 </div>
-<h4>Design &amp; Develop: Crafting Volunteers Roles for Maximum Impact</h4>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0134" rel="noopener noreferrer nofollow" target="_blank">Register by 17 October 2024</a>
+<h4>Manage Challenging Social Service and NPO Clients</h4>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NPEF6032" rel="noopener noreferrer nofollow" target="_blank">Register by 30 August 24</a>
 </p>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" rel="noopener noreferrer nofollow" target="\_blank">View other Volunteering Management and Development courses</a>
