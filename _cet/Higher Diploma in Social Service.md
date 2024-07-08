@@ -69,6 +69,7 @@ become a Social Worker.</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <h3>Entry Requirements</h3>
 <p>Applicants should possess the following criteria:</p>
 <ul data-tight="true" class="tight">
@@ -119,7 +120,8 @@ of social service provision and the challenges that lay ahead.</p>
 <p>All shortlisted applicants will have to sit for a Written Aptitude Test
 (WAT). Only applicants who successfully pass the WAT will be considered
 for admission into the programme.</p>
-<h4>Qualifications &amp; Career Prospects in Social Work</h4>
+<hr>
+<h3>Qualifications &amp; Career Prospects in Social Work</h3>
 <p>Upon completion of SSI's HDSS, learners will be issued a:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -204,7 +206,8 @@ alternative arrangements will not be considered.</p>
 <p></p>
 <p><em>¹Eligible HDSS applicants will be notified to sit for a compulsory Written Aptitude Test (WAT).</em>
 </p>
-<h4>Register for a Course Preview Session</h4>
+<hr>
+<h3>Register for a Course Preview Session</h3>
 <p><strong>Date:</strong> 6 August 2024
 <br><strong>Time:</strong> 7pm
 <br><strong>Venue:</strong> SSI Auditorium (Level 18), Tiong Bahru Plaza</p>
@@ -212,6 +215,7 @@ alternative arrangements will not be considered.</p>
 </p>
 <p><em>Note: A confirmation email will be sent to all registered participants 3 days before the actual session. We look forward to your attendance.</em>
 </p>
+<hr>
 <h4>FAQs</h4>
 <p>Download the <a href="/files/hdss/ssi%20-%20faqs%20-%20higher%20diploma%20in%20social%20service%20(jun%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs</a> relating
 to this programme.</p>
