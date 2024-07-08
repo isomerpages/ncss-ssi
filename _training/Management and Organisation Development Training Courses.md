@@ -17,10 +17,6 @@ variant: tiptap
 <br>Register by 14 July 2024</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFRE5103" rel="noopener noreferrer nofollow" target="_blank">Making $ense I: An Introduction to Fund Raising</a>
-<br>Register by 30 July 2024</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT6014" rel="noopener noreferrer nofollow" target="_blank">Teambuilding and leadership Development for NPO Leaders</a>
 <br>Register by 1 August 2024</p>
 </li>
@@ -32,6 +28,13 @@ variant: tiptap
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NPEF6032" rel="noopener noreferrer nofollow" target="_blank">Manage Challenging Social Service and NPO Clients</a>
 <br>Register by 30 August 2024</p>
 </li>
+</ul>
+<h4>Financial Management</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFRE5103" rel="noopener noreferrer nofollow" target="_blank">Making $ense I: An Introduction to Fund Raising</a>
+<br>Register by 30 July 2024</p>
+</li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5630" rel="noopener noreferrer nofollow" target="_blank">Internal Controls (III): Implementing Internal Controls for Procurement to Payable Process</a>
 <br>Register by 18 September 2024
@@ -40,10 +43,6 @@ variant: tiptap
 latest updates.</p>
 </li>
 </ul>
-<h4>Financial Management</h4>
-<p>Coming soon!
-<br>Subscribe to our <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">Mailing List</a> for
-latest updates.</p>
 <h3><strong>Featured Courses: Leadership Development &amp; Management for Non-Profit Organisations</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
