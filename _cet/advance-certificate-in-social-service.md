@@ -61,7 +61,7 @@ programme offered by the Singapore University of Social Sciences (SUSS).
 <p>Provide support level service to Persons with Disabilities (C&amp;P)*</p>
 </li>
 <li>
-<p>Provide support level service to Families (C&amp;P)*</p>
+<p>Provide support level service to Families (C&amp;P)</p>
 </li>
 <li>
 <p>Demonstrate understanding of group dynamics in social service (C&amp;P)</p>
