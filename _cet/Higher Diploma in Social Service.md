@@ -194,6 +194,92 @@ other terms and conditions for SSG funding eligibility.</p>
 <p>Applicants to download and upload the completed <a href="/files/hdss/SSI_HDSS_Application_Form__Feb_Mar_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>,
 with all relevant supporting documents via the <a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=scet21-2" rel="noopener noreferrer nofollow" target="_blank">Registration Portal</a> between
 1 to 31 August 2024.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Description</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Online Applications Open</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 July to 30 August 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Closing date for Applications</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30 August 2024 (before 11:59pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Programme Preview (Audi)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 August 2024 (7pm to 9pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Notify HDSS Applicants of WAT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16 September 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Conduct Written Aptitude Test¹</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23 &amp; 24 September 2024
+<br>(10.30am to 11.30am &amp; 3.00pm to 4.00pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Interview Session</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mid-October (16 &amp; 17 October 2024*)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Issue Offer Letter</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22 Oct 2024*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Programme Dates</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>February 2025 to June 2026</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>¹<em>Eligible HDSS applicants will be notified to sit for a compulsory Written Aptitude Test (WAT).</em>
+<br>*<em>Dates may be</em> s<em>ubject to changes</em>
+</p>
 <p>All shortlisted applicants will have to sit for a Written Aptitude Test
 (WAT), which will be conducted on the stipulated date indicated above.
 Only applicants who successfully pass the WAT¹ will be considered for admission
@@ -204,8 +290,6 @@ SSI informing them about the assigned interview date and time and are required
 to make themselves available for the interview accordingly. Requests for
 alternative arrangements will not be considered.</p>
 <p></p>
-<p><em>¹Eligible HDSS applicants will be notified to sit for a compulsory Written Aptitude Test (WAT).</em>
-</p>
 <hr>
 <h3>Register for a Course Preview Session</h3>
 <p><strong>Date:</strong> 6 August 2024
