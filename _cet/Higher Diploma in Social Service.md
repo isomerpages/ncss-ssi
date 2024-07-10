@@ -193,7 +193,7 @@ other terms and conditions for SSG funding eligibility.</p>
 <h4>Application Guidelines</h4>
 <p>Applicants to download and upload the completed <a href="/files/hdss/SSI_HDSS_Application_Form__Feb_Mar_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>,
 with all relevant supporting documents via the <a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=scet21-2" rel="noopener noreferrer nofollow" target="_blank">Registration Portal</a> between
-1 to 31 August 2024.</p>
+15 July to 31 August 2024.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
