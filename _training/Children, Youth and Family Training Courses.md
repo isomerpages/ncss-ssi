@@ -20,10 +20,6 @@ variant: tiptap
 <br>Register by 1 August 2024</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0126" rel="noopener noreferrer nofollow" target="_blank">Counselling Guidelines Training: Working with Youth with Sexual Orientation and Gender Issues</a> 
-<br>Register by 5 August 2024</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5158" rel="noopener noreferrer nofollow" target="_blank">Helping Youths Cope with Anger</a>
 <br>Register by 6 August 2024</p>
 </li>
@@ -36,8 +32,28 @@ variant: tiptap
 <br>Register by 14 August 2024</p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0122" rel="noopener noreferrer nofollow" target="_blank">Review Frameworks for Effective Youth Mentoring</a>
+<br>Register by 23 August 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5802" rel="noopener noreferrer nofollow" target="_blank">Helping Family Members Cope with Issues Arising from Incarceration of a Loved One</a>
+<br>Register by 3 September 2024</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5583" rel="noopener noreferrer nofollow" target="_blank">Management of Family Violence: Working with Couples in Violent Relationships</a>
 <br>Register by 18 September 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5646" rel="noopener noreferrer nofollow" target="_blank">An Introduction to Family Therapy</a>
+<br>Register by 9 October 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0126" rel="noopener noreferrer nofollow" target="_blank">Counselling Guidelines Training: Working with Youth with Sexual Orientation and Gender Issues</a> 
+<br>Register by 14 October 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5316" rel="noopener noreferrer nofollow" target="_blank">Techniques in Couple Counselling</a>
+<br>Register by 4 December 2024</p>
 </li>
 </ul>
 <h4><strong>Complimentary e-Learning Courses</strong></h4>
@@ -57,10 +73,6 @@ variant: tiptap
 </ul>
 <h3><strong>Other Featured Courses in Children and Youth Development, Youth Counselling and Family Therapy</strong></h3>
 <ul data-tight="true" class="tight">
-<li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5646" rel="noopener noreferrer nofollow" target="_blank">An Introduction to Family Therapy</a>
-</p>
-</li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5894" rel="noopener noreferrer nofollow" target="_blank">Certified User for Child &amp; Adolescent Needs &amp; Strengths (CANS)</a>
 </p>

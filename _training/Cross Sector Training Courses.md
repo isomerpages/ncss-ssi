@@ -23,12 +23,28 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5228" rel="noopener noreferrer nofollow" target="_blank">Case Management in Practice: Introduction</a>
-<br>Register by 8 Aug 2024</p>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5570" rel="noopener noreferrer nofollow" target="_blank">Understanding and Working with the Malay-Muslim Clients</a>
+<br>Register by 1 August 2024</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5570" rel="noopener noreferrer nofollow" target="_blank">Understanding and Working with the Malay-Muslim Clients</a>
-<br>Register by 1 Aug 2024</p>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5228" rel="noopener noreferrer nofollow" target="_blank">Case Management in Practice: Introduction</a>
+<br>Register by 8 August 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SST0929" rel="noopener noreferrer nofollow" target="_blank">Identify Learning Needs for Personal and Professional Development</a>
+<br>Register by 3 October 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS30" rel="noopener noreferrer nofollow" target="_blank">Engage Stakeholders Effectively</a>
+<br>Register by 7 October 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0102" rel="noopener noreferrer nofollow" target="_blank">Promote Diversity and Inclusion in Social Work</a>
+<br>Register by 21 October 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5647" rel="noopener noreferrer nofollow" target="_blank">May I Help You? (Boleh Saya Bantu Anda?) - Conversational Malay for Social Service Practitioners</a>
+<br>Register by 30 October 2024</p>
 </li>
 </ul>
 <h3><strong>Other Featured Short Courses in Befriending, Case Management, Counselling and more</strong></h3>

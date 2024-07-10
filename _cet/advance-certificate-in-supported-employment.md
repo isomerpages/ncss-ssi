@@ -152,7 +152,7 @@ as well as how to apply the principles of leadership and people management.</p>
 <p>1, 7 and 15 November 2024 and</p>
 </li>
 <li>
-<p>2 and 3 January 2025</p>
+<p>7 and 8 January 2025</p>
 </li>
 </ul>
 <p><strong>Assessment date(s):</strong> 7 and 8 January 2025</p>
@@ -166,7 +166,8 @@ process. Learners will acquire specific knowledge and skills to engage
 and support clients and employers in supported employment which includes
 the development of client profile, job development and placement, job site
 training and support, and fading out and follow-up.</p>
-<p><strong>Compulsory Visit to Enabling Village</strong> – To be confirmed</p>
+<p><strong>Compulsory Visit to Enabling Village</strong> – Thursday 9 January
+2025, 2pm to 5pm.</p>
 <h3><strong>Upcoming intake 2024</strong></h3>
 <p><strong>Registration closing date:</strong> Tuesday, 16 July 2024.
 <br>Register for the <a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS8" rel="noopener noreferrer nofollow" target="_blank">ACSE Course</a> now.</p>

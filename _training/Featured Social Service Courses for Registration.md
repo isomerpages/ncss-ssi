@@ -16,7 +16,7 @@ variant: tiptap
 <h4>Course Schedule &amp; Registration Dates</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/training courses/SSI_Monthly_Featured_Courses_27_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Registration period: July to October 2024</a>
+<p><a href="/files/training courses/Monthly_Featured_Courses___3_July_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Registration period: August to December 2024</a>
 </p>
 </li>
 </ul>
@@ -31,8 +31,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Continuing Education &amp; Training (CET) Courses" src="/images/training/cet-v2.png">
 </div>
-<h4>Coming Soon!<br></h4>
-<p><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/" rel="noopener noreferrer nofollow" target="\_blank">View other Management and Organisation Development courses</a>
+<h4>Higher Diploma in Social Service (HDSS)</h4>
+<p><a href="https://www.ssi.gov.sg/training/cet-programmes/higher-diploma-in-social-service/" rel="noopener noreferrer nofollow" target="_blank">Register between 1 August – 31 August 2024</a>
+<br>
+</p>
+<p><a href="https://www.ssi.gov.sg/training/cet-programmes/" rel="noopener noreferrer nofollow" target="_blank">View other Continuing Education &amp; Training (CET) courses</a>
 </p>
 </td>
 </tr>
@@ -42,8 +45,8 @@ variant: tiptap
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Counselling, Motivational Interviewing &amp; Behaviour Therapy Courses" src="https://www.ssi.gov.sg/images/training/cross-sector-v2.png">
 </div>
 <p></p>
-<h4>Case Management in Practice: Introduction</h4>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5228" rel="noopener noreferrer nofollow" target="_blank"><u>Register by 8 Aug 2024</u></a>
+<h4>Promote Diversity and Inclusion in Social Work</h4>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0102" rel="noopener noreferrer nofollow" target="_blank">Register by 21 October 2024</a>
 <br>
 <br><a href="https://www.ssi.gov.sg/training/cross-sector/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Cross Sector courses</u></a>
 </p>
@@ -54,8 +57,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Children &amp; Youth Development, Family Therapy / Family Violence Courses: Equip volunteers with skills to work with children, youth and families." src="https://www.ssi.gov.sg/images/training/cyf-v2.png">
 </div>
-<h4>Management of Family Violence: Working with Couples in Violent Relationships</h4>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5583" rel="noopener noreferrer nofollow" target="_blank">Register by 18 September 2024</a>
+<h4>Techniques in Couple Counselling</h4>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5316" rel="noopener noreferrer nofollow" target="_blank">Register by 4 December 2024</a>
 </p>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/cyandf/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Children, Youth and Family courses</u></a>
@@ -81,7 +84,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Mental Health Conditions &amp; Recovery Courses" src="https://www.ssi.gov.sg/images/training/mental-health-v2.png">
 </div>
-<h3>Coming Soon!</h3>
+<h4>Suicide Intervention Skills Workshop</h4>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0109" rel="noopener noreferrer nofollow" target="_blank">Register by 29 August 2024</a>
+</p>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/mental-health" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Mental Health courses</u></a>
 </p>
@@ -126,8 +131,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Equip volunteers with knowledge, develop volunteer management capabilities" src="/images/training/volunteer-v2.png">
 </div>
-<h4>Volunteer Management Practices: Connect, Engage, Develop</h4>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SVLD313" rel="noopener noreferrer nofollow" target="_blank">Register by 25 July 2024</a>
+<h4>Manage Challenging Social Service and NPO Clients</h4>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NPEF6032" rel="noopener noreferrer nofollow" target="_blank">Register by 30 August 24</a>
 </p>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" rel="noopener noreferrer nofollow" target="\_blank">View other Volunteering Management and Development courses</a>
@@ -152,9 +157,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TNM 2.0, an initiative brought to you by SSI" src="/images/training/tnm-banner.png">
 </div>
-<h4>A Spotlight on Dementia</h4>
-<p>TGS-2023019206
-<br><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0012" rel="noopener noreferrer nofollow" target="_blank">Register by 12 September 2024</a>
+<h4>Support the Implementation of Volunteer Programmes</h4>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0080" rel="noopener noreferrer nofollow" target="_blank">Register by 19 September 2024</a>
 </p>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/tnm-courses/" rel="noopener noreferrer nofollow" target="\_blank">View all TNM 2.0 courses</a>
