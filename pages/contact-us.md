@@ -16,7 +16,7 @@ locations:
     title: Social Service Institute
 contacts:
   - content:
-      - phone: +65 6589 5555
+      - phone: +65 6210 5200
       - email: ""
       - other: <small><em>To help us serve you better, from 3 June 2024, you will be
           prompted to key in your NRIC number. Your information will be kept
@@ -27,5 +27,5 @@ contacts:
       - email: socialserviceinstitute@ncss.gov.sg
       - other: <br><b>Fax</b><br>+65 6589 5540
     title: Email
-feedback: ""
+feedback: https://www.ncss.gov.sg/feedback
 ---
