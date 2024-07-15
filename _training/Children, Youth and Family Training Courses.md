@@ -151,7 +151,7 @@ and the National Institute of Education (NIE). In 2013, he was appointed
 by the National Council of Social Service (NCSS) as a master social worker
 and is currently a master practice leader after being appointed by the
 Ministry of Social and Family Development (MSF).</p>
-<p><strong>Mr Praveen Nair</strong> 
+<p><strong>Dr Praveen Nair</strong> 
 <br>Dr Praveen Nair is currently a director at Raven Counselling &amp; Consultancy
 and has more than 20 years of clinical, supervisory and management experience
 from 3 sectors (the Civil Service, the Non-Profit Sector, &amp; the Private
