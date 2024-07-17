@@ -44,7 +44,7 @@ sections:
         of courses that SSI offers from 10 different categories.
       button: Download now
       url: /training/course-registration/
-      image: /images/homepage training directory image-minimized.jpg
+      image: /images/homepage/homepage_training_directory_image_minimized.jpg
       alt: Social Service Institute SSI Singapore - Course Schedule,Course
         List,Training Calendar
   - infopic:
@@ -55,15 +55,15 @@ sections:
         communities in need.
       button: Donate Now
       url: https://go.gov.sg/ssi-cfc
-      image: /images/cfc_comchest_standalone_logo.png
-      alt: Image alt text
+      image: /images/homepage/cfc.png
+      alt: Change for Charity
   - infopic:
       title: Refreshed 4ST (2022-2026)
       subtitle: Roadmap for the Sector
       button: Find out more
       url: https://go.gov.sg/wu0chy
-      alt: Refreshed 4ST
-      image: /images/homepage/4stbanner.jpeg
+      alt: Refreshed 4ST (2022-2026)
+      image: /images/homepage/NCSS_SSSR_2022_2026_banner_1145x395.jpg
       description: Learn more about how the new recommendations put forth by the
         refreshed Social Service Sector Strategic Thrusts (4ST) can empower our
         sector.
@@ -83,8 +83,8 @@ sections:
         their desire to learn and grow through SSI’s courses and initiatives.
       button: Learn More
       url: /stories/
-      image: /images/homepage/our-stories.jpg
-      alt: Social Service Institute SSI Singapore - Our Stories, Testimonials
+      image: /images/homepage/our_Stories.jpg
+      alt: SSI - Our Stories
   - infopic:
       title: Join Our Mailing Lists
       description: Receive the latest learning and development updates from SSI by

@@ -43,7 +43,7 @@ the following dates. Access to iLTMS may be disrupted during this period.</p>
 <p>26 Apr 2024, 22:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 Apr 2024, 7:00</p>
+<p>27 Apr 2024, 07:00</p>
 </td>
 </tr>
 <tr>
@@ -51,7 +51,7 @@ the following dates. Access to iLTMS may be disrupted during this period.</p>
 <p>31 May 2024, 22:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Jun 2024, 7:00</p>
+<p>1 Jun 2024, 07:00</p>
 </td>
 </tr>
 <tr>
@@ -59,7 +59,7 @@ the following dates. Access to iLTMS may be disrupted during this period.</p>
 <p>28 Jun 2024, 22:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29 Jun 2024, 7:00</p>
+<p>29 Jun 2024, 07:00</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +67,7 @@ the following dates. Access to iLTMS may be disrupted during this period.</p>
 <p>4 Jul 2024, 22:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5 July 2024, 2:00</p>
+<p>5 July 2024, 02:00</p>
 </td>
 </tr>
 <tr>
@@ -75,7 +75,15 @@ the following dates. Access to iLTMS may be disrupted during this period.</p>
 <p>11 Jul 2024, 22:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 Jul 2024, 2:00</p>
+<p>12 Jul 2024, 02:00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 Jul 2024, 22:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18 Jul 2024, 07:'00</p>
 </td>
 </tr>
 <tr>
@@ -83,7 +91,7 @@ the following dates. Access to iLTMS may be disrupted during this period.</p>
 <p>26 Jul 2024, 22:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 Jul 2024, 7:00</p>
+<p>27 Jul 2024, 07:00</p>
 </td>
 </tr>
 <tr>
@@ -91,7 +99,7 @@ the following dates. Access to iLTMS may be disrupted during this period.</p>
 <p>30 Aug 2024, 22:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 Aug 2024, 7:00</p>
+<p>31 Aug 2024, 07:00</p>
 </td>
 </tr>
 <tr>
@@ -99,7 +107,7 @@ the following dates. Access to iLTMS may be disrupted during this period.</p>
 <p>27 Sep 2024, 22:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 Sep 2024, 7:00</p>
+<p>28 Sep 2024, 07:00</p>
 </td>
 </tr>
 <tr>
@@ -107,7 +115,7 @@ the following dates. Access to iLTMS may be disrupted during this period.</p>
 <p>25 Oct 2024, 22:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 Oct 2024, 7:00</p>
+<p>26 Oct 2024, 07:00</p>
 </td>
 </tr>
 <tr>
@@ -115,7 +123,7 @@ the following dates. Access to iLTMS may be disrupted during this period.</p>
 <p>29 Nov 2024, 22:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Nov 2024, 7:00</p>
+<p>30 Nov 2024, 07:00</p>
 </td>
 </tr>
 </tbody>

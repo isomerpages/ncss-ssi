@@ -138,8 +138,8 @@ other terms and conditions for SSG funding eligibility.</p>
 <p><em>*Please note that course fees are subjected to changes.</em>
 </p>
 <hr>
-<h3>Frequently Asked Questions (FAQs): ACSS</h3>
-<p>Download the <a href="/files/acss/ssi%20-%20faqs%20-%20advanced%20certificate%20in%20social%20service%20(jun%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs</a> relating
+<h3>Frequently Asked Questions (FAQ): ACSS</h3>
+<p>Download the <a href="/files/acss/FAQ_for_Advanced_Certificate_in_Social_Service__Jul_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a> relating
 to this programme.</p>
 <p>Learn more about the application procedure from the <a href="/files/acss/ssi%20-%20application%20guide%20-%20advanced%20certificate%20in%20social%20service%20(jun%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">ACSS Application Guide (ACSS)</a>.</p>
 <p></p>

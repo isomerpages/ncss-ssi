@@ -191,7 +191,7 @@ other terms and conditions for SSG funding eligibility.</p>
 <p><em>*Please note that course fees are subjected to changes.</em>
 </p>
 <h4>Application Guidelines</h4>
-<p>Applicants to download and upload the completed <a href="/files/hdss/SSI_HDSS_Application_Form__Feb_Mar_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>,
+<p>Applicants to download and upload the completed <a href="/files/hdss/SSI_HDSS_Application_Form__Jul_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>,
 with all relevant supporting documents via the <a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=scet21-2" rel="noopener noreferrer nofollow" target="_blank">Registration Portal</a> between
 15 July to 31 August 2024.</p>
 <table style="minWidth: 50px">
@@ -301,7 +301,7 @@ alternative arrangements will not be considered.</p>
 </p>
 <hr>
 <h4>FAQs</h4>
-<p>Download the <a href="/files/hdss/ssi%20-%20faqs%20-%20higher%20diploma%20in%20social%20service%20(jun%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs</a> relating
+<p>Download the <a href="/files/hdss/FAQ_for_Higher_Diploma_in_Social_Service_Jul_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a> relating
 to this programme.</p>
 <p>Learn more about the application procedure from the <a href="/files/hdss/ssi%20-%20application%20guide%20-%20higher%20diploma%20in%20social%20service%20(jun%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">HDSS Application Guide</a>.</p>
 <p></p>

@@ -166,7 +166,7 @@ have a system in place to honour their efforts.</p>
 <p>AE recognition is only a small fraction of what we do for our AEs. We
 also <strong>partner, nurture, engage, impact and journey with them</strong>.</p>
 <p>Read more about our various talent development schemes and initiatives,
-engagements and all things <a href="/files/AE_Resource_Kit_Feb2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Adult Educator-related</a>.</p>
+engagements and all things <a href="/files/AE_Resource_Kit_10072024.pdf" rel="noopener noreferrer nofollow" target="_blank">Adult Educator-related</a>.</p>
 <h2><strong>Partnership Opportunities</strong></h2>
 <p>SSI is constantly looking for partnerships with local or international
 Social Service Agencies (SSAs), Non-Profit Organisations (NPOs), Institute
