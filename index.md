@@ -56,7 +56,7 @@ sections:
       button: Donate Now
       url: https://go.gov.sg/ssi-cfc
       image: /images/homepage/change for charity.png
-      alt: Image alt text
+      alt: Change for Charity
   - infopic:
       title: Refreshed 4ST (2022-2026)
       subtitle: Roadmap for the Sector
