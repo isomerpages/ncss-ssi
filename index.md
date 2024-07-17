@@ -55,7 +55,7 @@ sections:
         communities in need.
       button: Donate Now
       url: https://go.gov.sg/ssi-cfc
-      image: /images/homepage/change for charity.png
+      image: /images/homepage/cfc.png
       alt: Change for Charity
   - infopic:
       title: Refreshed 4ST (2022-2026)
