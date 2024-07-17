@@ -83,8 +83,8 @@ sections:
         their desire to learn and grow through SSI’s courses and initiatives.
       button: Learn More
       url: /stories/
-      image: /images/homepage/our-stories.jpg
-      alt: Social Service Institute SSI Singapore - Our Stories, Testimonials
+      image: /images/homepage/our_Stories.jpg
+      alt: SSI - Our Stories
   - infopic:
       title: Join Our Mailing Lists
       description: Receive the latest learning and development updates from SSI by
