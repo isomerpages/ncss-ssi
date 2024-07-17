@@ -62,7 +62,7 @@ sections:
       subtitle: Roadmap for the Sector
       button: Find out more
       url: https://go.gov.sg/wu0chy
-      alt: Refreshed 4ST
+      alt: Refreshed 4ST (2022-2026)
       image: /images/homepage/NCSS_SSSR_2022_2026_banner_1145x395.jpg
       description: Learn more about how the new recommendations put forth by the
         refreshed Social Service Sector Strategic Thrusts (4ST) can empower our
