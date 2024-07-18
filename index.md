@@ -6,6 +6,7 @@ description: The Social Service Institute (SSI) is a CET centre that supports
 image: /images/isomer-logo.svg
 permalink: /
 notification: 'We are excited to announce our refreshed SSI identity! <a
+  target="_blank"
   href="https://www.ncss.gov.sg/who-we-are/our-organisation">Find out more about
   our brand refresh</a>.<br><br>The <a target="_blank"
   href="https://iltms.ssi.gov.sg/Registration/Course">iLTMS</a> is now live,
