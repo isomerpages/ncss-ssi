@@ -5,14 +5,14 @@ description: The Social Service Institute (SSI) is a CET centre that supports
   the training needs of the social service sector.
 image: /images/isomer-logo.svg
 permalink: /
-notification: 'We are excited to announce our refreshed SSI identity! <a
-  target="_blank"
+notification: '<p style="align=center;">We are excited to announce our refreshed
+  SSI identity! <a target="_blank"
   href="https://www.ncss.gov.sg/who-we-are/our-organisation">Find out more about
-  our brand refresh</a>.<br><br>The <a target="_blank"
+  our brand refresh</a>.<br><br> The <a target="_blank"
   href="https://iltms.ssi.gov.sg/Registration/Course">iLTMS</a> is now live,
-  register for courses now! Note: <a target="_blank"
+  register for courses now!  Note: <a target="_blank"
   href="https://www.ssi.gov.sg/maintenance-schedule">Scheduled maintenance</a>
-  may cause access disruptions.'
+  may cause access disruptions.</p>'
 sections:
   - hero:
       title: Social Service Institute
