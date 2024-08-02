@@ -32,7 +32,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Continuing Education &amp; Training (CET) Courses" src="/images/training/cet-v2.png">
 </div>
 <h4>Higher Diploma in Social Service (HDSS)</h4>
-<p><a href="https://www.ssi.gov.sg/training/cet-programmes/higher-diploma-in-social-service/" rel="noopener noreferrer nofollow" target="_blank">Register between 1 August – 31 August 2024</a>
+<p><a href="https://www.ssi.gov.sg/training/cet-programmes/higher-diploma-in-social-service/" rel="noopener noreferrer nofollow" target="_blank">Register by 31 August 2024</a>
 <br>
 </p>
 <p><a href="https://www.ssi.gov.sg/training/cet-programmes/" rel="noopener noreferrer nofollow" target="_blank">View other Continuing Education &amp; Training (CET) courses</a>
@@ -44,9 +44,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Counselling, Motivational Interviewing &amp; Behaviour Therapy Courses" src="https://www.ssi.gov.sg/images/training/cross-sector-v2.png">
 </div>
-<p></p>
-<h4>Promote Diversity and Inclusion in Social Work</h4>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0102" rel="noopener noreferrer nofollow" target="_blank">Register by 21 October 2024</a>
+<h4>Counselling Skills and Practice: Intermediate</h4>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5468" rel="noopener noreferrer nofollow" target="_blank">Register by 31 December 2024</a>
 <br>
 <br><a href="https://www.ssi.gov.sg/training/cross-sector/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Cross Sector courses</u></a>
 </p>
@@ -118,8 +117,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Social Service / Nonprofit Leadership and Management Training Course" src="https://www.ssi.gov.sg/images/training/mod-v2.png">
 </div>
-<h4>Teambuilding and leadership Development for NPO Leaders</h4>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT6014" rel="noopener noreferrer nofollow" target="_blank">Register by 1 August 2024</a>
+<h4>Internal Controls (IV): General Accounting, Fixed Assets, Inventory and Human Resource Management</h4>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5468" rel="noopener noreferrer nofollow" target="_blank">Register by 14 October 2024</a>
 </p>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Management and Organisation Development courses</u></a>
