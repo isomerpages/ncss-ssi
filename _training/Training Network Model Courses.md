@@ -14,10 +14,6 @@ the sector.</p>
 <h4><strong>Registration now open</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0103" rel="noopener noreferrer nofollow" target="_blank">Basic Therapeutic Skills</a> - <em>TGS-2023036063 </em>
-<br>Register by 25 Jul 2024</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0032" rel="noopener noreferrer nofollow" target="_blank">Executive Function Skills for Children with SEN</a> - <em>TGS-2023019843</em>
 <br>Register by 30 August 2024</p>
 </li>
