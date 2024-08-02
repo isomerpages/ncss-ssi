@@ -32,12 +32,16 @@ variant: tiptap
 <h4>Financial Management</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFRE5103" rel="noopener noreferrer nofollow" target="_blank">Making $ense I: An Introduction to Fund Raising</a>
-<br>Register by 30 July 2024</p>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCOF430" rel="noopener noreferrer nofollow" target="_blank">Introduction to Internal Controls </a>
+</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5630" rel="noopener noreferrer nofollow" target="_blank">Internal Controls (III): Implementing Internal Controls for Procurement to Payable Process</a>
-<br>Register by 18 September 2024
+<br>Register by 18 September 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5468" rel="noopener noreferrer nofollow" target="_blank">Internal Controls (IV): General Accounting, Fixed Assets, Inventory and Human Resource Management</a>
+<br>Register by 14 October 2024
 <br>
 <br>Subscribe to our <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">Mailing List</a> for
 latest updates.</p>
@@ -63,6 +67,10 @@ latest updates.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT5079" rel="noopener noreferrer nofollow" target="_blank">Effective Supervisory Skills for NPO Managers</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFRE5103" rel="noopener noreferrer nofollow" target="_blank">Making $ense I: An Introduction to Fund Raising</a>
 </p>
 </li>
 <li>
