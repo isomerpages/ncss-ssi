@@ -12,18 +12,6 @@ variant: tiptap
 <h4><strong>Registration now open</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5879" rel="noopener noreferrer nofollow" target="_blank">Family Therapy: Intermediate</a> 
-<br>Register by 17 Jul 2024</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF305" rel="noopener noreferrer nofollow" target="_blank">Mentoring and Coaching Youths Effectively (Classroom &amp; Asynchronous)</a> - <em>TGS-2021009573</em> 
-<br>Register by 1 August 2024</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5158" rel="noopener noreferrer nofollow" target="_blank">Helping Youths Cope with Anger</a>
-<br>Register by 6 August 2024</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5938" rel="noopener noreferrer nofollow" target="_blank">Management of Family Violence: Supporting Clients in Their Trauma Recovery (Synchronous e-learning)</a> - <em>TGS-2020500752</em>
 <br>Register by 13 August 2024</p>
 </li>
@@ -86,6 +74,14 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5879" rel="noopener noreferrer nofollow" target="_blank">Family Therapy: Intermediate</a> 
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5158" rel="noopener noreferrer nofollow" target="_blank">Helping Youths Cope with Anger</a>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF278" rel="noopener noreferrer nofollow" target="_blank">Introduction to Trauma Informed Positive Behaviour Interventions and Supports for Children and Young Persons in Residential Care</a>
 </p>
 </li>
@@ -107,6 +103,10 @@ Coming Soon!</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF258" rel="noopener noreferrer nofollow" target="_blank">Management of Family Violence: Organisational Approaches to Child Safe Practices for Frontline Staff</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF305" rel="noopener noreferrer nofollow" target="_blank">Mentoring and Coaching Youths Effectively (Classroom &amp; Asynchronous)</a> - <em>TGS-2021009573</em> 
 </p>
 </li>
 <li>
