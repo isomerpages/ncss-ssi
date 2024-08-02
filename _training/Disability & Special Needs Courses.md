@@ -12,11 +12,6 @@ variant: tiptap
 <h4><strong>Registration now open</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS211" rel="noopener noreferrer nofollow" target="_blank">Independent Travel Training for Professionals Supporting Persons with Disabilities </a>-
-TGS-2020502149
-<br>Register by 22 July 2024</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS84" rel="noopener noreferrer nofollow" target="_blank">Guide the implementation of improved approaches in Early Intervention Teaching</a> -
 TGS-2022013917
 <br>Register by 8 August 2024</p>
@@ -40,6 +35,10 @@ TGS-2022013917
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS83" rel="noopener noreferrer nofollow" target="_blank">WSQ Principles and Practices of Early Intervention for Children with Special Needs Module 2</a>
 </p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS211" rel="noopener noreferrer nofollow" target="_blank">Independent Travel Training for Professionals Supporting Persons with Disabilities </a>-
+TGS-2020502149</p>
 </li>
 </ul>
 <h4><strong>Certificate/ Diploma/ Degree Programmes</strong></h4>
