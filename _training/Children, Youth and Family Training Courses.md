@@ -32,24 +32,13 @@ variant: tiptap
 <br>Register by 18 September 2024</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0126" rel="noopener noreferrer nofollow" target="_blank">Counselling Guidelines Training: Working with Youth with Sexual Orientation and Gender Issues</a>
-</p>
-<p>Register by 14 October 2024</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5158" rel="noopener noreferrer nofollow" target="_blank">Helping Youths Cope with Anger</a>
-</p>
-</li>
-<li>
-<p>Register by 10 December 2024<a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5158" rel="noopener noreferrer nofollow" target="_blank"> </a>&nbsp;</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5646" rel="noopener noreferrer nofollow" target="_blank">An Introduction to Family Therapy</a>
 <br>Register by 9 October 2024</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0126" rel="noopener noreferrer nofollow" target="_blank">Counselling Guidelines Training: Working with Youth with Sexual Orientation and Gender Issues</a> 
-<br>Register by 14 October 2024</p>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0126" rel="noopener noreferrer nofollow" target="_blank">Counselling Guidelines Training: Working with Youth with Sexual Orientation and Gender Issues</a>
+</p>
+<p>Register by 14 October 2024</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5437" rel="noopener noreferrer nofollow" target="_blank">Rehabilitation and Re-Integration Needs of Former Drug Offenders</a>
@@ -63,6 +52,11 @@ variant: tiptap
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5316" rel="noopener noreferrer nofollow" target="_blank">Techniques in Couple Counselling</a>
 <br>Register by 4 December 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5158" rel="noopener noreferrer nofollow" target="_blank">Helping Youths Cope with Anger</a>
+</p>
+<p>Register by 10 December 2024<a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5158" rel="noopener noreferrer nofollow" target="_blank"> </a>&nbsp;</p>
 </li>
 </ul>
 <h4><strong>Complimentary e-Learning Courses</strong></h4>
