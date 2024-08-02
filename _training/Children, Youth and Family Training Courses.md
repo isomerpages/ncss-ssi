@@ -12,6 +12,30 @@ variant: tiptap
 <h4><strong>Registration now open</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0122" rel="noopener noreferrer nofollow" target="_blank">Review Frameworks for Effective Youth Mentoring</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0126" rel="noopener noreferrer nofollow" target="_blank">Counselling Guidelines Training: Working with Youth with Sexual Orientation and Gender Issues</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5158" rel="noopener noreferrer nofollow" target="_blank">Helping Youths Cope with Anger </a>&nbsp;</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5646" rel="noopener noreferrer nofollow" target="_blank">An Introduction to Family Therapy </a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5437" rel="noopener noreferrer nofollow" target="_blank">Rehabilitation and Re-Integration Needs of Former Drug Offenders </a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0112" rel="noopener noreferrer nofollow" target="_blank">Management of Family Violence: Understanding Sexual Abuse</a>
+</p>
+<p></p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5938" rel="noopener noreferrer nofollow" target="_blank">Management of Family Violence: Supporting Clients in Their Trauma Recovery (Synchronous e-learning)</a> - <em>TGS-2020500752</em>
 <br>Register by 13 August 2024</p>
 </li>
@@ -74,7 +98,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5879" rel="noopener noreferrer nofollow" target="_blank">Family Therapy: Intermediate</a> 
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5879" rel="noopener noreferrer nofollow" target="_blank">Family Therapy: Intermediate</a>
 </p>
 </li>
 <li>
@@ -106,7 +130,7 @@ Coming Soon!</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF305" rel="noopener noreferrer nofollow" target="_blank">Mentoring and Coaching Youths Effectively (Classroom &amp; Asynchronous)</a> - <em>TGS-2021009573</em> 
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF305" rel="noopener noreferrer nofollow" target="_blank">Mentoring and Coaching Youths Effectively (Classroom &amp; Asynchronous)</a> - <em>TGS-2021009573</em>
 </p>
 </li>
 <li>
