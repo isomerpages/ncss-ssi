@@ -12,11 +12,11 @@ variant: tiptap
 <h4><strong>Registration now open</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0029" rel="noopener noreferrer nofollow" target="_blank">Managing Suicide Crisis Over Phone</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0029" rel="noopener noreferrer nofollow" target="_blank">Managing Suicide Crisis Over Phone </a><em>- TGS-2023019647</em>
 <br>Register by 20 August 2024</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0109" rel="noopener noreferrer nofollow" target="_blank">Suicide Intervention Skills Workshop</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0109" rel="noopener noreferrer nofollow" target="_blank">Suicide Intervention Skills Workshop </a><em>- TGS_2023019201</em>
 <br>Register by 29 August 2024</p>
 </li>
 </ul>
