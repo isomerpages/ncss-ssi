@@ -57,7 +57,7 @@ variant: tiptap
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Children &amp; Youth Development, Family Therapy / Family Violence Courses: Equip volunteers with skills to work with children, youth and families." src="https://www.ssi.gov.sg/images/training/cyf-v2.png">
 </div>
 <h4>Techniques in Couple Counselling</h4>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5316" rel="noopener noreferrer nofollow" target="_blank">Register by 4 December 2024</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5316" rel="noopener noreferrer nofollow" target="_blank">Register by 18 September 2024</a>
 </p>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/cyandf/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Children, Youth and Family courses</u></a>
@@ -69,10 +69,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Disability Care / Special Needs Courses" src="https://www.ssi.gov.sg/images/training/disability-v2.png">
 </div>
-<h4>Guide the implementation of improved approaches in Early Intervention Teaching</h4>
-<p>TGS-2022013917
-<br><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS84" rel="noopener noreferrer nofollow" target="_blank">Register by 8 August 2024</a>
-</p>
+<h3>Coming Soon!</h3>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/disability/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Disability courses</u></a>
 </p>
@@ -130,8 +127,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Equip volunteers with knowledge, develop volunteer management capabilities" src="/images/training/volunteer-v2.png">
 </div>
-<h4>Manage Challenging Social Service and NPO Clients</h4>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NPEF6032" rel="noopener noreferrer nofollow" target="_blank">Register by 30 August 24</a>
+<h4>Design &amp; Develop: Crafting Volunteers Roles for Maximum Impact</h4>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0134" rel="noopener noreferrer nofollow" target="_blank">Register by 17 October 2024</a>
 </p>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" rel="noopener noreferrer nofollow" target="\_blank">View other Volunteering Management and Development courses</a>
