@@ -16,7 +16,7 @@ variant: tiptap
 <h4>Course Schedule &amp; Registration Dates</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/training courses/Monthly_Featured_Courses___3_July_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Registration period: August to December 2024</a>
+<p><a href="/files/training courses/Monthly_Featured_Courses___2_Aug_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Registration period: September 2024 to January 2025</a>
 </p>
 </li>
 </ul>
@@ -32,7 +32,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Continuing Education &amp; Training (CET) Courses" src="/images/training/cet-v2.png">
 </div>
 <h4>Higher Diploma in Social Service (HDSS)</h4>
-<p><a href="https://www.ssi.gov.sg/training/cet-programmes/higher-diploma-in-social-service/" rel="noopener noreferrer nofollow" target="_blank">Register between 1 August – 31 August 2024</a>
+<p><a href="https://www.ssi.gov.sg/training/cet-programmes/higher-diploma-in-social-service/" rel="noopener noreferrer nofollow" target="_blank">Register by 31 August 2024</a>
 <br>
 </p>
 <p><a href="https://www.ssi.gov.sg/training/cet-programmes/" rel="noopener noreferrer nofollow" target="_blank">View other Continuing Education &amp; Training (CET) courses</a>
@@ -44,9 +44,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Counselling, Motivational Interviewing &amp; Behaviour Therapy Courses" src="https://www.ssi.gov.sg/images/training/cross-sector-v2.png">
 </div>
-<p></p>
-<h4>Promote Diversity and Inclusion in Social Work</h4>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0102" rel="noopener noreferrer nofollow" target="_blank">Register by 21 October 2024</a>
+<h4>Counselling Skills and Practice: Intermediate</h4>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5468" rel="noopener noreferrer nofollow" target="_blank">Register by 31 December 2024</a>
 <br>
 <br><a href="https://www.ssi.gov.sg/training/cross-sector/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Cross Sector courses</u></a>
 </p>
@@ -58,7 +57,7 @@ variant: tiptap
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Children &amp; Youth Development, Family Therapy / Family Violence Courses: Equip volunteers with skills to work with children, youth and families." src="https://www.ssi.gov.sg/images/training/cyf-v2.png">
 </div>
 <h4>Techniques in Couple Counselling</h4>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5316" rel="noopener noreferrer nofollow" target="_blank">Register by 4 December 2024</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5316" rel="noopener noreferrer nofollow" target="_blank">Register by 18 September 2024</a>
 </p>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/cyandf/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Children, Youth and Family courses</u></a>
@@ -70,10 +69,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Disability Care / Special Needs Courses" src="https://www.ssi.gov.sg/images/training/disability-v2.png">
 </div>
-<h4>Guide the implementation of improved approaches in Early Intervention Teaching</h4>
-<p>TGS-2022013917
-<br><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS84" rel="noopener noreferrer nofollow" target="_blank">Register by 8 August 2024</a>
-</p>
+<h3>Coming Soon!</h3>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/disability/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Disability courses</u></a>
 </p>
@@ -118,8 +114,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Social Service / Nonprofit Leadership and Management Training Course" src="https://www.ssi.gov.sg/images/training/mod-v2.png">
 </div>
-<h4>Teambuilding and leadership Development for NPO Leaders</h4>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT6014" rel="noopener noreferrer nofollow" target="_blank">Register by 1 August 2024</a>
+<h4>Internal Controls (IV): General Accounting, Fixed Assets, Inventory and Human Resource Management</h4>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5468" rel="noopener noreferrer nofollow" target="_blank">Register by 14 October 2024</a>
 </p>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Management and Organisation Development courses</u></a>
@@ -131,8 +127,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Equip volunteers with knowledge, develop volunteer management capabilities" src="/images/training/volunteer-v2.png">
 </div>
-<h4>Manage Challenging Social Service and NPO Clients</h4>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NPEF6032" rel="noopener noreferrer nofollow" target="_blank">Register by 30 August 24</a>
+<h4>Design &amp; Develop: Crafting Volunteers Roles for Maximum Impact</h4>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0134" rel="noopener noreferrer nofollow" target="_blank">Register by 17 October 2024</a>
 </p>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" rel="noopener noreferrer nofollow" target="\_blank">View other Volunteering Management and Development courses</a>
@@ -176,8 +172,7 @@ variant: tiptap
 </li>
 <li>
 <p>For foreigners who are staff of NCSS Member Social Service Agencies:*
-<a href="https://www.ncss.gov.sg/grants-search/detail-page/VCFProfessionalCapabilityGrant-LocalTraining" rel="noopener noreferrer nofollow" target="_blank">VCF Professional Capability Grant (PCG) is available via Direct Training
-Application</a>.
+<a href="https://www.ncss.gov.sg/grants-search/detail-page/VCFProfessionalCapabilityGrant-LocalTraining" rel="noopener noreferrer nofollow" target="_blank">Professional Capability Grant (PCG) is available via Direct Training Application</a>.
 <br>
 <br>Terms and conditions apply.</p>
 </li>

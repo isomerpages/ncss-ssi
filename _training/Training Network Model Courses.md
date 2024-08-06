@@ -14,23 +14,19 @@ the sector.</p>
 <h4><strong>Registration now open</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0103" rel="noopener noreferrer nofollow" target="_blank">Basic Therapeutic Skills</a> - <em>TGS-2023036063 </em>
-<br>Register by 25 Jul 2024</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0032" rel="noopener noreferrer nofollow" target="_blank">Executive Function Skills for Children with SEN</a> - <em>TGS-2023019843</em>
 <br>Register by 30 August 2024</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0077" rel="noopener noreferrer nofollow" target="_blank">Applying Theory of Change and Logic Model in Programme Planning</a> - <em>TGS-2023019733</em>
-<br>Register by 4 September 2024</p>
+<br>Register by 2 September 2024</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0012" rel="noopener noreferrer nofollow" target="_blank">A Spotlight on Dementia</a> -<em> TGS-2023019206</em>
-<br>Register by 12 September 2024</p>
+<br>Register by 17 September 2024</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0080" rel="noopener noreferrer nofollow" target="_blank">Support the Implementation of Volunteer Programmes</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0080" rel="noopener noreferrer nofollow" target="_blank">Support the Implementation of Volunteer Programmes </a><em>- TGS-2023022331</em>
 <br>Register by 19 September 2024</p>
 </li>
 </ul>
@@ -1039,6 +1035,7 @@ volunteer partnerships.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0080" rel="noopener noreferrer nofollow" target="_blank">Support the Implementation of Volunteer Programmes (Classroom and Asynchronous E-learning)</a></strong>
+<br><em>- TGS-2023022331</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
