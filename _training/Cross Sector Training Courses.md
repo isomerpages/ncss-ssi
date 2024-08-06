@@ -23,16 +23,8 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5228" rel="noopener noreferrer nofollow" target="_blank">Case Management in Practice: Introduction</a>
-<br>Register by 8 August 2024</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SST0929" rel="noopener noreferrer nofollow" target="_blank">Identify Learning Needs for Personal and Professional Development </a>
-<br>Register by 19 September 2024</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS30" rel="noopener noreferrer nofollow" target="_blank">Engage Stakeholders Effectively</a>
-<br>Register by 7 October 2024</p>
+<br>Register by 3 October 2024</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5451" rel="noopener noreferrer nofollow" target="_blank">Building Emotional Resilience in Caregiving</a>
@@ -40,7 +32,7 @@ youth, adults and seniors.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0102" rel="noopener noreferrer nofollow" target="_blank">Promote Diversity and Inclusion in Social Work</a>
-<br>Register by 21 October 2024</p>
+<br>Register by 3 October 2024</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5647" rel="noopener noreferrer nofollow" target="_blank">May I Help You? (Boleh Saya Bantu Anda?) - Conversational Malay for Social Service Practitioners</a>
@@ -78,6 +70,10 @@ exposes learners to ethical considerations and self-care practices needed
 in the counselling profession.</p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS30" rel="noopener noreferrer nofollow" target="_blank">Engage Stakeholders Effectively</a>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCET159" rel="noopener noreferrer nofollow" target="_blank">Fundamentals in Developing Community Work Programme (NSFWCF Foundational)</a>
 </p>
 </li>
@@ -106,6 +102,10 @@ include trends and challenges in the future.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/training/cet-programmes/advanced-certificate-in-social-service/" rel="noopener noreferrer nofollow" target="_blank">Advanced Certificate in Social Service</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5228" rel="noopener noreferrer nofollow" target="_blank">Case Management in Practice: Introduction</a>
 </p>
 </li>
 <li>
