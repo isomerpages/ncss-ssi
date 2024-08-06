@@ -27,12 +27,12 @@ youth, adults and seniors.</p>
 <br>Register by 3 October 2024</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5451" rel="noopener noreferrer nofollow" target="_blank">Building Emotional Resilience in Caregiving</a>
-<br>Register by 10 October 2024</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0102" rel="noopener noreferrer nofollow" target="_blank">Promote Diversity and Inclusion in Social Work</a>
 <br>Register by 3 October 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5451" rel="noopener noreferrer nofollow" target="_blank">Building Emotional Resilience in Caregiving</a>
+<br>Register by 10 October 2024</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5647" rel="noopener noreferrer nofollow" target="_blank">May I Help You? (Boleh Saya Bantu Anda?) - Conversational Malay for Social Service Practitioners</a>
