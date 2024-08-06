@@ -13,10 +13,6 @@ variant: tiptap
 <h4>People Management and Leadership</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener noreferrer nofollow" target="_blank">Developing Effective Supervisory Skills</a>
-<br>Register by 8 August 2024</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NPEF6032" rel="noopener noreferrer nofollow" target="_blank">Manage Challenging Social Service and NPO Clients</a>
 <br>Register by 30 August 2024</p>
 </li>
@@ -51,6 +47,10 @@ latest updates.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NMGT5073" rel="noopener noreferrer nofollow" target="_blank">Developing Your Coaching and Mentoring Skills for NPO Managers</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener noreferrer nofollow" target="_blank">Developing Effective Supervisory Skills</a>
 </p>
 </li>
 <li>
