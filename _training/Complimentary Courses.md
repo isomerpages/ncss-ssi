@@ -32,6 +32,13 @@ have requested for more support on.</p>
 </p>
 </li>
 </ol>
+<h4><strong>Management and Organisation Development</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCOF430" rel="noopener noreferrer nofollow" target="_blank">Introduction to Internal Controls</a>
+</p>
+</li>
+</ol>
 <h4><strong>Volunteer Management and Development</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
