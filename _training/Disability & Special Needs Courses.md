@@ -9,14 +9,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Disability Care / Special Needs Courses" src="/images/disability-banner.png">
 </div>
 <h3><strong>Disability Training Courses offered by SSI</strong></h3>
-<h4><strong>Registration now open</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS84" rel="noopener noreferrer nofollow" target="_blank">Guide the implementation of improved approaches in Early Intervention Teaching</a> -
-TGS-2022013917
-<br>Register by 8 August 2024</p>
-</li>
-</ul>
+<h4><strong>Coming Soon!</strong></h4>
+<p></p>
 <p><a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe to our Mailing List for latest updates.</u></a>
 </p>
 <h3><strong>Other Featured Short Courses in Early Childhood Interventions and Managing Disabilities</strong></h3>
