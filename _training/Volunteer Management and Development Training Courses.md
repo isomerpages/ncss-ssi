@@ -12,7 +12,7 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0134" rel="noopener noreferrer nofollow" target="_blank">Design &amp; Develop: Crafting Volunteers Roles for Maximum Impact</a>
-<br>Register by 21 November 2024</p>
+<br>Register by 17 October 2024</p>
 </li>
 </ul>
 <h4><strong>Registration Open Throughout the Year</strong></h4>
