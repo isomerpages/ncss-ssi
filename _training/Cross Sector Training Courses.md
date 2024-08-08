@@ -19,7 +19,7 @@ youth, adults and seniors.</p>
 <h3><strong>Registration now open</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS400" rel="noopener noreferrer nofollow" target="_blank">Understanding Singapore's Social Compact and Social Policies</a>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0138" rel="noopener noreferrer nofollow" target="_blank">Understanding Singapore's Social Compact and Social Policies</a>
 </p>
 </li>
 <li>
