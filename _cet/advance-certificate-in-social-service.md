@@ -85,7 +85,7 @@ programme offered by the Singapore University of Social Sciences (SUSS).
 <p>Have a Grade of C6 for GCE 'O' Level English (or equivalent).</p>
 </li>
 <li>
-<p>Complete a complimentary e-learning course “, <a href="https://iltms.ssi.gov.sg/Registration/Login?scheduleno=S2300747" rel="noopener noreferrer nofollow" target="_blank">Singapore’s Social Compact</a> (download
+<p>Complete a complimentary e-learning course “, <a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0138" rel="noopener noreferrer nofollow" target="_blank">Singapore's Social Compact</a> (download
 the e-certificate and submit it upon registration for this programme).</p>
 </li>
 </ul>
