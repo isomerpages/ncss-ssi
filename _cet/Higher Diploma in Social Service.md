@@ -80,7 +80,7 @@ become a Social Worker.</p>
 <p>At least two years of full-time working experience.</p>
 </li>
 <li>
-<p>Complete the complimentary e-learning course: <a href="https://iltms.ssi.gov.sg/Registration/Login?scheduleno=S2401493" rel="noopener noreferrer nofollow" target="_blank">Singapore’s Social Compact</a>(download
+<p>Complete the complimentary e-learning course: <a href="https://iltms.ssi.gov.sg/Registration/Login?scheduleno=S2401493" rel="noopener noreferrer nofollow" target="_blank">Singapore’s Social Compact </a>(download
 the e-certificate and submit it upon registration for this programme)<sup>1</sup> .</p>
 </li>
 </ul>
