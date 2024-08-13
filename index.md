@@ -73,7 +73,7 @@ sections:
       description: SSI is actively looking for partnerships with SSAs, NPOs, IHLs and
         private training bodies to co-develop the capabilities of Singapore’s
         social service sector.
-      button: Learn more about our Partners
+      button: Explore Partnerships
       url: /about-us/our-partners/
       image: /images/homepage/our-partners.jpg
       alt: Social Service Institute SSI Singapore - Partnerships with SSAs, NPOs, IHLs
@@ -82,7 +82,7 @@ sections:
       title: Our Stories
       description: Hear from our learners whose lives have been transformed through
         their desire to learn and grow through SSI’s courses and initiatives.
-      button: Learn more about our stories
+      button: Read our stories
       url: /stories/
       image: /images/homepage/our_Stories.jpg
       alt: SSI - Our Stories
