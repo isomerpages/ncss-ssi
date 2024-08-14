@@ -61,7 +61,7 @@ sections:
   - infopic:
       title: Refreshed 4ST (2022-2026)
       subtitle: Roadmap for the Sector
-      button: Find out more
+      button: Find out more about 4ST
       url: https://go.gov.sg/wu0chy
       alt: Refreshed 4ST (2022-2026)
       image: /images/homepage/NCSS_SSSR_2022_2026_banner_1145x395.jpg
@@ -73,7 +73,7 @@ sections:
       description: SSI is actively looking for partnerships with SSAs, NPOs, IHLs and
         private training bodies to co-develop the capabilities of Singapore’s
         social service sector.
-      button: Learn More
+      button: Explore Partnerships
       url: /about-us/our-partners/
       image: /images/homepage/our-partners.jpg
       alt: Social Service Institute SSI Singapore - Partnerships with SSAs, NPOs, IHLs
@@ -82,7 +82,7 @@ sections:
       title: Our Stories
       description: Hear from our learners whose lives have been transformed through
         their desire to learn and grow through SSI’s courses and initiatives.
-      button: Learn More
+      button: Read our stories
       url: /stories/
       image: /images/homepage/our_Stories.jpg
       alt: SSI - Our Stories
