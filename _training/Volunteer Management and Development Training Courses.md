@@ -41,6 +41,10 @@ variant: tiptap
 <p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD313" rel="noopener noreferrer nofollow" target="_blank">Volunteer Management Practices: Connect, Engage, Develop</a>
 </p>
 </li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0133" rel="noopener nofollow" target="_blank">Plan &amp; Strategise: Enhancing Volunteer Engagement</a>
+</p>
+</li>
 </ul>
 <h4><strong>Volunteer Development Training Courses</strong></h4>
 <ul data-tight="true" class="tight">
@@ -54,7 +58,7 @@ variant: tiptap
 <p></p>
 </li>
 </ul>
-<p>View the <a href="https://iltms.ssi.gov.sg/registration/#/Course" rel="noopener noreferrer nofollow" target="_blank">full list of courses</a>.</p>
+<p>View the <a href="https://iltms.ssi.gov.sg/registration/#/Course" rel="noopener noreferrer nofollow" target="_blank">full list of volunteer management and development courses</a>.</p>
 <h3><strong>Key Adult Educators for Volunteer Management and Development Courses</strong></h3>
 <p><strong>Ms Alice Lee-Tok</strong> 
 <br>Alice is a family education consultant and trainer with more than 15 years
