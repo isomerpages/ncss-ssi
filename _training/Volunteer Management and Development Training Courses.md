@@ -37,6 +37,10 @@ variant: tiptap
 <p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NVOL5808" rel="noopener noreferrer nofollow" target="_blank">Plan and Strategise for an Effective Volunteer Engagement Programme</a>
 </p>
 </li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD313" rel="noopener noreferrer nofollow" target="_blank">Volunteer Management Practices: Connect, Engage, Develop</a>
+</p>
+</li>
 </ul>
 <h4><strong>Volunteer Development Training Courses</strong></h4>
 <ul data-tight="true" class="tight">
@@ -47,14 +51,10 @@ variant: tiptap
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311" rel="noopener noreferrer nofollow" target="_blank">Befriending Skills and Practice (For Volunteers)</a>
 </p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD313" rel="noopener noreferrer nofollow" target="_blank">Volunteer Management Practices: Connect, Engage, Develop</a>
-<br>
-</p>
+<p></p>
 </li>
 </ul>
-<p>View the <a href="https://iltms.ssi.gov.sg/registration/#/Course" rel="noopener noreferrer nofollow" target="_blank">full list of volunteer management and development courses</a>.</p>
+<p>View the <a href="https://iltms.ssi.gov.sg/registration/#/Course" rel="noopener noreferrer nofollow" target="_blank">full list of courses</a>.</p>
 <h3><strong>Key Adult Educators for Volunteer Management and Development Courses</strong></h3>
 <p><strong>Ms Alice Lee-Tok</strong> 
 <br>Alice is a family education consultant and trainer with more than 15 years
