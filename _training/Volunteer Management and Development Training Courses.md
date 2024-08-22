@@ -46,18 +46,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4><strong>Volunteer Development Training Courses</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD227" rel="noopener noreferrer nofollow" target="_blank">Introduction to Youth Mentoring (For Volunteers)</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVDM5311" rel="noopener noreferrer nofollow" target="_blank">Befriending Skills and Practice (For Volunteers)</a>
-</p>
-<p></p>
-</li>
-</ul>
 <p>View the <a href="https://iltms.ssi.gov.sg/registration/#/Course" rel="noopener noreferrer nofollow" target="_blank">full list of volunteer management and development courses</a>.</p>
 <h3><strong>Key Adult Educators for Volunteer Management and Development Courses</strong></h3>
 <p><strong>Ms Alice Lee-Tok</strong> 
