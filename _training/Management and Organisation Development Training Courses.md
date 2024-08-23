@@ -14,7 +14,13 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NPEF6032" rel="noopener noreferrer nofollow" target="_blank">Manage Challenging Social Service and NPO Clients</a>
-<br>Register by 30 August 2024</p>
+<br>Register by 13 September 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener nofollow" target="_blank">Developing Effective Supervisory Skills</a>
+</p>
+<p>Register by 16 September 2024</p>
+<p></p>
 </li>
 </ul>
 <h4>Financial Management</h4>
