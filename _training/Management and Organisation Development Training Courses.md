@@ -18,8 +18,7 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener nofollow" target="_blank">Developing Effective Supervisory Skills</a>
-</p>
-<p>Register by 16 September 2024</p>
+<br>Register by 16 September 2024</p>
 <p></p>
 </li>
 </ul>
