@@ -30,15 +30,7 @@ variant: tiptap
 <h4>Volunteer Management Training Courses</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NVOL5809" rel="noopener noreferrer nofollow" target="_blank">Design and Develop an Effective Volunteer Work Programme</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=NVOL5808" rel="noopener noreferrer nofollow" target="_blank">Plan and Strategise for an Effective Volunteer Engagement Programme</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SVLD313" rel="noopener noreferrer nofollow" target="_blank">Volunteer Management Practices: Connect, Engage, Develop</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SVLD313" rel="noopener noreferrer nofollow" target="_blank">Volunteer Management Practices: Connect, Engage, Develop</a>
 </p>
 </li>
 <li>
@@ -118,7 +110,7 @@ initiatives!</p>
 <p>Alternatively, if you have any Volunteer Management related questions,
 feel free to drop us an email at <a href="mailto:matthew_leung@ncss.gov.sg" rel="noopener noreferrer nofollow" target="_blank">matthew_leung@ncss.gov.sg</a>.
 <br>
-<br>Visit the <a href="https://go.gov.sg/ncssvmprofessionaldevelopment" rel="noopener noreferrer nofollow" target="_blank">NCSS Volunteer Resource Hub</a>.</p>
+<br>Visit the <a href="https://www.ncss.gov.sg/volunteer/volunteer-resource-hub" rel="noopener nofollow" target="_blank">NCSS Volunteer Management &amp; Engagement Resource Hub</a>.</p>
 <h4><strong>Subscribe to Mailing List</strong></h4>
 <p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Volunteer Management and Development Training Courses Mailing List</a> for
 latest updates!</p>
