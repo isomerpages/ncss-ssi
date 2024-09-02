@@ -177,7 +177,7 @@ Experience (except for learners who have undergone the Social Service Field
 experience in the WSQ ACSS or SSI ACSS programme).
 <br>
 <br>Eligible Learners will be provided with the details for the Social Service
-Field Experience registration and payment of S$360 (before GST) separately
+Field Experience registration and payment of S$180 (before GST) separately
 by the programme coordinator.</p>
 <p>Course fees for the programme have to be paid upon acceptance of the offer
 letter within the timeline provided in the offer letter.</p>
