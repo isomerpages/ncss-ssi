@@ -228,14 +228,6 @@ with all relevant supporting documents via the <a href="https://iltms.ssi.gov.sg
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Programme Preview (Audi)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 August 2024 (7pm to 9pm)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Notify HDSS Applicants of WAT</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -289,13 +281,9 @@ panel on the dates specified above. Applicants will receive an email from
 SSI informing them about the assigned interview date and time and are required
 to make themselves available for the interview accordingly. Requests for
 alternative arrangements will not be considered.</p>
-<p></p>
-<hr>
-<h3>Register for a Course Preview Session</h3>
-<p>Stay tuned for updates.</p>
 <hr>
 <h4>FAQs</h4>
 <p>Download the <a href="/files/hdss/FAQ_for_Higher_Diploma_in_Social_Service_Jul_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a> relating
-to this programme.</p>
-<p>Learn more about the application procedure from the <a href="/files/hdss/ssi%20-%20application%20guide%20-%20higher%20diploma%20in%20social%20service%20(jun%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">HDSS Application Guide</a>.</p>
+to this programme.
+<br>Learn more about the application procedure from the <a href="/files/hdss/ssi%20-%20application%20guide%20-%20higher%20diploma%20in%20social%20service%20(jun%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">HDSS Application Guide</a>.</p>
 <p></p>
