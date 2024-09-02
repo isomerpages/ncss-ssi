@@ -292,13 +292,7 @@ alternative arrangements will not be considered.</p>
 <p></p>
 <hr>
 <h3>Register for a Course Preview Session</h3>
-<p><strong>Date:</strong> 6 August 2024
-<br><strong>Time:</strong> 7pm
-<br><strong>Venue:</strong> SSI Auditorium (Level 18), Tiong Bahru Plaza</p>
-<p><a href="https://go.gov.sg/ssi-preview-registration" rel="noopener noreferrer nofollow" target="_blank">Register Now!</a>
-</p>
-<p><em>Note: A confirmation email will be sent to all registered participants 3 days before the actual session. We look forward to your attendance.</em>
-</p>
+<p>Stay tuned for updates.</p>
 <hr>
 <h4>FAQs</h4>
 <p>Download the <a href="/files/hdss/FAQ_for_Higher_Diploma_in_Social_Service_Jul_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a> relating
