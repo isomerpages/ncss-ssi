@@ -12,13 +12,16 @@ variant: tiptap
 <h4><strong>Registration now open</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ethical Considerations when Interacting with Children (Part 1)</p>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS37" rel="noopener nofollow" target="_blank">Ethical Considerations when Interacting with Children (Part 1)</a>
+</p>
 </li>
 <li>
-<p>Ethical Considerations when Interacting with Youths (Part 2)</p>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS33" rel="noopener nofollow" target="_blank">Ethical Considerations when Interacting with Youths (Part 2)</a>
+</p>
 </li>
 <li>
-<p>Podcast - Inhale Insight: Understanding Youth Vaping</p>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0150" rel="noopener nofollow" target="_blank">Podcast - Inhale Insight: Understanding Youth Vaping</a>
+</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5583" rel="noopener noreferrer nofollow" target="_blank">Management of Family Violence: Working with Couples in Violent Relationships</a>
@@ -79,7 +82,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5340" rel="noopener noreferrer nofollow" target="_blank">Delivering Impactful Training to Youths </a>- <em>TGS-2020500657 </em>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5340" rel="noopener noreferrer nofollow" target="_blank">Delivering Impactful Training to Youths </a>- <em>TGS-2020500657</em>
 </p>
 </li>
 <li>
@@ -96,10 +99,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF278" rel="noopener noreferrer nofollow" target="_blank">Introduction to Trauma Informed Positive Behaviour Interventions and Supports for Children and Young Persons in Residential Care</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF294" rel="noopener noreferrer nofollow" target="_blank">Implementing Trauma Informed Positive Behavioural Interventions and Supports for Children and Young Persons in Residential Care</a>
 </p>
 </li>
 <li>
