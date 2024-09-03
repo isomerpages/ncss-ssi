@@ -23,8 +23,8 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SST0929" rel="noopener noreferrer nofollow" target="_blank">Identify Learning Needs for Personal and Professional Development </a>
-<br>Register by 3 October 2024</p>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0147" rel="noopener nofollow" target="_blank">Using Sector Evaluation Framework (SEF) in Articulating Programme Outcomes</a>
+</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0102" rel="noopener noreferrer nofollow" target="_blank">Promote Diversity and Inclusion in Social Work</a>
@@ -43,8 +43,22 @@ youth, adults and seniors.</p>
 <br>Register by 5 December 2024</p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SST0929" rel="noopener noreferrer nofollow" target="_blank">Identify Learning Needs for Personal and Professional Development </a>
+<br>Register by 30 December 2024</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5446" rel="noopener noreferrer nofollow" target="_blank">Counselling Skills and Practice: Intermediate</a>
 <br>Register by 31 December 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SMTH93" rel="noopener nofollow" target="_blank">Applying Self-Care Techniques for Social Service Professionals</a>
+<br>Register by 6 January 2025</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5279" rel="noopener noreferrer nofollow" target="_blank">Solution Focused Brief Therapy: Introduction</a> 
+<br>The course trains learners to apply Solutions Focused Brief Therapy (SFBT)
+when interacting with difficult clients.
+<br>Register by 23 January 2025</p>
 </li>
 </ul>
 <h3><strong>Other Featured Short Courses in Befriending, Case Management, Counselling and more</strong></h3>
