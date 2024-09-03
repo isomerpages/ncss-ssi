@@ -9,17 +9,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Mental Health Conditions  Recovery Courses" src="/images/mental-health-banner.png">
 </div>
 <h3><strong>Mental Health Training Courses offered by SSI</strong></h3>
-<h4><strong>Registration now open</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0029" rel="noopener noreferrer nofollow" target="_blank">Managing Suicide Crisis Over Phone </a><em>- TGS-2023019647</em>
-<br>Register by 20 August 2024</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0109" rel="noopener noreferrer nofollow" target="_blank">Suicide Intervention Skills Workshop </a><em>- TGS_2023019201</em>
-<br>Register by 29 August 2024</p>
-</li>
-</ul>
+<h4><strong>Coming Soon!</strong></h4>
+<p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI's Mental Health Mailing List</a> for
+latest updates!</p>
 <h3><strong>Other Featured Courses in Mental Health, Suicide Prevention and Psychiatric Rehabilitation</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -35,11 +27,19 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0029" rel="noopener noreferrer nofollow" target="_blank">Managing Suicide Crisis Over Phone </a><em>- TGS-2023019647</em>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS5911" rel="noopener noreferrer nofollow" target="_blank">Mental Illness and Recovery</a>
 </p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS6109" rel="noopener noreferrer nofollow" target="_blank">Skills-Based Psychiatric Rehabilitation</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0109" rel="noopener noreferrer nofollow" target="_blank">Suicide Intervention Skills Workshop </a><em>- TGS_2023019201</em>
 </p>
 </li>
 <li>
