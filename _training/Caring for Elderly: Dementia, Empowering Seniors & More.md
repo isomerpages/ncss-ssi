@@ -9,9 +9,20 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Caring and communicating with dementia and senior persons courses" src="/images/eldercare-banner.png">
 </div>
 <h3><strong>Eldercare Training Courses offered by SSI</strong></h3>
-<h4><strong>Coming Soon!</strong></h4>
-<p>Subscribe to our <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">Mailing List</a> for
-latest updates.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0129" rel="noopener nofollow" target="_blank">Gergogy Guidelines - Engaging Senior Learners – A Guide for Effective Interactions (Part 1)</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0130" rel="noopener nofollow" target="_blank">Gergogy Guidelines - Dispositions and Training Styles for Engaging Senior Learners (Part 2)</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0131" rel="noopener nofollow" target="_blank">Gergogy Guidelines - Effective Teaching Methods for Engaging Senior  Learners (Part 3)</a>
+</p>
+</li>
+</ul>
 <h3><strong>Other featured courses in Eldercare, Communication and Counselling</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
