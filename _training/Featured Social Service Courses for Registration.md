@@ -99,9 +99,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Board Development Courses" src="https://www.ssi.gov.sg/images/training/board-v2.png">
 </div>
-<h3>Developing Your Coaching and Mentoring Skills</h3>
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCOF90" rel="noopener nofollow" target="_blank">Register by 12 December 2024</a></strong>
-</p>
+<h3>Coming Soon!</h3>
 <p><a href="https://www.ssi.gov.sg/training/board-development/" rel="noopener noreferrer nofollow" target="\_blank"><u>View all Board Development courses</u></a>
 </p>
 </td>
