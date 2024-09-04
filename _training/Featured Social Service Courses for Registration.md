@@ -50,12 +50,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Children &amp; Youth Development, Family Therapy / Family Violence Courses: Equip volunteers with skills to work with children, youth and families." src="https://www.ssi.gov.sg/images/training/cyf-v2.png">
-</div>
 <h3>Ethical Considerations when Interacting with Children</h3>
-<p>Register for <a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0151" rel="noopener nofollow" target="_blank">Part 1</a><strong> </strong>and
-<a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0152" rel="noopener nofollow" target="_blank">Part 2</a>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0151" rel="noopener nofollow" target="_blank">Register is open throughout the year</a></strong>
 </p>
 <p><a href="https://www.ssi.gov.sg/training/cyandf/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Children, Youth and Family courses</u></a>
 </p>
@@ -87,8 +83,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Caring and communicating with dementia and senior persons courses" src="https://www.ssi.gov.sg/images/training/eldercare-v2.png">
 </div>
-<h3>Gergogy Guidelines - Engaging Senior Learners – A Guide for Effective Interactions</h3>
-<p>Register for<strong> <a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0129" rel="noopener nofollow" target="_blank">Part 1</a></strong>,<strong> <a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0130" rel="noopener nofollow" target="_blank">Part 2</a></strong> and <strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0131" rel="noopener nofollow" target="_blank">Part 3</a></strong>
+<h3>Engaging Senior Learners – A Guide for Effective Interactions</h3>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0129" rel="noopener nofollow" target="_blank">Register is open throughout the year</a></strong>
 </p>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/eldercare/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Eldercare courses</u></a>
