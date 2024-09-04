@@ -16,8 +16,7 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0133" rel="noopener nofollow" target="_blank">Plan &amp; Strategise: Enhancing Volunteer Engagement</a>
-</p>
-<p>Register by 5 Decembe 2024</p>
+<br>Register by 5 Decembe 2024</p>
 </li>
 </ul>
 <h4><strong>Registration Open Throughout the Year</strong></h4>
@@ -35,7 +34,7 @@ variant: tiptap
 <h4>Volunteer Management Training Courses</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SVLD313" rel="noopener noreferrer nofollow" target="_blank">Volunteer Management Practices: Connect, Engage, Develo</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SVLD313" rel="noopener noreferrer nofollow" target="_blank">Volunteer Management Practices: Connect, Engage, Develop</a>
 </p>
 </li>
 </ul>
