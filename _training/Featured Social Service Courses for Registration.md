@@ -54,7 +54,8 @@ variant: tiptap
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Children &amp; Youth Development, Family Therapy / Family Violence Courses: Equip volunteers with skills to work with children, youth and families." src="https://www.ssi.gov.sg/images/training/cyf-v2.png">
 </div>
 <h3>Ethical Considerations when Interacting with Children</h3>
-<p>Register for <strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS37" rel="noopener nofollow" target="_blank">Part 1</a> </strong>and <strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS33" rel="noopener nofollow" target="_blank">Part 2</a></strong>
+<p>Register for <a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0151" rel="noopener nofollow" target="_blank">Part 1</a><strong> </strong>and
+<a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0152" rel="noopener nofollow" target="_blank">Part 2</a>
 </p>
 <p><a href="https://www.ssi.gov.sg/training/cyandf/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Children, Youth and Family courses</u></a>
 </p>
