@@ -11,15 +11,15 @@ variant: tiptap
 <h3><strong>Eldercare Training Courses offered by SSI</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0129" rel="noopener nofollow" target="_blank">Gergogy Guidelines - Engaging Senior Learners – A Guide for Effective Interactions (Part 1)</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0129" rel="noopener nofollow" target="_blank">Engaging Senior Learners – A Guide for Effective Interactions</a>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0130" rel="noopener nofollow" target="_blank">Gergogy Guidelines - Dispositions and Training Styles for Engaging Senior Learners (Part 2)</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0130" rel="noopener nofollow" target="_blank">Dispositions and Training Styles for Engaging Senior Learners</a>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0131" rel="noopener nofollow" target="_blank">Gergogy Guidelines - Effective Teaching Methods for Engaging Senior  Learners (Part 3)</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0131" rel="noopener nofollow" target="_blank">Effective Teaching Methods for Engaging Senior Learners</a>
 </p>
 </li>
 </ul>
