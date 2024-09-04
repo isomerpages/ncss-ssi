@@ -12,11 +12,11 @@ variant: tiptap
 <h4><strong>Registration now open</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS37" rel="noopener nofollow" target="_blank">Ethical Considerations when Interacting with Children (Part 1)</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0151" rel="noopener nofollow" target="_blank">Ethical Considerations when Interacting with Children </a>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS33" rel="noopener nofollow" target="_blank">Ethical Considerations when Interacting with Youths (Part 2)</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0152" rel="noopener nofollow" target="_blank">Ethical Considerations when Interacting with Youth</a>
 </p>
 </li>
 <li>
