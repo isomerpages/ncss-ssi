@@ -17,7 +17,19 @@ have requested for more support on.</p>
 </p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0151" rel="noopener nofollow" target="_blank">Ethical Considerations when Interacting with Children</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0152" rel="noopener nofollow" target="_blank">Ethical Considerations when Interacting with Youth</a>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF435" rel="noopener noreferrer nofollow" target="_blank">Introduction to Child Protection Framework</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0150" rel="noopener nofollow" target="_blank">Podcast - Inhale Insight: Understanding Youth Vaping</a>
 </p>
 </li>
 <li>
@@ -29,6 +41,25 @@ have requested for more support on.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0138" rel="noopener noreferrer nofollow" target="_blank">Singapore's Social Compact</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0147" rel="noopener nofollow" target="_blank">Using Sector Evaluation Framework (SEF) in Articulating Programme Outcomes</a>
+</p>
+</li>
+</ol>
+<h4><strong>Caring for Elderly: Dementia, Empowering Seniors &amp; More</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0129" rel="noopener nofollow" target="_blank">Engaging Senior Learners – A Guide for Effective Interactions</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0130" rel="noopener nofollow" target="_blank">Dispositions and Training Styles for Engaging Senior Learners</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0131" rel="noopener nofollow" target="_blank">Effective Teaching Methods for Engaging Senior Learners</a>
 </p>
 </li>
 </ol>
