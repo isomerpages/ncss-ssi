@@ -8,7 +8,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Caring and communicating with dementia and senior persons courses" src="/images/eldercare-banner.png">
 </div>
-<h3><strong>Eldercare Training Courses offered by SSI</strong></h3>
+<h3><strong>Eldercare Complimentary e-Learning Courses offered by SSI</strong></h3>
+<p><em>* Brought to you collaboratively by Council for Third Age (C3A) &amp; Social Service Institute (SSI</em>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0129" rel="noopener nofollow" target="_blank">Engaging Senior Learners – A Guide for Effective Interactions</a>
