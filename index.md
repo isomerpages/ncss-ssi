@@ -6,8 +6,8 @@ description: The Social Service Institute (SSI) is a CET centre that supports
 image: /images/isomer-logo.svg
 permalink: /
 notification: 'We’re making it easier for you to connect with us through our new
-  NCSS Consolidated Hotline at <a target="_blank" href="tel:+6562102500">6210
-  2500</a>.<br><br> The <a target="_blank"
+  NCSS Consolidated Hotline at <a href="tel:+6562102500">6210 2500</a>.<br><br>
+  The <a target="_blank"
   href="https://iltms.ssi.gov.sg/Registration/Course">iLTMS</a> is now live,
   register for courses now!  Note: <a target="_blank"
   href="https://www.ssi.gov.sg/maintenance-schedule">Scheduled maintenance</a>
