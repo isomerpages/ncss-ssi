@@ -9,7 +9,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Mental Health Conditions  Recovery Courses" src="/images/mental-health-banner.png">
 </div>
 <h3><strong>Mental Health Training Courses offered by SSI</strong></h3>
-<h4><strong>Coming Soon!</strong></h4>
+<p>Coming Soon!</p>
 <p><a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe to our Mailing List for latest updates.</u></a>
 </p>
 <h3><strong>Other Featured Courses in Mental Health, Suicide Prevention and Psychiatric Rehabilitation</strong></h3>
