@@ -71,7 +71,7 @@ to submit course registration.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://iltms.ssi.gov.sg/student" rel="noopener noreferrer nofollow" target="_blank">Student Portal</a>
+<p><a href="https://iltms.ssi.gov.sg/student" rel="noopener nofollow" target="_blank">Student Portal</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
