@@ -78,7 +78,7 @@ Coming Soon!</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5936" rel="noopener noreferrer nofollow" target="_blank">Family and Adult Support Tool (FAST) - User </a><em> - TGS-2020500870</em>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5936" rel="noopener noreferrer nofollow" target="_blank">Family and Adult Support Tool (FAST) - User </a><em>- TGS-2020500870</em>
 </p>
 </li>
 <li>
@@ -110,7 +110,7 @@ Coming Soon!</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF233" rel="noopener noreferrer nofollow" target="_blank">Safety Planning and Monitoring - A 5.5-Step Model</a><em> -  TGS-2021002769</em>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF233" rel="noopener noreferrer nofollow" target="_blank">Safety Planning and Monitoring - A 5.5-Step Model</a><em> - TGS-2021002769</em>
 </p>
 </li>
 <li>
@@ -122,7 +122,7 @@ Coming Soon!</p>
 Soon!</p>
 </li>
 <li>
-<p>Youth Work: Introduction to an Evidence-Based Approach -- Coming Soon!</p>
+<p>Youth Work: Introduction to an Evidence-Based Approach - Coming Soon!</p>
 <p></p>
 </li>
 </ul>
