@@ -76,7 +76,7 @@ Needs - Module 2 (New)<em> - TGS-2022014671</em>
 <p>Check out the <a href="https://iltms.ssi.gov.sg/registration#/Course" rel="noopener noreferrer nofollow" target="_blank">full list of SSI's Disability courses</a>.</p>
 <hr>
 <h3><strong>Meet our Featured Adult Educators</strong></h3>
-<p><strong>Ms June Tham-Toh Syn Yuen</strong> 
+<p><strong>Ms June Tham-Toh Syn Yuen </strong>
 <br>June was the Executive Director of Rainbow Centre before she retired in
 2014. She holds a Master of Education, Diploma in Management Studies, Certification
 of Achievement in Outcome Management: Train-The-Trainer, Early Childhood
