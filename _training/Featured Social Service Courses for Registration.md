@@ -41,9 +41,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Counselling, Motivational Interviewing &amp; Behaviour Therapy Courses" src="https://www.ssi.gov.sg/images/training/cross-sector-v2.png">
 </div>
-<h3>Using Sector Evaluation Framework (SEF) in Articulating Programme Outcomes</h3>
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0147" rel="noopener nofollow" target="_blank">Register is open throughout the year</a></strong>
-</p>
+<h4>Coming Soon!</h4>
+<p></p>
 <p><a href="https://www.ssi.gov.sg/training/cross-sector/" rel="noopener nofollow" target="_blank">View other Cross Sector courses</a>
 </p>
 </td>
