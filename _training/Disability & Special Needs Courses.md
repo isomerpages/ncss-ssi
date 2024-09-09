@@ -9,7 +9,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Disability Care / Special Needs Courses" src="/images/disability-banner.png">
 </div>
 <h2><strong>Certification Courses for Disability</strong></h2>
-<h3><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS8" rel="noopener noreferrer nofollow" target="_blank">ACSE: Advanced Cert in Supported Employment</a></h3>
+<h3><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS8" rel="noopener noreferrer nofollow" target="_blank">ACSE: Advanced Cert in Supported Employment</a></strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Module 1: Supported Employment and Working with Clients of Different Disabilities<em> - TGS-2021008466</em>
@@ -108,6 +108,7 @@ acute and chronic health conditions; psychiatric illnesses; mental health
 challenges; persons with disabilities; challenging social situations such
 as extreme poverty; geriatric issues as well as crisis and traumatic situations
 such as family violence, suicide, sexual assault and refugees seeking asylum.</p>
+<hr>
 <h4><strong>Subscribe and Stay Connected!</strong></h4>
 <p>Subscribe to SSI's Disability Mailing List for latest updates!</p>
 <p></p>
