@@ -73,39 +73,6 @@ Needs - Module 2 (New)<em> - TGS-2022014671</em>
 </p>
 </li>
 </ul>
-<p><a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe to our Mailing List for latest updates.</u></a>
-</p>
-<h3><strong>Other Featured Short Courses in Early Childhood Interventions and Managing Disabilities</strong></h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS251" rel="noopener noreferrer nofollow" target="_blank">Use of Client-Assessment Form (CAF-R) for Adult Disability Services</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS87" rel="noopener noreferrer nofollow" target="_blank">Working with Persons with Autism</a>
-</p>
-</li>
-</ul>
-<h4><strong>Courses Coming Soon</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS83" rel="noopener noreferrer nofollow" target="_blank">WSQ Principles and Practices of Early Intervention for Children with Special Needs Module 2</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS211" rel="noopener noreferrer nofollow" target="_blank">Independent Travel Training for Professionals Supporting Persons with Disabilities </a>-
-TGS-2020502149</p>
-</li>
-</ul>
-<h4><strong>Certificate/ Diploma/ Degree Programmes</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/training/cet-programmes/advance-certificate-in-supported-employment/" rel="noopener noreferrer nofollow" target="_blank">Advanced Certificate in Supported Employment (ACSE)</a> 
-<br>The Advanced Certificate in Supported Employment (ACSE) aims to build
-capabilities of job coaches in providing employment and employability support
-for persons with disabilities.</p>
-</li>
-</ul>
 <p>Check out the <a href="https://iltms.ssi.gov.sg/registration#/Course" rel="noopener noreferrer nofollow" target="_blank">full list of SSI's Disability courses</a>.</p>
 <hr>
 <h3><strong>Meet our Featured Adult Educators</strong></h3>
