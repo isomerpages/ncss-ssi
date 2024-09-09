@@ -82,7 +82,7 @@ in the counselling profession.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5725" rel="noopener noreferrer nofollow" target="_blank">Motivational Interviewing: An Introduction for Social Service Practitioners</a>  <em>-  TGS-2020500646</em>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5725" rel="noopener noreferrer nofollow" target="_blank">Motivational Interviewing: An Introduction for Social Service Practitioners</a>  <em>- TGS-2020500646</em>
 <br>The course equips learners with the skills to engage and facilitate intrinsic
 motivation in their clients, in order to change behaviour and progress
 towards an improved well-being.</p>
@@ -147,7 +147,6 @@ and direction.</p>
 <li>
 <p>Module 2: Group Work Intervention <em>- TGS-2020503305</em>
 </p>
-<p></p>
 </li>
 </ul>
 </li>
