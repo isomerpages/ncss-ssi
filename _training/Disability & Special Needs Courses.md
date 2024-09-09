@@ -8,8 +8,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Disability Care / Special Needs Courses" src="/images/disability-banner.png">
 </div>
-<h2><strong>Certification Courses for Disability</strong></h2>
-<h3><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS8" rel="noopener noreferrer nofollow" target="_blank">ACSE: Advanced Cert in Supported Employment</a></strong></h3>
+<h3><strong>Certification Courses for Disability</strong></h3>
+<h4><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS8" rel="noopener noreferrer nofollow" target="_blank">ACSE: Advanced Cert in Supported Employment</a></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Module 1: Supported Employment and Working with Clients of Different Disabilities<em> - TGS-2021008466</em>
@@ -32,7 +32,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h3><strong>Adult Disability Courses</strong></h3>
+<h4><strong>Adult Disability Courses</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS251" rel="noopener noreferrer nofollow" target="_blank">Use of Client Assessment Form-Revised for Adult Disability Services e-Learning</a>
@@ -60,7 +60,7 @@ with Behavioural Problems and Mental Health Issues<em> – Coming Soon!</em>
 </p>
 </li>
 </ul>
-<h3><strong>Early Intervention Courses</strong></h3>
+<h4><strong>Early Intervention Courses</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>WSQ Principles and Practices of Early Intervention for Children with Special
@@ -75,7 +75,7 @@ Needs - Module 2 (New)<em> - TGS-2022014671</em>
 </ul>
 <p>Check out the <a href="https://iltms.ssi.gov.sg/registration#/Course" rel="noopener noreferrer nofollow" target="_blank">full list of SSI's Disability courses</a>.</p>
 <hr>
-<h3><strong>Meet our Featured Adult Educators</strong></h3>
+<h4><strong>Meet our Featured Adult Educators</strong></h4>
 <p><strong>Ms June Tham-Toh Syn Yuen </strong>
 <br>June was the Executive Director of Rainbow Centre before she retired in
 2014. She holds a Master of Education, Diploma in Management Studies, Certification
