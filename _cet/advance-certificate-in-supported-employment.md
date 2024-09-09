@@ -105,14 +105,16 @@ for registrations received.
 <hr>
 <p></p>
 <h4><strong>Module 1: Supported Employment and Working with Clients of Different Disabilities</strong></h4>
-<p><strong>Training dates:</strong> 20 to 22 August, 23 and 26 August 2024
+<p> <em>TGS-2021008466</em> 
+<br><strong>Training dates:</strong> 20 to 22 August, 23 and 26 August 2024
 <br><strong>Assessment date:</strong> 26 August 2024</p>
 <p>This module will equip learners with a better understanding of the concept
 and practices of Supported Employment, including techniques to provide
 guidance to clients with disabilities in their career planning, employment
 laws and grants available for employers and persons with disabilities.</p>
 <h4><strong>Module 2: Basic Counselling Skills and Practice for Job Coaches</strong></h4>
-<p><strong>Training dates:</strong> 4 to 5 September 2024
+<p><em>TGS-2020501623</em>
+<br><strong>Training dates:</strong> 4 to 5 September 2024
 <br><strong>Assessment date:</strong> 5 September 2024</p>
 <p>This module provides an overview of the counselling process, the different
 roles performed by the job coach-counsellor, basic counselling skills,
@@ -121,7 +123,8 @@ problem management. In addition, this module will also cover barriers of
 communication in the counselling process and ways to prevent communication
 breakdown when working with clients.</p>
 <h4><strong>Module 3: Introduction to Case Management</strong></h4>
-<p><strong>Training dates:</strong> 12 to 13 September 2024
+<p><em>TGS-2020500820</em>
+<br><strong>Training dates:</strong> 12 to 13 September 2024
 <br><strong>Assessment date:</strong> 13 September 2024</p>
 <p>This module will equip learners with the necessary skills and knowledge
 of case management in practice. It provides learners with a broad understanding
@@ -131,7 +134,8 @@ and direction. Additionally, the workshop also helps learners in forming
 the connections between job coach, client, service personnel and other
 stakeholders in order to optimize the assistance rendered.</p>
 <h4><strong>Module 4: Conflict, Leadership and People Management</strong></h4>
-<p><strong>Training dates:</strong> 26 to 27 September 2024
+<p><em>TGS-2020501318</em>
+<br><strong>Training dates:</strong> 26 to 27 September 2024
 <br><strong>Assessment date:</strong> 27 September 2024</p>
 <p>Conflict is an issue that people have to manage regularly. Any efforts
 in equalising and normalising persons with disabilities at workplace would
@@ -142,7 +146,8 @@ efficiency and effectiveness. This module will discuss conflict resolution,
 the art of negotiation in reaching an agreement between different stakeholders
 as well as how to apply the principles of leadership and people management.</p>
 <h4><strong>Module 5: Client and Employer Engagement</strong></h4>
-<p><strong>Training dates:</strong>
+<p><em>TGS-2020501320</em>
+<br><strong>Training dates:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -168,6 +173,7 @@ the development of client profile, job development and placement, job site
 training and support, and fading out and follow-up.</p>
 <p><strong>Compulsory Visit to Enabling Village</strong> – 9 January 2025
 (Thursday), 2pm to 5pm.</p>
+<hr>
 <h3><strong>Upcoming intake 2024</strong></h3>
 <p><strong>Registration closing date:</strong> Tuesday, 16 July 2024.
 <br>Register for the <a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS8" rel="noopener noreferrer nofollow" target="_blank">ACSE Course</a> now.</p>
