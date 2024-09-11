@@ -9,7 +9,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Disability Care / Special Needs Courses" src="/images/disability-banner.png">
 </div>
 <h3><strong>Certification Courses for Disability</strong></h3>
-<h4><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS8" rel="noopener noreferrer nofollow" target="_blank">ACSE: Advanced Cert in Supported Employment</a></strong></h4>
+<h4><a href="https://iltms.ssi.gov.sg/registration/#%2FCourse%3Fcoursecode=SDIS8" rel="noopener nofollow" target="_blank">ACSE: Advanced Cert in Supported Employment</a></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Module 1: Supported Employment and Working with Clients of Different Disabilities<em> - TGS-2021008466</em>
@@ -39,11 +39,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS211" rel="noopener noreferrer nofollow" target="_blank">Independent Travel Training for Professionals Supporting Persons with Disabilities</a><em> - TGS-2020502149</em>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS211" rel="noopener nofollow" target="_blank">Independent Travel Training for Professionals Supporting Persons with Disabilities</a><em> - TGS-2020502149</em>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS87" rel="noopener noreferrer nofollow" target="_blank"><u>Working with Persons with Autism</u></a><em> -TGS-2022014126</em>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS87" rel="noopener nofollow" target="_blank">Working with Persons with Autism</a><em> -TGS-2022014126</em>
 </p>
 </li>
 <li>
