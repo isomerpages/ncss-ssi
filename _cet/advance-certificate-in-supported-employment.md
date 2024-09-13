@@ -105,7 +105,7 @@ for registrations received.
 <hr>
 <p></p>
 <h4><strong>Module 1: Supported Employment and Working with Clients of Different Disabilities</strong></h4>
-<p> <em>TGS-2021008466</em> 
+<p><em>TGS-2021008466</em> 
 <br><strong>Training dates:</strong> 20 to 22 August, 23 and 26 August 2024
 <br><strong>Assessment date:</strong> 26 August 2024</p>
 <p>This module will equip learners with a better understanding of the concept
@@ -176,7 +176,7 @@ training and support, and fading out and follow-up.</p>
 <hr>
 <h3><strong>Upcoming intake 2024</strong></h3>
 <p><strong>Registration closing date:</strong> Tuesday, 16 July 2024.
-<br>Register for the <a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS8" rel="noopener noreferrer nofollow" target="_blank">ACSE Course</a> now.</p>
+<br>Register for the <a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS8" rel="noopener nofollow" target="_blank">ACSE Course</a> now.</p>
 <hr>
 <p><sup>1</sup> Subject to successful completion and achievement of a ‘Competent’
 grade for all in-class assessments/assignments. Learners eligible for SkillsFuture
