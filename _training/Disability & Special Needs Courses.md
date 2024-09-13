@@ -8,45 +8,75 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Disability Care / Special Needs Courses" src="/images/disability-banner.png">
 </div>
-<h3><strong>Disability Training Courses offered by SSI</strong></h3>
-<h4><strong>Coming Soon!</strong></h4>
-<p></p>
-<p><a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe to our Mailing List for latest updates.</u></a>
-</p>
-<h3><strong>Other Featured Short Courses in Early Childhood Interventions and Managing Disabilities</strong></h3>
+<h3><strong>Certification Courses for Disability</strong></h3>
+<h4><a href="https://iltms.ssi.gov.sg/registration/#%2FCourse%3Fcoursecode=SDIS8" rel="noopener nofollow" target="_blank">ACSE: Advanced Cert in Supported Employment</a></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS251" rel="noopener noreferrer nofollow" target="_blank">Use of Client-Assessment Form (CAF-R) for Adult Disability Services</a>
+<p>Module 1: Supported Employment and Working with Clients of Different Disabilities<em> - TGS-2021008466</em>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS87" rel="noopener noreferrer nofollow" target="_blank">Working with Persons with Autism</a>
+<p>Module 2: Counselling Skills and Practice for Job Coaches <em>- TGS-2020501623</em>
+</p>
+</li>
+<li>
+<p>Module 3: Introduction to Case Management <em>- TGS-2020500820</em>
+</p>
+</li>
+<li>
+<p>Module 4: Conflict, Leadership and People Management <em>- TGS-2020501318</em>
+</p>
+</li>
+<li>
+<p>Module 5: Client and Employer Engagement<em>- TGS-2020501320</em>
 </p>
 </li>
 </ul>
-<h4><strong>Courses Coming Soon</strong></h4>
+<h4><strong>Adult Disability Courses</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS83" rel="noopener noreferrer nofollow" target="_blank">WSQ Principles and Practices of Early Intervention for Children with Special Needs Module 2</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS251" rel="noopener noreferrer nofollow" target="_blank">Use of Client Assessment Form-Revised for Adult Disability Services e-Learning</a>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS211" rel="noopener noreferrer nofollow" target="_blank">Independent Travel Training for Professionals Supporting Persons with Disabilities </a>-
-TGS-2020502149</p>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS211" rel="noopener nofollow" target="_blank">Independent Travel Training for Professionals Supporting Persons with Disabilities</a><em> - TGS-2020502149</em>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS87" rel="noopener nofollow" target="_blank">Working with Persons with Autism</a><em> -TGS-2022014126</em>
+</p>
+</li>
+<li>
+<p>Introduction to Care for Adults with Developmental Disabilities Presenting
+with Behavioural Problems and Mental Health Issues<em> – Coming Soon!</em>
+</p>
+</li>
+<li>
+<p>Inclusive Facilitation Training <em>– Coming Soon!</em>
+</p>
+</li>
+<li>
+<p>Unpacking Singapore's Disability Sector<em> – Coming Soon!</em>
+</p>
 </li>
 </ul>
-<h4><strong>Certificate/ Diploma/ Degree Programmes</strong></h4>
+<h4><strong>Early Intervention Courses</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/training/cet-programmes/advance-certificate-in-supported-employment/" rel="noopener noreferrer nofollow" target="_blank">Advanced Certificate in Supported Employment (ACSE)</a> 
-<br>The Advanced Certificate in Supported Employment (ACSE) aims to build
-capabilities of job coaches in providing employment and employability support
-for persons with disabilities.</p>
+<p>WSQ Principles and Practices of Early Intervention for Children with Special
+Needs - Module 1 <em>- TGS-2021002281</em>
+</p>
+</li>
+<li>
+<p>WSQ Principles and Practices of Early Intervention for Children with Special
+Needs - Module 2 (New)<em> - TGS-2022014671</em>
+</p>
 </li>
 </ul>
 <p>Check out the <a href="https://iltms.ssi.gov.sg/registration#/Course" rel="noopener noreferrer nofollow" target="_blank">full list of SSI's Disability courses</a>.</p>
-<h3><strong>Meet our Featured Adult Educators</strong></h3>
-<p><strong>Ms June Tham-Toh Syn Yuen</strong> 
+<hr>
+<h4><strong>Meet our Featured Adult Educators</strong></h4>
+<p><strong>Ms June Tham-Toh Syn Yuen </strong>
 <br>June was the Executive Director of Rainbow Centre before she retired in
 2014. She holds a Master of Education, Diploma in Management Studies, Certification
 of Achievement in Outcome Management: Train-The-Trainer, Early Childhood
@@ -78,6 +108,7 @@ acute and chronic health conditions; psychiatric illnesses; mental health
 challenges; persons with disabilities; challenging social situations such
 as extreme poverty; geriatric issues as well as crisis and traumatic situations
 such as family violence, suicide, sexual assault and refugees seeking asylum.</p>
+<hr>
 <h4><strong>Subscribe and Stay Connected!</strong></h4>
 <p>Subscribe to SSI's Disability Mailing List for latest updates!</p>
 <p></p>

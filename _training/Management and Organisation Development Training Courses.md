@@ -25,7 +25,8 @@ variant: tiptap
 <br>Register by 16 September 2024</p>
 </li>
 <li>
-<p><a href="https://www.singaporetech.edu.sg/sitlearn/courses/health-social-sciences/introduction-occupational-health-safety-ohs-management-system" rel="noopener nofollow" target="_blank">Introduction to Occupational Health and Safety (OH&amp;S) Management System</a>
+<p><a href="https://www.singaporetech.edu.sg/sitlearn/courses/health-social-sciences/introduction-occupational-health-safety-ohs-management-system" rel="noopener nofollow" target="_blank">Introduction to Occupational Health and Safety (OH&amp;S) Management System</a> by
+SIT - <em>TGS-2022014111</em>
 <br>Register by 4 November 2024</p>
 </li>
 </ul>
@@ -44,7 +45,7 @@ variant: tiptap
 <br>Register by 14 October 2024</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5450" rel="noopener nofollow" target="_blank">Budgeting for Charities</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5450" rel="noopener nofollow" target="_blank">Budgeting for Charities</a>  <em>- TGS-2020500622</em>
 <br>Register by 10 December 2024</p>
 </li>
 <li>

@@ -58,10 +58,6 @@ youth, adults and seniors.</p>
 <h3><strong>Other Featured Short Courses in Befriending, Case Management, Counselling and more</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SVDM5311" rel="noopener noreferrer nofollow" target="_blank">Befriending Skills and Practice (For Volunteers)</a>
-</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5647" rel="noopener noreferrer nofollow" target="_blank">Boleh Saya Anda? May I Help You? - Conversational Malay for Social Service Practitioners</a>
 </p>
 </li>
@@ -72,7 +68,7 @@ exposes learners to ethical considerations and self-care practices needed
 in the counselling profession.</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5229" rel="noopener noreferrer nofollow" target="_blank">Counselling Skills and Practice: Introduction</a> 
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5229" rel="noopener noreferrer nofollow" target="_blank">Counselling Skills and Practice: Introduction</a> - <em>TGS-2020500644</em>
 <br>The course provides foundational skills in counselling and therapy. It
 exposes learners to ethical considerations and self-care practices needed
 in the counselling profession.</p>
@@ -82,19 +78,14 @@ in the counselling profession.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCET159" rel="noopener noreferrer nofollow" target="_blank">Fundamentals in Developing Community Work Programme (NSFWCF Foundational)</a>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCET159" rel="noopener noreferrer nofollow" target="_blank">Fundamentals in Developing Community Work Programme (NSFWCF Foundational)</a> - <em>TGS-2020501539</em>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5725" rel="noopener noreferrer nofollow" target="_blank">Motivational Interviewing: An Introduction for Social Service Practitioners</a> 
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5725" rel="noopener noreferrer nofollow" target="_blank">Motivational Interviewing: An Introduction for Social Service Practitioners</a>  <em>- TGS-2020500646</em>
 <br>The course equips learners with the skills to engage and facilitate intrinsic
 motivation in their clients, in order to change behaviour and progress
 towards an improved well-being.</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5279" rel="noopener noreferrer nofollow" target="_blank">Solution Focused Brief Therapy: Introduction</a> 
-<br>The course trains learners to apply Solutions Focused Brief Therapy (SFBT)
-when interacting with difficult clients.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCET6-M" rel="noopener noreferrer nofollow" target="_blank">Understanding the Social Service Sector</a> 
@@ -105,6 +96,13 @@ of Singapore’s social services over the years and introduces the principles
 behind its provision. It covers six areas of social service provision which
 include trends and challenges in the future.</p>
 </li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5228" rel="noopener nofollow" target="_blank">Case Management in Practice: Introduction</a> - <em>TGS-2020500648</em>
+<br>The course provides participants with a broad understanding of the fundamentals
+of how case management serves as a means for achieving client wellness
+and autonomy through advocacy, dialogue, identification of service resources
+and direction.</p>
+</li>
 </ul>
 <h3><strong>Cross Sector Certificate/ Diploma/ Degree Programmes</strong></h3>
 <ul data-tight="true" class="tight">
@@ -113,11 +111,7 @@ include trends and challenges in the future.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5228" rel="noopener noreferrer nofollow" target="_blank">Case Management in Practice: Introduction</a>
-</p>
-</li>
-<li>
-<p><a href="/training/cet-programmes/certificate-in-para-counselling/" rel="noopener noreferrer nofollow" target="_blank">Certificate in Para-Counselling</a>
+<p><a href="/training/cet-programmes/certificate-in-para-counselling/" rel="noopener noreferrer nofollow" target="_blank">Certificate in Para-Counselling</a><em> - TGS-2022013234</em>
 </p>
 </li>
 <li>
@@ -127,10 +121,34 @@ include trends and challenges in the future.</p>
 <li>
 <p><a href="/training/cet-programmes/professional-certificate-in-casework/" rel="noopener noreferrer nofollow" target="_blank">Professional Certificate in Casework</a>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Module 1: Engagement and Assessment <em>- TGS-2020501407</em>
+</p>
+</li>
+<li>
+<p>Module 2: Planning and Intervention <em>- TGS-2020501408</em>
+</p>
+</li>
+<li>
+<p>Module 3: Case Review and Evaluation <em>- TGS-2020501409</em>
+</p>
+</li>
+</ul>
 </li>
 <li>
 <p><a href="/training/cet-programmes/professional-certificate-in-group-work/" rel="noopener noreferrer nofollow" target="_blank">Professional Certificate in Group Work</a>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Module 1: Group Work Assessment and Planning<em> - TGS-2020503304</em>
+</p>
+</li>
+<li>
+<p>Module 2: Group Work Intervention <em>- TGS-2020503305</em>
+</p>
+</li>
+</ul>
 </li>
 </ul>
 <p>View the full list of <a href="https://iltms.ssi.gov.sg/Registration/Course" rel="noopener noreferrer nofollow" target="_blank">Cross Sector courses offered by SSI</a>.</p>
