@@ -71,11 +71,10 @@ under the Singapore Workforce Skills Qualifications (WSQ) framework. Currently,
 he serves as the Executive Director of Children-At-Risk Empowerment Association
 (CARE Singapore) in a full-time capacity.</p>
 <p><strong>Ms Lee Yi Ping</strong> 
-<br>Yi Ping is a Principal Case Manager and Programme Lead of the Community
-Health Assessment Team (CHAT). She is also a Master Solution-Focused Practitioner
-certified by the International Alliance of Solution-Focused Teaching Institutes
-(IASTI) and an Associate Certified Coach with the International Coach Federation
-(ICF).</p>
+<br>Yi Ping is a Principal Case Manager and Programme Lead of the CHAT. She
+is also a Master Solution-Focused Practitioner certified by the International
+Alliance of Solution-Focused Teaching Institutes (IASTI) and an Associate
+Certified Coach with the International Coach Federation (ICF).</p>
 <p>Yi Ping has 15 years of clinical experience as a youth mental healthcare
 professional, supporting the recovery of individuals aged between 16 and
 40 years and their families, whose lives have been interrupted by psychosis,
