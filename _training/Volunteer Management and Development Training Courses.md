@@ -16,7 +16,7 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0133" rel="noopener nofollow" target="_blank">Plan &amp; Strategise: Enhancing Volunteer Engagement</a>
-<br>Register by 5 Decembe 2024</p>
+<br>Register by 5 December 2024</p>
 </li>
 </ul>
 <h4><strong>Registration Open Throughout the Year</strong></h4>
