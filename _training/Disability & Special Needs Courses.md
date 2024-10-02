@@ -53,7 +53,7 @@ with Behavioural</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS463" rel="noopener noreferrer nofollow" target="_blank">WSQ Principles and Practices of Early Intervention for Children with Special Needs - Module 1</a><em> – TGS-2021002281</em>&nbsp;
-<br><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS83" rel="noopener noreferrer nofollow" target="_blank">WSQ Principles and Practices of Early Intervention for Children with Special Needs Module 2</a>  <em>–TGS-2022014671&nbsp;</em>
+<br><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS83" rel="noopener noreferrer nofollow" target="_blank">WSQ Principles and Practices of Early Intervention for Children with Special Needs - Module 2</a>  <em>–TGS-2022014671&nbsp;</em>
 </p>
 </li>
 <li>
@@ -109,10 +109,9 @@ and connect EC educators and parents to the relevant EI support and resources.&n
 <li>
 <p>It is <strong>mandatory</strong> for those who would be appointed as ICO
 to attend the pre-appointment training and obtain an e-certificate.</p>
-<p></p>
-<p>Read more on the <a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS464" rel="noopener nofollow" target="_blank">course and registration process</a>.</p>
 </li>
 </ul>
+<p>Read more on the <a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS464" rel="noopener nofollow" target="_blank">course and registration process</a>.</p>
 <p>Explore the full offerings of <a href="https://iltms.ssi.gov.sg/registration#/Course" rel="noopener nofollow" target="_blank">SSI's Disability courses</a>.&nbsp;</p>
 <p></p>
 <p>Explore the full offerings of&nbsp;<a href="https://iltms.ssi.gov.sg/registration#/Course" rel="noopener noreferrer nofollow" target="_blank">SSI's Disability courses</a> and
