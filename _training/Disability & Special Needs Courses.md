@@ -9,7 +9,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Disability Care / Special Needs Courses" src="/images/disability-banner.png">
 </div>
 <h3><strong>Disability Training Courses offered by SSI</strong></h3>
-<h4><strong>Certificate</strong></h4>
+<h4><strong>Certificate Programmes</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.ssi.gov.sg/training/cet-programmes/advance-certificate-in-supported-employment/" rel="noopener nofollow" target="_blank">Advanced Certificate in Supported Employment (ACSE)</a>
@@ -18,6 +18,8 @@ capabilities of job coaches in providing employment and employability support
 for persons with disabilities.</p>
 </li>
 </ul>
+<h4><strong>Featured Short Courses in Early Interventions and Managing Disabilities</strong></h4>
+<p></p>
 <h4><strong>Adult Disability Courses</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -34,7 +36,10 @@ for persons with disabilities.</p>
 </li>
 <li>
 <p>Introduction to Care for Adults with Developmental Disabilities Presenting
-with Behavioural Problems and Mental Health Issues - <strong><em>Coming soon!</em></strong>
+with Behavioural</p>
+</li>
+<li>
+<p>Problems and Mental Health Issues - <strong><em>Coming soon!</em></strong>
 </p>
 </li>
 <li>
@@ -70,8 +75,15 @@ with Behavioural Problems and Mental Health Issues - <strong><em>Coming soon!</e
 <h4><strong>Complimentary e-Learning</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0157" rel="noopener noreferrer nofollow" target="_blank">Introduction to Reflective and Reflexive Practices</a>&nbsp;&nbsp;
-<br>Check out more on <a href="https://www.ssi.gov.sg/complimentary-courses/" rel="noopener noreferrer nofollow" target="_blank">complimentary training courses.</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0157" rel="noopener noreferrer nofollow" target="_blank">Introduction to Reflective and Reflexive Practices</a>
+</p>
+</li>
+<li>
+<p>Providing Professional Support in the Disability Sector - <strong><em>Coming soon!</em></strong>
+</p>
+</li>
+<li>
+<p>Ageing in Place for Persons with Intellectual Disability -&nbsp;<strong><em>Coming soon!</em></strong>
 </p>
 </li>
 </ul>
@@ -96,14 +108,17 @@ and connect EC educators and parents to the relevant EI support and resources.&n
 <ul data-tight="true" class="tight">
 <li>
 <p>It is <strong>mandatory</strong> for those who would be appointed as ICO
-to attend the pre-appointment training and obtain an e-certificate. <strong>Featured Short Courses in Early Interventions and Managing Disabilities</strong>&nbsp;&nbsp;</p>
+to attend the pre-appointment training and obtain an e-certificate.</p>
+<p></p>
+<p>Read more on the <a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS464" rel="noopener nofollow" target="_blank">course and registration process</a>.</p>
 </li>
 </ul>
 <p>Explore the full offerings of <a href="https://iltms.ssi.gov.sg/registration#/Course" rel="noopener nofollow" target="_blank">SSI's Disability courses</a>.&nbsp;</p>
 <p></p>
-<p>Check out SSI’s offering of <a href="https://www.ssi.gov.sg/complimentary-courses/" rel="noopener noreferrer nofollow" target="_blank">complimentary training courses</a> or
-<a href="https://www.ssi.gov.sg/contact-us/" rel="noopener noreferrer nofollow" target="_blank">contact us</a>to explore designing personalised training (e.g. Inclusive
-Facilitation Training).&nbsp;&nbsp;&nbsp;</p>
+<p>Explore the full offerings of&nbsp;<a href="https://iltms.ssi.gov.sg/registration#/Course" rel="noopener noreferrer nofollow" target="_blank">SSI's Disability courses</a> and
+other <a href="https://www.ssi.gov.sg/complimentary-courses/" rel="noopener noreferrer nofollow" target="_blank">complimentary courses</a> or
+<a href="https://www.ssi.gov.sg/contact-us/" rel="noopener noreferrer nofollow" target="_blank">contact us</a>directly to explore designing personalised training (e.g.
+Inclusive Facilitation Training)!</p>
 <hr>
 <h4><strong>Meet our Featured Adult Educators</strong></h4>
 <p><strong>Ms June Tham-Toh Syn Yuen </strong>
