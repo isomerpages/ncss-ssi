@@ -9,7 +9,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Disability Care / Special Needs Courses" src="/images/disability-banner.png">
 </div>
 <h3><strong>Disability Training Courses offered by SSI</strong></h3>
-<h4><strong>Certificate/ Diploma/ Degree Programmes</strong>&nbsp;</h4>
+<h4><strong>Certificate</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.ssi.gov.sg/training/cet-programmes/advance-certificate-in-supported-employment/" rel="noopener nofollow" target="_blank">Advanced Certificate in Supported Employment (ACSE)</a>
@@ -21,7 +21,7 @@ for persons with disabilities.</p>
 <h4><strong>Adult Disability Courses</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS251" rel="noopener noreferrer nofollow" target="_blank">Use of Client Assessment Form-Revised for Adult Disability Services e-Learning</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS251" rel="noopener noreferrer nofollow" target="_blank">Use of Client Assessment Form-Revised (CAF-R) for Adult Disability Services e-Learning</a>
 </p>
 </li>
 <li>
@@ -67,11 +67,11 @@ with Behavioural Problems and Mental Health Issues - <strong><em>Coming soon!</e
 </p>
 </li>
 </ul>
-<h4><strong>Complimentary e-Learning </strong></h4>
+<h4><strong>Complimentary e-Learning</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0157" rel="noopener noreferrer nofollow" target="_blank">Introduction to Reflective and Reflexive Practices</a>&nbsp;&nbsp;
-<br>Check out more on <a href="https://www.ssi.gov.sg/complimentary-courses/" rel="noopener noreferrer nofollow" target="_blank">complimentary training courses. </a>
+<br>Check out more on <a href="https://www.ssi.gov.sg/complimentary-courses/" rel="noopener noreferrer nofollow" target="_blank">complimentary training courses.</a>
 </p>
 </li>
 </ul>
