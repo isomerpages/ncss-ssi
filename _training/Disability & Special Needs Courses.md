@@ -18,8 +18,6 @@ capabilities of job coaches in providing employment and employability support
 for persons with disabilities.</p>
 </li>
 </ul>
-<hr>
-<p></p>
 <h4><strong>Featured Short Courses in Early Interventions and Managing Disabilities</strong></h4>
 <p><strong>Adult Disability Courses</strong>
 </p>
@@ -75,8 +73,6 @@ with Behavioural</p>
 </p>
 </li>
 </ul>
-<hr>
-<p></p>
 <h4><strong>Complimentary e-Learning</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -92,8 +88,6 @@ with Behavioural</p>
 </p>
 </li>
 </ul>
-<hr>
-<p></p>
 <h4><strong>Pre-appointment Training for Inclusion Coordinators (ICOs)&nbsp;</strong>&nbsp;</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -163,4 +157,3 @@ such as family violence, suicide, sexual assault and refugees seeking asylum.</p
 <h4><strong>Subscribe and Stay Connected!</strong></h4>
 <p>Subscribe to SSI's <a href="https://form.gov.sg/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">Disability Mailing List</a> for
 the latest updates!&nbsp;</p>
-<p></p>
