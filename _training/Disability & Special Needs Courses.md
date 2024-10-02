@@ -36,10 +36,7 @@ for persons with disabilities.</p>
 </li>
 <li>
 <p>Introduction to Care for Adults with Developmental Disabilities Presenting
-with Behavioural</p>
-</li>
-<li>
-<p>Problems and Mental Health Issues - <strong><em>Coming soon!</em></strong>
+with Behavioural Problems and Mental Health Issues - <strong><em>Coming soon!</em></strong>
 </p>
 </li>
 <li>
