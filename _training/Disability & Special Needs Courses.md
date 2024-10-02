@@ -18,9 +18,11 @@ capabilities of job coaches in providing employment and employability support
 for persons with disabilities.</p>
 </li>
 </ul>
-<h4><strong>Featured Short Courses in Early Interventions and Managing Disabilities</strong></h4>
+<hr>
 <p></p>
-<h4><strong>Adult Disability Courses</strong></h4>
+<h4><strong>Featured Short Courses in Early Interventions and Managing Disabilities</strong></h4>
+<p><strong>Adult Disability Courses</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS251" rel="noopener noreferrer nofollow" target="_blank">Use of Client Assessment Form-Revised (CAF-R) for Adult Disability Services e-Learning</a>
@@ -48,7 +50,8 @@ with Behavioural</p>
 <p></p>
 </li>
 </ul>
-<h4><strong>Early Intervention Courses</strong></h4>
+<p><strong>Early Intervention Courses</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS463" rel="noopener noreferrer nofollow" target="_blank">WSQ Principles and Practices of Early Intervention for Children with Special Needs - Module 1</a><em> – TGS-2021002281</em>&nbsp;
@@ -72,6 +75,8 @@ with Behavioural</p>
 </p>
 </li>
 </ul>
+<hr>
+<p></p>
 <h4><strong>Complimentary e-Learning</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -87,6 +92,7 @@ with Behavioural</p>
 </p>
 </li>
 </ul>
+<hr>
 <p></p>
 <h4><strong>Pre-appointment Training for Inclusion Coordinators (ICOs)&nbsp;</strong>&nbsp;</h4>
 <ul data-tight="true" class="tight">
