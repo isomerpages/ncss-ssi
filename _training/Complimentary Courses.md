@@ -9,7 +9,7 @@ description: SSI Complimentary Courses
 than 100 hours from April 2024. These courses are carefully curated to
 provide resources on competency areas that social service professionals
 have requested for more support on.</p>
-<h3><strong>Complimentary Training Courses by SSI</strong></h3>
+<h3><strong>Complimentary Training Courses (NCSS funded)</strong></h3>
 <h4><strong>Children &amp; Youth</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -29,7 +29,7 @@ have requested for more support on.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0150" rel="noopener nofollow" target="_blank">Podcast - Inhale Insight: Understanding Youth Vaping</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0160" rel="noopener nofollow" target="_blank">Podcast - Inhale Insight: Understanding Youth Vaping</a>
 </p>
 </li>
 <li>
