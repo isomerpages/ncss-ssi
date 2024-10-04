@@ -24,11 +24,6 @@ variant: tiptap
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener nofollow" target="_blank">Developing Effective Supervisory Skills</a>
 <br>Register by 16 September 2024</p>
 </li>
-<li>
-<p><a href="https://www.singaporetech.edu.sg/sitlearn/courses/health-social-sciences/introduction-occupational-health-safety-ohs-management-system" rel="noopener nofollow" target="_blank">Introduction to Occupational Health and Safety (OH&amp;S) Management System</a> by
-SIT - <em>TGS-2022014111</em>
-<br>Register by 4 November 2024</p>
-</li>
 </ul>
 <h4>Financial Management</h4>
 <ul data-tight="true" class="tight">
