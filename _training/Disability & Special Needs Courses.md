@@ -70,7 +70,7 @@ with Behavioural Problems and Mental Health Issues - <strong><em>Coming soon!</e
 </p>
 </li>
 </ul>
-<h4><strong>Complimentary e-Learning</strong></h4>
+<h4><strong>Complimentary e-Learning (NCSS funded)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0157" rel="noopener noreferrer nofollow" target="_blank">Introduction to Reflective and Reflexive Practices</a>
@@ -97,7 +97,7 @@ its staff as an ICO, since the second half of 2023.&nbsp;&nbsp;</p>
 </ul>
 <ul data-tight="true" class="tight">
 <li>
-<p>Appointed by ECDA to deliver This course equips and prepares ICO to collaborate
+<p>Appointed by ECDA to deliver, this course equips and prepares ICO to collaborate
 with educators to flag out children with potential needs for further assessment
 and connect EC educators and parents to the relevant EI support and resources.&nbsp;</p>
 </li>
@@ -109,9 +109,8 @@ to attend the pre-appointment training and obtain an e-certificate.</p>
 </li>
 </ul>
 <p>Read more on the <a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS464" rel="noopener nofollow" target="_blank">course and registration process</a>.</p>
-<p>Explore the full offerings of <a href="https://iltms.ssi.gov.sg/registration#/Course" rel="noopener nofollow" target="_blank">SSI's Disability courses</a>.&nbsp;</p>
 <p></p>
-<p>Explore the full offerings of&nbsp;<a href="https://iltms.ssi.gov.sg/registration#/Course" rel="noopener noreferrer nofollow" target="_blank">SSI's Disability courses</a> and
+<p>Explore the full offerings of&nbsp;<a href="https://iltms.ssi.gov.sg/registration/Course" rel="noopener nofollow" target="_blank">SSI's Disability courses</a> and
 other <a href="https://www.ssi.gov.sg/complimentary-courses/" rel="noopener noreferrer nofollow" target="_blank">complimentary courses</a> or
 <a href="https://www.ssi.gov.sg/contact-us/" rel="noopener noreferrer nofollow" target="_blank">contact us</a>directly to explore designing personalised training (e.g.
 Inclusive Facilitation Training)!</p>
