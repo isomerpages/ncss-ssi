@@ -7,8 +7,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Volunteer Management  Development Courses: Equip volunteers with knowledge, develop volunteer management capabilities" src="/images/volunteer-banner.png">
 </div>
-<h3><strong>Volunteer Management &amp; Development Courses offered by SSI</strong></h3>
-<h4><strong>Registration now open</strong></h4>
+<h2><strong>Volunteer Management &amp; Development Courses offered by SSI</strong></h2>
+<h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0134" rel="noopener noreferrer nofollow" target="_blank">Design &amp; Develop: Crafting Volunteers Roles for Maximum Impact</a>
@@ -19,7 +19,7 @@ variant: tiptap
 <br>Register by 5 December 2024</p>
 </li>
 </ul>
-<h4><strong>Registration Open Throughout the Year</strong></h4>
+<h3>Registration Open Throughout the Year</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0035" rel="noopener noreferrer nofollow" target="_blank">Befriending 101 (For Volunteers)</a> 
@@ -31,7 +31,7 @@ variant: tiptap
 </li>
 </ul>
 <h3><strong>Other Featured Volunteer Management and Development Courses</strong></h3>
-<h4>Volunteer Management Training Courses</h4>
+<h3>Volunteer Management Training Courses</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SVLD313" rel="noopener noreferrer nofollow" target="_blank">Volunteer Management Practices: Connect, Engage, Develop</a>
@@ -85,19 +85,17 @@ users. It shows potential development pathways and learning opportunities
 as VMPs plan towards the longer-term goal of serving and growing with the
 sector. Besides VMPs, SSAs’ management and human resource practitioners
 may also use the LDR as a guide to recruit and develop their VMPs.</p>
-<p><strong>Click on below image to download the LDR publication</strong>
-</p><a class="isomer-image-wrapper" href="https://go.gov.sg/ldrpublication"><img style="width: 100%" height="auto" width="100%" alt="Mr Christian Chao" src="/images/training/volunteer/Mr_Christian_Chao.jpg"></a>
 <a class="isomer-image-wrapper" href="https://go.gov.sg/ldrpublication">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Teng Su Ching" src="/images/training/volunteer/Prof_Teng_Su_Ching.jpg">
-</a>
-<h4><strong>LDR Self-assessment Tool</strong></h4>
+<img style="width: 100%" height="auto" width="100%" alt="Mr Christian Chao" src="/images/training/volunteer/Mr_Christian_Chao.jpg">
+</a><a class="isomer-image-wrapper" href="https://go.gov.sg/ldrpublication"><img style="width: 100%" height="auto" width="100%" alt="Prof Teng Su Ching" src="/images/training/volunteer/Prof_Teng_Su_Ching.jpg"></a>
+<h3>LDR Self-assessment Tool</h3>
 <p>The accompanying Self-assessment Tool (SAT) to the LDR helps VMPs to identify
 their proficiency gaps and relevant training courses (including Social
 Service Institutes’ (SSI) courses), to further strengthen their capabilities
 so as to perform effectively in their roles.</p>
 <p>Complete the <a href="https://go.gov.sg/ncssvro-ldrsat" rel="noopener noreferrer nofollow" target="_blank">Digital Self-Assessment Tool</a> and
 receive a personalised report!</p>
-<h4><strong>NCSS Volunteer Management Community</strong></h4>
+<h3><strong>NCSS Volunteer Management Community</strong></h3>
 <p><a href="https://go.gov.sg/ncssvro-vmcommunity" rel="noopener noreferrer nofollow" target="_blank">Register to be a part of the community</a> and
 be the first to receive updates on Volunteer Management related news and
 initiatives!</p>
@@ -105,6 +103,6 @@ initiatives!</p>
 feel free to drop us an email at <a href="mailto:matthew_leung@ncss.gov.sg" rel="noopener noreferrer nofollow" target="_blank">matthew_leung@ncss.gov.sg</a>.
 <br>
 <br>Visit the <a href="https://www.ncss.gov.sg/volunteer/volunteer-resource-hub" rel="noopener nofollow" target="_blank">NCSS Volunteer Management &amp; Engagement Resource Hub</a>.</p>
-<h4><strong>Subscribe to Mailing List</strong></h4>
+<h3><strong>Subscribe to Mailing List</strong></h3>
 <p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Volunteer Management and Development Training Courses Mailing List</a> for
 latest updates!</p>
