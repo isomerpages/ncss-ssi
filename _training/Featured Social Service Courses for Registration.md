@@ -42,7 +42,7 @@ variant: tiptap
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Counselling, Motivational Interviewing &amp; Behaviour Therapy Courses" src="https://www.ssi.gov.sg/images/training/cross-sector-v2.png">
 </div>
 <h4>Financial Planning for Low Income Clients</h4>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5944" rel="noopener nofollow" target="_blank">Register by 4 February 2025</a>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5944" rel="noopener nofollow" target="_blank">Register by 4 February 2025</a></strong>
 </p>
 <p><a href="https://www.ssi.gov.sg/training/cross-sector/" rel="noopener nofollow" target="_blank">View other Cross Sector courses</a>
 </p>
@@ -67,7 +67,6 @@ variant: tiptap
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Disability Care / Special Needs Courses" src="https://www.ssi.gov.sg/images/training/disability-v2.png">
 </div>
 <h4>Coming Soon!</h4>
-<p></p>
 <p><a href="https://www.ssi.gov.sg/training/disability/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Disability courses</u></a>
 </p>
 </td>
@@ -88,9 +87,8 @@ variant: tiptap
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Caring and communicating with dementia and senior persons courses" src="https://www.ssi.gov.sg/images/training/eldercare-v2.png">
 </div>
 <h4>Engaging Senior Learners – A Guide for Effective Interactions</h4>
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0129" rel="noopener nofollow" target="_blank">Register is open throughout the year</a></strong>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0129" rel="noopener nofollow" target="_blank">Register is open throughout the ye</a></strong>
 </p>
-<p></p>
 <p><a href="https://www.ssi.gov.sg/training/eldercare/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Eldercare courses</u></a>
 </p>
 </td>
@@ -111,7 +109,7 @@ variant: tiptap
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Social Service / Nonprofit Leadership and Management Training Course" src="https://www.ssi.gov.sg/images/training/mod-v2.png">
 </div>
 <h4>Charities Accounting Standard and its Application</h4>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5652" rel="noopener nofollow" target="_blank">Register by 30 December 2024</a>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5652" rel="noopener nofollow" target="_blank">Register by 30 December 2024</a></strong>
 </p>
 <p><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Management and Organisation Development courses</u></a>
 </p>
@@ -123,9 +121,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Equip volunteers with knowledge, develop volunteer management capabilities" src="/images/training/volunteer-v2.png">
 </div>
 <h4>Plan &amp; Strategise: Enhancing Volunteer Engagement</h4>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0133" rel="noopener nofollow" target="_blank">Register by 5 Dec 2024</a>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0133" rel="noopener nofollow" target="_blank">Register by 5 Dec 2024</a></strong>
 </p>
-<p></p>
 <p><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" rel="noopener noreferrer nofollow" target="\_blank">View other Volunteering Management and Development courses</a>
 </p>
 </td>
@@ -138,7 +135,6 @@ variant: tiptap
 <h4>Preparatory Caregiver Training Programme</h4>
 <p><strong><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0002" rel="noopener noreferrer nofollow" target="_blank">Registration is open throughout the year</a></strong>
 </p>
-<p></p>
 <p><a href="https://www.ssi.gov.sg/training/caregiving/" rel="noopener noreferrer nofollow" target="\_blank">View all Caregiving courses</a>
 </p>
 </td>
@@ -149,7 +145,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="TNM 2.0, an initiative brought to you by SSI" src="/images/training/tnm-banner.png">
 </div>
 <h4>Coming Soon!</h4>
-<p></p>
 <p><a href="https://www.ssi.gov.sg/training/tnm-courses/" rel="noopener noreferrer nofollow" target="\_blank">View all TNM 2.0 courses</a>
 </p>
 </td>
