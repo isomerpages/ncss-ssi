@@ -27,10 +27,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5468" rel="noopener noreferrer nofollow" target="_blank">Internal Controls (IV): General Accounting, Fixed Assets, Inventory and Human Resource Management</a>
-<br>Register by 14 October 2024</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5450" rel="noopener nofollow" target="_blank">Budgeting for Charities</a>  <em>- TGS-2020500622</em>
 <br>Register by 10 December 2024</p>
 </li>
