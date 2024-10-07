@@ -54,7 +54,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Children, Youth &amp; Family" src="/images/training/cyf-v2.png">
 </div>
-<h3>Ethical Considerations when Interacting with Children</h3>
+<h4>Ethical Considerations when Interacting with Children</h4>
 <p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0151" rel="noopener nofollow" target="_blank">Register is open throughout the year</a></strong>
 </p>
 <p><a href="https://www.ssi.gov.sg/training/cyandf/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Children, Youth and Family courses</u></a>
@@ -66,7 +66,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Disability Care / Special Needs Courses" src="https://www.ssi.gov.sg/images/training/disability-v2.png">
 </div>
-<h3>Coming Soon!</h3>
+<h4>Coming Soon!</h4>
 <p></p>
 <p><a href="https://www.ssi.gov.sg/training/disability/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Disability courses</u></a>
 </p>
@@ -77,7 +77,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Mental Health Conditions &amp; Recovery Courses" src="https://www.ssi.gov.sg/images/training/mental-health-v2.png">
 </div>
-<h3>Coming Soon!</h3>
+<h4>Coming Soon!</h4>
 <p><a href="https://www.ssi.gov.sg/training/mental-health" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Mental Health courses</u></a>
 </p>
 </td>
@@ -87,7 +87,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Caring and communicating with dementia and senior persons courses" src="https://www.ssi.gov.sg/images/training/eldercare-v2.png">
 </div>
-<h3>Engaging Senior Learners – A Guide for Effective Interactions</h3>
+<h4>Engaging Senior Learners – A Guide for Effective Interactions</h4>
 <p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0129" rel="noopener nofollow" target="_blank">Register is open throughout the year</a></strong>
 </p>
 <p></p>
@@ -100,7 +100,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Board Development Courses" src="https://www.ssi.gov.sg/images/training/board-v2.png">
 </div>
-<h3>Coming Soon!</h3>
+<h4>Coming Soon!</h4>
 <p><a href="https://www.ssi.gov.sg/training/board-development/" rel="noopener noreferrer nofollow" target="\_blank"><u>View all Board Development courses</u></a>
 </p>
 </td>
