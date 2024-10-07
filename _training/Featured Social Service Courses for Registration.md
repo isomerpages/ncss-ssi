@@ -5,15 +5,15 @@ description: SSI offers courses and training for social workers and the social
   service sector. Find out more about the available courses here.
 variant: tiptap
 ---
-<h3><strong>Social Service Courses: Course Schedules</strong></h3>
-<h4>Training Course Directory 2024 / 2025</h4>
+<h2><strong>Social Service Courses: Course Schedules</strong></h2>
+<h3>Training Course Directory 2024 / 2025</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/training courses/FY24_Training_Directory_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Training Directory 2024 / 2025</a>
 </p>
 </li>
 </ul>
-<h4>Course Schedule &amp; Registration Dates</h4>
+<h3>Course Schedule &amp; Registration Dates</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/training courses/Monthly_Featured_Courses.pdf" rel="noopener noreferrer nofollow" target="_blank">Registration period: November 2024 to January 2025</a>
@@ -157,7 +157,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<h2><strong>Social Service Course Funding Options</strong></h2>
+<h3><strong>Social Service Course Funding Options</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>For Singapore Citizens, Permanent Residents and LTVP+ holders:* <a href="https://www.skillsfuture.gov.sg/funding-individuals" rel="noopener noreferrer nofollow" target="_blank">SSG Funding options</a>
