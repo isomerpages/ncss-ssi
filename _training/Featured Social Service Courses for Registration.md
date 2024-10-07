@@ -20,7 +20,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h3><strong>Featured Professional Certification Courses In Social Service</strong></h3>
+<h3><strong>Featured Professional Certification Courses in Social Service</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
