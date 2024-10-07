@@ -8,9 +8,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Social Service / Nonprofit Leadership and Management Training Course" src="/images/mod-banner.png">
 </div>
-<h3><strong>Management and Organisation Development Training Courses offered by SSI</strong></h3>
-<h4><strong>Registration now open</strong></h4>
-<h4>People Management and Leadership</h4>
+<h2><strong>Management and Organisation Development Training Courses offered by SSI</strong></h2>
+<h3>People Management and Leadership</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCOF90" rel="noopener nofollow" target="_blank">Developing Your Coaching and Mentoring Skills</a>
@@ -25,7 +24,7 @@ variant: tiptap
 <br>Register by 20 September 2024</p>
 </li>
 </ul>
-<h4>Financial Management</h4>
+<h3>Financial Management</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCOF430" rel="noopener noreferrer nofollow" target="_blank">Introduction to Internal Controls</a>
@@ -98,7 +97,7 @@ latest updates.</p>
 </p>
 </li>
 </ul>
-<h4>Featured SSI's partner courses</h4>
+<h3>Featured SSI's partner courses</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.dpi-asia.com/post/strategy-formulation-pure-simple" rel="noopener noreferrer nofollow" target="_blank">Strategy Formulation by DPI Asia</a>
@@ -174,6 +173,6 @@ and has transformed charity income sources drastically through local resource
 mobilisation across Asia, especially in the areas of local private sector
 fundraising through individual giving, philanthropic investments and corporate
 engagement.</p>
-<h4><strong>Subscribe to Mailing List</strong></h4>
+<h3><strong>Subscribe to Mailing List</strong></h3>
 <p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Management and Organisation Development Mailing List</a> for
 latest updates!</p>
