@@ -8,25 +8,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Children  Youth Development, Family Therapy / Family Violence Courses: Equip volunteers with skills to work with children, youth and families." src="/images/cyf-banner.png">
 </div>
-<h3><strong>Children, Youth and Family Courses offered by SSI</strong></h3>
-<h4><strong>Registration now open</strong></h4>
+<h2><strong>Children, Youth and Family Courses offered by SSI</strong></h2>
+<h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5646" rel="noopener noreferrer nofollow" target="_blank">An Introduction to Family Therapy</a>
-<br>Register by 9 October 2024</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0126" rel="noopener noreferrer nofollow" target="_blank">Counselling Guidelines Training: Working with Youth with Sexual Orientation and Gender Issues</a>
-<br>Register by 14 October 2024</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5437" rel="noopener noreferrer nofollow" target="_blank">Rehabilitation and Re-Integration Needs of Former Drug Offenders</a>  <em>- TGS-2020500632</em>
-<br>Register by 21 October 2024</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0112" rel="noopener noreferrer nofollow" target="_blank">Management of Family Violence: Understanding Sexual Abuse</a>
-<br>Register by 24 October 2024</p>
-</li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5158" rel="noopener noreferrer nofollow" target="_blank">Helping Youths Cope with Anger</a>
 <br>Register by 10 December 2024</p>
@@ -35,8 +19,40 @@ variant: tiptap
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5938" rel="noopener noreferrer nofollow" target="_blank">Management of Family Violence: Supporting Clients in Their Trauma Recovery (Synchronous e-learning)</a> - <em>TGS-2020500752</em>
 <br>Register by 10 December 2024</p>
 </li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5858" rel="noopener nofollow" target="_blank">Certified User for Youth Level of Service/Case Management Inventory (YLS/CMI)</a>
+<br>Register by 12 December 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0155" rel="noopener nofollow" target="_blank">Protective Behaviours for Children – a Preventive Intervention against Abuse</a>
+<br>Register by 20 December 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF48" rel="noopener nofollow" target="_blank">Apply development theories when working with children and youths</a>
+<br>Register by 31 December 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF305" rel="noopener nofollow" target="_blank">Mentoring and Coaching Youths Effectively</a>
+<br>Register by 5 January 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5802" rel="noopener nofollow" target="_blank">Helping Family Members Cope with Issues Arising from Incarceration of a Loved One</a>
+<br>Register by 6 January 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF197" rel="noopener nofollow" target="_blank">Management of Family Violence: Introduction</a>
+<br>Register by 13 January 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0122" rel="noopener nofollow" target="_blank">Review Frameworks for Effective Youth Mentoring</a>
+<br>Register by 28 January 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5437" rel="noopener nofollow" target="_blank">Rehabilitation and Re-Integration Needs of Former Drug Offenders</a>
+<br>Register by 3 February 2024</p>
+</li>
 </ul>
-<h4><strong>Complimentary e-Learning Courses</strong></h4>
+<h3>Complimentary e-Learning Courses</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF434" rel="noopener noreferrer nofollow" target="_blank">Child Abuse Reporting Guide (CARG) - E-Learning</a>
@@ -213,7 +229,7 @@ original developer of TCOM, Dr. John Lyons, as one of the local trainers
 who can train trainers on the use of CANS. She is familiar with the process
 of TCOM implementation and was in the pilot project and early phases of
 TCOM implementation in Singapore.</p>
-<h4><strong>Subscribe to Mailing List</strong></h4>
+<h3><strong>Subscribe to Mailing List</strong></h3>
 <p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Children, Youth and Family Courses</a> mailing
 List for latest updates!</p>
 <p></p>
