@@ -9,15 +9,18 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Social Service / Nonprofit Leadership and Management Training Course" src="/images/mod-banner.png">
 </div>
 <h2><strong>Management and Organisation Development Training Courses offered by SSI</strong></h2>
+<h3>Registration now open</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener nofollow" target="_blank">Developing Effective Supervisory Skills</a>
+<br>Register by 29 January 2025</p>
+</li>
+</ul>
 <h3>People Management and Leadership</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCOF90" rel="noopener nofollow" target="_blank">Developing Your Coaching and Mentoring Skills</a>
 <br>Register by 12 December 2024</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener nofollow" target="_blank">Developing Effective Supervisory Skills</a>
-<br>Register by 29 January 2023</p>
 </li>
 </ul>
 <h3>Financial Management</h3>
