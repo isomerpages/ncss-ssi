@@ -16,7 +16,7 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SVLD313" rel="noopener nofollow" target="_blank">Volunteer Management Practices: Connect, Engage, Develop</a>
-<br>Register by 8 January 2024</p>
+<br>Register by 27 November 2024</p>
 </li>
 </ul>
 <h3>Registration Open Throughout the Year</h3>
@@ -32,12 +32,7 @@ variant: tiptap
 </ul>
 <h3><strong>Other Featured Volunteer Management and Development Courses</strong></h3>
 <h3>Volunteer Management Training Courses</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SVLD313" rel="noopener noreferrer nofollow" target="_blank">Volunteer Management Practices: Connect, Engage, Develop</a>
-</p>
-</li>
-</ul>
+<p></p>
 <p>View the <a href="https://iltms.ssi.gov.sg/registration/#/Course" rel="noopener noreferrer nofollow" target="_blank">full list of volunteer management and development courses</a>.</p>
 <h3><strong>Key Adult Educators for Volunteer Management and Development Courses</strong></h3>
 <p><strong>Ms Alice Lee-Tok</strong> 
