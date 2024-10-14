@@ -16,7 +16,7 @@ their own assumptions.</p>
 motivational interviewing and behaviour therapy which social service professionals
 can apply while working with different client groups such as children,
 youth, adults and seniors.</p>
-<h3><strong>Registration now open</strong></h3>
+<h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0138" rel="noopener noreferrer nofollow" target="_blank">Understanding Singapore's Social Compact and Social Policies</a>
@@ -25,14 +25,6 @@ youth, adults and seniors.</p>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0147" rel="noopener nofollow" target="_blank">Using Sector Evaluation Framework (SEF) in Articulating Programme Outcomes</a>
 </p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0102" rel="noopener noreferrer nofollow" target="_blank">Promote Diversity and Inclusion in Social Work</a>
-<br>Register by 3 October 2024</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5451" rel="noopener noreferrer nofollow" target="_blank">Building Emotional Resilience in Caregiving</a>
-<br>Register by 10 October 2024</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5647" rel="noopener noreferrer nofollow" target="_blank">May I Help You? (Boleh Saya Bantu Anda?) - Conversational Malay for Social Service Practitioners</a>
@@ -53,6 +45,22 @@ youth, adults and seniors.</p>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SMTH93" rel="noopener nofollow" target="_blank">Applying Self-Care Techniques for Social Service Professionals</a>
 <br>Register by 6 January 2025</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5447" rel="noopener nofollow" target="_blank">Solution Focused Brief Therapy: Intermediate</a>
+<br>Register by 23 January 2025</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5944" rel="noopener nofollow" target="_blank">Financial Planning for Low Income Clients</a>
+<br>Register by 4 February 2025</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5229" rel="noopener nofollow" target="_blank">Counselling Skills and Practice: Introduction</a>
+<br>Register by 28 February 2025</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS209" rel="noopener nofollow" target="_blank">Develop an Individualised Care Plan</a>
+<br>Register by 3 February 2025</p>
 </li>
 </ul>
 <h3><strong>Other Featured Short Courses in Befriending, Case Management, Counselling and more</strong></h3>
@@ -152,7 +160,7 @@ and direction.</p>
 </li>
 </ul>
 <p>View the full list of <a href="https://iltms.ssi.gov.sg/Registration/Course" rel="noopener noreferrer nofollow" target="_blank">Cross Sector courses offered by SSI</a>.</p>
-<h2><strong>Featured Adult Educators under Cross Sector Training Courses</strong></h2>
+<h3><strong>Featured Adult Educators under Cross Sector Training Courses</strong></h3>
 <p><strong>Ms Alice Lee-Tok</strong> 
 <br>Alice is the author of a parenting book titled ‘Building Bridges with
 your Teenagers’ and has more than 15 years of experience as a Family Education
@@ -219,5 +227,6 @@ at NUS and SUSS since 2008. He is an approved clinical supervisor with
 the University of Michigan, NUS, SUSS, Curtin and Swinburne University.
 His work had been published in professional journals and academic textbooks
 and he has presented in several local and international conferences.</p>
-<h4><strong>Subscribe to SSI’s Cross Sector Mailing List</strong></h4>
-<p>Join <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Cross Sector Mailing List</a>.</p>
+<h3>Subscribe to Mailing List</h3>
+<p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Cross Sector Mailing List</a> mailing
+List for latest updates!</p>

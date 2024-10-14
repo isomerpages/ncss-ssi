@@ -168,6 +168,14 @@ the following dates. Access to iLTMS may be disrupted during this period.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>10 Oct 2024, 22:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11 Oct 2024, 02:00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>25 Oct 2024, 22:00</p>
 </td>
 <td rowspan="1" colspan="1">

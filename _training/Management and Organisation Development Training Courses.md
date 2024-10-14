@@ -8,36 +8,26 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Social Service / Nonprofit Leadership and Management Training Course" src="/images/mod-banner.png">
 </div>
-<h3><strong>Management and Organisation Development Training Courses offered by SSI</strong></h3>
-<h4><strong>Registration now open</strong></h4>
-<h4>People Management and Leadership</h4>
+<h2><strong>Management and Organisation Development Training Courses offered by SSI</strong></h2>
+<h3>Registration now open</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener nofollow" target="_blank">Developing Effective Supervisory Skills</a>
+<br>Register by 29 January 2025</p>
+</li>
+</ul>
+<h3>People Management and Leadership</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCOF90" rel="noopener nofollow" target="_blank">Developing Your Coaching and Mentoring Skills</a>
 <br>Register by 12 December 2024</p>
 </li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NPEF6032" rel="noopener noreferrer nofollow" target="_blank">Manage Challenging Social Service and NPO Clients</a>
-<br>Register by 13 September 2024</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener nofollow" target="_blank">Developing Effective Supervisory Skills</a>
-<br>Register by 16 September 2024</p>
-</li>
 </ul>
-<h4>Financial Management</h4>
+<h3>Financial Management</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCOF430" rel="noopener noreferrer nofollow" target="_blank">Introduction to Internal Controls</a>
 </p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5630" rel="noopener noreferrer nofollow" target="_blank">Internal Controls (III): Implementing Internal Controls for Procurement to Payable Process</a>
-<br>Register by 18 September 2024</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5468" rel="noopener noreferrer nofollow" target="_blank">Internal Controls (IV): General Accounting, Fixed Assets, Inventory and Human Resource Management</a>
-<br>Register by 14 October 2024</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5450" rel="noopener nofollow" target="_blank">Budgeting for Charities</a>  <em>- TGS-2020500622</em>
@@ -45,7 +35,12 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFRE5766" rel="noopener nofollow" target="_blank">Making $ense II: Fund-Raising Strategy Development</a>
-<br>Register by 17 December 2024
+<br>Register by 17 December 2024</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5652" rel="noopener nofollow" target="_blank">Charities Accounting Standard and its Application</a>
+</p>
+<p>Register by 30 December 2024
 <br>
 <br>Subscribe to our <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">Mailing List</a> for
 latest updates.</p>
@@ -98,7 +93,7 @@ latest updates.</p>
 </p>
 </li>
 </ul>
-<h4>Featured SSI's partner courses</h4>
+<h3>Featured SSI's partner courses</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.dpi-asia.com/post/strategy-formulation-pure-simple" rel="noopener noreferrer nofollow" target="_blank">Strategy Formulation by DPI Asia</a>
@@ -174,6 +169,6 @@ and has transformed charity income sources drastically through local resource
 mobilisation across Asia, especially in the areas of local private sector
 fundraising through individual giving, philanthropic investments and corporate
 engagement.</p>
-<h4><strong>Subscribe to Mailing List</strong></h4>
+<h3><strong>Subscribe to Mailing List</strong></h3>
 <p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Management and Organisation Development Mailing List</a> for
 latest updates!</p>
