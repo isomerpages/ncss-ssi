@@ -1,0 +1,8 @@
+collections:
+  mental-health:
+    output: true
+    order:
+      - certificate-in-peer-support.md
+      - Professional Certificate in Casework.md
+      - Preparatory Training for Potential Peer Support Specialist.md
+      - peer-support-specialist-programme.md

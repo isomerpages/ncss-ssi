@@ -1,0 +1,14 @@
+logo: /images/Logo/ssilogo_header_154x75.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Training
+    collection: training
+  - title: Resources
+    collection: resources
+  - title: Our Stories
+    url: /stories/
+  - title: Media Centre
+    resource_room: true
+  - title: Course Search
+    url: https://iltms.ssi.gov.sg/registration/course
