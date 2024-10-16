@@ -108,7 +108,9 @@ and connect EC educators and parents to the relevant EI support and resources.&n
 to attend the pre-appointment training and obtain an e-certificate.</p>
 </li>
 </ul>
-<p>Read more on the <a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS464" rel="noopener nofollow" target="_blank">course and registration process</a>.</p>
+<p>Read more on the <a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS464" rel="noopener nofollow" target="_blank">course and registration process</a> and
+check out the exciting social learning experiences curated for <a href="https://go.gov.sg/cop-ico24" rel="noopener noreferrer nofollow" target="_blank">CoP for ICOs.</a>
+</p>
 <p></p>
 <p>Explore the full offerings of&nbsp;<a href="https://iltms.ssi.gov.sg/registration/Course" rel="noopener nofollow" target="_blank">SSI's Disability courses</a> and
 other <a href="https://www.ssi.gov.sg/complimentary-courses/" rel="noopener noreferrer nofollow" target="_blank">complimentary courses</a> or
