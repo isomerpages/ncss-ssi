@@ -7,7 +7,7 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: We’re making it easier for you to connect with us through our new
   NCSS Consolidated Hotline at 6210 2500.<br><br>  iLTSMS is undergoing
-  maintenance from <strong>22:00 on 25 October 2024 to 07:00 on 26
+  maintenance from <strong>22:00 on 24 October 2024 to 07:00 on 26
   October  2024</strong>. You may experience downtime during this <a
   target="_blank" href="https://www.ssi.gov.sg/maintenance-schedule">maintenance
   period</a>.
