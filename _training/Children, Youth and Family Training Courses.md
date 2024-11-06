@@ -16,13 +16,6 @@ variant: tiptap
 <br>Register by 10 December 2024</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5938" rel="noopener noreferrer nofollow" target="_blank">Management of Family Violence: Supporting Clients in Their Trauma Recovery (Synchronous e-learning)</a> - <em>TGS-2020500752</em>
-<br>Register by 10 December 2024</p>
-</li>
-<li>
-<p></p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0155" rel="noopener nofollow" target="_blank">Protective Behaviours for Children – a Preventive Intervention against Abuse</a>
 <br>Register by 20 December 2024</p>
 </li>
@@ -32,7 +25,7 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF305" rel="noopener nofollow" target="_blank">Mentoring and Coaching Youths Effectively</a>  <em>- TGS-2021009573</em>
-<br>Register by 5 January 2025</p>
+<br>Register by 7 January 2025</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5802" rel="noopener nofollow" target="_blank">Helping Family Members Cope with Issues Arising from Incarceration of a Loved One</a><em> - TGS-2020500637</em>
@@ -53,6 +46,10 @@ variant: tiptap
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5437" rel="noopener nofollow" target="_blank">Rehabilitation and Re-Integration Needs of Former Drug Offenders</a>  <em>- TGS-2020500632</em>
 <br>Register by 3 February 2025</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5938" rel="noopener noreferrer nofollow" target="_blank">Management of Family Violence: Supporting Clients in Their Trauma Recovery (Synchronous e-learning)</a> - <em>TGS-2020500752</em>
+<br>Register by 4 February 2025</p>
 </li>
 </ul>
 <h3>Complimentary e-Learning Courses</h3>
