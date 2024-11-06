@@ -55,7 +55,7 @@ youth, adults and seniors.</p>
 <br>Register by 4 February 2025</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5229" rel="noopener nofollow" target="_blank">Counselling Skills and Practice: Introduction</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5229" rel="noopener nofollow" target="_blank">Counselling Skills and Practice: Introduction</a>  <em>- TGS-2020500644</em> 
 <br>Register by 28 February 2025</p>
 </li>
 <li>
