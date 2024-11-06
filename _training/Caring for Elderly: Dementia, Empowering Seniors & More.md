@@ -13,15 +13,15 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0129" rel="noopener nofollow" target="_blank">Engaging Senior Learners – A Guide for Effective Interactions</a>
-</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0130" rel="noopener nofollow" target="_blank">Dispositions and Training Styles for Engaging Senior Learners</a>
 </p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0131" rel="noopener nofollow" target="_blank">Effective Teaching Methods for Engaging Senior Learners</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0129" rel="noopener nofollow" target="_blank">Engaging Senior Learners – A Guide for Effective Interactions</a>
 </p>
 </li>
 </ul>
