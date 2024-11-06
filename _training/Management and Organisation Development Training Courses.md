@@ -38,9 +38,8 @@ variant: tiptap
 <br>Register by 17 December 2024</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5652" rel="noopener nofollow" target="_blank">Charities Accounting Standard and its Application</a>
-</p>
-<p>Register by 30 December 2024
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5652" rel="noopener nofollow" target="_blank">Charities Accounting Standard and its Application</a><em> - TGS-2020500750<br></em>Register
+by 30 December 2024
 <br>
 <br>Subscribe to our <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">Mailing List</a> for
 latest updates.</p>
