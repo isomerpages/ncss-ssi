@@ -30,7 +30,7 @@ of innovative solutions.</p>
 </p>
 </li>
 <li>
-<p><a href="http://decisionprocesses.com/" rel="noopener noreferrer nofollow" target="_blank">Decision Processes International</a>
+<p><a href="https://www.dpi-asia.com/" rel="noopener noreferrer nofollow" target="_blank">Decision Processes International</a>
 </p>
 </li>
 <li>
