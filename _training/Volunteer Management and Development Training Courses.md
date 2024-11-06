@@ -15,8 +15,8 @@ variant: tiptap
 <br>Register by 5 December 2024</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SVLD313" rel="noopener nofollow" target="_blank">Volunteer Management Practices: Connect, Engage, Develop</a>
-<br>Register by 27 November 2024</p>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0134" rel="noopener nofollow" target="_blank">Design &amp; Develop: Crafting Volunteers Roles for Maximum Impact</a>
+<br>Register by 20 December 2024</p>
 </li>
 </ul>
 <h3>Registration Open Throughout the Year</h3>
