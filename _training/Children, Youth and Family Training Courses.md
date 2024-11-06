@@ -36,11 +36,11 @@ variant: tiptap
 <br>Register by 5 January 2024</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5802" rel="noopener nofollow" target="_blank">Helping Family Members Cope with Issues Arising from Incarceration of a Loved One</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5802" rel="noopener nofollow" target="_blank">Helping Family Members Cope with Issues Arising from Incarceration of a Loved One</a><em> - TGS-2020500637</em>
 <br>Register by 6 January 2024</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF197" rel="noopener nofollow" target="_blank">Management of Family Violence: Introduction</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF197" rel="noopener nofollow" target="_blank">Management of Family Violence: Introduction</a><em> - TGS-2020500631</em>
 <br>Register by 13 January 2024</p>
 </li>
 <li>
@@ -48,7 +48,7 @@ variant: tiptap
 <br>Register by 28 January 2024</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5437" rel="noopener nofollow" target="_blank">Rehabilitation and Re-Integration Needs of Former Drug Offenders</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5437" rel="noopener nofollow" target="_blank">Rehabilitation and Re-Integration Needs of Former Drug Offenders</a>  <em>- TGS-2020500632</em>
 <br>Register by 3 February 2024</p>
 </li>
 </ul>
