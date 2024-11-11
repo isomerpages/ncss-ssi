@@ -27,10 +27,6 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5647" rel="noopener noreferrer nofollow" target="_blank">May I Help You? (Boleh Saya Bantu Anda?) - Conversational Malay for Social Service Practitioners</a>
-<br>Register by 30 October 2024</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0099" rel="noopener noreferrer nofollow" target="_blank">Implement a Social Service Programme </a>
 <br>Register by 5 December 2024</p>
 </li>
@@ -51,16 +47,24 @@ youth, adults and seniors.</p>
 <br>Register by 23 January 2025</p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS209" rel="noopener nofollow" target="_blank">Develop an Individualised Care Plan</a>
+<br>Register by 3 February 2025</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5944" rel="noopener nofollow" target="_blank">Financial Planning for Low Income Clients</a>
 <br>Register by 4 February 2025</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5229" rel="noopener nofollow" target="_blank">Counselling Skills and Practice: Introduction</a>
-<br>Register by 28 February 2025</p>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5141" rel="noopener nofollow" target="_blank">Cognitive Behaviour Therapy: Introduction</a>
+<br>Register by 6 February 2025</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS209" rel="noopener nofollow" target="_blank">Develop an Individualised Care Plan</a>
-<br>Register by 3 February 2025</p>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5856" rel="noopener nofollow" target="_blank">Understanding and Supporting People in Journey of Loss and Grief</a>
+<br>Register by 27 January 2025</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5229" rel="noopener nofollow" target="_blank">Counselling Skills and Practice: Introduction</a>  <em>- TGS-2020500644</em> 
+<br>Register by 28 February 2025</p>
 </li>
 </ul>
 <h3><strong>Other Featured Short Courses in Befriending, Case Management, Counselling and more</strong></h3>

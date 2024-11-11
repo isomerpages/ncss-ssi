@@ -11,27 +11,6 @@ variant: tiptap
 to transform 7 selected SSAs to become Centres of Excellence. These SSA
 partners were selected based on specific criteria to offer training to
 the sector.</p>
-<h4><strong>Registration now open</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0032" rel="noopener noreferrer nofollow" target="_blank">Executive Function Skills for Children with SEN</a> - <em>TGS-2023019843</em>
-<br>Register by 30 August 2024</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0077" rel="noopener noreferrer nofollow" target="_blank">Applying Theory of Change and Logic Model in Programme Planning</a> - <em>TGS-2023019733</em>
-<br>Register by 2 September 2024</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0012" rel="noopener noreferrer nofollow" target="_blank">A Spotlight on Dementia</a> -<em> TGS-2023019206</em>
-<br>Register by 17 September 2024</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0080" rel="noopener noreferrer nofollow" target="_blank">Support the Implementation of Volunteer Programmes </a><em>- TGS-2023022331</em>
-<br>Register by 19 September 2024</p>
-</li>
-</ul>
-<p>All courses listed here are offered by the 7 selected SSA partners onboard
-TNM 2.0.</p>
 <h4><strong>Children &amp; Youth Courses</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>

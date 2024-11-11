@@ -10,17 +10,23 @@ variant: tiptap
 </div>
 <h2><strong>Management and Organisation Development Training Courses offered by SSI</strong></h2>
 <h3>Registration now open</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener nofollow" target="_blank">Developing Effective Supervisory Skills</a>
-<br>Register by 29 January 2025</p>
-</li>
-</ul>
 <h3>People Management and Leadership</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCOF90" rel="noopener nofollow" target="_blank">Developing Your Coaching and Mentoring Skills</a>
 <br>Register by 12 December 2024</p>
+</li>
+<li>
+<p><a href="https://www.erevnaleadership.com/register.html" rel="noopener nofollow" target="_blank">Principles of Persuasion - By Erevna Leadership</a>
+<br>Register by 16 January 2025</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener nofollow" target="_blank">Developing Effective Supervisory Skills</a>
+<br>Register by 29 January 2025</p>
+</li>
+<li>
+<p><a href="https://www.erevnaleadership.com/register.html" rel="noopener nofollow" target="_blank">Authentic Leadership Conversations - By Erevna Leadership</a>
+<br>Register by 13 February 2025</p>
 </li>
 </ul>
 <h3>Financial Management</h3>
@@ -35,12 +41,11 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFRE5766" rel="noopener nofollow" target="_blank">Making $ense II: Fund-Raising Strategy Development</a>
-<br>Register by 17 December 2024</p>
+<br>Register by 6 December 2024</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5652" rel="noopener nofollow" target="_blank">Charities Accounting Standard and its Application</a>
-</p>
-<p>Register by 30 December 2024
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5652" rel="noopener nofollow" target="_blank">Charities Accounting Standard and its Application</a><em> - TGS-2020500750<br></em>Register
+by 30 December 2024
 <br>
 <br>Subscribe to our <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">Mailing List</a> for
 latest updates.</p>
