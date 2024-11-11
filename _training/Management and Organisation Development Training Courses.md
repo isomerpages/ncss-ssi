@@ -41,7 +41,7 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFRE5766" rel="noopener nofollow" target="_blank">Making $ense II: Fund-Raising Strategy Development</a>
-<br>Register by 17 December 2024</p>
+<br>Register by 6 December 2024</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5652" rel="noopener nofollow" target="_blank">Charities Accounting Standard and its Application</a><em> - TGS-2020500750<br></em>Register
