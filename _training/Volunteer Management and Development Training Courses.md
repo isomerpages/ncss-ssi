@@ -18,10 +18,6 @@ variant: tiptap
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0134" rel="noopener nofollow" target="_blank">Design &amp; Develop: Crafting Volunteers Roles for Maximum Impact</a>
 <br>Register by 20 December 2024</p>
 </li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0133" rel="noopener nofollow" target="_blank">Plan &amp; Strategise: Enhancing Volunteer Engagement</a>
-<br>Register by 24 December 2024</p>
-</li>
 </ul>
 <h3>Registration Open Throughout the Year</h3>
 <ul data-tight="true" class="tight">
@@ -36,7 +32,12 @@ variant: tiptap
 </ul>
 <h3><strong>Other Featured Volunteer Management and Development Courses</strong></h3>
 <h3>Volunteer Management Training Courses</h3>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0133" rel="noopener nofollow" target="_blank">Plan &amp; Strategise: Enhancing Volunteer Engagement</a>
+</p>
+</li>
+</ul>
 <p>View the <a href="https://iltms.ssi.gov.sg/registration/#/Course" rel="noopener noreferrer nofollow" target="_blank">full list of volunteer management and development courses</a>.</p>
 <h3><strong>Key Adult Educators for Volunteer Management and Development Courses</strong></h3>
 <p><strong>Ms Alice Lee-Tok</strong> 
