@@ -12,10 +12,6 @@ variant: tiptap
 <p><a href="/files/training courses/FY24_Training_Directory_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Training Directory 2024 / 2025</a>
 </p>
 </li>
-<li>
-<p><a href="/files/training courses/FY24_Training_Directory_2024.pdf" rel="noopener nofollow" target="_blank">Training Directory 2024 / 2025</a>
-</p>
-</li>
 </ul>
 <h3>Course Schedule &amp; Registration Dates</h3>
 <ul data-tight="true" class="tight">
