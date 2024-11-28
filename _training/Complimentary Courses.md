@@ -40,7 +40,7 @@ have requested for more support on.</p>
 <h4><strong>Cross Sector</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0138" rel="noopener noreferrer nofollow" target="_blank">Singapore's Social Compact</a>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0162" rel="noopener nofollow" target="_blank">Understanding Singapore’s Social Compact and Social Policies</a>
 </p>
 </li>
 <li>
