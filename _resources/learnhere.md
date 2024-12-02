@@ -31,6 +31,12 @@ sessions.</p>
 </li>
 </ul>
 <h3>iLTMS Portals</h3>
+<p>Watch the iLTMS Video Guide for a step-by-step walkthrough of both the
+Student and LMS Portals to streamline your online learning experience!</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DcUX088lGzw?si=VAm1e9AzUurmAP7o"></iframe>
+</div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
