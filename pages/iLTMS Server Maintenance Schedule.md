@@ -32,162 +32,98 @@ the following dates. Access to iLTMS may be disrupted during this period.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18 Apr 2024, 22:00</p>
+<p>24 January 2025, 22:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19 Apr 2024, 12:00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26 Apr 2024, 22:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>27 Apr 2024, 07:00</p>
+<p>25 January 2025, 7:00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>31 May 2024, 22:00</p>
+<p>21 February 2025, 22:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Jun 2024, 07:00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>28 Jun 2024, 22:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>29 Jun 2024, 07:00</p>
+<p>22 February 2025, 7:00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Jul 2024, 22:00</p>
+<p>14 March 2025, 22:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5 July 2024, 02:00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>11 Jul 2024, 22:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12 Jul 2024, 02:00</p>
+<p>15 March 2025, 07:00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17 Jul 2024, 22:00</p>
+<p>11 April 2025 22:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18 Jul 2024, 07:'00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26 Jul 2024, 22:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>27 Jul 2024, 07:00</p>
+<p>12 April 2025 07:00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 Aug 2024, 22:00</p>
+<p>16 May 2025 22:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9 Aug 2024, 02:00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>19 Aug 2024, 23:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20 Aug 2024, 07:00</p>
+<p>17 May 2025 07:00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29 Aug 2024, 22:00</p>
+<p>20 June 2025 22:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Aug 2024, 02:00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>30 Aug 2024, 22:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>31 Aug 2024, 07:00</p>
+<p>21 June 2025 07:00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12 Sep 2024, 22:00</p>
+<p>18 July 2025 22:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13 Sep 2024,02:00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>19 Sep 2024, 22:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20 Sep 2024,02:00</p>
+<p>19 July 2025 07:00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 Sep 2024, 22:00</p>
+<p>22 August 2025 22:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 Sep 2024, 07:00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>27 Sep 2024, 22:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>28 Sep 2024, 07:00</p>
+<p>23 August 2025 07:00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Oct 2024, 22:00</p>
+<p>19 September 2025 22:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 Oct 2024, 02:00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10 Oct 2024, 22:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11 Oct 2024, 02:00</p>
+<p>20 September 2025 07:00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25 Oct 2024, 22:00</p>
+<p>24 October 2025 22:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 Oct 2024, 07:00</p>
+<p>25 October 2025 07:00</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29 Nov 2024, 22:00</p>
+<p>21 November 2025 22:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Nov 2024, 07:00</p>
+<p>22 November 2025 07:00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 December 2025 22:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13 December 2025 07:00</p>
 </td>
 </tr>
 </tbody>
