@@ -69,7 +69,7 @@ of innovative solutions.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.toteboard.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Tote Board</a>
+<p><a href="https://www.toteboard.gov.sg/" rel="noopener nofollow" target="_blank">Tote Board</a>
 </p>
 </li>
 <li>
