@@ -106,16 +106,16 @@ for registrations received.
 <p></p>
 <h4><strong>Module 1: Supported Employment and Working with Clients of Different Disabilities</strong></h4>
 <p><em>TGS-2021008466</em> 
-<br><strong>Training dates:</strong> 20 to 22 August, 23 and 26 August 2024
-<br><strong>Assessment date:</strong> 26 August 2024</p>
+<br><strong>Training dates:</strong> 21 to 25 April 2025
+<br><strong>Assessment date:</strong> 25 April 2025</p>
 <p>This module will equip learners with a better understanding of the concept
 and practices of Supported Employment, including techniques to provide
 guidance to clients with disabilities in their career planning, employment
 laws and grants available for employers and persons with disabilities.</p>
 <h4><strong>Module 2: Basic Counselling Skills and Practice for Job Coaches</strong></h4>
 <p><em>TGS-2020501623</em>
-<br><strong>Training dates:</strong> 4 to 5 September 2024
-<br><strong>Assessment date:</strong> 5 September 2024</p>
+<br><strong>Training dates:</strong> 6 to 7 May 2025
+<br><strong>Assessment date:</strong> 7 May 2025</p>
 <p>This module provides an overview of the counselling process, the different
 roles performed by the job coach-counsellor, basic counselling skills,
 goals of counselling, values and ethics in counselling and approaches in
@@ -124,8 +124,8 @@ communication in the counselling process and ways to prevent communication
 breakdown when working with clients.</p>
 <h4><strong>Module 3: Introduction to Case Management</strong></h4>
 <p><em>TGS-2020500820</em>
-<br><strong>Training dates:</strong> 12 to 13 September 2024
-<br><strong>Assessment date:</strong> 13 September 2024</p>
+<br><strong>Training dates:</strong> 15 to 16 May 2025
+<br><strong>Assessment date:</strong> 16 May 2025</p>
 <p>This module will equip learners with the necessary skills and knowledge
 of case management in practice. It provides learners with a broad understanding
 of how case management serves as a means for achieving client wellness
@@ -135,8 +135,8 @@ the connections between job coach, client, service personnel and other
 stakeholders in order to optimize the assistance rendered.</p>
 <h4><strong>Module 4: Conflict, Leadership and People Management</strong></h4>
 <p><em>TGS-2020501318</em>
-<br><strong>Training dates:</strong> 26 to 27 September 2024
-<br><strong>Assessment date:</strong> 27 September 2024</p>
+<br><strong>Training dates:</strong> 5 to 6 June 2025
+<br><strong>Assessment date:</strong> 6 June 2025</p>
 <p>Conflict is an issue that people have to manage regularly. Any efforts
 in equalising and normalising persons with disabilities at workplace would
 have to recognise and accept that potential conflicts may be inevitable.
@@ -147,20 +147,8 @@ the art of negotiation in reaching an agreement between different stakeholders
 as well as how to apply the principles of leadership and people management.</p>
 <h4><strong>Module 5: Client and Employer Engagement</strong></h4>
 <p><em>TGS-2020501320</em>
-<br><strong>Training dates:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>14 and 24 October 2024</p>
-</li>
-<li>
-<p>1, 7 and 15 November 2024 and</p>
-</li>
-<li>
-<p>7 and 8 January 2025</p>
-</li>
-</ul>
-<p><strong>Assessment date(s):</strong> 7 and 8 January 2025</p>
+<br><strong>Training dates: </strong>16 to 20 June 2025
+<br><strong>Oral Interview: </strong>28 and 29 July 2025&nbsp;</p>
 <p>This module focuses on the role and responsibilities of a professional
 job coach and coaching techniques for persons with disabilities (PWDs)
 within a supported employment framework. In contrast to the traditional
@@ -171,11 +159,10 @@ process. Learners will acquire specific knowledge and skills to engage
 and support clients and employers in supported employment which includes
 the development of client profile, job development and placement, job site
 training and support, and fading out and follow-up.</p>
-<p><strong>Compulsory Visit to Enabling Village</strong> – 9 January 2025
-(Thursday), 2pm to 5pm.</p>
+<p><strong>Compulsory Site Visit to Enabling Village</strong> – To be confirmed.</p>
 <hr>
-<h3><strong>Upcoming intake 2024</strong></h3>
-<p><strong>Registration closing date:</strong> Tuesday, 16 July 2024.
+<h3><strong>Upcoming intake 2025</strong></h3>
+<p><strong>Registration closing date:</strong> 3 March 2025, Monday
 <br>Register for the <a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS8" rel="noopener nofollow" target="_blank">ACSE Course</a> now.</p>
 <hr>
 <p><sup>1</sup> Subject to successful completion and achievement of a ‘Competent’
