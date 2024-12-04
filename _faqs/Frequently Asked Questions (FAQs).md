@@ -4,5 +4,5 @@ permalink: /faqs/
 description: Frequently Asked Questions (FAQs) - Social Service Institute
 variant: tiptap
 ---
-<p><a href="/files/training courses/FY24_Training_Directory_2024.pdf" rel="noopener nofollow" target="_blank">List of Frequently Asked Questions</a> (Updated
+<p><a href="/files/SSI_FAQs.pdf" rel="noopener nofollow" target="_blank">List of Frequently Asked Questions</a> (Updated
 on 3 December 2024)</p>
