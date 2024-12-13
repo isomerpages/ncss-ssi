@@ -37,14 +37,15 @@ sections:
           url: /training/cet-programmes/advanced-certificate-in-social-service/
   - infopic:
       title: Join us at the Social Service Tribe Forum on 23 Jan 2025!
-      subtitle: Add an image and text
+      subtitle: Events
       id: infopic
       description: Engage with industry leaders and participate in targeted breakout
         sessions. Register now to advance your professional development in
         social service!
-      button: Register by 14th Jan 2025
+      button: Register by 14 Jan 2025
       url: https://reg.eventnook.com/event/socialservicetribeforum/
       alt: Image alt text
+      image: /images/homepage/Social_Service_Tribe_Forum_2025.png
   - infopic:
       title: Start planning for your training needs today!
       subtitle: Training Directory for 2024/25
