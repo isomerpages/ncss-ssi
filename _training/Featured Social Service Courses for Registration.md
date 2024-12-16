@@ -121,7 +121,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Equip volunteers with knowledge, develop volunteer management capabilities" src="/images/training/volunteer-v2.png">
 </div>
-<h4>Volunteer Management 101 </h4>
+<h4>Volunteer Management 101</h4>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0125" rel="noopener nofollow" target="_blank">Register is open throughout the year</a>
 </p>
 <p><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" rel="noopener noreferrer nofollow" target="\_blank">View other Volunteering Management and Development courses</a>
