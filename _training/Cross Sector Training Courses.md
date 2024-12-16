@@ -19,21 +19,11 @@ youth, adults and seniors.</p>
 <h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0162" rel="noopener nofollow" target="_blank">Understanding Singapore’s Social Compact and Social Policies</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0147" rel="noopener nofollow" target="_blank">Using Sector Evaluation Framework (SEF) in Articulating Programme Outcomes</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0099" rel="noopener noreferrer nofollow" target="_blank">Implement a Social Service Programme </a>
-<br>Register by 5 December 2024
-<br>
-</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0156" rel="noopener nofollow" target="_blank">Empowerment E-module</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0162" rel="noopener nofollow" target="_blank">Understanding Singapore’s Social Compact and Social Policies</a>
 </p>
 </li>
 <li>
