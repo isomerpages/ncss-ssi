@@ -13,6 +13,14 @@ variant: tiptap
 <h3>People Management and Leadership</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://www.dpi-asia.com/post/is-your-strategy-still-right" rel="noopener nofollow" target="_blank">Strategic Review - by DPI Asia</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.dpi-asia.com/post/strategy-formulation-pure-simple" rel="noopener noreferrer nofollow" target="_blank">Strategy Formulation by DPI Asia</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.erevnaleadership.com/register.html" rel="noopener nofollow" target="_blank">Principles of Persuasion - By Erevna Leadership</a>
 <br>Register by 16 January 2025</p>
 </li>
@@ -21,16 +29,8 @@ variant: tiptap
 <br>Register by 29 January 2025</p>
 </li>
 <li>
-<p><a href="https://www.dpi-asia.com/post/is-your-strategy-still-right" rel="noopener nofollow" target="_blank">Strategic Review - by DPI Asia</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.erevnaleadership.com/register.html" rel="noopener nofollow" target="_blank">Authentic Leadership Conversations - By Erevna Leadership</a>
 <br>Register by 13 February 2025</p>
-</li>
-<li>
-<p><a href="https://www.dpi-asia.com/post/strategy-formulation-pure-simple" rel="noopener noreferrer nofollow" target="_blank">Strategy Formulation by DPI Asia</a>
-</p>
 </li>
 </ul>
 <h3>Financial Management</h3>
