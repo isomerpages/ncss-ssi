@@ -22,8 +22,7 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://www.dpi-asia.com/post/is-your-strategy-still-right" rel="noopener nofollow" target="_blank">Strategic Review - by DPI Asia</a>
-</p>
-<p>Register by 4 February 2025</p>
+<br>Register by 4 February 2025</p>
 </li>
 <li>
 <p><a href="https://www.erevnaleadership.com/register.html" rel="noopener nofollow" target="_blank">Authentic Leadership Conversations - By Erevna Leadership</a>
