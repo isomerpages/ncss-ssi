@@ -28,7 +28,17 @@ youth, adults and seniors.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0099" rel="noopener noreferrer nofollow" target="_blank">Implement a Social Service Programme </a>
-<br>Register by 5 December 2024</p>
+<br>Register by 5 December 2024
+<br>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0156" rel="noopener nofollow" target="_blank">Empowerment E-module</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0147" rel="noopener nofollow" target="_blank">Using Sector Evaluation Framework (SEF) in Articulating Programme Outcomes</a>
+</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SST0929" rel="noopener noreferrer nofollow" target="_blank">Identify Learning Needs for Personal and Professional Development </a>
@@ -47,6 +57,10 @@ youth, adults and seniors.</p>
 <br>Register by 23 January 2025</p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5856" rel="noopener nofollow" target="_blank">Understanding and Supporting People in Journey of Loss and Grief</a>
+<br>Register by 27 January 2025</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS209" rel="noopener nofollow" target="_blank">Develop an Individualised Care Plan</a>
 <br>Register by 3 February 2025</p>
 </li>
@@ -59,12 +73,13 @@ youth, adults and seniors.</p>
 <br>Register by 6 February 2025</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5856" rel="noopener nofollow" target="_blank">Understanding and Supporting People in Journey of Loss and Grief</a>
-<br>Register by 27 January 2025</p>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS11" rel="noopener nofollow" target="_blank">Professional Certificate in Casework (NSWCF Foundational)</a>
+<br>Register by 10 February 2025</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5229" rel="noopener nofollow" target="_blank">Counselling Skills and Practice: Introduction</a>  <em>- TGS-2020500644</em> 
-<br>Register by 28 February 2025</p>
+<br>Register by 11 February 2025</p>
+<p></p>
 </li>
 </ul>
 <h3><strong>Other Featured Short Courses in Befriending, Case Management, Counselling and more</strong></h3>
