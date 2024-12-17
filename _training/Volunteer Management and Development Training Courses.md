@@ -8,17 +8,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Volunteer Management  Development Courses: Equip volunteers with knowledge, develop volunteer management capabilities" src="/images/volunteer-banner.png">
 </div>
 <h2><strong>Volunteer Management &amp; Development Courses offered by SSI</strong></h2>
-<h3>Registration now open</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SVLD313" rel="noopener noreferrer nofollow" target="_blank">Volunteer Management Practices: Connect, Engage, Develop</a>
-<br>Register by 27 November 2024</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0134" rel="noopener nofollow" target="_blank">Design &amp; Develop: Crafting Volunteers Roles for Maximum Impact</a>
-<br>Register by 20 December 2024</p>
-</li>
-</ul>
 <h3>Registration Open Throughout the Year</h3>
 <ul data-tight="true" class="tight">
 <li>
