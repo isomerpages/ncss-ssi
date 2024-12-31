@@ -44,7 +44,7 @@ sections:
         social service!
       button: Register by 14 Jan 2025
       url: https://reg.eventnook.com/event/socialservicetribeforum/
-      alt: Image alt text
+      alt: Social Service Tribe Forum
       image: /images/homepage/Social_Service_Tribe_Forum_2025.png
   - infopic:
       title: Start planning for your training needs today!
