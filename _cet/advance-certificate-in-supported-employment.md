@@ -159,7 +159,7 @@ process. Learners will acquire specific knowledge and skills to engage
 and support clients and employers in supported employment which includes
 the development of client profile, job development and placement, job site
 training and support, and fading out and follow-up.</p>
-<p><strong>Compulsory Site Visit to Enabling Village</strong> – 10 July 2025</p>
+<p><strong>Compulsory Site Visit to Enabling Village</strong>: 10 July 2025</p>
 <hr>
 <h3><strong>Upcoming intake 2025</strong></h3>
 <p><strong>Registration closing date:</strong> 3 March 2025
