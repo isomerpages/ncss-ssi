@@ -159,10 +159,10 @@ process. Learners will acquire specific knowledge and skills to engage
 and support clients and employers in supported employment which includes
 the development of client profile, job development and placement, job site
 training and support, and fading out and follow-up.</p>
-<p><strong>Compulsory Site Visit to Enabling Village</strong> – To be confirmed.</p>
+<p><strong>Compulsory Site Visit to Enabling Village</strong> – 10 July 2025</p>
 <hr>
 <h3><strong>Upcoming intake 2025</strong></h3>
-<p><strong>Registration closing date:</strong> 3 March 2025, Monday
+<p><strong>Registration closing date:</strong> 3 March 2025
 <br>Register for the <a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS8" rel="noopener nofollow" target="_blank">ACSE Course</a> now.</p>
 <hr>
 <p><sup>1</sup> Subject to successful completion and achievement of a ‘Competent’
