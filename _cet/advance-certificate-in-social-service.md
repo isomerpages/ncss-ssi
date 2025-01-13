@@ -115,7 +115,7 @@ with an individual Statement of Attainment (SOA) for the five modules.</p>
 Certificate in Social Service.</p>
 <p>With the qualification attained, learners can apply for jobs as a Social
 Service Assistant or as senior house parents, programme coordinators, senior
-home helpers and home care workers. Learn more about <a href="https://www.ncss.gov.sg/social-service-tribe/careerdetail/Social-Work" rel="noopener noreferrer nofollow" target="_blank">social work jobs and their required qualifications</a>.</p>
+home helpers and home care workers. Learn more about <a href="https://www.ncss.gov.sg/careers/social-service-careers/roles-in-social-services/social-work/" rel="noopener nofollow" target="_blank">social work jobs and their required qualifications</a>.</p>
 <h4>Course Details</h4>
 <p><strong>Cohort Size:</strong> 20 pax
 <br><strong>Programme Duration:</strong> 13 months. This is a part time course
