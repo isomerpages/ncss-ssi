@@ -6,7 +6,7 @@ description: The Social Service Institute (SSI) is a CET centre that supports
 variant: tiptap
 ---
 <p>Social Service Institute (SSI) is part of the Capability Group of the
-<a href="https://www.ncss.gov.sg/Who-We-Are/Our-Organisation" rel="noopener noreferrer nofollow" target="_blank">National Council of Social Service (NCSS)</a>. It is a Continuing Education
+<a href="https://www.ncss.gov.sg/about-us/who-we-are/" rel="noopener nofollow" target="_blank">National Council of Social Service (NCSS)</a>. It is a Continuing Education
 and Training centre for the social service sector, recognised by <a href="https://www.skillsfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">SkillsFuture Singapore (SSG)</a>.
 SSI develops the workforce by offering training programmes and various
 learning modalities that enhance the competencies of sector professionals.</p>
