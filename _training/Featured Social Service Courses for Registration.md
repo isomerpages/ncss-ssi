@@ -161,7 +161,8 @@ variant: tiptap
 </li>
 <li>
 <p>For foreigners who are staff of NCSS Member Social Service Agencies:*
-<a href="https://www.ncss.gov.sg/grants-search/detail-page/VCFProfessionalCapabilityGrant-LocalTraining" rel="noopener noreferrer nofollow" target="_blank">Professional Capability Grant (PCG) is available via Direct Training Application</a>.
+<a href="https://www.ncss.gov.sg/grants/people-development/professional-capability-grant/" rel="noopener nofollow" target="_blank">Professional Capability Grant (PCG)</a>is available via Direct Training
+Application.
 <br>
 <br>Terms and conditions apply.</p>
 </li>
