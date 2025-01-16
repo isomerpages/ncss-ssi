@@ -91,7 +91,8 @@ initiatives!</p>
 <p>Alternatively, if you have any Volunteer Management related questions,
 feel free to drop us an email at <a href="mailto:matthew_leung@ncss.gov.sg" rel="noopener noreferrer nofollow" target="_blank">matthew_leung@ncss.gov.sg</a>.
 <br>
-<br>Visit the <a href="https://www.ncss.gov.sg/volunteer/volunteer-resource-hub" rel="noopener nofollow" target="_blank">NCSS Volunteer Management &amp; Engagement Resource Hub</a>.</p>
+<br>Visit <a href="https://www.ncss.gov.sg/research-and-insights/capability-capacity/volunteer-management" rel="noopener nofollow" target="_blank">NCSS Volunteer Management</a> for
+more information.</p>
 <h3><strong>Subscribe to Mailing List</strong></h3>
 <p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Volunteer Management and Development Training Courses Mailing List</a> for
 latest updates!</p>
