@@ -29,8 +29,8 @@ TGS-2020500636
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5442" rel="noopener noreferrer nofollow" target="_blank">Management of Depression in Seniors</a>
-</p>
+<p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5442" rel="noopener noreferrer nofollow" target="_blank">Management of Depression in Seniors</a> -
+TGS-2020500636</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0029" rel="noopener noreferrer nofollow" target="_blank">Managing Suicide Crisis Over Phone </a><em>- TGS-2023019647</em>
