@@ -11,7 +11,7 @@ variant: tiptap
 <h3>Registration Open Throughout the Year</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0035" rel="noopener noreferrer nofollow" target="_blank">Befriending 101 (For Volunteers)</a> 
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0035" rel="noopener noreferrer nofollow" target="_blank">Befriending 101 (For Volunteers)</a>
 </p>
 </li>
 <li>
@@ -28,7 +28,15 @@ variant: tiptap
 <h3>Volunteer Management Training Courses</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0134" rel="noopener nofollow" target="_blank">Design &amp; Develop: Crafting Volunteers Roles for Maximum Impact</a>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0133" rel="noopener nofollow" target="_blank">Plan &amp; Strategise: Enhancing Volunteer Engagement</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SVLD313" rel="noopener nofollow" target="_blank">Volunteer Management Practices: Connect, Engage, Develop</a>
 </p>
 </li>
 </ul>
