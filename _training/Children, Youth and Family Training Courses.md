@@ -12,22 +12,6 @@ variant: tiptap
 <h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5802" rel="noopener nofollow" target="_blank">Helping Family Members Cope with Issues Arising from Incarceration of a Loved One</a><em> - TGS-2020500637</em>
-<br>Register by 6 January 2025</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF197" rel="noopener nofollow" target="_blank">Management of Family Violence: Introduction</a><em> - TGS-2020500631</em>
-<br>Register by 13 January 2025</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5858" rel="noopener nofollow" target="_blank">Certified User for Youth Level of Service/Case Management Inventory (YLS/CMI)</a> -<em> TGS-2020500744</em>
-<br>Register by 27 January 2025</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0122" rel="noopener nofollow" target="_blank">Review Frameworks for Effective Youth Mentoring</a>
-<br>Register by 28 January 2025</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5437" rel="noopener nofollow" target="_blank">Rehabilitation and Re-Integration Needs of Former Drug Offenders</a>  <em>- TGS-2020500632</em>
 <br>Register by 3 February 2025</p>
 </li>
@@ -82,6 +66,10 @@ Coming Soon!</p>
 </p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5858" rel="noopener nofollow" target="_blank">Certified User for Youth Level of Service/Case Management Inventory (YLS/CMI)</a> -<em> TGS-2020500744</em>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5340" rel="noopener noreferrer nofollow" target="_blank">Delivering Impactful Training to Youths </a>- <em>TGS-2020500657</em>
 </p>
 </li>
@@ -90,7 +78,7 @@ Coming Soon!</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5802" rel="noopener noreferrer nofollow" target="_blank">Helping Family Members Cope with Issues Arising from Incarceration of a Loved One </a><em>- TGS-2020500637</em>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5802" rel="noopener nofollow" target="_blank">Helping Family Members Cope with Issues Arising from Incarceration of a Loved One</a><em> - TGS-2020500637</em>
 </p>
 </li>
 <li>
@@ -119,6 +107,10 @@ Coming Soon!</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF305" rel="noopener noreferrer nofollow" target="_blank">Mentoring and Coaching Youths Effectively (Classroom &amp; Asynchronous)</a> - <em>TGS-2021009573</em>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0122" rel="noopener nofollow" target="_blank">Review Frameworks for Effective Youth Mentoring</a>
 </p>
 </li>
 <li>
