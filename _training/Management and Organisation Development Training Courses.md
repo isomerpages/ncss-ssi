@@ -21,8 +21,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.erevnaleadership.com/register.html" rel="noopener nofollow" target="_blank">Principles of Persuasion - By Erevna Leadership</a>
-<br>Register by 16 January 2025</p>
+<p></p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener nofollow" target="_blank">Developing Effective Supervisory Skills</a>
@@ -31,6 +30,10 @@ variant: tiptap
 <li>
 <p><a href="https://www.erevnaleadership.com/register.html" rel="noopener nofollow" target="_blank">Authentic Leadership Conversations - By Erevna Leadership</a>
 <br>Register by 13 February 2025</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0140" rel="noopener nofollow" target="_blank">Data &amp; AI Literacy e-Primer</a>
+</p>
 </li>
 </ul>
 <h3>Financial Management</h3>
@@ -98,7 +101,7 @@ latest updates.</p>
 <h3>Featured SSI's partner courses</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">The 7 Habits of Highly Effective People by Franklin Covey</a>
+<p><a href="https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&amp;wdLOR=c02FF4AA9-A7A4-4B9C-B187-D439BDFDFC3C" rel="noopener noreferrer nofollow" target="_blank">3-D People Development by Capelle Consulting</a>
 </p>
 </li>
 <li>
@@ -110,7 +113,11 @@ latest updates.</p>
 </p>
 </li>
 <li>
-<p><a href="https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&amp;wdLOR=c02FF4AA9-A7A4-4B9C-B187-D439BDFDFC3C" rel="noopener noreferrer nofollow" target="_blank">3-D People Development by Capelle Consulting</a>
+<p><a href="https://www.erevnaleadership.com/register.html" rel="noopener nofollow" target="_blank">Principles of Persuasion - By Erevna Leadership</a>
+</p>
+</li>
+<li>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">The 7 Habits of Highly Effective People by Franklin Covey</a>
 </p>
 </li>
 </ul>
