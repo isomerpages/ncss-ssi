@@ -77,9 +77,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Mental Health Conditions &amp; Recovery Courses" src="https://www.ssi.gov.sg/images/training/mental-health-v2.png">
 </div>
-<h4>Management of Depression in Seniors</h4>
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SECH5442" rel="noopener nofollow" target="_blank">Register by 19 January 2025</a></strong>
-</p>
+<h4>Coming Soon!</h4>
+<p></p>
 <p><a href="https://www.ssi.gov.sg/training/mental-health" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Mental Health courses</u></a>
 </p>
 </td>
