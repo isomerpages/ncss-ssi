@@ -77,6 +77,10 @@ have requested for more support on.</p>
 <h4><strong>Management and Organisation Development</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0140" rel="noopener nofollow" target="_blank">Data &amp; AI Literacy e-Primer</a>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCOF430" rel="noopener noreferrer nofollow" target="_blank">Introduction to Internal Controls</a>
 </p>
 </li>
@@ -89,6 +93,14 @@ have requested for more support on.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0002" rel="noopener noreferrer nofollow" target="_blank">Preparatory Caregiver Training Programme</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0167" rel="noopener nofollow" target="_blank">Volunteer Continuity Planning</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0125" rel="noopener nofollow" target="_blank">Volunteer Management 101</a>
 </p>
 </li>
 </ol>
