@@ -164,7 +164,8 @@ variant: tiptap
 <a href="https://www.ncss.gov.sg/grants/people-development/professional-capability-grant/" rel="noopener nofollow" target="_blank">Professional Capability Grant (PCG)</a>is available via Direct Training
 Application.
 <br>
-<br>Terms and conditions apply.</p>
+<br><em>Terms and conditions apply.</em>
+</p>
 </li>
 </ul>
 <p></p>
