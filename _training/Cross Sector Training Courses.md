@@ -90,7 +90,7 @@ in the counselling profession.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SST0929" rel="noopener noreferrer nofollow" target="_blank">Identify Learning Needs for Personal and Professional Development </a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SST0929" rel="noopener noreferrer nofollow" target="_blank">Identify Learning Needs for Personal and Professional Development</a>
 </p>
 </li>
 <li>
