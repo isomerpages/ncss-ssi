@@ -12,7 +12,17 @@ for conducting trainings, networking events or organisational retreats.</p>
 rooms.
 <br>
 </p>
-<table>
+<table style="minWidth: 200px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -200,14 +210,14 @@ and resources:</p>
 <p>Wireless microphones</p>
 </li>
 <li>
-<p>Speaker systems (only for the auditorium</p>
+<p>Speaker systems (only for the auditorium)</p>
 </li>
 </ul>
 <h3>Steps to Booking a Room</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Email us at <a href="mailto:socialserviceinstitute@ncss.gov.sg" rel="noopener noreferrer nofollow" target="_blank">socialserviceinstitute@ncss.gov.sg</a> and
-attach the completed <a href="/images/resources/room-booking-form-(external-bookings)-2019-(final).pdf" rel="noopener noreferrer nofollow" target="_blank">Room Booking Form</a> to
+attach the completed <a href="/files/Resources/Room_Booking_Form__External_Bookings_.pdf" rel="noopener noreferrer nofollow" target="_blank">Room Booking Form </a>to
 your email.</p>
 </li>
 <li>
