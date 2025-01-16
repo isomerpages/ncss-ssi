@@ -20,7 +20,7 @@ variant: tiptap
 <p><a href="https://www.erevnaleadership.com/register.html" rel="noopener nofollow" target="_blank">Authentic Leadership Conversations - By Erevna Leadership</a>
 <br>Register by 13 February 2025
 <br>
-<br>Subscribe to our <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">Mailing List</a> for
+<br>Subscribe to our <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">mailing list</a> for
 latest updates.</p>
 </li>
 </ul>
