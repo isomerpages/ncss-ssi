@@ -14,5 +14,5 @@ fees for both short courses and academic programmes.</p>
 (LDP), Professional Development and Management Programme (PDMP) and Sabbatical
 Leave Scheme (SLS).</p>
 <p>To find out more information on the available funding support, please
-visit <a href="https://www.ncss.gov.sg/social-service-professionals/professional-development" rel="noopener noreferrer nofollow" target="_blank">Professional Development Programmes</a>.</p>
+visit <a href="https://www.ncss.gov.sg/for-social-service-professionals" rel="noopener noreferrer nofollow" target="_blank">Professional Development Programmes</a>.</p>
 <p><strong><em><sup>1</sup>Terms and conditions apply</em></strong>.</p>
