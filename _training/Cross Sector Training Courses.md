@@ -237,5 +237,5 @@ the University of Michigan, NUS, SUSS, Curtin and Swinburne University.
 His work had been published in professional journals and academic textbooks
 and he has presented in several local and international conferences.</p>
 <h3>Subscribe to Mailing List</h3>
-<p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Cross Sector Mailing List</a> mailing
-List for latest updates!</p>
+<p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Cross Sector Mailing List</a> for
+latest updates!</p>
