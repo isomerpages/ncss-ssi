@@ -23,32 +23,8 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0162" rel="noopener nofollow" target="_blank">Understanding Singapore’s Social Compact and Social Policies</a>
-</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0147" rel="noopener nofollow" target="_blank">Using Sector Evaluation Framework (SEF) in Articulating Programme Outcomes</a>
 </p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SST0929" rel="noopener noreferrer nofollow" target="_blank">Identify Learning Needs for Personal and Professional Development </a>
-<br>Register by 30 December 2024</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5446" rel="noopener noreferrer nofollow" target="_blank">Counselling Skills and Practice: Intermediate</a>
-<br>Register by 31 December 2024</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SMTH93" rel="noopener nofollow" target="_blank">Applying Self-Care Techniques for Social Service Professionals</a>
-<br>Register by 6 January 2025</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5447" rel="noopener nofollow" target="_blank">Solution Focused Brief Therapy: Intermediate</a>
-<br>Register by 23 January 2025</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5856" rel="noopener nofollow" target="_blank">Understanding and Supporting People in Journey of Loss and Grief</a>
-<br>Register by 27 January 2025</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS209" rel="noopener nofollow" target="_blank">Develop an Individualised Care Plan</a>
@@ -75,8 +51,19 @@ youth, adults and seniors.</p>
 <h3><strong>Other Featured Short Courses in Befriending, Case Management, Counselling and more</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SMTH93" rel="noopener nofollow" target="_blank">Applying Self-Care Techniques for Social Service Professionals</a>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5647" rel="noopener noreferrer nofollow" target="_blank">Boleh Saya Anda? May I Help You? - Conversational Malay for Social Service Practitioners</a>
 </p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5228" rel="noopener nofollow" target="_blank">Case Management in Practice: Introduction</a> - <em>TGS-2020500648</em>
+<br>The course provides participants with a broad understanding of the fundamentals
+of how case management serves as a means for achieving client wellness
+and autonomy through advocacy, dialogue, identification of service resources
+and direction.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5141" rel="noopener noreferrer nofollow" target="_blank">Cognitive Behaviour Therapy: Introduction</a> 
@@ -91,11 +78,19 @@ exposes learners to ethical considerations and self-care practices needed
 in the counselling profession.</p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5446" rel="noopener noreferrer nofollow" target="_blank">Counselling Skills and Practice: Intermediate</a>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS30" rel="noopener noreferrer nofollow" target="_blank">Engage Stakeholders Effectively</a>
 </p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCET159" rel="noopener noreferrer nofollow" target="_blank">Fundamentals in Developing Community Work Programme (NSFWCF Foundational)</a> - <em>TGS-2020501539</em>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SST0929" rel="noopener noreferrer nofollow" target="_blank">Identify Learning Needs for Personal and Professional Development</a>
 </p>
 </li>
 <li>
@@ -105,6 +100,18 @@ motivation in their clients, in order to change behaviour and progress
 towards an improved well-being.</p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5447" rel="noopener nofollow" target="_blank">Solution Focused Brief Therapy: Intermediate</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5856" rel="noopener nofollow" target="_blank">Understanding and Supporting People in Journey of Loss and Grief</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0162" rel="noopener nofollow" target="_blank">Understanding Singapore’s Social Compact and Social Policies</a>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCET6-M" rel="noopener noreferrer nofollow" target="_blank">Understanding the Social Service Sector</a> 
 <br>The course provides an appreciation and understanding of Singapore's social
 needs, key stakeholders in the sector and social service initiatives and
@@ -112,13 +119,6 @@ schemes. It is an e-Learning course that provides an overview of the development
 of Singapore’s social services over the years and introduces the principles
 behind its provision. It covers six areas of social service provision which
 include trends and challenges in the future.</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5228" rel="noopener nofollow" target="_blank">Case Management in Practice: Introduction</a> - <em>TGS-2020500648</em>
-<br>The course provides participants with a broad understanding of the fundamentals
-of how case management serves as a means for achieving client wellness
-and autonomy through advocacy, dialogue, identification of service resources
-and direction.</p>
 </li>
 </ul>
 <h3><strong>Cross Sector Certificate/ Diploma/ Degree Programmes</strong></h3>
@@ -237,5 +237,5 @@ the University of Michigan, NUS, SUSS, Curtin and Swinburne University.
 His work had been published in professional journals and academic textbooks
 and he has presented in several local and international conferences.</p>
 <h3>Subscribe to Mailing List</h3>
-<p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Cross Sector Mailing List</a> mailing
-List for latest updates!</p>
+<p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Cross Sector Mailing List</a> for
+latest updates!</p>

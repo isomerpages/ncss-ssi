@@ -10,6 +10,21 @@ than 100 hours from April 2024. These courses are carefully curated to
 provide resources on competency areas that social service professionals
 have requested for more support on.</p>
 <h3><strong>Complimentary Training Courses (NCSS funded)</strong></h3>
+<h4><strong>Caring for Elderly: Dementia, Empowering Seniors &amp; More</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0129" rel="noopener nofollow" target="_blank">Engaging Senior Learners – A Guide for Effective Interactions</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0130" rel="noopener nofollow" target="_blank">Dispositions and Training Styles for Engaging Senior Learners</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0131" rel="noopener nofollow" target="_blank">Effective Teaching Methods for Engaging Senior Learners</a>
+</p>
+</li>
+</ol>
 <h4><strong>Children &amp; Youth</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -40,6 +55,10 @@ have requested for more support on.</p>
 <h4><strong>Cross Sector</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0156" rel="noopener nofollow" target="_blank">Empowerment E-module</a>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0162" rel="noopener nofollow" target="_blank">Understanding Singapore’s Social Compact and Social Policies</a>
 </p>
 </li>
@@ -48,23 +67,19 @@ have requested for more support on.</p>
 </p>
 </li>
 </ol>
-<h4><strong>Caring for Elderly: Dementia, Empowering Seniors &amp; More</strong></h4>
+<h4><strong>Disability &amp; Special Needs</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0129" rel="noopener nofollow" target="_blank">Engaging Senior Learners – A Guide for Effective Interactions</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0130" rel="noopener nofollow" target="_blank">Dispositions and Training Styles for Engaging Senior Learners</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0131" rel="noopener nofollow" target="_blank">Effective Teaching Methods for Engaging Senior Learners</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0157" rel="noopener nofollow" target="_blank">Introduction to Reflective and Reflexive Practices</a>
 </p>
 </li>
 </ol>
 <h4><strong>Management and Organisation Development</strong></h4>
 <ol data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0140" rel="noopener nofollow" target="_blank">Data &amp; AI Literacy e-Primer</a>
+</p>
+</li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCOF430" rel="noopener noreferrer nofollow" target="_blank">Introduction to Internal Controls</a>
 </p>
@@ -78,6 +93,14 @@ have requested for more support on.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0002" rel="noopener noreferrer nofollow" target="_blank">Preparatory Caregiver Training Programme</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0167" rel="noopener nofollow" target="_blank">Volunteer Continuity Planning</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0125" rel="noopener nofollow" target="_blank">Volunteer Management 101</a>
 </p>
 </li>
 </ol>

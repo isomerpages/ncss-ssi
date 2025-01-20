@@ -13,37 +13,14 @@ variant: tiptap
 <h3>People Management and Leadership</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.dpi-asia.com/post/is-your-strategy-still-right" rel="noopener nofollow" target="_blank">Strategic Review - by DPI Asia</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0140" rel="noopener nofollow" target="_blank">Data &amp; AI Literacy e-Primer</a>
 </p>
-</li>
-<li>
-<p><a href="https://www.dpi-asia.com/post/strategy-formulation-pure-simple" rel="noopener noreferrer nofollow" target="_blank">Strategy Formulation by DPI Asia</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.erevnaleadership.com/register.html" rel="noopener nofollow" target="_blank">Principles of Persuasion - By Erevna Leadership</a>
-<br>Register by 16 January 2025</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener nofollow" target="_blank">Developing Effective Supervisory Skills</a>
-<br>Register by 29 January 2025</p>
 </li>
 <li>
 <p><a href="https://www.erevnaleadership.com/register.html" rel="noopener nofollow" target="_blank">Authentic Leadership Conversations - By Erevna Leadership</a>
-<br>Register by 13 February 2025</p>
-</li>
-</ul>
-<h3>Financial Management</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCOF430" rel="noopener noreferrer nofollow" target="_blank">Introduction to Internal Controls</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5652" rel="noopener nofollow" target="_blank">Charities Accounting Standard and its Application</a><em> - TGS-2020500750<br></em>Register
-by 30 December 2024
+<br>Register by 13 February 2025
 <br>
-<br>Subscribe to our <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">Mailing List</a> for
+<br>Subscribe to our <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">mailing list</a> for
 latest updates.</p>
 </li>
 </ul>
@@ -55,6 +32,10 @@ latest updates.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5450" rel="noopener nofollow" target="_blank">Budgeting for Charities</a>  <em>- TGS-2020500622</em>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFIN5652" rel="noopener nofollow" target="_blank">Charities Accounting Standard and its Application</a><em> - TGS-2020500750</em>
 </p>
 </li>
 <li>
@@ -71,6 +52,10 @@ latest updates.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=NFRE5508" rel="noopener noreferrer nofollow" target="_blank">Donor Outreach Through Social Media</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCOF430" rel="noopener noreferrer nofollow" target="_blank">Introduction to Internal Controls</a>
 </p>
 </li>
 <li>
@@ -98,7 +83,7 @@ latest updates.</p>
 <h3>Featured SSI's partner courses</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">The 7 Habits of Highly Effective People by Franklin Covey</a>
+<p><a href="https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&amp;wdLOR=c02FF4AA9-A7A4-4B9C-B187-D439BDFDFC3C" rel="noopener noreferrer nofollow" target="_blank">3-D People Development by Capelle Consulting</a>
 </p>
 </li>
 <li>
@@ -110,7 +95,19 @@ latest updates.</p>
 </p>
 </li>
 <li>
-<p><a href="https://forms.office.com/pages/responsepage.aspx?id=WAT0ZDjeME-aLwqsTTzqYRJFQsX6ZkNPj0vOPikWhYNUNUNSWTZNRURIQ0pVWEhLQk5YWkROTFE4Wi4u&amp;wdLOR=c02FF4AA9-A7A4-4B9C-B187-D439BDFDFC3C" rel="noopener noreferrer nofollow" target="_blank">3-D People Development by Capelle Consulting</a>
+<p><a href="https://www.erevnaleadership.com/register.html" rel="noopener nofollow" target="_blank">Principles of Persuasion - By Erevna Leadership</a>
+</p>
+</li>
+<li>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">The 7 Habits of Highly Effective People by Franklin Covey</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.dpi-asia.com/post/is-your-strategy-still-right" rel="noopener nofollow" target="_blank">Strategic Review - by DPI Asia</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.dpi-asia.com/post/strategy-formulation-pure-simple" rel="noopener noreferrer nofollow" target="_blank">Strategy Formulation by DPI Asia</a>
 </p>
 </li>
 </ul>

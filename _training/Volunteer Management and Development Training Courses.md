@@ -11,11 +11,16 @@ variant: tiptap
 <h3>Registration Open Throughout the Year</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0035" rel="noopener noreferrer nofollow" target="_blank">Befriending 101 (For Volunteers)</a> 
-<br>Register for e-learning course.</p>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0035" rel="noopener noreferrer nofollow" target="_blank">Befriending 101 (For Volunteers)</a>
+</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0125" rel="noopener noreferrer nofollow" target="_blank"><u>Volunteer Management 101</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0167" rel="noopener nofollow" target="_blank">Volunteer Continuity Planning</a> (New!).
+<br>
 <br>Register for e-learning course.</p>
 </li>
 </ul>
@@ -23,7 +28,15 @@ variant: tiptap
 <h3>Volunteer Management Training Courses</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0134" rel="noopener nofollow" target="_blank">Design &amp; Develop: Crafting Volunteers Roles for Maximum Impact</a>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0133" rel="noopener nofollow" target="_blank">Plan &amp; Strategise: Enhancing Volunteer Engagement</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SVLD313" rel="noopener nofollow" target="_blank">Volunteer Management Practices: Connect, Engage, Develop</a>
 </p>
 </li>
 </ul>
@@ -91,7 +104,8 @@ initiatives!</p>
 <p>Alternatively, if you have any Volunteer Management related questions,
 feel free to drop us an email at <a href="mailto:matthew_leung@ncss.gov.sg" rel="noopener noreferrer nofollow" target="_blank">matthew_leung@ncss.gov.sg</a>.
 <br>
-<br>Visit the <a href="https://www.ncss.gov.sg/volunteer/volunteer-resource-hub" rel="noopener nofollow" target="_blank">NCSS Volunteer Management &amp; Engagement Resource Hub</a>.</p>
+<br>Visit <a href="https://www.ncss.gov.sg/research-and-insights/capability-capacity/volunteer-management" rel="noopener nofollow" target="_blank">NCSS Volunteer Management</a> for
+more information.</p>
 <h3><strong>Subscribe to Mailing List</strong></h3>
 <p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Volunteer Management and Development Training Courses Mailing List</a> for
 latest updates!</p>

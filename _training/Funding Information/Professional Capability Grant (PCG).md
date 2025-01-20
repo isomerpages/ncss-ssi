@@ -18,7 +18,7 @@ variant: tiptap
 </ul>
 <p>In the event that you fail to meet the attendance/assessment requirements
 and terms and conditions for PCG funding eligibility, you will be liable
-for the full course fees. Read more on <a href="https://www.ncss.gov.sg/social-service-agencies/funding-schemes-and-common-services/funding/professional-capability-grant" rel="noopener noreferrer nofollow" target="_blank">Professional Capability Grant (PCG) Training Grant</a>.</p>
+for the full course fees. Read more on <a href="https://www.ncss.gov.sg/grants/people-development/professional-capability-grant" rel="noopener noreferrer nofollow" target="_blank">Professional Capability Grant (PCG) Training Grant</a>.</p>
 <h4>Who can Apply?</h4>
 <ul data-tight="true" class="tight">
 <li>

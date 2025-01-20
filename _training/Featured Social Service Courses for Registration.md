@@ -16,7 +16,7 @@ variant: tiptap
 <h3>Course Schedule &amp; Registration Date</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/training courses/Monthly_Featured_Courses.pdf" rel="noopener nofollow" target="_blank">Registration period: January 2025 to February 2025</a>
+<p><a href="/files/training courses/Monthly_Featured_Courses.pdf" rel="noopener nofollow" target="_blank">Registration period: January 2025 to March 2025</a>
 </p>
 </li>
 </ul>
@@ -41,8 +41,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Counselling, Motivational Interviewing &amp; Behaviour Therapy Courses" src="https://www.ssi.gov.sg/images/training/cross-sector-v2.png">
 </div>
-<h4>Professional Certificate in Casework</h4>
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS11" rel="noopener nofollow" target="_blank">Register by 10 February 2025</a></strong>
+<h4>Empowerment E-module</h4>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0156" rel="noopener nofollow" target="_blank">Register is open throughout the year</a></strong>
 </p>
 <p><a href="https://www.ssi.gov.sg/training/cross-sector/" rel="noopener nofollow" target="_blank">View other Cross Sector courses</a>
 </p>
@@ -66,7 +66,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Disability Care / Special Needs Courses" src="https://www.ssi.gov.sg/images/training/disability-v2.png">
 </div>
-<h4>Coming Soon!</h4>
+<h4>Introduction to Reflective and Reflexive Practices</h4>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0157" rel="noopener nofollow" target="_blank">Register is open throughout the year</a></strong>
+</p>
 <p><a href="https://www.ssi.gov.sg/training/disability/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Disability courses</u></a>
 </p>
 </td>
@@ -76,9 +78,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Mental Health Conditions &amp; Recovery Courses" src="https://www.ssi.gov.sg/images/training/mental-health-v2.png">
 </div>
-<h4>Management of Depression in Seniors</h4>
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SECH5442" rel="noopener nofollow" target="_blank">Register by 19 January 2025</a></strong>
-</p>
+<h4>Coming Soon!</h4>
+<p></p>
 <p><a href="https://www.ssi.gov.sg/training/mental-health" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Mental Health courses</u></a>
 </p>
 </td>
@@ -90,7 +91,8 @@ variant: tiptap
 </div>
 <h4>Engaging Senior Learners – A Guide for Effective Interactions</h4>
 <p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0129" rel="noopener nofollow" target="_blank">Register is open throughout the year</a></strong>
-<br><a href="https://www.ssi.gov.sg/training/eldercare/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Eldercare courses</u></a>
+</p>
+<p><a href="https://www.ssi.gov.sg/training/eldercare/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Eldercare courses</u></a>
 </p>
 </td>
 </tr>
@@ -109,8 +111,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Social Service / Nonprofit Leadership and Management Training Course" src="https://www.ssi.gov.sg/images/training/mod-v2.png">
 </div>
-<h4>Developing Effective Supervisory Skills</h4>
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener nofollow" target="_blank">Register by 29 January 2025</a></strong>
+<h4>Data &amp; AI Literacy e-Primer</h4>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0140" rel="noopener nofollow" target="_blank">Register is open throughout the year</a></strong>
 </p>
 <p><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Management and Organisation Development courses</u></a>
 </p>
@@ -121,8 +123,14 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Equip volunteers with knowledge, develop volunteer management capabilities" src="/images/training/volunteer-v2.png">
 </div>
+<h4>Volunteer Continuity Planning</h4>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0167" rel="noopener nofollow" target="_blank">Register is open throughout the year</a></strong>
+</p>
+<h4>Befriending 101 (For Volunteers)</h4>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0035" rel="noopener nofollow" target="_blank">Registration is open throughout the year</a></strong>
+</p>
 <h4>Volunteer Management 101</h4>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0125" rel="noopener nofollow" target="_blank">Register is open throughout the year</a>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0125" rel="noopener nofollow" target="_blank">Registration open throughout the year</a></strong>
 </p>
 <p><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" rel="noopener noreferrer nofollow" target="\_blank">View other Volunteering Management and Development courses</a>
 </p>
@@ -164,7 +172,8 @@ variant: tiptap
 <a href="https://www.ncss.gov.sg/grants/people-development/professional-capability-grant/" rel="noopener nofollow" target="_blank">Professional Capability Grant (PCG)</a>is available via Direct Training
 Application.
 <br>
-<br>Terms and conditions apply.</p>
+<br><em>Terms and conditions apply.</em>
+</p>
 </li>
 </ul>
 <p></p>

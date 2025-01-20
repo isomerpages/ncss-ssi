@@ -9,14 +9,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Mental Health Conditions  Recovery Courses" src="/images/mental-health-banner.png">
 </div>
 <h3><strong>Mental Health Training Courses offered by SSI</strong></h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SECH5442" rel="noopener nofollow" target="_blank">Management of Depression in Seniors</a> -
-TGS-2020500636
-<br>Register by 19 January 2025</p>
-</li>
-</ul>
-<p><a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe to our Mailing List for latest updates.</u></a>
+<h4>Coming Soon!</h4>
+<p><a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe to our mailing list for latest updates.</u></a>
 </p>
 <h3><strong>Other Featured Courses in Mental Health, Suicide Prevention and Psychiatric Rehabilitation</strong></h3>
 <ul data-tight="true" class="tight">
@@ -29,8 +23,8 @@ TGS-2020500636
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5442" rel="noopener noreferrer nofollow" target="_blank">Management of Depression in Seniors</a>
-</p>
+<p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SECH5442" rel="noopener noreferrer nofollow" target="_blank">Management of Depression in Seniors</a> -
+TGS-2020500636</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0029" rel="noopener noreferrer nofollow" target="_blank">Managing Suicide Crisis Over Phone </a><em>- TGS-2023019647</em>
@@ -120,6 +114,7 @@ supporting individuals and families in both the healthcare and social service
 setting. As the Divisional Director of Allkin Singapore, Terence oversees
 a range of community based social services catering to seniors, persons
 with mental health concerns, youths and ex-offenders.
+<br>
 <br>Terence obtained his Master and Ph.D in Social Work from the National
 University of Singapore. He also did an advanced training in Family Therapy
 at the University of Calgary, Canada. Terence had been lecturing in the
@@ -129,10 +124,12 @@ since 2008. He is also an approved clinical supervisor with University
 of Michigan, NUS, SUSS, Curtin and Swinburne University. His work had been
 published in professional journals &amp; academic textbooks and he presented
 in several local and international conferences.
+<br>
 <br>Terence is an appointed Social Service Fellow since 2018 and serves on
 several ministerial committees. Among which, Terence serves as the co-chair
 of AIC’s Institutional Review Board, Director of Global Institute of Social
 Workers and vice-chair of Children Cancer Foundation’s Program Committee.
+<br>
 <br>Terence conducts regular training at the Social Service Institute for
 social service practitioners in mental health and motivational interviewing
 related courses. Terence is an active advocate and champion for a more
