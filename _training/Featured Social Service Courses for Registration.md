@@ -68,7 +68,8 @@ variant: tiptap
 </div>
 <h4>Introduction to Reflective and Reflexive Practices</h4>
 <p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0157" rel="noopener nofollow" target="_blank">Register is open throughout the year</a></strong>
-<br><a href="https://www.ssi.gov.sg/training/disability/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Disability courses</u></a>
+</p>
+<p><a href="https://www.ssi.gov.sg/training/disability/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Disability courses</u></a>
 </p>
 </td>
 </tr>
@@ -90,7 +91,8 @@ variant: tiptap
 </div>
 <h4>Engaging Senior Learners – A Guide for Effective Interactions</h4>
 <p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0129" rel="noopener nofollow" target="_blank">Register is open throughout the year</a></strong>
-<br><a href="https://www.ssi.gov.sg/training/eldercare/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Eldercare courses</u></a>
+</p>
+<p><a href="https://www.ssi.gov.sg/training/eldercare/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Eldercare courses</u></a>
 </p>
 </td>
 </tr>
