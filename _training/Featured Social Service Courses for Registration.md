@@ -124,6 +124,12 @@ variant: tiptap
 <h4>Volunteer Continuity Planning</h4>
 <p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0167" rel="noopener nofollow" target="_blank">Register is open throughout the year</a></strong>
 </p>
+<h4>Befriending 101 (For Volunteers)</h4>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0035" rel="noopener nofollow" target="_blank">Registration is open throughout the year</a></strong>
+</p>
+<h4>Volunteer Management 101</h4>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0125" rel="noopener nofollow" target="_blank">Registration open throughout the year</a></strong>
+</p>
 <p><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" rel="noopener noreferrer nofollow" target="\_blank">View other Volunteering Management and Development courses</a>
 </p>
 </td>
