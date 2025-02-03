@@ -20,7 +20,7 @@ contacts:
       - email: ""
       - other: <small><em>To help us serve you better, from 3 June 2024, you will be
           prompted to key in your NRIC number. Your information will be kept
-          secured and confidential. </em></small>
+          secured and confidential.</em></small>
     title: Call
   - content:
       - phone: ""
@@ -30,12 +30,10 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: Be alert to suspicious messages or requests. Scammers may pretend to be
-          real organisations and contact people through text messages, messaging
-          apps, email or phone calls. For more details, please refer to the <a
-          target="_blank"
-          href="https://www.ncss.gov.sg/about-us/our-media-centre/announcements-and-advisories/scam-advisory">Scam
-          Advisory Notice.</a>
-    title: Be Vigilant Against Scams
+      - other: <small><em> Be alert to suspicious messages or requests. Scammers may
+          pretend to be real organisations and contact people through text
+          messages, messaging apps, email or phone calls. For more details,
+          please refer to the Scam Advisory Notice.</em></small>
+    title: —
 feedback: https://form.gov.sg/6212da81a71f3d0013751983
 ---
