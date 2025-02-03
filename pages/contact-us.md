@@ -27,5 +27,15 @@ contacts:
       - email: socialserviceinstitute@ncss.gov.sg
       - other: <br><b>Fax</b><br>+65 6589 5540
     title: Email
-feedback: https://www.ncss.gov.sg/feedback
+  - content:
+      - phone: ""
+      - email: ""
+      - other: <small><em> Be alert to suspicious messages or requests. Scammers may
+          pretend to be real organisations and contact people through text
+          messages, messaging apps, email or phone calls. For more details,
+          please refer to the <a target="_blank"
+          href="https://www.ncss.gov.sg/about-us/our-media-centre/announcements-and-advisories/scam-advisory">Scam
+          Advisory Notice.</a></em></small>
+    title: ""
+feedback: https://form.gov.sg/6212da81a71f3d0013751983
 ---
