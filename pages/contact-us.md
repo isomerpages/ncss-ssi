@@ -30,12 +30,12 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <br><small><em> Be alert to suspicious messages or requests. Scammers may
-          pretend to be real organisations and contact people through text
-          messages, messaging apps, email or phone calls. For more details,
-          please refer to the <a target="_blank"
+      - other: <br> Be alert to suspicious messages or requests. Scammers may pretend to
+          be real organisations and contact people through text messages,
+          messaging apps, email or phone calls. For more details, please refer
+          to the <a target="_blank"
           href="https://www.ncss.gov.sg/about-us/our-media-centre/announcements-and-advisories/scam-advisory">Scam
-          Advisory Notice.</a></em></small>
+          Advisory Notice.</a>
     title: Be Vigilant Against Scams
 feedback: https://form.gov.sg/6212da81a71f3d0013751983
 ---
