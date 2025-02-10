@@ -6,9 +6,9 @@ description: The Social Service Institute (SSI) is a CET centre that supports
 image: /images/isomer-logo.svg
 permalink: /
 notification: We’re making it easier for you to connect with us through our new
-  NCSS Consolidated Hotline at 6210 2500.<br><br>iLTMS is undergoing maintenance
-  from <strong>22:00 on 6 February 2025 to 07:00 on 7 February 2025</strong>.
-  You may experience downtime during this <a target="_blank"
+  NCSS Consolidated Hotline at 6210 2500.<br><br>  iLTMS is undergoing
+  maintenance from <strong>22:00 on 13 February 2025 to 07:00 on 14 February
+  2025</strong>. You may experience downtime during this <a target="_blank"
   href="https://www.ssi.gov.sg/maintenance-schedule">maintenance period</a>.
 sections:
   - hero:
@@ -35,17 +35,6 @@ sections:
             their roles effectively when working with clients, partners and
             stakeholders.
           url: /training/cet-programmes/advanced-certificate-in-social-service/
-  - infopic:
-      title: Join us at the Social Service Tribe Forum on 23 Jan 2025!
-      subtitle: Events
-      id: infopic
-      description: Engage with industry leaders and participate in targeted breakout
-        sessions. Register now to advance your professional development in
-        social service!
-      button: Register by 14 Jan 2025
-      url: https://reg.eventnook.com/event/socialservicetribeforum/
-      alt: Social Service Tribe Forum
-      image: /images/homepage/Social_Service_Tribe_Forum_2025.png
   - infopic:
       title: Start planning for your training needs today!
       subtitle: Training Directory for 2024/25
