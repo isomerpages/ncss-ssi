@@ -17,7 +17,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0132" rel="noopener nofollow" target="_blank">Sustainable Fundraising Strategies for NPOs Playbook </a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0132" rel="noopener nofollow" target="_blank">Sustainable Fundraising Strategies for NPOs Playbook</a>
 </p>
 </li>
 <li>
