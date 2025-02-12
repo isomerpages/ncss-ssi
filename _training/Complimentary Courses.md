@@ -71,11 +71,15 @@ have requested for more support on.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0162" rel="noopener nofollow" target="_blank">Understanding Singapore’s Social Compact and Social Policies</a>
+<p>Understanding the Social Service Sector - <strong><em>Coming soon!</em></strong>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0147" rel="noopener nofollow" target="_blank">Using Sector Evaluation Framework (SEF) in Articulating Programme Outcomes</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5228" rel="noopener nofollow" target="_blank">Case Management in Practice: Introduction</a> -
+TGS-2020500648</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS30" rel="noopener nofollow" target="_blank">Engage Stakeholders Effectively</a>
 </p>
 </li>
 </ol>
@@ -101,19 +105,6 @@ have requested for more support on.</p>
 </p>
 </li>
 </ol>
-<h4><strong>Mental Health</strong></h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>Mental Health Awareness 1: Understanding the Signs and Symptoms of Mental
-Health Issues - <strong><em>Coming soon!</em></strong>
-</p>
-</li>
-<li>
-<p>Mental Health Awareness 2: Supporting People with Mental Health Issues
-- <strong><em>Coming soon!</em></strong>
-</p>
-</li>
-</ol>
 <h4><strong>Volunteer Management and Development</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -134,6 +125,31 @@ Health Issues - <strong><em>Coming soon!</em></strong>
 </li>
 <li>
 <p>Volunteer Role Redesign - <strong><em>Coming soon!</em></strong>
+</p>
+</li>
+</ol>
+<h3><strong>Complimentary Training Course Collaboration with Agency for Integrated Care (AIC)</strong></h3>
+<h4><strong>Caring for Elderly: Dementia, Empowering Seniors &amp; More</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Understanding Dementia - <strong><em>Coming soon!</em></strong>
+</p>
+</li>
+<li>
+<p>Dementia Friendly Environmental Design (Intermediate) - <strong><em>Coming soon!</em></strong>
+</p>
+</li>
+</ol>
+<h4><strong>Mental Health</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Mental Health Awareness 1: Understanding the Signs and Symptoms of Mental
+Health Issues - <strong><em>Coming soon!</em></strong>
+</p>
+</li>
+<li>
+<p>Mental Health Awareness 2: Supporting People with Mental Health Issues
+- <strong><em>Coming soon!</em></strong>
 </p>
 </li>
 </ol>
