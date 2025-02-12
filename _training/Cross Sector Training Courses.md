@@ -23,19 +23,16 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCET6-M" rel="noopener noreferrer nofollow" target="_blank">Understanding the Social Service Sector</a> 
-</p>
-<p>Register by 24 April 2025</p>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCET6-M" rel="noopener noreferrer nofollow" target="_blank">Understanding the Social Service Sector</a>
+<br>Register by 24 April 2025</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5228" rel="noopener nofollow" target="_blank">Case Management in Practice: Introduction</a> - <em>TGS-2020500648</em>
-</p>
-<p>Register by 8 May 2025</p>
+<br>Register by 8 May 2025</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS30" rel="noopener noreferrer nofollow" target="_blank">Engage Stakeholders Effectively</a>
-</p>
-<p>Register by 5 June 2025</p>
+<br>Register by 5 June 2025</p>
 </li>
 </ul>
 <h3><strong>Other Featured Short Courses in Befriending, Case Management, Counselling and more</strong></h3>
