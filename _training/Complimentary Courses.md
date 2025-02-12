@@ -55,7 +55,7 @@ have requested for more support on.</p>
 <h4><strong>Cross Sector</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0156" rel="noopener nofollow" target="_blank">Empowerment E-module</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0170" rel="noopener nofollow" target="_blank">Empowerment E-module</a>
 </p>
 </li>
 <li>
