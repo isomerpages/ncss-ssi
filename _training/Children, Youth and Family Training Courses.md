@@ -24,15 +24,16 @@ variant: tiptap
 <br>Register by 14 April 2025</p>
 </li>
 <li>
-<p>Coaching for Young People - Coming Soon!</p>
+<p>Coaching for Young People<strong><em> - Coming Soon!</em></strong>
+</p>
 </li>
 <li>
-<p>Structured Decision Making – Vulnerable Adult Reporting Guide - Coming
-Soon!</p>
+<p>Structured Decision Making – Vulnerable Adult Reporting Guide<strong><em> - Coming Soon!</em></strong>
+</p>
 </li>
 <li>
-<p>Structured Decision Making – Vulnerable Adult Screening Guide - Coming
-Soon!</p>
+<p>Structured Decision Making – Vulnerable Adult Screening Guide<strong><em> - Coming Soon!</em></strong>
+</p>
 </li>
 </ul>
 <h3>Complimentary e-Learning Courses</h3>
@@ -133,11 +134,12 @@ Soon!</p>
 </p>
 </li>
 <li>
-<p>Youth Work: Identify and Apply Effective Intervention Programme - Coming
-Soon!</p>
+<p>Youth Work: Identify and Apply Effective Intervention Programme<strong><em> - Coming Soon!</em></strong>
+</p>
 </li>
 <li>
-<p>Youth Work: Introduction to an Evidence-Based Approach - Coming Soon!</p>
+<p>Youth Work: Introduction to an Evidence-Based Approach<strong><em> - Coming Soon!</em></strong>
+</p>
 <p></p>
 </li>
 </ul>
