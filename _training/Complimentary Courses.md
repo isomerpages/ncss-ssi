@@ -153,9 +153,12 @@ Health Issues - <strong><em>Coming soon!</em></strong>
 <li>
 <p>Mental Health Awareness 2: Supporting People with Mental Health Issues
 - <strong><em>Coming soon!</em></strong>
+<br>
+<br>
 </p>
 </li>
 </ol>
+<hr>
 <h4><strong>Subscribe to Mailing List</strong></h4>
 <p>Subscribe to&nbsp;<a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank"><u>SSI’s Mailing List</u></a>&nbsp;for
 latest updates!</p>
