@@ -125,9 +125,12 @@ TGS-2020500648</p>
 </li>
 <li>
 <p>Volunteer Role Redesign - <strong><em>Coming soon!</em></strong>
+<br>
 </p>
+<p></p>
 </li>
 </ol>
+<hr>
 <h3><strong>Complimentary Training Course Collaboration with Agency for Integrated Care (AIC)</strong></h3>
 <h4><strong>Caring for Elderly: Dementia, Empowering Seniors &amp; More</strong></h4>
 <ol data-tight="true" class="tight">
