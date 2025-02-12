@@ -20,10 +20,19 @@ variant: tiptap
 <br>Register by 3 April 2025</p>
 </li>
 <li>
-<p>Structured Decision Making – Vulnerable Adult Reporting Guide</p>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0126" rel="noopener nofollow" target="_blank">Counselling Guidelines Training: Working with Youth with Sexual Orientation and Gender Issues</a>
+<br>Register by 14 April 2025</p>
 </li>
 <li>
-<p>Structured Decision Making – Vulnerable Adult Screening Guide</p>
+<p>Coaching for Young People - Coming Soon!</p>
+</li>
+<li>
+<p>Structured Decision Making – Vulnerable Adult Reporting Guide - Coming
+Soon!</p>
+</li>
+<li>
+<p>Structured Decision Making – Vulnerable Adult Screening Guide - Coming
+Soon!</p>
 </li>
 </ul>
 <h3>Complimentary e-Learning Courses</h3>
@@ -49,8 +58,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0150" rel="noopener nofollow" target="_blank">Podcast - Inhale Insight: Understanding Youth Vaping</a> -
-Coming Soon!</p>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0150" rel="noopener nofollow" target="_blank">Podcast - Inhale Insight: Understanding Youth Vaping</a>
+</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF434" rel="noopener noreferrer nofollow" target="_blank">Child Abuse Reporting Guide</a>
