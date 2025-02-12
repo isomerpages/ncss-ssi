@@ -12,6 +12,18 @@ variant: tiptap
 <h4>Coming Soon!</h4>
 <p><a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe to our mailing list for latest updates.</u></a>
 </p>
+<h3><strong>Complimentary Featured Courses under the Agency for Integrated Care (AIC)</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mental Health Awareness 1: Understanding the Signs and Symptoms of Mental
+Health Issues&nbsp;- <strong><em>Coming soon!</em></strong>
+</p>
+</li>
+<li>
+<p>Mental Health Awareness 2: Supporting People with Mental Health Issues&nbsp;- <strong><em>Coming soon!</em></strong>
+</p>
+</li>
+</ul>
 <h3><strong>Other Featured Courses in Mental Health, Suicide Prevention and Psychiatric Rehabilitation</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -49,17 +61,6 @@ TGS-2020500636</p>
 </ul>
 <p>View the <a href="https://iltms.ssi.gov.sg/registration/#/Course" rel="noopener noreferrer nofollow" target="_blank">full list of Mental Health courses</a> offered
 by SSI.</p>
-<h3><strong>Complimentary Featured Courses under the Agency for Integrated Care (AIC)</strong></h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://for.sg/mha-1-2023" rel="noopener noreferrer nofollow" target="_blank">Mental Health Awareness 1: Understanding the Signs and Symptoms of Mental Health Issues</a>
-</p>
-</li>
-<li>
-<p><a href="https://for.sg/mha-2-2023" rel="noopener noreferrer nofollow" target="_blank">Mental Health Awareness 2: Supporting Persons with Mental Health Issues</a>
-</p>
-</li>
-</ul>
 <h3><strong>Featured Adult Educators under Mental Health Training Courses</strong></h3>
 <p><strong>Dr John K E Tan</strong> 
 <br>John holds a doctorate in ministry that he earned from Fuller Theological
