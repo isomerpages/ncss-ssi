@@ -31,7 +31,7 @@ for persons with disabilities.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS87" rel="noopener nofollow" target="_blank">Working with Persons with Autism</a><em> -TGS-2022014126</em>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS87" rel="noopener nofollow" target="_blank">Working with Persons with Autism</a><em> - TGS-2022014126</em>
 </p>
 </li>
 <li>
@@ -50,7 +50,7 @@ with Behavioural Problems and Mental Health Issues - <strong><em>Coming soon!</e
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS463" rel="noopener noreferrer nofollow" target="_blank">WSQ Principles and Practices of Early Intervention for Children with Special Needs - Module 1</a><em> – TGS-2021002281</em>&nbsp;
-<br><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS83" rel="noopener noreferrer nofollow" target="_blank">WSQ Principles and Practices of Early Intervention for Children with Special Needs - Module 2</a>  <em>–TGS-2022014671&nbsp;</em>
+<br><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS83" rel="noopener noreferrer nofollow" target="_blank">WSQ Principles and Practices of Early Intervention for Children with Special Needs - Module 2</a>  <em>– TGS-2022014671&nbsp;</em>
 </p>
 </li>
 <li>
@@ -58,7 +58,7 @@ with Behavioural Problems and Mental Health Issues - <strong><em>Coming soon!</e
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS84" rel="noopener noreferrer nofollow" target="_blank">Guide the implementation of improved approaches in Early Intervention Teaching </a><em>–<u> </u>TGS-2022013917</em>
+<p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS84" rel="noopener noreferrer nofollow" target="_blank">Guide the implementation of improved approaches in Early Intervention Teaching </a><em>– TGS-2022013917</em>
 </p>
 </li>
 <li>
