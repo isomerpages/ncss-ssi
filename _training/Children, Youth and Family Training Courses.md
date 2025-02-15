@@ -28,11 +28,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Structured Decision Making – Vulnerable Adult Reporting Guide<strong><em> - Coming Soon!</em></strong>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0159" rel="noopener nofollow" target="_blank">Structured Decision Making – Vulnerable Adult Reporting Guide</a>
 </p>
 </li>
 <li>
-<p>Structured Decision Making – Vulnerable Adult Screening Guide<strong><em> - Coming Soon!</em></strong>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0158" rel="noopener nofollow" target="_blank">Structured Decision Making – Vulnerable Adult Screening Guide</a>
 </p>
 </li>
 </ul>
