@@ -47,22 +47,15 @@ youth, adults and seniors.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5228" rel="noopener nofollow" target="_blank">Case Management in Practice: Introduction</a> - <em>TGS-2020500648</em>
-<br>The course provides participants with a broad understanding of the fundamentals
-of how case management serves as a means for achieving client wellness
-and autonomy through advocacy, dialogue, identification of service resources
-and direction.</p>
+</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5141" rel="noopener noreferrer nofollow" target="_blank">Cognitive Behaviour Therapy: Introduction</a> 
-<br>The course provides foundational skills in counselling and therapy. It
-exposes learners to ethical considerations and self-care practices needed
-in the counselling profession.</p>
+</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5229" rel="noopener noreferrer nofollow" target="_blank">Counselling Skills and Practice: Introduction</a> - <em>TGS-2020500644</em>
-<br>The course provides foundational skills in counselling and therapy. It
-exposes learners to ethical considerations and self-care practices needed
-in the counselling profession.</p>
+</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5446" rel="noopener noreferrer nofollow" target="_blank">Counselling Skills and Practice: Intermediate</a>
@@ -78,9 +71,7 @@ in the counselling profession.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5725" rel="noopener noreferrer nofollow" target="_blank">Motivational Interviewing: An Introduction for Social Service Practitioners</a>  <em>- TGS-2020500646</em>
-<br>The course equips learners with the skills to engage and facilitate intrinsic
-motivation in their clients, in order to change behaviour and progress
-towards an improved well-being.</p>
+</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5447" rel="noopener nofollow" target="_blank">Solution Focused Brief Therapy: Intermediate</a>
@@ -95,13 +86,7 @@ towards an improved well-being.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCET6-M" rel="noopener noreferrer nofollow" target="_blank">Understanding the Social Service Sector</a> 
-<br>The course provides an appreciation and understanding of Singapore's social
-needs, key stakeholders in the sector and social service initiatives and
-schemes. It is an e-Learning course that provides an overview of the development
-of Singapore’s social services over the years and introduces the principles
-behind its provision. It covers six areas of social service provision which
-include trends and challenges in the future.</p>
+<p>Understanding the Social Service Sector</p>
 </li>
 </ul>
 <h3><strong>Cross Sector Certificate/ Diploma/ Degree Programmes</strong></h3>
