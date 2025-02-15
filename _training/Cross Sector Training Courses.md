@@ -23,7 +23,7 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCET6-M" rel="noopener noreferrer nofollow" target="_blank">Understanding the Social Service Sector</a>
+<p>Understanding the Social Service Sector
 <br>Register by 24 April 2025</p>
 </li>
 <li>
