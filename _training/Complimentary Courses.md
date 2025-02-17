@@ -25,10 +25,14 @@ have requested for more support on.</p>
 </p>
 </li>
 </ol>
-<h4><strong>Children &amp; Youth</strong></h4>
+<h4><strong>Children, Youth and Family</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF434" rel="noopener noreferrer nofollow" target="_blank">Child Abuse Reporting Guide (CARG)</a>
+</p>
+</li>
+<li>
+<p>Coaching for Young People - <strong><em>Coming soon!</em></strong>
 </p>
 </li>
 <li>
@@ -51,6 +55,14 @@ have requested for more support on.</p>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF436" rel="noopener noreferrer nofollow" target="_blank">Sector-Specific Screening Guide (SSSG)</a>
 </p>
 </li>
+<li>
+<p>Structured Decision Making – Vulnerable Adult Reporting Guide - <strong><em>Coming soon!</em></strong>
+</p>
+</li>
+<li>
+<p>Structured Decision Making – Vulnerable Adult Screening Guide - <strong><em>Coming soon!</em></strong>
+</p>
+</li>
 </ol>
 <h4><strong>Cross Sector</strong></h4>
 <ol data-tight="true" class="tight">
@@ -59,11 +71,15 @@ have requested for more support on.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0162" rel="noopener nofollow" target="_blank">Understanding Singapore’s Social Compact and Social Policies</a>
+<p>Understanding the Social Service Sector - <strong><em>Coming soon!</em></strong>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0147" rel="noopener nofollow" target="_blank">Using Sector Evaluation Framework (SEF) in Articulating Programme Outcomes</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5228" rel="noopener nofollow" target="_blank">Case Management in Practice: Introduction</a> -
+TGS-2020500648</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS30" rel="noopener nofollow" target="_blank">Engage Stakeholders Effectively</a>
 </p>
 </li>
 </ol>
@@ -107,7 +123,42 @@ have requested for more support on.</p>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0125" rel="noopener nofollow" target="_blank">Volunteer Management 101</a>
 </p>
 </li>
+<li>
+<p>Volunteer Role Redesign - <strong><em>Coming soon!</em></strong>
+<br>
+</p>
+<p></p>
+</li>
 </ol>
+<hr>
+<h3><strong>Complimentary Training Course Collaboration with Agency for Integrated Care (AIC)</strong></h3>
+<h4><strong>Caring for Elderly: Dementia, Empowering Seniors &amp; More</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Understanding Dementia - <strong><em>Coming soon!</em></strong>
+</p>
+</li>
+<li>
+<p>Dementia Friendly Environmental Design (Intermediate) - <strong><em>Coming soon!</em></strong>
+</p>
+</li>
+</ol>
+<h4><strong>Mental Health</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Mental Health Awareness 1: Understanding the Signs and Symptoms of Mental
+Health Issues - <strong><em>Coming soon!</em></strong>
+</p>
+</li>
+<li>
+<p>Mental Health Awareness 2: Supporting People with Mental Health Issues
+- <strong><em>Coming soon!</em></strong>
+<br>
+<br>
+</p>
+</li>
+</ol>
+<hr>
 <h4><strong>Subscribe to Mailing List</strong></h4>
 <p>Subscribe to&nbsp;<a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank"><u>SSI’s Mailing List</u></a>&nbsp;for
 latest updates!</p>

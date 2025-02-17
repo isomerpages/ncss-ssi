@@ -25,6 +25,17 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<h3><strong>Complimentary Featured Course Under the Agency for Integrated Care (AIC)</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Understanding Dementia&nbsp;- <strong><em>Coming soon!</em></strong>
+</p>
+</li>
+<li>
+<p>Dementia Friendly Environmental Design (Intermediate)&nbsp;- <strong><em>Coming soon!</em></strong>
+</p>
+</li>
+</ul>
 <h3><strong>Other featured courses in Eldercare, Communication and Counselling</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -61,13 +72,6 @@ variant: tiptap
 </li>
 </ul>
 <p>View the <a href="https://iltms.ssi.gov.sg/registration/#/Course" rel="noopener noreferrer nofollow" target="_blank">full list of SSI's Eldercare courses</a>.</p>
-<h3><strong>Complimentary Featured Course Under the Agency for Integrated Care (AIC)</strong></h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://for.sg/understand-dementia-2023" rel="noopener noreferrer nofollow" target="_blank">Understanding Dementia</a>
-</p>
-</li>
-</ul>
 <h3><strong>Featured Adult Educators under Eldercare Training Courses</strong></h3>
 <p><strong>Ms Lim Hwee Er</strong> 
 <br>Hwee Er holds a Master of Health Service Management from the University

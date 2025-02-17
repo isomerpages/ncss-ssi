@@ -19,33 +19,20 @@ youth, adults and seniors.</p>
 <h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0156" rel="noopener nofollow" target="_blank">Empowerment E-module</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0170" rel="noopener nofollow" target="_blank">Empowerment E-module</a>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0147" rel="noopener nofollow" target="_blank">Using Sector Evaluation Framework (SEF) in Articulating Programme Outcomes</a>
-</p>
+<p>Understanding the Social Service Sector
+<br>Register by 24 April 2025</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS209" rel="noopener nofollow" target="_blank">Develop an Individualised Care Plan</a>
-<br>Register by 3 February 2025</p>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5228" rel="noopener nofollow" target="_blank">Case Management in Practice: Introduction</a> - <em>TGS-2020500648</em>
+<br>Register by 8 May 2025</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5944" rel="noopener nofollow" target="_blank">Financial Planning for Low Income Clients</a>
-<br>Register by 4 February 2025</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5141" rel="noopener nofollow" target="_blank">Cognitive Behaviour Therapy: Introduction</a>
-<br>Register by 6 February 2025</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS11" rel="noopener nofollow" target="_blank">Professional Certificate in Casework (NSWCF Foundational)</a>
-<br>Register by 10 February 2025</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5229" rel="noopener nofollow" target="_blank">Counselling Skills and Practice: Introduction</a>  <em>- TGS-2020500644</em> 
-<br>Register by 11 February 2025</p>
-<p></p>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS30" rel="noopener noreferrer nofollow" target="_blank">Engage Stakeholders Effectively</a>
+<br>Register by 5 June 2025</p>
 </li>
 </ul>
 <h3><strong>Other Featured Short Courses in Befriending, Case Management, Counselling and more</strong></h3>
@@ -60,29 +47,18 @@ youth, adults and seniors.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5228" rel="noopener nofollow" target="_blank">Case Management in Practice: Introduction</a> - <em>TGS-2020500648</em>
-<br>The course provides participants with a broad understanding of the fundamentals
-of how case management serves as a means for achieving client wellness
-and autonomy through advocacy, dialogue, identification of service resources
-and direction.</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5141" rel="noopener noreferrer nofollow" target="_blank">Cognitive Behaviour Therapy: Introduction</a> 
-<br>The course provides foundational skills in counselling and therapy. It
-exposes learners to ethical considerations and self-care practices needed
-in the counselling profession.</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5229" rel="noopener noreferrer nofollow" target="_blank">Counselling Skills and Practice: Introduction</a> - <em>TGS-2020500644</em>
-<br>The course provides foundational skills in counselling and therapy. It
-exposes learners to ethical considerations and self-care practices needed
-in the counselling profession.</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5446" rel="noopener noreferrer nofollow" target="_blank">Counselling Skills and Practice: Intermediate</a>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS30" rel="noopener noreferrer nofollow" target="_blank">Engage Stakeholders Effectively</a>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5141" rel="noopener noreferrer nofollow" target="_blank">Cognitive Behaviour Therapy: Introduction</a> 
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5229" rel="noopener noreferrer nofollow" target="_blank">Counselling Skills and Practice: Introduction</a> - <em>TGS-2020500644</em>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5446" rel="noopener noreferrer nofollow" target="_blank">Counselling Skills and Practice: Intermediate</a>
 </p>
 </li>
 <li>
@@ -95,9 +71,7 @@ in the counselling profession.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5725" rel="noopener noreferrer nofollow" target="_blank">Motivational Interviewing: An Introduction for Social Service Practitioners</a>  <em>- TGS-2020500646</em>
-<br>The course equips learners with the skills to engage and facilitate intrinsic
-motivation in their clients, in order to change behaviour and progress
-towards an improved well-being.</p>
+</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5447" rel="noopener nofollow" target="_blank">Solution Focused Brief Therapy: Intermediate</a>
@@ -112,13 +86,7 @@ towards an improved well-being.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCET6-M" rel="noopener noreferrer nofollow" target="_blank">Understanding the Social Service Sector</a> 
-<br>The course provides an appreciation and understanding of Singapore's social
-needs, key stakeholders in the sector and social service initiatives and
-schemes. It is an e-Learning course that provides an overview of the development
-of Singapore’s social services over the years and introduces the principles
-behind its provision. It covers six areas of social service provision which
-include trends and challenges in the future.</p>
+<p>Understanding the Social Service Sector</p>
 </li>
 </ul>
 <h3><strong>Cross Sector Certificate/ Diploma/ Degree Programmes</strong></h3>

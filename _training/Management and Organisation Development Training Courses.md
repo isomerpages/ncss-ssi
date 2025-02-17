@@ -17,8 +17,20 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.erevnaleadership.com/register.html" rel="noopener nofollow" target="_blank">Authentic Leadership Conversations - By Erevna Leadership</a>
-<br>Register by 13 February 2025
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0132" rel="noopener nofollow" target="_blank">Sustainable Fundraising Strategies for NPOs Playbook</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.dpi-asia.com/post/strategy-alignment-and-execution" rel="noopener nofollow" target="_blank">Strategy Alignment and Execution - Decision Processes International Asia </a>
+<br>Register by 10 March 2025</p>
+</li>
+<li>
+<p>Strategy Formulation - Decision Processes International Asia - <strong><em>Coming soon!</em></strong>
+<br>Register by 19 March 2025</p>
+</li>
+<li>
+<p>Strategy Review - Decision Processes International Asia&nbsp;- <strong><em>Coming soon!</em></strong>
+<br>Register by 16 April 2025
 <br>
 <br>Subscribe to our <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">mailing list</a> for
 latest updates.</p>
@@ -103,12 +115,10 @@ latest updates.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.dpi-asia.com/post/is-your-strategy-still-right" rel="noopener nofollow" target="_blank">Strategic Review - by DPI Asia</a>
-</p>
+<p>Strategy Review by Decision Processes International Asia</p>
 </li>
 <li>
-<p><a href="https://www.dpi-asia.com/post/strategy-formulation-pure-simple" rel="noopener noreferrer nofollow" target="_blank">Strategy Formulation by DPI Asia</a>
-</p>
+<p>Strategy Formulation by Decision Processes International Asia</p>
 </li>
 </ul>
 <p>Search for more Management and Organisation Development courses on our
