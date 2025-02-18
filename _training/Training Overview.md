@@ -35,6 +35,10 @@ well balanced set of skills for their job role.</p>
 <ul>
 <li>
 <p><a href="https://www.ssi.gov.sg/training/cet-programmes" rel="noopener noreferrer nofollow" target="_blank">Continuing Education &amp; Training (CET)</a>
+</p>
+</li>
+<li>
+<p><a href="/training/cet-programmes" rel="noopener nofollow" target="_blank">Continuing Education &amp; Training (CET)</a>
 <br>Gain professional certification and diploma accreditation in social service.</p>
 </li>
 <li>
