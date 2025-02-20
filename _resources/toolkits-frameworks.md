@@ -51,8 +51,8 @@ skills upgrading.</p>
 <li>
 <p><strong>Training providers</strong> can gain insights on sector trends,
 existing and emerging skills that are in demand and design programmes to
-address the industry needs accordingly.</p>
-<p>
+address the industry needs accordingly.
+<br>
 <br>Read more about the <a href="https://www.skillsfuture.gov.sg/skills-framework/social-service" rel="noopener nofollow" target="_blank">Skills Framework (SFw) for Social Service</a>.</p>
 </li>
 </ul>
