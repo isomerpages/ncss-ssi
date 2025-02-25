@@ -12,7 +12,7 @@ locations:
       - days: Mon - Fri
         time: 9:00am - 6.00pm
         description: Closed on Weekends and Public Holidays
-    maps_link: https://goo.gl/maps/CjZbdfdefPKTszgN8
+    maps_link: https://www.onemap.gov.sg/?lat=1.3122144&lng=103.7897232
     title: Social Service Institute
 contacts:
   - content:
