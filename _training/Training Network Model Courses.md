@@ -31,9 +31,7 @@ on specific criteria to offer training to the sector.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Basics of Literacy Support for Children with SEN </strong>
-</p>
-<p>
+<p><strong>Basics of Literacy Support for Children with SEN</strong>
 <br><em>(Classroom, Synchronous &amp; Asynchronous E-learning)</em>
 </p>
 <p></p>
@@ -52,8 +50,6 @@ and instruction.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Executive Function Skills for Children with SEN</strong>
-</p>
-<p>
 <br><em>(Classroom, Synchronous &amp; Asynchronous E-learning) TGS-2023019843</em>
 </p>
 <p></p>
@@ -72,7 +68,6 @@ Learning Needs.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Planning Literacy Lessons for Children with Special Educational Needs (SEN) </strong>
-<br>
 <br><em>(Classroom, Synchronous and Asynchronous E-learning)</em>
 </p>
 </td>
@@ -106,7 +101,6 @@ SEN children in individualized support work or in the classroom.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Understanding &amp; supporting Children with Learning &amp; behavioural needs </strong>
-<br>
 <br><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
@@ -126,8 +120,7 @@ needs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Working Systemically with School Systems</strong> 
-<br>
+<p><strong>Working Systemically with School Systems</strong>
 <br><em>(Classroom and Asynchronous E-learning)<br></em>
 <br>
 </p>
