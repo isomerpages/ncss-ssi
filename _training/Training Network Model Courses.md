@@ -11,14 +11,17 @@ variant: tiptap
 to become Centres of Excellence. These SSA partners were selected based
 on specific criteria to offer training to the sector.</p>
 <h4><strong>Children &amp; Youth Courses</strong></h4>
-<p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 <th rowspan="1" colspan="1">
 <p>Course</p>
 </th>
@@ -29,9 +32,14 @@ on specific criteria to offer training to the sector.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Basics of Literacy Support for Children with SEN </strong>
+</p>
+<p>
 <br><em>(Classroom, Synchronous &amp; Asynchronous E-learning)</em>
 </p>
 <p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>This is a course to equip learners the knowledge, rationale, and strategies/skills
 to support children with dyslexia in literacy through conceptual teaching
 and instruction.</p>
@@ -43,10 +51,15 @@ and instruction.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Executive Function Skills for Children with SEN </strong>
+<p><strong>Executive Function Skills for Children with SEN</strong>
+</p>
+<p>
 <br><em>(Classroom, Synchronous &amp; Asynchronous E-learning) TGS-2023019843</em>
 </p>
 <p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>The course introduces executive functions, a concept more familiar in
 the field of psychology, to practitioners who work with children with Special
 Learning Needs.</p>
@@ -59,8 +72,11 @@ Learning Needs.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Planning Literacy Lessons for Children with Special Educational Needs (SEN) </strong>
-<br><em>(Classroom, Synchronous and Asynchronous E-learning)<br></em>
+<br>
+<br><em>(Classroom, Synchronous and Asynchronous E-learning)</em>
 </p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Introduces the fundamentals of planning and delivering literacy lessons
 for children with SEN for educators and parents. Identifying and addressing
 these literacy challenges through a 1-1 intervention then becomes imperative
@@ -73,8 +89,13 @@ to allow these children to better access the curriculum content.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Educational Psychology for Special Education </strong><em>(Classroom, Synchronous and Asynchronous E-learning)<br></em>
-<br>Learn about Educational Psychology and how it can be applied in teaching
+<p><strong>Educational Psychology for Special Education </strong>
+<br>
+<br><em>(Classroom, Synchronous and Asynchronous E-learning)</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learn about Educational Psychology and how it can be applied in teaching
 SEN children in individualized support work or in the classroom.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,9 +106,12 @@ SEN children in individualized support work or in the classroom.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Understanding &amp; supporting Children with Learning &amp; behavioural needs </strong>
-<br><em>(Classroom and Asynchronous E-learning)</em>
 <br>
-<br>This two-half day course equips those in care services, such as student
+<br><em>(Classroom and Asynchronous E-learning)</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This two-half day course equips those in care services, such as student
 care officers, with basic knowledge in identifying types of learning and
 behavioural needs and knowledge on relevant support strategies and activities.
 The course will also introduce the ecological framework that can be practically
@@ -103,8 +127,13 @@ needs.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Working Systemically with School Systems</strong> 
+<br>
 <br><em>(Classroom and Asynchronous E-learning)<br></em>
-<br>This 1.5-day course aims to equip social service professionals, who practice
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This 1.5-day course aims to equip social service professionals, who practice
 in or with the school systems, with knowledge and skills to enable students
 to gain the most benefits from their schooling experiences.</p>
 </td>
@@ -115,8 +144,11 @@ to gain the most benefits from their schooling experiences.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Building Rapport with and Creating Supportive Environment for Children </strong><em>(Classroom and Asynchronous E-learning)<br></em>
-<br>The two half-day course aims to enhance the professional capability of
+<p><strong>Building Rapport with and Creating Supportive Environment for Children </strong><em>(Classroom and Asynchronous E-learning)</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The two half-day course aims to enhance the professional capability of
 the Student Care Officers who work in the student care centres (SCCs).</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -126,8 +158,11 @@ the Student Care Officers who work in the student care centres (SCCs).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Supporting Students with Special Education Needs Through Collaborative Approach using Sensory Play <br></strong><em>(Classroom and Asynchronous E-learning)<br></em>
-<br>This two-day course is for Teachers/ Teacher-Aides / Beginning Allied
+<p><strong>Supporting Students with Special Education Needs Through Collaborative Approach using Sensory Play <br></strong><em>(Classroom and Asynchronous E-learning)</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This two-day course is for Teachers/ Teacher-Aides / Beginning Allied
 Professionals in SPED Schools and Special Education Needs Officers from
 General Education Schools to learn a holistic approach to supporting students
 with special needs through the use of sensory play and activities for better
@@ -140,8 +175,11 @@ self-regulation and participation in class.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Developing Readiness and Positive Toileting Behaviour of Children with Special Needs<br></strong>
-<br>Participants will learn to identify the child's current toileting needs
+<p><strong>Developing Readiness and Positive Toileting Behaviour of Children with Special Needs</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participants will learn to identify the child's current toileting needs
 through data gathering and analysis. This is followed by the identification
 of the optimal timing to begin toilet training, and the strategies to support
 their toilet training.</p>
@@ -155,8 +193,10 @@ their toilet training.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Individualised Education Planning for children with SEN </strong>
 <br><em>(Classroom, Synchronous &amp; Asynchronous E-learning)</em>
-<br>
-<br>This course aims to equip the participants with the knowledge and skills
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This course aims to equip the participants with the knowledge and skills
 to plan, implement and evaluate an intervention for a child with SEN. Without
 an individualised lesson plan, the child with SEN will never be able to
 bridge the persistent educational gaps.</p>
@@ -171,8 +211,13 @@ bridge the persistent educational gaps.</p>
 <p><strong>Supporting Children with Attentional and Hyperactivity Issues <br></strong>(Classroom,
 Synchronous &amp; Asynchronous E-learning)
 <br>
-<br>Supporting Children with Attentional and Hyperactivity Issues (Classroom,
-Synchronous &amp; Asynchronous E-learning)</p>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This course makes accessible the management of ADHD, typically the role
+of psychologists, to other stakeholders such as educators, counsellors
+and caregivers. Participants who support children with ADHD can look forward
+to a multimodal management of ADHD.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.dasacademy.edu.sg/skillsfuture-courses/" rel="noopener noreferrer nofollow" target="_blank">DAS Academy</a>
