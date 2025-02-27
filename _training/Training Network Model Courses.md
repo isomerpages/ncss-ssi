@@ -478,19 +478,21 @@ with persons with disabilities.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Course Title</p>
+<p><strong>Course Title</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Course Description</p>
+<p><strong>Course Description</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>SSA Agency</p>
+<p><strong>SSA Agency</strong>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0012" rel="noopener noreferrer nofollow" target="_blank">A Spotlight on Dementia (Classroom and Asynchronous E-learning)</a></strong>
-<br><em>TGS-2023019206</em>
+<p><strong>A Spotlight on Dementia</strong>  <em>(Classroom and Asynchronous E-learning) TGS-2023019206</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -505,7 +507,8 @@ a Dementia Friendly environment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0013" rel="noopener noreferrer nofollow" target="_blank">A Spotlight on the Palliative Care Approach (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>A Spotlight on the Palliative Care Approach</strong> 
+<br><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -521,7 +524,8 @@ available for Palliative Care.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0014" rel="noopener noreferrer nofollow" target="_blank">Dementia: The Essentials of Person-Centred Care (Basic Level) (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Dementia: The Essentials of Person-Centred Care (Basic Level) </strong>
+<br><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -535,7 +539,7 @@ and attributes to provide quality care to persons living with Dementia.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0015" rel="noopener noreferrer nofollow" target="_blank">The Palliative Care Approach (Basic Level) (Classroom and Asynchronous E-learning</a></strong>
+<p><strong>The Palliative Care Approach (Basic Level) <br></strong><em>(Classroom and Asynchronous E-learning</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -549,7 +553,7 @@ and attributes to deliver care using the Palliative Care Approach.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0016" rel="noopener noreferrer nofollow" target="_blank">Dementia: Practising Person-Centred Care (Intermediate Level) (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Dementia: Practising Person-Centred Care (Intermediate Level) <br></strong><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -564,7 +568,8 @@ Dementia.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0017" rel="noopener noreferrer nofollow" target="_blank">Leadership and Management for Dementia Care Services (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Leadership and Management for Dementia Care Services</strong>
+<br><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -581,7 +586,7 @@ motivation of employees and conflict management.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0018" rel="noopener noreferrer nofollow" target="_blank">Leadership and Management for Community Care Services (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Leadership and Management for Community Care Services <br></strong><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -619,7 +624,8 @@ motivation of employees and conflict management.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0022" rel="noopener noreferrer nofollow" target="_blank">Working with Conflictual Couples (Classroom and Synchronous E-learning)</a></strong>
+<p><strong>Working with Conflictual Couples</strong> 
+<br><em>(Classroom and Synchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -634,7 +640,9 @@ their marital relationships.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0023" rel="noopener noreferrer nofollow" target="_blank">Engaging Victims of Intimate Partner Violence (Classroom and Synchronous E-learning)</a></strong>
+<p><strong>Engaging Victims of Intimate Partner Violence</strong>
+</p>
+<p><em>(Classroom and Synchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -649,7 +657,7 @@ to engage and empower the victims to bring about changes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0026" rel="noopener noreferrer nofollow" target="_blank">Strengthen Family Relationships using the Satir Model (Classroom and Synchronous E-learning)</a></strong>
+<p><strong>Strengthen Family Relationships using the Satir Model <br></strong><em>(Classroom and Synchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -685,7 +693,7 @@ members, thereby strengthen the relationships in the family.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Suicide Intervention Skills Workshop</strong> 
+<p><strong>Suicide Intervention Skills Workshop</strong>
 </p>
 <p><em>(Classroom and Asynchronous E-learning)</em>
 </p>
