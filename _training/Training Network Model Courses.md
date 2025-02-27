@@ -240,7 +240,8 @@ to a multimodal management of ADHD.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0086" rel="noopener noreferrer nofollow" target="_blank">Workplace Literacy (WPL) to Persons with Mild Intellectual Disability (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Workplace Literacy (WPL) to Persons with Mild Intellectual Disability</strong>
+<br><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -255,7 +256,7 @@ professionals with the knowledge and skills needed to teach Workplace Literacy
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0004" rel="noopener noreferrer nofollow" target="_blank">Understanding the Needs of Persons with Disabilities (Classroom)</a></strong>
+<p><strong>Understanding the Needs of Persons with Disabilities<br></strong><em>(Classroom)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -270,7 +271,8 @@ in supporting persons with disabilities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0005" rel="noopener noreferrer nofollow" target="_blank">Interacting and Working with Persons with Disabilities (Classroom)</a></strong>
+<p><strong>Interacting and Working with Persons with Disabilities</strong> 
+<br><em>(Classroom)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -288,7 +290,8 @@ skills to respond to them appropriately.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0006" rel="noopener noreferrer nofollow" target="_blank">Adapting Programmes for Persons with Disabilities (Classroom)</a></strong>
+<p><strong>Adapting Programmes for Persons with Disabilities</strong>
+<br><em>(Classroom)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -307,7 +310,8 @@ the needs of persons of all abilities in the heart of the adaptation process.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0007" rel="noopener noreferrer nofollow" target="_blank">Working Collaboratively with Families: Understanding and Communicating with Families of Persons with Disabilities (Classroom)</a></strong>
+<p><strong>Working Collaboratively with Families: Understanding and Communicating with Families of Persons with Disabilities </strong>
+<br><em>(Classroom)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -322,7 +326,7 @@ sources of support for parents of persons with disabilities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0008" rel="noopener noreferrer nofollow" target="_blank">Facilitating Communication, Language and Social Skills Development Using A Multi-modal Approach with AAC (Classroom)</a></strong>
+<p><strong>Facilitating Communication, Language and Social Skills Development Using A Multi-modal Approach with AAC</strong>  <em>(Classroom)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -337,7 +341,8 @@ and social skills for children and adolescents with disabilities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0009" rel="noopener noreferrer nofollow" target="_blank">Nurturing Healthy Sexual Development in Persons with Developmental Disabilities (Classroom)</a></strong>
+<p><strong>Nurturing Healthy Sexual Development in Persons with Developmental Disabilities </strong>
+<br><em>(Classroom)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
