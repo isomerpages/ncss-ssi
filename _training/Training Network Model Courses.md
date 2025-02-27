@@ -28,7 +28,8 @@ on specific criteria to offer training to the sector.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Basics of Literacy Support for Children with SEN </strong><em>(Classroom, Synchronous &amp; Asynchronous E-learning)</em>
+<p><strong>Basics of Literacy Support for Children with SEN </strong>
+<br><em>(Classroom, Synchronous &amp; Asynchronous E-learning)</em>
 </p>
 <p></p>
 <p>This is a course to equip learners the knowledge, rationale, and strategies/skills
@@ -42,10 +43,112 @@ and instruction.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Executive Function Skills for Children with SEN </strong>
+<br><em>(Classroom, Synchronous &amp; Asynchronous E-learning) TGS-2023019843</em>
+</p>
 <p></p>
+<p>The course introduces executive functions, a concept more familiar in
+the field of psychology, to practitioners who work with children with Special
+Learning Needs.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.dasacademy.edu.sg/skillsfuture-courses/" rel="noopener noreferrer nofollow" target="_blank">DAS Academy</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Planning Literacy Lessons for Children with Special Educational Needs (SEN) </strong>
+<br><em>(Classroom, Synchronous and Asynchronous E-learning)<br></em>
+</p>
+<p>Introduces the fundamentals of planning and delivering literacy lessons
+for children with SEN for educators and parents. Identifying and addressing
+these literacy challenges through a 1-1 intervention then becomes imperative
+to allow these children to better access the curriculum content.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.dasacademy.edu.sg/skillsfuture-courses/" rel="noopener noreferrer nofollow" target="_blank">DAS Academy</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Educational Psychology for Special Education </strong><em>(Classroom, Synchronous and Asynchronous E-learning)<br></em>
+<br>Learn about Educational Psychology and how it can be applied in teaching
+SEN children in individualized support work or in the classroom.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.dasacademy.edu.sg/skillsfuture-courses/" rel="noopener noreferrer nofollow" target="_blank">DAS Academy</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Understanding &amp; supporting Children with Learning &amp; behavioural needs </strong>
+<br><em>(Classroom and Asynchronous E-learning)</em>
+<br>
+<br>This two-half day course equips those in care services, such as student
+care officers, with basic knowledge in identifying types of learning and
+behavioural needs and knowledge on relevant support strategies and activities.
+The course will also introduce the ecological framework that can be practically
+applied in the care setting, and increase professional capability to systematically
+review needs of children, and provide relevant support services based on
+needs.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.shine.org.sg/training" rel="noopener noreferrer nofollow" target="_blank">SHINE Children and Youth Services</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Working Systemically with School Systems</strong> 
+<br><em>(Classroom and Asynchronous E-learning)<br></em>
+<br>This 1.5-day course aims to equip social service professionals, who practice
+in or with the school systems, with knowledge and skills to enable students
+to gain the most benefits from their schooling experiences.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.shine.org.sg/training" rel="noopener noreferrer nofollow" target="_blank">SHINE Children and Youth Services</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Building Rapport with and Creating Supportive Environment for Children </strong><em>(Classroom and Asynchronous E-learning)<br></em>
+<br>The two half-day course aims to enhance the professional capability of
+the Student Care Officers who work in the student care centres (SCCs).</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.shine.org.sg/training" rel="noopener noreferrer nofollow" target="_blank">SHINE Children and Youth Services</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Supporting Students with Special Education Needs Through Collaborative Approach using Sensory Play <br></strong><em>(Classroom and Asynchronous E-learning)<br></em>
+<br>This two-day course is for Teachers/ Teacher-Aides / Beginning Allied
+Professionals in SPED Schools and Special Education Needs Officers from
+General Education Schools to learn a holistic approach to supporting students
+with special needs through the use of sensory play and activities for better
+self-regulation and participation in class.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.apsn.org.sg/apsn-learning-hub/" rel="noopener noreferrer nofollow" target="_blank">APSN Limited</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Developing Readiness and Positive Toileting Behaviour of Children with Special Needs<br></strong>
+<br>Participants will learn to identify the child's current toileting needs
+through data gathering and analysis. This is followed by the identification
+of the optimal timing to begin toilet training, and the strategies to support
+their toilet training.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://rainbowcentre.org.sg/training/" rel="noopener noreferrer nofollow" target="_blank">Rainbow Centre</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -67,166 +170,6 @@ and instruction.</p>
 <th rowspan="1" colspan="1">
 <p>SSA Agency</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Basics of Literacy Support for Children with SEN </strong><em>(Classroom, Synchronous &amp; Asynchronous E-learning)</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><br></strong>
-<br>This is a course to equip learners the knowledge, rationale, and strategies/skills
-to support children with dyslexia in literacy through conceptual teaching
-and instruction.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.dasacademy.edu.sg/skillsfuture-courses/" rel="noopener noreferrer nofollow" target="_blank">DAS Academy</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><em><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0032" rel="noopener noreferrer nofollow" target="_blank">Executive Function Skills for Children with SEN (Classroom, Synchronous &amp; Asynchronous E-learning)</a></em></strong>
-<br><em>TGS-2023019843</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Executive Function Skills for Children with SEN </strong><em>(Classroom, Synchronous &amp; Asynchronous E-learning) TGS-2023019843</em>
-</p>
-<p></p>
-<p>The course introduces executive functions, a concept more familiar in
-the field of psychology, to practitioners who work with children with Special
-Learning Needs.
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.dasacademy.edu.sg/skillsfuture-courses/" rel="noopener noreferrer nofollow" target="_blank">DAS Academy</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0085" rel="noopener noreferrer nofollow" target="_blank">Planning Literacy Lessons for Children with Special Educational Needs (SEN) (Classroom, Synchronous and Asynchronous E-learning)</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Planning Literacy Lessons for Children with Special Educational Needs (SEN) </strong>
-<br><em>(Classroom, Synchronous and Asynchronous E-learning)<br></em>
-</p>
-<p>Introduces the fundamentals of planning and delivering literacy lessons
-for children with SEN for educators and parents. Identifying and addressing
-these literacy challenges through a 1-1 intervention then becomes imperative
-to allow these children to better access the curriculum content.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.dasacademy.edu.sg/skillsfuture-courses/" rel="noopener noreferrer nofollow" target="_blank">DAS Academy</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0076" rel="noopener noreferrer nofollow" target="_blank">Educational Psychology for Special Education (Classroom, Synchronous and Asynchronous E-learning)</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Educational Psychology for Special Education </strong><em>(Classroom, Synchronous and Asynchronous E-learning)<br></em>
-<br>Learn about Educational Psychology and how it can be applied in teaching
-SEN children in individualized support work or in the classroom.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.dasacademy.edu.sg/skillsfuture-courses/" rel="noopener noreferrer nofollow" target="_blank">DAS Academy</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0107" rel="noopener noreferrer nofollow" target="_blank">Understanding &amp; supporting Children with Learning &amp; behavioural needs (Classroom and Asynchronous E-learning)</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Understanding &amp; supporting Children with Learning &amp; behavioural needs </strong>
-<br><em>(Classroom and Asynchronous E-learning)</em>
-<br>
-<br>This two-half day course equips those in care services, such as student
-care officers, with basic knowledge in identifying types of learning and
-behavioural needs and knowledge on relevant support strategies and activities.
-The course will also introduce the ecological framework that can be practically
-applied in the care setting, and increase professional capability to systematically
-review needs of children, and provide relevant support services based on
-needs.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.shine.org.sg/training" rel="noopener noreferrer nofollow" target="_blank">SHINE Children and Youth Services</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0087" rel="noopener noreferrer nofollow" target="_blank">Working Systemically with School Systems (Classroom and Asynchronous E-learning)</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Working Systemically with School Systems</strong> 
-<br><em>(Classroom and Asynchronous E-learning)<br></em>
-<br>This 1.5-day course aims to equip social service professionals, who practice
-in or with the school systems, with knowledge and skills to enable students
-to gain the most benefits from their schooling experiences.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.shine.org.sg/training" rel="noopener noreferrer nofollow" target="_blank">SHINE Children and Youth Services</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0088" rel="noopener noreferrer nofollow" target="_blank">Building Rapport with and Creating Supportive Environment for Children (Classroom and Asynchronous E-learning)</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Building Rapport with and Creating Supportive Environment for Children </strong><em>(Classroom and Asynchronous E-learning)<br></em>
-<br>The two half-day course aims to enhance the professional capability of
-the Student Care Officers who work in the student care centres (SCCs).</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.shine.org.sg/training" rel="noopener noreferrer nofollow" target="_blank">SHINE Children and Youth Services</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0081" rel="noopener noreferrer nofollow" target="_blank">Supporting Students with Special Education Needs Through Collaborative Approach using Sensory Play (Classroom and Asynchronous E-learning)</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Supporting Students with Special Education Needs Through Collaborative Approach using Sensory Play <br></strong><em>(Classroom and Asynchronous E-learning)<br></em>
-<br>This two-day course is for Teachers/ Teacher-Aides / Beginning Allied
-Professionals in SPED Schools and Special Education Needs Officers from
-General Education Schools to learn a holistic approach to supporting students
-with special needs through the use of sensory play and activities for better
-self-regulation and participation in class.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.apsn.org.sg/apsn-learning-hub/" rel="noopener noreferrer nofollow" target="_blank">APSN Limited</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0091" rel="noopener noreferrer nofollow" target="_blank">Developing Readiness and Positive Toileting Behaviour of Children with Special Needs</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Developing Readiness and Positive Toileting Behaviour of Children with Special Needs<br></strong>
-<br>Participants will learn to identify the child's current toileting needs
-through data gathering and analysis. This is followed by the identification
-of the optimal timing to begin toilet training, and the strategies to support
-their toilet training.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://rainbowcentre.org.sg/training/" rel="noopener noreferrer nofollow" target="_blank">Rainbow Centre</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
