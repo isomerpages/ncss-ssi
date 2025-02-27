@@ -7,9 +7,9 @@ description: SSI's Training Network Model 2.0 (TNM 2.0) courses provide social
 variant: tiptap
 ---
 <h2><strong>Training Network Model Courses offered by SSI</strong></h2>
-<p>TNM 2.0 aims to transform 7 selected SSAs to become Centres of Excellence.
-These SSA partners were selected based on specific criteria to offer training
-to the sector.</p>
+<p>Training Network Model 2.0 (TNM 2.0) aims to transform 7 selected SSAs
+to become Centres of Excellence. These SSA partners were selected based
+on specific criteria to offer training to the sector.</p>
 <h4><strong>Children &amp; Youth Courses</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
