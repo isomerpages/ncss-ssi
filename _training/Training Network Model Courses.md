@@ -677,7 +677,7 @@ of suicide as well as evidence-based intervention skills to assess suicide
 risk and manage suicide crisis.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sos.org.sg/outreach/training" rel="noopener noreferrer nofollow" target="_blank">Samaritans of Singapore (SOS</a>
+<p><a href="https://www.sos.org.sg/support-those-in-distress/professional-training/" rel="noopener nofollow" target="_blank">Samaritans of Singapore (SOS )</a>
 </p>
 </td>
 </tr>
@@ -692,7 +692,7 @@ persons with suicidality at work, during volunteering or in their personal
 life.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sos.org.sg/outreach/training" rel="noopener noreferrer nofollow" target="_blank">Samaritans of Singapore (SOS)</a>
+<p><a href="https://www.sos.org.sg/support-those-in-distress/professional-training/" rel="noopener nofollow" target="_blank">Samaritans of Singapore (SOS )</a>
 </p>
 </td>
 </tr>
@@ -707,7 +707,7 @@ to recognize and manage suicide crisis over the helpline or regular calls
 with clients.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sos.org.sg/outreach/training" rel="noopener noreferrer nofollow" target="_blank">Samaritans of Singapore (SOS)</a>
+<p><a href="https://www.sos.org.sg/support-those-in-distress/professional-training/" rel="noopener nofollow" target="_blank">Samaritans of Singapore (SOS )</a>
 </p>
 </td>
 </tr>
@@ -721,7 +721,7 @@ with clients.</p>
 to recognize and manage suicide crisis over text-based platforms.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sos.org.sg/outreach/training" rel="noopener noreferrer nofollow" target="_blank">Samaritans of Singapore (SOS)</a>
+<p><a href="https://www.sos.org.sg/support-those-in-distress/professional-training/" rel="noopener nofollow" target="_blank">Samaritans of Singapore (SOS )</a>
 </p>
 </td>
 </tr>
@@ -735,7 +735,7 @@ to recognize and manage suicide crisis over text-based platforms.</p>
 necessary to provide post-crisis support following a suicide loss.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sos.org.sg/outreach/training" rel="noopener noreferrer nofollow" target="_blank">Samaritans of Singapore (SOS)</a>
+<p><a href="https://www.sos.org.sg/support-those-in-distress/professional-training/" rel="noopener nofollow" target="_blank">Samaritans of Singapore (SOS )</a>
 </p>
 </td>
 </tr>
@@ -750,7 +750,7 @@ necessary to provide longer term psychological interventions to support
 the grief and healing journey of suicide survivors.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sos.org.sg/outreach/training" rel="noopener noreferrer nofollow" target="_blank">Samaritans of Singapore (SOS)</a>
+<p><a href="https://www.sos.org.sg/support-those-in-distress/professional-training/" rel="noopener nofollow" target="_blank">Samaritans of Singapore (SOS )</a>
 </p>
 </td>
 </tr>
@@ -1022,7 +1022,7 @@ to implement volunteer programmes and manage conflicts according to organization
 policies and code of practice.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sos.org.sg/outreach/training" rel="noopener noreferrer nofollow" target="_blank">Samaritans of Singapore (SOS)</a>
+<p><a href="https://www.sos.org.sg/support-those-in-distress/professional-training/" rel="noopener nofollow" target="_blank">Samaritans of Singapore (SOS )</a>
 </p>
 </td>
 </tr>
