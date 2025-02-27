@@ -85,7 +85,6 @@ to allow these children to better access the curriculum content.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Educational Psychology for Special Education </strong>
-<br>
 <br><em>(Classroom, Synchronous and Asynchronous E-learning)</em>
 </p>
 </td>
@@ -137,7 +136,8 @@ to gain the most benefits from their schooling experiences.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Building Rapport with and Creating Supportive Environment for Children </strong><em>(Classroom and Asynchronous E-learning)</em>
+<p><strong>Building Rapport with and Creating Supportive Environment for Children </strong>
+<br><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -260,7 +260,7 @@ professionals with the knowledge and skills needed to teach Workplace Literacy
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>During this course , learners will learn to identify the causes and characteristics
+<p>During this course, learners will learn to identify the causes and characteristics
 of these types of special needs and understand the role of professionals
 in supporting persons with disabilities.</p>
 </td>
@@ -326,7 +326,8 @@ sources of support for parents of persons with disabilities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Facilitating Communication, Language and Social Skills Development Using A Multi-modal Approach with AAC</strong>  <em>(Classroom)</em>
+<p><strong>Facilitating Communication, Language and Social Skills Development Using a Multi-modal Approach with AAC</strong>
+<br> <em>(Classroom)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -358,7 +359,7 @@ the specific topics on human sexuality.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0010" rel="noopener noreferrer nofollow" target="_blank">Applying Basic Positive Behavioural Support Strategies to Meet Diverse Needs (Level 1) (Classroom)</a></strong>
+<p><strong>Applying Basic Positive Behavioural Support Strategies to Meet Diverse Needs (Level 1)<br></strong><em>(Classroom)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -372,7 +373,7 @@ behaviour support for persons with diverse needs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0011" rel="noopener noreferrer nofollow" target="_blank">Applying Positive Behavioural Support Strategies for Persons with Complex Needs (Level 2) (Classroom)</a></strong>
+<p><strong>Applying Positive Behavioural Support Strategies for Persons with Complex Needs (Level 2) </strong><em>(Classroom)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -387,7 +388,7 @@ positive behavioural support strategies and interventions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0019" rel="noopener noreferrer nofollow" target="_blank">Intellectual Disability: Person-Centred Lifespan Support (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Intellectual Disability: Person-Centred Lifespan Support <br></strong><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -402,7 +403,7 @@ for persons with intellectual disability across life span.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0033" rel="noopener noreferrer nofollow" target="_blank">Enhancing work outcome together for Person with Mild Intellectual Disability (MID) (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Enhancing work outcome together for Person with Mild Intellectual Disability (MID) <br></strong><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -417,7 +418,7 @@ Mild Intellectual Disability (MID).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0090" rel="noopener noreferrer nofollow" target="_blank">Applying Strategies for Engaging and Teaching Persons with Learning Disabilities</a></strong>
+<p><strong>Applying Strategies for Engaging and Teaching Persons with Learning Disabilities</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -434,7 +435,7 @@ living.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0092" rel="noopener noreferrer nofollow" target="_blank">Interpreting Quality of Life for Persons with Disabilities</a></strong>
+<p><strong>Interpreting Quality of Life for Persons with Disabilities</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -451,7 +452,7 @@ of life of persons with disabilities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0093" rel="noopener noreferrer nofollow" target="_blank">Interpreting Disability in Social Work Practice</a></strong>
+<p><strong>Interpreting Disability in Social Work Practice</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
