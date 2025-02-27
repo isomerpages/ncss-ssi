@@ -327,7 +327,7 @@ sources of support for parents of persons with disabilities.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Facilitating Communication, Language and Social Skills Development Using a Multi-modal Approach with AAC</strong>
-<br> <em>(Classroom)</em>
+<br><em>(Classroom)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -642,8 +642,7 @@ their marital relationships.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Engaging Victims of Intimate Partner Violence</strong>
-</p>
-<p><em>(Classroom and Synchronous E-learning)</em>
+<br><em>(Classroom and Synchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -695,8 +694,7 @@ members, thereby strengthen the relationships in the family.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Suicide Intervention Skills Workshop</strong>
-</p>
-<p><em>(Classroom and Asynchronous E-learning)</em>
+<br><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -808,7 +806,8 @@ the grief and healing journey of suicide survivors.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Applying Theory of Change and Logic Model in Programme Planning </strong><em>(Classroom and Asynchronous E-learning) TGS-2023019733</em>
+<p><strong>Applying Theory of Change and Logic Model in Programme Planning</strong>
+<br><em>(Classroom and Asynchronous E-learning) TGS-2023019733</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -947,7 +946,8 @@ group work facilitation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Onboarding for New Social Service Supervisors </strong><em>(Classroom and Asynchronous E-learning)</em>
+<p><strong>Onboarding for New Social Service Supervisors</strong>
+<br><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
