@@ -11,6 +11,45 @@ variant: tiptap
 to become Centres of Excellence. These SSA partners were selected based
 on specific criteria to offer training to the sector.</p>
 <h4><strong>Children &amp; Youth Courses</strong></h4>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Course</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>SSA Agency</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Basics of Literacy Support for Children with SEN </strong><em>(Classroom, Synchronous &amp; Asynchronous E-learning)</em>
+</p>
+<p></p>
+<p>This is a course to equip learners the knowledge, rationale, and strategies/skills
+to support children with dyslexia in literacy through conceptual teaching
+and instruction.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.dasacademy.edu.sg/skillsfuture-courses/" rel="noopener noreferrer nofollow" target="_blank">DAS Academy</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
