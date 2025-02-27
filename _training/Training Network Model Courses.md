@@ -685,7 +685,9 @@ members, thereby strengthen the relationships in the family.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0109" rel="noopener noreferrer nofollow" target="_blank">Suicide Intervention Skills Workshop (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Suicide Intervention Skills Workshop</strong> 
+</p>
+<p><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -700,7 +702,8 @@ risk and manage suicide crisis.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0028" rel="noopener noreferrer nofollow" target="_blank">Providing Emotional Support to Persons with Potential Suicidality (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Providing Emotional Support to Persons with Potential Suicidality</strong>
+<br><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -715,7 +718,8 @@ life.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0029" rel="noopener noreferrer nofollow" target="_blank">Managing Suicide Crisis Over Phone (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Managing Suicide Crisis Over Phone </strong>
+<br><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -730,10 +734,11 @@ with clients.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0030" rel="noopener noreferrer nofollow" target="_blank">Managing Suicide Crisis Over Text-based Platforms (Synchronous and Asynchronous E-learning)</a></strong>
+<p><strong>Managing Suicide Crisis Over Text-based Platforms </strong><em>(Synchronous and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>This course/module aims to equip learners with the knowledge and skills
 to recognize and manage suicide crisis over text-based platforms.</p>
 </td>
@@ -744,7 +749,7 @@ to recognize and manage suicide crisis over text-based platforms.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0075" rel="noopener noreferrer nofollow" target="_blank">Suicide Loss: post-crisis management (Level 1) (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Suicide Loss: post-crisis management (Level 1) <br></strong><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -758,7 +763,7 @@ necessary to provide post-crisis support following a suicide loss.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0084" rel="noopener noreferrer nofollow" target="_blank">Suicide Loss: post-crisis management (Level 2) (Classroom and Asynchronous E-learning</a></strong>
+<p><strong>Suicide Loss: post-crisis management (Level 2) </strong><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -794,8 +799,7 @@ the grief and healing journey of suicide survivors.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0077" rel="noopener noreferrer nofollow" target="_blank">Applying Theory of Change and Logic Model in Programme Planning (Classroom and Asynchronous E-learning)</a></strong>
-<br><em>TGS-2023019733</em>
+<p><strong>Applying Theory of Change and Logic Model in Programme Planning </strong><em>(Classroom and Asynchronous E-learning) TGS-2023019733</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -811,7 +815,7 @@ the usefulness of these methods throughout programme lifespan.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0024" rel="noopener noreferrer nofollow" target="_blank">Programme Theory of Change and Logic Model: Uncovering the Blackbox of Social Programmes (Classroom and Synchronous E-learning)</a></strong>
+<p><strong>Programme Theory of Change and Logic Model: Uncovering the Blackbox of Social Programmes </strong><em>(Classroom and Synchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -826,7 +830,8 @@ any social programme development and evaluation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0025" rel="noopener noreferrer nofollow" target="_blank">Application of Mixed Methods Research in Social Service (Synchronous and Asynchronous E-learning)</a></strong>
+<p><strong>Application of Mixed Methods Research in Social Service</strong> 
+<br><em>(Synchronous and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -844,7 +849,7 @@ and post-programme/service evaluation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0094" rel="noopener noreferrer nofollow" target="_blank">Conducting Effective Programme Evaluation for SSAs (Classroom, Synchronous &amp; Asynchronous E-learning)</a></strong>
+<p><strong>Conducting Effective Programme Evaluation for SSAs <br></strong><em>(Classroom, Synchronous &amp; Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -884,7 +889,7 @@ professional research.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0103" rel="noopener noreferrer nofollow" target="_blank">Basic Therapeutic Skills (Classroom and Asynchronous) </a></strong>
+<p><strong>Basic Therapeutic Skills <br></strong><em>(Classroom and Asynchronous)</em>
 <br><em>TGS-2023036063</em>
 </p>
 </td>
@@ -902,7 +907,7 @@ PADI problem-solving approach.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0097" rel="noopener noreferrer nofollow" target="_blank">Strategies on caring for Children with Mild Intellectual Disability (MID) (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Strategies on caring for Children with Mild Intellectual Disability (MID) </strong><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -918,7 +923,7 @@ conflicts within the family.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0089" rel="noopener noreferrer nofollow" target="_blank">Facilitate Group Work Intervention</a></strong>
+<p><strong>Facilitate Group Work Intervention</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -933,7 +938,7 @@ group work facilitation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0082" rel="noopener noreferrer nofollow" target="_blank">Onboarding for New Social Service Supervisors (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Onboarding for New Social Service Supervisors </strong><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -949,7 +954,7 @@ how to conduct supervision.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0079" rel="noopener noreferrer nofollow" target="_blank">Supporting the mental well-being of adolescents with intellectual disability (ID) (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Supporting the mental well-being of adolescents with intellectual disability (ID) </strong><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -963,7 +968,7 @@ well-being of adolescents with ID.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0020" rel="noopener noreferrer nofollow" target="_blank">Solution-Focused Brief Therapy Practice (Classroom and Synchronous E-learning)</a></strong>
+<p><strong>Solution-Focused Brief Therapy Practice </strong><em>(Classroom and Synchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -977,7 +982,8 @@ solution focused brief therapy practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0021" rel="noopener noreferrer nofollow" target="_blank">Practical Counselling (Intermediate) (Classroom and Synchronous E-learning)</a></strong>
+<p><strong>Practical Counselling (Intermediate)</strong> 
+<br><em>(Classroom and Synchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
