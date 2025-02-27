@@ -1013,8 +1013,7 @@ and counselling to have a more complete understanding in counselling.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0074" rel="noopener noreferrer nofollow" target="_blank">Strategic Volunteer Partnerships for Impact (Classroom)</a></strong>
-<br>
+<p><strong>Strategic Volunteer Partnerships for Impact </strong><em>(Classroom)<br></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1029,8 +1028,7 @@ volunteer partnerships.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0080" rel="noopener noreferrer nofollow" target="_blank">Support the Implementation of Volunteer Programmes (Classroom and Asynchronous E-learning)</a></strong>
-<br><em>- TGS-2023022331</em>
+<p><strong>Support the Implementation of Volunteer Programmes <br></strong><em>(Classroom and Asynchronous E-learning)<br>- TGS-2023022331</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
