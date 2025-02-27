@@ -10,7 +10,7 @@ variant: tiptap
 <p>Training Network Model 2.0 (TNM 2.0) aims to transform 7 selected SSAs
 to become Centres of Excellence. These SSA partners were selected based
 on specific criteria to offer training to the sector.</p>
-<h4><strong>Children &amp; Youth Courses</strong></h4>
+<h3><strong>Children &amp; Youth Courses</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -20,10 +20,10 @@ on specific criteria to offer training to the sector.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Course Title</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Course</p>
+<p>Course Description</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>SSA Agency</p>
@@ -219,7 +219,7 @@ to a multimodal management of ADHD.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Disability Courses</strong></h4>
+<h3><strong>Disability Courses</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -469,7 +469,7 @@ with persons with disabilities.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Eldercare Courses</strong></h4>
+<h3><strong>Eldercare Courses</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -604,7 +604,7 @@ motivation of employees and conflict management.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Family Courses</strong></h4>
+<h3><strong>Family Courses</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -672,7 +672,7 @@ members, thereby strengthen the relationships in the family.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Mental Health &amp; Wellness Courses</strong></h4>
+<h3><strong>Mental Health &amp; Wellness Courses</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -785,7 +785,7 @@ the grief and healing journey of suicide survivors.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Research &amp; Programme Evaluation Courses</strong></h4>
+<h3><strong>Research &amp; Programme Evaluation Courses</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -876,7 +876,7 @@ professional research.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Cross Sector Courses</strong></h4>
+<h3><strong>Cross Sector Courses</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1010,7 +1010,7 @@ and counselling to have a more complete understanding in counselling.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Volunteer Management Courses</strong></h4>
+<h3><strong>Volunteer Management Courses</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
