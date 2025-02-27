@@ -151,33 +151,12 @@ their toilet training.</p>
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Course Title</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Course</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>SSA Agency</p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0095" rel="noopener noreferrer nofollow" target="_blank">Individualised Education Planning for children with SEN (Classroom, Synchronous &amp; Asynchronous E-learning)</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This course aims to equip the participants with the knowledge and skills
+<p><strong>Individualised Education Planning for children with SEN </strong>
+<br><em>(Classroom, Synchronous &amp; Asynchronous E-learning)</em>
+<br>
+<br>This course aims to equip the participants with the knowledge and skills
 to plan, implement and evaluate an intervention for a child with SEN. Without
 an individualised lesson plan, the child with SEN will never be able to
 bridge the persistent educational gaps.</p>
@@ -189,14 +168,11 @@ bridge the persistent educational gaps.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0096" rel="noopener noreferrer nofollow" target="_blank">Supporting Children with Attentional and Hyperactivity Issues (Classroom, Synchronous &amp; Asynchronous E-learning)</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This course makes accessible the management of ADHD, typically the role
-of psychologists, to other stakeholders such as educators, counsellors
-and caregivers. Participants who support children with ADHD can look forward
-to a multimodal management of ADHD.</p>
+<p><strong>Supporting Children with Attentional and Hyperactivity Issues <br></strong>(Classroom,
+Synchronous &amp; Asynchronous E-learning)
+<br>
+<br>Supporting Children with Attentional and Hyperactivity Issues (Classroom,
+Synchronous &amp; Asynchronous E-learning)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.dasacademy.edu.sg/skillsfuture-courses/" rel="noopener noreferrer nofollow" target="_blank">DAS Academy</a>
