@@ -915,7 +915,8 @@ PADI problem-solving approach.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Strategies on caring for Children with Mild Intellectual Disability (MID) </strong><em>(Classroom and Asynchronous E-learning)</em>
+<p><strong>Strategies on caring for Children with Mild Intellectual Disability (MID)</strong>
+<br><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -963,7 +964,8 @@ how to conduct supervision.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Supporting the mental well-being of adolescents with intellectual disability (ID) </strong><em>(Classroom and Asynchronous E-learning)</em>
+<p><strong>Supporting the mental well-being of adolescents with intellectual disability (ID) </strong>
+<br><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -977,7 +979,8 @@ well-being of adolescents with ID.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Solution-Focused Brief Therapy Practice </strong><em>(Classroom and Synchronous E-learning)</em>
+<p><strong>Solution-Focused Brief Therapy Practice </strong>
+<br><em>(Classroom and Synchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
