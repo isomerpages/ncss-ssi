@@ -32,7 +32,6 @@ on specific criteria to offer training to the sector.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Basics of Literacy Support for Children with SEN</strong>
-<br><em>(Classroom, Synchronous &amp; Asynchronous E-learning)</em>
 </p>
 <p></p>
 <p></p>
@@ -50,7 +49,7 @@ and instruction.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Executive Function Skills for Children with SEN</strong>
-<br><em>(Classroom, Synchronous &amp; Asynchronous E-learning) TGS-2023019843</em>
+<br><em>TGS-2023019843</em>
 </p>
 <p></p>
 <p></p>
@@ -68,7 +67,6 @@ Learning Needs.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Planning Literacy Lessons for Children with Special Educational Needs (SEN) </strong>
-<br><em>(Classroom, Synchronous and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,7 +83,6 @@ to allow these children to better access the curriculum content.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Educational Psychology for Special Education </strong>
-<br><em>(Classroom, Synchronous and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -100,7 +97,6 @@ SEN children in individualized support work or in the classroom.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Understanding &amp; supporting Children with Learning &amp; behavioural needs </strong>
-<br><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -119,8 +115,7 @@ needs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Working Systemically with School Systems</strong>
-<br><em>(Classroom and Asynchronous E-learning)<br></em>
+<p><strong>Working Systemically with School Systems</strong><em><br></em>
 <br>
 </p>
 </td>
@@ -137,7 +132,6 @@ to gain the most benefits from their schooling experiences.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Building Rapport with and Creating Supportive Environment for Children </strong>
-<br><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -151,7 +145,7 @@ the Student Care Officers who work in the student care centres (SCCs).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Supporting Students with Special Education Needs Through Collaborative Approach using Sensory Play <br></strong><em>(Classroom and Asynchronous E-learning)</em>
+<p><strong>Supporting Students with Special Education Needs Through Collaborative Approach using Sensory Play </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -185,7 +179,6 @@ their toilet training.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Individualised Education Planning for children with SEN </strong>
-<br><em>(Classroom, Synchronous &amp; Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -201,8 +194,7 @@ bridge the persistent educational gaps.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Supporting Children with Attentional and Hyperactivity Issues <br></strong>(Classroom,
-Synchronous &amp; Asynchronous E-learning)
+<p><strong>Supporting Children with Attentional and Hyperactivity Issues </strong>
 <br>
 </p>
 </td>
@@ -241,7 +233,6 @@ to a multimodal management of ADHD.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Workplace Literacy (WPL) to Persons with Mild Intellectual Disability</strong>
-<br><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -256,7 +247,7 @@ professionals with the knowledge and skills needed to teach Workplace Literacy
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Understanding the Needs of Persons with Disabilities<br></strong><em>(Classroom)</em>
+<p><strong>Understanding the Needs of Persons with Disabilities</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -272,7 +263,7 @@ in supporting persons with disabilities.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Interacting and Working with Persons with Disabilities</strong> 
-<br><em>(Classroom)</em>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -291,7 +282,7 @@ skills to respond to them appropriately.
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Adapting Programmes for Persons with Disabilities</strong>
-<br><em>(Classroom)</em>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -311,7 +302,7 @@ the needs of persons of all abilities in the heart of the adaptation process.
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Working Collaboratively with Families: Understanding and Communicating with Families of Persons with Disabilities </strong>
-<br><em>(Classroom)</em>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -327,7 +318,7 @@ sources of support for parents of persons with disabilities.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Facilitating Communication, Language and Social Skills Development Using a Multi-modal Approach with AAC</strong>
-<br><em>(Classroom)</em>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -343,7 +334,7 @@ and social skills for children and adolescents with disabilities.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Nurturing Healthy Sexual Development in Persons with Developmental Disabilities </strong>
-<br><em>(Classroom)</em>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -359,7 +350,7 @@ the specific topics on human sexuality.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Applying Basic Positive Behavioural Support Strategies to Meet Diverse Needs (Level 1)<br></strong><em>(Classroom)</em>
+<p><strong>Applying Basic Positive Behavioural Support Strategies to Meet Diverse Needs (Level 1)<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -373,7 +364,7 @@ behaviour support for persons with diverse needs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Applying Positive Behavioural Support Strategies for Persons with Complex Needs (Level 2) </strong><em>(Classroom)</em>
+<p><strong>Applying Positive Behavioural Support Strategies for Persons with Complex Needs (Level 2)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -388,7 +379,7 @@ positive behavioural support strategies and interventions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Intellectual Disability: Person-Centred Lifespan Support <br></strong><em>(Classroom and Asynchronous E-learning)</em>
+<p><strong>Intellectual Disability: Person-Centred Lifespan Support </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -403,7 +394,7 @@ for persons with intellectual disability across life span.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Enhancing work outcome together for Person with Mild Intellectual Disability (MID) <br></strong><em>(Classroom and Asynchronous E-learning)</em>
+<p><strong>Enhancing work outcome together for Person with Mild Intellectual Disability (MID) </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -493,7 +484,8 @@ with persons with disabilities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>A Spotlight on Dementia</strong>  <em>(Classroom and Asynchronous E-learning) TGS-2023019206</em>
+<p><strong>A Spotlight on Dementia</strong>
+<br><em>TGS-2023019206</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -509,7 +501,6 @@ a Dementia Friendly environment.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>A Spotlight on the Palliative Care Approach</strong> 
-<br><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -526,7 +517,6 @@ available for Palliative Care.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Dementia: The Essentials of Person-Centred Care (Basic Level) </strong>
-<br><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -540,7 +530,7 @@ and attributes to provide quality care to persons living with Dementia.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>The Palliative Care Approach (Basic Level) <br></strong><em>(Classroom and Asynchronous E-learning</em>
+<p><strong>The Palliative Care Approach (Basic Level) </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -554,7 +544,7 @@ and attributes to deliver care using the Palliative Care Approach.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dementia: Practising Person-Centred Care (Intermediate Level) <br></strong><em>(Classroom and Asynchronous E-learning)</em>
+<p><strong>Dementia: Practising Person-Centred Care (Intermediate Level) </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -570,7 +560,6 @@ Dementia.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Leadership and Management for Dementia Care Services</strong>
-<br><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -587,7 +576,7 @@ motivation of employees and conflict management.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Leadership and Management for Community Care Services <br></strong><em>(Classroom and Asynchronous E-learning)</em>
+<p><strong>Leadership and Management for Community Care Services </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -626,7 +615,6 @@ motivation of employees and conflict management.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Working with Conflictual Couples</strong> 
-<br><em>(Classroom and Synchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -642,7 +630,6 @@ their marital relationships.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Engaging Victims of Intimate Partner Violence</strong>
-<br><em>(Classroom and Synchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -657,7 +644,7 @@ to engage and empower the victims to bring about changes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Strengthen Family Relationships using the Satir Model <br></strong><em>(Classroom and Synchronous E-learning)</em>
+<p><strong>Strengthen Family Relationships using the Satir Model </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -694,7 +681,6 @@ members, thereby strengthen the relationships in the family.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Suicide Intervention Skills Workshop</strong>
-<br><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -710,7 +696,6 @@ risk and manage suicide crisis.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Providing Emotional Support to Persons with Potential Suicidality</strong>
-<br><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -726,7 +711,6 @@ life.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Managing Suicide Crisis Over Phone </strong>
-<br><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -741,7 +725,7 @@ with clients.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Managing Suicide Crisis Over Text-based Platforms </strong><em>(Synchronous and Asynchronous E-learning)</em>
+<p><strong>Managing Suicide Crisis Over Text-based Platforms</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -756,7 +740,7 @@ to recognize and manage suicide crisis over text-based platforms.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Suicide Loss: post-crisis management (Level 1) <br></strong><em>(Classroom and Asynchronous E-learning)</em>
+<p><strong>Suicide Loss: post-crisis management (Level 1) </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -770,7 +754,7 @@ necessary to provide post-crisis support following a suicide loss.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Suicide Loss: post-crisis management (Level 2) </strong><em>(Classroom and Asynchronous E-learning)</em>
+<p><strong>Suicide Loss: post-crisis management (Level 2)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -807,7 +791,7 @@ the grief and healing journey of suicide survivors.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Applying Theory of Change and Logic Model in Programme Planning</strong>
-<br><em>(Classroom and Asynchronous E-learning) TGS-2023019733</em>
+<br><em>TGS-2023019733</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -823,7 +807,7 @@ the usefulness of these methods throughout programme lifespan.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Programme Theory of Change and Logic Model: Uncovering the Blackbox of Social Programmes </strong><em>(Classroom and Synchronous E-learning)</em>
+<p><strong>Programme Theory of Change and Logic Model: Uncovering the Blackbox of Social Programmes</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -839,7 +823,6 @@ any social programme development and evaluation.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Application of Mixed Methods Research in Social Service</strong> 
-<br><em>(Synchronous and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -857,7 +840,7 @@ and post-programme/service evaluation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Conducting Effective Programme Evaluation for SSAs <br></strong><em>(Classroom, Synchronous &amp; Asynchronous E-learning)</em>
+<p><strong>Conducting Effective Programme Evaluation for SSAs </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -897,7 +880,7 @@ professional research.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Basic Therapeutic Skills <br></strong><em>(Classroom and Asynchronous)</em>
+<p><strong>Basic Therapeutic Skills</strong>
 <br><em>TGS-2023036063</em>
 </p>
 </td>
@@ -916,7 +899,6 @@ PADI problem-solving approach.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Strategies on caring for Children with Mild Intellectual Disability (MID)</strong>
-<br><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -948,7 +930,6 @@ group work facilitation.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Onboarding for New Social Service Supervisors</strong>
-<br><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -965,7 +946,6 @@ how to conduct supervision.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Supporting the mental well-being of adolescents with intellectual disability (ID) </strong>
-<br><em>(Classroom and Asynchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -980,7 +960,6 @@ well-being of adolescents with ID.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Solution-Focused Brief Therapy Practice </strong>
-<br><em>(Classroom and Synchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -995,7 +974,6 @@ solution focused brief therapy practices.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Practical Counselling (Intermediate)</strong> 
-<br><em>(Classroom and Synchronous E-learning)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1031,7 +1009,7 @@ and counselling to have a more complete understanding in counselling.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Strategic Volunteer Partnerships for Impact </strong><em>(Classroom)<br></em>
+<p><strong>Strategic Volunteer Partnerships for Impact</strong><em><br></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1046,7 +1024,8 @@ volunteer partnerships.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Support the Implementation of Volunteer Programmes <br></strong><em>(Classroom and Asynchronous E-learning)<br>- TGS-2023022331</em>
+<p><strong>Support the Implementation of Volunteer Programmes</strong>
+<br><em>TGS-2023022331</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
