@@ -66,7 +66,7 @@ Learning Needs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Planning Literacy Lessons for Children with Special Educational Needs (SEN) </strong>
+<p><strong>Planning Literacy Lessons for Children with Special Educational Needs (SEN)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -82,7 +82,7 @@ to allow these children to better access the curriculum content.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Educational Psychology for Special Education </strong>
+<p><strong>Educational Psychology for Special Education</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -96,7 +96,7 @@ SEN children in individualized support work or in the classroom.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Understanding &amp; supporting Children with Learning &amp; behavioural needs </strong>
+<p><strong>Understanding &amp; supporting Children with Learning &amp; behavioural needs</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -131,7 +131,7 @@ to gain the most benefits from their schooling experiences.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Building Rapport with and Creating Supportive Environment for Children </strong>
+<p><strong>Building Rapport with and Creating Supportive Environment for Children</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -145,7 +145,7 @@ the Student Care Officers who work in the student care centres (SCCs).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Supporting Students with Special Education Needs Through Collaborative Approach using Sensory Play </strong>
+<p><strong>Supporting Students with Special Education Needs Through Collaborative Approach using Sensory Play</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -178,7 +178,7 @@ their toilet training.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Individualised Education Planning for children with SEN </strong>
+<p><strong>Individualised Education Planning for children with SEN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -379,7 +379,7 @@ positive behavioural support strategies and interventions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Intellectual Disability: Person-Centred Lifespan Support </strong>
+<p><strong>Intellectual Disability: Person-Centred Lifespan Support</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -394,7 +394,7 @@ for persons with intellectual disability across life span.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Enhancing work outcome together for Person with Mild Intellectual Disability (MID) </strong>
+<p><strong>Enhancing work outcome together for Person with Mild Intellectual Disability (MID)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -500,7 +500,7 @@ a Dementia Friendly environment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>A Spotlight on the Palliative Care Approach</strong> 
+<p><strong>A Spotlight on the Palliative Care Approach</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -516,7 +516,7 @@ available for Palliative Care.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dementia: The Essentials of Person-Centred Care (Basic Level) </strong>
+<p><strong>Dementia: The Essentials of Person-Centred Care (Basic Level)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -530,7 +530,7 @@ and attributes to provide quality care to persons living with Dementia.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>The Palliative Care Approach (Basic Level) </strong>
+<p><strong>The Palliative Care Approach (Basic Level)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -544,7 +544,7 @@ and attributes to deliver care using the Palliative Care Approach.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dementia: Practising Person-Centred Care (Intermediate Level) </strong>
+<p><strong>Dementia: Practising Person-Centred Care (Intermediate Level)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -576,7 +576,7 @@ motivation of employees and conflict management.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Leadership and Management for Community Care Services </strong>
+<p><strong>Leadership and Management for Community Care Services</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -614,7 +614,7 @@ motivation of employees and conflict management.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Working with Conflictual Couples</strong> 
+<p><strong>Working with Conflictual Couples</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -644,7 +644,7 @@ to engage and empower the victims to bring about changes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Strengthen Family Relationships using the Satir Model </strong>
+<p><strong>Strengthen Family Relationships using the Satir Model</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -710,7 +710,7 @@ life.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Managing Suicide Crisis Over Phone </strong>
+<p><strong>Managing Suicide Crisis Over Phone</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -740,7 +740,7 @@ to recognize and manage suicide crisis over text-based platforms.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Suicide Loss: post-crisis management (Level 1) </strong>
+<p><strong>Suicide Loss: post-crisis management (Level 1)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -822,7 +822,7 @@ any social programme development and evaluation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Application of Mixed Methods Research in Social Service</strong> 
+<p><strong>Application of Mixed Methods Research in Social Service</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -840,7 +840,7 @@ and post-programme/service evaluation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Conducting Effective Programme Evaluation for SSAs </strong>
+<p><strong>Conducting Effective Programme Evaluation for SSAs</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -945,7 +945,7 @@ how to conduct supervision.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Supporting the mental well-being of adolescents with intellectual disability (ID) </strong>
+<p><strong>Supporting the mental well-being of adolescents with intellectual disability (ID)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -959,7 +959,7 @@ well-being of adolescents with ID.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Solution-Focused Brief Therapy Practice </strong>
+<p><strong>Solution-Focused Brief Therapy Practice</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -973,7 +973,7 @@ solution focused brief therapy practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Practical Counselling (Intermediate)</strong> 
+<p><strong>Practical Counselling (Intermediate)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
