@@ -49,9 +49,7 @@ and instruction.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Executive Function Skills for Children with SEN</strong>
-<br><em>TGS-2023019843</em>
 </p>
-<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -485,7 +483,6 @@ with persons with disabilities.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>A Spotlight on Dementia</strong>
-<br><em>TGS-2023019206</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -791,7 +788,6 @@ the grief and healing journey of suicide survivors.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Applying Theory of Change and Logic Model in Programme Planning</strong>
-<br><em>TGS-2023019733</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -881,7 +877,6 @@ professional research.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Basic Therapeutic Skills</strong>
-<br><em>TGS-2023036063</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1025,7 +1020,6 @@ volunteer partnerships.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Support the Implementation of Volunteer Programmes</strong>
-<br><em>TGS-2023022331</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
