@@ -7,11 +7,10 @@ description: SSI's Training Network Model 2.0 (TNM 2.0) courses provide social
 variant: tiptap
 ---
 <h2><strong>Training Network Model Courses offered by SSI</strong></h2>
-<p><a href="https://www.ssi.gov.sg/about-us/tnm" rel="noopener noreferrer nofollow" target="_blank">TNM 2.0</a> aims
-to transform 7 selected SSAs to become Centres of Excellence. These SSA
-partners were selected based on specific criteria to offer training to
-the sector.</p>
-<h4><strong>Children &amp; Youth Courses</strong></h4>
+<p>Training Network Model 2.0 (TNM 2.0) aims to transform 7 selected SSAs
+to become Centres of Excellence. These SSA partners were selected based
+on specific criteria to offer training to the sector.</p>
+<h3><strong>Children &amp; Youth Courses</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -32,8 +31,10 @@ the sector.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0031" rel="noopener noreferrer nofollow" target="_blank">Basics of Literacy Support for Children with SEN (Classroom, Synchronous &amp; Asynchronous E-learning)</a></strong>
+<p><strong>Basics of Literacy Support for Children with SEN</strong>
 </p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This is a course to equip learners the knowledge, rationale, and strategies/skills
@@ -47,16 +48,14 @@ and instruction.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0032" rel="noopener noreferrer nofollow" target="_blank">Executive Function Skills for Children with SEN (Classroom, Synchronous &amp; Asynchronous E-learning)</a></em></strong>
-<br><em>TGS-2023019843</em>
+<p><strong>Executive Function Skills for Children with SEN</strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The course introduces executive functions, a concept more familiar in
 the field of psychology, to practitioners who work with children with Special
-Learning Needs.
-<br>
-</p>
+Learning Needs.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.dasacademy.edu.sg/skillsfuture-courses/" rel="noopener noreferrer nofollow" target="_blank">DAS Academy</a>
@@ -65,7 +64,7 @@ Learning Needs.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0085" rel="noopener noreferrer nofollow" target="_blank">Planning Literacy Lessons for Children with Special Educational Needs (SEN) (Classroom, Synchronous and Asynchronous E-learning)</a></strong>
+<p><strong>Planning Literacy Lessons for Children with Special Educational Needs (SEN)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,7 +80,7 @@ to allow these children to better access the curriculum content.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0076" rel="noopener noreferrer nofollow" target="_blank">Educational Psychology for Special Education (Classroom, Synchronous and Asynchronous E-learning)</a></strong>
+<p><strong>Educational Psychology for Special Education</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -95,7 +94,7 @@ SEN children in individualized support work or in the classroom.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0107" rel="noopener noreferrer nofollow" target="_blank">Understanding &amp; supporting Children with Learning &amp; behavioural needs (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Understanding &amp; supporting Children with Learning &amp; behavioural needs</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,7 +113,8 @@ needs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0087" rel="noopener noreferrer nofollow" target="_blank">Working Systemically with School Systems (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Working Systemically with School Systems</strong><em><br></em>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -129,7 +129,7 @@ to gain the most benefits from their schooling experiences.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0088" rel="noopener noreferrer nofollow" target="_blank">Building Rapport with and Creating Supportive Environment for Children (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Building Rapport with and Creating Supportive Environment for Children</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -143,7 +143,7 @@ the Student Care Officers who work in the student care centres (SCCs).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0081" rel="noopener noreferrer nofollow" target="_blank">Supporting Students with Special Education Needs Through Collaborative Approach using Sensory Play (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Supporting Students with Special Education Needs Through Collaborative Approach using Sensory Play</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -160,7 +160,7 @@ self-regulation and participation in class.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0091" rel="noopener noreferrer nofollow" target="_blank">Developing Readiness and Positive Toileting Behaviour of Children with Special Needs</a></strong>
+<p><strong>Developing Readiness and Positive Toileting Behaviour of Children with Special Needs</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -176,7 +176,7 @@ their toilet training.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0095" rel="noopener noreferrer nofollow" target="_blank">Individualised Education Planning for children with SEN (Classroom, Synchronous &amp; Asynchronous E-learning)</a></strong>
+<p><strong>Individualised Education Planning for children with SEN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -192,7 +192,8 @@ bridge the persistent educational gaps.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0096" rel="noopener noreferrer nofollow" target="_blank">Supporting Children with Attentional and Hyperactivity Issues (Classroom, Synchronous &amp; Asynchronous E-learning)</a></strong>
+<p><strong>Supporting Children with Attentional and Hyperactivity Issues </strong>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -208,7 +209,7 @@ to a multimodal management of ADHD.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Disability Courses</strong></h4>
+<h3><strong>Disability Courses</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -229,7 +230,7 @@ to a multimodal management of ADHD.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0086" rel="noopener noreferrer nofollow" target="_blank">Workplace Literacy (WPL) to Persons with Mild Intellectual Disability (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Workplace Literacy (WPL) to Persons with Mild Intellectual Disability</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -244,11 +245,11 @@ professionals with the knowledge and skills needed to teach Workplace Literacy
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0004" rel="noopener noreferrer nofollow" target="_blank">Understanding the Needs of Persons with Disabilities (Classroom)</a></strong>
+<p><strong>Understanding the Needs of Persons with Disabilities</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>During this course , learners will learn to identify the causes and characteristics
+<p>During this course, learners will learn to identify the causes and characteristics
 of these types of special needs and understand the role of professionals
 in supporting persons with disabilities.</p>
 </td>
@@ -259,7 +260,8 @@ in supporting persons with disabilities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0005" rel="noopener noreferrer nofollow" target="_blank">Interacting and Working with Persons with Disabilities (Classroom)</a></strong>
+<p><strong>Interacting and Working with Persons with Disabilities</strong> 
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -277,7 +279,8 @@ skills to respond to them appropriately.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0006" rel="noopener noreferrer nofollow" target="_blank">Adapting Programmes for Persons with Disabilities (Classroom)</a></strong>
+<p><strong>Adapting Programmes for Persons with Disabilities</strong>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -296,7 +299,8 @@ the needs of persons of all abilities in the heart of the adaptation process.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0007" rel="noopener noreferrer nofollow" target="_blank">Working Collaboratively with Families: Understanding and Communicating with Families of Persons with Disabilities (Classroom)</a></strong>
+<p><strong>Working Collaboratively with Families: Understanding and Communicating with Families of Persons with Disabilities </strong>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -311,7 +315,8 @@ sources of support for parents of persons with disabilities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0008" rel="noopener noreferrer nofollow" target="_blank">Facilitating Communication, Language and Social Skills Development Using A Multi-modal Approach with AAC (Classroom)</a></strong>
+<p><strong>Facilitating Communication, Language and Social Skills Development Using a Multi-modal Approach with AAC</strong>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -326,7 +331,8 @@ and social skills for children and adolescents with disabilities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0009" rel="noopener noreferrer nofollow" target="_blank">Nurturing Healthy Sexual Development in Persons with Developmental Disabilities (Classroom)</a></strong>
+<p><strong>Nurturing Healthy Sexual Development in Persons with Developmental Disabilities </strong>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -342,7 +348,7 @@ the specific topics on human sexuality.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0010" rel="noopener noreferrer nofollow" target="_blank">Applying Basic Positive Behavioural Support Strategies to Meet Diverse Needs (Level 1) (Classroom)</a></strong>
+<p><strong>Applying Basic Positive Behavioural Support Strategies to Meet Diverse Needs (Level 1)<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -356,7 +362,7 @@ behaviour support for persons with diverse needs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0011" rel="noopener noreferrer nofollow" target="_blank">Applying Positive Behavioural Support Strategies for Persons with Complex Needs (Level 2) (Classroom)</a></strong>
+<p><strong>Applying Positive Behavioural Support Strategies for Persons with Complex Needs (Level 2)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -371,7 +377,7 @@ positive behavioural support strategies and interventions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0019" rel="noopener noreferrer nofollow" target="_blank">Intellectual Disability: Person-Centred Lifespan Support (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Intellectual Disability: Person-Centred Lifespan Support</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -386,7 +392,7 @@ for persons with intellectual disability across life span.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0033" rel="noopener noreferrer nofollow" target="_blank">Enhancing work outcome together for Person with Mild Intellectual Disability (MID) (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Enhancing work outcome together for Person with Mild Intellectual Disability (MID)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -401,7 +407,7 @@ Mild Intellectual Disability (MID).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0090" rel="noopener noreferrer nofollow" target="_blank">Applying Strategies for Engaging and Teaching Persons with Learning Disabilities</a></strong>
+<p><strong>Applying Strategies for Engaging and Teaching Persons with Learning Disabilities</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -418,7 +424,7 @@ living.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0092" rel="noopener noreferrer nofollow" target="_blank">Interpreting Quality of Life for Persons with Disabilities</a></strong>
+<p><strong>Interpreting Quality of Life for Persons with Disabilities</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -435,7 +441,7 @@ of life of persons with disabilities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0093" rel="noopener noreferrer nofollow" target="_blank">Interpreting Disability in Social Work Practice</a></strong>
+<p><strong>Interpreting Disability in Social Work Practice</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -452,7 +458,7 @@ with persons with disabilities.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Eldercare Courses</strong></h4>
+<h3><strong>Eldercare Courses</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -462,19 +468,21 @@ with persons with disabilities.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Course Title</p>
+<p><strong>Course Title</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Course Description</p>
+<p><strong>Course Description</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>SSA Agency</p>
+<p><strong>SSA Agency</strong>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0012" rel="noopener noreferrer nofollow" target="_blank">A Spotlight on Dementia (Classroom and Asynchronous E-learning)</a></strong>
-<br><em>TGS-2023019206</em>
+<p><strong>A Spotlight on Dementia</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -489,7 +497,7 @@ a Dementia Friendly environment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0013" rel="noopener noreferrer nofollow" target="_blank">A Spotlight on the Palliative Care Approach (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>A Spotlight on the Palliative Care Approach</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -505,7 +513,7 @@ available for Palliative Care.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0014" rel="noopener noreferrer nofollow" target="_blank">Dementia: The Essentials of Person-Centred Care (Basic Level) (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Dementia: The Essentials of Person-Centred Care (Basic Level)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -519,7 +527,7 @@ and attributes to provide quality care to persons living with Dementia.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0015" rel="noopener noreferrer nofollow" target="_blank">The Palliative Care Approach (Basic Level) (Classroom and Asynchronous E-learning</a></strong>
+<p><strong>The Palliative Care Approach (Basic Level)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -533,7 +541,7 @@ and attributes to deliver care using the Palliative Care Approach.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0016" rel="noopener noreferrer nofollow" target="_blank">Dementia: Practising Person-Centred Care (Intermediate Level) (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Dementia: Practising Person-Centred Care (Intermediate Level)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -548,7 +556,7 @@ Dementia.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0017" rel="noopener noreferrer nofollow" target="_blank">Leadership and Management for Dementia Care Services (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Leadership and Management for Dementia Care Services</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -565,7 +573,7 @@ motivation of employees and conflict management.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0018" rel="noopener noreferrer nofollow" target="_blank">Leadership and Management for Community Care Services (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Leadership and Management for Community Care Services</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -582,7 +590,7 @@ motivation of employees and conflict management.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Family Courses</strong></h4>
+<h3><strong>Family Courses</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -603,7 +611,7 @@ motivation of employees and conflict management.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0022" rel="noopener noreferrer nofollow" target="_blank">Working with Conflictual Couples (Classroom and Synchronous E-learning)</a></strong>
+<p><strong>Working with Conflictual Couples</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -618,7 +626,7 @@ their marital relationships.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0023" rel="noopener noreferrer nofollow" target="_blank">Engaging Victims of Intimate Partner Violence (Classroom and Synchronous E-learning)</a></strong>
+<p><strong>Engaging Victims of Intimate Partner Violence</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -633,7 +641,7 @@ to engage and empower the victims to bring about changes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0026" rel="noopener noreferrer nofollow" target="_blank">Strengthen Family Relationships using the Satir Model (Classroom and Synchronous E-learning)</a></strong>
+<p><strong>Strengthen Family Relationships using the Satir Model</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -648,7 +656,7 @@ members, thereby strengthen the relationships in the family.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Mental Health &amp; Wellness Courses</strong></h4>
+<h3><strong>Mental Health &amp; Wellness Courses</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -669,7 +677,7 @@ members, thereby strengthen the relationships in the family.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0109" rel="noopener noreferrer nofollow" target="_blank">Suicide Intervention Skills Workshop (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Suicide Intervention Skills Workshop</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -678,13 +686,13 @@ of suicide as well as evidence-based intervention skills to assess suicide
 risk and manage suicide crisis.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sos.org.sg/outreach/training" rel="noopener noreferrer nofollow" target="_blank">Samaritans of Singapore (SOS</a>
+<p><a href="https://www.sos.org.sg/support-those-in-distress/professional-training/" rel="noopener nofollow" target="_blank">Samaritans of Singapore (SOS )</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0028" rel="noopener noreferrer nofollow" target="_blank">Providing Emotional Support to Persons with Potential Suicidality (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Providing Emotional Support to Persons with Potential Suicidality</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -693,13 +701,13 @@ persons with suicidality at work, during volunteering or in their personal
 life.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sos.org.sg/outreach/training" rel="noopener noreferrer nofollow" target="_blank">Samaritans of Singapore (SOS)</a>
+<p><a href="https://www.sos.org.sg/support-those-in-distress/professional-training/" rel="noopener nofollow" target="_blank">Samaritans of Singapore (SOS )</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0029" rel="noopener noreferrer nofollow" target="_blank">Managing Suicide Crisis Over Phone (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Managing Suicide Crisis Over Phone</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -708,27 +716,28 @@ to recognize and manage suicide crisis over the helpline or regular calls
 with clients.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sos.org.sg/outreach/training" rel="noopener noreferrer nofollow" target="_blank">Samaritans of Singapore (SOS)</a>
+<p><a href="https://www.sos.org.sg/support-those-in-distress/professional-training/" rel="noopener nofollow" target="_blank">Samaritans of Singapore (SOS )</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0030" rel="noopener noreferrer nofollow" target="_blank">Managing Suicide Crisis Over Text-based Platforms (Synchronous and Asynchronous E-learning)</a></strong>
+<p><strong>Managing Suicide Crisis Over Text-based Platforms</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>This course/module aims to equip learners with the knowledge and skills
 to recognize and manage suicide crisis over text-based platforms.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sos.org.sg/outreach/training" rel="noopener noreferrer nofollow" target="_blank">Samaritans of Singapore (SOS)</a>
+<p><a href="https://www.sos.org.sg/support-those-in-distress/professional-training/" rel="noopener nofollow" target="_blank">Samaritans of Singapore (SOS )</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0075" rel="noopener noreferrer nofollow" target="_blank">Suicide Loss: post-crisis management (Level 1) (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Suicide Loss: post-crisis management (Level 1)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -736,13 +745,13 @@ to recognize and manage suicide crisis over text-based platforms.</p>
 necessary to provide post-crisis support following a suicide loss.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sos.org.sg/outreach/training" rel="noopener noreferrer nofollow" target="_blank">Samaritans of Singapore (SOS)</a>
+<p><a href="https://www.sos.org.sg/support-those-in-distress/professional-training/" rel="noopener nofollow" target="_blank">Samaritans of Singapore (SOS )</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0084" rel="noopener noreferrer nofollow" target="_blank">Suicide Loss: post-crisis management (Level 2) (Classroom and Asynchronous E-learning</a></strong>
+<p><strong>Suicide Loss: post-crisis management (Level 2)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -751,13 +760,13 @@ necessary to provide longer term psychological interventions to support
 the grief and healing journey of suicide survivors.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sos.org.sg/outreach/training" rel="noopener noreferrer nofollow" target="_blank">Samaritans of Singapore (SOS)</a>
+<p><a href="https://www.sos.org.sg/support-those-in-distress/professional-training/" rel="noopener nofollow" target="_blank">Samaritans of Singapore (SOS )</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Research &amp; Programme Evaluation Courses</strong></h4>
+<h3><strong>Research &amp; Programme Evaluation Courses</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -778,8 +787,7 @@ the grief and healing journey of suicide survivors.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0077" rel="noopener noreferrer nofollow" target="_blank">Applying Theory of Change and Logic Model in Programme Planning (Classroom and Asynchronous E-learning)</a></strong>
-<br><em>TGS-2023019733</em>
+<p><strong>Applying Theory of Change and Logic Model in Programme Planning</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -795,7 +803,7 @@ the usefulness of these methods throughout programme lifespan.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0024" rel="noopener noreferrer nofollow" target="_blank">Programme Theory of Change and Logic Model: Uncovering the Blackbox of Social Programmes (Classroom and Synchronous E-learning)</a></strong>
+<p><strong>Programme Theory of Change and Logic Model: Uncovering the Blackbox of Social Programmes</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -810,7 +818,7 @@ any social programme development and evaluation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0025" rel="noopener noreferrer nofollow" target="_blank">Application of Mixed Methods Research in Social Service (Synchronous and Asynchronous E-learning)</a></strong>
+<p><strong>Application of Mixed Methods Research in Social Service</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -828,7 +836,7 @@ and post-programme/service evaluation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0094" rel="noopener noreferrer nofollow" target="_blank">Conducting Effective Programme Evaluation for SSAs (Classroom, Synchronous &amp; Asynchronous E-learning)</a></strong>
+<p><strong>Conducting Effective Programme Evaluation for SSAs</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -847,7 +855,7 @@ professional research.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Cross Sector Courses</strong></h4>
+<h3><strong>Cross Sector Courses</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -868,8 +876,7 @@ professional research.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0103" rel="noopener noreferrer nofollow" target="_blank">Basic Therapeutic Skills (Classroom and Asynchronous) </a></strong>
-<br><em>TGS-2023036063</em>
+<p><strong>Basic Therapeutic Skills</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -886,7 +893,7 @@ PADI problem-solving approach.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0097" rel="noopener noreferrer nofollow" target="_blank">Strategies on caring for Children with Mild Intellectual Disability (MID) (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Strategies on caring for Children with Mild Intellectual Disability (MID)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -902,7 +909,7 @@ conflicts within the family.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0089" rel="noopener noreferrer nofollow" target="_blank">Facilitate Group Work Intervention</a></strong>
+<p><strong>Facilitate Group Work Intervention</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -917,7 +924,7 @@ group work facilitation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0082" rel="noopener noreferrer nofollow" target="_blank">Onboarding for New Social Service Supervisors (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Onboarding for New Social Service Supervisors</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -933,7 +940,7 @@ how to conduct supervision.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0079" rel="noopener noreferrer nofollow" target="_blank">Supporting the mental well-being of adolescents with intellectual disability (ID) (Classroom and Asynchronous E-learning)</a></strong>
+<p><strong>Supporting the mental well-being of adolescents with intellectual disability (ID)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -947,7 +954,7 @@ well-being of adolescents with ID.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0020" rel="noopener noreferrer nofollow" target="_blank">Solution-Focused Brief Therapy Practice (Classroom and Synchronous E-learning)</a></strong>
+<p><strong>Solution-Focused Brief Therapy Practice</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -961,7 +968,7 @@ solution focused brief therapy practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0021" rel="noopener noreferrer nofollow" target="_blank">Practical Counselling (Intermediate) (Classroom and Synchronous E-learning)</a></strong>
+<p><strong>Practical Counselling (Intermediate)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -976,7 +983,7 @@ and counselling to have a more complete understanding in counselling.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Volunteer Management Courses</strong></h4>
+<h3><strong>Volunteer Management Courses</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -997,8 +1004,7 @@ and counselling to have a more complete understanding in counselling.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0074" rel="noopener noreferrer nofollow" target="_blank">Strategic Volunteer Partnerships for Impact (Classroom)</a></strong>
-<br>
+<p><strong>Strategic Volunteer Partnerships for Impact</strong><em><br></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1013,8 +1019,7 @@ volunteer partnerships.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SSI0080" rel="noopener noreferrer nofollow" target="_blank">Support the Implementation of Volunteer Programmes (Classroom and Asynchronous E-learning)</a></strong>
-<br><em>- TGS-2023022331</em>
+<p><strong>Support the Implementation of Volunteer Programmes</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1023,7 +1028,7 @@ to implement volunteer programmes and manage conflicts according to organization
 policies and code of practice.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sos.org.sg/outreach/training" rel="noopener noreferrer nofollow" target="_blank">Samaritans of Singapore (SOS)</a>
+<p><a href="https://www.sos.org.sg/support-those-in-distress/professional-training/" rel="noopener nofollow" target="_blank">Samaritans of Singapore (SOS)</a>
 </p>
 </td>
 </tr>
