@@ -7,7 +7,7 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: We’re making it easier for you to connect with us through our new
   NCSS Consolidated Hotline at 6210 2500.<br><br>  iLTMS is undergoing
-  maintenance from <strong>22:00 on 13 March 2025 to 07:00 on 15 March
+  maintenance from <strong>22:00 on 20 March 2025 to 07:00 on 21 March
   2025</strong>. You may experience downtime during this <a target="_blank"
   href="https://www.ssi.gov.sg/maintenance-schedule">maintenance period</a>.
 sections:
