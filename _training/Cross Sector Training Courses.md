@@ -23,7 +23,7 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
-<p>Understanding the Social Service Sector
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCET6-M" rel="noopener nofollow" target="_blank">Understanding the Social Service Sector</a>
 <br>Register by 24 April 2025</p>
 </li>
 <li>
@@ -50,7 +50,7 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5141" rel="noopener noreferrer nofollow" target="_blank">Cognitive Behaviour Therapy: Introduction</a> 
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5141" rel="noopener noreferrer nofollow" target="_blank">Cognitive Behaviour Therapy: Introduction</a>
 </p>
 </li>
 <li>
