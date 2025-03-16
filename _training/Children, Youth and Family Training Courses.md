@@ -12,16 +12,32 @@ variant: tiptap
 <h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5936" rel="noopener noreferrer nofollow" target="_blank">Family and Adult Support Tool (FAST) - User </a><em>- TGS-2020500870</em>
+<br>Register by 8 May 2025</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5858" rel="noopener nofollow" target="_blank">Certified User for Youth Level of Service/Case Management Inventory (YLS/CMI)</a> - <em>TGS2020500744</em>
-<br>Register by 1 April 2025</p>
+<br>Register by 2 June 2025</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0126" rel="noopener nofollow" target="_blank">Counselling Guidelines Training: Working with Youth with Sexual Orientation and Gender Issues</a>
-<br>Register by 14 April 2025</p>
+<br>Register by 2 June 2025</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5936" rel="noopener noreferrer nofollow" target="_blank">Family and Adult Support Tool (FAST) - User </a><em>- TGS-2020500870</em>
-<br>Register by 8 May 2025</p>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0151" rel="noopener nofollow" target="_blank">Ethical Considerations when Interacting with Children</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0152" rel="noopener nofollow" target="_blank">Ethical Considerations when Interacting with Youth</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0160" rel="noopener nofollow" target="_blank">Inhale Insights: Understanding Youth Vaping</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0154" rel="noopener nofollow" target="_blank">Legislation Relating To Children &amp; Young Persons</a>
+</p>
 </li>
 </ul>
 <h3>Complimentary e-Learning Courses</h3>
