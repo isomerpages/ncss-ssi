@@ -34,6 +34,14 @@ youth, adults and seniors.</p>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS30" rel="noopener noreferrer nofollow" target="_blank">Engage Stakeholders Effectively</a>
 <br>Register by 5 June 2025</p>
 </li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5725" rel="noopener nofollow" target="_blank">Motivational Interviewing: An Introduction for Social Service Practitioners (Classroom &amp; Asynchronous)</a>
+<br>Register by 23 June 2025</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0147" rel="noopener nofollow" target="_blank">Using Sector Evaluation Framework (SEF) in Articulating Programme Outcomes</a>
+</p>
+</li>
 </ul>
 <h3><strong>Other Featured Short Courses in Befriending, Case Management, Counselling and more</strong></h3>
 <ul data-tight="true" class="tight">
