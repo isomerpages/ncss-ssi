@@ -21,10 +21,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.dpi-asia.com/post/strategy-alignment-and-execution" rel="noopener nofollow" target="_blank">Strategy Alignment and Execution - Decision Processes International Asia </a>
-<br>Register by 10 March 2025</p>
-</li>
-<li>
 <p><a href="https://www.dpi-asia.com/post/strategic-human-thinking-in-the-age-of-ai" rel="noopener nofollow" target="_blank">Strategy Formulation - Decision Processes International Asia </a>
 <br>Register by 19 March 2025</p>
 </li>
@@ -115,11 +111,15 @@ latest updates.</p>
 </p>
 </li>
 <li>
+<p><a href="https://www.dpi-asia.com/post/strategy-alignment-and-execution" rel="noopener nofollow" target="_blank">Strategy Alignment and Execution - Decision Processes International Asia </a>
+</p>
+</li>
+<li>
 <p><a href="https://www.dpi-asia.com/post/strategic-human-thinking-in-the-age-of-ai" rel="noopener nofollow" target="_blank">Strategy Formulation - Decision Processes International Asia</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.dpi-asia.com/post/is-your-strategy-still-right" rel="noopener nofollow" target="_blank">Strategy Review - Decision Processes International Asia </a>
+<p><a href="https://www.dpi-asia.com/post/is-your-strategy-still-right" rel="noopener nofollow" target="_blank">Strategy Review - Decision Processes International Asia</a>
 </p>
 </li>
 </ul>
