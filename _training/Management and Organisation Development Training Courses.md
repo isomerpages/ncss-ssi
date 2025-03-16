@@ -115,10 +115,12 @@ latest updates.</p>
 </p>
 </li>
 <li>
-<p>Strategy Review by Decision Processes International Asia</p>
+<p><a href="https://www.dpi-asia.com/post/strategic-human-thinking-in-the-age-of-ai" rel="noopener nofollow" target="_blank">Strategy Formulation - Decision Processes International Asia</a>
+</p>
 </li>
 <li>
-<p>Strategy Formulation by Decision Processes International Asia</p>
+<p><a href="https://www.dpi-asia.com/post/is-your-strategy-still-right" rel="noopener nofollow" target="_blank">Strategy Review - Decision Processes International Asia </a>
+</p>
 </li>
 </ul>
 <p>Search for more Management and Organisation Development courses on our
