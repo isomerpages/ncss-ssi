@@ -67,11 +67,11 @@ have requested for more support on.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0162" rel="noopener nofollow" target="_blank">Understanding Singapore's Social Compact and Social Policies </a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0162" rel="noopener nofollow" target="_blank">Understanding Singapore's Social Compact and Social Policies</a>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0147" rel="noopener nofollow" target="_blank">Using Sector Evaluation Framework (SEF) in Articulating Programme Outcomes </a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0147" rel="noopener nofollow" target="_blank">Using Sector Evaluation Framework (SEF) in Articulating Programme Outcomes</a>
 </p>
 </li>
 </ol>
