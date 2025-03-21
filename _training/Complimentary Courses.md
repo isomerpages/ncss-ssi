@@ -67,6 +67,10 @@ have requested for more support on.</p>
 </p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0110" rel="noopener nofollow" target="_blank">Learning to Write a Funding Proposal</a>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0162" rel="noopener nofollow" target="_blank">Understanding Singapore's Social Compact and Social Policies</a>
 </p>
 </li>
