@@ -23,7 +23,7 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
-<p>Understanding the Social Service Sector
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCET6-M" rel="noopener nofollow" target="_blank">Understanding the Social Service Sector</a>
 <br>Register by 24 April 2025</p>
 </li>
 <li>
@@ -33,6 +33,14 @@ youth, adults and seniors.</p>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS30" rel="noopener noreferrer nofollow" target="_blank">Engage Stakeholders Effectively</a>
 <br>Register by 5 June 2025</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5725" rel="noopener nofollow" target="_blank">Motivational Interviewing: An Introduction for Social Service Practitioners (Classroom &amp; Asynchronous)</a>
+<br>Register by 23 June 2025</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0147" rel="noopener nofollow" target="_blank">Using Sector Evaluation Framework (SEF) in Articulating Programme Outcomes</a>
+</p>
 </li>
 </ul>
 <h3><strong>Other Featured Short Courses in Befriending, Case Management, Counselling and more</strong></h3>
@@ -50,7 +58,7 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5141" rel="noopener noreferrer nofollow" target="_blank">Cognitive Behaviour Therapy: Introduction</a> 
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5141" rel="noopener noreferrer nofollow" target="_blank">Cognitive Behaviour Therapy: Introduction</a>
 </p>
 </li>
 <li>

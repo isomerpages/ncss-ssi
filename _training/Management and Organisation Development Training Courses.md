@@ -21,15 +21,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.dpi-asia.com/post/strategy-alignment-and-execution" rel="noopener nofollow" target="_blank">Strategy Alignment and Execution - Decision Processes International Asia </a>
-<br>Register by 10 March 2025</p>
-</li>
-<li>
-<p>Strategy Formulation - Decision Processes International Asia - <strong><em>Coming soon!</em></strong>
+<p><a href="https://www.dpi-asia.com/post/strategic-human-thinking-in-the-age-of-ai" rel="noopener nofollow" target="_blank">Strategy Formulation - Decision Processes International Asia </a>
 <br>Register by 19 March 2025</p>
 </li>
 <li>
-<p>Strategy Review - Decision Processes International Asia&nbsp;- <strong><em>Coming soon!</em></strong>
+<p><a href="https://www.dpi-asia.com/post/is-your-strategy-still-right" rel="noopener nofollow" target="_blank">Strategy Review - Decision Processes International Asia </a>
 <br>Register by 16 April 2025
 <br>
 <br>Subscribe to our <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">mailing list</a> for
@@ -115,10 +111,16 @@ latest updates.</p>
 </p>
 </li>
 <li>
-<p>Strategy Review by Decision Processes International Asia</p>
+<p><a href="https://www.dpi-asia.com/post/strategy-alignment-and-execution" rel="noopener nofollow" target="_blank">Strategy Alignment and Execution - Decision Processes International Asia </a>
+</p>
 </li>
 <li>
-<p>Strategy Formulation by Decision Processes International Asia</p>
+<p><a href="https://www.dpi-asia.com/post/strategic-human-thinking-in-the-age-of-ai" rel="noopener nofollow" target="_blank">Strategy Formulation - Decision Processes International Asia</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.dpi-asia.com/post/is-your-strategy-still-right" rel="noopener nofollow" target="_blank">Strategy Review - Decision Processes International Asia</a>
+</p>
 </li>
 </ul>
 <p>Search for more Management and Organisation Development courses on our
