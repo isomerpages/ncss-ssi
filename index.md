@@ -54,13 +54,13 @@ sections:
       button: Donate Now
       url: https://go.gov.sg/ssi-cfc
       image: /images/homepage/cfc.png
-      alt: Change for Charity
+      alt: Change for Charity text logo
   - infopic:
       title: Refreshed 4ST (2022-2026)
       subtitle: Roadmap for the Sector
       button: Find out more about 4ST
       url: https://www.ncss.gov.sg/research-and-insights/social-service-sector-strategic-roadmap-4st
-      alt: Refreshed 4ST (2022-2026)
+      alt: Banner of 4ST Roadmap brand
       image: /images/homepage/NCSS_SSSR_2022_2026_banner_1145x395.jpg
       description: Learn more about how the new recommendations put forth by the
         refreshed Social Service Sector Strategic Thrusts (4ST) can empower our
@@ -73,8 +73,7 @@ sections:
       button: Explore Partnerships
       url: /about-us/our-partners/
       image: /images/homepage/our-partners.jpg
-      alt: Social Service Institute SSI Singapore - Partnerships with SSAs, NPOs, IHLs
-        & Private Training Organisations
+      alt: People present/receive a cert
   - infopic:
       title: Our Stories
       description: Hear from our learners whose lives have been transformed through
@@ -82,7 +81,7 @@ sections:
       button: Read our stories
       url: /stories/
       image: /images/homepage/our_Stories.jpg
-      alt: SSI - Our Stories
+      alt: Two women conversing
   - infopic:
       title: Join Our Mailing Lists
       description: Receive the latest learning and development updates from SSI by
@@ -90,8 +89,7 @@ sections:
       button: Sign Up Here
       url: /about-us/mailing-list/
       image: images/homepage/mailing-list.jpg
-      alt: Social Service Institute SSI Singapore - Mailing List, Newsletter
-        Suscription
+      alt: Hands tap phone to send email
   - resources:
       title: Be in the know
       subtitle: Media
