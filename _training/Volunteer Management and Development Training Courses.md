@@ -76,28 +76,29 @@ Sports Council (SSC) and the National Arts Council (NAC). Moy Yin is also
 the co-founder and vice president of Managing &amp; Organising Volunteer
 Efforts (MOVE), which isthe national professional body for volunteer programme
 managers.</p>
-<h3><strong>Learning &amp; Development Roadmap for Volunteer Management Practitioners</strong></h3>
-<p>Volunteer Management Practitioners (VMPs) are key enablers in engaging
-volunteers to augment the manpower capabilities of Social Service Agencies
-(SSAs). To play this vital role and prepare VMPs for the emerging trends
-in the social service sector’s transformation, NCSS developed the <a href="https://go.gov.sg/ldrpublication" rel="noopener nofollow" target="_blank">Learning &amp; Development Roadmap (LDR)</a> in
+<h3><strong>Learning &amp; Development Roadmap for Volunteer Managers</strong></h3>
+<p>Volunteer managers are key enablers in engaging volunteers to augment
+the manpower capabilities of Social Service Agencies (SSAs). To play this
+vital role and prepare VMPs for the emerging trends in the social service
+sector’s transformation, NCSS developed the <a href="https://go.gov.sg/ldrpublication" rel="noopener nofollow" target="_blank">Learning &amp; Development Roadmap (LDR)</a> in
 consultation with the sector and endorsed by senior management of SSAs,
 to uplift the capabilities and increase ownership in the professional development
-of VMPs.</p>
+of volunteer managers.</p>
 <p>The LDR provides guidance on the skills and competencies required to perform
 effectively and optimise volunteer resources in meeting the needs of service
 users. It shows potential development pathways and learning opportunities
-as VMPs plan towards the longer-term goal of serving and growing with the
-sector. Besides VMPs, SSAs’ management and human resource practitioners
-may also use the LDR as a guide to recruit and develop their VMPs.</p>
+as volunteer managers plan towards the longer-term goal of serving and
+growing with the sector. Besides volunteer managers, SSAs’ management and
+human resource practitioners may also use the LDR as a guide to recruit
+and develop their volunteer managers.</p><a class="isomer-image-wrapper" href="https://go.gov.sg/ldrpublication"><img style="width: 100%" height="auto" width="100%" alt="Mr Christian Chao" src="/images/training/volunteer/Mr_Christian_Chao.jpg"></a>
 <a class="isomer-image-wrapper" href="https://go.gov.sg/ldrpublication">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Christian Chao" src="/images/training/volunteer/Mr_Christian_Chao.jpg">
-</a><a class="isomer-image-wrapper" href="https://go.gov.sg/ldrpublication"><img style="width: 100%" height="auto" width="100%" alt="Prof Teng Su Ching" src="/images/training/volunteer/Prof_Teng_Su_Ching.jpg"></a>
+<img style="width: 100%" height="auto" width="100%" alt="Prof Teng Su Ching" src="/images/training/volunteer/Prof_Teng_Su_Ching.jpg">
+</a>
 <h3>LDR Self-assessment Tool</h3>
-<p>The accompanying Self-assessment Tool (SAT) to the LDR helps VMPs to identify
-their proficiency gaps and relevant training courses (including Social
-Service Institutes’ (SSI) courses), to further strengthen their capabilities
-so as to perform effectively in their roles.</p>
+<p>The accompanying Self-assessment Tool (SAT) to the LDR helps volunteer
+managers to identify their proficiency gaps and relevant training courses
+(including Social Service Institutes’ (SSI) courses), to further strengthen
+their capabilities so as to perform effectively in their roles.</p>
 <p>Complete the <a href="https://go.gov.sg/ncssvro-ldrsat" rel="noopener noreferrer nofollow" target="_blank">Digital Self-Assessment Tool</a> and
 receive a personalised report!</p>
 <h3><strong>NCSS Volunteer Management Community</strong></h3>
