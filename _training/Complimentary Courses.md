@@ -108,16 +108,14 @@ have requested for more support on.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0167" rel="noopener nofollow" target="_blank">Volunteer Continuity Planning</a>
-</p>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0167" rel="noopener nofollow" target="_blank">Volunteer Continuity Planning </a>(New!)</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0125" rel="noopener nofollow" target="_blank">Volunteer Management 101</a>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0178" rel="noopener nofollow" target="_blank">Volunteer Role Redesign</a>
-</p>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0178" rel="noopener nofollow" target="_blank">Volunteer Role Redesign </a>(New!)</p>
 </li>
 </ol>
 <hr>
