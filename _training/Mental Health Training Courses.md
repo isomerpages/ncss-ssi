@@ -6,7 +6,7 @@ description: SSI's mental health courses provides social service professionals
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Mental Health Conditions  Recovery Courses" src="/images/mental-health-banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="Person with mental health jumping with balloon against bright sky" src="/images/mental-health-banner.png">
 </div>
 <h3><strong>Mental Health Training Courses offered by SSI</strong></h3>
 <h4>Coming Soon!</h4>
