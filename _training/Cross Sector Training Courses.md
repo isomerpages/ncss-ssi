@@ -6,7 +6,7 @@ description: SSI’s cross sector courses provide an overview and understanding 
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Counselling, Motivational Interviewing  Behaviour Therapy Courses" src="/images/cross-sector-banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="A diverse group of social service workers with raised arms in celebration, with text 'Cross Sector'" src="/images/cross-sector-banner.png">
 </div>
 <h2><strong>Cross Sector Courses offered by SSI</strong></h2>
 <p>These courses provide a deeper understanding about each sub-sector, their
