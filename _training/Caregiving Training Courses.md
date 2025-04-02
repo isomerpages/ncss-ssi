@@ -6,7 +6,7 @@ description: SSI's caregiving courses provide learners with an understanding of
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Caregiver Training Courses" src="/images/caregiving-banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="Caregiver supporting person with mobility aid, Caregiving Courses" src="/images/caregiving-banner.png">
 </div>
 <h3><strong>Caregiving Training Courses offered by SSI</strong></h3>
 <p>Caregiving is a very demanding yet rewarding task. Being a caregiver requires
