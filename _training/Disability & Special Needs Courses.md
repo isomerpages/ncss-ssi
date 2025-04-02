@@ -6,7 +6,7 @@ description: SSI provides short courses, certificates, diploma and degree
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Disability Care / Special Needs Courses" src="/images/disability-banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="Social worker assisting a person with disability with daily task" src="/images/disability-banner.png">
 </div>
 <h3><strong>Disability Training Courses offered by SSI</strong></h3>
 <h4><strong>Certificate Programmes</strong></h4>
