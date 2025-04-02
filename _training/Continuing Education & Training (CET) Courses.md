@@ -7,7 +7,7 @@ description: SSI offers Continuing Education and Training (CET) programmes to
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Continuing Education  Training (CET) Courses" src="/images/cet-programmes-banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="An open palm with books floating above it with text Continuing Education and Training Programmes" src="/images/cet-programmes-banner.png">
 </div>
 <p>SSI offers a suite of Continuing Education and Training (CET) programmes
 which provide learners with certificate, diploma and degree based qualifications.</p>
