@@ -29,7 +29,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Continuing Education &amp; Training (CET) Courses" src="/images/training/cet-v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Books floating above a palm, suggesting the pursuit of learning through CET Programmes" src="/images/training/cet-v2.png">
 </div>
 <h4>Coming Soon!</h4>
 <p><a href="https://www.ssi.gov.sg/training/cet-programmes/" rel="noopener noreferrer nofollow" target="_blank">View other Continuing Education &amp; Training (CET) courses</a>
@@ -39,7 +39,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Counselling, Motivational Interviewing &amp; Behaviour Therapy Courses" src="https://www.ssi.gov.sg/images/training/cross-sector-v2.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Students cheering with raised fists with the text Cross Sector" src="https://www.ssi.gov.sg/images/training/cross-sector-v2.png">
 </div>
 <h4>Empowerment E-module</h4>
 <p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0170" rel="noopener nofollow" target="_blank">Registration is open throughout the year</a></strong>
@@ -52,7 +52,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Children, Youth &amp; Family" src="/images/training/cyf-v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Parents and their son playing on a beach, illustrating the Children, Youth &amp; Family" src="/images/training/cyf-v2.png">
 </div>
 <h4>Counselling Guidelines Training: Working with Youth with Sexual Orientation and Gender Issues</h4>
 <p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0126" rel="noopener nofollow" target="_blank">Register by 14 April 2025</a></strong>
@@ -64,7 +64,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Disability Care / Special Needs Courses" src="https://www.ssi.gov.sg/images/training/disability-v2.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="A social worker helping a person with disability" src="https://www.ssi.gov.sg/images/training/disability-v2.png">
 </div>
 <h4>Coming Soon!</h4>
 <p><a href="https://www.ssi.gov.sg/training/disability/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Disability courses</u></a>
@@ -74,7 +74,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Mental Health Conditions &amp; Recovery Courses" src="https://www.ssi.gov.sg/images/training/mental-health-v2.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="A person stands with raised arms facing the horizon with text Mental Health" src="https://www.ssi.gov.sg/images/training/mental-health-v2.png">
 </div>
 <h4>Coming Soon!</h4>
 <p></p>
@@ -85,7 +85,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Caring and communicating with dementia and senior persons courses" src="https://www.ssi.gov.sg/images/training/eldercare-v2.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="An elderly with their caregiver, with the text Eldercare" src="https://www.ssi.gov.sg/images/training/eldercare-v2.png">
 </div>
 <h4>Engaging Senior Learners – A Guide for Effective Interactions</h4>
 <p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0129" rel="noopener nofollow" target="_blank">Registration is open throughout the year</a></strong>
@@ -97,7 +97,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Board Development Courses" src="https://www.ssi.gov.sg/images/training/board-v2.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Senior management in a discussion with the text Board Development" src="https://www.ssi.gov.sg/images/training/board-v2.png">
 </div>
 <h4>Coming Soon!</h4>
 <p><a href="https://www.ssi.gov.sg/training/board-development/" rel="noopener noreferrer nofollow" target="\_blank"><u>View all Board Development courses</u></a>
@@ -107,7 +107,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Social Service / Nonprofit Leadership and Management Training Course" src="https://www.ssi.gov.sg/images/training/mod-v2.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Social service leaders in management and organisation development course" src="https://www.ssi.gov.sg/images/training/mod-v2.png">
 </div>
 <h4>Data &amp; AI Literacy e-Primer</h4>
 <p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0140" rel="noopener nofollow" target="_blank">Registration is open throughout the year</a></strong>
@@ -119,7 +119,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Equip volunteers with knowledge, develop volunteer management capabilities" src="/images/training/volunteer-v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Trainer teaching in volunteering management and development course" src="/images/training/volunteer-v2.png">
 </div>
 <h4>Volunteer Continuity Planning</h4>
 <p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0167" rel="noopener nofollow" target="_blank">Registration is open throughout the year</a></strong>
@@ -131,7 +131,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Caregiver Training Courses" src="/images/training/caregiving-v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Caregiver assisting the elderly with caregiving text" src="/images/training/caregiving-v2.png">
 </div>
 <h4>Preparatory Caregiver Training Programme</h4>
 <p><strong><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0002" rel="noopener noreferrer nofollow" target="_blank">Registration is open throughout the year</a></strong>
@@ -143,7 +143,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TNM 2.0, an initiative brought to you by SSI" src="/images/training/tnm-banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="A group of participants in the Training Network Model course" src="/images/training/tnm-banner.png">
 </div>
 <h4>Coming Soon!</h4>
 <p><a href="https://www.ssi.gov.sg/training/tnm-courses/" rel="noopener noreferrer nofollow" target="\_blank">View all TNM 2.0 courses</a>
