@@ -6,7 +6,7 @@ description: SSI provides courses that develop learners' competencies to
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Board Development Courses" src="/images/board-development-banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="Diverse group of professionals in a board meeting - Board Development Training" src="/images/board-development-banner.png">
 </div>
 <h3><strong>Board Development Courses offered by SSI</strong></h3>
 <p>Developed in partnership with the Singapore Institute of Directors (SID),

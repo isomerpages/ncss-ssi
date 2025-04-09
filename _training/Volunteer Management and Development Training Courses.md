@@ -5,7 +5,7 @@ description: SSI provides courses that both empower volunteers and volunteer man
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Volunteer Management  Development Courses: Equip volunteers with knowledge, develop volunteer management capabilities" src="/images/volunteer-banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="Volunteer managers engaged in group discussion during Volunteer Management Course" src="/images/volunteer-banner.png">
 </div>
 <h2><strong>Volunteer Management &amp; Development Courses offered by SSI</strong></h2>
 <h3>Registration Open Throughout the Year</h3>

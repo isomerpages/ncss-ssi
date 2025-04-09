@@ -6,7 +6,7 @@ description: SSI provides courses that train learners in management, leadership,
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Social Service / Nonprofit Leadership and Management Training Course" src="/images/mod-banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="Nonprofit leaders in a training session on Management and Organisation Development Course" src="/images/mod-banner.png">
 </div>
 <h2><strong>Management and Organisation Development Training Courses offered by SSI</strong></h2>
 <h3>Registration now open</h3>
@@ -111,7 +111,7 @@ latest updates.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.dpi-asia.com/post/strategy-alignment-and-execution" rel="noopener nofollow" target="_blank">Strategy Alignment and Execution - Decision Processes International Asia </a>
+<p><a href="https://www.dpi-asia.com/post/strategy-alignment-and-execution" rel="noopener nofollow" target="_blank">Strategy Alignment and Execution - Decision Processes International Asia</a>
 </p>
 </li>
 <li>

@@ -6,7 +6,7 @@ description: SSI’s children, youth and family courses provides learners with t
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Children  Youth Development, Family Therapy / Family Violence Courses: Equip volunteers with skills to work with children, youth and families." src="/images/cyf-banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="Hands holding paper family cutout of Children, Youth and Family" src="/images/cyf-banner.png">
 </div>
 <h2><strong>Children, Youth and Family Courses offered by SSI</strong></h2>
 <h3>Registration now open</h3>

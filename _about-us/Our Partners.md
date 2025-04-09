@@ -114,9 +114,9 @@ development opportunities in place to encourage AEs’ continuous professional
 growth, active engagements and interactions, and a providence of a quality
 feedback pool with SSI.</p>
 <h4><strong>Apply to be our Adult Educator</strong></h4>
-<p>If you’re interested to join us, kindly submit the&nbsp;<a href="https://form.gov.sg/#!/607935eee0b9d9001179a50d" rel="noopener noreferrer nofollow" target="_blank">application form</a>&nbsp;along
+<p>If you’re interested to join us, kindly submit the&nbsp;<a href="https://go.gov.sg/ae-application-form" rel="noopener noreferrer nofollow" target="_blank">application form</a>&nbsp;along
 with your documents (CV and credentials).</p>
-<p>Our annual recruitment drive for AEs will open for 2 windows; in <strong>April</strong> and <strong>October</strong>.
+<p>Our annual recruitment drive for AEs will open for 2 windows: in <strong>April</strong> and <strong>October</strong>.
 Each window will open for a month.</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -162,7 +162,7 @@ have a system in place to honour their efforts.</p>
 <p>Long Service Award</p>
 </li>
 </ul>
-<h4><strong>Growing Together to Impact As One</strong></h4>
+<h4><strong>Growing Together to Impact as One</strong></h4>
 <p>AE recognition is only a small fraction of what we do for our AEs. We
 also <strong>partner, nurture, engage, impact and journey with them</strong>.</p>
 <p>Read more about our various talent development schemes and initiatives,

@@ -164,7 +164,7 @@ rooms.
 </p>
 <h3>Photo Gallery</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Social Service Institute (SSI) Singapore - Events Venue Booking for NCSS Member Organisations and Government Agencies" src="/images/resources/meetings-events.png">
+<img style="width: 100%" height="auto" width="100%" alt="Training room with classroom setup available for Social Service Institute (SSI) Singapore Venue Booking" src="/images/resources/meetings-events.png">
 </div>
 <h3>Terms and Conditions</h3>
 <ul data-tight="true" class="tight">
