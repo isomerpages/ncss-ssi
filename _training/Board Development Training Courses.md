@@ -42,6 +42,9 @@ Board functions.</p>
 </ol>
 <p>For more information and to register for the programme, visit <a href="https://www.sid.org.sg/Web/Professional_Development/Courses/Essentials/SGOOD_Essentials.aspx" rel="noopener noreferrer nofollow" target="_blank">SID's Website</a>.
 <br>Alternatively, check out our <a href="/training/management-and-organisation-development/" rel="noopener noreferrer nofollow" target="_blank">Management and Organisational Development courses</a>.</p>
+<hr>
+<p></p>
+<hr>
 <h4><strong>Subscribe to Mailing List</strong></h4>
 <p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Board Development Mailing List</a> for
 latest updates!</p>
