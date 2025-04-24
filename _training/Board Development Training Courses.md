@@ -149,6 +149,7 @@ ESG, digital transformation and collaborative governance to drive lasting
 social impact.</p>
 </li>
 </ol>
+<hr>
 <h4><strong>Facilitated In-Person Learning Day</strong></h4>
 <p>Participants are required to attend one of the facilitated in-person learning
 days, held twice during the programme, which serves as a capstone experience
