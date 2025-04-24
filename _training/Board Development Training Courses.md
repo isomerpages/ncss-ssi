@@ -42,6 +42,14 @@ Board functions.</p>
 </ol>
 <p>For more information and to register for the programme, visit <a href="https://www.sid.org.sg/Web/Professional_Development/Courses/Essentials/SGOOD_Essentials.aspx" rel="noopener noreferrer nofollow" target="_blank">SID's Website</a>.
 <br>Alternatively, check out our <a href="/training/management-and-organisation-development/" rel="noopener noreferrer nofollow" target="_blank">Management and Organisational Development courses</a>.</p>
+<h4><strong>Register </strong></h4>
+<p><strong>Registration of Interest</strong>
+</p>
+<p><a href="https://abk8xx985jl.typeform.com/to/eJvJtpfq" rel="noopener nofollow" target="_blank">Register early interest</a> for
+the programme.</p>
+<p><strong>Course enquiries</strong>
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">learning@sid.org.sg</a> 
+<br>Tel: (65) 6422 1188</p>
 <hr>
 <h4><strong>FAQ</strong></h4>
 <ol data-tight="true" class="tight">
