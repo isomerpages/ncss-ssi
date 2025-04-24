@@ -43,6 +43,9 @@ Board functions.</p>
 <p>For more information and to register for the programme, visit <a href="https://www.sid.org.sg/Web/Professional_Development/Courses/Essentials/SGOOD_Essentials.aspx" rel="noopener noreferrer nofollow" target="_blank">SID's Website</a>.
 <br>Alternatively, check out our <a href="/training/management-and-organisation-development/" rel="noopener noreferrer nofollow" target="_blank">Management and Organisational Development courses</a>.</p>
 <p></p>
+<h4><strong>Programme Structure</strong></h4>
+<p></p>
+<hr>
 <h4><strong>e-Learning Modules</strong></h4>
 <p>The 10 e-Learning modules in the SGOOD programme (8 core modules plus
 introductory and capstone modules) address key governance challenges and
