@@ -45,6 +45,9 @@ Board functions.</p>
 <p></p>
 <h4><strong>Programme Structure</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Programme Structure" src="/images/training/Programme_Structure.jpg">
+</div>
 <hr>
 <h4><strong>e-Learning Modules</strong></h4>
 <p>The 10 e-Learning modules in the SGOOD programme (8 core modules plus
