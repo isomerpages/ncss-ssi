@@ -9,42 +9,37 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Diverse group of professionals in a board meeting - Board Development Training" src="/images/board-development-banner.png">
 </div>
 <h3><strong>Board Development Courses offered by SSI</strong></h3>
-<p>Developed in partnership with the Singapore Institute of Directors (SID),
-the Singapore Governance for Outstanding Organisation Directors Programme
-(S-GOOD), provides competencies to efficiently and effectively conduct
-Board functions.</p>
-<p>The programme includes eight modules, which includes:</p>
-<ol data-tight="true" class="tight">
+<h4><strong>Course Description </strong><em>(Refreshed!)</em></h4>
+<p>The Governance for Outstanding Organisation Directors (SGOOD) Programme,
+developed by the Singapore Institute of Directors in collaboration with
+the National Council of Social Service (NCSS), is designed to empower current
+and aspiring board members of nonprofit organisations (NPOs). The programme
+aims to provide a clear understanding of their roles and responsibilities
+while equipping them with the tools and insights to make values-driven,
+future-ready decisions that support long-term impact.</p>
+<hr>
+<h4><strong>Course Objectives</strong></h4>
+<ul data-tight="true" class="tight">
 <li>
-<p>Essentials of Non-profit Board Leadership</p>
+<p>Meet the unique learning needs of board members serving in NPOs.</p>
 </li>
 <li>
-<p>Board Dynamics</p>
+<p>Provide a comprehensive understanding of nonprofit governance – equip
+directors with the knowledge, strategies and best practices to drive effective
+leadership and organisational sustainability.</p>
 </li>
 <li>
-<p>Board and Management Dynamics</p>
+<p>Offer a practical and strategic approach to strengthening governance and
+enhancing the impact of NPOs.</p>
 </li>
-<li>
-<p>Talent and Volunteer Management</p>
-</li>
-<li>
-<p>Strategy and Board Performance</p>
-</li>
-<li>
-<p>Financial Management and Accountability</p>
-</li>
-<li>
-<p>Fundraising, Outreach and Advocacy</p>
-</li>
-<li>
-<p>Social Trends</p>
-</li>
-</ol>
-<p>For more information and to register for the programme, visit <a href="https://www.sid.org.sg/Web/Professional_Development/Courses/Essentials/SGOOD_Essentials.aspx" rel="noopener noreferrer nofollow" target="_blank">SID's Website</a>.
-<br>Alternatively, check out our <a href="/training/management-and-organisation-development/" rel="noopener noreferrer nofollow" target="_blank">Management and Organisational Development courses</a>.</p>
-<p></p>
+</ul>
+<p>SGOOD is part of the GovernWell: Excellence in Charity Leadership series
+planned by the Charity Council and Office of the Commissioner of Charities.</p>
+<hr>
+<h4><strong>Target Audience</strong></h4>
+<p>Aspiring, new and current directors, and senior management of NPOs.</p>
+<hr>
 <h4><strong>Programme Structure</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Programme Structure" src="/images/training/Programme_Structure.jpg">
 </div>
@@ -280,4 +275,4 @@ you are highly encouraged to attend the programme.</p>
 <hr>
 <h4><strong>Subscribe to Mailing List</strong></h4>
 <p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Board Development Mailing List</a> for
-latest updates!</p>
+latest updates</p>
