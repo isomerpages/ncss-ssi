@@ -40,7 +40,6 @@ planned by the Charity Council and Office of the Commissioner of Charities.</p>
 <p>Aspiring, new and current directors, and senior management of NPOs.</p>
 <hr>
 <h4><strong>Programme Structure</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Programme Structure" src="/images/training/Programme_Structure.jpg">
 </div>
