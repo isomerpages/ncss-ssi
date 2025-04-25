@@ -42,7 +42,7 @@ planned by the Charity Council and Office of the Commissioner of Charities.</p>
 <h4><strong>Programme Structure</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Programme Structure" src="/images/training/programme structure.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Programme Structure" src="/images/training/Programme_Structure.jpg">
 </div>
 <hr>
 <h4><strong>e-Learning Modules</strong></h4>
