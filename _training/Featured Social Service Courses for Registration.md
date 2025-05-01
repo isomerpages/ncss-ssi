@@ -43,8 +43,7 @@ variant: tiptap
 </div>
 <h4>Empowerment E-module</h4>
 <p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0170" rel="noopener nofollow" target="_blank">Registration is open throughout the year</a></strong>
-</p>
-<p><a href="https://www.ssi.gov.sg/training/cross-sector/" rel="noopener nofollow" target="_blank">View other Cross Sector courses</a>
+<br><a href="https://www.ssi.gov.sg/training/cross-sector/" rel="noopener nofollow" target="_blank">View other Cross Sector courses</a>
 </p>
 </td>
 </tr>
@@ -53,7 +52,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Parents and their son playing on a beach, illustrating the Children, Youth &amp; Family" src="/images/training/cyf-v2.png">
 </div>
-<h4>Management of Family Violence: Introduction </h4>
+<h4>Management of Family Violence: Introduction</h4>
 <p>TGS-2020500631
 <br><strong><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF197" rel="noopener nofollow" target="_blank">Register by 8 September 2025</a></strong>
 <br><a href="https://www.ssi.gov.sg/training/cyandf/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Children, Youth and Family courses</u></a>
@@ -101,8 +100,7 @@ variant: tiptap
 </div>
 <h4>Singapore Governance for Outstanding Organisation Directors (SGOOD)</h4>
 <p><strong><a href="https://www.ssi.gov.sg/training/board-development/" rel="noopener nofollow" target="_blank">Registration now open</a></strong>
-</p>
-<p><a href="https://www.ssi.gov.sg/training/board-development/" rel="noopener noreferrer nofollow" target="\_blank"><u>View all Board Development courses</u></a>
+<br><a href="https://www.ssi.gov.sg/training/board-development/" rel="noopener noreferrer nofollow" target="\_blank"><u>View all Board Development courses</u></a>
 </p>
 </td>
 </tr>
@@ -113,8 +111,7 @@ variant: tiptap
 </div>
 <h4>Data &amp; AI Literacy e-Primer</h4>
 <p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0140" rel="noopener nofollow" target="_blank">Registration is open throughout the year</a></strong>
-</p>
-<p><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Management and Organisation Development courses</u></a>
+<br><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Management and Organisation Development courses</u></a>
 </p>
 </td>
 </tr>
@@ -136,8 +133,7 @@ variant: tiptap
 </div>
 <h4>Preparatory Caregiver Training Programme</h4>
 <p><strong><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0002" rel="noopener noreferrer nofollow" target="_blank">Registration is open throughout the year</a></strong>
-</p>
-<p><a href="https://www.ssi.gov.sg/training/caregiving/" rel="noopener noreferrer nofollow" target="\_blank">View all Caregiving courses</a>
+<br><a href="https://www.ssi.gov.sg/training/caregiving/" rel="noopener noreferrer nofollow" target="\_blank">View all Caregiving courses</a>
 </p>
 </td>
 </tr>
