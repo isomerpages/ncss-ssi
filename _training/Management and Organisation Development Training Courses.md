@@ -10,7 +10,7 @@ variant: tiptap
 </div>
 <h2><strong>Management and Organisation Development Training Courses offered by SSI</strong></h2>
 <h3><strong>Registration now open</strong></h3>
-<h3>Complimentary e-learning Courses </h3>
+<h3>Complimentary e-learning Courses</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0140" rel="noopener nofollow" target="_blank">Data &amp; AI Literacy e-Primer</a>
@@ -55,7 +55,7 @@ latest updates.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFRE5103" rel="noopener noreferrer nofollow" target="_blank">Making $ense I: An Introduction to Fund Raising</a>
-</p>
+<br>Register by 8 May 2025</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFRE5766" rel="noopener nofollow" target="_blank">Making $ense II: Fund-Raising Strategy Development</a>
