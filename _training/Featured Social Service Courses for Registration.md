@@ -99,7 +99,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Senior management in a discussion with the text Board Development" src="https://www.ssi.gov.sg/images/training/board-v2.png">
 </div>
-<h4>Singapore Governance for Outstanding Organisation Directors (SGOOD) </h4>
+<h4>Singapore Governance for Outstanding Organisation Directors (SGOOD)</h4>
 <p>Registration now open</p>
 <p><a href="https://www.ssi.gov.sg/training/board-development/" rel="noopener noreferrer nofollow" target="\_blank"><u>View all Board Development courses</u></a>
 </p>
