@@ -9,7 +9,21 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Person with mental health jumping with balloon against bright sky" src="/images/mental-health-banner.png">
 </div>
 <h3><strong>Mental Health Training Courses offered by SSI</strong></h3>
-<h4>Coming Soon!</h4>
+<h3>Registration now open</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5936" rel="noopener noreferrer nofollow" target="_blank"><u>Family and Adult Support Tool (FAST) - User </u></a><em>- TGS-2020500870</em>
+<br>Register by 8 May 2025</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SMTH387" rel="noopener nofollow" target="_blank">Foundations of Psycho-Social Rehabilitation and Recovery</a>
+<br>Register by 16 July 2025</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS6109" rel="noopener nofollow" target="_blank">Skills-Based Psychiatric Rehabilitation (Classroom &amp; Asynchronous E-learning)</a> 
+<br>Register by 13 August 2025</p>
+</li>
+</ul>
 <p><a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe to our mailing list for latest updates.</u></a>
 </p>
 <h3><strong>Complimentary Featured Courses under the Agency for Integrated Care (AIC)</strong></h3>
