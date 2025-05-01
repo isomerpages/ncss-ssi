@@ -23,8 +23,12 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCET6-M" rel="noopener nofollow" target="_blank">Understanding the Social Service Sector</a>
-<br>Register by 24 April 2025</p>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0183" rel="noopener nofollow" target="_blank">Understanding Case Management: A Practical Guide </a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0147" rel="noopener nofollow" target="_blank">Using Sector Evaluation Framework (SEF) in Articulating Programme Outcomes</a>
+</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5228" rel="noopener nofollow" target="_blank">Case Management in Practice: Introduction</a> - <em>TGS-2020500648</em>
@@ -41,6 +45,14 @@ youth, adults and seniors.</p>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0147" rel="noopener nofollow" target="_blank">Using Sector Evaluation Framework (SEF) in Articulating Programme Outcomes</a>
 </p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0105" rel="noopener nofollow" target="_blank">Leading An Effective Case Management Team</a>
+<br>Register by 14 August 2025</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0100" rel="noopener nofollow" target="_blank">Inclusive Training Series: Understanding and Working with People in Diverse Groups</a>
+<br>Register by 13 August 2025</p>
 </li>
 </ul>
 <h3><strong>Other Featured Short Courses in Befriending, Case Management, Counselling and more</strong></h3>
@@ -90,11 +102,12 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0162" rel="noopener nofollow" target="_blank">Understanding Singapore’s Social Compact and Social Policies</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCET6-M" rel="noopener nofollow" target="_blank">Understanding the Social Service Sector</a>
 </p>
 </li>
 <li>
-<p>Understanding the Social Service Sector</p>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0162" rel="noopener nofollow" target="_blank">Understanding Singapore’s Social Compact and Social Policies</a>
+</p>
 </li>
 </ul>
 <h3><strong>Cross Sector Certificate/ Diploma/ Degree Programmes</strong></h3>
