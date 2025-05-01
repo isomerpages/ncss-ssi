@@ -12,16 +12,25 @@ variant: tiptap
 <h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5936" rel="noopener noreferrer nofollow" target="_blank">Family and Adult Support Tool (FAST) - User </a><em>- TGS-2020500870</em>
-<br>Register by 8 May 2025</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5858" rel="noopener nofollow" target="_blank">Certified User for Youth Level of Service/Case Management Inventory (YLS/CMI)</a> - <em>TGS2020500744</em>
 <br>Register by 2 June 2025</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0126" rel="noopener nofollow" target="_blank">Counselling Guidelines Training: Working with Youth with Sexual Orientation and Gender Issues</a>
 <br>Register by 2 June 2025</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5938" rel="noopener nofollow" target="_blank">Management of Family Violence: Supporting Clients in Their Trauma Recovery (Synchronous e-learning) </a>  <em>- TGS-2020500752</em>
+<br>Register by 28 July 2025</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5936" rel="noopener nofollow" target="_blank">Family &amp; Adult Support Tool (FAST) - User (Synchronous &amp; Asynchronous) </a>-
+TGS-2020500870
+<br>Register by 18 August 2025</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF197" rel="noopener noreferrer nofollow" target="_blank">Management of Family Violence: Introduction</a>  <em>- TGS-2020500631</em>
+<br>Register by 8 September 2025</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0151" rel="noopener nofollow" target="_blank">Ethical Considerations when Interacting with Children</a>
@@ -102,8 +111,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF197" rel="noopener noreferrer nofollow" target="_blank">Management of Family Violence: Introduction</a>  <em>- TGS-2020500631</em>
-</p>
+<p></p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0114" rel="noopener noreferrer nofollow" target="_blank">Management of Family Violence: Management of Elder Abuse and Neglect</a>
