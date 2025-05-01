@@ -27,6 +27,17 @@ variant: tiptap
 <br>Register for e-learning course.</p>
 </li>
 </ul>
+<h3>Registration now open</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0180" rel="noopener nofollow" target="_blank">What Makes Rehab Effective</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0186" rel="noopener nofollow" target="_blank">Substance Addiction and Recovery Journey</a>
+</p>
+</li>
+</ul>
 <h3><strong>Other Featured Volunteer Management and Development Courses</strong></h3>
 <h3>Volunteer Management Training Courses</h3>
 <ul data-tight="true" class="tight">
