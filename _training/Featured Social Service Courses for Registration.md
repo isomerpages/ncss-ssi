@@ -50,12 +50,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h3></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Parents and their son playing on a beach, illustrating the Children, Youth &amp; Family" src="/images/training/cyf-v2.png">
 </div>
-<p>Management of Family Violence: Introduction
-<br>TGS-2020500631
+<h4>Management of Family Violence: Introduction </h4>
+<p>TGS-2020500631
 <br><strong><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF197" rel="noopener nofollow" target="_blank">Register by 8 September 2025</a></strong>
 <br><a href="https://www.ssi.gov.sg/training/cyandf/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Children, Youth and Family courses</u></a>
 </p>
@@ -66,8 +65,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="A social worker helping a person with disability" src="https://www.ssi.gov.sg/images/training/disability-v2.png">
 </div>
-<h4>Coming Soon!</h4>
-<p><a href="https://www.ssi.gov.sg/training/disability/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Disability courses</u></a>
+<h4>Introduction to Care for Adults with Developmental Disabilities Presenting with Behavioural Problems and Mental Health Issues</h4>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0119" rel="noopener nofollow" target="_blank">Register by 23 July 2025</a></strong>
+<br><a href="https://www.ssi.gov.sg/training/disability/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Disability courses</u></a>
 </p>
 </td>
 </tr>
@@ -76,9 +76,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="A person stands with raised arms facing the horizon with text Mental Health" src="https://www.ssi.gov.sg/images/training/mental-health-v2.png">
 </div>
-<h4>Coming Soon!</h4>
+<h4>Skills-Based Psychiatric Rehabilitation (Classroom &amp; Asynchronous E-learning)</h4>
 <p></p>
-<p><a href="https://www.ssi.gov.sg/training/mental-health" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Mental Health courses</u></a>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS6109" rel="noopener nofollow" target="_blank">Register by 13 August 2025</a></strong>
+<br><a href="https://www.ssi.gov.sg/training/mental-health" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Mental Health courses</u></a>
 </p>
 </td>
 </tr>
@@ -89,8 +90,7 @@ variant: tiptap
 </div>
 <h4>Engaging Senior Learners – A Guide for Effective Interactions</h4>
 <p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0129" rel="noopener nofollow" target="_blank">Registration is open throughout the year</a></strong>
-</p>
-<p><a href="https://www.ssi.gov.sg/training/eldercare/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Eldercare courses</u></a>
+<br><a href="https://www.ssi.gov.sg/training/eldercare/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Eldercare courses</u></a>
 </p>
 </td>
 </tr>
@@ -100,7 +100,8 @@ variant: tiptap
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Senior management in a discussion with the text Board Development" src="https://www.ssi.gov.sg/images/training/board-v2.png">
 </div>
 <h4>Singapore Governance for Outstanding Organisation Directors (SGOOD)</h4>
-<p>Registration now open</p>
+<p><strong><a href="https://www.ssi.gov.sg/training/board-development/" rel="noopener nofollow" target="_blank">Registration now open</a></strong>
+</p>
 <p><a href="https://www.ssi.gov.sg/training/board-development/" rel="noopener noreferrer nofollow" target="\_blank"><u>View all Board Development courses</u></a>
 </p>
 </td>
@@ -124,8 +125,7 @@ variant: tiptap
 </div>
 <h4>What Makes Rehab Effective</h4>
 <p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0180" rel="noopener nofollow" target="_blank">Registration now open</a></strong>
-</p>
-<p><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" rel="noopener noreferrer nofollow" target="\_blank">View other Volunteering Management and Development courses</a>
+<br><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" rel="noopener noreferrer nofollow" target="\_blank">View other Volunteering Management and Development courses</a>
 </p>
 </td>
 </tr>
