@@ -12,6 +12,11 @@ variant: tiptap
 <h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5936" rel="noopener nofollow" target="_blank">Family &amp; Adult Support Tool (FAST) - User (Synchronous &amp; Asynchronous) </a>-
+TGS-2020500870
+<br>Register by 28 July 2025</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF482" rel="noopener nofollow" target="_blank">Apply Development Theories When Working with Children and Youths</a>
 <br>Register by 29 July 2025</p>
 </li>
@@ -20,17 +25,12 @@ variant: tiptap
 <br>Register by 29 July 2025</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0126" rel="noopener nofollow" target="_blank">Counselling Guidelines Training: Working with Youth with Sexual Orientation and Gender Issues</a>
-<br>Register by 4 August 2025</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5936" rel="noopener nofollow" target="_blank">Family &amp; Adult Support Tool (FAST) - User (Synchronous &amp; Asynchronous) </a>-
-TGS-2020500870
-<br>Register by 28 July 2025</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5938" rel="noopener nofollow" target="_blank">Management of Family Violence: Supporting Clients in Their Trauma Recovery (Synchronous e-learning) </a><em>- TGS-2020500752</em>
 <br>Register by 29 July 2025</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0126" rel="noopener nofollow" target="_blank">Counselling Guidelines Training: Working with Youth with Sexual Orientation and Gender Issues</a>
+<br>Register by 4 August 2025</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0159" rel="noopener nofollow" target="_blank">Structured Decision Making – Vulnerable Adult Reporting Guide</a>
