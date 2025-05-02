@@ -12,25 +12,33 @@ variant: tiptap
 <h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF482" rel="noopener nofollow" target="_blank">Apply Development Theories When Working with Children and Youths</a>
+<br>Register by 29 July 2025</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5858" rel="noopener nofollow" target="_blank">Certified User for Youth Level of Service/Case Management Inventory (YLS/CMI)</a> - <em>TGS2020500744</em>
-<br>Register by 2 June 2025</p>
+<br>Register by 29 July 2025</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0126" rel="noopener nofollow" target="_blank">Counselling Guidelines Training: Working with Youth with Sexual Orientation and Gender Issues</a>
-<br>Register by 2 June 2025</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5938" rel="noopener nofollow" target="_blank">Management of Family Violence: Supporting Clients in Their Trauma Recovery (Synchronous e-learning) </a><em>- TGS-2020500752</em>
-<br>Register by 28 July 2025</p>
+<br>Register by 4 August 2025</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5936" rel="noopener nofollow" target="_blank">Family &amp; Adult Support Tool (FAST) - User (Synchronous &amp; Asynchronous) </a>-
 TGS-2020500870
-<br>Register by 18 August 2025</p>
+<br>Register by 28 July 2025</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF197" rel="noopener noreferrer nofollow" target="_blank">Management of Family Violence: Introduction</a>  <em>- TGS-2020500631</em>
-<br>Register by 8 September 2025</p>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5938" rel="noopener nofollow" target="_blank">Management of Family Violence: Supporting Clients in Their Trauma Recovery (Synchronous e-learning) </a><em>- TGS-2020500752</em>
+<br>Register by 29 July 2025</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0159" rel="noopener nofollow" target="_blank">Structured Decision Making – Vulnerable Adult Reporting Guide</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0158" rel="noopener nofollow" target="_blank">Structured Decision Making – Vulnerable Adult Screening Guide</a>
+</p>
 </li>
 </ul>
 <h3>Complimentary e-Learning Courses</h3>
@@ -71,14 +79,6 @@ TGS-2020500870
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0150" rel="noopener nofollow" target="_blank">Podcast - Inhale Insight: Understanding Youth Vaping</a>
 </p>
 </li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0159" rel="noopener nofollow" target="_blank">Structured Decision Making – Vulnerable Adult Reporting Guide</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0158" rel="noopener nofollow" target="_blank">Structured Decision Making – Vulnerable Adult Screening Guide</a>
-</p>
-</li>
 </ul>
 <h3><strong>Other Featured Courses in Children and Youth Development, Youth Counselling and Family Therapy</strong></h3>
 <ul data-tight="true" class="tight">
@@ -103,7 +103,8 @@ TGS-2020500870
 </p>
 </li>
 <li>
-<p></p>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF197" rel="noopener noreferrer nofollow" target="_blank">Management of Family Violence: Introduction</a>  <em>- TGS-2020500631</em>
+</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0114" rel="noopener noreferrer nofollow" target="_blank">Management of Family Violence: Management of Elder Abuse and Neglect</a>
@@ -120,10 +121,6 @@ TGS-2020500870
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0115" rel="noopener nofollow" target="_blank">Management of Family Violence: Supervision of Staff in Family Violence Work</a>
 <br>Register by 13 February 2025</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5938" rel="noopener noreferrer nofollow" target="_blank">Management of Family Violence: Supporting Clients in Their Trauma Recovery (Synchronous e-learning)</a> - <em>TGS-2020500752</em>
-</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF305" rel="noopener noreferrer nofollow" target="_blank">Mentoring and Coaching Youths Effectively (Classroom &amp; Asynchronous)</a> - <em>TGS-2021009573</em>
