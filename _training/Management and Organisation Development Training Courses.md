@@ -10,6 +10,16 @@ variant: tiptap
 </div>
 <h2><strong>Management and Organisation Development Training Courses offered by SSI</strong></h2>
 <h3><strong>Registration now open</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener nofollow" target="_blank">Developing Effective Supervisory Skills</a>
+<br>Register by 21 July 2025</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT6014" rel="noopener nofollow" target="_blank">Teambuilding and Leadership Development</a>
+<br>Register by 31 July 2025</p>
+</li>
+</ul>
 <h3>Complimentary e-learning Courses</h3>
 <ul data-tight="true" class="tight">
 <li>
