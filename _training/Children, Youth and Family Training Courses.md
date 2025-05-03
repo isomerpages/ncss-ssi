@@ -12,31 +12,32 @@ variant: tiptap
 <h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5936" rel="noopener noreferrer nofollow" target="_blank">Family and Adult Support Tool (FAST) - User </a><em>- TGS-2020500870</em>
-<br>Register by 8 May 2025</p>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5936" rel="noopener nofollow" target="_blank">Family &amp; Adult Support Tool (FAST) - User (Synchronous &amp; Asynchronous) </a>-
+TGS-2020500870
+<br>Register by 28 July 2025</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF482" rel="noopener nofollow" target="_blank">Apply Development Theories When Working with Children and Youths</a>
+<br>Register by 29 July 2025</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5858" rel="noopener nofollow" target="_blank">Certified User for Youth Level of Service/Case Management Inventory (YLS/CMI)</a> - <em>TGS2020500744</em>
-<br>Register by 2 June 2025</p>
+<br>Register by 29 July 2025</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5938" rel="noopener nofollow" target="_blank">Management of Family Violence: Supporting Clients in Their Trauma Recovery (Synchronous e-learning) </a><em>- TGS-2020500752</em>
+<br>Register by 29 July 2025</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0126" rel="noopener nofollow" target="_blank">Counselling Guidelines Training: Working with Youth with Sexual Orientation and Gender Issues</a>
-<br>Register by 2 June 2025</p>
+<br>Register by 4 August 2025</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0151" rel="noopener nofollow" target="_blank">Ethical Considerations when Interacting with Children</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0159" rel="noopener nofollow" target="_blank">Structured Decision Making – Vulnerable Adult Reporting Guide</a>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0152" rel="noopener nofollow" target="_blank">Ethical Considerations when Interacting with Youth</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0160" rel="noopener nofollow" target="_blank">Inhale Insights: Understanding Youth Vaping</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0154" rel="noopener nofollow" target="_blank">Legislation Relating To Children &amp; Young Persons</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0158" rel="noopener nofollow" target="_blank">Structured Decision Making – Vulnerable Adult Screening Guide</a>
 </p>
 </li>
 </ul>
@@ -59,6 +60,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0160" rel="noopener nofollow" target="_blank">Inhale Insights: Understanding Youth Vaping</a>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF435" rel="noopener noreferrer nofollow" target="_blank">Introduction to Child Protection Framework</a>
 </p>
 </li>
@@ -67,15 +72,11 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0154" rel="noopener nofollow" target="_blank">Legislation Relating to Children &amp; Young Persons</a>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0150" rel="noopener nofollow" target="_blank">Podcast - Inhale Insight: Understanding Youth Vaping</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0159" rel="noopener nofollow" target="_blank">Structured Decision Making – Vulnerable Adult Reporting Guide</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0158" rel="noopener nofollow" target="_blank">Structured Decision Making – Vulnerable Adult Screening Guide</a>
 </p>
 </li>
 </ul>
@@ -120,10 +121,6 @@ variant: tiptap
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0115" rel="noopener nofollow" target="_blank">Management of Family Violence: Supervision of Staff in Family Violence Work</a>
 <br>Register by 13 February 2025</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5938" rel="noopener noreferrer nofollow" target="_blank">Management of Family Violence: Supporting Clients in Their Trauma Recovery (Synchronous e-learning)</a> - <em>TGS-2020500752</em>
-</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF305" rel="noopener noreferrer nofollow" target="_blank">Mentoring and Coaching Youths Effectively (Classroom &amp; Asynchronous)</a> - <em>TGS-2021009573</em>

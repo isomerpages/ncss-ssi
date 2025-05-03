@@ -19,10 +19,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0167" rel="noopener nofollow" target="_blank">Volunteer Continuity Planning</a> (New!)</p>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0167" rel="noopener nofollow" target="_blank">Volunteer Continuity Planning</a> 
+</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0178" rel="noopener nofollow" target="_blank">Volunteer Role Redesign</a>&nbsp;(New!)
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0178" rel="noopener nofollow" target="_blank">Volunteer Role Redesign</a>
 <br>
 <br>Register for e-learning course.</p>
 </li>

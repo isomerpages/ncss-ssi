@@ -9,7 +9,22 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Social worker assisting a person with disability with daily task" src="/images/disability-banner.png">
 </div>
 <h3><strong>Disability Training Courses offered by SSI</strong></h3>
-<h4><strong>Certificate Programmes</strong></h4>
+<h4>Registration now open</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0157" rel="noopener nofollow" target="_blank">Introduction to Reflective and Reflexive Practices</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS87" rel="noopener nofollow" target="_blank">Working with Persons with Autism</a>  <em>- TGS-2022014126</em>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS211" rel="noopener nofollow" target="_blank">Independent Travel Training for Professionals Supporting Persons with Disabilities</a> -
+TGS-2020502149</p>
+</li>
+</ul>
+<h4>Certificate Programmes</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.ssi.gov.sg/training/cet-programmes/advance-certificate-in-supported-employment/" rel="noopener nofollow" target="_blank">Advanced Certificate in Supported Employment (ACSE)</a>
@@ -18,7 +33,7 @@ capabilities of job coaches in providing employment and employability support
 for persons with disabilities.</p>
 </li>
 </ul>
-<h4><strong>Featured Short Courses in Early Interventions and Managing Disabilities</strong></h4>
+<h4>Featured Short Courses in Early Interventions and Managing Disabilities</h4>
 <p><strong>Adult Disability Courses</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -32,11 +47,6 @@ for persons with disabilities.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS87" rel="noopener nofollow" target="_blank">Working with Persons with Autism</a><em> - TGS-2022014126</em>
-</p>
-</li>
-<li>
-<p>Introduction to Care for Adults with Developmental Disabilities Presenting
-with Behavioural Problems and Mental Health Issues - <strong><em>Coming soon!</em></strong>
 </p>
 </li>
 <li>
@@ -70,7 +80,7 @@ with Behavioural Problems and Mental Health Issues - <strong><em>Coming soon!</e
 </p>
 </li>
 </ul>
-<h4><strong>Complimentary e-Learning (NCSS funded)</strong></h4>
+<h4>Complimentary e-Learning (NCSS funded)</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0157" rel="noopener noreferrer nofollow" target="_blank">Introduction to Reflective and Reflexive Practices</a>
@@ -85,6 +95,7 @@ with Behavioural Problems and Mental Health Issues - <strong><em>Coming soon!</e
 </p>
 </li>
 </ul>
+<hr>
 <h4><strong>Pre-appointment Training for Inclusion Coordinators (ICOs)&nbsp;</strong>&nbsp;</h4>
 <ul data-tight="true" class="tight">
 <li>

@@ -34,7 +34,7 @@ of innovative solutions.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.suss.edu.sg/programme-finder?utm_campaign=adm-jan21-intake&amp;utm_source=Google&amp;utm_medium=search&amp;utm_content=SUSS&amp;gclid=CjwKCAjwj975BRBUEiwA4whRBzypLKKo3UFBgUXHjEGgkdiYREwF_Aff8O4cRiWMGzCYV0QeUHRDGRoCqp4QAvD_BwE" rel="noopener noreferrer nofollow" target="_blank">Singapore University of Social Sciences</a>
+<p><a href="https://www.suss.edu.sg/courses/programme-finder/" rel="noopener nofollow" target="_blank">Singapore University of Social Sciences</a>
 </p>
 </li>
 <li>

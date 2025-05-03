@@ -19,27 +19,28 @@ youth, adults and seniors.</p>
 <h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0170" rel="noopener nofollow" target="_blank">Empowerment E-module</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCET6-M" rel="noopener nofollow" target="_blank">Understanding the Social Service Sector</a>
-<br>Register by 24 April 2025</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5228" rel="noopener nofollow" target="_blank">Case Management in Practice: Introduction</a> - <em>TGS-2020500648</em>
-<br>Register by 8 May 2025</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS30" rel="noopener noreferrer nofollow" target="_blank">Engage Stakeholders Effectively</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS30" rel="noopener noreferrer nofollow" target="_blank"><u>Engage Stakeholders Effectively</u></a>
 <br>Register by 5 June 2025</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5725" rel="noopener nofollow" target="_blank">Motivational Interviewing: An Introduction for Social Service Practitioners (Classroom &amp; Asynchronous)</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5725" rel="noopener nofollow" target="_blank"><u>Motivational Interviewing: An Introduction for Social Service Practitioners (Classroom &amp; Asynchronous)</u></a>
 <br>Register by 23 June 2025</p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0147" rel="noopener nofollow" target="_blank">Using Sector Evaluation Framework (SEF) in Articulating Programme Outcomes</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0070" rel="noopener nofollow" target="_blank">Develop a Social Service Programme (Classroom &amp; Asynchronous) </a><em>- TGS-2022015032</em>
+<br>Register by 17 July 2025</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS62" rel="noopener nofollow" target="_blank">Supervise Effectively with Fieldwork Education Concepts and Tools</a>
+<br><em>Register by 10 July 2025</em>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0170" rel="noopener nofollow" target="_blank"><u>Empowerment E-module</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0147" rel="noopener nofollow" target="_blank"><u>Using Sector Evaluation Framework (SEF) in Articulating Programme Outcomes</u></a>
 </p>
 </li>
 </ul>
@@ -90,11 +91,12 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0162" rel="noopener nofollow" target="_blank">Understanding Singapore’s Social Compact and Social Policies</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCET6-M" rel="noopener nofollow" target="_blank">Understanding the Social Service Sector</a>
 </p>
 </li>
 <li>
-<p>Understanding the Social Service Sector</p>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0162" rel="noopener nofollow" target="_blank">Understanding Singapore’s Social Compact and Social Policies</a>
+</p>
 </li>
 </ul>
 <h3><strong>Cross Sector Certificate/ Diploma/ Degree Programmes</strong></h3>
