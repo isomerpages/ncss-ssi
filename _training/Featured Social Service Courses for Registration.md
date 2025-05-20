@@ -6,10 +6,10 @@ description: SSI offers courses and training for social workers and the social
 variant: tiptap
 ---
 <h2><strong>Social Service Courses: Course Schedules</strong></h2>
-<h3>Training Course Directory 2024/2025</h3>
+<h3>Training Course Directory 2025/2026</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/training courses/FY24_Training_Directory_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Training Directory 2024/2025</a>
+<p><a href="/files/training courses/FY25_Training_Directory.pdf" rel="noopener noreferrer nofollow" target="_blank">Training Directory 2025/2026</a>
 </p>
 </li>
 </ul>
