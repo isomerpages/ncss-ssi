@@ -9,7 +9,8 @@ variant: tiptap
 <h3>Training Course Directory 2025/2026</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/training courses/FY25_Training_Directory.pdf" rel="noopener noreferrer nofollow" target="_blank">Training Directory 2025/2026</a>
+<p><a href="/files/training courses/FY25_Training_Directory.pdf" rel="noopener noreferrer nofollow" target="_blank">T</a>
+<a href="/files/training courses/FY25_Training_Directory.pdf" rel="noopener nofollow" target="_blank">raining Course Directory 2025/2026</a>
 </p>
 </li>
 </ul>
