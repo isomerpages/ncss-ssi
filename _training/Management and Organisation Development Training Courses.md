@@ -12,12 +12,19 @@ variant: tiptap
 <h3><strong>Registration now open</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFRE5103" rel="noopener noreferrer nofollow" target="_blank">Making $ense I: An Introduction to Fund Raising</a>
+<br><strong>Register by 20 August 2025</strong>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener nofollow" target="_blank">Developing Effective Supervisory Skills</a>
-<br>Register by 21 July 2025</p>
+<br><strong>Register by 21 July 2025</strong>
+</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT6014" rel="noopener nofollow" target="_blank">Teambuilding and Leadership Development</a>
-<br>Register by 31 July 2025</p>
+<br><strong>Register by 31 July 2025</strong>
+</p>
 </li>
 </ul>
 <h3><strong>Complimentary e-learning Courses</strong></h3>
@@ -33,7 +40,6 @@ variant: tiptap
 latest updates.</p>
 </li>
 </ul>
-<p></p>
 <h3><strong>Other Featured Courses</strong></h3>
 <h4>Financial Management</h4>
 <ul data-tight="true" class="tight">
@@ -57,16 +63,20 @@ latest updates.</p>
 </p>
 </li>
 <li>
+<p>Leading Self in Organisations - <strong><em>Coming soon!</em></strong>
+</p>
+</li>
+<li>
+<p>Leading People in Organisations - <strong><em>Coming soon!</em></strong>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT6014" rel="noopener noreferrer nofollow" target="_blank">Teambuilding and Leadership Development</a>
 </p>
 </li>
 </ul>
 <h4>Fundraising</h4>
 <ul data-tight="true" class="tight">
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFRE5103" rel="noopener noreferrer nofollow" target="_blank">Making $ense I: An Introduction to Fund Raising</a>
-<br>Register by 8 May 2025</p>
-</li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFRE5766" rel="noopener nofollow" target="_blank">Making $ense II: Fund-Raising Strategy Development</a>
 </p>
