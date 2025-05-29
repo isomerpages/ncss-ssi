@@ -19,20 +19,29 @@ youth, adults and seniors.</p>
 <h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS30" rel="noopener noreferrer nofollow" target="_blank"><u>Engage Stakeholders Effectively</u></a>
-<br>Register by 5 June 2025</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5725" rel="noopener nofollow" target="_blank"><u>Motivational Interviewing: An Introduction for Social Service Practitioners (Classroom &amp; Asynchronous)</u></a>
-<br>Register by 23 June 2025</p>
+<br><strong>Register by 23 June 2025</strong>
+</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0070" rel="noopener nofollow" target="_blank">Develop a Social Service Programme (Classroom &amp; Asynchronous) </a><em>- TGS-2022015032</em>
-<br>Register by 17 July 2025</p>
+<br><strong>Register by 17 July 2025</strong>
+</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS62" rel="noopener nofollow" target="_blank">Supervise Effectively with Fieldwork Education Concepts and Tools</a>
-<br><em>Register by 10 July 2025</em>
+<br><strong>Register by 10 July 2025</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0105" rel="noopener nofollow" target="_blank">Leading An Effective Case Management Team</a>
+<br><strong>Register by 14 August 2025</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0100" rel="noopener nofollow" target="_blank">Inclusive Training Series: Understanding and Working with People in Diverse Groups</a>
+</p>
+<p><strong>Register by 13 August 2025</strong>
 </p>
 </li>
 <li>
@@ -40,7 +49,11 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0147" rel="noopener nofollow" target="_blank"><u>Using Sector Evaluation Framework (SEF) in Articulating Programme Outcomes</u></a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0183" rel="noopener nofollow" target="_blank">Understanding Case Management: A Practical Guide </a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0147" rel="noopener nofollow" target="_blank">Using Sector Evaluation Framework (SEF) in Articulating Programme Outcomes</a>
 </p>
 </li>
 </ul>
@@ -68,6 +81,10 @@ youth, adults and seniors.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5446" rel="noopener noreferrer nofollow" target="_blank">Counselling Skills and Practice: Intermediate</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS30" rel="noopener noreferrer nofollow" target="_blank"><u>Engage Stakeholders Effectively</u></a>
 </p>
 </li>
 <li>
