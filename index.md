@@ -37,7 +37,7 @@ sections:
           url: /training/cet-programmes/advanced-certificate-in-social-service/
   - infopic:
       title: Start planning for your training needs today!
-      subtitle: Training Directory for 2024/25
+      subtitle: Training Directory for 2025/26
       description: Download our training directory to learn more about the broad range
         of courses that SSI offers from 10 different categories.
       button: Download now
