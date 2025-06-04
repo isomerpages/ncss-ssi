@@ -110,7 +110,7 @@ surveys; and,
 </p>
 <h4>Absentee Payroll</h4>
 <p>Employers sponsoring employees who are Singapore Citizens or Permanent
-Residents can apply for <a href="https://www.ssg.gov.sg/absentee-payroll-calculator.html" rel="noopener noreferrer nofollow" target="_blank">Absentee Payroll Funding</a>.</p>
+Residents can apply for Absentee Payroll Funding.</p>
 <h4>Workfare Skills Support (WSS)</h4>
 <p>WSS encourages low wage workers to undertake training that leads to more
 impactful employment outcomes. Find out more about the <a href="https://www.wsg.gov.sg/programmes-and-initiatives/workfare-skills-support-scheme-individuals.html" rel="noopener noreferrer nofollow" target="_blank">Workfare Skills Support</a>.</p>
