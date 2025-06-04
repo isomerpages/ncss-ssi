@@ -13,7 +13,13 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SMTH387" rel="noopener nofollow" target="_blank">Foundations of Psycho-Social Rehabilitation and Recovery</a>
-<br>Register by 16 July 2025</p>
+<br><strong>Register by 2 July 2025</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS6109" rel="noopener nofollow" target="_blank">Skills-Based Psychiatric Rehabilitation (Classroom &amp; Asynchronous E-learning)</a>
+<br><strong>Register by 13 August 2025</strong>
+</p>
 </li>
 </ul>
 <p><a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe to our mailing list for latest updates.</u></a>
@@ -50,10 +56,6 @@ TGS-2020500636</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS5911" rel="noopener noreferrer nofollow" target="_blank">Mental Illness and Recovery</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS6109" rel="noopener noreferrer nofollow" target="_blank">Skills-Based Psychiatric Rehabilitation</a>
 </p>
 </li>
 <li>
