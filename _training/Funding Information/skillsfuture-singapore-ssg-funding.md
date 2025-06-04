@@ -30,7 +30,7 @@ not Singaporeans, PRs or LTVP+ holders can apply directly to VCF for funding.</p
 <p>Party</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Eligibity Criteria</p>
+<p>Eligibility Criteria</p>
 </th>
 </tr>
 <tr>
@@ -110,15 +110,13 @@ surveys; and,
 </p>
 <h4>Absentee Payroll</h4>
 <p>Employers sponsoring employees who are Singapore Citizens or Permanent
-Residents can apply for <a href="https://www.ssg.gov.sg/absentee-payroll-calculator.html" rel="noopener noreferrer nofollow" target="_blank">Absentee Payroll Funding</a>.</p>
+Residents can apply for Absentee Payroll Funding.</p>
 <h4>Workfare Skills Support (WSS)</h4>
 <p>WSS encourages low wage workers to undertake training that leads to more
 impactful employment outcomes. Find out more about the <a href="https://www.wsg.gov.sg/programmes-and-initiatives/workfare-skills-support-scheme-individuals.html" rel="noopener noreferrer nofollow" target="_blank">Workfare Skills Support</a>.</p>
 <h4>Enhanced Training Support for SMEs (ETS)</h4>
 <p>Enhanced Training Support for SMEs (ETSS) offers additional support for
-SMEs in the form of higher course fee subsidies. Find out more about the
-<a href="https://www.ssg.gov.sg/programmes-and-initiatives/funding/enhanced-training-support-for-smes1.html" rel="noopener noreferrer nofollow" target="_blank">Enhanced Training Support for SMEs.</a>
-</p>
+SMEs in the form of higher course fee subsidies.</p>
 <h4>SkillsFuture Mid-career Enhanced Subsidy</h4>
 <p>The SkillsFuture Mid-Career Enhanced Subsidy supports and encourages lifelong
 learning and helps Singaporeans stay responsive to a changing workplace.
