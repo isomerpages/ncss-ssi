@@ -67,6 +67,10 @@ have requested for more support on.</p>
 </p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0196" rel="noopener nofollow" target="_blank">Getting Started in the Social Service Sector (e-learning)</a>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0110" rel="noopener nofollow" target="_blank">Learning to Write a Funding Proposal</a>
 </p>
 </li>
