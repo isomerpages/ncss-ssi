@@ -32,46 +32,6 @@ the following dates. Access to iLTMS may be disrupted during this period.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 January 2025, 22:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>25 January 2025, 7:00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>21 February 2025, 22:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>22 February 2025, 7:00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>14 March 2025, 22:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 March 2025, 07:00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>11 April 2025 22:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12 April 2025 07:00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16 May 2025 22:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>17 May 2025 07:00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>20 June 2025 22:00</p>
 </td>
 <td rowspan="1" colspan="1">
