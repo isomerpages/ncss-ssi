@@ -237,7 +237,7 @@ the date of registration - whichever is later - until 30 June 2026.</p>
 <p>S$1,090 per participant (inclusive of GST).</p>
 <hr>
 <h4><strong>Register</strong></h4>
-<p><a href="https://www.sid.org.sg/Web/Professional_Development/Courses/Essentials/SGOOD_Essentials.aspx?WebsiteKey=45b06dd1-2681-479a-bfab-022b0a05c2ce&amp;a2fb84aa93cb=1#a2fb84aa93cb" rel="noopener nofollow" target="_blank">Register for the SGOOD programme.</a>
+<p><a href="https://www.sid.org.sg/Web/Professional_Development/Courses/Essentials/SGOOD_Essentials.aspx?WebsiteKey=45b06dd1-2681-479a-bfab-022b0a05c2ce&amp;a2fb84aa93cb=1#a2fb84aa93cb" rel="noopener nofollow" target="_blank">Register here for the SGOOD programme.</a>
 </p>
 <p><strong>Course enquiries</strong>
 <br>Email: <a rel="noopener noreferrer nofollow" target="_blank">learning@sid.org.sg</a> 
