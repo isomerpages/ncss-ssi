@@ -110,13 +110,13 @@ surveys; and,
 </p>
 <h4>Absentee Payroll</h4>
 <p>Employers sponsoring employees who are Singapore Citizens or Permanent
-Residents can apply for Absentee Payroll Funding.</p>
+Residents can apply for <a href="https://skillsfuture.gobusiness.gov.sg/e-services" rel="noopener nofollow" target="_blank">Absentee Payroll Funding</a>.</p>
 <h4>Workfare Skills Support (WSS)</h4>
 <p>WSS encourages low wage workers to undertake training that leads to more
 impactful employment outcomes. Find out more about the <a href="https://www.wsg.gov.sg/programmes-and-initiatives/workfare-skills-support-scheme-individuals.html" rel="noopener noreferrer nofollow" target="_blank">Workfare Skills Support</a>.</p>
 <h4>Enhanced Training Support for SMEs (ETS)</h4>
-<p>Enhanced Training Support for SMEs (ETSS) offers additional support for
-SMEs in the form of higher course fee subsidies.</p>
+<p><a href="https://www.skillsfuture.gov.sg/initiatives/employers/enhanced-training-support-for-smes" rel="noopener nofollow" target="_blank">Enhanced Training Support for SMEs (ETS)</a> offers
+additional support for SMEs in the form of higher course fee subsidies.</p>
 <h4>SkillsFuture Mid-career Enhanced Subsidy</h4>
 <p>The SkillsFuture Mid-Career Enhanced Subsidy supports and encourages lifelong
 learning and helps Singaporeans stay responsive to a changing workplace.
