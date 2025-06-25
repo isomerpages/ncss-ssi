@@ -2,8 +2,8 @@ collections:
   training:
     output: true
     order:
-      - Course Categories.md
       - Training Overview.md
+      - Course Categories.md
       - Featured Social Service Courses for Registration.md
       - Training Network Model Courses.md
       - Continuing Education & Training (CET) Courses.md
