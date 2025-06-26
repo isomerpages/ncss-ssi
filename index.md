@@ -72,8 +72,8 @@ sections:
         social service sector.
       button: Explore Partnerships
       url: /about-us/our-partners/
-      image: /images/homepage/our-partners.jpg
-      alt: People present/receive a cert
+      image: /images/homepage/SSI_Our_Partners.jpg
+      alt: Collaborate with SSI
   - infopic:
       title: Our Stories
       description: Hear from our learners whose lives have been transformed through
