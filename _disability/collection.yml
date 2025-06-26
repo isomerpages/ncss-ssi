@@ -1,4 +1,5 @@
 collections:
   disability:
     output: true
-    order: []
+    order:
+      - Disability.md
