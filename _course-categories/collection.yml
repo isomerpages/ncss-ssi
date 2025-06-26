@@ -1,5 +1,4 @@
 collections:
   course-categories:
     output: true
-    order:
-      - Disability.md
+    order: []
