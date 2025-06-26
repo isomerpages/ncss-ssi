@@ -4,3 +4,4 @@ permalink: /course-categories/
 variant: tiptap
 description: ""
 ---
+<p></p>
