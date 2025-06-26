@@ -146,7 +146,7 @@ inclusive society for persons with mental health issues in the community.
 As a trained life coach, Terence partners people to unleash their potential
 by facilitating their personal and professional growth.</p>
 <p><strong>Mr Wong Lit Shoon</strong> 
-<br>Lit Soon’s career in the healthcare, social service and eldercare fields
+<br>Lit Shoon’s career in the healthcare, social service and eldercare fields
 spans over 30 years. He was previously the executive director of SAGE Counselling
 Centre, Sunshine Welfare Action Mission (SWAMI) Home, manager of medical
 social services at Ren Ci Hospital (RCLA), a social worker/counsellor at
