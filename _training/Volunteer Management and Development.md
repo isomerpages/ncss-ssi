@@ -8,7 +8,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Volunteer managers engaged in group discussion during Volunteer Management Course" src="/images/volunteer-banner.png">
 </div>
 <h2><strong>Volunteer Management &amp; Development Courses offered by SSI</strong></h2>
-<h3>Registration Open Throughout the Year</h3>
+<h3>Complimentary e-Learning Courses (NCSS funded)</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0035" rel="noopener noreferrer nofollow" target="_blank">Befriending 101 (For Volunteers)</a>
@@ -32,8 +32,7 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0180" rel="noopener nofollow" target="_blank">What Makes Rehab Effective</a>
-<br>
-<br>Register for e-learning course.</p>
+</p>
 </li>
 </ul>
 <h3><strong>Other Featured Volunteer Management and Development Courses</strong></h3>
