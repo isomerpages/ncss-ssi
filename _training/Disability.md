@@ -136,7 +136,7 @@ other <a href="https://www.ssi.gov.sg/complimentary-courses/" rel="noopener nore
 <a href="https://www.ssi.gov.sg/contact-us/" rel="noopener noreferrer nofollow" target="_blank">contact us</a>directly to explore designing personalised training (e.g.
 Inclusive Facilitation Training)!</p>
 <hr>
-<h4><strong>Meet our Featured Adult Educators</strong></h4>
+<h4><strong>Featured Adult Educators under Disability Training Courses</strong></h4>
 <p><strong>Ms June Tham-Toh Syn Yuen </strong>
 <br>June was the Executive Director of Rainbow Centre before she retired in
 2014. She holds a Master of Education, Diploma in Management Studies, Certification
