@@ -52,7 +52,7 @@ variant: tiptap
 </li>
 </ul>
 <p>View the <a href="https://iltms.ssi.gov.sg/registration/#/Course" rel="noopener noreferrer nofollow" target="_blank">full list of volunteer management and development courses</a>.</p>
-<h3><strong>Key Adult Educators for Volunteer Management and Development Courses</strong></h3>
+<h3><strong>Featured Adult Educators for Volunteer Management and Development Courses</strong></h3>
 <p><strong>Ms Alice Lee-Tok</strong> 
 <br>Alice is a family education consultant and trainer with more than 15 years
 of experience in education and counselling, specialising in children and
@@ -82,13 +82,13 @@ Moy Yin has more than 12 years of experience in human resources specialising
 in volunteer management and has provided consultancy services for the Singapore
 Sports Council (SSC) and the National Arts Council (NAC). Moy Yin is also
 the co-founder and vice president of Managing &amp; Organising Volunteer
-Efforts (MOVE), which isthe national professional body for volunteer programme
+Efforts (MOVE), which is the national professional body for volunteer programme
 managers.</p>
 <h3><strong>Learning &amp; Development Roadmap for Volunteer Managers</strong></h3>
 <p>Volunteer managers are key enablers in engaging volunteers to augment
 the manpower capabilities of Social Service Agencies (SSAs). To play this
-vital role and prepare VMPs for the emerging trends in the social service
-sector’s transformation, NCSS developed the <a href="https://go.gov.sg/ldrpublication" rel="noopener nofollow" target="_blank">Learning &amp; Development Roadmap (LDR)</a> in
+vital role and prepare volunteer managers for the emerging trends in the
+social service sector’s transformation, NCSS developed the <a href="https://go.gov.sg/ldrpublication" rel="noopener nofollow" target="_blank">Learning &amp; Development Roadmap (LDR)</a> in
 consultation with the sector and endorsed by senior management of SSAs,
 to uplift the capabilities and increase ownership in the professional development
 of volunteer managers.</p>
@@ -102,7 +102,7 @@ and develop their volunteer managers.</p><a class="isomer-image-wrapper" href="h
 <a class="isomer-image-wrapper" href="https://go.gov.sg/ldrpublication">
 <img style="width: 100%" height="auto" width="100%" alt="Prof Teng Su Ching" src="/images/training/volunteer/Prof_Teng_Su_Ching.jpg">
 </a>
-<h3>LDR Self-assessment Tool</h3>
+<h3>Learning &amp; Development Roadmap (LDR) Self-assessment Tool</h3>
 <p>The accompanying Self-assessment Tool (SAT) to the LDR helps volunteer
 managers to identify their proficiency gaps and relevant training courses
 (including Social Service Institutes’ (SSI) courses), to further strengthen
