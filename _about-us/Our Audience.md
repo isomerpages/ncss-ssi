@@ -17,9 +17,9 @@ career interests and upgrade their skills to prepare for their desired
 job roles.</p>
 <p><strong>Volunteers and Caregivers</strong>
 <br>Volunteers and caregivers are not formally employed within the social
-service sector but provide essential support networks to ensure the of
-the viability of the sector. They help to relieve manpower shortages and
-the strain on healthcare systems.</p>
+service sector but provide essential support networks to ensure the viability
+of the sector. They help to relieve manpower shortages and the strain on
+healthcare systems.</p>
 <p>Volunteers help fufill the manpower needs of the social service sector
 by complementing the roles of full time professionals in social service
 agencies (SSAs).</p>
