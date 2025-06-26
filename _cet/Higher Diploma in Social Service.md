@@ -169,7 +169,7 @@ with lessons being conducted two to three times a week.</p>
 </li>
 <li>
 <p><strong>Mandatory Components:</strong> Programme Orientation in January
-2025 (exact date TBC)</p>
+2025</p>
 </li>
 </ul>
 <p>All learners will also be required to undergo the Social Service Field
