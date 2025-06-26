@@ -172,6 +172,8 @@ with lessons being conducted two to three times a week.</p>
 2025</p>
 </li>
 </ul>
+<p>The application for 2025 intake has closed. Do enquire with us for the
+next available intake.</p>
 <p>All learners will also be required to undergo the Social Service Field
 Experience (except for learners who have undergone the Social Service Field
 experience in the WSQ ACSS or SSI ACSS programme).
@@ -286,4 +288,5 @@ alternative arrangements will not be considered.</p>
 <p>Download the <a href="/files/hdss/FAQ_for_Higher_Diploma_in_Social_Service_Jul_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a> relating
 to this programme.
 <br>Learn more about the application procedure from the <a href="/files/hdss/ssi%20-%20application%20guide%20-%20higher%20diploma%20in%20social%20service%20(jun%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">HDSS Application Guide</a>.</p>
+<p></p>
 <p></p>
