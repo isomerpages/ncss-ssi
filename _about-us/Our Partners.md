@@ -12,34 +12,67 @@ an increased number of skilled and enterprising professionals in the sector,
 greater capacity and capability of social purpose entities and the development
 of innovative solutions.</p>
 <h2><strong>Our Programme Partners</strong></h2>
+<p></p>
 <ol>
 <li>
-<p><a href="https://www.flinders.edu.au/" rel="noopener noreferrer nofollow" target="_blank">Flinders University</a>
-</p>
+<p>Arbinger Institute</p>
 </li>
 <li>
-<p><a href="https://www.sid.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Institute of Directors</a>
-</p>
+<p>Cerebral Palsy Alliance Singapore (CPAS)</p>
 </li>
 <li>
-<p><a href="https://cds.org.au/" rel="noopener noreferrer nofollow" target="_blank">Centre for Disability Studies</a>
-</p>
+<p>Decision Processes International</p>
 </li>
 <li>
-<p><a href="https://www.franklincovey.com/" rel="noopener noreferrer nofollow" target="_blank">Franklin Covey</a>
-</p>
+<p>Erevna Leadership</p>
 </li>
 <li>
-<p><a href="https://www.dpi-asia.com/" rel="noopener noreferrer nofollow" target="_blank">Decision Processes International</a>
-</p>
+<p>Franklin Covey</p>
 </li>
 <li>
-<p><a href="https://www.suss.edu.sg/courses/programme-finder/" rel="noopener nofollow" target="_blank">Singapore University of Social Sciences</a>
-</p>
+<p>HCA Hospice</p>
 </li>
 <li>
-<p><a href="https://www.np.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Ngee Ann Polytechnic</a>
-</p>
+<p>LEGO</p>
+</li>
+<li>
+<p>Mcdonald's</p>
+</li>
+<li>
+<p>Montford Care</p>
+</li>
+<li>
+<p>Nanyang Polytechnic</p>
+</li>
+<li>
+<p>Ngee Ann Polytechnic</p>
+</li>
+<li>
+<p>Singapore Institute of Directors</p>
+</li>
+<li>
+<p>Singapore Institute of Management</p>
+</li>
+<li>
+<p>Singapore Institute of Technology</p>
+</li>
+<li>
+<p>Singapore University of Social Sciences</p>
+</li>
+<li>
+<p>Skillseed</p>
+</li>
+<li>
+<p>Star Learners Child Care</p>
+</li>
+<li>
+<p>The Ubuntu Space</p>
+</li>
+<li>
+<p>Wealth Management Institute (WMI)</p>
+</li>
+<li>
+<p>Yong En Care Centre</p>
 </li>
 </ol>
 <h2><strong>Our Agency Partners</strong></h2>
@@ -116,57 +149,12 @@ feedback pool with SSI.</p>
 <h4><strong>Apply to be our Adult Educator</strong></h4>
 <p>If you’re interested to join us, kindly submit the&nbsp;<a href="https://go.gov.sg/ae-application-form" rel="noopener noreferrer nofollow" target="_blank">application form</a>&nbsp;along
 with your documents (CV and credentials).</p>
-<p>Our annual recruitment drive for AEs will open for 2 windows: in <strong>April</strong> and <strong>October</strong>.
-Each window will open for a month.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Application Window</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>If short listed, you will be contacted by</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 to 30 April</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>First working day of May</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 to 31 October</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>First working day of November</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h3><strong>Adult Educators Recognition</strong></h3>
 <p>SSI values the contribution of our AEs in the social service sector and
 have a system in place to honour their efforts.</p>
-<p>Our recognition system includes:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>STAR Adult Educator Awards</p>
-</li>
-<li>
-<p>Long Service Award</p>
-</li>
-</ul>
 <h4><strong>Growing Together to Impact as One</strong></h4>
 <p>AE recognition is only a small fraction of what we do for our AEs. We
 also <strong>partner, nurture, engage, impact and journey with them</strong>.</p>
-<p>Read more about our various talent development schemes and initiatives,
-engagements and all things <a href="/files/AE_Resource_Kit_10072024.pdf" rel="noopener noreferrer nofollow" target="_blank">Adult Educator-related</a>.</p>
 <h2><strong>Partnership Opportunities</strong></h2>
 <p>SSI is constantly looking for partnerships with local or international
 Social Service Agencies (SSAs), Non-Profit Organisations (NPOs), Institute
