@@ -20,7 +20,7 @@ job roles.</p>
 service sector but provide essential support networks to ensure the viability
 of the sector. They help to relieve manpower shortages and the strain on
 healthcare systems.</p>
-<p>Volunteers help fufill the manpower needs of the social service sector
+<p>Volunteers help fufil the manpower needs of the social service sector
 by complementing the roles of full time professionals in social service
 agencies (SSAs).</p>
 <p>Caregivers are an informal network of people who step up as the first
