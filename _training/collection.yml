@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Training Overview.md
-      - Featured Social Service Courses for Registration.md
+      - Featured Courses.md
       - Training Network Model Courses.md
       - Continuing Education & Training.md
       - Cross Sector.md
