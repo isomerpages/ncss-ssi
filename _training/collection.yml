@@ -2,6 +2,7 @@ collections:
   training:
     output: true
     order:
+      - Course Categories.md
       - Training Overview.md
       - Featured Courses.md
       - Training Network Model Courses.md
