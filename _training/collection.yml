@@ -3,19 +3,19 @@ collections:
     output: true
     order:
       - Training Overview.md
-      - Featured Courses.md
-      - Training Network Model Courses.md
       - Continuing Education & Training.md
-      - Cross Sector.md
-      - Children, Youth and Family.md
-      - Disability.md
-      - Mental Health.md
-      - Eldercare.md
       - Board Development.md
-      - Management and Organisation Development.md
-      - Volunteer Management and Development.md
       - Caregiving.md
+      - Children, Youth and Family.md
+      - Cross Sector.md
+      - Disability.md
+      - Eldercare.md
+      - Management and Organisation Development.md
+      - Mental Health.md
+      - Volunteer Management and Development.md
+      - Featured Courses.md
       - Complimentary Courses.md
+      - Training Network Model Courses.md
       - Course Application and Registration Information.md
       - Funding Information/.keep
       - Funding Information/training-grants.md
