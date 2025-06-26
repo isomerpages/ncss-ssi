@@ -33,6 +33,15 @@ TGS-2020500870
 </p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5938" rel="noopener nofollow" target="_blank">Management of Family Violence: Supporting Clients in Their Trauma Recovery (Synchronous e-learning) </a><em>- TGS-2020500752</em>
+<br><strong>Register by 29 July 2025</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0151" rel="noopener nofollow" target="_blank">Ethical Considerations when Interacting with Children</a>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0126" rel="noopener nofollow" target="_blank">Counselling Guidelines Training: Working with Youth with Sexual Orientation and Gender Issues</a>
 <br><strong>Register by 4 August 2025</strong>
 </p>
@@ -40,15 +49,6 @@ TGS-2020500870
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF197" rel="noopener noreferrer nofollow" target="_blank">Management of Family Violence: Introduction</a>  <em>- TGS-2020500631</em>
 <br><strong>Register by 8 September 2025</strong>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5938" rel="noopener nofollow" target="_blank">Management of Family Violence: Supporting Clients in Their Trauma Recovery (Synchronous e-learning) </a><em>- TGS-2020500752</em>
-<br><strong>Register by 29 July 2025</strong>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0151" rel="noopener nofollow" target="_blank">Ethical Considerations when Interacting with Children</a>
 </p>
 </li>
 </ul>
