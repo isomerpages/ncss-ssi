@@ -13,7 +13,7 @@ greater capacity and capability of social purpose entities and the development
 of innovative solutions.</p>
 <h2><strong>Our Programme Partners</strong></h2>
 <p></p>
-<ol>
+<ul data-tight="true" class="tight">
 <li>
 <p>Arbinger Institute</p>
 </li>
@@ -74,66 +74,80 @@ of innovative solutions.</p>
 <li>
 <p>Yong En Care Centre</p>
 </li>
-</ol>
+</ul>
 <h2><strong>Our Agency Partners</strong></h2>
-<ol>
+<ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.msf.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Social and Family Development</a>
-</p>
+<p>Academy of Human Development Pte Ltd</p>
 </li>
 <li>
-<p><a href="https://www.sps.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Prison Service</a>
-</p>
+<p>Agency for Integrated Care</p>
 </li>
 <li>
-<p><a href="https://www.aic.sg/?gclid=CjwKCAjwj975BRBUEiwA4whRB5kRfBiF67fiP1aHElfJkqLmVyiNrRNgw2KlpV9o9eTq3Aiby8cpCxoCA08QAvD_BwE&amp;gclsrc=aw.ds" rel="noopener noreferrer nofollow" target="_blank">Agency for Integrated Care</a>
-</p>
+<p>Association for Persons with Special Needs</p>
 </li>
 <li>
-<p><a href="https://www.charities.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Charity Council</a>
-</p>
+<p>Charity Council</p>
 </li>
 <li>
-<p><a href="https://www.ecda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Early Childhood Development Agency</a>
-</p>
+<p>Council for Third Age</p>
 </li>
 <li>
-<p><a href="https://www.nac.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Arts Council</a>
-</p>
+<p>DAS Academy</p>
 </li>
 <li>
-<p><a href="https://www.toteboard.gov.sg/" rel="noopener nofollow" target="_blank">Tote Board</a>
-</p>
+<p>Early Childhood Development Agency</p>
 </li>
 <li>
-<p><a href="https://cityofgood.sg/" rel="noopener noreferrer nofollow" target="_blank">National Volunteer &amp; Philanthropy Centre</a>
-</p>
+<p>Government Technology Agency</p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Education</a>
-</p>
+<p>Jade Circle Acaredemy</p>
 </li>
 <li>
-<p><a href="https://www.mccy.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Culture, Coommunity and Youth</a>
-</p>
+<p>Ministry of Culture, Community and Youth</p>
 </li>
 <li>
-<p><a href="https://www.sgenable.sg/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">SG Enable</a>
-</p>
+<p>Ministry of Education</p>
 </li>
 <li>
-<p><a href="https://www.skillsfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">SkillsFuture Singapore</a>
-</p>
+<p>Ministry of Social and Family Development</p>
 </li>
 <li>
-<p><a href="Workforce Singapore" rel="noopener noreferrer nofollow" target="_blank">Workforce Singapore</a>
-</p>
+<p>National Arts Council</p>
 </li>
 <li>
-<p><a href="https://sasw.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Association of Social Workers</a>
-</p>
+<p>National Volunteer &amp; Philanthropy Centre</p>
 </li>
-</ol>
+<li>
+<p>Rainbow Centre</p>
+</li>
+<li>
+<p>Samaritans of Singapore</p>
+</li>
+<li>
+<p>SG Enable</p>
+</li>
+<li>
+<p>SHINE Children and Youth Services</p>
+</li>
+<li>
+<p>Singapore Association of Social Workers</p>
+</li>
+<li>
+<p>Singapore Prison Service</p>
+</li>
+<li>
+<p>SkillsFuture Singapore</p>
+</li>
+<li>
+<p>The Salvation Army</p>
+</li>
+<li>
+<p>Workforce Singapore</p>
+</li>
+</ul>
+<p></p>
 <h2><strong>Our Adult Educators</strong></h2>
 <p>At SSI we believe in developing talents to shine with altruism. We encourage
 and facilitate professional growth for our Adult Educators (AEs) and continuously
