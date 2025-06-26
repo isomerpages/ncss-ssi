@@ -44,19 +44,19 @@ become a Social Worker.</p>
 <p>Apply writing and presentation skills to facilitate social service practice</p>
 </li>
 <li>
-<p>Use online information to facifilate social service practice</p>
+<p>Use online information to facilitate social service practice</p>
 </li>
 <li>
-<p>Apply human behaviour concepts to faciliate social service practice</p>
+<p>Apply human behaviour concepts to facilitate social service practice</p>
 </li>
 <li>
-<p>Apply family life cycle concept to faciliate social service practice</p>
+<p>Apply family life cycle concept to facilitate social service practice</p>
 </li>
 <li>
-<p>Apply psychological concepts to faciliate social service practice</p>
+<p>Apply psychological concepts to facilitate social service practice</p>
 </li>
 <li>
-<p>Apply socialogical concepts to faciliate social service practice</p>
+<p>Apply socialogical concepts to facilitate social service practice</p>
 </li>
 <li>
 <p>Apply cultural concepts to facilitate social service practice</p>
