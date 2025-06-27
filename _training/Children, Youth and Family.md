@@ -37,7 +37,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p> <a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF305" rel="noopener nofollow" target="_blank">Mentoring and Coaching Youths Effectively </a><em>- TGS-2021009573</em>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF305" rel="noopener nofollow" target="_blank">Mentoring and Coaching Youths Effectively </a><em>- TGS-2021009573</em>
 <br><strong>Register by 4 September 2025</strong>
 </p>
 </li>
@@ -47,7 +47,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5858" rel="noopener nofollow" target="_blank">Certified User for Youth Level of Service/Case Management Inventory (YLS/CMI) </a><em> - TGS-2020500744</em>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5858" rel="noopener nofollow" target="_blank">Certified User for Youth Level of Service/Case Management Inventory (YLS/CMI) </a><em>- TGS-2020500744</em>
 <br><em>Reg</em>
 </p>
 </li>
