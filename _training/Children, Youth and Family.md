@@ -12,43 +12,43 @@ variant: tiptap
 <h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF278" rel="noopener noreferrer nofollow" target="_blank">Introduction to Trauma Informed Positive Behaviour Interventions and Supports for Children and Young Persons in Residential Care</a>
-<br><strong>Register by 16 July 2025</strong>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5936" rel="noopener nofollow" target="_blank">Family &amp; Adult Support Tool (FAST) - User (Synchronous &amp; Asynchronous) </a>-
-TGS-2020500870
-<br><strong>Register by 28 July 2025</strong>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF482" rel="noopener nofollow" target="_blank">Apply Development Theories When Working with Children and Youths</a><em> - TGS-2020513474</em>
-<br><strong>Register by 29 July 2025</strong>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5858" rel="noopener nofollow" target="_blank">Certified User for Youth Level of Service/Case Management Inventory (YLS/CMI)</a> - <em>TGS2020500744</em>
-<br><strong>Register by 29 July 2025</strong>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5938" rel="noopener nofollow" target="_blank">Management of Family Violence: Supporting Clients in Their Trauma Recovery (Synchronous e-learning) </a><em>- TGS-2020500752</em>
-<br><strong>Register by 29 July 2025</strong>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0151" rel="noopener nofollow" target="_blank">Ethical Considerations when Interacting with Children</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0126" rel="noopener nofollow" target="_blank">Counselling Guidelines Training: Working with Youth with Sexual Orientation and Gender Issues</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5936" rel="noopener nofollow" target="_blank">Family &amp; Adult Support Tool (FAST) - User (Classroom &amp; Asynchronous) </a><em>- TGS-2020500870 </em>
 <br><strong>Register by 4 August 2025</strong>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF197" rel="noopener noreferrer nofollow" target="_blank">Management of Family Violence: Introduction</a>  <em>- TGS-2020500631</em>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF279" rel="noopener nofollow" target="_blank">Management of Family Violence: Intervention in Family Violence Cases</a><em>- TGS-2025053854</em>
+<br><strong>Register by 17 August 2025</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF278" rel="noopener noreferrer nofollow" target="_blank">Introduction to Trauma Informed Positive Behaviour Interventions and Supports for Children and Young Persons in Residential Care</a>
+<br><strong>Register by 28 August 2025</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0155" rel="noopener nofollow" target="_blank">Protective Behaviours for Children - a Preventive Intervention against Abuse</a>
+<br><strong>Register by 1 September 2025</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF503" rel="noopener nofollow" target="_blank">CPI SAFETY INTERVENTION™ FOUNDATION PROGRAMME</a>
+<br><strong>Register by 3 September 2025</strong>
+</p>
+</li>
+<li>
+<p> <a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF305" rel="noopener nofollow" target="_blank">Mentoring and Coaching Youths Effectively </a><em>- TGS-2021009573</em>
+<br><strong>Register by 4 September 2025</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF197" rel="noopener nofollow" target="_blank">Management of Family Violence: Introduction </a><em>- TGS-2020500631</em>
 <br><strong>Register by 8 September 2025</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5858" rel="noopener nofollow" target="_blank">Certified User for Youth Level of Service/Case Management Inventory (YLS/CMI) </a><em> - TGS-2020500744</em>
+<br><em>Reg</em>
 </p>
 </li>
 </ul>
