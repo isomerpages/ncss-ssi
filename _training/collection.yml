@@ -2,6 +2,7 @@ collections:
   training:
     output: true
     order:
+      - Featured Courses.md
       - Training Overview.md
       - Continuing Education & Training.md
       - Board Development.md
@@ -13,7 +14,6 @@ collections:
       - Management and Organisation Development.md
       - Mental Health.md
       - Volunteer Management and Development.md
-      - Featured Courses.md
       - Complimentary Courses.md
       - Training Network Model Courses.md
       - Course Application and Registration Information.md
