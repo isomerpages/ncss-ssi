@@ -12,95 +12,142 @@ an increased number of skilled and enterprising professionals in the sector,
 greater capacity and capability of social purpose entities and the development
 of innovative solutions.</p>
 <h2><strong>Our Programme Partners</strong></h2>
-<ol>
+<p></p>
+<ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.flinders.edu.au/" rel="noopener noreferrer nofollow" target="_blank">Flinders University</a>
-</p>
+<p>Arbinger Institute</p>
 </li>
 <li>
-<p><a href="https://www.sid.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Institute of Directors</a>
-</p>
+<p>Cerebral Palsy Alliance Singapore (CPAS)</p>
 </li>
 <li>
-<p><a href="https://cds.org.au/" rel="noopener noreferrer nofollow" target="_blank">Centre for Disability Studies</a>
-</p>
+<p>Decision Processes International</p>
 </li>
 <li>
-<p><a href="https://www.franklincovey.com/" rel="noopener noreferrer nofollow" target="_blank">Franklin Covey</a>
-</p>
+<p>Erevna Leadership</p>
 </li>
 <li>
-<p><a href="https://www.dpi-asia.com/" rel="noopener noreferrer nofollow" target="_blank">Decision Processes International</a>
-</p>
+<p>Franklin Covey</p>
 </li>
 <li>
-<p><a href="https://www.suss.edu.sg/courses/programme-finder/" rel="noopener nofollow" target="_blank">Singapore University of Social Sciences</a>
-</p>
+<p>HCA Hospice</p>
 </li>
 <li>
-<p><a href="https://www.np.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Ngee Ann Polytechnic</a>
-</p>
+<p>LEGO</p>
 </li>
-</ol>
+<li>
+<p>Mcdonald's</p>
+</li>
+<li>
+<p>Montford Care</p>
+</li>
+<li>
+<p>Nanyang Polytechnic</p>
+</li>
+<li>
+<p>Ngee Ann Polytechnic</p>
+</li>
+<li>
+<p>Singapore Institute of Directors</p>
+</li>
+<li>
+<p>Singapore Institute of Management</p>
+</li>
+<li>
+<p>Singapore Institute of Technology</p>
+</li>
+<li>
+<p>Singapore University of Social Sciences</p>
+</li>
+<li>
+<p>Skillseed</p>
+</li>
+<li>
+<p>Star Learners Child Care</p>
+</li>
+<li>
+<p>The Ubuntu Space</p>
+</li>
+<li>
+<p>Wealth Management Institute (WMI)</p>
+</li>
+<li>
+<p>Yong En Care Centre</p>
+</li>
+</ul>
 <h2><strong>Our Agency Partners</strong></h2>
-<ol>
+<ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.msf.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Social and Family Development</a>
-</p>
+<p>Academy of Human Development Pte Ltd</p>
 </li>
 <li>
-<p><a href="https://www.sps.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Prison Service</a>
-</p>
+<p>Agency for Integrated Care</p>
 </li>
 <li>
-<p><a href="https://www.aic.sg/?gclid=CjwKCAjwj975BRBUEiwA4whRB5kRfBiF67fiP1aHElfJkqLmVyiNrRNgw2KlpV9o9eTq3Aiby8cpCxoCA08QAvD_BwE&amp;gclsrc=aw.ds" rel="noopener noreferrer nofollow" target="_blank">Agency for Integrated Care</a>
-</p>
+<p>Association for Persons with Special Needs</p>
 </li>
 <li>
-<p><a href="https://www.charities.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Charity Council</a>
-</p>
+<p>Charity Council</p>
 </li>
 <li>
-<p><a href="https://www.ecda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Early Childhood Development Agency</a>
-</p>
+<p>Council for Third Age</p>
 </li>
 <li>
-<p><a href="https://www.nac.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Arts Council</a>
-</p>
+<p>DAS Academy</p>
 </li>
 <li>
-<p><a href="https://www.toteboard.gov.sg/" rel="noopener nofollow" target="_blank">Tote Board</a>
-</p>
+<p>Early Childhood Development Agency</p>
 </li>
 <li>
-<p><a href="https://cityofgood.sg/" rel="noopener noreferrer nofollow" target="_blank">National Volunteer &amp; Philanthropy Centre</a>
-</p>
+<p>Government Technology Agency</p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Education</a>
-</p>
+<p>Jade Circle Acaredemy</p>
 </li>
 <li>
-<p><a href="https://www.mccy.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Culture, Coommunity and Youth</a>
-</p>
+<p>Ministry of Culture, Community and Youth</p>
 </li>
 <li>
-<p><a href="https://www.sgenable.sg/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">SG Enable</a>
-</p>
+<p>Ministry of Education</p>
 </li>
 <li>
-<p><a href="https://www.skillsfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">SkillsFuture Singapore</a>
-</p>
+<p>Ministry of Social and Family Development</p>
 </li>
 <li>
-<p><a href="Workforce Singapore" rel="noopener noreferrer nofollow" target="_blank">Workforce Singapore</a>
-</p>
+<p>National Arts Council</p>
 </li>
 <li>
-<p><a href="https://sasw.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Association of Social Workers</a>
-</p>
+<p>National Volunteer &amp; Philanthropy Centre</p>
 </li>
-</ol>
+<li>
+<p>Rainbow Centre</p>
+</li>
+<li>
+<p>Samaritans of Singapore</p>
+</li>
+<li>
+<p>SG Enable</p>
+</li>
+<li>
+<p>SHINE Children and Youth Services</p>
+</li>
+<li>
+<p>Singapore Association of Social Workers</p>
+</li>
+<li>
+<p>Singapore Prison Service</p>
+</li>
+<li>
+<p>SkillsFuture Singapore</p>
+</li>
+<li>
+<p>The Salvation Army</p>
+</li>
+<li>
+<p>Workforce Singapore</p>
+</li>
+</ul>
+<p></p>
 <h2><strong>Our Adult Educators</strong></h2>
 <p>At SSI we believe in developing talents to shine with altruism. We encourage
 and facilitate professional growth for our Adult Educators (AEs) and continuously
@@ -116,57 +163,12 @@ feedback pool with SSI.</p>
 <h4><strong>Apply to be our Adult Educator</strong></h4>
 <p>If you’re interested to join us, kindly submit the&nbsp;<a href="https://go.gov.sg/ae-application-form" rel="noopener noreferrer nofollow" target="_blank">application form</a>&nbsp;along
 with your documents (CV and credentials).</p>
-<p>Our annual recruitment drive for AEs will open for 2 windows: in <strong>April</strong> and <strong>October</strong>.
-Each window will open for a month.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Application Window</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>If short listed, you will be contacted by</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 to 30 April</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>First working day of May</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 to 31 October</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>First working day of November</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h3><strong>Adult Educators Recognition</strong></h3>
 <p>SSI values the contribution of our AEs in the social service sector and
 have a system in place to honour their efforts.</p>
-<p>Our recognition system includes:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>STAR Adult Educator Awards</p>
-</li>
-<li>
-<p>Long Service Award</p>
-</li>
-</ul>
 <h4><strong>Growing Together to Impact as One</strong></h4>
 <p>AE recognition is only a small fraction of what we do for our AEs. We
 also <strong>partner, nurture, engage, impact and journey with them</strong>.</p>
-<p>Read more about our various talent development schemes and initiatives,
-engagements and all things <a href="/files/AE_Resource_Kit_10072024.pdf" rel="noopener noreferrer nofollow" target="_blank">Adult Educator-related</a>.</p>
 <h2><strong>Partnership Opportunities</strong></h2>
 <p>SSI is constantly looking for partnerships with local or international
 Social Service Agencies (SSAs), Non-Profit Organisations (NPOs), Institute

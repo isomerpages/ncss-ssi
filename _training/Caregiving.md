@@ -1,5 +1,5 @@
 ---
-title: Caregiving Training Courses
+title: Caregiving
 permalink: /training/caregiving/
 description: SSI's caregiving courses provide learners with an understanding of
   caregiving while also training them in foundational skills.
@@ -32,7 +32,7 @@ and resources to help them navigate their caregiving journey.</p>
 <p>Managing caregiver stresses</p>
 </li>
 </ul>
-<h4><strong>Registration Open Throughout the year</strong></h4>
+<h4><strong>Complimentary e-Learning Courses (NCSS funded)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0002" rel="noopener noreferrer nofollow" target="_blank">Preparatory Caregiver Training Programme</a>

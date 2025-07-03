@@ -1,5 +1,5 @@
 ---
-title: "Caring for Elderly: Dementia, Empowering Seniors & More"
+title: Eldercare
 permalink: /training/eldercare/
 description: "SSI featured eldercare courses are: Effective Communication with
   Elderly, Caring for Dementia, Counselling, Empowering Seniors & more."
@@ -8,8 +8,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Senior and caregiver sharing a happy moment, Elderly Care Courses" src="/images/eldercare-banner.png">
 </div>
-<h3><strong>Eldercare Complimentary e-Learning Courses offered by SSI</strong></h3>
-<p><em>* Brought to you collaboratively by Council for Third Age (C3A) &amp; Social Service Institute SSI</em>
+<h3><strong>Complimentary e-Learning Courses (NCSS Funded)</strong></h3>
+<p><em>* Brought to you collaboratively by Council for Third Age (C3A) &amp; Social Service Institute (SSI)</em>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -105,7 +105,7 @@ and community hospitals. She currently leads the Person-Centred Communities
 of Practice with a team of 15 practitioners from various eldercare service
 providers.</p>
 <p><strong>Mr Wong Lit Shoon</strong> 
-<br>Lit Soon’s career in the healthcare, social service and eldercare sector
+<br>Lit Shoon’s career in the healthcare, social service and eldercare sector
 spans over 30 years. He was previously the executive director of SAGE Counselling
 Centre, Sunshine Welfare Action Mission (SWAMI) Home, manager of medical
 social services at Ren Ci Hospital (RCLA), a social worker/counsellor at

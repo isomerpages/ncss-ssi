@@ -44,19 +44,19 @@ become a Social Worker.</p>
 <p>Apply writing and presentation skills to facilitate social service practice</p>
 </li>
 <li>
-<p>Use online information to facifilate social service practice</p>
+<p>Use online information to facilitate social service practice</p>
 </li>
 <li>
-<p>Apply human behaviour concepts to faciliate social service practice</p>
+<p>Apply human behaviour concepts to facilitate social service practice</p>
 </li>
 <li>
-<p>Apply family life cycle concept to faciliate social service practice</p>
+<p>Apply family life cycle concept to facilitate social service practice</p>
 </li>
 <li>
-<p>Apply psychological concepts to faciliate social service practice</p>
+<p>Apply psychological concepts to facilitate social service practice</p>
 </li>
 <li>
-<p>Apply socialogical concepts to faciliate social service practice</p>
+<p>Apply socialogical concepts to facilitate social service practice</p>
 </li>
 <li>
 <p>Apply cultural concepts to facilitate social service practice</p>
@@ -169,9 +169,11 @@ with lessons being conducted two to three times a week.</p>
 </li>
 <li>
 <p><strong>Mandatory Components:</strong> Programme Orientation in January
-2025 (exact date TBC)</p>
+2025</p>
 </li>
 </ul>
+<p>The application for 2025 intake has closed. Do enquire with us for the
+next available intake.</p>
 <p>All learners will also be required to undergo the Social Service Field
 Experience (except for learners who have undergone the Social Service Field
 experience in the WSQ ACSS or SSI ACSS programme).
@@ -190,100 +192,10 @@ other terms and conditions for SSG funding eligibility.</p>
 <p>Read more on the <a href="https://www.skillsfuture.gov.sg/funding-individuals" rel="noopener noreferrer nofollow" target="_blank">SSG funding eligibility</a> requirement.</p>
 <p><em>*Please note that course fees are subjected to changes.</em>
 </p>
-<h4>Application Guidelines</h4>
-<p>Applicants to download and upload the completed <a href="/files/hdss/SSI_HDSS_Application_Form__Jul_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>,
-with all relevant supporting documents via the <a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=scet21-2" rel="noopener noreferrer nofollow" target="_blank">Registration Portal</a> between
-15 July to 31 August 2024.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Description</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Date</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Online Applications Open</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 July to 30 August 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Closing date for Applications</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>30 August 2024 (before 11:59pm)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Notify HDSS Applicants of WAT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>16 September 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Conduct Written Aptitude Test¹</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>23 &amp; 24 September 2024
-<br>(10.30am to 11.30am &amp; 3.00pm to 4.00pm)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Interview Session</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mid-October (16 &amp; 17 October 2024*)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Issue Offer Letter</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>22 Oct 2024*</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Programme Dates</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>February 2025 to June 2026</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>¹<em>Eligible HDSS applicants will be notified to sit for a compulsory Written Aptitude Test (WAT).</em>
-<br>*<em>Dates may be</em> s<em>ubject to changes</em>
-</p>
-<p>All shortlisted applicants will have to sit for a Written Aptitude Test
-(WAT), which will be conducted on the stipulated date indicated above.
-Only applicants who successfully pass the WAT¹ will be considered for admission
-into the programme.</p>
-<p>Applicants may also be called to attend an online interview with the selection
-panel on the dates specified above. Applicants will receive an email from
-SSI informing them about the assigned interview date and time and are required
-to make themselves available for the interview accordingly. Requests for
-alternative arrangements will not be considered.</p>
 <hr>
 <h4>FAQs</h4>
 <p>Download the <a href="/files/hdss/FAQ_for_Higher_Diploma_in_Social_Service_Jul_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a> relating
 to this programme.
 <br>Learn more about the application procedure from the <a href="/files/hdss/ssi%20-%20application%20guide%20-%20higher%20diploma%20in%20social%20service%20(jun%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">HDSS Application Guide</a>.</p>
+<p></p>
 <p></p>

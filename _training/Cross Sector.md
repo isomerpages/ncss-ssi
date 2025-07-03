@@ -1,5 +1,5 @@
 ---
-title: Cross Sector Training Courses
+title: Cross Sector
 permalink: /training/cross-sector/
 description: SSI’s cross sector courses provide an overview and understanding of
   each sub-sector and their unique social needs.

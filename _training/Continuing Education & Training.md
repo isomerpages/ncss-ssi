@@ -1,5 +1,5 @@
 ---
-title: Continuing Education & Training (CET) Courses
+title: Continuing Education & Training
 permalink: /training/cet-programmes/
 description: SSI offers Continuing Education and Training (CET) programmes to
   help professionals and new social service entrants gain the relevant

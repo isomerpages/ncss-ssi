@@ -1,5 +1,5 @@
 ---
-title: Featured Social Service Courses for Registration
+title: Featured Courses
 permalink: /training/course-registration/
 description: SSI offers courses and training for social workers and the social
   service sector. Find out more about the available courses here.
@@ -138,17 +138,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A group of participants in the Training Network Model course" src="/images/training/tnm-banner.png">
-</div>
-<h4>Coming Soon!</h4>
-<p><a href="https://www.ssi.gov.sg/training/tnm-courses/" rel="noopener noreferrer nofollow" target="\_blank">View all TNM 2.0 courses</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<hr>
 <h3><strong>Social Service Course Funding Options</strong></h3>
 <ul data-tight="true" class="tight">
 <li>

@@ -20,7 +20,7 @@ will promote the development and enhancement of horizontal skills necessary
 to perform the role of a Social Service Assistant. There are five WSQ modules
 and five non-WSQ modules in this programme. Successful completion of the
 programme will provide learners with the academic/qualification pathway
-to progress further in their journey to upskill themselves. Graduands from
+to progress further in their journey to upskill themselves. Graduates from
 this programme will be eligible to apply for the SSI Higher Diploma in
 Social Service (HDSS), which articulates to the Bachelor of Social Work
 programme offered by the Singapore University of Social Sciences (SUSS).

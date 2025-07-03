@@ -1,5 +1,5 @@
 ---
-title: Management and Organisation Development Training Courses
+title: Management and Organisation Development
 permalink: /training/management-and-organisation-development/
 description: SSI provides courses that train learners in management, leadership,
   fundraising and corporate functions.
@@ -27,7 +27,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h3><strong>Complimentary e-learning Courses</strong></h3>
+<h3><strong>Complimentary e-learning Courses (NCSS funded)</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0140" rel="noopener nofollow" target="_blank">Data &amp; AI Literacy e-Primer</a>
