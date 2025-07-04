@@ -18,7 +18,7 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF482" rel="noopener nofollow" target="_blank">Apply development theories when working with children and youths</a><em>-TGS-2020513474</em>
-<br> <strong>Register by 29 July 2025</strong>
+<br><strong>Register by 29 July 2025</strong>
 </p>
 </li>
 <li>
@@ -68,8 +68,7 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0126" rel="noopener nofollow" target="_blank">Counselling Guidelines Training: Working with Youth with Sexual Orientation and Gender Issues</a><em> - TGS-2025053693</em>
-</p>
-<p><strong>Register by 15 September 2025</strong>
+<br><strong>Register by 15 September 2025</strong>
 </p>
 </li>
 </ul>
