@@ -19,11 +19,6 @@ youth, adults and seniors.</p>
 <h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5725" rel="noopener nofollow" target="_blank"><u>Motivational Interviewing: An Introduction for Social Service Practitioners (Classroom &amp; Asynchronous)</u></a>
-<br><strong>Register by 23 June 2025</strong>
-</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS62" rel="noopener nofollow" target="_blank">Supervise Effectively with Fieldwork Education Concepts and Tools</a>
 <br><strong>Register by 10 July 2025</strong>
 </p>
@@ -40,7 +35,19 @@ youth, adults and seniors.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0100" rel="noopener nofollow" target="_blank">Inclusive Training Series: Understanding and Working with People in Diverse Groups</a>
-<br><strong>Register by 13 August 202</strong>
+<br><strong>Register by 13 August 2025</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCET6-M" rel="noopener nofollow" target="_blank">Understanding the Social Service Sector</a><em>- TGS-2025053701</em>
+</p>
+<p><strong>Register by 25 August 2025</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0164" rel="noopener nofollow" target="_blank">Effective Practice Supervision for Social Work Supervisors</a>
+</p>
+<p><strong>Register by 17 September 2025</strong>
 </p>
 </li>
 <li>
