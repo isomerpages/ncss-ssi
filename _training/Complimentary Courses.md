@@ -101,10 +101,6 @@ have requested for more support on.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCOF430" rel="noopener noreferrer nofollow" target="_blank">Introduction to Internal Controls</a>
-</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0132" rel="noopener nofollow" target="_blank">Sustainable Fundraising Strategies for NPOs Playbook</a>
 </p>
 </li>
