@@ -51,8 +51,8 @@ sections:
       description: Join us to build a caring nation, where giving becomes a part of
         everyday life. 100% of your donation goes towards supporting the
         communities in need.
-      button: Donate Now
-      url: https://go.gov.sg/ssi-cfc
+      button: Learn More
+      url: https://www.comchest.gov.sg/our-products/change-for-charity/home
       image: /images/homepage/cfc.png
       alt: Change for Charity text logo
   - infopic:
