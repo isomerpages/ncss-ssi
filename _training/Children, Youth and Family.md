@@ -12,6 +12,21 @@ variant: tiptap
 <h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF278" rel="noopener nofollow" target="_blank">Introduction to Trauma informed Positive Behavioural Interventions and Supports for Children and Young Persons in Residential Care</a>
+<br><strong>Register by 16 July 2025</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF482" rel="noopener nofollow" target="_blank">Apply development theories when working with children and youths</a><em>-TGS-2020513474</em>
+<br> <strong>Register by 29 July 2025</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5938" rel="noopener nofollow" target="_blank">Management of Family Violence: Supporting Clients in Their Trauma Recovery </a><em>-TGS-2020500752</em> 
+<br><strong>Register by 29 July 2025</strong>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5936" rel="noopener nofollow" target="_blank">Family &amp; Adult Support Tool (FAST) - User (Classroom &amp; Asynchronous) </a><em>- TGS-2020500870 </em>
 <br><strong>Register by 4 August 2025</strong>
 </p>
