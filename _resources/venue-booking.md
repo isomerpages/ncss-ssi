@@ -5,7 +5,7 @@ description: Located adjacent to Tiong Bahru MRT, SSI's venues are ideal for
   conducting trainings, networking events or organisational retreats.
 variant: tiptap
 ---
-<h4><strong>Venue booking is temporarily paused and will be available again soon. </strong>Please email us at socialserviceinstitute@ncss.gov.sg for further queries.</h4>
+<h4><strong>Venue booking is temporarily paused and will be available again soon. Please email us at socialserviceinstitute@ncss.gov.sg for further queries.</strong></h4>
 <hr>
 <p>SSI’s rooms are offered at competitive booking rates and located at a
 convenient location above Tiong Bahru MRT Station. The rooms are ideal
