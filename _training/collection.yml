@@ -2,6 +2,7 @@ collections:
   training:
     output: true
     order:
+      - Leadership Courses.md
       - Featured Courses.md
       - Training Overview.md
       - Continuing Education & Training.md
