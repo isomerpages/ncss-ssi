@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Leadership Courses offered by SSI</strong></h3>
-<h4><strong>Leadership Milestone Programme </strong></h4>
+<h4><strong>Leadership Milestone Programme</strong></h4>
 <p>Comprising 3 programmes designed for first-time managers (Foundational),
 middle managers (Intermediate) and managers at the senior management level
 (Advanced), the NCSS Leadership Milestone Programmes focus on building
@@ -31,12 +31,14 @@ and be better prepared with the strategic mindset and leadership capabilities
 to inspire teams, align efforts with organisational goals, and contribute
 towards a high-performing, future-ready organisation.</p>
 <h4><strong>Course Details</strong></h4>
-<p><strong>Course title: </strong>Leading People in Organisations</p>
-<p><strong>Course dates</strong>: 29 Aug, 5 Sep, 19 Sep 2025 (3-day course)</p>
-<p><strong>Time</strong>: 9am to 5pm</p>
-<p><strong>Venue</strong>: Nanyang Polytechnic</p>
-<p><strong>Fees</strong>: $215.82 (after 70% course funding, inclusive of
-GST) &nbsp;</p>
+<p><strong>Course title: </strong>Leading People in Organisations
+<br><strong>Course dates</strong>: 29 Aug, 5 Sep, 19 Sep 2025 (3-day course)
+<br><strong>Time</strong>: 9am to 5pm
+<br><strong>Venue</strong>: Nanyang Polytechnic
+<br><strong>Fees</strong>: $215.82 (after 70% course funding, inclusive of
+GST) &nbsp;
+<br>
+</p>
 <p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/3a996fab-5128-480b-99f7-c04105499a87" rel="noopener noreferrer nofollow" target="_blank">Register here</a>
 </p>
 <h4><strong>Course Enquiries</strong></h4>
