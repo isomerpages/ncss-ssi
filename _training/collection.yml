@@ -2,11 +2,11 @@ collections:
   training:
     output: true
     order:
-      - Leadership Courses.md
       - Featured Courses.md
       - Training Overview.md
       - Continuing Education & Training.md
       - Board Development.md
+      - Leadership Courses.md
       - Caregiving.md
       - Children, Youth and Family.md
       - Cross Sector.md
