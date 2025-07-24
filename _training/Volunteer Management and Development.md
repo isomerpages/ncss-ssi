@@ -112,6 +112,7 @@ and develop their volunteer managers.</p><a class="isomer-image-wrapper" href="h
 <p><a href="https://go.gov.sg/ncssvro-vmcommunity" rel="noopener noreferrer nofollow" target="_blank">Register to be a part of the community</a> and
 be the first to receive updates on Volunteer Management related news and
 initiatives!
+<br>
 <br>Alternatively, if you have any Volunteer Management related questions,
 feel free to drop us an email at <a href="mailto:shirley_cheong@ncss.gov.sg" rel="noopener nofollow" target="_blank">shirley_cheong@ncss.gov.sg</a>.
 <br>
