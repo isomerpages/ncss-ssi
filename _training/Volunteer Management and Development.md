@@ -107,9 +107,7 @@ as volunteer managers plan towards the longer-term goal of serving and
 growing with the sector. Besides volunteer managers, SSAs’ management and
 human resource practitioners may also use the LDR as a guide to recruit
 and develop their volunteer managers.</p><a class="isomer-image-wrapper" href="https://go.gov.sg/ldrpublication"><img style="width: 100%" height="auto" width="100%" alt="Mr Christian Chao" src="/images/training/volunteer/Mr_Christian_Chao.jpg"></a>
-<a class="isomer-image-wrapper" href="https://go.gov.sg/ldrpublication">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Teng Su Ching" src="/images/training/volunteer/Prof_Teng_Su_Ching.jpg">
-</a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/ldrpublication"><img style="width: 100%" height="auto" width="100%" alt="Prof Teng Su Ching" src="/images/training/volunteer/Prof_Teng_Su_Ching.jpg"></a>
 <h3><strong>NCSS Volunteer Management Community</strong></h3>
 <p><a href="https://go.gov.sg/ncssvro-vmcommunity" rel="noopener noreferrer nofollow" target="_blank">Register to be a part of the community</a> and
 be the first to receive updates on Volunteer Management related news and
