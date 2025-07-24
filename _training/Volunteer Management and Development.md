@@ -110,13 +110,6 @@ and develop their volunteer managers.</p><a class="isomer-image-wrapper" href="h
 <a class="isomer-image-wrapper" href="https://go.gov.sg/ldrpublication">
 <img style="width: 100%" height="auto" width="100%" alt="Prof Teng Su Ching" src="/images/training/volunteer/Prof_Teng_Su_Ching.jpg">
 </a>
-<h3>Learning &amp; Development Roadmap (LDR) Self-assessment Tool</h3>
-<p>The accompanying Self-assessment Tool (SAT) to the LDR helps volunteer
-managers to identify their proficiency gaps and relevant training courses
-(including Social Service Institutes’ (SSI) courses), to further strengthen
-their capabilities so as to perform effectively in their roles.</p>
-<p>Complete the <a href="https://go.gov.sg/ncssvro-ldrsat" rel="noopener noreferrer nofollow" target="_blank">Digital Self-Assessment Tool</a> and
-receive a personalised report!</p>
 <h3><strong>NCSS Volunteer Management Community</strong></h3>
 <p><a href="https://go.gov.sg/ncssvro-vmcommunity" rel="noopener noreferrer nofollow" target="_blank">Register to be a part of the community</a> and
 be the first to receive updates on Volunteer Management related news and
