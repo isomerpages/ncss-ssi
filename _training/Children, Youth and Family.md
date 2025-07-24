@@ -122,10 +122,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5802" rel="noopener nofollow" target="_blank">Helping Family Members Cope with Issues Arising from Incarceration of a Loved One</a><em> - TGS-2020500637</em>
-</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5158" rel="noopener noreferrer nofollow" target="_blank">Helping Youths Cope with Anger</a>
 </p>
 </li>
@@ -143,7 +139,7 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0115" rel="noopener nofollow" target="_blank">Management of Family Violence: Supervision of Staff in Family Violence Work</a>
-<br>Register by 13 February 2025</p>
+</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF305" rel="noopener noreferrer nofollow" target="_blank">Mentoring and Coaching Youths Effectively (Classroom &amp; Asynchronous)</a> - <em>TGS-2021009573</em>
@@ -151,10 +147,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0155" rel="noopener nofollow" target="_blank">Protective Behaviours for Children – a Preventive Intervention against Abuse</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5437" rel="noopener nofollow" target="_blank">Rehabilitation and Re-Integration Needs of Former Drug Offenders</a>
 </p>
 </li>
 <li>
@@ -177,50 +169,67 @@ variant: tiptap
 </ul>
 <p>View our full list of <a href="https://iltms.ssi.gov.sg/Registration/Course" rel="noopener noreferrer nofollow" target="_blank">Children, Youth and Family courses</a>.</p>
 <h3><strong>Featured Adult Educators under Children, Youth and Family Training Courses</strong></h3>
-<p><strong>Ms Alison Lim</strong> 
-<br>Alison started her career as a social worker but is now an accomplished
-human resource development practitioner and academic with over 30 years
-of global experience in the field of adult education and development. She
-is acclaimed for her use of experiential and hands-on methodologies in
-her programmes, which results in learning and change.</p>
-<p>On top of this, Alison is also a lecturer at the Nanyang Technological
-University (NTU) and the Singapore Training and Development Association
-(STADA) and has served in various management/executive committees. She
-is a volunteer trainer with several agencies and carries a Master of Arts
-in Education and Human Resources from George Washington University (GW)
-among other academic and professional certifications.</p>
-<p><strong>Mr Benny Bong</strong> 
-<br>Benny has a Master of Social Work from McGill University and a Bachelor
-of Arts. He is the director and family and marital therapist at The Family
-Therapist and has over 35 years of experience as a therapist, trainer and
-clinical supervisor.</p>
-<p>He is also an external lecturer with the Swinburne University of Technology
-and the National Institute of Education (NIE). In 2013, he was appointed
-by the National Council of Social Service (NCSS) as a master social worker
-and is currently a master practice leader after being appointed by the
-Ministry of Social and Family Development (MSF).</p>
-<p><strong>Dr Praveen Nair</strong> 
-<br>Dr Praveen Nair is currently a director at Raven Counselling &amp; Consultancy
-and has more than 20 years of clinical, supervisory and management experience
-from 3 sectors (the Civil Service, the Non-Profit Sector, &amp; the Private
-Sector). He presently serves as a consultant &amp; clinical supervisor
-for a myriad of organisations that include SSAs, schools, and law firms.
-Apart from being the first practitioner-researcher in Singapore to have
-developed a peer-reviewed &amp; published intervention model specifically
-for local ‘at-risk’ youth, Praveen is also the first practitioner to conduct
-the WDA and university accredited training programmes of ‘<em>Advanced Counselling Skills’</em> and
-‘<em>Understanding Criminality in Singapore Youth’</em>. Similarly, he
-was the first clinician in Singapore to have provided full-time consultation
-services on the ‘Responsible Thinking Process’ for a mainstream school.</p>
-<p>A chartered psychologist with the British Psychological Society, and a
-full member with the Singapore Psychological Society, Praveen is also an
-MSF-certified practitioner for the management of family violence and an
-adjunct faculty member at the Singapore University of Social Sciences &amp;
-James Cook University Singapore. Furthermore, Praveen was a clinical supervisor
-for the New School of Psychotherapy’s Doctorate Programme (UK), and is
-currently a clinical supervisor for Monash University’s Master of Counselling
-course in Singapore.</p>
-<p><strong>Ms Seah Kheng Yeow</strong> 
+<p><strong>Mr Courage Lim Shen Yong</strong>
+<br>Courage has 12 years of clinical experience in social services. He specialises
+in children and youth work, as well as family intervention. His areas of
+interest include youth mental health and wellness, substance use, gaming,
+caregiver stress, and peer support. Courage conducts training and workshops
+for professionals in the social service and private sectors on various
+topics related to children and youth, such as mindful play with children
+and youth for parents. He also conducts workshops and school talks on cyber
+wellness for students, parents, and educators. Additionally, Courage provides
+individual and group supervision and consultation for social service professionals
+and associates, aiming to enhance their casework management, assessment
+skills, and programme delivery. In his work in family intervention, Courage
+works closely with youths to develop strategies for managing their substance
+use and gaming behaviours, and conducts family sessions to address challenges,
+garner support, and restore relationships affected by these behaviours.
+<br>
+<br><strong>Mrs Geraldine Yang-Peterson</strong>&nbsp;&nbsp;&nbsp;
+<br>Geraldine graduated from Deakin University (Melbourne Australia) with
+a Bachelor of Arts Degree (Honours) in Psychology. She also holds a master’s
+degree in counselling psychology from the National Institute of Education,
+Nanyang Technological University. She is a registered counselling Psychologist
+and registered Clinical Supervisor with the Singapore Registry of Psychologist.
+She is also a registered Counsellor with the Singapore Association of Counsellors.
+Geraldine Yang-Peterson is also a Parenting Coordinator who facilitates
+in the management of ongoing issues in high conflict child custody and
+visitation cases and she works with these families as well. Geraldine has
+17 years work experience in the Psychology and Counselling field working
+with early-risk and at-risk children, adolescents and adults from vulnerable
+families. Prior to Empowering Counselling and Psychological Consultancy
+Services, Geraldine was with the Ministry of Social and Family Development
+(MSF). There, she journeyed with children and adolescents who had been
+traumatized, and/or were exhibiting behavioural issues. She also journeyed
+with adolescent and adult offenders as well as worked with the family systems.
+She was awarded PS21 Public Service Award (2014) as well as the Ministry
+of Social and Family Development Star Service Award (2014).</p>
+<p><strong>Dr John K E Tan</strong>
+<br>John holds a doctorate in ministry that he earned from Fuller Theological
+Seminary in Los Angeles, USA. He has spent 25 years in service to youths
+and adults who help youths succeed in life. In addition, he is also a certified
+adult educator, armed with both a Diploma in Adult and Continuing Education
+(DACE) as well as an Advanced Certificate in Training and Assessment (ACTA)
+under the Singapore Workforce Skills Qualifications (WSQ) framework. Currently,
+he serves as the Executive Director of Children-At-Risk Empowerment Association
+(CARE Singapore) in a full-time capacity.</p>
+<p><strong>Mr Melvin Yeo</strong>
+<br>Melvin holds a Masters of Counselling (University of Queensland, Australia)
+and a Masters in Inclusive and Special Education (Monash University, Australia).
+Melvin is deeply passionate about influencing and sustaining positive change
+for persons with disabilities and persons from disadvantaged backgrounds
+and has spent the past 20 years working with at-risk children, children
+with special needs, as well as incarcerated youth and adults, both locally
+and overseas. He led a local non-profit organisation from 2006 to 2009
+to promote awareness to the harms of bullying in Singapore. Prior to joining
+the Voluntary Children’s Homes Training and Management Team of the Social
+Service Institute in January 2018, Melvin was actively involved in reviewing
+and implementing measures to increase the skills and competencies of guidance
+officers, as well as to develop life skills programmes and improve the
+well-being of institutionalised youths under the Youth Residential Service,
+Ministry of Social and Family Development.
+<br>
+<br><strong>Ms Seah Kheng Yeow</strong> 
 <br>Kheng Yeow graduated with a degree in social work and master’s in counselling.
 She was formerly the head, family development and community relations with
 Promoting Alternatives to Violence (PAVE) and executive director with Fei
