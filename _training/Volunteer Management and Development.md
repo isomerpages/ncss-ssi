@@ -111,9 +111,9 @@ and develop their volunteer managers.</p><a class="isomer-image-wrapper" href="h
 <h3><strong>NCSS Volunteer Management Community</strong></h3>
 <p><a href="https://go.gov.sg/ncssvro-vmcommunity" rel="noopener noreferrer nofollow" target="_blank">Register to be a part of the community</a> and
 be the first to receive updates on Volunteer Management related news and
-initiatives!</p>
-<p>Alternatively, if you have any Volunteer Management related questions,
-feel free to drop us an email at <a href="mailto:matthew_leung@ncss.gov.sg" rel="noopener noreferrer nofollow" target="_blank">matthew_leung@ncss.gov.sg</a>.
+initiatives!
+<br>Alternatively, if you have any Volunteer Management related questions,
+feel free to drop us an email at <a href="mailto:shirley_cheong@ncss.gov.sg" rel="noopener nofollow" target="_blank">shirley_cheong@ncss.gov.sg</a>.
 <br>
 <br>Visit <a href="https://www.ncss.gov.sg/research-and-insights/capability-capacity/volunteer-management" rel="noopener nofollow" target="_blank">NCSS Volunteer Management</a> for
 more information.</p>
