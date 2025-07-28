@@ -107,22 +107,14 @@ as volunteer managers plan towards the longer-term goal of serving and
 growing with the sector. Besides volunteer managers, SSAs’ management and
 human resource practitioners may also use the LDR as a guide to recruit
 and develop their volunteer managers.</p><a class="isomer-image-wrapper" href="https://go.gov.sg/ldrpublication"><img style="width: 100%" height="auto" width="100%" alt="Mr Christian Chao" src="/images/training/volunteer/Mr_Christian_Chao.jpg"></a>
-<a class="isomer-image-wrapper" href="https://go.gov.sg/ldrpublication">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Teng Su Ching" src="/images/training/volunteer/Prof_Teng_Su_Ching.jpg">
-</a>
-<h3>Learning &amp; Development Roadmap (LDR) Self-assessment Tool</h3>
-<p>The accompanying Self-assessment Tool (SAT) to the LDR helps volunteer
-managers to identify their proficiency gaps and relevant training courses
-(including Social Service Institutes’ (SSI) courses), to further strengthen
-their capabilities so as to perform effectively in their roles.</p>
-<p>Complete the <a href="https://go.gov.sg/ncssvro-ldrsat" rel="noopener noreferrer nofollow" target="_blank">Digital Self-Assessment Tool</a> and
-receive a personalised report!</p>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/ldrpublication"><img style="width: 100%" height="auto" width="100%" alt="Prof Teng Su Ching" src="/images/training/volunteer/Prof_Teng_Su_Ching.jpg"></a>
 <h3><strong>NCSS Volunteer Management Community</strong></h3>
 <p><a href="https://go.gov.sg/ncssvro-vmcommunity" rel="noopener noreferrer nofollow" target="_blank">Register to be a part of the community</a> and
 be the first to receive updates on Volunteer Management related news and
-initiatives!</p>
-<p>Alternatively, if you have any Volunteer Management related questions,
-feel free to drop us an email at <a href="mailto:matthew_leung@ncss.gov.sg" rel="noopener noreferrer nofollow" target="_blank">matthew_leung@ncss.gov.sg</a>.
+initiatives!
+<br>
+<br>Alternatively, if you have any Volunteer Management related questions,
+feel free to drop us an email at <a href="mailto:shirley_cheong@ncss.gov.sg" rel="noopener nofollow" target="_blank">shirley_cheong@ncss.gov.sg</a>.
 <br>
 <br>Visit <a href="https://www.ncss.gov.sg/research-and-insights/capability-capacity/volunteer-management" rel="noopener nofollow" target="_blank">NCSS Volunteer Management</a> for
 more information.</p>
