@@ -23,7 +23,8 @@ Social Work from a recognised university.</p>
 <p>Learners are required to submit a written report as a form of summative
 assessment.</p>
 <h3><strong>Course Details</strong></h3>
-<p><strong>Module 1: Engagement and Assessment</strong>
+<h4><strong>Module 1: Engagement and Assessment</strong></h4>
+<p><em>TGS-2020501407<br></em>
 <br>This module equips social workers with the knowledge and skills to effectively
 collect, organise and interpret client information from multiple system
 levels. Through this module, learners will be able to:</p>
@@ -50,7 +51,10 @@ process.</p>
 <p>Prepare case formulations using social work and casework theories.</p>
 </li>
 </ul>
-<p><strong>Module 2: Planning and Intervention</strong>
+<p></p>
+<h4><strong>Module 2: Planning and Intervention</strong></h4>
+<p><em>TGS-2020501408</em>
+<br>
 <br>This module will provide social workers with the knowledge and skills
 to develop appropriate intervention strategies to achieve client goals.
 Through this module, learners will be able to:</p>
@@ -69,9 +73,12 @@ to organisational practices.</p>
 <li>
 <p>Illustrate ways to engage stakeholders so as to mobilise community resources
 based on individualised care plans.</p>
+<p></p>
 </li>
 </ul>
-<p><strong>Module 3: Case Review and Evaluation</strong>
+<h4><strong>Module 3: Case Review and Evaluation</strong></h4>
+<p><em>TGS-2020501409</em>
+<br>
 <br>This module provides social workers with the knowledge and skills to analyse,
 monitor and evaluate interventions. Through this module, learners will
 be able to:</p>
@@ -89,9 +96,7 @@ be able to:</p>
 <p>Prepare social reports in accordance to organisational practices.</p>
 </li>
 </ul>
-<p>Note:
-<br>This course qualifies for CPE credits, with the renewal of accreditation
-at one credit per one training hour. For further enquiries on accreditation
-matters with SASW, please contact the Accreditation Secretariat at 6778
-7922 or email to <a href="mailto:accreditation@sasw.org.sg" rel="noopener noreferrer nofollow" target="_blank">accreditation@sasw.org.sg</a>.</p>
+<p></p>
+<p><strong><em>Note: <br></em></strong><em>This course qualifies for CPE credits, with the renewal of accreditation at one credit per one training hour. For further enquiries on accreditation matters with SASW, please contact the Accreditation Secretariat at 6778 7922 or email to <a href="mailto:accreditation@sasw.org.sg" rel="noopener noreferrer nofollow" target="_blank">accreditation@sasw.org.sg</a>.</em>
+</p>
 <p>Find out more about <a href="https://iltms.ssi.gov.sg/registration#/Course" rel="noopener noreferrer nofollow" target="_blank">upcoming intakes</a>.</p>
