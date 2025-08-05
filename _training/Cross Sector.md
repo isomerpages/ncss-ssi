@@ -43,6 +43,7 @@ youth, adults and seniors.</p>
 </li>
 <li>
 <p><a href="/training/cet-programmes/professional-certificate-in-casework/" rel="noopener noreferrer nofollow" target="_blank">Professional Certificate in Casework</a>
+<br><strong>Register by 10 November 2025</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
