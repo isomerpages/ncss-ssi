@@ -19,21 +19,6 @@ youth, adults and seniors.</p>
 <h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS62" rel="noopener nofollow" target="_blank">Supervise Effectively with Fieldwork Education Concepts and Tools</a>
-<br><strong>Register by 10 July 2025</strong>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0070" rel="noopener nofollow" target="_blank">Develop a Social Service Programme (Classroom &amp; Asynchronous) </a><em>- TGS-2022015032</em>
-<br><strong>Register by 17 July 2025</strong>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0105" rel="noopener nofollow" target="_blank">Leading An Effective Case Management Team</a>
-<br><strong>Register by 31 July 2025</strong>
-</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0100" rel="noopener nofollow" target="_blank">Inclusive Training Series: Understanding and Working with People in Diverse Groups</a>
 <br><strong>Register by 13 August 2025</strong>
 </p>
@@ -55,6 +40,24 @@ youth, adults and seniors.</p>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0196" rel="noopener nofollow" target="_blank">Getting Started in the Social Service Sector (e-learning)</a>
 </p>
+</li>
+<li>
+<p><a href="/training/cet-programmes/professional-certificate-in-casework/" rel="noopener noreferrer nofollow" target="_blank">Professional Certificate in Casework</a>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Module 1: Engagement and Assessment <em>- TGS-2020501407</em>
+</p>
+</li>
+<li>
+<p>Module 2: Planning and Intervention <em>- TGS-2020501408</em>
+</p>
+</li>
+<li>
+<p>Module 3: Case Review and Evaluation <em>- TGS-2020501409</em>
+</p>
+</li>
+</ul>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0183" rel="noopener nofollow" target="_blank">Understanding Case Management: A Practical Guide</a>
