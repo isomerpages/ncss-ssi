@@ -34,14 +34,6 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0170" rel="noopener nofollow" target="_blank"><u>Empowerment E-module</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0196" rel="noopener nofollow" target="_blank">Getting Started in the Social Service Sector (e-learning)</a>
-</p>
-</li>
-<li>
 <p><a href="/training/cet-programmes/professional-certificate-in-casework/" rel="noopener noreferrer nofollow" target="_blank">Professional Certificate in Casework</a>
 <br><strong>Register by 10 November 2025</strong>
 </p>
@@ -59,6 +51,14 @@ youth, adults and seniors.</p>
 </p>
 </li>
 </ul>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0170" rel="noopener nofollow" target="_blank"><u>Empowerment E-module</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0196" rel="noopener nofollow" target="_blank">Getting Started in the Social Service Sector (e-learning)</a>
+</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0183" rel="noopener nofollow" target="_blank">Understanding Case Management: A Practical Guide</a>
