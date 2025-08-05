@@ -12,16 +12,6 @@ variant: tiptap
 <h3><strong>Registration now open</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener nofollow" target="_blank">Developing Effective Supervisory Skills</a>
-<br><strong>Register by 21 July 2025</strong>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT6014" rel="noopener nofollow" target="_blank">Teambuilding and Leadership Development</a>
-<br><strong>Register by 31 July 2025</strong>
-</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFRE5103" rel="noopener noreferrer nofollow" target="_blank">Making $ense I: An Introduction to Fund Raising</a>
 <br><strong>Register by 20 August 2025</strong>
 </p>
