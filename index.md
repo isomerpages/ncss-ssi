@@ -9,7 +9,7 @@ notification: Please beware of fraudulent websites falsely claiming to be linked
   to or represent SSI. Read our <a target="_blank"
   href="https://www.ncss.gov.sg/about-us/our-media-centre/announcements-and-advisories/scam-advisory">scam
   advisory</a> for more details.  <br><br> iLTMS is undergoing maintenance from
-  22:00 on 31 July 2025 to 07:00 on 1 August 2025. You may experience downtime
+  22:00 on 7 August 2025 to 07:00 on 8 August 2025. You may experience downtime
   during the <a target="_blank"
   href="https://www.ssi.gov.sg/maintenance-schedule">scheduled maintenance
   period</a>.
