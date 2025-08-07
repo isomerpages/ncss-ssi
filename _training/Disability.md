@@ -12,11 +12,6 @@ variant: tiptap
 <h4>Registration now open</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0119" rel="noopener nofollow" target="_blank">Introduction to Care for Adults with Developmental Disabilities Presenting with Behavioural Problems and Mental Health Issues</a>
-<br><strong>Register by 23 July 2025</strong>
-</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0157" rel="noopener nofollow" target="_blank">Introduction to Reflective and Reflexive Practices</a>
 </p>
 </li>
@@ -40,6 +35,10 @@ for persons with disabilities.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS211" rel="noopener nofollow" target="_blank">Independent Travel Training for Professionals Supporting Persons with Disabilities</a><em> - TGS-2020502149</em>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0119" rel="noopener nofollow" target="_blank">Introduction to Care for Adults with Developmental Disabilities Presenting with Behavioural Problems and Mental Health Issues</a>
 </p>
 </li>
 <li>
