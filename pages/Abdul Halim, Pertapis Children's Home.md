@@ -26,7 +26,6 @@ to his passion for helping families, and is the reason he has a special
 place in his heart for the children in the home. This does not mean that
 he spoils them, however. In fact, when the situation calls for it, he disciplines
 them.</p>
-<h4></h4>
 <p>Halim’s journey with Pertapis Children’s Home started when he undertook
 his National ITE Certificate (NITEC) course in Community Care and Social
 Services and was assigned to the home. Though he went on to serve in the
@@ -42,7 +41,6 @@ in his performance at work as a result from the training. He is now able
 to write more comprehensive reports, and is better aware of the ‘do’s’
 and ‘don’ts’ of basic counselling. In time, he hopes to obtain a degree
 in social work to become a full-time social worker and fulfil his dream.</p>
-<h4></h4>
 <p>Thinking back, Halim still remembers clearly his last working day prior
 to his enlistment. He was in the prayer room with some of the boys, when
 they started hugging him and telling him not to leave them. It was a very
