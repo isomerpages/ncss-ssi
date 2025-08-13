@@ -41,7 +41,6 @@ simply replacing the key words with “thinking chair”.</p>
 </div>
 <p><em><sup>"Seeing her smile, being so happy and healthy – that is one of the greatest joys I’ve experienced. She keeps running over wanting to talk to me, so I know I’ve won her heart."</sup></em>
 </p>
-<p></p>
 <p>While there are challenges they have yet to face with their foster child
 who has been with them since April 2017, both husband and wife are motivated
 to stay ready by keeping themselves updated, “Technology advances too rapidly
