@@ -39,7 +39,7 @@ simply replacing the key words with “thinking chair”.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Mr Michael Kee and Ms Irene Neo" src="/images/stories/pages/mr-michael-kee-and-ms-irene-neo.jpg">
 </div>
-<p><em>"Seeing her smile, being so happy and healthy – that is one of the greatest joys I’ve experienced. She keeps running over wanting to talk to me, so I know I’ve won her heart."</em>
+<p><em><sup>"Seeing her smile, being so happy and healthy – that is one of the greatest joys I’ve experienced. She keeps running over wanting to talk to me, so I know I’ve won her heart."</sup></em>
 </p>
 <p></p>
 <p>While there are challenges they have yet to face with their foster child
