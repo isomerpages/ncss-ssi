@@ -35,7 +35,7 @@ programme offered by the Singapore University of Social Sciences (SUSS).
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<h4>10 Modules</h4>
+<h3>10 Modules</h3>
 <p>Upon completion of the programme learners will be able to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -117,16 +117,32 @@ Certificate in Social Service.</p>
 Service Assistant or as senior house parents, programme coordinators, senior
 home helpers and home care workers. Learn more about <a href="https://www.ncss.gov.sg/careers/social-service-careers/roles-in-social-services/social-work/" rel="noopener nofollow" target="_blank">social work jobs and their required qualifications</a>.</p>
 <h4>Course Details</h4>
-<p><strong>Cohort Size:</strong> 20 pax
-<br><strong>Programme Duration:</strong> 13 months. This is a part time course
-with lessons being conducted two to three times a week.
-<br><strong>Course Timing:</strong> 7 pm to 10 pm
-<br><strong>Fees:</strong> Full Fees: $9,100*
-<br><strong>Estimated Nett Fees:</strong> $2,730* (excluding GST, after SSG
-subsidy).
-<br><strong>GST on Nett Fees:</strong> $245.70*
-<br><strong>Total Payable Course Fees after SSG Funding:</strong> $2,975.70*
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Cohort Size:</strong> 20 pax</p>
+</li>
+<li>
+<p><strong>Programme Duration:</strong> 13 months. This is a part time course
+with lessons being conducted two to three times a week.</p>
+</li>
+<li>
+<p><strong>Course Timing:</strong> 7 pm to 10 pm</p>
+</li>
+<li>
+<p><strong>Fees:</strong> Full Fees: $9,100*</p>
+</li>
+<li>
+<p><strong>Estimated Nett Fees:</strong> $2,730* (excluding GST, after SSG
+subsidy).</p>
+</li>
+<li>
+<p><strong>GST on Nett Fees:</strong> $245.70*</p>
+</li>
+<li>
+<p><strong>Total Payable Course Fees after SSG Funding:</strong> $2,975.70*
 (including GST)</p>
+</li>
+</ul>
 <p>Course fees must be paid prior to the course start date, upon the acceptance
 of offer and within the given timeline provided in the offer letter.</p>
 <p>Learners must achieve at least 75% attendance per module and be certified
