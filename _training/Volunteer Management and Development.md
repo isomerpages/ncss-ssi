@@ -8,7 +8,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Volunteer managers engaged in group discussion during Volunteer Management Course" src="/images/volunteer-banner.png">
 </div>
 <h2><strong>Volunteer Management &amp; Development Courses offered by SSI</strong></h2>
-<h4>Registration now open</h4>
+<h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0133" rel="noopener nofollow" target="_blank">Plan &amp; Strategise: Enhancing Volunteer Engagement</a>
