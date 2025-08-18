@@ -52,12 +52,11 @@ strategic, fiduciary and leadership capabilities needed to serve effectively
 on NPO boards.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>&nbsp;<strong>SGOOD Essentials</strong>
+<p><strong>SGOOD Essentials</strong>
 <br><strong>Establish a Strong Foundation in Nonprofit Governance</strong> –
 Build a foundational understanding of Singapore’s charity sector, the critical
 role of boards in governance and how effective board leadership strengthens
 accountability and stakeholder trust.
-<br>
 <br>
 </p>
 </li>
@@ -66,7 +65,6 @@ accountability and stakeholder trust.
 <br><strong>Understand Board Leadership and Dynamics</strong> – Lead with purpose
 by mastering board roles, cultivating a high-performing board culture,
 and enabling sustained impact through strategic succession and evaluation.
-<br>
 <br>
 </p>
 </li>
@@ -77,7 +75,6 @@ trust-based partnerships between boards and management by clarifying roles,
 strengthening communication and addressing engagement challenges for effective
 governance.
 <br>
-<br>
 </p>
 </li>
 <li>
@@ -86,7 +83,6 @@ governance.
 strategic impact by setting long-term direction, aligning resources with
 the mission and enhancing board effectiveness through structured planning
 and oversight.
-<br>
 <br>
 </p>
 </li>
@@ -97,7 +93,6 @@ a purpose-driven, future-ready workforce by aligning human capital strategy
 with organisational goals, fostering a values-based culture and ensuring
 accountability across staff and volunteer engagement.
 <br>
-<br>
 </p>
 </li>
 <li>
@@ -107,7 +102,6 @@ fundraising, outreach and advocacy into board-level strategy to build donor
 trust, deepen stakeholder engagement and advance sustainable philanthropy
 for long-term mission impact.
 <br>
-<br>
 </p>
 </li>
 <li>
@@ -115,7 +109,6 @@ for long-term mission impact.
 <br>Ensure Financial Management and Compliance – Ensure financial stewardship
 by understanding board responsibilities in compliance, budgeting, oversight
 and reserves management to uphold transparency, accountability and sustainability.
-<br>
 <br>
 </p>
 </li>
@@ -127,7 +120,6 @@ addressing emerging risks including digital and environmental, social and
 governance (ESG) considerations, and guiding the development of systems
 that build resilience and support strategic decision-making.
 <br>
-<br>
 </p>
 </li>
 <li>
@@ -136,7 +128,6 @@ that build resilience and support strategic decision-making.
 empathy-driven governance by embedding user insights into board strategy,
 decisions and oversight to ensure services are inclusive, relevant and
 impactful.
-<br>
 <br>
 </p>
 </li>
@@ -255,11 +246,11 @@ non-profit Directors.</p>
 of the non-profit sector, with a focus on practical implementation, sustainability,
 and long-term impact. Topics in SGOOD have expanded to cover emerging trends,
 digital transformation, innovation, counter-financing of terrorism, service
-delivery effectiveness and forward-looking approaches to governance.</p>
-<p>SGOOD is now offered through blended learning (e-learning, in-person and
+delivery effectiveness and forward-looking approaches to governance.
+<br>
+<br>SGOOD is now offered through blended learning (e-learning, in-person and
 webinar sessions) to enhance the accessibility and learning experience
 for all aspiring and current non-profit Directors.
-<br>
 <br>
 </p>
 </li>
@@ -275,4 +266,4 @@ you are highly encouraged to attend the programme.</p>
 <hr>
 <h4><strong>Subscribe to Mailing List</strong></h4>
 <p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Board Development Mailing List</a> for
-latest updates</p>
+latest updates.</p>

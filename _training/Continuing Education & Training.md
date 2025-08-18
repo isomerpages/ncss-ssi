@@ -14,35 +14,35 @@ which provide learners with certificate, diploma and degree based qualifications
 <h3><strong>CET Programmes offered by SSI</strong></h3>
 <ul>
 <li>
-<p><a href="/training/cet-programmes/advanced-certificate-in-social-service/" rel="noopener noreferrer nofollow" target="_blank">Advanced Certificate in Social Service</a><sup>1</sup> 
+<p><strong><a href="/training/cet-programmes/advanced-certificate-in-social-service/" rel="noopener noreferrer nofollow" target="_blank">Advanced Certificate in Social Service</a><sup>1</sup> </strong>
 <br>This foundational course will provide social service professionals with
 the necessary knowledge and skillsets required to carry out their roles
 effectively when working with clients, partners and stakeholders.</p>
 </li>
 <li>
-<p><a href="/training/cet-programmes/advance-certificate-in-supported-employment/" rel="noopener noreferrer nofollow" target="_blank">Advanced Certificate in Supported Employment (ACSE)</a> 
+<p><strong><a href="/training/cet-programmes/advance-certificate-in-supported-employment/" rel="noopener noreferrer nofollow" target="_blank">Advanced Certificate in Supported Employment (ACSE)</a> </strong>
 <br>The Advanced Certificate in Supported Employment (ACSE) aims to build
 capabilities of job coaches in providing employment and employability support
 for persons with disabilities.</p>
 </li>
 <li>
-<p><a href="/training/cet-programmes/certificate-in-para-counselling/" rel="noopener noreferrer nofollow" target="_blank">Certificate in Para-Counselling in Community Setting</a> 
+<p><strong><a href="/training/cet-programmes/certificate-in-para-counselling/" rel="noopener noreferrer nofollow" target="_blank">Certificate in Para-Counselling in Community Setting</a> </strong>
 <br>This course equips learners with the fundamental knowledge and skills
 in counselling that is required when working alongside certified counselling
 professionals.</p>
 </li>
 <li>
-<p><a href="/training/cet-programmes/higher-diploma-in-social-service/" rel="noopener noreferrer nofollow" target="_blank">Higher Diploma in Social Service (HDSS)</a> 
+<p><strong><a href="/training/cet-programmes/higher-diploma-in-social-service/" rel="noopener noreferrer nofollow" target="_blank">Higher Diploma in Social Service (HDSS)</a> </strong>
 <br>The programme provides an articulation pathway into Bachelor in Social
 Work at the Singapore University of Social Services (SUSS). This is ideal
 for learners who wish to pursue a career in Social Work.</p>
 </li>
 <li>
-<p><a href="https://www.ssi.gov.sg/training/cet-programmes/professional-certificate-in-casework/" rel="noopener noreferrer nofollow" target="_blank">Professional Certificate in Casework</a>
+<p><strong><a href="https://www.ssi.gov.sg/training/cet-programmes/professional-certificate-in-casework/" rel="noopener noreferrer nofollow" target="_blank">Professional Certificate in Casework</a></strong>
 </p>
 </li>
 <li>
-<p><a href="https://www.ssi.gov.sg/training/cet-programmes/professional-certificate-in-group-work/" rel="noopener noreferrer nofollow" target="_blank">Professional Certificate in Groupwork</a>
+<p><strong><a href="https://www.ssi.gov.sg/training/cet-programmes/professional-certificate-in-group-work/" rel="noopener noreferrer nofollow" target="_blank">Professional Certificate in Groupwork</a></strong>
 </p>
 </li>
 </ul>

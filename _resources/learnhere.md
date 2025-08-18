@@ -16,7 +16,7 @@ face-to-face learning in the classroom and online learning).</p>
 <p>Through a blended learning approach, learning can happen before a learner
 enters the classroom, allowing for more effective use of classroom time
 for deeper discussions with our adult educators and their peers.</p>
-<h3>Benefits of LearnHere for learners</h3>
+<h2>Benefits of LearnHere for learners</h2>
 <p>Through LearnHere, Learners can:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -30,11 +30,11 @@ for deeper discussions with our adult educators and their peers.</p>
 sessions.</p>
 </li>
 </ul>
-<h3>iLTMS Portals</h3>
+<h2>iLTMS Portals</h2>
 <p>Watch the iLTMS Video Guide for a step-by-step walkthrough of both the
 Student and LMS Portals to streamline your online learning experience!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DcUX088lGzw?si=VAm1e9AzUurmAP7o"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DcUX088lGzw?si=v2KFYw0Ck5DYp4ie"></iframe>
 </div>
 <p></p>
 <table style="minWidth: 50px">
@@ -152,7 +152,7 @@ will be mail out to the organisation.</p>
 </tr>
 </tbody>
 </table>
-<h3>Guides for Using LearnHere</h3>
+<h2>Guides for Using LearnHere</h2>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/files%20for%20learners/iltms%20user%20guide%20for%20learners.pdf" rel="noopener noreferrer nofollow" target="_blank">Learner User Guide</a>
