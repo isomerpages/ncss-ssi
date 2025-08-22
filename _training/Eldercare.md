@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Senior and caregiver sharing a happy moment, Elderly Care Courses" src="/images/eldercare-banner.png">
 </div>
-<h3><strong>Complimentary e-Learning Courses (NCSS Funded)</strong></h3>
+<h2><strong>Complimentary e-Learning Courses (NCSS Funded)</strong></h2>
 <p><em>* Brought to you collaboratively by Council for Third Age (C3A) &amp; Social Service Institute (SSI)</em>
 </p>
 <ul data-tight="true" class="tight">
