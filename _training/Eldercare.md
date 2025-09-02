@@ -72,6 +72,7 @@ variant: tiptap
 </li>
 </ul>
 <p>View the <a href="https://iltms.ssi.gov.sg/registration/#/Course" rel="noopener noreferrer nofollow" target="_blank">full list of SSI's Eldercare courses</a>.</p>
+<hr>
 <h3><strong>Featured Adult Educators under Eldercare Training Courses</strong></h3>
 <p><strong>Ms Lim Hwee Er</strong> 
 <br>Hwee Er holds a Master of Health Service Management from the University
@@ -118,6 +119,7 @@ Diploma in Art Psychotherapy from Goldsmiths, University of London, an
 Advanced Diploma in Fine Arts &amp; Design from the Nanyang Academy of
 Fine Arts (NAFA) and a Certificate in General Nursing from the School of
 Nursing, Singapore.</p>
+<hr>
 <h4><strong>Subscribe to Mailing List</strong></h4>
 <p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI's Eldercare Mailing List</a> for
 latest updates!</p>
