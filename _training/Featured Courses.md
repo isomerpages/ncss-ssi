@@ -142,7 +142,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3><strong>Social Service Course Funding Options</strong></h3>
+<h4><strong>Social Service Course Funding Options</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>For Singapore Citizens, Permanent Residents and LTVP+ holders:* <a href="https://www.skillsfuture.gov.sg/funding-individuals" rel="noopener noreferrer nofollow" target="_blank">SSG Funding options</a>
