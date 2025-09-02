@@ -12,7 +12,15 @@ variant: tiptap
 <h4>Registration now open</h4>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0136" rel="noopener nofollow" target="_blank">Early Intervention Principles, Practices and Interventions</a>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0157" rel="noopener nofollow" target="_blank">Introduction to Reflective and Reflexive Practices</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0194" rel="noopener nofollow" target="_blank">Mastering Observation and Documentation in Early Intervention Practice</a>
 </p>
 </li>
 </ul>
@@ -78,10 +86,6 @@ for persons with disabilities.</p>
 </ul>
 <h4>Complimentary e-Learning (NCSS funded)</h4>
 <ul data-tight="true" class="tight">
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0157" rel="noopener noreferrer nofollow" target="_blank">Introduction to Reflective and Reflexive Practices</a>
-</p>
-</li>
 <li>
 <p>Providing Professional Support in the Disability Sector - <strong><em>Coming soon!</em></strong>
 </p>
