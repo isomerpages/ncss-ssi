@@ -52,8 +52,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Parents and their son playing on a beach, illustrating the Children, Youth &amp; Family" src="/images/training/cyf-v2.png">
 </div>
-<h4>Certified User For Child And Adolescents Needs And Strengths (Cans)</h4>
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5894" rel="noopener nofollow" target="_blank">Register by 6 October 2025</a></strong>
+<h4>Inhale Insights: Understanding Youth Vaping</h4>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0160" rel="noopener nofollow" target="_blank">Registration is open throughout the year</a></strong>
 <br><a href="https://www.ssi.gov.sg/training/cyandf/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Children, Youth and Family courses</u></a>
 </p>
 </td>
