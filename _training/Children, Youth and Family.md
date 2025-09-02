@@ -187,6 +187,7 @@ variant: tiptap
 </li>
 </ul>
 <p>View our full list of <a href="https://iltms.ssi.gov.sg/Registration/Course" rel="noopener noreferrer nofollow" target="_blank">Children, Youth and Family courses</a>.</p>
+<hr>
 <h3><strong>Featured Adult Educators under Children, Youth and Family Training Courses</strong></h3>
 <p><strong>Mr Courage Lim Shen Yong</strong>
 <br>Courage has 12 years of clinical experience in social services. He specialises
@@ -290,6 +291,7 @@ original developer of TCOM, Dr. John Lyons, as one of the local trainers
 who can train trainers on the use of CANS. She is familiar with the process
 of TCOM implementation and was in the pilot project and early phases of
 TCOM implementation in Singapore.</p>
+<hr>
 <h3><strong>Subscribe to Mailing List</strong></h3>
 <p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Children, Youth and Family Courses</a> mailing
 List for latest updates!</p>
