@@ -11,7 +11,7 @@ variant: tiptap
 </div>
 <p>SSI offers a suite of Continuing Education and Training (CET) programmes
 which provide learners with certificate, diploma and degree based qualifications.</p>
-<h3><strong>CET Programmes offered by SSI</strong></h3>
+<h2><strong>CET Programmes offered by SSI</strong></h2>
 <ul>
 <li>
 <p><strong><a href="/training/cet-programmes/advanced-certificate-in-social-service/" rel="noopener noreferrer nofollow" target="_blank">Advanced Certificate in Social Service</a><sup>1</sup> </strong>
@@ -49,6 +49,7 @@ for learners who wish to pursue a career in Social Work.</p>
 <p><sup>1</sup>The programme name may be subject to further changes.</p>
 <p>View the <a href="https://iltms.ssi.gov.sg/registration#/Course" rel="noopener noreferrer nofollow" target="_blank">full list of CET programmes</a> offered
 by SSI.</p>
-<h4><strong>Subscribe to Mailing List</strong></h4>
+<hr>
+<h3><strong>Subscribe to Mailing List</strong></h3>
 <p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s CET Programmes Mailing List</a> for
 latest updates!</p>
