@@ -5,7 +5,7 @@ description: SSI offers a Higher Diploma in Social Service course for aspiring
   social workers, with an articulation pathway to SUSS.
 variant: tiptap
 ---
-<h3>Overview: Higher Diploma in Social Service</h3>
+<h2>Overview: Higher Diploma in Social Service</h2>
 <p>SSI’s Higher Diploma in Social Service (HDSS) is a programme for new entrants
 and existing Social Service Professionals who aspire to be Social Work
 Associates. The programme aims to equip learners with the necessary skills
@@ -33,7 +33,7 @@ become a Social Worker.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<h4>9 Non-WSQ Modules</h4>
+<h3>9 Non-WSQ Modules</h3>
 <p><strong>Upon completion of the programme learners will be able to:</strong>
 </p>
 <ul data-tight="true" class="tight">
