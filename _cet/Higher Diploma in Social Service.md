@@ -162,7 +162,7 @@ Youth Worker or Volunteer Executive.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>No of Modules:</strong> 
+<p><strong>No of Modules:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -181,7 +181,7 @@ two to three times a week.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Programme Date:</strong> 
+<p><strong>Programme Date:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -199,7 +199,7 @@ two to three times a week.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Full Fees:</strong> 
+<p><strong>Full Fees:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -208,7 +208,7 @@ two to three times a week.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Estimated Nett Fees:</strong> 
+<p><strong>Estimated Nett Fees:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -217,7 +217,7 @@ two to three times a week.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>GST on Nett Fees:</strong> 
+<p><strong>GST on Nett Fees:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -226,7 +226,7 @@ two to three times a week.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Total Payable Course Fees after SSG Funding:</strong> 
+<p><strong>Total Payable Course Fees after SSG Funding:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -235,7 +235,7 @@ two to three times a week.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assessment:</strong> 
+<p><strong>Assessment:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -280,7 +280,152 @@ other terms and conditions for SSG funding eligibility.</p>
 <p><em>*Please note that course fees are subjected to changes.</em>
 </p>
 <hr>
-<h4>FAQs</h4>
+<h3><strong>Registration for Course Preview</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Date:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 October 2025, Monday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Time:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7pm&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSI (Level 18 - Connect/Dignity/Empower), Tiong Bahru Central Plaza&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Ready to start your social service learning journey? <a href="https://go.gov.sg/ssi-preview-registration" rel="noopener noreferrer nofollow" target="_blank">Sign up</a> now!</p>
+<p><strong>Key Dates to note:</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>Tentative Assessment Interviews and Evaluation Dates</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Written Aptitude Test (WAT) Sessions¹:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Session 1: 20 November 2025, 15:00-16:00​</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Session 2: 21 November 2025, 10:30-11:30​</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Interview Sessions:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Week of 5 January 2026<sup>#</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>Estimated Programme Timeline​</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Offer Letter:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>From January 2026<sup>#​</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Orientation:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>February 2026​</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Programme Duration:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March 2026 - July 2027</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>¹<em>Eligible HDSS applicants will be notified (around end Oct 2025) to sit for a compulsory Written Aptitude Test (WAT).</em>​
+<br><sup>#</sup><em>Dates may be</em> s<em>ubject to changes.</em>
+</p>
+<hr>
+<h3>FAQs</h3>
 <p>Download the <a href="/files/hdss/FAQ_for_Higher_Diploma_in_Social_Service_Jul_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a> relating
 to this programme.
 <br>Learn more about the application procedure from the <a href="/files/hdss/ssi%20-%20application%20guide%20-%20higher%20diploma%20in%20social%20service%20(jun%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">HDSS Application Guide</a>.</p>
