@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Caregiver supporting person with mobility aid, Caregiving Courses" src="/images/caregiving-banner.png">
 </div>
-<h3><strong>Caregiving Training Courses offered by SSI</strong></h3>
+<h2><strong>Caregiving Training Courses offered by SSI</strong></h2>
 <p>Caregiving is a very demanding yet rewarding task. Being a caregiver requires
 stamina and good health.</p>
 <p>Preparatory Caregiver Training Programme (E-learning) provides existing
@@ -17,7 +17,7 @@ care issues the caregivers will face, and responsibilities involved in
 providing care for loved ones.</p>
 <p>The training also provides the learners with knowledge, tips, information
 and resources to help them navigate their caregiving journey.</p>
-<h4><strong>Caregiving Course Outline: Topics Covered</strong></h4>
+<h3><strong>Caregiving Course Outline: Topics Covered</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Understanding different aspects of caregiving</p>
@@ -32,7 +32,7 @@ and resources to help them navigate their caregiving journey.</p>
 <p>Managing caregiver stresses</p>
 </li>
 </ul>
-<h4><strong>Complimentary e-Learning Courses (NCSS funded)</strong></h4>
+<h3><strong>Complimentary e-Learning Courses (NCSS funded)</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0002" rel="noopener noreferrer nofollow" target="_blank">Preparatory Caregiver Training Programme</a>
@@ -40,6 +40,7 @@ and resources to help them navigate their caregiving journey.</p>
 convenience.</p>
 </li>
 </ul>
-<h4><strong>Subscribe to Mailing List</strong></h4>
+<hr>
+<h3><strong>Subscribe to Mailing List</strong></h3>
 <p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Caregiving Mailing List</a> for
 latest updates!</p>
