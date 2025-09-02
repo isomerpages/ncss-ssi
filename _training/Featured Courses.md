@@ -41,8 +41,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Students cheering with raised fists with the text Cross Sector" src="https://www.ssi.gov.sg/images/training/cross-sector-v2.png">
 </div>
-<h4>Professional Certificate in Casework</h4>
-<p><strong><a href="https://staging-lite.d3dfnptn1xdx2p.amplifyapp.com/training/cet-programmes/professional-certificate-in-casework/" rel="noopener nofollow" target="_blank">Register by 10 November 2025</a></strong>
+<h4>Understanding and Working with the Malay-Muslim Clients</h4>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5570" rel="noopener nofollow" target="_blank">Register by 11 November 2025</a></strong>
 <br><a href="https://www.ssi.gov.sg/training/cross-sector/" rel="noopener nofollow" target="_blank">View other Cross Sector courses</a>
 </p>
 </td>
