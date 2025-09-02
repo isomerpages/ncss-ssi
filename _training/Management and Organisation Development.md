@@ -92,6 +92,7 @@ SIT)</p>
 latest updates.</p>
 </li>
 </ul>
+<hr>
 <h3><strong>Featured Adult Educators under Management and Organisation Development Training Courses</strong></h3>
 <p><strong>Ms Anita Yap</strong> 
 <br>Anita is the principal coach &amp; facilitator of a boutique coaching,
@@ -143,6 +144,7 @@ and has transformed charity income sources drastically through local resource
 mobilisation across Asia, especially in the areas of local private sector
 fundraising through individual giving, philanthropic investments and corporate
 engagement.</p>
+<hr>
 <h3><strong>Subscribe to Mailing List</strong></h3>
 <p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Management and Organisation Development Mailing List</a> for
 latest updates!</p>
