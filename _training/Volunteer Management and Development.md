@@ -11,8 +11,11 @@ variant: tiptap
 <h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0133" rel="noopener nofollow" target="_blank">Plan &amp; Strategise: Enhancing Volunteer Engagement</a>
-<br><strong>Register by 21 August 2025</strong>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0180" rel="noopener nofollow" target="_blank">What Makes Rehab Effective</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0186" rel="noopener nofollow" target="_blank">Understanding Substance Addiction and the Recovery Journey</a>
 </p>
 </li>
 </ul>
@@ -20,10 +23,6 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0035" rel="noopener noreferrer nofollow" target="_blank">Befriending 101 (For Volunteers)</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0186" rel="noopener nofollow" target="_blank">Understanding Substance Addiction and the Recovery Journey</a>
 </p>
 </li>
 <li>
@@ -36,10 +35,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0178" rel="noopener nofollow" target="_blank">Volunteer Role Redesign</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0180" rel="noopener nofollow" target="_blank">What Makes Rehab Effective</a>
 </p>
 </li>
 </ul>
