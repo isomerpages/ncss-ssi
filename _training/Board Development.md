@@ -8,8 +8,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Diverse group of professionals in a board meeting - Board Development Training" src="/images/board-development-banner.png">
 </div>
-<h3><strong>Board Development Courses offered by SSI</strong></h3>
-<h4><strong>Course Description </strong><em>(Refreshed!)</em></h4>
+<h2><strong>Board Development Courses offered by SSI</strong></h2>
+<p><strong>Course Description (Refreshed!)</strong>
+</p>
 <p>The Governance for Outstanding Organisation Directors (SGOOD) Programme,
 developed by the Singapore Institute of Directors in collaboration with
 the National Council of Social Service (NCSS), is designed to empower current
@@ -18,7 +19,7 @@ aims to provide a clear understanding of their roles and responsibilities
 while equipping them with the tools and insights to make values-driven,
 future-ready decisions that support long-term impact.</p>
 <hr>
-<h4><strong>Course Objectives</strong></h4>
+<h3><strong>Course Objectives</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Meet the unique learning needs of board members serving in NPOs.</p>
@@ -36,15 +37,15 @@ enhancing the impact of NPOs.</p>
 <p>SGOOD is part of the GovernWell: Excellence in Charity Leadership series
 planned by the Charity Council and Office of the Commissioner of Charities.</p>
 <hr>
-<h4><strong>Target Audience</strong></h4>
+<h3><strong>Target Audience</strong></h3>
 <p>Aspiring, new and current directors, and senior management of NPOs.</p>
 <hr>
-<h4><strong>Programme Structure</strong></h4>
+<h3><strong>Programme Structure</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Programme Structure" src="/images/training/Programme_Structure.jpg">
 </div>
 <hr>
-<h4><strong>e-Learning Modules</strong></h4>
+<h3><strong>e-Learning Modules</strong></h3>
 <p>The 10 e-Learning modules in the SGOOD programme (8 core modules plus
 introductory and capstone modules) address key governance challenges and
 opportunities faced by board directors of NPOs. These modules aim to build
@@ -141,7 +142,7 @@ social impact.</p>
 </li>
 </ol>
 <hr>
-<h4><strong>Facilitated In-Person Learning Day</strong></h4>
+<h3><strong>Facilitated In-Person Learning Day</strong></h3>
 <p>Participants are required to attend one of the facilitated in-person learning
 days, held twice during the programme, which serves as a capstone experience
 for participants. These sessions delve into real-world case studies drawn
@@ -167,7 +168,7 @@ sector and strengthening the governance ecosystem.</p>
 <p><strong>It is mandatory for participants to complete all e-Learning modules and attend one in-person session (full-day) to fulfil the completion criteria for the SGOOD programme.</strong>
 </p>
 <hr>
-<h4><strong>Online Regulatory Panel</strong></h4>
+<h3><strong>Online Regulatory Panel</strong></h3>
 <p>Designed as a half-day webinar, this session will serve as the culmination
 of the SGOOD programme, bringing together sector experts and industry regulators
 for an insightful panel discussion. Key themes from the modules will be
@@ -177,7 +178,7 @@ trends, and future directions in non-profit governance.</p>
 excellence, key takeaways from the SGOOD programme, and actionable insights
 to strengthen their organisations for the future.</p>
 <hr>
-<h4><strong>Programme Dates</strong></h4>
+<h3><strong>Programme Dates</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -224,17 +225,17 @@ the date of registration - whichever is later - until 30 June 2026.</p>
 </tbody>
 </table>
 <hr>
-<h4><strong>Course Fees</strong></h4>
+<h3><strong>Course Fees</strong></h3>
 <p>S$1,090 per participant (inclusive of GST).</p>
 <hr>
-<h4><strong>Register</strong></h4>
+<h3><strong>Register</strong></h3>
 <p><a href="https://www.sid.org.sg/Web/Professional_Development/Courses/Essentials/SGOOD_Essentials.aspx?WebsiteKey=45b06dd1-2681-479a-bfab-022b0a05c2ce&amp;a2fb84aa93cb=1#a2fb84aa93cb" rel="noopener nofollow" target="_blank">Register here for the SGOOD programme.</a>
 </p>
 <p><strong>Course enquiries</strong>
 <br>Email: <a rel="noopener noreferrer nofollow" target="_blank">learning@sid.org.sg</a> 
 <br>Tel: (65) 6422 1188</p>
 <hr>
-<h4><strong>FAQ</strong></h4>
+<h3><strong>FAQ</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>What is the difference between the former SGOOD programme compared to this refreshed version?</strong>
@@ -264,6 +265,6 @@ you are highly encouraged to attend the programme.</p>
 </li>
 </ol>
 <hr>
-<h4><strong>Subscribe to Mailing List</strong></h4>
+<h3><strong>Subscribe to Mailing List</strong></h3>
 <p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Board Development Mailing List</a> for
 latest updates.</p>
