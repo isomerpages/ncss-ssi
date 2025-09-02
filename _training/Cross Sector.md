@@ -183,6 +183,7 @@ youth, adults and seniors.</p>
 </li>
 </ul>
 <p>View the full list of <a href="https://iltms.ssi.gov.sg/Registration/Course" rel="noopener noreferrer nofollow" target="_blank">Cross Sector courses offered by SSI</a>.</p>
+<hr>
 <h3><strong>Featured Adult Educators under Cross Sector Training Courses</strong></h3>
 <p><strong>Ms Alice Lee-Tok</strong> 
 <br>Alice is the author of a parenting book titled ‘Building Bridges with
@@ -250,6 +251,7 @@ at NUS and SUSS since 2008. He is an approved clinical supervisor with
 the University of Michigan, NUS, SUSS, Curtin and Swinburne University.
 His work had been published in professional journals and academic textbooks
 and he has presented in several local and international conferences.</p>
-<h3>Subscribe to Mailing List</h3>
+<hr>
+<h3><strong>Subscribe to Mailing List</strong></h3>
 <p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Cross Sector Mailing List</a> for
 latest updates!</p>
