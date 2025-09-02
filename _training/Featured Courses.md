@@ -107,8 +107,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Social service leaders in management and organisation development course" src="https://www.ssi.gov.sg/images/training/mod-v2.png">
 </div>
-<h4>Making $ense I: An Introduction to Fund Raising</h4>
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFRE5103" rel="noopener nofollow" target="_blank">Register by 20 August 2025</a></strong>
+<h4>Developing Effective Supervisory Skills</h4>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener nofollow" target="_blank">Register by 24 December 2025</a></strong>
 <br><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Management and Organisation Development courses</u></a>
 </p>
 </td>
