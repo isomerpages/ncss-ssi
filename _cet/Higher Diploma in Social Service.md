@@ -175,7 +175,7 @@ Youth Worker or Volunteer Executive.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 to 17 months. This is a part time course with lessons being conducted
+<p>16 to 17 months. This is a part-time course with lessons being conducted
 two to three times a week.</p>
 </td>
 </tr>
@@ -230,7 +230,7 @@ two to three times a week.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$3,531.60 (including 9% GST)</p>
+<p>$3,531.60 (including 9% GST)*</p>
 </td>
 </tr>
 <tr>
