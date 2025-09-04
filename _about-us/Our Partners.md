@@ -5,14 +5,13 @@ description: The Training Network Model refers to our network of industry
   professionals and organisations that have partnered with SSI.
 variant: tiptap
 ---
-<h1><strong>Overview</strong></h1>
+<h2><strong>Overview</strong></h2>
 <p>The Training Network Model refers to the network of partners that SSI
 engages to champion training in their area of expertise. This leads to
 an increased number of skilled and enterprising professionals in the sector,
 greater capacity and capability of social purpose entities and the development
 of innovative solutions.</p>
-<h2><strong>Our Programme Partners</strong></h2>
-<p></p>
+<h3><strong>Our Programme Partners</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Arbinger Institute</p>
@@ -75,7 +74,8 @@ of innovative solutions.</p>
 <p>Yong En Care Centre</p>
 </li>
 </ul>
-<h2><strong>Our Agency Partners</strong></h2>
+<hr>
+<h3><strong>Our Agency Partners</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Academy of Human Development Pte Ltd</p>
@@ -147,29 +147,32 @@ of innovative solutions.</p>
 <p>Workforce Singapore</p>
 </li>
 </ul>
-<p></p>
-<h2><strong>Our Adult Educators</strong></h2>
+<hr>
+<h3><strong>Our Adult Educators</strong></h3>
 <p>At SSI we believe in developing talents to shine with altruism. We encourage
 and facilitate professional growth for our Adult Educators (AEs) and continuously
 build a solid and lasting partnership with them.&nbsp; We stand committed
 to evolve stronger as a family. In mind with our prime mission to create
 trends, explore possibilities and inspire compassion.</p>
-<h3><strong>Why join the Adult Educators pool?</strong></h3>
+<h3>Why join the Adult Educators pool?</h3>
 <p>AEs who partner with SSI can look forward to opportunities to take on
 different roles. There are various engagement mediums and professional
 development opportunities in place to encourage AEs’ continuous professional
 growth, active engagements and interactions, and a providence of a quality
 feedback pool with SSI.</p>
-<h4><strong>Apply to be our Adult Educator</strong></h4>
+<p><strong>Apply to be our Adult Educator</strong>
+</p>
 <p>If you’re interested to join us, kindly submit the&nbsp;<a href="https://go.gov.sg/ae-application-form" rel="noopener noreferrer nofollow" target="_blank">application form</a>&nbsp;along
 with your documents (CV and credentials).</p>
-<h3><strong>Adult Educators Recognition</strong></h3>
+<h3>Adult Educators Recognition</h3>
 <p>SSI values the contribution of our AEs in the social service sector and
 have a system in place to honour their efforts.</p>
-<h4><strong>Growing Together to Impact as One</strong></h4>
+<p><strong>Growing Together to Impact as One</strong>
+</p>
 <p>AE recognition is only a small fraction of what we do for our AEs. We
 also <strong>partner, nurture, engage, impact and journey with them</strong>.</p>
-<h2><strong>Partnership Opportunities</strong></h2>
+<hr>
+<h3><strong>Partnership Opportunities</strong></h3>
 <p>SSI is constantly looking for partnerships with local or international
 Social Service Agencies (SSAs), Non-Profit Organisations (NPOs), Institute
 of Higher Learning (IHLs) and Private Training Organisations to develop
