@@ -2,6 +2,7 @@ collections:
   cet:
     output: true
     order:
+      - Professional Certificate in Casework.md
       - Professional Certificate in Group Work.md
       - Higher Diploma in Social Service.md
       - Certificate in Para Counselling in Community Setting.md
