@@ -8,15 +8,23 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Social worker assisting a person with disability with daily task" src="/images/disability-banner.png">
 </div>
-<h3><strong>Disability Training Courses offered by SSI</strong></h3>
-<h4>Registration now open</h4>
+<h2><strong>Disability Training Courses offered by SSI</strong></h2>
+<h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0136" rel="noopener nofollow" target="_blank">Early Intervention Principles, Practices and Interventions</a>
+</p>
+</li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0157" rel="noopener nofollow" target="_blank">Introduction to Reflective and Reflexive Practices</a>
 </p>
 </li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0194" rel="noopener nofollow" target="_blank">Mastering Observation and Documentation in Early Intervention Practice</a>
+</p>
+</li>
 </ul>
-<h4>Certificate Programmes</h4>
+<h3>Certificate Programmes</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.ssi.gov.sg/training/cet-programmes/advance-certificate-in-supported-employment/" rel="noopener nofollow" target="_blank">Advanced Certificate in Supported Employment (ACSE)</a>
@@ -25,7 +33,7 @@ capabilities of job coaches in providing employment and employability support
 for persons with disabilities.</p>
 </li>
 </ul>
-<h4>Featured Short Courses in Early Interventions and Managing Disabilities</h4>
+<h3>Featured Short Courses in Early Interventions and Managing Disabilities</h3>
 <p><strong>Adult Disability Courses</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -76,12 +84,8 @@ for persons with disabilities.</p>
 </p>
 </li>
 </ul>
-<h4>Complimentary e-Learning (NCSS funded)</h4>
+<h3>Complimentary e-Learning (NCSS funded)</h3>
 <ul data-tight="true" class="tight">
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0157" rel="noopener noreferrer nofollow" target="_blank">Introduction to Reflective and Reflexive Practices</a>
-</p>
-</li>
 <li>
 <p>Providing Professional Support in the Disability Sector - <strong><em>Coming soon!</em></strong>
 </p>
@@ -92,7 +96,7 @@ for persons with disabilities.</p>
 </li>
 </ul>
 <hr>
-<h4><strong>Pre-appointment Training for Inclusion Coordinators (ICOs)&nbsp;</strong>&nbsp;</h4>
+<h3><strong>Pre-appointment Training for Inclusion Coordinators (ICOs)&nbsp;</strong>&nbsp;</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>The ICO Pre-Appointment Training contributes directly towards MSF’s mission
@@ -124,7 +128,7 @@ other <a href="https://www.ssi.gov.sg/complimentary-courses/" rel="noopener nore
 <a href="https://www.ssi.gov.sg/contact-us/" rel="noopener noreferrer nofollow" target="_blank">contact us</a>directly to explore designing personalised training (e.g.
 Inclusive Facilitation Training)!</p>
 <hr>
-<h4><strong>Featured Adult Educators under Disability Training Courses</strong></h4>
+<h3><strong>Featured Adult Educators under Disability Training Courses</strong></h3>
 <p><strong>Ms June Tham-Toh Syn Yuen </strong>
 <br>June was the Executive Director of Rainbow Centre before she retired in
 2014. She holds a Master of Education, Diploma in Management Studies, Certification
@@ -158,6 +162,6 @@ challenges; persons with disabilities; challenging social situations such
 as extreme poverty; geriatric issues as well as crisis and traumatic situations
 such as family violence, suicide, sexual assault and refugees seeking asylum.</p>
 <hr>
-<h4><strong>Subscribe and Stay Connected!</strong></h4>
+<h3><strong>Subscribe and Stay Connected!</strong></h3>
 <p>Subscribe to SSI's <a href="https://form.gov.sg/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">Disability Mailing List</a> for
 the latest updates!&nbsp;</p>

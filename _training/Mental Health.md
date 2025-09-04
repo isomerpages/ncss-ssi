@@ -8,17 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Person with mental health jumping with balloon against bright sky" src="/images/mental-health-banner.png">
 </div>
-<h3><strong>Mental Health Training Courses offered by SSI</strong></h3>
-<h3>Registration now open</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS6109" rel="noopener nofollow" target="_blank">Skills-Based Psychiatric Rehabilitation (Classroom &amp; Asynchronous E-learning)</a>
-<br><strong>Register by 13 August 2025</strong>
-</p>
-</li>
-</ul>
-<p><a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe to our mailing list for latest updates.</u></a>
-</p>
+<h2><strong>Mental Health Training Courses offered by SSI</strong></h2>
 <h3><strong>Complimentary Featured Courses under the Agency for Integrated Care (AIC)</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -54,6 +44,10 @@ TGS-2020500636</p>
 </p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS6109" rel="noopener nofollow" target="_blank">Skills-Based Psychiatric Rehabilitation (Classroom &amp; Asynchronous E-learning)</a>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0109" rel="noopener noreferrer nofollow" target="_blank">Suicide Intervention Skills Workshop </a><em>- TGS_2023019201</em>
 </p>
 </li>
@@ -64,6 +58,7 @@ TGS-2020500636</p>
 </ul>
 <p>View the <a href="https://iltms.ssi.gov.sg/registration/#/Course" rel="noopener noreferrer nofollow" target="_blank">full list of Mental Health courses</a> offered
 by SSI.</p>
+<hr>
 <h3><strong>Featured Adult Educators under Mental Health Training Courses</strong></h3>
 <p><strong>Dr John K E Tan</strong> 
 <br>John holds a doctorate in ministry that he earned from Fuller Theological
@@ -153,6 +148,7 @@ Social Work from NUS, a Post-Graduate Diploma in Art Psychotherapy from
 Goldsmiths, University of London, an Advanced Diploma in Fine Arts &amp;
 Design from the Nanyang Academy of Fine Arts (NAFA) and a Certificate in
 General Nursing from the School of Nursing, Singapore.</p>
-<h4><strong>Subscribe to Mailing List</strong></h4>
+<hr>
+<h3><strong>Subscribe to Mailing List</strong></h3>
 <p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI's Mental Health Mailing List</a> for
 latest updates!</p>

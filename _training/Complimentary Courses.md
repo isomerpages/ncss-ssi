@@ -9,8 +9,8 @@ description: SSI Complimentary Courses
 than 100 hours from April 2024. These courses are carefully curated to
 provide resources on competency areas that social service professionals
 have requested for more support on.</p>
-<h3><strong>Complimentary Training Courses (NCSS funded)</strong></h3>
-<h4><strong>Caring for Elderly: Dementia, Empowering Seniors &amp; More</strong></h4>
+<h2><strong>Complimentary Training Courses (NCSS funded)</strong></h2>
+<h3><strong>Caring for Elderly: Dementia, Empowering Seniors &amp; More</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0129" rel="noopener nofollow" target="_blank">Engaging Senior Learners – A Guide for Effective Interactions</a>
@@ -25,7 +25,7 @@ have requested for more support on.</p>
 </p>
 </li>
 </ol>
-<h4><strong>Children, Youth and Family</strong></h4>
+<h3><strong>Children, Youth and Family</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF434" rel="noopener noreferrer nofollow" target="_blank">Child Abuse Reporting Guide (CARG)</a>
@@ -60,7 +60,7 @@ have requested for more support on.</p>
 </p>
 </li>
 </ol>
-<h4><strong>Cross Sector</strong></h4>
+<h3><strong>Cross Sector</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0170" rel="noopener nofollow" target="_blank">Empowerment E-module</a>
@@ -87,14 +87,14 @@ have requested for more support on.</p>
 </p>
 </li>
 </ol>
-<h4><strong>Disability &amp; Special Needs</strong></h4>
+<h3><strong>Disability &amp; Special Needs</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0157" rel="noopener nofollow" target="_blank">Introduction to Reflective and Reflexive Practices</a>
 </p>
 </li>
 </ol>
-<h4><strong>Management and Organisation Development</strong></h4>
+<h3><strong>Management and Organisation Development</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0140" rel="noopener nofollow" target="_blank">Data &amp; AI Literacy ePrimer</a>
@@ -105,7 +105,7 @@ have requested for more support on.</p>
 </p>
 </li>
 </ol>
-<h4><strong>Volunteer Management and Development</strong></h4>
+<h3><strong>Volunteer Management and Development</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0035" rel="noopener noreferrer nofollow" target="_blank">Befriending 101</a>
@@ -123,7 +123,7 @@ have requested for more support on.</p>
 </li>
 </ol>
 <hr>
-<h4><strong>Subscribe to Mailing List</strong></h4>
+<h3><strong>Subscribe to Mailing List</strong></h3>
 <p>Subscribe to&nbsp;<a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank"><u>SSI’s Mailing List</u></a>&nbsp;for
 latest updates!</p>
 <p></p>

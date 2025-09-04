@@ -16,7 +16,7 @@ variant: tiptap
 <h3>Course Schedule &amp; Registration Date</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/training courses/monthly_featured_courses.pdf" rel="noopener noreferrer nofollow" target="_blank">Registration period: July 2025 to November 2025</a>
+<p><a href="/files/training courses/Monthly_Featured_Courses.pdf" rel="noopener noreferrer nofollow" target="_blank">Registration period: September 2025 to November 2025</a>
 </p>
 </li>
 </ul>
@@ -41,8 +41,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Students cheering with raised fists with the text Cross Sector" src="https://www.ssi.gov.sg/images/training/cross-sector-v2.png">
 </div>
-<h4>Professional Certificate in Casework</h4>
-<p><strong><a href="https://staging-lite.d3dfnptn1xdx2p.amplifyapp.com/training/cet-programmes/professional-certificate-in-casework/" rel="noopener nofollow" target="_blank">Register by 10 November 2025</a></strong>
+<h4>Understanding and Working with the Malay-Muslim Clients</h4>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5570" rel="noopener nofollow" target="_blank">Register by 11 November 2025</a></strong>
 <br><a href="https://www.ssi.gov.sg/training/cross-sector/" rel="noopener nofollow" target="_blank">View other Cross Sector courses</a>
 </p>
 </td>
@@ -52,8 +52,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Parents and their son playing on a beach, illustrating the Children, Youth &amp; Family" src="/images/training/cyf-v2.png">
 </div>
-<h4>Certified User For Child And Adolescents Needs And Strengths (Cans)</h4>
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5894" rel="noopener nofollow" target="_blank">Register by 6 October 2025</a></strong>
+<h4>Inhale Insights: Understanding Youth Vaping</h4>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0160" rel="noopener nofollow" target="_blank">Registration is open throughout the year</a></strong>
 <br><a href="https://www.ssi.gov.sg/training/cyandf/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Children, Youth and Family courses</u></a>
 </p>
 </td>
@@ -107,8 +107,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Social service leaders in management and organisation development course" src="https://www.ssi.gov.sg/images/training/mod-v2.png">
 </div>
-<h4>Making $ense I: An Introduction to Fund Raising</h4>
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFRE5103" rel="noopener nofollow" target="_blank">Register by 20 August 2025</a></strong>
+<h4>Developing Effective Supervisory Skills</h4>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener nofollow" target="_blank">Register by 24 December 2025</a></strong>
 <br><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Management and Organisation Development courses</u></a>
 </p>
 </td>
@@ -142,7 +142,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3><strong>Social Service Course Funding Options</strong></h3>
+<h4><strong>Social Service Course Funding Options</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>For Singapore Citizens, Permanent Residents and LTVP+ holders:* <a href="https://www.skillsfuture.gov.sg/funding-individuals" rel="noopener noreferrer nofollow" target="_blank">SSG Funding options</a>

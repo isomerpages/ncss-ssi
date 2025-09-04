@@ -5,7 +5,7 @@ description: SSI offers a Higher Diploma in Social Service course for aspiring
   social workers, with an articulation pathway to SUSS.
 variant: tiptap
 ---
-<h3>Overview: Higher Diploma in Social Service</h3>
+<h2>Overview: Higher Diploma in Social Service</h2>
 <p>SSI’s Higher Diploma in Social Service (HDSS) is a programme for new entrants
 and existing Social Service Professionals who aspire to be Social Work
 Associates. The programme aims to equip learners with the necessary skills
@@ -33,7 +33,7 @@ become a Social Worker.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<h4>9 Non-WSQ Modules</h4>
+<h3>9 Non-WSQ Modules</h3>
 <p><strong>Upon completion of the programme learners will be able to:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -84,12 +84,14 @@ become a Social Worker.</p>
 the e-certificate and submit it upon registration for this programme)<sup>1</sup> .</p>
 </li>
 </ul>
-<h4>About The Singapore Social Compact Course</h4>
+<hr>
+<h3>About The Singapore Social Compact Course</h3>
 <p><sup>1</sup> This e-learning course provides learners with an overview
 of the development of Singapore’s social services over the years and introduces
 them to the principles behind its provision. It also covers the six areas
 of social service provision and the challenges that lay ahead.</p>
-<h4>Applicants should also possess any one of the following qualifications:</h4>
+<p><strong>Applicants should also possess any one of the following qualifications:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.ssi.gov.sg/training/cet-programmes/advanced-certificate-in-social-service/" rel="noopener noreferrer nofollow" target="_blank">SSI Advanced Certificate in Social Service</a>
@@ -133,47 +135,132 @@ for admission into the programme.</p>
 </ul>
 <p>Learners may also apply for work as a Social Work Associate, Project Coordinator,
 Youth Worker or Volunteer Executive.</p>
-<h4>Course Details</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Cohort Size:</strong> One cohort of 25 pax.</p>
-</li>
-<li>
-<p><strong>No of Modules:</strong> Nine</p>
-</li>
-<li>
-<p><strong>Programme Duration:</strong> 16 months. This is a part time course
-with lessons being conducted two to three times a week.</p>
-</li>
-<li>
-<p><strong>Programme Date:</strong> February 2025 to August 2026</p>
-</li>
-<li>
-<p><strong>Course Timing:</strong> 7.00pm to 10.00pm</p>
-</li>
-<li>
-<p><strong>Full Fees:</strong> $10,800 (before GST)*</p>
-</li>
-<li>
-<p><strong>Estimated Nett Fees:</strong> $3,240 (after SSG Subsidy)*</p>
-</li>
-<li>
-<p><strong>GST on Nett Fees:</strong> $291.60*</p>
-</li>
-<li>
-<p><strong>Total Payable Course Fees after SSG Funding:</strong> $3,531.60
-(including 9% GST for courses commencing 2024 onwards)*</p>
-</li>
-<li>
-<p><strong>Assessment:</strong> Written Assessment and Written Assignment</p>
-</li>
-<li>
-<p><strong>Mandatory Components:</strong> Programme Orientation in January
-2025</p>
-</li>
-</ul>
-<p>The application for 2025 intake has closed. Do enquire with us for the
-next available intake.</p>
+<hr>
+<h3>Course Details</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Cohort Size:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>One cohort of up to 25 pax.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>No of Modules:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nine</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Programme Duration:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16 to 17 months. This is a part-time course with lessons being conducted
+two to three times a week.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Programme Date:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March 2026 – July 2027</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Course Timing</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.00pm to 10.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Full Fees:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$10,800 (before GST)*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Estimated Nett Fees:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$3,240 (after SSG Subsidy)*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>GST on Nett Fees:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$291.60*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Total Payable Course Fees after SSG Funding:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$3,531.60 (including 9% GST)*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assessment:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Written Assessment and Written Assignment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mandatory Components:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Programme Orientation in February 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>All learners will also be required to undergo the Social Service Field
 Experience (except for learners who have undergone the Social Service Field
 experience in the WSQ ACSS or SSI ACSS programme).
@@ -193,7 +280,152 @@ other terms and conditions for SSG funding eligibility.</p>
 <p><em>*Please note that course fees are subjected to changes.</em>
 </p>
 <hr>
-<h4>FAQs</h4>
+<h3><strong>Registration for Course Preview</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Date:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 October 2025, Monday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Time:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7pm&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSI (Level 18 - Connect/Dignity/Empower), Tiong Bahru Central Plaza&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Ready to start your social service learning journey? <a href="https://go.gov.sg/ssi-preview-registration" rel="noopener noreferrer nofollow" target="_blank">Sign up</a> now!</p>
+<p><strong>Key Dates to note:</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>Tentative Assessment Interviews and Evaluation Dates</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Written Aptitude Test (WAT) Sessions¹:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Session 1: 20 November 2025, 15:00-16:00​</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Session 2: 21 November 2025, 10:30-11:30​</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Interview Sessions:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Week of 5 January 2026<sup>#</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>Estimated Programme Timeline​</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Offer Letter:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>From January 2026<sup>#​</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Orientation:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>February 2026​</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Programme Duration:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March 2026 - July 2027</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>¹<em>Eligible HDSS applicants will be notified (around end Oct 2025) to sit for a compulsory Written Aptitude Test (WAT).</em>​
+<br><sup>#</sup><em>Dates may be</em> s<em>ubject to changes.</em>
+</p>
+<hr>
+<h3>FAQs</h3>
 <p>Download the <a href="/files/hdss/FAQ_for_Higher_Diploma_in_Social_Service_Jul_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a> relating
 to this programme.
 <br>Learn more about the application procedure from the <a href="/files/hdss/ssi%20-%20application%20guide%20-%20higher%20diploma%20in%20social%20service%20(jun%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">HDSS Application Guide</a>.</p>

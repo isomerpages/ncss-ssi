@@ -19,16 +19,6 @@ youth, adults and seniors.</p>
 <h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0100" rel="noopener nofollow" target="_blank">Inclusive Training Series: Understanding and Working with People in Diverse Groups</a>
-<br><strong>Register by 13 August 2025</strong>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCET6-M" rel="noopener nofollow" target="_blank">Understanding the Social Service Sector</a><em>- TGS-2025053701</em>
-<br><strong>Register by 25 August 2025</strong>
-</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0164" rel="noopener nofollow" target="_blank">Effective Practice Supervision for Social Work Supervisors</a>
 <br><strong>Register by 17 September 2025</strong>
 </p>
@@ -53,15 +43,40 @@ youth, adults and seniors.</p>
 </ul>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5570" rel="noopener nofollow" target="_blank">Understanding and Working with the Malay-Muslim Clients</a>
+<br><strong>Register by 11 November 2025</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5647" rel="noopener nofollow" target="_blank">May I Help You? (Boleh Saya Bantu Anda?) - Conversational Malay for Social Service Practitioners</a>
+<br><strong>Register by 18 November 2025</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5229" rel="noopener noreferrer nofollow" target="_blank">Counselling Skills and Practice: Introduction</a> - <em>TGS-2020500644</em>
+</p>
+<p><strong>Register by 23 December 2025</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS30" rel="noopener noreferrer nofollow" target="_blank"><u>Engage Stakeholders Effectively</u></a>
+<br><strong>Register by 25 December 2025</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5446" rel="noopener noreferrer nofollow" target="_blank">Counselling Skills and Practice: Intermediate</a>
+</p>
+</li>
+<li>
+<p><strong>Register by 20 January 2026</strong>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0170" rel="noopener nofollow" target="_blank"><u>Empowerment E-module</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0196" rel="noopener nofollow" target="_blank">Getting Started in the Social Service Sector (e-learning)</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0183" rel="noopener nofollow" target="_blank">Understanding Case Management: A Practical Guide</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0196" rel="noopener nofollow" target="_blank">Getting Started in the Social Service Sector</a>
 </p>
 </li>
 <li>
@@ -76,10 +91,6 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5647" rel="noopener noreferrer nofollow" target="_blank">Boleh Saya Anda? May I Help You? - Conversational Malay for Social Service Practitioners</a>
-</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5228" rel="noopener nofollow" target="_blank">Case Management in Practice: Introduction</a> - <em>TGS-2020500648</em>
 </p>
 </li>
@@ -88,23 +99,15 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCRS5229" rel="noopener noreferrer nofollow" target="_blank">Counselling Skills and Practice: Introduction</a> - <em>TGS-2020500644</em>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5446" rel="noopener noreferrer nofollow" target="_blank">Counselling Skills and Practice: Intermediate</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS30" rel="noopener noreferrer nofollow" target="_blank"><u>Engage Stakeholders Effectively</u></a>
-</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCET159" rel="noopener noreferrer nofollow" target="_blank">Fundamentals in Developing Community Work Programme (NSFWCF Foundational)</a> - <em>TGS-2020501539</em>
 </p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SST0929" rel="noopener noreferrer nofollow" target="_blank">Identify Learning Needs for Personal and Professional Development</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0100" rel="noopener nofollow" target="_blank">Inclusive Training Series: Understanding and Working with People in Diverse Groups</a>
 </p>
 </li>
 <li>
@@ -120,7 +123,11 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCET6-M" rel="noopener nofollow" target="_blank">Understanding the Social Service Sector</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0183" rel="noopener nofollow" target="_blank">Understanding Case Management: A Practical Guide</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCET6-M" rel="noopener nofollow" target="_blank">Understanding the Social Service Sector</a><em>- TGS-2025053701</em>
 </p>
 </li>
 <li>
@@ -176,6 +183,7 @@ youth, adults and seniors.</p>
 </li>
 </ul>
 <p>View the full list of <a href="https://iltms.ssi.gov.sg/Registration/Course" rel="noopener noreferrer nofollow" target="_blank">Cross Sector courses offered by SSI</a>.</p>
+<hr>
 <h3><strong>Featured Adult Educators under Cross Sector Training Courses</strong></h3>
 <p><strong>Ms Alice Lee-Tok</strong> 
 <br>Alice is the author of a parenting book titled ‘Building Bridges with
@@ -243,6 +251,7 @@ at NUS and SUSS since 2008. He is an approved clinical supervisor with
 the University of Michigan, NUS, SUSS, Curtin and Swinburne University.
 His work had been published in professional journals and academic textbooks
 and he has presented in several local and international conferences.</p>
-<h3>Subscribe to Mailing List</h3>
+<hr>
+<h3><strong>Subscribe to Mailing List</strong></h3>
 <p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Cross Sector Mailing List</a> for
 latest updates!</p>

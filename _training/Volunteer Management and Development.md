@@ -11,8 +11,11 @@ variant: tiptap
 <h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0133" rel="noopener nofollow" target="_blank">Plan &amp; Strategise: Enhancing Volunteer Engagement</a>
-<br><strong>Register by 21 August 2025</strong>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0180" rel="noopener nofollow" target="_blank">What Makes Rehab Effective</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0186" rel="noopener nofollow" target="_blank">Understanding Substance Addiction and the Recovery Journey</a>
 </p>
 </li>
 </ul>
@@ -20,10 +23,6 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0035" rel="noopener noreferrer nofollow" target="_blank">Befriending 101 (For Volunteers)</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0186" rel="noopener nofollow" target="_blank">Understanding Substance Addiction and the Recovery Journey</a>
 </p>
 </li>
 <li>
@@ -36,10 +35,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0178" rel="noopener nofollow" target="_blank">Volunteer Role Redesign</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0180" rel="noopener nofollow" target="_blank">What Makes Rehab Effective</a>
 </p>
 </li>
 </ul>
@@ -60,6 +55,7 @@ variant: tiptap
 </li>
 </ul>
 <p>View the <a href="https://iltms.ssi.gov.sg/registration/#/Course" rel="noopener noreferrer nofollow" target="_blank">full list of volunteer management and development courses</a>.</p>
+<hr>
 <h3><strong>Featured Adult Educators for Volunteer Management and Development Courses</strong></h3>
 <p><strong>Ms Alice Lee-Tok</strong> 
 <br>Alice is a family education consultant and trainer with more than 15 years
@@ -92,6 +88,7 @@ Sports Council (SSC) and the National Arts Council (NAC). Moy Yin is also
 the co-founder and vice president of Managing &amp; Organising Volunteer
 Efforts (MOVE), which is the national professional body for volunteer programme
 managers.</p>
+<hr>
 <h3><strong>Learning &amp; Development Roadmap for Volunteer Managers</strong></h3>
 <p>Volunteer managers are key enablers in engaging volunteers to augment
 the manpower capabilities of Social Service Agencies (SSAs). To play this
@@ -118,6 +115,7 @@ feel free to drop us an email at <a href="mailto:shirley_cheong@ncss.gov.sg" rel
 <br>
 <br>Visit <a href="https://www.ncss.gov.sg/research-and-insights/capability-capacity/volunteer-management" rel="noopener nofollow" target="_blank">NCSS Volunteer Management</a> for
 more information.</p>
+<hr>
 <h3><strong>Subscribe to Mailing List</strong></h3>
 <p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Volunteer Management and Development Training Courses Mailing List</a> for
 latest updates!</p>

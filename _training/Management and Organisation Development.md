@@ -12,8 +12,18 @@ variant: tiptap
 <h3><strong>Registration now open</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFRE5103" rel="noopener noreferrer nofollow" target="_blank">Making $ense I: An Introduction to Fund Raising</a>
-<br><strong>Register by 20 August 2025</strong>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCOF90" rel="noopener nofollow" target="_blank">Developing Your Coaching and Mentoring Skills</a>
+<br><strong>Register by 1 December 2025</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFRE5766" rel="noopener nofollow" target="_blank">Making $ense II: Fund-Raising Strategy Development</a>
+<br><strong>Register by 12 December 2025</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener noreferrer nofollow" target="_blank">Developing Effective Supervisory Skills</a>
+<br><strong>Register by 24 December 2025</strong>
 </p>
 </li>
 </ul>
@@ -45,14 +55,6 @@ latest updates.</p>
 <h4>People Management</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener noreferrer nofollow" target="_blank">Developing Effective Supervisory Skills</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCOF90" rel="noopener nofollow" target="_blank">Developing Your Coaching and Mentoring Skills</a>
-</p>
-</li>
-<li>
 <p>Leading Self in Organisations - <strong><em>Coming soon!</em></strong>
 </p>
 </li>
@@ -68,7 +70,7 @@ latest updates.</p>
 <h4>Fundraising</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFRE5766" rel="noopener nofollow" target="_blank">Making $ense II: Fund-Raising Strategy Development</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFRE5103" rel="noopener noreferrer nofollow" target="_blank">Making $ense I: An Introduction to Fund Raising</a>
 </p>
 </li>
 </ul>
@@ -90,6 +92,7 @@ SIT)</p>
 latest updates.</p>
 </li>
 </ul>
+<hr>
 <h3><strong>Featured Adult Educators under Management and Organisation Development Training Courses</strong></h3>
 <p><strong>Ms Anita Yap</strong> 
 <br>Anita is the principal coach &amp; facilitator of a boutique coaching,
@@ -141,6 +144,7 @@ and has transformed charity income sources drastically through local resource
 mobilisation across Asia, especially in the areas of local private sector
 fundraising through individual giving, philanthropic investments and corporate
 engagement.</p>
+<hr>
 <h3><strong>Subscribe to Mailing List</strong></h3>
 <p>Subscribe to <a href="https://form.gov.sg/#!/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">SSI’s Management and Organisation Development Mailing List</a> for
 latest updates!</p>
