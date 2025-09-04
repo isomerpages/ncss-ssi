@@ -5,7 +5,7 @@ description: This casework certification course equips learners with the
   competencies to provide quality casework intervention services.
 variant: tiptap
 ---
-<h3><strong>Overview</strong></h3>
+<h2><strong>Overview</strong></h2>
 <p>Jointly developed with the Ministry of Social and Family Development (MSF)
 and Ministry of Health (MOH), ‘Professional Certificate in Casework’ is
 a course that equips social workers with the competencies to provide quality
