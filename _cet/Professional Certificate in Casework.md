@@ -5,7 +5,7 @@ description: This casework certification course equips learners with the
   competencies to provide quality casework intervention services.
 variant: tiptap
 ---
-<h3><strong>Overview</strong></h3>
+<h2><strong>Overview</strong></h2>
 <p>Jointly developed with the Ministry of Social and Family Development (MSF)
 and Ministry of Health (MOH), ‘Professional Certificate in Casework’ is
 a course that equips social workers with the competencies to provide quality
@@ -99,4 +99,4 @@ be able to:</p>
 <p></p>
 <p><strong><em>Note: <br></em></strong><em>This course qualifies for CPE credits, with the renewal of accreditation at one credit per one training hour. For further enquiries on accreditation matters with SASW, please contact the Accreditation Secretariat at 6778 7922 or email to <a href="mailto:accreditation@sasw.org.sg" rel="noopener noreferrer nofollow" target="_blank">accreditation@sasw.org.sg</a>.</em>
 </p>
-<p>Find out more about <a href="https://iltms.ssi.gov.sg/registration#/Course" rel="noopener noreferrer nofollow" target="_blank">upcoming intakes</a>.</p>
+<p>Find out more about <a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS11" rel="noopener noreferrer nofollow" target="_blank">upcoming intake</a>.</p>
