@@ -280,7 +280,7 @@ other terms and conditions for SSG funding eligibility.</p>
 <p><em>*Please note that course fees are subjected to changes.</em>
 </p>
 <hr>
-<h3><strong>Registration for Course Preview</strong></h3>
+<h3>Registration for Course Preview</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -424,6 +424,11 @@ other terms and conditions for SSG funding eligibility.</p>
 <p>¹<em>Eligible HDSS applicants will be notified (around end Oct 2025) to sit for a compulsory Written Aptitude Test (WAT).</em>​
 <br><sup>#</sup><em>Dates may be</em> s<em>ubject to changes.</em>
 </p>
+<hr>
+<h3>Application Guidelines</h3>
+<p>Applicants to download and upload the completed <a href="/files/hdss/SSI_HDSS_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>,
+with all relevant supporting documents via the Registration Portal, between
+1 September to 15 October 2025.</p>
 <hr>
 <h3>FAQs</h3>
 <p>Download the <a href="/files/hdss/FAQ_for_Higher_Diploma_in_Social_Service_Jul_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a> relating
