@@ -261,7 +261,6 @@ two to three times a week.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>All learners will also be required to undergo the Social Service Field
 Experience (except for learners who have undergone the Social Service Field
 experience in the WSQ ACSS or SSI ACSS programme).
@@ -427,9 +426,9 @@ other terms and conditions for SSG funding eligibility.</p>
 </p>
 <hr>
 <h3>Application Guidelines</h3>
-<p>Applicants must complete the <a rel="noopener noreferrer nofollow" target="_blank">Application Form</a> and
-upload with all relevant supporting documents via the <a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCET21-2" rel="noopener noreferrer nofollow" target="_blank">Registration Portal</a>,
-between 1 September to 15 October 2025.</p>
+<p>Applicants to download and upload the completed <a href="/files/hdss/SSI_HDSS_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>,
+with all relevant supporting documents via the Registration Portal, between
+1 September to 15 October 2025.</p>
 <hr>
 <h3>FAQs</h3>
 <p>Download the <a href="/files/hdss/FAQ_for_Higher_Diploma_in_Social_Service_Jul_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a> relating
