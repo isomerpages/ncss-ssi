@@ -427,8 +427,8 @@ other terms and conditions for SSG funding eligibility.</p>
 <hr>
 <h3>Application Guidelines</h3>
 <p>Applicants to download and upload the completed <a href="/files/hdss/SSI_HDSS_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>,
-with all relevant supporting documents via the Registration Portal, between
-1 September to 15 October 2025.</p>
+with all relevant supporting documents via the <a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCET21-2" rel="noopener nofollow" target="_blank">Registration Portal</a>,
+between 1 September to 15 October 2025.</p>
 <hr>
 <h3>FAQs</h3>
 <p>Download the <a href="/files/hdss/FAQ_for_Higher_Diploma_in_Social_Service_Jul_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a> relating
