@@ -38,7 +38,7 @@ youth, adults and seniors.</p>
 </ul>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5570" rel="noopener nofollow" target="_blank">Understanding and Working with the Malay-Muslim Clients </a>  <em>- TGS-2020500659<br></em><strong>Register by 25 November 2025</strong>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5570" rel="noopener nofollow" target="_blank">Understanding and Working with the Malay-Muslim Clients </a><em>- TGS-2020500659<br></em><strong>Register by 25 November 2025</strong>
 </p>
 </li>
 <li>
@@ -53,8 +53,7 @@ youth, adults and seniors.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5229" rel="noopener noreferrer nofollow" target="_blank">Counselling Skills and Practice: Introduction</a> - <em>TGS-2020500644</em>
-</p>
-<p><strong>Register by 23 December 2025</strong>
+<br><strong>Register by 23 December 2025</strong>
 </p>
 </li>
 <li>
@@ -79,14 +78,12 @@ youth, adults and seniors.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5446" rel="noopener noreferrer nofollow" target="_blank">Counselling Skills and Practice: Intermediate</a>
-</p>
-<p><strong>Register by 20 January 2026</strong>
+<br><strong>Register by 20 January 2026</strong>
 </p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0105" rel="noopener nofollow" target="_blank">Leading An Effective Case Management Team</a>
-</p>
-<p><strong>Register by 21 January 2026</strong>
+<br><strong>Register by 21 January 2026</strong>
 </p>
 </li>
 <li>
