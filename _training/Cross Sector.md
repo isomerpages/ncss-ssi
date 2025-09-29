@@ -19,11 +19,6 @@ youth, adults and seniors.</p>
 <h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0164" rel="noopener nofollow" target="_blank">Effective Practice Supervision for Social Work Supervisors</a>
-<br><strong>Register by 17 September 2025</strong>
-</p>
-</li>
-<li>
 <p><a href="/training/cet-programmes/professional-certificate-in-casework/" rel="noopener noreferrer nofollow" target="_blank">Professional Certificate in Casework</a>
 <br><strong>Register by 10 November 2025</strong>
 </p>
@@ -43,13 +38,17 @@ youth, adults and seniors.</p>
 </ul>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5570" rel="noopener nofollow" target="_blank">Understanding and Working with the Malay-Muslim Clients</a>
-<br><strong>Register by 11 November 2025</strong>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5570" rel="noopener nofollow" target="_blank">Understanding and Working with the Malay-Muslim Clients </a>  <em>- TGS-2020500659<br></em><strong>Register by 25 November 2025</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0104" rel="noopener nofollow" target="_blank">Develop An Effective Case Management Plan</a>
+<br><strong>Register by 27 November 2025</strong>
 </p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5647" rel="noopener nofollow" target="_blank">May I Help You? (Boleh Saya Bantu Anda?) - Conversational Malay for Social Service Practitioners</a>
-<br><strong>Register by 18 November 2025</strong>
+<br><strong>Register by 2 December 2025</strong>
 </p>
 </li>
 <li>
@@ -59,16 +58,35 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0101" rel="noopener nofollow" target="_blank">How to Critically Evaluate Casework Practice</a>
+<br><strong>Register by 23 December 2025</strong>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS30" rel="noopener noreferrer nofollow" target="_blank"><u>Engage Stakeholders Effectively</u></a>
 <br><strong>Register by 25 December 2025</strong>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5446" rel="noopener noreferrer nofollow" target="_blank">Counselling Skills and Practice: Intermediate</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0184" rel="noopener nofollow" target="_blank">Cognitive Behaviour Therapy: Intermediate</a>
+<br><strong>Register by 14 January 2026</strong>
 </p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5725" rel="noopener noreferrer nofollow" target="_blank">Motivational Interviewing: An Introduction for Social Service Practitioners</a>  <em>- TGS-2020500646</em>
+<br><strong>Register by 14 January 2026</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5446" rel="noopener noreferrer nofollow" target="_blank">Counselling Skills and Practice: Intermediate</a>
+</p>
 <p><strong>Register by 20 January 2026</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0105" rel="noopener nofollow" target="_blank">Leading An Effective Case Management Team</a>
+</p>
+<p><strong>Register by 21 January 2026</strong>
 </p>
 </li>
 <li>
@@ -96,6 +114,10 @@ youth, adults and seniors.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5141" rel="noopener noreferrer nofollow" target="_blank">Cognitive Behaviour Therapy: Introduction</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0164" rel="noopener nofollow" target="_blank">Effective Practice Supervision for Social Work Supervisors</a>
 </p>
 </li>
 <li>
