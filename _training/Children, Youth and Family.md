@@ -17,16 +17,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF197" rel="noopener nofollow" target="_blank">Management of Family Violence: Introduction </a><em>- TGS-2020500631</em>
-<br><strong>Register by 9 November 2025</strong>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF279" rel="noopener nofollow" target="_blank">Management of Family Violence: Intervention in Family Violence Cases</a><em>- TGS-2025053854</em>
-<br><strong>Register by 16 November 2025</strong>
-</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF482" rel="noopener nofollow" target="_blank">Apply Development Theories when Working with Children and Youths</a>
 <br><strong>Register by 18 November 2025</strong>
 </p>
@@ -52,7 +42,22 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5936" rel="noopener nofollow" target="_blank">Family &amp; Adult Support Tool (FAST) - User</a><em> - TGS-2020500870</em>
+<br><strong>Register by 9 December 2025</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF197" rel="noopener nofollow" target="_blank">Management of Family Violence: Introduction </a><em>- TGS-2020500631</em>
+<br><strong>Register by 14 December 2025</strong>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0155" rel="noopener nofollow" target="_blank">Protective Behaviours for Children - a Preventive Intervention against Abuse</a><strong><br>Register by 29 December 2025</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF279" rel="noopener nofollow" target="_blank">Management of Family Violence: Intervention in Family Violence Cases</a><em>- TGS-2025053854</em>
+<br><strong>Register by 4 January 2026</strong>
 </p>
 </li>
 <li>
