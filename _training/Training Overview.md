@@ -24,7 +24,7 @@ important for the development of specific skills and expertise.</p>
 service and non-profit sector through the use of various new learning methodologies
 that have been made possible by technology. This has resulted in the creation
 of new and enriching learning experiences.</p>
-<h2>Social Service Training Programmes</h2>
+<h2>Social Service Training courses</h2>
 <p>The <a href="https://iltms.ssi.gov.sg/registration#/Course" rel="noopener noreferrer nofollow" target="_blank">training programmes</a> offered
 by SSI can be segregated into ten course categories. Although each course
 category is segregated into specific sub-sectors or fields within the social
