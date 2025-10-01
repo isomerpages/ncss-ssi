@@ -78,7 +78,7 @@ meet management and organisational needs within the social service sector.</p>
 </li>
 <li>
 <p><a href="https://www.ssi.gov.sg/training/caregiving/" rel="noopener noreferrer nofollow" target="_blank">Caregiving</a>
-<br>Practice self-care and develop effective communication strategies to build
+<br>Practise self-care and develop effective communication strategies to build
 stronger bond with care recipients.</p>
 </li>
 </ul>
