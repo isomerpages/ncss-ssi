@@ -24,8 +24,8 @@ important for the development of specific skills and expertise.</p>
 service and non-profit sector through the use of various new learning methodologies
 that have been made possible by technology. This has resulted in the creation
 of new and enriching learning experiences.</p>
-<h2>Social Service Training Programmes</h2>
-<p>The <a href="https://iltms.ssi.gov.sg/registration#/Course" rel="noopener noreferrer nofollow" target="_blank">training programmes</a> offered
+<h2>Social Service Training courses</h2>
+<p>The <a href="https://iltms.ssi.gov.sg/registration#/Course" rel="noopener noreferrer nofollow" target="_blank">training courses</a> offered
 by SSI can be segregated into ten course categories. Although each course
 category is segregated into specific sub-sectors or fields within the social
 service sector, learners should adopt a horizontal learning approach and
@@ -78,7 +78,7 @@ meet management and organisational needs within the social service sector.</p>
 </li>
 <li>
 <p><a href="https://www.ssi.gov.sg/training/caregiving/" rel="noopener noreferrer nofollow" target="_blank">Caregiving</a>
-<br>Practice self-care and develop effective communication strategies to build
+<br>Practise self-care and develop effective communication strategies to build
 stronger bond with care recipients.</p>
 </li>
 </ul>
