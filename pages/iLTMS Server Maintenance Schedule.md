@@ -37,14 +37,6 @@ the following dates. Access to iLTMS may be disrupted during this period.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19 September 2025 22:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20 September 2025 07:00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>24 October 2025 22:00</p>
 </td>
 <td rowspan="1" colspan="1">
