@@ -55,7 +55,7 @@ strategies.</p>
 <li>
 <p><a href="https://www.ssi.gov.sg/training/mental-health/" rel="noopener noreferrer nofollow" target="_blank">Mental Health</a>
 <br>Develop your knowledge and skills in supporting individuals with mental
-health conditions.</p>
+health needs.</p>
 </li>
 <li>
 <p><a href="https://www.ssi.gov.sg/training/eldercare/" rel="noopener noreferrer nofollow" target="_blank">Eldercare</a>
