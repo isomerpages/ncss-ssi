@@ -12,7 +12,7 @@ locations:
       - days: Mon - Fri
         time: 9:00am - 6.00pm
         description: Closed on Weekends and Public Holidays
-    maps_link: https://www.onemap.gov.sg/?lat=1.3122144&lng=103.7897232
+    maps_link: https://www.onemap.gov.sg/?lat=1.2862994&lng=103.8280936
     title: Social Service Institute
 contacts:
   - content:
@@ -37,5 +37,5 @@ contacts:
           href="https://www.ncss.gov.sg/about-us/our-media-centre/announcements-and-advisories/scam-advisory">Scam
           Advisory Notice.</a>
     title: Be Vigilant Against Scams
-feedback: https://form.gov.sg/6212da81a71f3d0013751983
+feedback: https://go.gov.sg/ncssqsm
 ---
