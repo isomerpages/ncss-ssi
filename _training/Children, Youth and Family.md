@@ -136,8 +136,7 @@ variant: tiptap
 <li>
 <p>CPI Safety Intervention™<strong> </strong>Foundation 1-day ICP Renewal</p>
 <p>
-<br>View all the CPI Train-the-Trainer Certification Programmes <u>here.</u>
-</p>
+<br>Learn more about CPI Train-the-Trainer Certification Programmes.</p>
 </li>
 </ul>
 <h3>Other Featured Courses in Children and Youth Development, Youth Counselling and Family Therapy</h3>
