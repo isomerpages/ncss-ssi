@@ -12,11 +12,6 @@ variant: tiptap
 <h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5894" rel="noopener nofollow" target="_blank">Certified User for Child and Adolescents Needs and Strengths (Cans)</a>
-<br><strong>Register by 6 November 2025</strong>
-</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF482" rel="noopener nofollow" target="_blank">Apply Development Theories when Working with Children and Youths</a>
 <br><strong>Register by 18 November 2025</strong>
 </p>
@@ -58,11 +53,6 @@ variant: tiptap
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF279" rel="noopener nofollow" target="_blank">Management of Family Violence: Intervention in Family Violence Cases</a><em>- TGS-2025053854</em>
 <br><strong>Register by 4 January 2026</strong>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF503" rel="noopener nofollow" target="_blank">CPI Safety Intervention™ Foundation Programme</a><em>- TGS-2025053709</em>
-<br><strong>Register by 5 January 2026</strong>
 </p>
 </li>
 <li>
@@ -130,7 +120,30 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h3><strong>Other Featured Courses in Children and Youth Development, Youth Counselling and Family Therapy</strong></h3>
+<h3>Crisis Prevention Institute (CPI®) Programme</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF503" rel="noopener nofollow" target="_blank">CPI Safety Intervention™ Foundation Programme</a><em>- TGS-2025053709</em>
+<br><strong>Register by 5 January 2026</strong>
+</p>
+</li>
+</ul>
+<h3>Instructor Certification Programmes</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><u>CPI Safety Intervention™ Foundation 3-day ICP</u><em> (to link once the new page is published)</em>
+</p>
+</li>
+<li>
+<p><u>CPI Safety Intervention™</u><strong><u> </u></strong><u>Foundation 1-day ICP Renewal</u><em> (to link once the new page is published)</em>
+</p>
+<p>
+<br>Learn more about <u>CPI Train-the-Trainer Certification Programmes</u>.
+<br><em> (to link once the new page is published)</em>
+</p>
+</li>
+</ul>
+<h3>Other Featured Courses in Children and Youth Development, Youth Counselling and Family Therapy</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5340" rel="noopener noreferrer nofollow" target="_blank">Delivering Impactful Training to Youths </a>- <em>TGS-2020500657</em>
@@ -187,7 +200,6 @@ variant: tiptap
 <li>
 <p>Youth Work: Introduction to an Evidence-Based Approach<strong><em> - Coming Soon!</em></strong>
 </p>
-<p></p>
 <p></p>
 </li>
 </ul>

@@ -1,0 +1,5 @@
+collections:
+  children-youth-and-family:
+    output: true
+    order:
+      - CPI Train the Trainer Certification.md
