@@ -13,25 +13,25 @@ training using trauma-informed approaches that prioritise <em>Care, Welfare, Saf
 Certification includes:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>CPI Safety Intervention™ Foundation Training Instructor Certification
+<p>CPI <em>Safety Intervention™</em> Foundation Training Instructor Certification
 Programme</p>
 </li>
 <li>
-<p>CPI Safety Intervention™ Advanced and Emergency Training Instructor Certification
-Programme <em>(Coming Soon!)</em>
+<p>CPI <em>Safety Intervention™</em> Advanced and Emergency Training Instructor
+Certification Programme <em>(Coming Soon!)</em>
 </p>
 </li>
 <li>
-<p>CPI Verbal Intervention™ Training Instructor Certification Programme <em>(Coming Soon!)</em>
+<p>CPI <em>Verbal Intervention™</em> Training Instructor Certification Programme <em>(Coming Soon!)</em>
 </p>
 </li>
 <li>
-<p>CPI Safety Intervention™ Foundation Training Instructor Certification
+<p>CPI <em>Safety Intervention™</em> Foundation Training Instructor Certification
 Programme - Renewal</p>
 </li>
 </ul>
 <hr>
-<h4><strong>CPI Safety Intervention™ Foundation Training Instructor Certification Programme</strong></h4>
+<h4><strong>CPI <em>Safety Intervention™</em> Foundation Training Instructor Certification Programme</strong></h4>
 <p>This comprehensive instructor certification covers the complete spectrum
 of crisis response skills, equipping you to deliver training in both verbal
 de-escalation and physical intervention techniques. As the foundation of
@@ -74,10 +74,10 @@ physical intervention techniques.</p>
 <p><strong>Programme fee: </strong>S$3,800</p>
 </li>
 </ul>
-<p><a href="https://www.crisisprevention.com/en-AU/landing-page/singapore-sc-connect-with-our-team/" rel="noopener nofollow" target="_blank">Register for CPI Safety Intervention™ Foundation Training Instructor Certification Programme now.</a> 
+<p><a href="https://www.crisisprevention.com/en-AU/landing-page/singapore-sc-connect-with-our-team/" rel="noopener nofollow" target="_blank">Register for CPI Safety Intervention™ Foundation Training Instructor Certification Programme now.</a>
 </p>
 <hr>
-<h4><strong>CPI Safety Intervention™ Advanced and Emergency Training Instructor Certification Programme</strong></h4>
+<h4><strong>CPI <em>Safety Intervention™ </em>Advanced and Emergency Training Instructor Certification Programme</strong></h4>
 <p><em>Coming Soon!</em>
 </p>
 <p>This comprehensive instructor certification covers the complete spectrum
@@ -87,7 +87,7 @@ CPI training, this programme provides the essential credentials and expertise
 needed to train others in evidence-based crisis response. It is recommended
 for professionals who work in environments that require restrictive or
 physical intervention techniques.</p>
-<p><strong>What You'll Develop:</strong>
+<p><strong>What You'll Learn:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -172,7 +172,7 @@ in-person)</p>
 </li>
 </ul>
 <hr>
-<h4><strong>CPI <em>Safety Intervention</em><sup>TM</sup> Foundation Training Instructor Certification Programme - Renewal</strong></h4>
+<h4><strong>CPI <em>Safety Intervention</em>™ Foundation Training Instructor Certification Programme - Renewal</strong></h4>
 <p><strong>Maintain Your Certification and Skills</strong>
 </p>
 <p>To build and maintain staff skills in de-escalation and crisis prevention,
