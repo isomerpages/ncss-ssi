@@ -62,7 +62,7 @@ physical intervention techniques.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Course dates: </strong>3 to 5 December 2025 (3-day course)</p>
+<p><strong>Course dates: </strong>8 to 10 December 2025 (3-day course)</p>
 </li>
 <li>
 <p><strong>Time: </strong>9am to 5pm</p>
