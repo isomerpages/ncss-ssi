@@ -41,8 +41,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Students cheering with raised fists with the text Cross Sector" src="https://www.ssi.gov.sg/images/training/cross-sector-v2.png">
 </div>
-<h4>Leading An Effective Case Management Team</h4>
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0105" rel="noopener nofollow" target="_blank">Register by 21 January 2026</a></strong>
+<h4>Understanding and Supporting People in Journey of Loss and Grief&nbsp;</h4>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5856" rel="noopener nofollow" target="_blank">Register by 26 January 2026</a></strong>
 <br><a href="https://www.ssi.gov.sg/training/cross-sector/" rel="noopener nofollow" target="_blank">View other Cross Sector courses</a>
 </p>
 </td>
