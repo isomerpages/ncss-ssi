@@ -37,17 +37,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
-<p></p>
-</li>
-<li>
-<p></p>
-</li>
-<li>
-<p></p>
-</li>
-<li>
-<p></p>
 </li>
 </ul>
 <h3>Certificate Programmes</h3>
