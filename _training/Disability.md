@@ -12,16 +12,42 @@ variant: tiptap
 <h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0136" rel="noopener nofollow" target="_blank">Early Intervention Principles, Practices and Interventions</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0119" rel="noopener nofollow" target="_blank">Introduction to Care for Adults with Developmental Disabilities Presenting with Behavioural Problems and Mental Health Issues</a>
+</p>
+<p><strong>Register by 27 January 2026</strong>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0157" rel="noopener nofollow" target="_blank">Introduction to Reflective and Reflexive Practices</a>
+<p><a href="https://www.ssi.gov.sg/training/cet-programmes/advance-certificate-in-supported-employment/" rel="noopener nofollow" target="_blank">Advanced Certificate in Supported Employment (ACSE)</a>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS47" rel="noopener nofollow" target="_blank">Module 2: Basic Counselling Skills and Practice for Job Coaches</a>  <em>- TGS-2020501623</em>
+<br><strong>Register by 3 February 2026</strong>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0194" rel="noopener nofollow" target="_blank">Mastering Observation and Documentation in Early Intervention Practice</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS48" rel="noopener nofollow" target="_blank">Module 3: Introduction to Case Management</a><em> - TGS-2020500820 </em>
+<br><strong>Register by 9 January 2026</strong>
 </p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS49" rel="noopener nofollow" target="_blank">Module 4: Conflict, Leadership and People Management</a>  <em>- TGS-2020501318</em>
+<br><strong>Register by 10 February 2026</strong>
+</p>
+</li>
+</ul>
+<p></p>
+<p></p>
+</li>
+<li>
+<p></p>
+</li>
+<li>
+<p></p>
+</li>
+<li>
+<p></p>
 </li>
 </ul>
 <h3>Certificate Programmes</h3>
@@ -46,10 +72,6 @@ for persons with disabilities.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0119" rel="noopener nofollow" target="_blank">Introduction to Care for Adults with Developmental Disabilities Presenting with Behavioural Problems and Mental Health Issues</a>
-</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS87" rel="noopener nofollow" target="_blank">Working with Persons with Autism</a><em> - TGS-2022014126</em>
 </p>
 </li>
@@ -63,12 +85,7 @@ for persons with disabilities.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS463" rel="noopener noreferrer nofollow" target="_blank">WSQ Principles and Practices of Early Intervention for Children with Special Needs - Module 1</a><em> – TGS-2021002281</em>&nbsp;
-<br><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS83" rel="noopener noreferrer nofollow" target="_blank">WSQ Principles and Practices of Early Intervention for Children with Special Needs - Module 2</a>  <em>– TGS-2022014671&nbsp;</em>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS85" rel="noopener noreferrer nofollow" target="_blank">WSQ Develop an Inclusive Lesson Plan in Early Intervention Teaching</a> – <em>TGS-2022013918&nbsp;</em>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0136" rel="noopener nofollow" target="_blank">Early Intervention Principles, Practices and Interventions</a>
 </p>
 </li>
 <li>
@@ -80,7 +97,24 @@ for persons with disabilities.</p>
 </p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0157" rel="noopener nofollow" target="_blank">Introduction to Reflective and Reflexive Practices</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0194" rel="noopener nofollow" target="_blank">Mastering Observation and Documentation in Early Intervention Practice</a>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/%22%20/l%20%22/Course?coursecode=SDIS88" rel="noopener noreferrer nofollow" target="_blank">Reflexive Practice for Special Needs and Early Intervention Professionals</a>  <em>– TGS-2022013976&nbsp;</em>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS463" rel="noopener noreferrer nofollow" target="_blank">WSQ Principles and Practices of Early Intervention for Children with Special Needs - Module 1</a><em> – TGS-2021002281</em>&nbsp;
+<br><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SDIS83" rel="noopener noreferrer nofollow" target="_blank">WSQ Principles and Practices of Early Intervention for Children with Special Needs - Module 2</a>  <em>– TGS-2022014671&nbsp;</em>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/#/Course?coursecode=SDIS85" rel="noopener noreferrer nofollow" target="_blank">WSQ Develop an Inclusive Lesson Plan in Early Intervention Teaching</a> – <em>TGS-2022013918&nbsp;</em>
 </p>
 </li>
 </ul>
