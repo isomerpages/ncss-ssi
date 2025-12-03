@@ -116,8 +116,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Trainer teaching in volunteering management and development course" src="/images/training/volunteer-v2.png">
 </div>
-<h4>What Makes Rehab Effective</h4>
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0180" rel="noopener nofollow" target="_blank"><u>Registration is open throughout the year</u></a></strong>
+<h4>Befriending 101 for Volunteers</h4>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0035" rel="noopener nofollow" target="_blank"><u>Registration is open throughout the year</u></a></strong>
 <br><a href="https://www.ssi.gov.sg/training/volunteer-development-and-management/" rel="noopener noreferrer nofollow" target="\_blank">View other Volunteering Management and Development courses</a>
 </p>
 </td>
