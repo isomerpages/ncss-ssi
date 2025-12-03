@@ -12,16 +12,6 @@ variant: tiptap
 <h3><strong>Registration now open</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCOF90" rel="noopener nofollow" target="_blank">Developing Your Coaching and Mentoring Skills</a>
-<br><strong>Register by 1 December 2025</strong>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFRE5766" rel="noopener nofollow" target="_blank">Making $ense II: Fund-Raising Strategy Development</a>
-<br><strong>Register by 12 December 2025</strong>
-</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener noreferrer nofollow" target="_blank">Developing Effective Supervisory Skills</a>
 <br><strong>Register by 24 December 2025</strong>
 </p>
@@ -55,6 +45,10 @@ latest updates.</p>
 <h4>People Management</h4>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCOF90" rel="noopener nofollow" target="_blank">Developing Your Coaching and Mentoring Skills</a>
+</p>
+</li>
+<li>
 <p>Leading Self in Organisations - <strong><em>Coming soon!</em></strong>
 </p>
 </li>
@@ -71,6 +65,10 @@ latest updates.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFRE5103" rel="noopener noreferrer nofollow" target="_blank">Making $ense I: An Introduction to Fund Raising</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NFRE5766" rel="noopener nofollow" target="_blank">Making $ense II: Fund-Raising Strategy Development</a>
 </p>
 </li>
 </ul>
