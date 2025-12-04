@@ -19,36 +19,9 @@ youth, adults and seniors.</p>
 <h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/training/cet-programmes/professional-certificate-in-casework/" rel="noopener noreferrer nofollow" target="_blank">Professional Certificate in Casework</a>
-<br><strong>Register by 10 November 2025</strong>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0034" rel="noopener nofollow" target="_blank">Apply Research Findings and Trends Into Social Service Delivery</a><em>- TGS-2022017198</em>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Module 1: Engagement and Assessment <em>- TGS-2020501407</em>
-</p>
-</li>
-<li>
-<p>Module 2: Planning and Intervention <em>- TGS-2020501408</em>
-</p>
-</li>
-<li>
-<p>Module 3: Case Review and Evaluation <em>- TGS-2020501409</em>
-</p>
-</li>
-</ul>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5570" rel="noopener nofollow" target="_blank">Understanding and Working with the Malay-Muslim Clients </a><em>- TGS-2020500659<br></em><strong>Register by 25 November 2025</strong>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0104" rel="noopener nofollow" target="_blank">Develop An Effective Case Management Plan</a>
-<br><strong>Register by 27 November 2025</strong>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5647" rel="noopener nofollow" target="_blank">May I Help You? (Boleh Saya Bantu Anda?) - Conversational Malay for Social Service Practitioners</a>
-<br><strong>Register by 2 December 2025</strong>
+<p><strong>Register by 22 December 2025</strong>
 </p>
 </li>
 <li>
@@ -67,6 +40,15 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0100" rel="noopener nofollow" target="_blank">Inclusive Training Series: Understanding and Working with People in Diverse Groups</a>
+<br><strong>Register by 29 December 2025</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0105" rel="noopener nofollow" target="_blank">Leading An Effective Case Management Team </a>  <em>- TGS-2025053679<br></em><strong>Register by 7 January 2026</strong>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0184" rel="noopener nofollow" target="_blank">Cognitive Behaviour Therapy: Intermediate</a>
 <br><strong>Register by 14 January 2026</strong>
 </p>
@@ -82,8 +64,8 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0105" rel="noopener nofollow" target="_blank">Leading An Effective Case Management Team</a>
-<br><strong>Register by 21 January 2026</strong>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5856" rel="noopener nofollow" target="_blank">Understanding and Supporting People in Journey of Loss and Grief</a>
+<br><strong>Register by 26 January 2026</strong>
 </p>
 </li>
 <li>
@@ -95,8 +77,7 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0147" rel="noopener nofollow" target="_blank">Using Sector Evaluation Framework (SEF) in Articulating Programme Outcomes</a>
-</p>
+<p></p>
 </li>
 </ul>
 <h3><strong>Other Featured Short Courses in Befriending, Case Management, Counselling and more</strong></h3>
@@ -114,6 +95,10 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0104" rel="noopener nofollow" target="_blank">Develop An Effective Case Management Plan</a>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0164" rel="noopener nofollow" target="_blank">Effective Practice Supervision for Social Work Supervisors</a>
 </p>
 </li>
@@ -126,7 +111,7 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0100" rel="noopener nofollow" target="_blank">Inclusive Training Series: Understanding and Working with People in Diverse Groups</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5647" rel="noopener nofollow" target="_blank">May I Help You? (Boleh Saya Bantu Anda?) - Conversational Malay for Social Service Practitioners</a>
 </p>
 </li>
 <li>
@@ -138,7 +123,7 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5856" rel="noopener nofollow" target="_blank">Understanding and Supporting People in Journey of Loss and Grief</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5570" rel="noopener nofollow" target="_blank">Understanding and Working with the Malay-Muslim Clients </a><em>- TGS-2020500659</em>
 </p>
 </li>
 <li>
@@ -151,6 +136,10 @@ youth, adults and seniors.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SSI0162" rel="noopener nofollow" target="_blank">Understanding Singapore’s Social Compact and Social Policies</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0147" rel="noopener nofollow" target="_blank">Using Sector Evaluation Framework (SEF) in Articulating Programme Outcomes</a>
 </p>
 </li>
 </ul>

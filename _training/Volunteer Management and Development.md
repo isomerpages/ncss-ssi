@@ -11,17 +11,6 @@ variant: tiptap
 <h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0180" rel="noopener nofollow" target="_blank">What Makes Rehab Effective</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0186" rel="noopener nofollow" target="_blank">Understanding Substance Addiction and the Recovery Journey</a>
-</p>
-</li>
-</ul>
-<h3>Complimentary e-Learning Courses (NCSS funded)</h3>
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0035" rel="noopener noreferrer nofollow" target="_blank">Befriending 101 (For Volunteers)</a>
 </p>
 </li>
@@ -29,6 +18,17 @@ variant: tiptap
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0125" rel="noopener noreferrer nofollow" target="_blank"><u>Volunteer Management 101</u></a>
 </p>
 </li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0186" rel="noopener nofollow" target="_blank">Understanding Substance Addiction and the Recovery Journey</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0180" rel="noopener nofollow" target="_blank">What Makes Rehab Effective</a>
+</p>
+</li>
+</ul>
+<h3>Complimentary e-Learning Courses (NCSS funded)</h3>
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0167" rel="noopener nofollow" target="_blank">Volunteer Continuity Planning</a>
 </p>
