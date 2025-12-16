@@ -30,14 +30,6 @@ the following dates. Access to iLTMS may be disrupted during this period.</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12 December 2025 22:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>13 December 2025 07:00</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
