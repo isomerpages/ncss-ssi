@@ -30,6 +30,102 @@ the following dates. Access to iLTMS may be disrupted during this period.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 January 2026, 22:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24 January 2026, 07:00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 February 2026, 22:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21 February 2026, 07:00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 March 2026, 22:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21 March 2026, 07:00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 April 2026, 22:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18 April 2026, 07:00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 May 2026, 22:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23 May 2026, 07:00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 June 2026, 22:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 June 2026, 07:00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 July 2026, 22:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25 July 2026, 07:00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 August 2026, 22:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22August 2026, 07:00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 September 2026, 22:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19 September 2026, 07:00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 October 2026, 22:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24 October 2026, 07:00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 November 2026, 22:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21 November 2026, 07:00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 December 2026, 22:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 December 2026, 07:00</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
