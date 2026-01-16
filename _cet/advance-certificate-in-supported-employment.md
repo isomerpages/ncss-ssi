@@ -5,20 +5,31 @@ description: SSI's ACSE helps disability employment professionals provide better
   employment & employability support for persons with disabilities.
 variant: tiptap
 ---
-<h2>Overview: Advanced Certificate in Supported Employment (ACSE) Course</h2>
-<p>The Advanced Certificate in Supported Employment (ACSE) aims to build
-capabilities of job coaches in providing employment and employability support
-for persons with disabilities.</p>
+<h2>Overview</h2>
+<p>The <strong>Advanced Certificate in Supported Employment (ACSE) </strong>equips
+job coaches with essential skills to provide comprehensive employment support
+for persons with disabilities in Singapore. Through face-to-face training
+at SSI’s classrooms, learners will develop crucial competencies in job
+coaching, including the application of employment theories, basic counselling
+techniques, case management, conflict resolution and job analysis.</p>
+<h3>New Course Format</h3>
+<p>This course is offered on a part-time basis and is made up of 5 stackable
+modules. Each module may be taken independently, allowing learners to progressively
+build toward the full programme. Upon completion of the programme, graduates
+will be equipped with the necessary skills to effectively support persons
+with disabilities in their employment journey, from career planning to
+job placement and ongoing support.</p>
 <h3>Course Requirements and Eligibility</h3>
-<p>Target audience includes job coaches and other professionals working with
-persons with disabilities in supported employment. This programme is also
-useful for those considering entry into this area of work.</p>
+<p>This professional certification programme is designed for both practising
+job coaches and professionals working with persons with disabilities, as
+well as those planning to enter the field of supporting persons with disabilities
+in employment.</p>
 <p>A minimum of three GCE ‘O’ Level credits and a minimum English Language
 (speaking, reading, writing and listening) proficiency level equivalent
 to C6 GCE ‘O’ level or Employability Skills System Workplace Literacy (WPL)
 Level 6 is required. Applicants are required to upload their GCE 'O' Level
 or any higher Certification during the online registration process.</p>
-<h3>Learning Outcomes: Supported Employment Training</h3>
+<h3>Learning Outcomes</h3>
 <p>Upon completion of the course, graduates will be able to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -48,127 +59,143 @@ with a disability</p>
 <h4>Assessment Requirements</h4>
 <p>Learners are required to meet at least 75% attendance for every module’s
 training hour to be eligible to sit for the respective assessment.</p>
-<p><strong>Programme Duration:</strong> This course is offered on a part time
-basis and has a total duration of 115 hours. Trainings will be conducted
-in-person in SSI’s classrooms. Where applicable, assessments will be conducted
-physically in SSI on a separate day. Details will be shared with successful
-learners and/or in class.</p>
-<p><strong>Lesson Timings:</strong> 9.30am to 5.30pm</p>
-<p><strong>Fees:</strong>
+<h4>Programme Duration</h4>
+<p>This course is offered on a part-time basis and is made up of 5 stackable
+modules. Each module may be taken independently, allowing learners to progressively
+build toward the full programme, which totals 115 training hours. Trainings
+will be conducted in person at SSI’s classrooms. Assessments will be held
+at SSI, with details shared with learners in class.</p>
+<h4>Completion Timeline and Certification Criteria</h4>
+<p>To receive the Programme Certificate, all learners are required to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Complete all 5 modules within a 2-year candidature period from the date
+of enrolment.</p>
+</li>
+<li>
+<p>Submit proof of completion for each module (learners will receive individual
+certificate for each completed module) by writing in to SSI programme team.</p>
+</li>
+</ul>
+<p>Upon verification, you will receive the Programme Certificate, signifying
+full completion of the stackable pathway.</p>
+<p>Do note that:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learners who do not complete all 5 modules within the 2-year period will
+not be eligible for the Programme Certificate.</p>
+</li>
+<li>
+<p>Partial completion will not result in programme-level certification, though
+individual certificates will still be awarded if learners have passed the
+assessment for the module.</p>
+</li>
+</ul>
+<p>We encourage learners to plan their learning journey proactively and reach
+out early if they anticipate challenges in meeting the timeline.</p>
+<h4>Lesson Timings</h4>
+<p>All lessons are conducted between&nbsp;9.30am to 5.30pm.</p>
+<hr>
+<h3>Stackable Modules Offered</h3>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Supported Employment and Working with Clients of Different Disabilities</strong>
+<br><em>TGS-2021008466</em>
+<br>
+<br>This module equips learners with a better understanding of the concept
+and practices of Supported Employment, including techniques to provide
+guidance to persons with disabilities (PWDs) in their career planning,
+employment laws and grants available for employers and PWDs.
+<br>
+<br><em>For new job coaches, we recommend starting from the “Supported Employment and Working with Clients of Different Disabilities” module. </em>
+<br>
+<br><strong><em>Register for <a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=sdis443" rel="noopener noreferrer nofollow" target="_blank">Supported Employment and Working with Clients of Different Disabilities</a> module now!</em></strong>
+<br><em><br></em>
 </p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Item</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Amount (before GST)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Amount after 9% GST</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Full Course Fee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$3,900.00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$4,251.00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fee&nbsp;(After <a href="/training/funding-information/skillsfuture-singapore-funding/" rel="noopener noreferrer nofollow" target="_blank">SSG Funding</a><sup>1</sup>)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$1,170.00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$1,275.30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>A non-refundable application fee of SGD 54.50 (including 9% GST) is applicable
-for registrations received.
+</li>
+<li>
+<p><strong>Client and Employer Engagement </strong>
+<br><em>TGS-2020501320</em>
+<br>
+<br>This module focuses on the role and responsibilities of a professional
+job coach and coaching techniques for PWDs within a supported employment
+framework. In contrast to the traditional train-and-place approach, job
+coaching in supported employment embraces a ‘place, train and sustain’
+model which requires job coaches to work closely with PWDs and employers
+throughout the job coaching process. Learners will acquire specific knowledge
+and skills to engage and support clients and employers in supported employment
+which includes the development of client profile, job development and placement,
+job site training and support, and fading out and follow-up.
+<br>
+<br><strong><em>Register for <a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=sdis50" rel="noopener noreferrer nofollow" target="_blank">Client and Employer Engagement</a> module now!</em></strong>
+<br>
 <br>
 </p>
-<hr>
+</li>
+<li>
+<p><strong>Introduction to Case Management</strong>
+<br><em>TGS-2020500820</em>
+<br>
+<br>This module explores how a person-centred approach to case management
+is the backbone of successful employment support. Learners will be equipped
+to advocate, communicate, and identify essential resources, acting as the
+vital link between PWDs, job coaches, service staff, and other key stakeholders.
+By mastering these skills, learners will ensure a holistic and successful
+employment outcome for their clients.</p>
+<p><strong><em>Register for <a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=sdis48" rel="noopener noreferrer nofollow" target="_blank">Introduction to Case Management</a> module now!</em></strong>
+</p>
 <p></p>
-<h4><strong>Module 1: Supported Employment and Working with Clients of Different Disabilities</strong></h4>
-<p><em>TGS-2021008466</em> 
-<br><strong>Training dates:</strong> 21 to 25 April 2025
-<br><strong>Assessment date:</strong> 25 April 2025</p>
-<p>This module will equip learners with a better understanding of the concept
-and practices of Supported Employment, including techniques to provide
-guidance to clients with disabilities in their career planning, employment
-laws and grants available for employers and persons with disabilities.</p>
-<h4><strong>Module 2: Basic Counselling Skills and Practice for Job Coaches</strong></h4>
-<p><em>TGS-2020501623</em>
-<br><strong>Training dates:</strong> 6 to 7 May 2025
-<br><strong>Assessment date:</strong> 7 May 2025</p>
-<p>This module provides an overview of the counselling process, the different
-roles performed by the job coach-counsellor, basic counselling skills,
-goals of counselling, values and ethics in counselling and approaches in
-problem management. In addition, this module will also cover barriers of
-communication in the counselling process and ways to prevent communication
-breakdown when working with clients.</p>
-<h4><strong>Module 3: Introduction to Case Management</strong></h4>
-<p><em>TGS-2020500820</em>
-<br><strong>Training dates:</strong> 15 to 16 May 2025
-<br><strong>Assessment date:</strong> 16 May 2025</p>
-<p>This module will equip learners with the necessary skills and knowledge
-of case management in practice. It provides learners with a broad understanding
-of how case management serves as a means for achieving client wellness
-and autonomy through advocacy, dialogue, identification of service resources
-and direction. Additionally, the workshop also helps learners in forming
-the connections between job coach, client, service personnel and other
-stakeholders in order to optimize the assistance rendered.</p>
-<h4><strong>Module 4: Conflict, Leadership and People Management</strong></h4>
-<p><em>TGS-2020501318</em>
-<br><strong>Training dates:</strong> 5 to 6 June 2025
-<br><strong>Assessment date:</strong> 6 June 2025</p>
-<p>Conflict is an issue that people have to manage regularly. Any efforts
-in equalising and normalising persons with disabilities at workplace would
-have to recognise and accept that potential conflicts may be inevitable.
-If conflict is not effectively managed and resolved, it can be detrimental
-because it can cause uncertainty, lower morale and hurt long-term working
-efficiency and effectiveness. This module will discuss conflict resolution,
-the art of negotiation in reaching an agreement between different stakeholders
-as well as how to apply the principles of leadership and people management.</p>
-<h4><strong>Module 5: Client and Employer Engagement</strong></h4>
-<p><em>TGS-2020501320</em>
-<br><strong>Training dates: </strong>16 to 20 June 2025
-<br><strong>Oral Interview: </strong>28 and 29 July 2025&nbsp;</p>
-<p>This module focuses on the role and responsibilities of a professional
-job coach and coaching techniques for persons with disabilities (PWDs)
-within a supported employment framework. In contrast to the traditional
-train-and-place approach, job coaching in supported employment embraces
-a ‘place, train and sustain’ model which requires job coaches to work closely
-with clients with disabilities and employers throughout the job coaching
-process. Learners will acquire specific knowledge and skills to engage
-and support clients and employers in supported employment which includes
-the development of client profile, job development and placement, job site
-training and support, and fading out and follow-up.</p>
-<p><strong>Compulsory Site Visit to Enabling Village</strong>: 10 July 2025</p>
+</li>
+<li>
+<p><strong>Basic Counselling Skills and Practice for Job Coaches<br></strong><em>TGS-2020501623</em>
+<br>
+<br>This module provides an overview of the counselling process, the different
+roles performed by the job coach and how counselling skills are useful
+in the key stages of the job coaching process. The module covers basic
+counselling skills, goals of counselling, values and ethics in counselling
+and approaches in problem management, which includes barriers of communication
+in the counselling process and ways to prevent communication breakdown
+when working with PWDs.
+<br>
+<br><strong><em>Register for <a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=sdis47" rel="noopener noreferrer nofollow" target="_blank">Basic Counselling Skills and Practice for Job Coaches</a> now!</em></strong>
+</p>
+<p></p>
+</li>
+<li>
+<p><strong>Conflict, Leadership and People Management</strong>
+<br><em>TGS-2020501318</em>
+</p>
+<p>Learn to use various communication styles to guide employers through inclusive
+hiring, manage conflict, and facilitate solutioning. By developing awareness
+of both verbal and non-verbal tendencies, learners can engage stakeholders
+with greater clarity and adaptability. This is particularly valuable in
+moments of conflict, as it helps foster rapport and trust, reframing potential
+disputes as opportunities for collaboration and lasting resolution.</p>
+<p>This module discusses conflict resolution, the art of negotiation in reaching
+an agreement between different stakeholders as well as how to apply the
+principles of leadership and people management.</p>
+<p></p>
+<p><strong><em>Register for <a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=sdis49" rel="noopener noreferrer nofollow" target="_blank">Conflict, Leadership and People Management</a> now!</em></strong>
+</p>
+</li>
+</ol>
 <hr>
-<h3><strong>Upcoming intake 2025</strong></h3>
-<p><strong>Registration closing date:</strong> 3 March 2025
-<br>Register for the <a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS8" rel="noopener nofollow" target="_blank">ACSE Course</a> now.</p>
+<h3><strong>Community of Practice (CoP) </strong></h3>
+<p>The Community of Practice (CoP) is a platform for disability job coaches
+and employment specialists (who provide job support for persons with disabilities)
+to learn and collaborate with one another. In the CoP, members will discuss
+cases and challenges faced, share best practices and learn from their counterparts
+and other experts on finding solutions that provide employment support
+for persons with disabilities and employers.</p>
+<p>You will be automatically added to SG Enable’s mailing list for job coaches
+(after you have registered for your first ACSE module), where you will
+receive updates on upcoming CoP sessions and other training programmes
+for job coaches.</p>
+<p>While CoP is not a criterion to receive the ACSE certification, you are
+highly encouraged to attend at least 1 CoP session while you are undertaking
+the programme to build your network and continue learning with other job
+coaches.</p>
+<p></p>
 <hr>
-<p><sup>1</sup> Subject to successful completion and achievement of a ‘Competent’
-grade for all in-class assessments/assignments. Learners eligible for SkillsFuture
-Singapore (SSG) funding, must achieve at least 75% attendance per module,
-and be certified ‘Competent’ in all the assessment components. Individuals
-or Organisations will have to bear the full course fees in the event that
-learners fail to meet the attendance/assessment requirements and terms
-and conditions for SSG funding eligibility. Learn more about <a href="/training/funding-information/skillsfuture-singapore-funding/" rel="noopener noreferrer nofollow" target="_blank">SSG Funding</a>.</p>
+<p><sup>1</sup>  <em>Subject to successful completion and achievement of a ‘Competent’ grade for all in-class assessments/assignments. Learners eligible for SkillsFuture Singapore (SSG) funding must achieve at least 75% attendance per module, and be certified ‘Competent’ in all the assessment components. Individuals or Organisations will have to bear the full course fees in the event that learners fail to meet the attendance/assessment requirements and terms and conditions for SSG funding eligibility. Learn more about <a href="/training/funding-information/skillsfuture-singapore-funding/" rel="noopener noreferrer nofollow" target="_blank">SSG Funding</a>.</em>
+</p>
