@@ -146,8 +146,7 @@ early intervention to identified children. She firmly believes in early
 identification and providing early intervention for young children to optimise
 their learning.</p>
 <p><strong>Ms Jesmin Tan</strong>
-</p>
-<p>With over 20 years of experience in communications, adult education and
+<br>With over 20 years of experience in communications, adult education and
 workplace learning,&nbsp;Jesmin brings deep expertise in helping professionals
 like job coaches, HR personnel and caregivers supporting persons with disabilities.
 She has worked with a wide range of organisations - from start-ups to government
@@ -157,8 +156,7 @@ practical application. Passionate about empowering others, Jesmin guides
 learners in building the skills and confidence needed to help persons with
 disabilities navigate public transport independently and safely.</p>
 <p><strong>Mr Ng Herk Low</strong>
-</p>
-<p>Herk Low is a strategist, consultant and ACLP-certified adult educator.
+<br>Herk Low is a strategist, consultant and ACLP-certified adult educator.
 By helping companies in strategy development, environmental and social
 sustainability, and other areas of leadership and management development,
 Herk supports his clients to develop new areas of growth and build kinder
