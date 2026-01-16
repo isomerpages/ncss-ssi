@@ -110,80 +110,62 @@ for persons with disabilities.</p>
 <h3>Complimentary e-Learning (NCSS funded)</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Providing Professional Support in the Disability Sector - <strong><em>Coming soon!</em></strong>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NCS_SST1076" rel="noopener noreferrer nofollow" target="_blank">Navigating Singapore's Disability Landscape</a>
 </p>
 </li>
 <li>
-<p>Ageing in Place for Persons with Intellectual Disability -&nbsp;<strong><em>Coming soon!</em></strong>
+<p><strong>Deepening your Early Intervention Practice</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0136" rel="noopener noreferrer nofollow" target="_blank">Early Intervention Principles, Practices and Interventions</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0194" rel="noopener noreferrer nofollow" target="_blank">Mastering Observation and Documentation in Early Intervention Practice</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0157" rel="noopener noreferrer nofollow" target="_blank">Introduction to Reflective and Reflexive Practices</a>
 </p>
 </li>
 </ul>
-<hr>
-<h3><strong>Pre-appointment Training for Inclusion Coordinators (ICOs)&nbsp;</strong>&nbsp;</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>The ICO Pre-Appointment Training contributes directly towards MSF’s mission
-to give every child a good start and building an inclusive society. As
-part of ECDA’s efforts to enhance inclusion and support for Children with
-Developmental Needs, every preschool will be required to appoint one of
-its staff as an ICO, since the second half of 2023.&nbsp;&nbsp;</p>
 </li>
 </ul>
-<ul data-tight="true" class="tight">
-<li>
-<p>Appointed by ECDA to deliver, this course equips and prepares ICO to collaborate
-with educators to flag out children with potential needs for further assessment
-and connect EC educators and parents to the relevant EI support and resources.&nbsp;</p>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p>It is <strong>mandatory</strong> for those who would be appointed as ICO
-to attend the pre-appointment training and obtain an e-certificate.</p>
-</li>
-</ul>
-<p>Read more on the <a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS464" rel="noopener nofollow" target="_blank">course and registration process</a> and
-check out the exciting social learning experiences curated for <a href="https://go.gov.sg/cop-ico24" rel="noopener noreferrer nofollow" target="_blank">CoP for ICOs.</a>
-</p>
-<p></p>
-<p>Explore the full offerings of&nbsp;<a href="https://iltms.ssi.gov.sg/registration/Course" rel="noopener nofollow" target="_blank">SSI's Disability courses</a> and
-other <a href="https://www.ssi.gov.sg/complimentary-courses/" rel="noopener noreferrer nofollow" target="_blank">complimentary courses</a> or
-<a href="https://www.ssi.gov.sg/contact-us/" rel="noopener noreferrer nofollow" target="_blank">contact us</a>directly to explore designing personalised training (e.g.
-Inclusive Facilitation Training)!</p>
 <hr>
 <h3><strong>Featured Adult Educators under Disability Training Courses</strong></h3>
-<p><strong>Ms June Tham-Toh Syn Yuen </strong>
-<br>June was the Executive Director of Rainbow Centre before she retired in
-2014. She holds a Master of Education, Diploma in Management Studies, Certification
-of Achievement in Outcome Management: Train-The-Trainer, Early Childhood
-Intervention, Treatment and Education of Autistic and Related Communication
-Handicapped Children (TEACCH) and Advanced Certification in Training and
-Assessment (ACTA). She was one of the two pioneer scholars from Singapore
-to have successfully completed the “Strategic Perspectives in Non-Profit
-Management” Programme in July 2008 at the Harvard Business School (HBS).</p>
-<p><strong>Ms Clara Lim</strong> 
-<br>Clara is an accomplished Special Education Teacher. She has many years
-of experience in special needs and education. Her areas of expertise include
-inclusive practices and early childhood development. She has the ability
-to assess children’s educational needs, develop and implement educational
-strategies and programmes to maximise the abilities and potential of clients
-with special needs. She has worked with children with Cerebral Palsy, Global
-Developmental delay, Autism, Developmental delay and other related disabilities.
-As an adult educator, she is able to motivate her learners with her lively
-facilitation and sharing of relevant experience. Clara is a believer of
-continuing professional development and has acquired a Master’s Degree
-in Education in Educational Psychology.</p>
-<p><strong>Ms Nicole Wong</strong> 
-<br>Nicole holds a Masters in Social Work Degree from the National University
-of Singapore. She has been a social work practitioner for more than 20
-years working in different sectors such as organizations that serve persons
-with disabilities, acute and community hospitals, as well as social development
-work in China. Her work experiences has given her the opportunities to
-develop knowledge and expertise in working with persons and families in
-acute and chronic health conditions; psychiatric illnesses; mental health
-challenges; persons with disabilities; challenging social situations such
-as extreme poverty; geriatric issues as well as crisis and traumatic situations
-such as family violence, suicide, sexual assault and refugees seeking asylum.</p>
+<p><strong>Ms Fiona Woo&nbsp;</strong>
+<br>Fiona is a Principal Educational Therapist at the Department of Child
+Development, KK Women’s and Children’s Hospital. She is part of a team
+that sees a range of developmental issues in young children. Her area of
+work focuses on supporting 5- and 6-year-old children in pre-literacy and
+early reading. She was also involved in the early implementation of the
+Development Support Programme (now known as Development Support &amp; Learning
+Support) as a Learning Support Educator, which involved screening and providing
+early intervention to identified children. She firmly believes in early
+identification and providing early intervention for young children to optimise
+their learning.</p>
+<p><strong>Ms Jesmin Tan</strong>
+</p>
+<p>With over 20 years of experience in communications, adult education and
+workplace learning,&nbsp;Jesmin brings deep expertise in helping professionals
+like job coaches, HR personnel and caregivers supporting persons with disabilities.
+She has worked with a wide range of organisations - from start-ups to government
+agencies. Jesmin has trained learners across Singapore’s disability, eldercare
+and mental health sectors, always with a focus on inclusion, empathy and
+practical application. Passionate about empowering others, Jesmin guides
+learners in building the skills and confidence needed to help persons with
+disabilities navigate public transport independently and safely.</p>
+<p><strong>Mr Ng Herk Low</strong> 
+</p>
+<p>Herk Low is a strategist, consultant and ACLP-certified adult educator.
+By helping companies in strategy development, environmental and social
+sustainability, and other areas of leadership and management development,
+Herk supports his clients to develop new areas of growth and build kinder
+and better workplace cultures. Herk has more than 10 years of experience
+as a senior leader in the social and sustainability sectors. He holds engineering
+degrees from Cornell University and is a GRI Certified Sustainability Professional.
+Herk was named as a “LinkedIn Top Voice in Social Impact 2023”.</p>
 <hr>
 <h3><strong>Subscribe and Stay Connected!</strong></h3>
 <p>Subscribe to SSI's <a href="https://form.gov.sg/62062a0f8cb95c001235e55d" rel="noopener noreferrer nofollow" target="_blank">Disability Mailing List</a> for
