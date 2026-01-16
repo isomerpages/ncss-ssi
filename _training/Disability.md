@@ -156,7 +156,7 @@ and mental health sectors, always with a focus on inclusion, empathy and
 practical application. Passionate about empowering others, Jesmin guides
 learners in building the skills and confidence needed to help persons with
 disabilities navigate public transport independently and safely.</p>
-<p><strong>Mr Ng Herk Low</strong> 
+<p><strong>Mr Ng Herk Low</strong>
 </p>
 <p>Herk Low is a strategist, consultant and ACLP-certified adult educator.
 By helping companies in strategy development, environmental and social
