@@ -32,14 +32,6 @@ the following dates. Access to iLTMS may be disrupted during this period.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23 January 2026, 22:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>24 January 2026, 07:00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>20 February 2026, 22:00</p>
 </td>
 <td rowspan="1" colspan="1">
