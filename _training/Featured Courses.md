@@ -16,7 +16,7 @@ variant: tiptap
 <h3>Course Schedule &amp; Registration Date</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/training courses/Monthly_Featured_Courses.pdf" rel="noopener noreferrer nofollow" target="_blank">Registration period: December 2025 to January 2026</a>
+<p><a href="/files/training courses/Monthly_Featured_Courses.pdf" rel="noopener noreferrer nofollow" target="_blank">Registration period: January 2026 to March 2026</a>
 </p>
 </li>
 </ul>
@@ -63,7 +63,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="A social worker helping a person with disability" src="https://www.ssi.gov.sg/images/training/disability-v2.png">
 </div>
-<h4>Navigating Singapore's Disability Landscape  </h4>
+<h4>Navigating Singapore's Disability Landscape</h4>
 <p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NCS_SST1076" rel="noopener nofollow" target="_blank">Registration is open throughout the year</a></strong>
 <br><a href="https://www.ssi.gov.sg/training/disability/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Disability courses</u></a>
 </p>
