@@ -21,11 +21,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS48" rel="noopener nofollow" target="_blank">Module 3: Introduction to Case Management</a><em> - TGS-2020500820 </em>
-<br><strong>Register by 9 January 2026</strong>
-</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS49" rel="noopener nofollow" target="_blank">Module 4: Conflict, Leadership and People Management</a>  <em>- TGS-2020501318</em>
 <br><strong>Register by 10 February 2026</strong>
 </p>
@@ -50,6 +45,13 @@ variant: tiptap
 <br>The Advanced Certificate in Supported Employment (ACSE) aims to build
 capabilities of job coaches in providing employment and employability support
 for persons with disabilities.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS48" rel="noopener nofollow" target="_blank">Module 3: Introduction to Case Management</a><em> - TGS-2020500820 </em>
+<br>
+</p>
+</li>
+</ul>
 </li>
 </ul>
 <h3>Featured Short Courses in Early Interventions and Managing Disabilities</h3>
