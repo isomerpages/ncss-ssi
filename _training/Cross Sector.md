@@ -19,53 +19,9 @@ youth, adults and seniors.</p>
 <h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0034" rel="noopener nofollow" target="_blank">Apply Research Findings and Trends Into Social Service Delivery</a><em>- TGS-2022017198</em>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCET6-M" rel="noopener nofollow" target="_blank">Understanding the Social Service Sector</a><em>- TGS-2025053701</em>
 </p>
-<p><strong>Register by 22 December 2025</strong>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5229" rel="noopener noreferrer nofollow" target="_blank">Counselling Skills and Practice: Introduction</a> - <em>TGS-2020500644</em>
-<br><strong>Register by 23 December 2025</strong>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0101" rel="noopener nofollow" target="_blank">How to Critically Evaluate Casework Practice</a>
-<br><strong>Register by 23 December 2025</strong>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS30" rel="noopener noreferrer nofollow" target="_blank"><u>Engage Stakeholders Effectively</u></a>
-<br><strong>Register by 25 December 2025</strong>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0100" rel="noopener nofollow" target="_blank">Inclusive Training Series: Understanding and Working with People in Diverse Groups</a>
-<br><strong>Register by 29 December 2025</strong>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0105" rel="noopener nofollow" target="_blank">Leading An Effective Case Management Team </a>  <em>- TGS-2025053679<br></em><strong>Register by 7 January 2026</strong>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0184" rel="noopener nofollow" target="_blank">Cognitive Behaviour Therapy: Intermediate</a>
-<br><strong>Register by 14 January 2026</strong>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5725" rel="noopener noreferrer nofollow" target="_blank">Motivational Interviewing: An Introduction for Social Service Practitioners</a>  <em>- TGS-2020500646</em>
-<br><strong>Register by 14 January 2026</strong>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5446" rel="noopener noreferrer nofollow" target="_blank">Counselling Skills and Practice: Intermediate</a>
-<br><strong>Register by 20 January 2026</strong>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5856" rel="noopener nofollow" target="_blank">Understanding and Supporting People in Journey of Loss and Grief</a>
-<br><strong>Register by 26 January 2026</strong>
+<p><strong>Register by 18 March January 2026</strong>
 </p>
 </li>
 <li>
@@ -76,12 +32,13 @@ youth, adults and seniors.</p>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0196" rel="noopener nofollow" target="_blank">Getting Started in the Social Service Sector</a>
 </p>
 </li>
-<li>
-<p></p>
-</li>
 </ul>
 <h3><strong>Other Featured Short Courses in Befriending, Case Management, Counselling and more</strong></h3>
 <ul data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0034" rel="noopener nofollow" target="_blank">Apply Research Findings and Trends Into Social Service Delivery</a><em>- TGS-2022017198</em>
+</p>
+</li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SMTH93" rel="noopener nofollow" target="_blank">Applying Self-Care Techniques for Social Service Professionals</a>
 </p>
@@ -95,6 +52,18 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0184" rel="noopener nofollow" target="_blank">Cognitive Behaviour Therapy: Intermediate</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5229" rel="noopener noreferrer nofollow" target="_blank">Counselling Skills and Practice: Introduction</a> - <em>TGS-2020500644</em>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5446" rel="noopener noreferrer nofollow" target="_blank">Counselling Skills and Practice: Intermediate</a>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0104" rel="noopener nofollow" target="_blank">Develop An Effective Case Management Plan</a>
 </p>
 </li>
@@ -103,7 +72,15 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS30" rel="noopener noreferrer nofollow" target="_blank"><u>Engage Stakeholders Effectively</u></a>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCET159" rel="noopener noreferrer nofollow" target="_blank">Fundamentals in Developing Community Work Programme (NSFWCF Foundational)</a> - <em>TGS-2020501539</em>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0101" rel="noopener nofollow" target="_blank">How to Critically Evaluate Casework Practice</a>
 </p>
 </li>
 <li>
@@ -111,11 +88,19 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0100" rel="noopener nofollow" target="_blank">Inclusive Training Series: Understanding and Working with People in Diverse Groups</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0105" rel="noopener nofollow" target="_blank">Leading An Effective Case Management Team </a><em>- TGS-2025053679</em>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5647" rel="noopener nofollow" target="_blank">May I Help You? (Boleh Saya Bantu Anda?) - Conversational Malay for Social Service Practitioners</a>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF5725" rel="noopener noreferrer nofollow" target="_blank">Motivational Interviewing: An Introduction for Social Service Practitioners</a>  <em>- TGS-2020500646</em>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5725" rel="noopener noreferrer nofollow" target="_blank">Motivational Interviewing: An Introduction for Social Service Practitioners</a>  <em>- TGS-2020500646</em>
 </p>
 </li>
 <li>
@@ -131,7 +116,7 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCET6-M" rel="noopener nofollow" target="_blank">Understanding the Social Service Sector</a><em>- TGS-2025053701</em>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5856" rel="noopener nofollow" target="_blank">Understanding and Supporting People in Journey of Loss and Grief</a>
 </p>
 </li>
 <li>
