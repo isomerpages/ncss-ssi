@@ -41,8 +41,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Students cheering with raised fists with the text Cross Sector" src="https://www.ssi.gov.sg/images/training/cross-sector-v2.png">
 </div>
-<h4>Understanding and Supporting People in Journey of Loss and Grief&nbsp;</h4>
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5856" rel="noopener nofollow" target="_blank">Register by 26 January 2026</a></strong>
+<h4>Understanding the Social Service Sector</h4>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCET6-M" rel="noopener nofollow" target="_blank">Register by 3 March 2026</a></strong>
 <br><a href="https://www.ssi.gov.sg/training/cross-sector/" rel="noopener nofollow" target="_blank">View other Cross Sector courses</a>
 </p>
 </td>
@@ -63,8 +63,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="A social worker helping a person with disability" src="https://www.ssi.gov.sg/images/training/disability-v2.png">
 </div>
-<h4>Introduction to Care for Adults with Developmental Disabilities Presenting with Behavioural Problems and Mental Health Issues</h4>
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0119" rel="noopener nofollow" target="_blank">Register by 27 January 2026</a></strong>
+<h4>Navigating Singapore's Disability Landscape  </h4>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NCS_SST1076" rel="noopener nofollow" target="_blank">Registration is open throughout the year</a></strong>
 <br><a href="https://www.ssi.gov.sg/training/disability/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Disability courses</u></a>
 </p>
 </td>
@@ -105,10 +105,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Social service leaders in management and organisation development course" src="https://www.ssi.gov.sg/images/training/mod-v2.png">
 </div>
-<h4>Developing Effective Supervisory Skills</h4>
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener nofollow" target="_blank">Register by 24 December 2025</a></strong>
-<br><a href="https://www.ssi.gov.sg/training/management-and-organisation-development/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Management and Organisation Development courses</u></a>
-</p>
+<h4>Coming Soon!</h4>
+<p>View other Management and Organisation Development courses</p>
 </td>
 </tr>
 <tr>
