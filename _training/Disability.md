@@ -12,12 +12,6 @@ variant: tiptap
 <h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0119" rel="noopener nofollow" target="_blank">Introduction to Care for Adults with Developmental Disabilities Presenting with Behavioural Problems and Mental Health Issues</a>
-</p>
-<p><strong>Register by 27 January 2026</strong>
-</p>
-</li>
-<li>
 <p><a href="https://www.ssi.gov.sg/training/cet-programmes/advance-certificate-in-supported-employment/" rel="noopener nofollow" target="_blank">Advanced Certificate in Supported Employment (ACSE)</a>
 </p>
 <ul data-tight="true" class="tight">
@@ -37,6 +31,16 @@ variant: tiptap
 </p>
 </li>
 </ul>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0119" rel="noopener nofollow" target="_blank">Introduction to Care for Adults with Developmental Disabilities Presenting with Behavioural Problems and Mental Health Issues</a>
+</p>
+<p><strong>Register by 3 February 2026</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NCS_SST1076" rel="noopener noreferrer nofollow" target="_blank">Navigating Singapore's Disability Landscape</a>
+</p>
 </li>
 </ul>
 <h3>Certificate Programmes</h3>
