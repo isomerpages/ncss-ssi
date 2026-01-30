@@ -21,7 +21,7 @@ youth, adults and seniors.</p>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCET6-M" rel="noopener nofollow" target="_blank">Understanding the Social Service Sector</a><em>- TGS-2025053701</em>
 </p>
-<p><strong>Register by 18 March January 2026</strong>
+<p><strong>Register by 18 March 2026</strong>
 </p>
 </li>
 <li>
