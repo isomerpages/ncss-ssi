@@ -45,6 +45,10 @@ latest updates.</p>
 <h4>People Management</h4>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener noreferrer nofollow" target="_blank">Developing Effective Supervisory Skills</a>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCOF90" rel="noopener nofollow" target="_blank">Developing Your Coaching and Mentoring Skills</a>
 </p>
 </li>
