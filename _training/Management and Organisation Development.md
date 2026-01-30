@@ -9,14 +9,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Nonprofit leaders in a training session on Management and Organisation Development Course" src="/images/mod-banner.png">
 </div>
 <h2><strong>Management and Organisation Development Training Courses offered by SSI</strong></h2>
-<h3><strong>Registration now open</strong></h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener noreferrer nofollow" target="_blank">Developing Effective Supervisory Skills</a>
-<br><strong>Register by 24 December 2025</strong>
-</p>
-</li>
-</ul>
+<h4>Coming Soon!</h4>
 <h3><strong>Complimentary e-learning Courses (NCSS funded)</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
