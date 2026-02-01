@@ -9,7 +9,19 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Nonprofit leaders in a training session on Management and Organisation Development Course" src="/images/mod-banner.png">
 </div>
 <h2><strong>Management and Organisation Development Training Courses offered by SSI</strong></h2>
-<h4>Coming Soon!</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/mod-lead-self" rel="noopener nofollow" target="_blank">Leading Self In Organisations</a>
+<br><strong>Registered by 9 March 2026</strong>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/mod-lead-people" rel="noopener nofollow" target="_blank">Leading People In Organisations</a>
+</p>
+<p><strong>Registered by 26 March 2026</strong>
+</p>
+</li>
+</ul>
 <h3><strong>Complimentary e-learning Courses (NCSS funded)</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -43,14 +55,6 @@ latest updates.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCOF90" rel="noopener nofollow" target="_blank">Developing Your Coaching and Mentoring Skills</a>
-</p>
-</li>
-<li>
-<p>Leading Self in Organisations - <strong><em>Coming soon!</em></strong>
-</p>
-</li>
-<li>
-<p>Leading People in Organisations - <strong><em>Coming soon!</em></strong>
 </p>
 </li>
 <li>
