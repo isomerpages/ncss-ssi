@@ -106,7 +106,7 @@ variant: tiptap
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Social service leaders in management and organisation development course" src="https://www.ssi.gov.sg/images/training/mod-v2.png">
 </div>
 <h4>Leading People In Organisations</h4>
-<p><strong><a href="https://go.gov.sg/mod-lead-people" rel="noopener nofollow" target="_blank">Register by 26 March 2026</a></strong>
+<p><a href="https://go.gov.sg/leadership-lead-people" rel="noopener nofollow" target="_blank">Register by 26 March 2026</a>
 </p>
 <p>View other Management and Organisation Development courses</p>
 </td>
