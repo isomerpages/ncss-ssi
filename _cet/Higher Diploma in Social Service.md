@@ -23,16 +23,6 @@ prepare them for the programme and help them in their learning journey.</p>
 in Social Work at the Singapore University of Social Services (SUSS), for
 learners who want to pursue a further education and their aspiration to
 become a Social Worker.</p>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="3">
 <h3>9 Non-WSQ Modules</h3>
 <p><strong>Upon completion of the programme learners will be able to:</strong>
 </p>
@@ -65,10 +55,6 @@ become a Social Worker.</p>
 <p>Apply a legal framework in the protection of vulnerable people</p>
 </li>
 </ul>
-</td>
-</tr>
-</tbody>
-</table>
 <hr>
 <h3>Entry Requirements</h3>
 <p>Applicants should possess the following criteria:</p>
@@ -143,14 +129,6 @@ Youth Worker or Volunteer Executive.</p>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Cohort Size:</strong>
@@ -251,14 +229,6 @@ two to three times a week.</p>
 <p>Programme Orientation in February 2026</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>All learners will also be required to undergo the Social Service Field
@@ -288,11 +258,6 @@ other terms and conditions for SSG funding eligibility.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Date:</p>
 </td>
@@ -314,14 +279,6 @@ other terms and conditions for SSG funding eligibility.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SSI (Level 18 - Connect/Dignity/Empower), Tiong Bahru Central Plaza&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -363,14 +320,6 @@ other terms and conditions for SSG funding eligibility.</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
@@ -409,14 +358,6 @@ other terms and conditions for SSG funding eligibility.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>March 2026 - July 2027</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
