@@ -9,11 +9,16 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Nonprofit leaders in a training session on Management and Organisation Development Course" src="/images/mod-banner.png">
 </div>
 <h2><strong>Management and Organisation Development Training Courses offered by SSI</strong></h2>
-<h3><strong>Registration now open</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener noreferrer nofollow" target="_blank">Developing Effective Supervisory Skills</a>
-<br><strong>Register by 24 December 2025</strong>
+<p><a href="https://go.gov.sg/leadership-lead-self" rel="noopener nofollow" target="_blank">Leading Self In Organisations</a>
+<br><strong>Registered by 9 March 2026</strong>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/leadership-lead-people" rel="noopener nofollow" target="_blank">Leading People In Organisations</a>
+</p>
+<p><strong>Registered by 26 March 2026</strong>
 </p>
 </li>
 </ul>
@@ -45,15 +50,11 @@ latest updates.</p>
 <h4>People Management</h4>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=NMGT5079" rel="noopener noreferrer nofollow" target="_blank">Developing Effective Supervisory Skills</a>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCOF90" rel="noopener nofollow" target="_blank">Developing Your Coaching and Mentoring Skills</a>
-</p>
-</li>
-<li>
-<p>Leading Self in Organisations - <strong><em>Coming soon!</em></strong>
-</p>
-</li>
-<li>
-<p>Leading People in Organisations - <strong><em>Coming soon!</em></strong>
 </p>
 </li>
 <li>
