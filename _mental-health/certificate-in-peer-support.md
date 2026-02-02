@@ -90,7 +90,12 @@ training.</p>
 classroom training): To be confirmed</p>
 </li>
 </ul>
-<p><em>Note:</em>
+<h3><strong>Application Form</strong></h3>
+<p><a href="https://form.gov.sg/64ef65027fc1090011942941" rel="noopener nofollow" target="_blank">Register your interest</a> for
+"Preparatory Training for Potential Peer Support Specialist" and "Certificate
+in Peer Support" now.</p>
+<hr>
+<p><strong><em>Note:</em></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -106,7 +111,5 @@ classroom training): To be confirmed</p>
 </p>
 </li>
 </ol>
-<p><strong>Application Form</strong>
-<br><a href="https://form.gov.sg/64ef65027fc1090011942941" rel="noopener noreferrer nofollow" target="_blank">Register your interest</a> for
-"Preparatory Training for Potential Peer Support Specialist" and "Certificate
-in Peer Support".</p>
+<h3></h3>
+<p></p>
