@@ -11,12 +11,12 @@ variant: tiptap
 <h2><strong>Management and Organisation Development Training Courses offered by SSI</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/mod-lead-self" rel="noopener nofollow" target="_blank">Leading Self In Organisations</a>
+<p><a href="https://go.gov.sg/leadership-lead-self" rel="noopener nofollow" target="_blank">Leading Self In Organisations</a>
 <br><strong>Registered by 9 March 2026</strong>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/mod-lead-people" rel="noopener nofollow" target="_blank">Leading People In Organisations</a>
+<p><a href="https://go.gov.sg/leadership-lead-people" rel="noopener nofollow" target="_blank">Leading People In Organisations</a>
 </p>
 <p><strong>Registered by 26 March 2026</strong>
 </p>
