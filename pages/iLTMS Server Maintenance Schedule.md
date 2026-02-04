@@ -4,6 +4,11 @@ permalink: /maintenance-schedule/
 description: Maintenance schedule for iLTMS
 variant: tiptap
 ---
+<p><strong>Scheduled Upgrade</strong>: All SSI portals will be unavailable
+from&nbsp;10 April 2026, 12:00 am to&nbsp;20 April 2026, 8:59 am for the&nbsp;iLTMS&nbsp;2.0
+upgrade. We apologise for any inconvenience. For urgent matters, please&nbsp;
+<a href="https://www.ssi.gov.sg/contact-us/" rel="noopener noreferrer nofollow" target="_blank">contact us</a>.&nbsp;</p>
+<hr>
 <p>Please note that iLTMS will be undergoing the scheduled maintenance on
 the following dates. Access to iLTMS may be disrupted during this period.</p>
 <table style="minWidth: 50px">
