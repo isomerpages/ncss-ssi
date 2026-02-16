@@ -9,8 +9,8 @@ notification: Please beware of fraudulent websites falsely claiming to be linked
   to or represent SSI. Read our <a target="_blank"
   href="https://www.ncss.gov.sg/about-us/our-media-centre/announcements-and-advisories/scam-advisory">scam
   advisory</a> for more details.&nbsp; <br><br> iLTMS is undergoing maintenance
-  from 22:00 on 5 February 2026 to 07:00 on 6 February 2026. You may experience
-  downtime during the <a target="_blank"
+  from 22:00 on 19 February 2026 to 07:00 on 21 February 2026. You may
+  experience downtime during the <a target="_blank"
   href="https://www.ssi.gov.sg/maintenance-schedule">scheduled maiantenance
   period</a>.
 sections:
