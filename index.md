@@ -55,7 +55,7 @@ sections:
         everyday life. 100% of your donation goes towards supporting the
         communities in need.
       button: Learn More
-      url: https://www.comchest.gov.sg/our-products/change-for-charity/home
+      url: https://www.comchest.gov.sg/OurInitiatives/ChangeforCharity
       image: /images/homepage/cfc.png
       alt: Change for Charity text logo
   - infopic:
