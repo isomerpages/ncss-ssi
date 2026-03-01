@@ -9,8 +9,8 @@ notification: Please beware of fraudulent websites falsely claiming to be linked
   to or represent SSI. Read our <a target="_blank"
   href="https://www.ncss.gov.sg/about-us/our-media-centre/announcements-and-advisories/scam-advisory">scam
   advisory</a> for more details.&nbsp; <br><br> iLTMS is undergoing maintenance
-  from 22:00 on 26 February 2026 to 07:00 on 28 February 2026. You may
-  experience downtime during the <a target="_blank"
+  from 22:00 on 5 March 2026 to 07:00 on 6 Marc 2026. You may experience
+  downtime during the <a target="_blank"
   href="https://www.ssi.gov.sg/maintenance-schedule">scheduled maintenance
   period</a>.
 sections:
@@ -55,7 +55,7 @@ sections:
         everyday life. 100% of your donation goes towards supporting the
         communities in need.
       button: Learn More
-      url: https://www.comchest.gov.sg/our-products/change-for-charity/home
+      url: https://www.comchest.gov.sg/OurInitiatives/ChangeforCharity
       image: /images/homepage/cfc.png
       alt: Change for Charity text logo
   - infopic:
