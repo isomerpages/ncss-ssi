@@ -41,8 +41,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 821.328px;" height="auto" width="100%" alt="Students cheering with raised fists with the text Cross Sector" src="https://www.ssi.gov.sg/images/training/cross-sector-v2.png">
 </div>
-<h4>Understanding the Social Service Sector</h4>
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCET6-M" rel="noopener nofollow" target="_blank">Register by 3 March 2026</a></strong>
+<h4>Getting Started in the Social Service Sector</h4>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0196" rel="noopener nofollow" target="_blank"><u>Registration is open throughout the year</u></a></strong>
 <br><a href="https://www.ssi.gov.sg/training/cross-sector/" rel="noopener nofollow" target="_blank">View other Cross Sector courses</a>
 </p>
 </td>
@@ -52,8 +52,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Parents and their son playing on a beach, illustrating the Children, Youth &amp; Family" src="/images/training/cyf-v2.png">
 </div>
-<h4>Inhale Insights: Understanding Youth Vaping</h4>
-<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0160" rel="noopener nofollow" target="_blank">Registration is open throughout the year</a></strong>
+<h4>Structured Decision Making – Vulnerable Adult Reporting Guide (VARG)</h4>
+<p><strong><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0166" rel="noopener nofollow" target="_blank">Registration is open throughout the year</a></strong>
 <br><a href="https://www.ssi.gov.sg/training/cyandf/" rel="noopener noreferrer nofollow" target="\_blank"><u>View other Children, Youth and Family courses</u></a>
 </p>
 </td>
