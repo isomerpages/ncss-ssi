@@ -24,6 +24,16 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5491" rel="noopener nofollow" target="_blank">Cultural Competency: Engaging with and Bridging Across Differences</a>  <em>- TGS-2020500625</em>
+<br><strong>Register by 16 April 2026</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0098" rel="noopener nofollow" target="_blank">Evaluate a Social Service Programme </a>
+<br><strong>Register by 22 April 2026</strong>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0170" rel="noopener nofollow" target="_blank"><u>Empowerment E-module</u></a>
 </p>
 </li>
