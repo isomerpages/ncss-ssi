@@ -66,13 +66,15 @@ variant: tiptap
 <h3>Crisis Prevention Institute (CPI®) Programme</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF503" rel="noopener nofollow" target="_blank">CPI Safety Intervention™ Foundation Programme</a><em>- TGS-2025053709</em>
-<br><strong>Register by 22 January 2026</strong>
-</p>
+<p></p>
 </li>
 </ul>
 <h3>Instructor Certification Programmes</h3>
 <ul data-tight="true" class="tight">
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF503" rel="noopener nofollow" target="_blank">CPI Safety Intervention™ Foundation Programme</a><em>- TGS-2025053709</em>
+</p>
+</li>
 <li>
 <p><a href="https://www.ssi.gov.sg/cpi-train-the-trainer-certification/" rel="noopener nofollow" target="_blank">CPI Safety Intervention™ Foundation 3-day ICP</a>
 </p>
