@@ -12,25 +12,15 @@ variant: tiptap
 <h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.ssi.gov.sg/training/cet-programmes/advance-certificate-in-supported-employment/" rel="noopener nofollow" target="_blank">Advanced Certificate in Supported Employment (ACSE)</a>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS47" rel="noopener nofollow" target="_blank">Module 2: Basic Counselling Skills and Practice for Job Coaches</a>  <em>- TGS-2020501623</em>
-<br><strong>Register by 3 February 2026</strong>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0136" rel="noopener nofollow" target="_blank">Early Intervention Principles, Practices and Interventions</a>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS49" rel="noopener nofollow" target="_blank">Module 4: Conflict, Leadership and People Management</a>  <em>- TGS-2020501318</em>
-<br><strong>Register by 10 February 2026</strong>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0157" rel="noopener nofollow" target="_blank">Introduction to Reflective and Reflexive Practices</a>
 </p>
-</li>
-</ul>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0119" rel="noopener nofollow" target="_blank">Introduction to Care for Adults with Developmental Disabilities Presenting with Behavioural Problems and Mental Health Issues</a>
-</p>
-<p><strong>Register by 3 February 2026</strong>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0194" rel="noopener nofollow" target="_blank">Mastering Observation and Documentation in Early Intervention Practice</a>
 </p>
 </li>
 <li>
@@ -47,8 +37,15 @@ capabilities of job coaches in providing employment and employability support
 for persons with disabilities.</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS47" rel="noopener nofollow" target="_blank">Module 2: Basic Counselling Skills and Practice for Job Coaches</a>  <em>- TGS-2020501623</em>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS48" rel="noopener nofollow" target="_blank">Module 3: Introduction to Case Management</a><em> - TGS-2020500820 </em>
-<br>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS49" rel="noopener nofollow" target="_blank">Module 4: Conflict, Leadership and People Management</a>  <em>- TGS-2020501318</em>
 </p>
 </li>
 </ul>
@@ -64,6 +61,10 @@ for persons with disabilities.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS211" rel="noopener nofollow" target="_blank">Independent Travel Training for Professionals Supporting Persons with Disabilities</a><em> - TGS-2020502149</em>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0119" rel="noopener nofollow" target="_blank">Introduction to Care for Adults with Developmental Disabilities Presenting with Behavioural Problems and Mental Health Issues</a>
 </p>
 </li>
 <li>

@@ -12,27 +12,11 @@ variant: tiptap
 <h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0151" rel="noopener nofollow" target="_blank">Ethical Considerations when Interacting with Children</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0152" rel="noopener nofollow" target="_blank">Ethical Considerations when Interacting with Youth</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0160" rel="noopener nofollow" target="_blank">Inhale Insights: Understanding Youth Vaping</a>
-</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0166" rel="noopener nofollow" target="_blank">Structured Decision Making – Vulnerable Adult Reporting Guide (VARG)</a>
 </p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0165" rel="noopener nofollow" target="_blank">Structured Decision Making – Vulnerable Adult Screening Guide (VASG)</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0120" rel="noopener nofollow" target="_blank">Family-based Casework Training for Family Service Centres (Mobile E-Learning)</a>
 </p>
 </li>
 </ul>
@@ -44,6 +28,18 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/Registration/schedule?coursecode=SCYF434" rel="noopener noreferrer nofollow" target="_blank">Child Abuse Reporting Guide</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0151" rel="noopener nofollow" target="_blank">Ethical Considerations when Interacting with Children</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0152" rel="noopener nofollow" target="_blank">Ethical Considerations when Interacting with Youth</a>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0160" rel="noopener nofollow" target="_blank">Inhale Insights: Understanding Youth Vaping</a>
 </p>
 </li>
 <li>
@@ -63,16 +59,12 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h3>Crisis Prevention Institute (CPI®) Programme</h3>
+<h3>Instructor Certification Programmes</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF503" rel="noopener nofollow" target="_blank">CPI Safety Intervention™ Foundation Programme</a><em>- TGS-2025053709</em>
-<br><strong>Register by 22 January 2026</strong>
 </p>
 </li>
-</ul>
-<h3>Instructor Certification Programmes</h3>
-<ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.ssi.gov.sg/cpi-train-the-trainer-certification/" rel="noopener nofollow" target="_blank">CPI Safety Intervention™ Foundation 3-day ICP</a>
 </p>
@@ -103,6 +95,10 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5936" rel="noopener nofollow" target="_blank">Family &amp; Adult Support Tool (FAST) - User</a><em> - TGS-2020500870</em>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0120" rel="noopener nofollow" target="_blank">Family-based Casework Training for Family Service Centres (Mobile E-Learning)</a>
 </p>
 </li>
 <li>
