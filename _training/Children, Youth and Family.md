@@ -12,6 +12,11 @@ variant: tiptap
 <h3>Registration now open</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5502" rel="noopener nofollow" target="_blank">Management of Family Violence: Talking to Children &amp; Managing Abuse-related Disclosure</a>  <em>- TGS-2020500754</em>
+<br><strong>Register by 7 May 2026</strong>
+</p>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0166" rel="noopener nofollow" target="_blank">Structured Decision Making – Vulnerable Adult Reporting Guide (VARG)</a>
 </p>
 </li>
