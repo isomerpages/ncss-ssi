@@ -55,6 +55,7 @@ youth, adults and seniors.</p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS28" rel="noopener noreferrer nofollow" target="_blank">Professional Certificate in Group Work</a>
+<br><strong>Register by 6 June 2026</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -63,7 +64,7 @@ youth, adults and seniors.</p>
 </li>
 <li>
 <p>Module 2: Group Work Intervention <em>- TGS-2020503305</em>
-<br><strong>Register by 6 June 2026</strong>
+<br>
 </p>
 </li>
 </ul>
