@@ -64,7 +64,6 @@ youth, adults and seniors.</p>
 </li>
 <li>
 <p>Module 2: Group Work Intervention <em>- TGS-2020503305</em>
-<br>
 </p>
 </li>
 </ul>
