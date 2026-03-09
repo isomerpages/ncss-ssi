@@ -41,7 +41,7 @@ for persons with disabilities.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS48" rel="noopener nofollow" target="_blank">Module 3: Introduction to Case Management</a><em> - TGS-2020500820 </em>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SDIS48" rel="noopener nofollow" target="_blank">Module 3: Introduction to Case Management</a><em> - TGS-2020500820</em>
 </p>
 </li>
 <li>
