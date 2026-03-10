@@ -34,6 +34,41 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0100" rel="noopener nofollow" target="_blank">Inclusive Training Series: Understanding and Working with People in Diverse Groups</a>
+<br><strong>Register by 11 May 2026</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCET102" rel="noopener nofollow" target="_blank">Certificate in Para-Counselling in Community Settings</a><em> - TGS-2022013234</em>
+<br><strong>Register by 18 May 2026</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5725" rel="noopener noreferrer nofollow" target="_blank">Motivational Interviewing: An Introduction for Social Service Practitioners</a>  <em>- TGS-2020500646</em>
+<br><strong>Register by 28 May 2026</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SMTH93" rel="noopener nofollow" target="_blank">Applying Self-Care Techniques for Social Service Professionals</a>
+<br><strong>Register by 29 May 2026</strong>
+</p>
+</li>
+<li>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS28" rel="noopener noreferrer nofollow" target="_blank">Professional Certificate in Group Work</a>
+<br><strong>Register by 6 June 2026</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Module 1: Group Work Assessment and Planning<em> - TGS-2020503304</em>
+</p>
+</li>
+<li>
+<p>Module 2: Group Work Intervention <em>- TGS-2020503305</em>
+</p>
+</li>
+</ul>
+</li>
+<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0170" rel="noopener nofollow" target="_blank"><u>Empowerment E-module</u></a>
 </p>
 </li>
@@ -46,10 +81,6 @@ youth, adults and seniors.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0034" rel="noopener nofollow" target="_blank">Apply Research Findings and Trends Into Social Service Delivery</a><em>- TGS-2022017198</em>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SMTH93" rel="noopener nofollow" target="_blank">Applying Self-Care Techniques for Social Service Professionals</a>
 </p>
 </li>
 <li>
@@ -97,19 +128,11 @@ youth, adults and seniors.</p>
 </p>
 </li>
 <li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0100" rel="noopener nofollow" target="_blank">Inclusive Training Series: Understanding and Working with People in Diverse Groups</a>
-</p>
-</li>
-<li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SSI0105" rel="noopener nofollow" target="_blank">Leading An Effective Case Management Team </a><em>- TGS-2025053679</em>
 </p>
 </li>
 <li>
 <p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS5647" rel="noopener nofollow" target="_blank">May I Help You? (Boleh Saya Bantu Anda?) - Conversational Malay for Social Service Practitioners</a>
-</p>
-</li>
-<li>
-<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCYF5725" rel="noopener noreferrer nofollow" target="_blank">Motivational Interviewing: An Introduction for Social Service Practitioners</a>  <em>- TGS-2020500646</em>
 </p>
 </li>
 <li>
@@ -170,7 +193,7 @@ youth, adults and seniors.</p>
 </ul>
 </li>
 <li>
-<p><a href="/training/cet-programmes/professional-certificate-in-group-work/" rel="noopener noreferrer nofollow" target="_blank">Professional Certificate in Group Work</a>
+<p><a href="https://iltms.ssi.gov.sg/registration/schedule?coursecode=SCRS28" rel="noopener noreferrer nofollow" target="_blank">Professional Certificate in Group Work</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
