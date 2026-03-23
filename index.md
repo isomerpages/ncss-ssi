@@ -5,14 +5,15 @@ description: The Social Service Institute (SSI) is a CET centre that supports
   the training needs of the social service sector.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Please beware of fraudulent websites falsely claiming to be linked
-  to or represent SSI. Read our <a target="_blank"
+notification: 'Please beware of fraudulent websites falsely claiming to be
+  linked to or represent SSI. Read our <a target="_blank"
   href="https://www.ncss.gov.sg/about-us/our-media-centre/announcements-and-advisories/scam-advisory">scam
-  advisory</a> for more details.&nbsp; <br><br> iLTMS is undergoing maintenance
-  from 22:00 on 19 March 2026 to 07:00 on 21 March 2026. You may experience
-  downtime during the <a target="_blank"
-  href="https://www.ssi.gov.sg/maintenance-schedule">scheduled maintenance
-  period</a>.
+  advisory</a> for more details.&nbsp; <br><br> Scheduled Upgrade: All SSI
+  portals will be unavailable from&nbsp;10 April 2026, 00:00 to&nbsp;20 April
+  2026, 08:59 for the&nbsp;iLTMS&nbsp;2.0 upgrade. Please refer to the <a
+  target="_blank" href="https://www.ssi.gov.sg/maintenance-schedule">scheduled
+  maintenance period</a> for more details. For urgent matters, please&nbsp;<a
+  target="_blank" href="https://www.ssi.gov.sg/contact-us/">contact us</a>.'
 sections:
   - hero:
       title: Social Service Institute
