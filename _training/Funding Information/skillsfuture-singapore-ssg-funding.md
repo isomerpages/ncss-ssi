@@ -115,7 +115,7 @@ Residents can apply for <a href="https://skillsfuture.gobusiness.gov.sg/e-servic
 <p>WSS encourages low wage workers to undertake training that leads to more
 impactful employment outcomes. Find out more about the <a href="https://www.wsg.gov.sg/programmes-and-initiatives/workfare-skills-support-scheme-individuals.html" rel="noopener noreferrer nofollow" target="_blank">Workfare Skills Support</a>.</p>
 <h4>Enhanced Training Support for SMEs (ETS)</h4>
-<p><a href="https://www.skillsfuture.gov.sg/initiatives/employers/enhanced-training-support-for-smes" rel="noopener nofollow" target="_blank">Enhanced Training Support for SMEs (ETS)</a> offers
+<p><a href="https://skillsfuture.gobusiness.gov.sg/support-and-programmes/funding/enhanced-training-subsidies-smes-etss" rel="noopener nofollow" target="_blank">Enhanced Training Support for SMEs (ETS)</a> offers
 additional support for SMEs in the form of higher course fee subsidies.</p>
 <h4>SkillsFuture Mid-career Enhanced Subsidy</h4>
 <p>The SkillsFuture Mid-Career Enhanced Subsidy supports and encourages lifelong
